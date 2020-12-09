@@ -6,12 +6,14 @@ library(here)
 #Spelling
 library(hunspell)
 library(tidytext)
-library()
+library(stringi)
 
 #Lemmas
 library(koRpus)
 library(koRpus.lang.en)
 library(tokenizers)
+library(textstem)
+library(udpipe)
 
 #stopwords
 library(stopwords)
@@ -25,7 +27,7 @@ dat = master[ , -c(2:4, 6:7, 9:11, 14:17, 19, 22:24, 26:27, 30:32,34)]
 #useful column names
 colnames(dat)[12] = "affordance_response"
 
-####Clean the data####
+####Fix Spelling and Remove White Space####
 ##normalize all responses to lowercase
 dat$affordance_response = tolower(dat$affordance_response)
 
@@ -57,8 +59,56 @@ spelling.sugg = tolower(spelling.sugg)
 spelling.sugg = as.list(spelling.sugg)
 
 spelling.dict = as.data.frame(cbind(spelling.errors, spelling.sugg))
-spelling.dict$spelling.pattern <-paste0("\\b", spelling.dict$spelling.errors, "\\b")
+spelling.dict$spelling.pattern = paste0("\\b", spelling.dict$spelling.errors, "\\b")
 
-#write spelling dictionary to .csv
-#write.csv(spelling.dict, file = "spelling.dict.csv", row.names = F)
+##Remove white space from responses
+#Parse affordances
+tokens = unnest_tokens(tbl = dat, output = token,
+                        input = affordance_response, token = stringr::str_split,
+                        pattern = " |\\, |\\.|\\,|\\;")
 
+tokens$token = trimws(tokens$token,
+                       which = c("both", "left", "right"),
+                       whitespace = "[ \t\r\n]")
+
+#Remove empty affordance responses
+tokens = tokens[!tokens$token == "", ]
+
+#replace misspelled words w/ corrected
+tokens$corrected = stri_replace_all_regex(str = tokens$token,
+                                           pattern = spelling.dict$spelling.pattern,
+                                           replacement = spelling.dict$spelling.sugg,
+                                           vectorize_all = FALSE)
+
+#Fix column names
+colnames(tokens)[12:13] = c("affordance", "affordance_corrected")
+
+##Write spelled checked data to .csv
+write.csv(tokens, file = "spell_checked.csv", row.names = F)
+
+####Lemmatization####
+dat = read.csv("spell_checked.csv", stringsAsFactors = F)
+
+#extract updated tokens
+tokens = unnest_tokens(tbl = dat, output = word, input = affordance_corrected)
+cuelist = unique(tokens$Stimuli.Cue)
+
+##okay, I think this does what I want.
+dat$affordance_lemma = lemmatize_strings(dat$affordance_corrected)
+
+##Treetagger would probably be better, but I can't get it to work, will try and get back to this though.
+##Treetagger also pulls part of speech, which would be nice to have.
+
+##what about udpipe?
+#Example
+x <- c(doc_a = "In our last meeting, someone said that we are meeting again tomorrow",
+       doc_b = "It's better to be good at being the best")
+anno <- udpipe(x, "english")
+anno[, c("doc_id", "sentence_id", "token", "lemma", "upos")]
+
+##Oooh, I like this as an alternative to treetagger.
+#does it work on vectors?
+#lematized = udpipe(dat$affordance_corrected, "english")
+
+#It does, but there are a few issues. Mainly it ended up with extra tokens somehow
+#Get only the overlapping tokens.

@@ -24,7 +24,7 @@ library(udpipe)
 library(stopwords)
 
 ##read in data
-master = read.csv("merged_12_8.csv", stringsAsFactors = F)
+master = read.csv("merged_5_14.csv", stringsAsFactors = F)
 
 ##drop unused column
 dat = master[ , -c(2:4, 6:7, 9:11, 14:17, 19, 22:24, 26:27, 30:32,34)]
@@ -56,7 +56,7 @@ spelling.sugg = unlist(lapply(spelling.sugg, function(x) x[1]))
 spell_check = cbind(spelling.sugg, spelling.errors)
 
 #Write to file and manually confirm
-#write.csv(spell_check, file = "spell_check.csv", row.names = F)
+write.csv(spell_check, file = "spell_check.csv", row.names = F)
 
 #read back in the checked output
 spell_check = read.csv("spell_check.csv", stringsAsFactors = F)
@@ -92,7 +92,7 @@ tokens$corrected = stri_replace_all_regex(str = tokens$token,
 colnames(tokens)[12:13] = c("affordance", "affordance_corrected")
 
 ##Write spelled checked data to .csv
-#write.csv(tokens, file = "spell_checked.csv", row.names = F)
+write.csv(tokens, file = "spell_checked.csv", row.names = F)
 
 ####Lemmatization####
 dat = read.csv("spell_checked.csv", stringsAsFactors = F)
@@ -130,7 +130,6 @@ dat$affordance_lemma = lemmatize_strings(dat$affordance_corrected)
 
 #Stop words also mess it up. Remove stop words here:
 #Now I need to remove punctuation/weirdness
-temp = data.frame(table(no_stop$affordance_corrected)) #If you View temp, you can see that there's parenthesis, puncation, weird spaces, etc.
 
 ##Remove stop words
 no_stop = dat %>%
@@ -139,21 +138,31 @@ no_stop = dat %>%
   filter(!grepl("[[:digit:]]+", affordance_corrected)) %>% #remove numbers
   filter(!is.na(affordance_corrected))
 
+temp = data.frame(table(no_stop$affordance_corrected)) #If you View temp, you can see that there's parenthesis, puncation, weird spaces, etc.
+
 #remove extra spaces
 no_stop$affordance_corrected = gsub(" ", "", no_stop$affordance_corrected)
 
 #Remove 's
 no_stop$affordance_corrected = gsub("'s", "", no_stop$affordance_corrected)
 
+#Remove 't
+no_stop$affordance_corrected = gsub("'t", "t", no_stop$affordance_corrected)
+
 #Remove any stopwords that might have been generated in lines 139/142
 no_stop = no_stop %>%
   filter(!affordance_corrected %in% stopwords(language = "en", source = "snowball"))
 
+##Write to .csv for lemmatization w/ Python
+#write.csv(no_stop, file = "cleaned_5_17_21.csv", row.names = F)
+
+####Lemmatize w/ R####
+##Having some issues w/ this, using Python instead. Code is included though in case I ever get this working.
 #Lemmatize! (This gives a second set of lemmas using a different algorithm. Also provides part of speech info)
 lemmatized = udpipe(no_stop$affordance_corrected, "english")
 
 #If lemmatized and no_stop don't match up perfectly, can use the code below to see where the differences are
-#lemmatized$token[!lemmatized$token %in% no_stop$affordance_corrected] #Then just tweak the character removal process above as needed
+lemmatized$token[!lemmatized$token %in% no_stop$affordance_corrected] #Then just tweak the character removal process above as needed
 
 ##Combine datasets and add in second set of Lemmas, part of speech info
 combined = cbind(no_stop, lemmatized[ , c(10:11, 13)])
@@ -182,4 +191,4 @@ combined$Lemma_1[combined$Lemma_1 == "spin-dry"] = "dry"
 combined = combined[ , -c(12, 15)]
 
 ##Write to .csv
-#write.csv(combined, file = "Cleaned_2_5_21.csv", row.names = F)
+write.csv(combined, file = "Cleaned_5_14_21.csv", row.names = F)

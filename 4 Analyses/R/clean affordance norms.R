@@ -24,7 +24,7 @@ library(udpipe)
 library(stopwords)
 
 ##read in data
-master = read.csv("merged_5_14.csv", stringsAsFactors = F)
+master = read.csv("0-Data/merged_9_19.csv", stringsAsFactors = F)
 
 ##drop unused column
 dat = master[ , -c(2:4, 6:7, 9:11, 14:17, 19, 22:24, 26:27, 30:32,34)]
@@ -34,6 +34,9 @@ colnames(dat)[12] = "affordance_response"
 
 #Check for NAs
 table(is.na(dat$affordance_response))
+
+#remove nas
+dat = na.omit(dat)
 
 ####Fix Spelling and Remove White Space####
 ##normalize all responses to lowercase
@@ -126,7 +129,7 @@ dat$affordance_lemma = lemmatize_strings(dat$affordance_corrected)
 #Okay, looks like some spaces get reintroduced line 82 when fixing spelling (e.g., "peprally" got turned back into "pep rally") 
 
 #remove spaces from the middle of words
-#dat$affordance_corrected = stringr::str_remove_all(dat$affordance_corrected, " ")
+dat$affordance_corrected = stringr::str_remove_all(dat$affordance_corrected, " ")
 
 #Stop words also mess it up. Remove stop words here:
 #Now I need to remove punctuation/weirdness
@@ -154,12 +157,12 @@ no_stop = no_stop %>%
   filter(!affordance_corrected %in% stopwords(language = "en", source = "snowball"))
 
 ##Write to .csv for lemmatization w/ Python
-#write.csv(no_stop, file = "cleaned_5_17_21.csv", row.names = F)
+#write.csv(no_stop, file = "cleaned_9_19_21.csv", row.names = F)
 
 ####Lemmatize w/ R####
 ##Having some issues w/ this, using Python instead. Code is included though in case I ever get this working.
 #Lemmatize! (This gives a second set of lemmas using a different algorithm. Also provides part of speech info)
-lemmatized = udpipe(no_stop$affordance_corrected, "english")
+#lemmatized = udpipe(no_stop$affordance_corrected, "english")
 
 #If lemmatized and no_stop don't match up perfectly, can use the code below to see where the differences are
 lemmatized$token[!lemmatized$token %in% no_stop$affordance_corrected] #Then just tweak the character removal process above as needed

@@ -1,4 +1,4 @@
-##This code is adopted from Buchanan et al. 2019's primer on processing feature production norms
+##This code is adapted from Buchanan et al. 2019's primer on processing feature production norms
 #https://link.springer.com/article/10.1007/s10339-019-00939-6
 
 ####Set up####
@@ -24,13 +24,46 @@ library(udpipe)
 library(stopwords)
 
 ##read in data
-master = read.csv("0-Data/merged_9_19.csv", stringsAsFactors = F)
+master = read.csv("0-Data/combined_data_3_16_22.csv", stringsAsFactors = F)
 
-##drop unused column
-dat = master[ , -c(2:4, 6:7, 9:11, 14:17, 19, 22:24, 26:27, 30:32,34)]
+##only keep the columns we need
+dat = master[ , c(1, 5, 11, 13, 19, 33, 35)]
 
 #useful column names
-colnames(dat)[12] = "affordance_response"
+colnames(dat)[6] = "affordance_response"
+
+#make blank cells NA
+dat$affordance_response[dat$affordance_response == ""] = NA
+dat$affordance_response[dat$affordance_response == "n/a"] = NA
+
+##normalize all responses to lowercase
+dat$affordance_response = tolower(dat$affordance_response)
+
+#get rid of the don't knows
+dat$affordance_response[dat$affordance_response == "idk"] = NA
+dat$affordance_response[dat$affordance_response == " idk"] = NA
+dat$affordance_response[dat$affordance_response == "idk what this is"] = NA
+dat$affordance_response[dat$affordance_response == "idk what that is"] = NA
+dat$affordance_response[dat$affordance_response == "im sorry idk what this is either"] = NA
+dat$affordance_response[dat$affordance_response == "idk what it is"] = NA
+dat$affordance_response[dat$affordance_response == "idk its a person"] = NA
+dat$affordance_response[dat$affordance_response == "don't know what that is"] = NA
+dat$affordance_response[dat$affordance_response == "i don't know what that is"] = NA
+dat$affordance_response[dat$affordance_response == "don't know what this is"] = NA
+dat$affordance_response[dat$affordance_response == "i don't know what this is"] = NA
+dat$affordance_response[dat$affordance_response == "i don't know"] = NA
+dat$affordance_response[dat$affordance_response == "don't know"] = NA
+dat$affordance_response[dat$affordance_response == "i don't know what a sawdust is"] = NA
+dat$affordance_response[dat$affordance_response == "i don't know what a chronograph is"] = NA
+dat$affordance_response[dat$affordance_response == "i don't know what it is"] = NA
+dat$affordance_response[dat$affordance_response == "don't know word"] = NA
+dat$affordance_response[dat$affordance_response == "i dont knwo"] = NA
+dat$affordance_response[dat$affordance_response == "i dont know"] = NA
+dat$affordance_response[dat$affordance_response == "i dont know what this means"] = NA
+dat$affordance_response[dat$affordance_response == "i dont know what this is"] = NA
+dat$affordance_response[dat$affordance_response == "i dont know what that is"] = NA
+dat$affordance_response[dat$affordance_response == "dont know"] = NA
+dat$affordance_response[dat$affordance_response == "dont know what that is"] = NA
 
 #Check for NAs
 table(is.na(dat$affordance_response))
@@ -39,12 +72,15 @@ table(is.na(dat$affordance_response))
 dat = na.omit(dat)
 
 ####Fix Spelling and Remove White Space####
-##normalize all responses to lowercase
-dat$affordance_response = tolower(dat$affordance_response)
-
 ##Spelling
 #Extract a list of words
-tokens = unnest_tokens(tbl = dat, output = token, input = affordance_response)
+#tokens = unnest_tokens(tbl = dat, output = token, input = affordance_response)
+
+parsed_afforances = unnest_tokens(tbl = dat, output = parsed,
+                       input = affordance_response, token = "regex",
+                       pattern = ", ")
+
+
 wordlist = unique(tokens$token)
 
 #Run the spell check
@@ -72,11 +108,13 @@ spelling.sugg = as.list(spelling.sugg)
 spelling.dict = as.data.frame(cbind(spelling.errors, spelling.sugg))
 spelling.dict$spelling.pattern = paste0("\\b", spelling.dict$spelling.errors, "\\b")
 
+##How to use spelling dictionary to overwrite mispellings in dat?
+
 ##Remove white space from responses
 #Parse affordances
-tokens = unnest_tokens(tbl = dat, output = token,
-                        input = affordance_response, token = stringr::str_split,
-                        pattern = " |\\, |\\.|\\,|\\;")
+#tokens = unnest_tokens(tbl = dat, output = token,
+       #                 input = affordance_response, token = stringr::str_split,
+      #                  pattern = " |\\, |\\.|\\,|\\;")
 
 tokens$token = trimws(tokens$token,
                        which = c("both", "left", "right"),

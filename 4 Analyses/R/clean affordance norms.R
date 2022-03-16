@@ -39,31 +39,7 @@ dat$affordance_response[dat$affordance_response == "n/a"] = NA
 ##normalize all responses to lowercase
 dat$affordance_response = tolower(dat$affordance_response)
 
-#get rid of the don't knows
-dat$affordance_response[dat$affordance_response == "idk"] = NA
-dat$affordance_response[dat$affordance_response == " idk"] = NA
-dat$affordance_response[dat$affordance_response == "idk what this is"] = NA
-dat$affordance_response[dat$affordance_response == "idk what that is"] = NA
-dat$affordance_response[dat$affordance_response == "im sorry idk what this is either"] = NA
-dat$affordance_response[dat$affordance_response == "idk what it is"] = NA
-dat$affordance_response[dat$affordance_response == "idk its a person"] = NA
-dat$affordance_response[dat$affordance_response == "don't know what that is"] = NA
-dat$affordance_response[dat$affordance_response == "i don't know what that is"] = NA
-dat$affordance_response[dat$affordance_response == "don't know what this is"] = NA
-dat$affordance_response[dat$affordance_response == "i don't know what this is"] = NA
-dat$affordance_response[dat$affordance_response == "i don't know"] = NA
-dat$affordance_response[dat$affordance_response == "don't know"] = NA
-dat$affordance_response[dat$affordance_response == "i don't know what a sawdust is"] = NA
-dat$affordance_response[dat$affordance_response == "i don't know what a chronograph is"] = NA
-dat$affordance_response[dat$affordance_response == "i don't know what it is"] = NA
-dat$affordance_response[dat$affordance_response == "don't know word"] = NA
-dat$affordance_response[dat$affordance_response == "i dont knwo"] = NA
-dat$affordance_response[dat$affordance_response == "i dont know"] = NA
-dat$affordance_response[dat$affordance_response == "i dont know what this means"] = NA
-dat$affordance_response[dat$affordance_response == "i dont know what this is"] = NA
-dat$affordance_response[dat$affordance_response == "i dont know what that is"] = NA
-dat$affordance_response[dat$affordance_response == "dont know"] = NA
-dat$affordance_response[dat$affordance_response == "dont know what that is"] = NA
+source("remove idk.R")
 
 #Check for NAs
 table(is.na(dat$affordance_response))
@@ -81,7 +57,7 @@ parsed_afforances = unnest_tokens(tbl = dat, output = parsed,
                        pattern = ", ")
 
 
-wordlist = unique(tokens$token)
+wordlist = unique(parsed_afforances$parsed)
 
 #Run the spell check
 spelling.errors = hunspell(wordlist)
@@ -95,7 +71,7 @@ spelling.sugg = unlist(lapply(spelling.sugg, function(x) x[1]))
 spell_check = cbind(spelling.sugg, spelling.errors)
 
 #Write to file and manually confirm
-write.csv(spell_check, file = "spell_check.csv", row.names = F)
+write.csv(spell_check, file = "spell_check_raw.csv", row.names = F)
 
 #read back in the checked output
 spell_check = read.csv("spell_check.csv", stringsAsFactors = F)

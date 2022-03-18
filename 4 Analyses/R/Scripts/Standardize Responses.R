@@ -94,3 +94,130 @@ no_stop_key = no_stop_final[ , c(4, 10)]
 ud_out$key = substring(ud_out$doc_id, 4)
 
 merged = merge(ud_out, no_stop_key, "key")
+
+##figure out what to drop
+table(merged$upos)
+
+merged = subset(merged,
+                merged$upos != "PUNCT")
+merged = subset(merged,
+                merged$upos != "PART")
+merged = subset(merged,
+                merged$upos != "NUM")
+merged = subset(merged,
+                merged$upos != "PRON")
+merged = subset(merged,
+                merged$upos != "SCONJ")
+merged = subset(merged,
+                merged$upos != "ADV")
+merged = subset(merged,
+                merged$upos != "ADP")
+
+##remove cans, woulds, shoulds, coulds, etc.
+merged = subset(merged,
+                merged$lemma !="can")
+merged = subset(merged,
+                merged$lemma !="would")
+merged = subset(merged,
+                merged$lemma !="could")
+merged = subset(merged,
+                merged$lemma !="have")
+merged = subset(merged,
+                merged$lemma !="should")
+merged = subset(merged,
+                merged$lemma !="a")
+merged = subset(merged,
+                merged$lemma !="of")
+merged = subset(merged,
+                merged$lemma !="the")
+merged = subset(merged,
+                merged$lemma !="can")
+merged = subset(merged,
+                merged$lemma !="who")
+merged = subset(merged,
+                merged$lemma !="what")
+merged = subset(merged,
+                merged$lemma !="where")
+merged = subset(merged,
+                merged$lemma !="'s")
+merged = subset(merged,
+                merged$lemma !="be")
+merged = subset(merged,
+                merged$lemma !="do")
+merged = subset(merged,
+                merged$lemma !="get")
+merged = subset(merged,
+                merged$lemma !="may")
+merged = subset(merged,
+                merged$lemma !="maybe")
+merged = subset(merged,
+                merged$lemma !="will")
+
+#remove other weirdness
+merged = subset(merged,
+                merged$lemma !="roor")
+merged = subset(merged,
+                merged$lemma !="dino")
+merged = subset(merged,
+                merged$lemma !="ok")
+merged = subset(merged,
+                merged$lemma !="no")                
+merged = subset(merged,
+                merged$lemma !="okay")
+merged = subset(merged,
+                merged$lemma !="yes")
+merged = subset(merged,
+                merged$lemma !="any")
+merged = subset(merged,
+                merged$lemma !="every")
+merged = subset(merged,
+                merged$lemma !="all")
+merged = subset(merged,
+                merged$lemma !="this")
+merged = subset(merged,
+                merged$lemma !="some")
+merged = subset(merged,
+                merged$lemma !="that")
+merged = subset(merged,
+                merged$lemma !="those")
+merged = subset(merged,
+                merged$lemma !="quite")
+merged = subset(merged,
+                merged$lemma !="each")
+merged = subset(merged,
+                merged$lemma !="oto")
+merged = subset(merged,
+                merged$lemma !="other")
+merged = subset(merged,
+                merged$lemma !="another")
+merged = subset(merged,
+                merged$lemma !="both")
+
+#keep it going
+table(merged$upos)
+
+merged = subset(merged,
+                merged$lemma !="sandwhic")
+merged = subset(merged,
+                merged$lemma !="anti")
+merged = subset(merged,
+                merged$lemma !="stuff")
+merged = subset(merged,
+                merged$lemma !="s")
+merged = subset(merged,
+                merged$lemma !="semi")
+merged = subset(merged,
+                merged$lemma !="non")
+merged = subset(merged,
+                merged$lemma !="and")
+merged = subset(merged,
+                merged$lemma !="or")
+merged = subset(merged,
+                merged$lemma !="but")
+merged = subset(merged,
+                merged$lemma !="thing")
+merged = subset(merged,
+                merged$lemma !="lol")
+
+#fix some misspellings
+merged$lemma[merged$lemma == "headbut"] = "headbutt"

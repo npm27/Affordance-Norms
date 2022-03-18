@@ -26,6 +26,17 @@ no_stop = dat %>%
   filter(!grepl("[[:digit:]]+", cleaned)) %>% #remove numbers
   filter(!is.na(cleaned))
 
+##compound words
+no_stop$cleaned[no_stop$cleaned == "ice cream"] = "icecream"
+no_stop$cleaned[no_stop$cleaned == "make up"] = "makeup"
+no_stop$cleaned[no_stop$cleaned == "thrown away"] = "throwaway"
+no_stop$cleaned[no_stop$cleaned == "throw away"] = "throwaway"
+no_stop$cleaned[no_stop$cleaned == "throwing away"] = "throwaway"
+no_stop$cleaned[no_stop$cleaned == "hi school"] = "highschool"
+no_stop$cleaned[no_stop$cleaned == "high school"] = "highschool"
+no_stop$cleaned[no_stop$cleaned == "high five"] = "highfive"
+no_stop$cleaned[no_stop$cleaned == "hi five"] = "highfive"
+
 ##Now lemmatize
 #extract updated tokens
 tokens = unnest_tokens(tbl = no_stop, output = final_affordance, input = cleaned)
@@ -51,16 +62,35 @@ no_stop_final$final_affordance[no_stop_final$final_affordance == "don't"] = NA
 no_stop_final$final_affordance[no_stop_final$final_affordance == "he's"] = NA
 no_stop_final$final_affordance[no_stop_final$final_affordance == "it's"] = NA
 
+no_stop_final$parsed[no_stop_final$parsed == "n/a"] = NA
+no_stop_final$parsed[no_stop_final$parsed == "hail/call"] = NA
+no_stop_final$parsed[no_stop_final$parsed == "fish/insect food"] = NA
+no_stop_final$parsed[no_stop_final$parsed == "cover/smother"] = NA
+
+no_stop_final$final_affordance[no_stop_final$final_affordance == "buyingselling"] = NA
+no_stop_final$final_affordance[no_stop_final$final_affordance == "boatship"] = NA
+no_stop_final$final_affordance[no_stop_final$final_affordance == "drawingwriting"] = NA
+no_stop_final$final_affordance[no_stop_final$final_affordance == "foodsdesserts"] = NA
+no_stop_final$final_affordance[no_stop_final$final_affordance == "onoff"] = NA
+no_stop_final$final_affordance[no_stop_final$final_affordance == "andor"] = NA
+no_stop_final$final_affordance[no_stop_final$final_affordance == "presentgift"] = NA
+no_stop_final$final_affordance[no_stop_final$final_affordance == "ac"] = NA
+no_stop_final$final_affordance[no_stop_final$final_affordance == "skincaremakeup"] = NA
+no_stop_final$final_affordance[no_stop_final$final_affordance == "picturespicture"] = NA
+
 no_stop_final = na.omit(no_stop_final)
 
 #get the cue items
 cuelist = unique(no_stop_final$Stimuli.Cue)
 
-##okay, I think this does what I want.
-no_stop_final$affordance_lemma = lemmatize_strings(no_stop_final$final_affordance)
+#let's try udpipe one more time
+ud_out = udpipe(no_stop_final$parsed, "english")
 
-#fix weird lemmas
-no_stop_final$affordance_lemma[no_stop_final$affordance_lemma == "spin-dry"] = "dry"
+#figure out how to add cue
+no_stop_final$key = rep(1:nrow(no_stop_final))
 
-##Write to file
-#write.csv(no_stop_final, file = "lemmatized.csv", row.names = F) #Spot check and clean in Excel
+no_stop_key = no_stop_final[ , c(4, 10)]
+
+ud_out$key = substring(ud_out$doc_id, 4)
+
+merged = merge(ud_out, no_stop_key, "key")

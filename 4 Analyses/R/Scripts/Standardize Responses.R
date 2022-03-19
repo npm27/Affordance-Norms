@@ -221,3 +221,6 @@ merged = subset(merged,
 
 #fix some misspellings
 merged$lemma[merged$lemma == "headbut"] = "headbutt"
+
+##take a look in excel
+write.csv(merged, file = "udpipe_3_18.csv", row.names = F)

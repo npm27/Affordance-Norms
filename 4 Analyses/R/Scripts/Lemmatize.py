@@ -6,11 +6,11 @@ import pandas as pd
 ## Load in data
 # Note that the R script cleans and organizes the data (removes stop words, puncuation, etc.)
 # Goal of the py script is to do lemmatization and POS tagging
-dat = pd.read_csv("cleaned_9_19_21.csv", sep = ",", encoding = 'cp1252') #No idea why I had to add this to the end...
+dat = pd.read_csv("lemmatized.csv", sep = ",", encoding = 'cp1252') #No idea why I had to add this to the end...
 
 ## General sequence:
 # going to POS tag FIRST before lemmatizing. That way we can get a more accurate representation of how participants were responding
-x  = pos_tag(dat.affordance_corrected)
+x  = pos_tag(dat.final_affordance)
 x2 = pd.DataFrame(x)
 
 # fix column names
@@ -24,7 +24,7 @@ lemmatizer = WordNetLemmatizer()
 
 temp = []
 
-for word, tag in pos_tag(dat['affordance_corrected']):
+for word, tag in pos_tag(dat['final_affordance']):
     wntag = tag[0].lower()
     wntag = wntag if wntag in ['a', 'r', 'n', 'v'] else None
     
@@ -45,5 +45,6 @@ temp.columns = ["Lemma"]
 
 dat['Lemma'] = temp['Lemma']
 
+
 ##Write to .csv
-#dat.to_csv('Lemmatized 9_19_21.csv', index = False)
+dat.to_csv('Lemmatized 3_18_22.csv', index = False)

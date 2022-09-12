@@ -1,1 +1,1 @@
-Collector 1 (runs 1 - 25)
+Collector 1 and 2 (runs 1 - 50)

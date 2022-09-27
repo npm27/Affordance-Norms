@@ -4,6 +4,7 @@
     <p> In this study, you will be presented with a series of object words. </p>
     <p> You will be asked to list as many possible uses for each object as you can think of. </p>
     <p> It is important that you pay close attention to each object! Please close out of any other open windows/browser tabs! </p>
+    <p> BEFORE STARTING: MAKE SURE TO NOTE WHAT TIME IT IS RIGHT NOW! You will be asked to provide this information at the end of the study! </p>
     <p> Please click advance when you are ready to continue. </p>
 
     <div class="textcenter" id="revealRC">

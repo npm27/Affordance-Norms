@@ -31,7 +31,6 @@
 		 .  '<p>To receive your credit, please click on the following link or copy it into a new browser tab:</p>'
 		 .  '<a href="https://www.surveymonkey.com/r/PsychResearchFall2022">https://www.surveymonkey.com/r/PsychResearchFall2022</a>'
                  .  '<p>You will be asked to provide your name, indicate the study you just completed, and indicate the course in which you want research credit. You will also be asked for the time/date in which you began AND finished the study.'
-                 .      '<a href="mailto:' . $_CONFIG->experimenter_email . '?Subject=Comments%20on%20' . $_CONFIG->experiment_name . '" target="_top">' . $_CONFIG->experimenter_email . '</a>'
                  .  '</p>';
         if ($_CONFIG->mTurk_mode == true) {
             $message .= '<h3>Your verification code is: ' . $_CONFIG->verification . '-' . $_SESSION['ID'] .'</h3>';

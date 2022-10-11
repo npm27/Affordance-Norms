@@ -143,3 +143,15 @@ mean(temp6$RESPONSE_NUM) #average of 8 NOUN responses
 ##Eventually, I'll write a function for this (or a loop or something). But for now... Just going to pick my top three and get percentages
 auto = subset(temp7,
               temp7$CUE == "automobile")
+
+table(auto$RESPONSE.LEMMA)
+
+snow = subset(temp7,
+              temp7$CUE == "snowfall")
+
+table(snow$RESPONSE.LEMMA)
+
+branch = subset(temp7,
+              temp7$CUE == "branch")
+
+table(branch$RESPONSE.LEMMA)

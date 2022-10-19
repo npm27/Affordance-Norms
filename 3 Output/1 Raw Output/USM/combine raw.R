@@ -1,5 +1,5 @@
 ####Combine .csv files into master datasheet####
-setwd("./RAW Batch 2/USM 1")
+setwd("./RAW Batch 3")
 
 #Get the files names
 files = list.files(pattern = "*.csv")

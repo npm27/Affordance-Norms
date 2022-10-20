@@ -27,10 +27,11 @@
     // Set the page message
     if ($_CONFIG->next_experiment == false) {
         $title   = 'Done!';
-        $message = '<h2>Thank you for your participation! Please make note right now of the exact time/date you completed this study. You will will need this information to claim your credit!</h2>'
-		 .  '<p>To receive your credit, please click on the following link or copy it into a new browser tab:</p>'
-		 .  '<a href="https://www.surveymonkey.com/r/PsychResearchFall2022">https://www.surveymonkey.com/r/PsychResearchFall2022</a>'
-                 .  '<p>You will be asked to provide your name, indicate the study you just completed, and indicate the course in which you want research credit. You will also be asked for the time/date in which you began AND finished the study.'
+      $message = '<h2>Thank you for your participation!</h2>'
+		 .  '<p>To receive credit, please copy the following link into a new browser tab to get your Prolific completion code.</p>'
+		 .  '<p>https://app.prolific.co/submissions/complete?cc=25579BDC</p>'
+                 .  '<p>If you have any questions about the experiment please email '
+                 .      '<a href="mailto:' . $_CONFIG->experimenter_email . '?Subject=Comments%20on%20' . $_CONFIG->experiment_name . '" target="_top">' . $_CONFIG->experimenter_email . '</a>'
                  .  '</p>';
         if ($_CONFIG->mTurk_mode == true) {
             $message .= '<h3>Your verification code is: ' . $_CONFIG->verification . '-' . $_SESSION['ID'] .'</h3>';

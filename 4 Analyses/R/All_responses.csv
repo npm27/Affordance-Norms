@@ -34903,3 +34903,3179 @@ boy,steal there clothes ,steal,steal,VERB,MSU-TEXAS
 boy,steal there clothes ,clothes,clothes,NOUN,MSU-TEXAS
 orphan,finding a home ,finding,find,NOUN,MSU-TEXAS
 orphan,finding a home ,home,home,ADV,MSU-TEXAS
+doorbell,rang,rang,ring,NOUN,ILL_STATE
+doorbell,changed,changed,change,VERB,ILL_STATE
+doorbell,ignored,ignored,ignore,VERB,ILL_STATE
+environment,visit,visit,visit,VERB,ILL_STATE
+environment,clean,clean,clean,VERB,ILL_STATE
+daughter,raised,raised,raise,VERB,ILL_STATE
+daughter,grown up,grown,grow,VERB,ILL_STATE
+marijuana,smoked,smoked,smoke,VERB,ILL_STATE
+marijuana,grown ,grown,grow,VERB,ILL_STATE
+ledge,see views,see,see,VERB,ILL_STATE
+ledge,see views,views,view,NOUN,ILL_STATE
+ledge,fall off,fall,fall,VERB,ILL_STATE
+bathroom,use,use,use,VERB,ILL_STATE
+bathroom,clean,clean,clean,VERB,ILL_STATE
+waiter,served,served,serve,VERB,ILL_STATE
+waiter,talked to ,talked,talk,VERB,ILL_STATE
+granny,cookies,cookies,cookie,NOUN,ILL_STATE
+granny,food,food,food,NOUN,ILL_STATE
+granny,love,love,love,VERB,ILL_STATE
+sink,wash dishes,wash,wash,VERB,ILL_STATE
+sink,wash dishes,dishes,dish,NOUN,ILL_STATE
+sink,wash hands,wash,wash,VERB,ILL_STATE
+sink,wash hands,hands,hand,NOUN,ILL_STATE
+suspenders,worn as an outfit ,worn,wear,VERB,ILL_STATE
+suspenders,worn as an outfit ,outfit,outfit,NOUN,ILL_STATE
+bin,throw out trash,throw,throw,VERB,ILL_STATE
+bin,throw out trash,trash,trash,INTJ,ILL_STATE
+bin,carry items ,carry,carry,VERB,ILL_STATE
+bin,carry items ,items,item,NOUN,ILL_STATE
+penny,collect,collect,collect,VERB,ILL_STATE
+penny,use for payment ,use,use,VERB,ILL_STATE
+penny,use for payment ,payment,payment,NOUN,ILL_STATE
+footbath,put feet in ,put,put,VERB,ILL_STATE
+footbath,put feet in ,feet,foot,NOUN,ILL_STATE
+boulder,push,push,push,VERB,ILL_STATE
+path,walk on,walk,walk,VERB,ILL_STATE
+maid,clean,clean,clean,VERB,ILL_STATE
+maid,cook,cook,cake,VERB,ILL_STATE
+sling,hold arm ,hold,hold,VERB,ILL_STATE
+sling,hold arm ,arm,arm,X,ILL_STATE
+fountainhead,drink water out of ,drink,drink,NOUN,ILL_STATE
+fountainhead,drink water out of ,water,water,NOUN,ILL_STATE
+crowbar,open things,open,open,VERB,ILL_STATE
+crowbar,open things,things,thing,NOUN,ILL_STATE
+gauze,tighten wound ,tighten,tighten,VERB,ILL_STATE
+gauze,tighten wound ,wound,wound,NOUN,ILL_STATE
+chrysanthemum,grow ,grow,grow,VERB,ILL_STATE
+axe,chop wood ,chop,chop,VERB,ILL_STATE
+axe,chop wood ,wood,wood,NOUN,ILL_STATE
+sled,snow,snow,snow,NOUN,ILL_STATE
+sled,drag things,drag,drag,VERB,ILL_STATE
+sled,drag things,things,thing,NOUN,ILL_STATE
+chest,push ups,push,push,VERB,ILL_STATE
+chest,push ups,ups,ups,NOUN,ILL_STATE
+chest,lay,lay,lay,VERB,ILL_STATE
+stream,water,water,water,NOUN,ILL_STATE
+handkerchief,blow your nose,blow,blow,VERB,ILL_STATE
+handkerchief,blow your nose,nose,nose,PRON,ILL_STATE
+handkerchief,wipe your hands,wipe,wipe,VERB,ILL_STATE
+handkerchief,wipe your hands,hands,hand,NOUN,ILL_STATE
+headrest,lay down,lay,lay,VERB,ILL_STATE
+floorboard,stand on,stand,stand,VERB,ILL_STATE
+floorboard,weapon,weapon,weapon,NOUN,ILL_STATE
+firstborn,baby sitter,baby,baby,NOUN,ILL_STATE
+firstborn,baby sitter,sitter,sitter,NOUN,ILL_STATE
+keepsake,to remember,remember,remember,VERB,ILL_STATE
+kit,first aid,first,first,ADV,ILL_STATE
+kit,first aid,aid,aid,NOUN,ILL_STATE
+confetti,party,party,party,NOUN,ILL_STATE
+mink,status symbol,status,status,NOUN,ILL_STATE
+mink,status symbol,symbol,symbol,NOUN,ILL_STATE
+secretary,to take notes,take,take,VERB,ILL_STATE
+secretary,to take notes,notes,note,NOUN,ILL_STATE
+apron,to keep clothes clean,keep,keep,VERB,ILL_STATE
+apron,to keep clothes clean,clothes,clothes,NOUN,ILL_STATE
+apron,to keep clothes clean,clean,clean,VERB,ILL_STATE
+newspaper,read,read,read,VERB,ILL_STATE
+newspaper,learn about the current news,learn,learn,VERB,ILL_STATE
+newspaper,learn about the current news,current,current,ADJ,ILL_STATE
+newspaper,learn about the current news,news,news,NOUN,ILL_STATE
+pot,flowers,flowers,flower,NOUN,ILL_STATE
+longbow,to shoot,shoot,shoot,VERB,ILL_STATE
+comforter,to sleep with,sleep,sleep,NOUN,ILL_STATE
+radiologist,take x rays,take,take,VERB,ILL_STATE
+radiologist,take x rays,rays,x-ray,VERB,ILL_STATE
+axle,car,car,car,NOUN,ILL_STATE
+pet,comfort,comfort,comfort,NOUN,ILL_STATE
+spear,to stab,stab,stab,VERB,ILL_STATE
+tortoise,pet,pet,pet,NOUN,ILL_STATE
+hamster,pet,pet,pet,NOUN,ILL_STATE
+comb,hair,hair,hair,NOUN,ILL_STATE
+animal,comfort,comfort,comfort,VERB,ILL_STATE
+gate,to keep people in or out,keep,keep,VERB,ILL_STATE
+gate,to keep people in or out,people,people,NOUN,ILL_STATE
+gear,shift,shift,shift,VERB,ILL_STATE
+gear,move,move,move,VERB,ILL_STATE
+gear,turn,turn,turn,VERB,ILL_STATE
+gear,slide,slide,slide,VERB,ILL_STATE
+handle,grab,grab,grab,VERB,ILL_STATE
+handle,hold,hold,hold,VERB,ILL_STATE
+handle,push,push,push,VERB,ILL_STATE
+handle,pull,pull,pull,VERB,ILL_STATE
+handle,twist,twist,twist,VERB,ILL_STATE
+scorecard,tally,tally,tally,VERB,ILL_STATE
+scorecard,keep check,keep,keep,VERB,ILL_STATE
+scorecard,keep check,check,check,VERB,ILL_STATE
+scorecard,add up,add,add,VERB,ILL_STATE
+lotion,apply,apply,apply,VERB,ILL_STATE
+lotion,smear,smear,smear,VERB,ILL_STATE
+lotion,smell,smell,smell,VERB,ILL_STATE
+lotion,lift,lift,lift,VERB,ILL_STATE
+mustard,apply on sandwiches and hamburger,apply,apply,VERB,ILL_STATE
+mustard,apply on sandwiches and hamburger,sandwiches,sandwich,NOUN,ILL_STATE
+mustard,apply on sandwiches and hamburger,hamburger,hamburger,NOUN,ILL_STATE
+mustard,eat,eat,eat,VERB,ILL_STATE
+mustard,make food ,make,make,VERB,ILL_STATE
+mustard,make food ,food,food,NOUN,ILL_STATE
+shirttail,scrunch up,scrunch,scrunch,VERB,ILL_STATE
+shirttail,pull down,pull,pull,VERB,ILL_STATE
+toffee,mix,mix,mix,VERB,ILL_STATE
+forklift,lift,lift,lift,VERB,ILL_STATE
+forklift,carry,carry,carry,VERB,ILL_STATE
+rag,clean,clean,clean,VERB,ILL_STATE
+rag,dry up,dry,dry,ADJ,ILL_STATE
+rag,toss,toss,toss,NOUN,ILL_STATE
+rag,squeeze,squeeze,squeeze,VERB,ILL_STATE
+jeweler,sell ,sell,sell,VERB,ILL_STATE
+vase,hold,hold,hold,VERB,ILL_STATE
+vase,sit,sit,sit,VERB,ILL_STATE
+vase,carry,carry,carry,VERB,ILL_STATE
+lid,close,close,close,ADJ,ILL_STATE
+lid,open,open,open,VERB,ILL_STATE
+lid,crack ,crack,crack,VERB,ILL_STATE
+chair,sit,sit,sit,VERB,ILL_STATE
+chair,lay,lay,lay,VERB,ILL_STATE
+chair,block,block,block,VERB,ILL_STATE
+chair,swirl,swirl,swirl,VERB,ILL_STATE
+chair,rock back and forth ,rock,rock,VERB,ILL_STATE
+chair,rock back and forth ,back,back,ADV,ILL_STATE
+chair,rock back and forth ,forth,forth,ADV,ILL_STATE
+jet,spray,spray,spray,VERB,ILL_STATE
+dressing,on salads,salads,salad,NOUN,ILL_STATE
+greenery,look pretty,look,look,VERB,ILL_STATE
+greenery,look pretty,pretty,pretty,ADV,ILL_STATE
+greenery,decorate ,decorate,decorate,VERB,ILL_STATE
+clover,wish,wish,wish,VERB,ILL_STATE
+clover,hold,hold,hold,VERB,ILL_STATE
+clover,collect,collect,collect,VERB,ILL_STATE
+clover,pull,pull,pull,VERB,ILL_STATE
+critter,crawl,crawl,crawl,VERB,ILL_STATE
+kneecap,move,move,move,VERB,ILL_STATE
+kneecap,kneel,kneel,kneel,VERB,ILL_STATE
+tummy,squeeze,squeeze,squeeze,VERB,ILL_STATE
+tummy,pull,pull,pull,VERB,ILL_STATE
+tummy,push out,push,push,VERB,ILL_STATE
+tummy,lay on,lay,lay,VERB,ILL_STATE
+tummy,fill up ,fill,fill,VERB,ILL_STATE
+elephant,ride,ride,ride,VERB,ILL_STATE
+elephant,look at,look,look,VERB,ILL_STATE
+elephant,play with,play,play,VERB,ILL_STATE
+twig,pull,pull,pull,VERB,ILL_STATE
+twig,grab,grab,grab,VERB,ILL_STATE
+locket,lock,lock,lock,VERB,ILL_STATE
+auto,mobile,mobile,mobile,ADJ,ILL_STATE
+stereo,listen,listen,listen,VERB,ILL_STATE
+stereo,play,play,play,VERB,ILL_STATE
+stereo,dance,dance,dance,VERB,ILL_STATE
+lamplight,turn on and off,turn,turn,VERB,ILL_STATE
+lamplight,set down,set,set,VERB,ILL_STATE
+tub,put things in,put,put,VERB,ILL_STATE
+tub,put things in,things,thing,NOUN,ILL_STATE
+tub,lay in,lay,lay,VERB,ILL_STATE
+tub,store items ,store,store,NOUN,ILL_STATE
+tub,store items ,items,item,NOUN,ILL_STATE
+pistachio,eat,eat,eat,VERB,ILL_STATE
+pistachio,crack,crack,crack,VERB,ILL_STATE
+pistachio,spit,spit,spit,VERB,ILL_STATE
+pistachio,chew ,chew,chew,VERB,ILL_STATE
+glue,stick,stick,stick,VERB,ILL_STATE
+glue,hold together ,hold,hold,VERB,ILL_STATE
+glue,hold together ,together,together,ADV,ILL_STATE
+suitcase,hold clothes,hold,hold,VERB,ILL_STATE
+suitcase,hold clothes,clothes,clothes,NOUN,ILL_STATE
+suitcase,travel easily,travel,travel,VERB,ILL_STATE
+suitcase,travel easily,easily,easily,ADV,ILL_STATE
+suitcase,storage,storage,store,VERB,ILL_STATE
+germ,infection,infection,infect,VERB,ILL_STATE
+taxi,transport people,transport,transport,VERB,ILL_STATE
+taxi,transport people,people,people,NOUN,ILL_STATE
+taxi,provide a wage,provide,provide,VERB,ILL_STATE
+taxi,provide a wage,wage,wage,NOUN,ILL_STATE
+taxi,hold luggage,hold,hold,VERB,ILL_STATE
+taxi,hold luggage,luggage,luggage,NOUN,ILL_STATE
+taxi,keep people safe,keep,keep,VERB,ILL_STATE
+taxi,keep people safe,people,people,NOUN,ILL_STATE
+taxi,keep people safe,safe,safe,ADJ,ILL_STATE
+dildo,masturbation,masturbation,masturbate,VERB,ILL_STATE
+dildo,sex,sex,sex,VERB,ILL_STATE
+narcotics,recreational drug use,recreational,recreational,ADJ,ILL_STATE
+narcotics,recreational drug use,drug,drug,NOUN,ILL_STATE
+narcotics,recreational drug use,use,use,VERB,ILL_STATE
+narcotics,changes mood,changes,change,VERB,ILL_STATE
+narcotics,changes mood,mood,mood,NOUN,ILL_STATE
+narcotics,makes people feel good,makes,make,VERB,ILL_STATE
+narcotics,makes people feel good,people,people,NOUN,ILL_STATE
+narcotics,makes people feel good,feel,feel,VERB,ILL_STATE
+narcotics,makes people feel good,good,good,ADJ,ILL_STATE
+chairwoman,leadership,leadership,leadership,NOUN,ILL_STATE
+chairwoman,participate on a committee,participate,participate,VERB,ILL_STATE
+chairwoman,participate on a committee,committee,committee,NOUN,ILL_STATE
+chairwoman,make decisions,make,make,VERB,ILL_STATE
+chairwoman,make decisions,decisions,decision,NOUN,ILL_STATE
+backgammon,have fun,fun,fun,NOUN,ILL_STATE
+backgammon,build community,build,build,NOUN,ILL_STATE
+backgammon,build community,community,community,NOUN,ILL_STATE
+gift,show love and appreciation,show,show,VERB,ILL_STATE
+gift,show love and appreciation,love,love,NOUN,ILL_STATE
+gift,show love and appreciation,appreciation,appreciation,NOUN,ILL_STATE
+gift,celebrate ,celebrate,celebrate,NOUN,ILL_STATE
+train,transport people and things,transport,transport,NOUN,ILL_STATE
+train,transport people and things,people,people,NOUN,ILL_STATE
+train,transport people and things,things,thing,NOUN,ILL_STATE
+train,provide peoples salaries,provide,provide,VERB,ILL_STATE
+train,provide peoples salaries,peoples,people,NOUN,ILL_STATE
+train,provide peoples salaries,salaries,salary,NOUN,ILL_STATE
+train,store stuff,store,store,VERB,ILL_STATE
+train,store stuff,stuff,stuff,NOUN,ILL_STATE
+brickwork,keep structures up,keep,keep,VERB,ILL_STATE
+brickwork,keep structures up,structures,structure,NOUN,ILL_STATE
+brickwork,decoration,decoration,decorate,VERB,ILL_STATE
+broccoli,cooking,cooking,cook,VERB,ILL_STATE
+broccoli,eating,eating,eat,VERB,ILL_STATE
+broccoli,nutrition,nutrition,nutrition,NOUN,ILL_STATE
+broccoli,keeps people healthy,keeps,keep,VERB,ILL_STATE
+broccoli,keeps people healthy,people,people,NOUN,ILL_STATE
+broccoli,keeps people healthy,healthy,healthy,ADJ,ILL_STATE
+roommate,split rent,split,split,VERB,ILL_STATE
+roommate,split rent,rent,rent,VERB,ILL_STATE
+roommate,companionship,companionship,companionship,NOUN,ILL_STATE
+roommate,cleaning,cleaning,clean,VERB,ILL_STATE
+roommate,safety ,safety,safety,NOUN,ILL_STATE
+binoculars,make things easier to see,make,make,VERB,ILL_STATE
+binoculars,make things easier to see,things,thing,NOUN,ILL_STATE
+binoculars,make things easier to see,easier,easier,ADJ,ILL_STATE
+binoculars,make things easier to see,see,see,VERB,ILL_STATE
+binoculars,prop,prop,prop,NOUN,ILL_STATE
+bridegroom,married,married,marry,VERB,ILL_STATE
+game,entertainment,entertainment,entertainment,NOUN,ILL_STATE
+game,education,education,educate,VERB,ILL_STATE
+game,form relationships,form,form,NOUN,ILL_STATE
+game,form relationships,relationships,relationship,NOUN,ILL_STATE
+game,exercise,exercise,exercise,VERB,ILL_STATE
+tricycle,transportation,transportation,transport,VERB,ILL_STATE
+broach,decoration,decoration,decorate,VERB,ILL_STATE
+salt,provide electrolytes,provide,provide,VERB,ILL_STATE
+salt,provide electrolytes,electrolytes,electrolyte,NOUN,ILL_STATE
+salt,season food,season,season,VERB,ILL_STATE
+salt,season food,food,food,NOUN,ILL_STATE
+salt,keep snow from sticking,keep,keep,VERB,ILL_STATE
+salt,keep snow from sticking,snow,snow,NOUN,ILL_STATE
+salt,keep snow from sticking,sticking,sticke,VERB,ILL_STATE
+salt,make ice cream,make,make,VERB,ILL_STATE
+salt,make ice cream,ice,ice cream,NOUN,ILL_STATE
+tepee,housing,housing,housing,NOUN,ILL_STATE
+tepee,cultural symbol,cultural,cultural,ADJ,ILL_STATE
+tepee,cultural symbol,symbol,symbol,NOUN,ILL_STATE
+cologne,make people smell good,make,make,VERB,ILL_STATE
+cologne,make people smell good,people,people,NOUN,ILL_STATE
+cologne,make people smell good,smell,smell,INTJ,ILL_STATE
+cologne,make people smell good,good,good,ADJ,ILL_STATE
+cologne,attract attention,attract,attract,VERB,ILL_STATE
+cologne,attract attention,attention,attention,NOUN,ILL_STATE
+horseshoe,protect a horse foot,protect,protect,VERB,ILL_STATE
+horseshoe,protect a horse foot,horse,horse,NOUN,ILL_STATE
+horseshoe,protect a horse foot,foot,foot,NOUN,ILL_STATE
+mammal,pet,pet,pet,NOUN,ILL_STATE
+mammal,zoo animal,zoo,zoo,NOUN,ILL_STATE
+mammal,zoo animal,animal,animal,NOUN,ILL_STATE
+mammal,food chain,food,food,NOUN,ILL_STATE
+mammal,food chain,chain,chain,NOUN,ILL_STATE
+bulb,light rooms,light,light,VERB,ILL_STATE
+bulb,light rooms,rooms,room,NOUN,ILL_STATE
+calipers,measure things,measure,measure,VERB,ILL_STATE
+calipers,measure things,things,thing,NOUN,ILL_STATE
+damsel,women arent objects,women,woman,NOUN,ILL_STATE
+damsel,women arent objects,objects,object,VERB,ILL_STATE
+lei,cultural symbol,cultural,cultural,ADJ,ILL_STATE
+lei,cultural symbol,symbol,symbol,NOUN,ILL_STATE
+lei,accessory,accessory,accessory,INTJ,ILL_STATE
+snail,eating,eating,eat,VERB,ILL_STATE
+snail,cleaning fish tanks,cleaning,cleaning,NOUN,ILL_STATE
+snail,cleaning fish tanks,fish,fish,NOUN,ILL_STATE
+snail,cleaning fish tanks,tanks,tank,NOUN,ILL_STATE
+snail,pet,pet,pet,NOUN,ILL_STATE
+fedora,protect head,protect,protect,VERB,ILL_STATE
+fedora,protect head,head,head,NOUN,ILL_STATE
+fedora,accessory,accessory,accessory,INTJ,ILL_STATE
+offspring,taken care of,taken,take,VERB,ILL_STATE
+offspring,taken care of,care,care,NOUN,ILL_STATE
+offspring,financial support in future,financial,financial,ADJ,ILL_STATE
+offspring,financial support in future,support,support,NOUN,ILL_STATE
+offspring,financial support in future,future,future,NOUN,ILL_STATE
+nutcracker,open nuts,open,open,VERB,ILL_STATE
+nutcracker,open nuts,nuts,nut,NOUN,ILL_STATE
+nutcracker,christmas decoration,christmas,christmas,PROPN,ILL_STATE
+nutcracker,christmas decoration,decoration,decoration,NOUN,ILL_STATE
+nutcracker,entertainment,entertainment,entertainment,NOUN,ILL_STATE
+sauna,steam,steam,steam,NOUN,ILL_STATE
+sauna,relax,relax,relax,VERB,ILL_STATE
+sauna,meditate,meditate,meditate,VERB,ILL_STATE
+compass,direct,direct,direct,ADJ,ILL_STATE
+compass,center,center,center,NOUN,ILL_STATE
+compass,guide,guide,guide,NOUN,ILL_STATE
+watermelon,eat,eat,eat,VERB,ILL_STATE
+watermelon,cut,cut,cut,VERB,ILL_STATE
+watermelon,refrigerate ,refrigerate,refrigerate,VERB,ILL_STATE
+glassware,clean,clean,clean,VERB,ILL_STATE
+glassware,display,display,display,NOUN,ILL_STATE
+glassware,eat with,eat,eat,VERB,ILL_STATE
+lyre,compose,compose,compose,VERB,ILL_STATE
+lyre,music,music,music,NOUN,ILL_STATE
+shortbread,cook,cook,cake,VERB,ILL_STATE
+shortbread,bake,bake,bake,VERB,ILL_STATE
+shortbread,eat,eat,eat,VERB,ILL_STATE
+cow,herd,herd,herd,VERB,ILL_STATE
+cow,farm,farm,farm,NOUN,ILL_STATE
+cow,raise,raise,raise,VERB,ILL_STATE
+cow,pet,pet,pet,NOUN,ILL_STATE
+cow,play,play,play,VERB,ILL_STATE
+cradle,crib,crib,crib,NOUN,ILL_STATE
+cradle,sleep,sleep,sleep,VERB,ILL_STATE
+cradle,hold,hold,hold,VERB,ILL_STATE
+braid,hair,hair,hair,NOUN,ILL_STATE
+braid,rope,rope,rope,NOUN,ILL_STATE
+vodka,drink,drink,drink,VERB,ILL_STATE
+carpeting,install,install,install,VERB,ILL_STATE
+carpeting,purchase,purchase,purchase,VERB,ILL_STATE
+yearbook,sign,sign,sign,VERB,ILL_STATE
+yearbook,view,view,view,NOUN,ILL_STATE
+yearbook,create,create,create,VERB,ILL_STATE
+cellophane,wrap,wrap,wrap,NOUN,ILL_STATE
+oregano,season,season,season,VERB,ILL_STATE
+oregano,garnish,garnish,garnish,VERB,ILL_STATE
+oregano,include,include,include,VERB,ILL_STATE
+handbag,use,use,use,VERB,ILL_STATE
+handbag,carry,carry,carry,VERB,ILL_STATE
+handbag,buy,buy,buy,VERB,ILL_STATE
+pillar,support,support,support,VERB,ILL_STATE
+pillar,contruct,construct,construct,VERB,ILL_STATE
+caviar,eat,eat,eat,VERB,ILL_STATE
+extinguisher,use,use,use,VERB,ILL_STATE
+extinguisher,store,store,store,VERB,ILL_STATE
+porch,sit,sit,sit,VERB,ILL_STATE
+porch,relax,relax,relax,VERB,ILL_STATE
+porch,talk,talk,talk,VERB,ILL_STATE
+porch,build,build,build,VERB,ILL_STATE
+barricade,create,create,create,VERB,ILL_STATE
+barricade,protect,protect,protect,VERB,ILL_STATE
+pepper,season,season,season,VERB,ILL_STATE
+pepper,garnish,garnish,garnish,VERB,ILL_STATE
+residence,live,live,live,VERB,ILL_STATE
+residence,build,build,build,VERB,ILL_STATE
+residence,buy,buy,buy,VERB,ILL_STATE
+residence,sell,sell,sell,VERB,ILL_STATE
+headdress,wear,wear,wear,VERB,ILL_STATE
+headdress,ceremony,ceremony,ceremony,NOUN,ILL_STATE
+footstool,step-on,step,step,VERB,ILL_STATE
+divorcee,manage,manage,manage,VERB,ILL_STATE
+divorcee,rethink,rethink,rethink,VERB,ILL_STATE
+cabin,build,build,build,VERB,ILL_STATE
+cabin,create,create,create,VERB,ILL_STATE
+cabin,live,live,live,VERB,ILL_STATE
+cabin,decorate,decorate,decorate,VERB,ILL_STATE
+beer,drink,drink,drink,VERB,ILL_STATE
+beer,brew,brew,brew,VERB,ILL_STATE
+pliers,construction,construction,construction,NOUN,ILL_STATE
+pliers,trades,trades,trade,NOUN,ILL_STATE
+pliers,build,build,build,VERB,ILL_STATE
+newsman,broadcast,broadcast,broadcast,VERB,ILL_STATE
+newsman,inform,inform,inform,VERB,ILL_STATE
+racehorse,race,race,race,VERB,ILL_STATE
+racehorse,run,run,run,VERB,ILL_STATE
+racehorse,complete,complete,complete,ADJ,ILL_STATE
+washstand,wash hands,wash,wash,VERB,ILL_STATE
+washstand,wash hands,hands,hand,NOUN,ILL_STATE
+washstand,clean,clean,clean,VERB,ILL_STATE
+washstand,do make up,make,make,VERB,ILL_STATE
+washstand,brush teeth,brush,brush,VERB,ILL_STATE
+washstand,brush teeth,teeth,tooth,NOUN,ILL_STATE
+wounds,clean,clean,clean,VERB,ILL_STATE
+wounds,dress,dress,dress,NOUN,ILL_STATE
+wounds,open,open,open,VERB,ILL_STATE
+wounds,wrap,wrap,wrap,VERB,ILL_STATE
+wounds,heal,heal,heal,VERB,ILL_STATE
+tugboat,tow,tow,tow,VERB,ILL_STATE
+tugboat,row,row,row,VERB,ILL_STATE
+sneaker,wear,wear,wear,VERB,ILL_STATE
+sneaker,tie,tie,tie,VERB,ILL_STATE
+sneaker,run,run,run,VERB,ILL_STATE
+sneaker,put on,put,put,VERB,ILL_STATE
+sneaker,take off,take,take,VERB,ILL_STATE
+pillowcase,sleep on,sleep,sleep,VERB,ILL_STATE
+pillowcase,wash,wash,wash,VERB,ILL_STATE
+pillowcase,put on,put,put,VERB,ILL_STATE
+pillowcase,dry,dry,dry,VERB,ILL_STATE
+lawyer,defend yourself,defend,defend,VERB,ILL_STATE
+lawyer,financial help,financial,financial,ADJ,ILL_STATE
+lawyer,financial help,help,help,VERB,ILL_STATE
+lobe,listen,listen,listen,VERB,ILL_STATE
+absinthe,drink,drink,drink,VERB,ILL_STATE
+absinthe,die,die,die,VERB,ILL_STATE
+absinthe,drunk,drunk,drink,VERB,ILL_STATE
+lady,marry,marry,marry,VERB,ILL_STATE
+lady,befriend,befriend,befriend,VERB,ILL_STATE
+Food,eat,eat,eat,VERB,ILL_STATE
+Food,cook,cook,cake,VERB,ILL_STATE
+Food,throw out,throw,throw,VERB,ILL_STATE
+Food,heat up,heat,heat,VERB,ILL_STATE
+pushcart,carry things,carry,carry,VERB,ILL_STATE
+pushcart,carry things,things,thing,NOUN,ILL_STATE
+pushcart,haul,haul,haul,VERB,ILL_STATE
+pushcart,push,push,push,VERB,ILL_STATE
+scissor,cut,cut,cut,VERB,ILL_STATE
+scissor,stab,stab,stab,VERB,ILL_STATE
+scissor,open things,open,open,VERB,ILL_STATE
+scissor,open things,things,thing,NOUN,ILL_STATE
+soles,walk on,walk,walk,VERB,ILL_STATE
+soles,run on,run,run,VERB,ILL_STATE
+maple,syrup,syrup,syrup,NOUN,ILL_STATE
+maple,leaves,leaves,leave,VERB,ILL_STATE
+eyedrop,fix,fix,fix,VERB,ILL_STATE
+eyedrop,wet eyes,wet,wet,ADJ,ILL_STATE
+eyedrop,wet eyes,eyes,eyes,NOUN,ILL_STATE
+eyedrop,relieve pain,relieve,relieve,ADJ,ILL_STATE
+eyedrop,relieve pain,pain,pain,NOUN,ILL_STATE
+doghouse,sleep in,sleep,sleep,VERB,ILL_STATE
+doghouse,build,build,build,VERB,ILL_STATE
+neckwear,wear,wear,wear,VERB,ILL_STATE
+neckwear,style,style,style,NOUN,ILL_STATE
+neckwear,take off,take,take,VERB,ILL_STATE
+boathouse,store boat,store,store,VERB,ILL_STATE
+boathouse,store boat,boat,boat,NOUN,ILL_STATE
+boathouse,live in,live,live,VERB,ILL_STATE
+boathouse,clean,clean,clean,VERB,ILL_STATE
+boathouse,build,build,build,VERB,ILL_STATE
+thumb,poke,poke,poke,VERB,ILL_STATE
+thumb,cut nail,cut,cut,VERB,ILL_STATE
+thumb,cut nail,nail,nail,NOUN,ILL_STATE
+thumb,move,move,move,VERB,ILL_STATE
+sweetener,use in coffee,use,use,VERB,ILL_STATE
+sweetener,use in coffee,coffee,coffee,NOUN,ILL_STATE
+sweetener,eat,eat,eat,VERB,ILL_STATE
+sweetener,ingest,ingest,ingest,VERB,ILL_STATE
+icing,lick,lick,lick,VERB,ILL_STATE
+icing,decorate,decorate,decorate,VERB,ILL_STATE
+Leaf,pick,pick,pick,VERB,ILL_STATE
+Leaf,throw,throw,throw,VERB,ILL_STATE
+Leaf,make a pile,make,make,VERB,ILL_STATE
+Leaf,make a pile,pile,pile,NOUN,ILL_STATE
+Leaf,crush,crush,crush,VERB,ILL_STATE
+fixture,turn on,turn,turn,VERB,ILL_STATE
+fixture,turn off,turn,turn,VERB,ILL_STATE
+fixture,put up,put,put,VERB,ILL_STATE
+staff,hold things up,hold,hold,VERB,ILL_STATE
+staff,hold things up,things,thing,NOUN,ILL_STATE
+staff,hire,hire,hire,VERB,ILL_STATE
+staff,fire,fire,fire,NOUN,ILL_STATE
+gavel,bang,bang,bang,VERB,ILL_STATE
+opium,smoke,smoke,smoke,NOUN,ILL_STATE
+opium,cook,cook,cake,VERB,ILL_STATE
+opium,ingest,ingest,ingest,VERB,ILL_STATE
+abdomen,work out,work,work,NOUN,ILL_STATE
+abdomen,pierce,pierce,pierce,NOUN,ILL_STATE
+abdomen,surgery,surgery,surgery,NOUN,ILL_STATE
+finger,point,point,point,NOUN,ILL_STATE
+finger,bend,bend,bend,VERB,ILL_STATE
+finger,break,break,break,VERB,ILL_STATE
+wallpaper,plaster,plaster,plaster,NOUN,ILL_STATE
+wallpaper,hang,hang,hang,VERB,ILL_STATE
+wallpaper,stick,stick,stick,NOUN,ILL_STATE
+gravy,pour,pour,pour,VERB,ILL_STATE
+gravy,scoop,scoop,scoop,VERB,ILL_STATE
+gravy,warm,warm,warm,VERB,ILL_STATE
+gravy,cook,cook,cake,VERB,ILL_STATE
+pinwheel,wind,wind,wind,NOUN,ILL_STATE
+pinwheel,decoration,decoration,decorate,VERB,ILL_STATE
+gold,wear,wear,wear,VERB,ILL_STATE
+gold,make,make,make,VERB,ILL_STATE
+gold,decorate,decorate,decorate,VERB,ILL_STATE
+gold,money,money,money,NOUN,ILL_STATE
+gold,mine,mine,mine,PRON,ILL_STATE
+mandolin,play,play,play,VERB,ILL_STATE
+wafer,eat,eat,eat,VERB,ILL_STATE
+jaw,chew,chew,chew,VERB,ILL_STATE
+jaw,talk,talk,talk,VERB,ILL_STATE
+jaw,move,move,move,VERB,ILL_STATE
+jaw,pop,pop,pop,VERB,ILL_STATE
+anklet,wear,wear,wear,VERB,ILL_STATE
+anklet,style,style,style,NOUN,ILL_STATE
+anklet,design,design,design,VERB,ILL_STATE
+hammock,lay,lay,lay,VERB,ILL_STATE
+hammock,rock,rock,rock,VERB,ILL_STATE
+hammock,sit,sit,sit,VERB,ILL_STATE
+hammock,relax,relax,relax,VERB,ILL_STATE
+catfish,eat,eat,eat,VERB,ILL_STATE
+catfish,catch,catch,catch,VERB,ILL_STATE
+catfish,boil,boil,boil,VERB,ILL_STATE
+catfish,bake,bake,bake,VERB,ILL_STATE
+catfish,cook,cook,cake,VERB,ILL_STATE
+mutt,walk,walk,walk,VERB,ILL_STATE
+mutt,bark,bark,bark,VERB,ILL_STATE
+mutt,run,run,run,VERB,ILL_STATE
+mutt,pant,pant,pant,VERB,ILL_STATE
+nectar,eat,eat,eat,VERB,ILL_STATE
+nectar,harvest,harvest,harvest,VERB,ILL_STATE
+nectar,drizzle,drizzle,drizzle,VERB,ILL_STATE
+shelf,rest,rest,rest,VERB,ILL_STATE
+shelf,fill,fill,fill,NOUN,ILL_STATE
+shelf,decorate,decorate,decorate,VERB,ILL_STATE
+shelf,store,store,store,VERB,ILL_STATE
+labrador,bark,bark,bark,VERB,ILL_STATE
+labrador,run,run,run,VERB,ILL_STATE
+labrador,walk,walk,walk,VERB,ILL_STATE
+labrador,pant,pant,pant,VERB,ILL_STATE
+labrador,drink,drink,drink,VERB,ILL_STATE
+labrador,eat,eat,eat,VERB,ILL_STATE
+tongue,eat,eat,eat,VERB,ILL_STATE
+tongue,chew,chew,chew,VERB,ILL_STATE
+tongue,move,move,move,VERB,ILL_STATE
+tongue,talk,talk,talk,VERB,ILL_STATE
+phonograph,message,message,message,NOUN,ILL_STATE
+bellflower,decor,decor,decorate,VERB,ILL_STATE
+bellflower,grow,grow,grow,VERB,ILL_STATE
+macaroon,eat,eat,eat,VERB,ILL_STATE
+shower,wash,wash,wash,VERB,ILL_STATE
+shower,clean,clean,clean,VERB,ILL_STATE
+shower,water,water,water,NOUN,ILL_STATE
+scoop,pick up,pick,pick,VERB,ILL_STATE
+people,experiments,experiments,experiment,VERB,ILL_STATE
+people,friends,friends,friend,NOUN,ILL_STATE
+people,family,family,family,NOUN,ILL_STATE
+people,experience,experience,experience,NOUN,ILL_STATE
+conductor,train,train,train,NOUN,ILL_STATE
+conductor,music,music,music,NOUN,ILL_STATE
+conductor,electricity?,electricity,electricity,NOUN,ILL_STATE
+storeroom,storage,storage,store,VERB,ILL_STATE
+silk,trade,trade,trade,VERB,ILL_STATE
+silk,sheets,sheets,sheet,NOUN,ILL_STATE
+silk,shirts,shirts,shirt,NOUN,ILL_STATE
+silk,robes,robes,robes,NOUN,ILL_STATE
+silk,dresses,dresses,dress,NOUN,ILL_STATE
+motorboat,summer activity,summer,summer,NOUN,ILL_STATE
+motorboat,summer activity,activity,activity,NOUN,ILL_STATE
+radish,food,food,food,NOUN,ILL_STATE
+radish,medicine,medicine,medicine,NOUN,ILL_STATE
+grapevine,gossip,gossip,gossip,VERB,ILL_STATE
+grapevine,plant,plant,plant,NOUN,ILL_STATE
+controller,gaming,gaming,game,NOUN,ILL_STATE
+controller,tv,tv,tv,X,ILL_STATE
+banquet,dances,dances,dance,VERB,ILL_STATE
+banquet,birthdays,birthdays,birthday,NOUN,ILL_STATE
+banquet,events,events,event,NOUN,ILL_STATE
+eyelid,closing,closing,closing,NOUN,ILL_STATE
+eyelid,opening,opening,open,VERB,ILL_STATE
+peanut,peanut butter,peanut,peanut,NOUN,ILL_STATE
+peanut,peanut butter,butter,butter,NOUN,ILL_STATE
+peanut,birdseed,birdseed,birdseed,NOUN,ILL_STATE
+peanut,food,food,food,NOUN,ILL_STATE
+salesman,selling things,selling,sell,VERB,ILL_STATE
+salesman,selling things,things,thing,NOUN,ILL_STATE
+medic,when you or someone needs help,someone,someone,PRON,ILL_STATE
+medic,when you or someone needs help,needs,need,NOUN,ILL_STATE
+medic,when you or someone needs help,help,help,VERB,ILL_STATE
+mulch,gardening,gardening,garde,VERB,ILL_STATE
+mulch,landscaping,landscaping,landscaping,NOUN,ILL_STATE
+cushion,couch,couch,couch,NOUN,ILL_STATE
+cushion,bed,bed,bed,NOUN,ILL_STATE
+cushion,chair,chair,chair,NOUN,ILL_STATE
+cushion,outside furniture,outside,outside,ADV,ILL_STATE
+cushion,outside furniture,furniture,furniture,NOUN,ILL_STATE
+Guitar,instrument,instrument,instrument,NOUN,ILL_STATE
+Guitar,decoration,decoration,decorate,VERB,ILL_STATE
+Guitar,playing,playing,play,VERB,ILL_STATE
+Guitar,singing,singing,singe,VERB,ILL_STATE
+kilt,fashion,fashion,fashion,NOUN,ILL_STATE
+kilt,irish dancing,irish,irish,ADJ,ILL_STATE
+kilt,irish dancing,dancing,dance,VERB,ILL_STATE
+eyebath,medication,medication,medication,NOUN,ILL_STATE
+eyebath,cleaning,cleaning,clean,VERB,ILL_STATE
+pine,tree,tree,tree,NOUN,ILL_STATE
+tent,camping,camping,camp,VERB,ILL_STATE
+tent,black friday,black,black,ADJ,ILL_STATE
+tent,black friday,friday,friday,PROPN,ILL_STATE
+tent,concerts,concerts,concert,NOUN,ILL_STATE
+person,friends,friends,friend,NOUN,ILL_STATE
+person,family,family,family,NOUN,ILL_STATE
+goldfish,snack,snack,snack,NOUN,ILL_STATE
+goldfish,actual fish,actual,actual,ADJ,ILL_STATE
+goldfish,actual fish,fish,fish,NOUN,ILL_STATE
+goldfish,pet,pet,pet,NOUN,ILL_STATE
+mucous,adjective,adjective,adjective,ADJ,ILL_STATE
+funnel,cake,cake,cake,NOUN,ILL_STATE
+funnel,tornado,tornado,tornado,NOUN,ILL_STATE
+suspender,fashion,fashion,fashion,NOUN,ILL_STATE
+suspender,suits,suits,suit,NOUN,ILL_STATE
+pad,ipad,ipad,ipad,NOUN,ILL_STATE
+cheese,pizza,pizza,pizza,NOUN,ILL_STATE
+cheese,queso,ques,queso,NOUN,ILL_STATE
+cheese,tacos,tacos,taco,NOUN,ILL_STATE
+cheese,pasta,pasta,pasta,NOUN,ILL_STATE
+store,shopping,shopping,shop,VERB,ILL_STATE
+pilaf,cook,cook,cake,VERB,ILL_STATE
+pilaf,play,play,play,VERB,ILL_STATE
+pilaf,plate,plate,plate,NOUN,ILL_STATE
+pilaf,eat,eat,eat,VERB,ILL_STATE
+pilaf,burn,burn,burn,VERB,ILL_STATE
+balcony,climb,climb,climb,VERB,ILL_STATE
+balcony,build,build,build,NOUN,ILL_STATE
+balcony,stand,stand,stand,VERB,ILL_STATE
+balcony,feel,feel,feel,VERB,ILL_STATE
+balcony,fall,fall,fall,NOUN,ILL_STATE
+balcony,jump,jump,jump,VERB,ILL_STATE
+desert,walk,walk,walk,VERB,ILL_STATE
+desert,travel,travel,travel,VERB,ILL_STATE
+desert,dry,dry,dry,ADJ,ILL_STATE
+bathe,lather,lather,lather,NOUN,ILL_STATE
+bathe,cleaning,cleaning,clean,VERB,ILL_STATE
+bathe,wet,wet,wet,ADJ,ILL_STATE
+bathe,drown,drown,dry,NOUN,ILL_STATE
+bathe,fill,fill,fill,VERB,ILL_STATE
+bathe,soak,soak,soak,VERB,ILL_STATE
+tofu,cook,cook,cake,VERB,ILL_STATE
+tofu,crumble,crumble,crumble,VERB,ILL_STATE
+tofu,cut,cut,cut,VERB,ILL_STATE
+tofu,throw,throw,throw,VERB,ILL_STATE
+tofu,squish,squish,squish,VERB,ILL_STATE
+tofu,clean,clean,clean,ADJ,ILL_STATE
+tofu,squeeze,squeeze,squeeze,VERB,ILL_STATE
+tofu,play,play,play,VERB,ILL_STATE
+tofu,create,create,create,VERB,ILL_STATE
+tofu,bake,bake,bake,VERB,ILL_STATE
+tofu,blend,blend,blend,VERB,ILL_STATE
+van,drive,drive,drive,VERB,ILL_STATE
+van,crash,crash,crash,VERB,ILL_STATE
+van,live,live,live,VERB,ILL_STATE
+van,clean,clean,clean,ADJ,ILL_STATE
+van,paint,paint,paint,VERB,ILL_STATE
+van,renovate,renovate,renovate,VERB,ILL_STATE
+van,sleep,sleep,sleep,VERB,ILL_STATE
+whisky,drink,drink,drink,VERB,ILL_STATE
+whisky,pour,pour,pour,VERB,ILL_STATE
+whisky,mix,mix,mix,VERB,ILL_STATE
+whisky,create,create,create,VERB,ILL_STATE
+whisky,shake,shake,shake,VERB,ILL_STATE
+parsnip,cook,cook,cake,VERB,ILL_STATE
+parsnip,shave,shave,shave,VERB,ILL_STATE
+parsnip,peel,peel,peel,VERB,ILL_STATE
+parsnip,chop,chop,chop,VERB,ILL_STATE
+parsnip,grate,grate,grate,VERB,ILL_STATE
+parsnip,grow,grow,grow,VERB,ILL_STATE
+parsnip,plant,plant,plant,VERB,ILL_STATE
+parsnip,harvest,harvest,harvest,ADJ,ILL_STATE
+wand,magic,magic,magic,NOUN,ILL_STATE
+wand,break,break,break,VERB,ILL_STATE
+wand,whip,whip,whip,VERB,ILL_STATE
+wand,hit,hit,hit,VERB,ILL_STATE
+wand,play,play,play,VERB,ILL_STATE
+wand,act,act,act,NOUN,ILL_STATE
+berry,cut,cut,cut,VERB,ILL_STATE
+berry,chop,chop,chop,VERB,ILL_STATE
+berry,blend,blend,blend,VERB,ILL_STATE
+berry,grow,grow,grow,VERB,ILL_STATE
+berry,harvest,harvest,harvest,ADJ,ILL_STATE
+berry,eat,eat,eat,VERB,ILL_STATE
+berry,throw,throw,throw,VERB,ILL_STATE
+family,help,help,help,VERB,ILL_STATE
+family,love,love,love,NOUN,ILL_STATE
+family,leave,leave,leave,VERB,ILL_STATE
+family,follow,follow,follow,VERB,ILL_STATE
+family,play,play,play,VERB,ILL_STATE
+family,enjoy,enjoy,enjoy,VERB,ILL_STATE
+bicep,train,train,train,VERB,ILL_STATE
+bicep,grow,grow,grow,VERB,ILL_STATE
+bicep,sprain,sprain,sprain,VERB,ILL_STATE
+bicep,hurt,hurt,hurt,VERB,ILL_STATE
+bicep,increase,increase,increase,VERB,ILL_STATE
+tinfoil,use,use,use,VERB,ILL_STATE
+tinfoil,fold,fold,fold,VERB,ILL_STATE
+tinfoil,tear,tear,tear,VERB,ILL_STATE
+tinfoil,bake,bake,bake,VERB,ILL_STATE
+tinfoil,cut,cut,cut,VERB,ILL_STATE
+tinfoil,cook,cook,cake,VERB,ILL_STATE
+tinfoil,steam,steam,steam,NOUN,ILL_STATE
+chronograph,see,see,see,VERB,ILL_STATE
+chronograph,time,time,time,NOUN,ILL_STATE
+chronograph,trach,trach,trach,INTJ,ILL_STATE
+ticket,punch,punch,punch,VERB,ILL_STATE
+ticket,use,use,use,VERB,ILL_STATE
+ticket,travel,travel,travel,VERB,ILL_STATE
+ticket,delay,delay,delay,VERB,ILL_STATE
+blindfold,cover,cover,cover,VERB,ILL_STATE
+blindfold,blind,blind,blind,VERB,ILL_STATE
+blindfold,close,close,close,VERB,ILL_STATE
+negligee,dress,dress,dress,NOUN,ILL_STATE
+negligee,clothe,clothes,clothes,VERB,ILL_STATE
+negligee,create,create,create,VERB,ILL_STATE
+ginger,cook,cook,cake,VERB,ILL_STATE
+ginger,bake,bake,bake,VERB,ILL_STATE
+ginger,shred,shred,shr,VERB,ILL_STATE
+ginger,peel,peel,peel,VERB,ILL_STATE
+ginger,chop,chop,chop,VERB,ILL_STATE
+ginger,grow,grow,grow,VERB,ILL_STATE
+ginger,harvest,harvest,harvest,VERB,ILL_STATE
+ginger,style,style,style,NOUN,ILL_STATE
+physician,visit,visit,visit,VERB,ILL_STATE
+physician,study,study,study,NOUN,ILL_STATE
+physician,people,people,people,NOUN,ILL_STATE
+physician,test,test,test,VERB,ILL_STATE
+bird,fly,fly,fly,VERB,ILL_STATE
+bird,throw,throw,throw,VERB,ILL_STATE
+bird,carry,carry,carry,VERB,ILL_STATE
+bird,feed,feed,feed,VERB,ILL_STATE
+bird,watch,watch,watch,VERB,ILL_STATE
+bird,observe,observe,observe,VERB,ILL_STATE
+tabasco,drip,drip,drip,VERB,ILL_STATE
+tabasco,pour,pour,pour,VERB,ILL_STATE
+tabasco,shake,shake,shake,VERB,ILL_STATE
+tabasco,throw,throw,throw,VERB,ILL_STATE
+tabasco,use,use,use,VERB,ILL_STATE
+tabasco,cook,cook,cake,VERB,ILL_STATE
+tabasco,freeze,freeze,freeze,VERB,ILL_STATE
+canvass,paint,paint,paint,VERB,ILL_STATE
+canvass,steal,steal,steal,VERB,ILL_STATE
+scale,step,step,step,VERB,ILL_STATE
+scale,measure,measure,measure,VERB,ILL_STATE
+scale,pour,pour,pour,VERB,ILL_STATE
+scale,throw,throw,throw,VERB,ILL_STATE
+scale,lose,lose,lose,VERB,ILL_STATE
+scale,gain,gain,gain,VERB,ILL_STATE
+crystal,throw,throw,throw,VERB,ILL_STATE
+crystal,grow,grow,grow,VERB,ILL_STATE
+crystal,manifest,manifest,manifest,VERB,ILL_STATE
+crystal,create,create,create,VERB,ILL_STATE
+crystal,imagine,imagine,imagine,VERB,ILL_STATE
+crystal,portray,portray,portray,VERB,ILL_STATE
+harvest,grow,grow,grow,VERB,ILL_STATE
+harvest,cut,cut,cut,VERB,ILL_STATE
+harvest,sow,sow,sow,VERB,ILL_STATE
+harvest,plant,plant,plant,VERB,ILL_STATE
+myself,grow,grow,grow,VERB,ILL_STATE
+myself,learn,learn,learn,VERB,ILL_STATE
+myself,jump,jump,jump,VERB,ILL_STATE
+myself,stand,stand,stand,VERB,ILL_STATE
+myself,breathe,breathe,breato,VERB,ILL_STATE
+myself,call,call,call,NOUN,ILL_STATE
+myself,listen,listen,listen,VERB,ILL_STATE
+myself,play,play,play,VERB,ILL_STATE
+myself,heal,heal,heal,VERB,ILL_STATE
+myself,help,help,help,VERB,ILL_STATE
+myself,develop,develop,develop,VERB,ILL_STATE
+chinaware,use,use,use,VERB,ILL_STATE
+chinaware,break,break,break,VERB,ILL_STATE
+chinaware,throw,throw,throw,VERB,ILL_STATE
+chinaware,play,play,play,VERB,ILL_STATE
+chinaware,imagine,imagine,imagine,VERB,ILL_STATE
+chinaware,act,act,act,NOUN,ILL_STATE
+chinaware,stand,stand,stand,VERB,ILL_STATE
+snowfall,play,play,play,VERB,ILL_STATE
+snowfall,freeze,freeze,freeze,VERB,ILL_STATE
+snowfall,squeeze,squeeze,squeeze,VERB,ILL_STATE
+snowfall,handle,handle,handle,NOUN,ILL_STATE
+screw,drill,drill,drill,NOUN,ILL_STATE
+screw,create,create,create,VERB,ILL_STATE
+screw,throw,throw,throw,VERB,ILL_STATE
+screw,cut,cut,cut,VERB,ILL_STATE
+screw,fix,fix,fix,VERB,ILL_STATE
+footballer,play,play,play,VERB,ILL_STATE
+footballer,grab,grab,grab,VERB,ILL_STATE
+footballer,help,help,help,VERB,ILL_STATE
+footballer,develop,develop,develop,VERB,ILL_STATE
+footballer,depend,depend,depend,NOUN,ILL_STATE
+strainer,put fruit or vegetables in to let out water,put,put,VERB,ILL_STATE
+strainer,put fruit or vegetables in to let out water,fruit,fruit,NOUN,ILL_STATE
+strainer,put fruit or vegetables in to let out water,vegetables,vegetables,NOUN,ILL_STATE
+strainer,put fruit or vegetables in to let out water,let,let,VERB,ILL_STATE
+strainer,put fruit or vegetables in to let out water,water,water,NOUN,ILL_STATE
+strainer,put pasta into to let water out,put,put,VERB,ILL_STATE
+strainer,put pasta into to let water out,pasta,pasta,NOUN,ILL_STATE
+strainer,put pasta into to let water out,let,let,VERB,ILL_STATE
+strainer,put pasta into to let water out,water,water,NOUN,ILL_STATE
+strainer,squeeze lemons,squeeze,squeeze,VERB,ILL_STATE
+strainer,squeeze lemons,lemons,lemon,NOUN,ILL_STATE
+block,stack,stack,stack,NOUN,ILL_STATE
+block,prevent from passing,prevent,prevent,VERB,ILL_STATE
+block,prevent from passing,passing,pass,NOUN,ILL_STATE
+block,throw at someone,throw,throw,VERB,ILL_STATE
+block,throw at someone,someone,someone,PRON,ILL_STATE
+block,stand on,stand,stand,VERB,ILL_STATE
+block,chew on,chew,chew,VERB,ILL_STATE
+block,pick up,pick,pick,VERB,ILL_STATE
+block,roll,roll,roll,VERB,ILL_STATE
+block,kick,kick,kick,VERB,ILL_STATE
+block,burn,burn,burn,VERB,ILL_STATE
+block,hit someone with,hit,hit,VERB,ILL_STATE
+block,hit someone with,someone,someone,PRON,ILL_STATE
+block,hide under clothing,hide,hide,VERB,ILL_STATE
+block,hide under clothing,clothing,clothes,NOUN,ILL_STATE
+clay,mold,mold,mold,NOUN,ILL_STATE
+clay,press down on,press,press,NOUN,ILL_STATE
+clay,roll,roll,roll,VERB,ILL_STATE
+clay,stand on,stand,stand,VERB,ILL_STATE
+clay,eat,eat,eat,VERB,ILL_STATE
+clay,throw,throw,throw,VERB,ILL_STATE
+landscape,draw a plan,draw,dree,VERB,ILL_STATE
+landscape,draw a plan,plan,plan,NOUN,ILL_STATE
+landscape,change regularly,change,change,NOUN,ILL_STATE
+landscape,change regularly,regularly,regularly,ADV,ILL_STATE
+landscape,walk on,walk,walk,VERB,ILL_STATE
+landscape,run on,run,run,NOUN,ILL_STATE
+landscape,drive on,drive,drive,VERB,ILL_STATE
+landscape,fall on,fall,fall,NOUN,ILL_STATE
+landscape,hop on,hop,hop,VERB,ILL_STATE
+landscape,roll on,roll,roll,VERB,ILL_STATE
+duck,float in bath,float,float,NOUN,ILL_STATE
+duck,float in bath,bath,bath,NOUN,ILL_STATE
+duck,place on desk,place,place,NOUN,ILL_STATE
+duck,place on desk,desk,desk,NOUN,ILL_STATE
+duck,place on bed,place,place,NOUN,ILL_STATE
+duck,place on bed,bed,bed,NOUN,ILL_STATE
+duck,eat,eat,eat,VERB,ILL_STATE
+duck,cook,cook,cake,VERB,ILL_STATE
+duck,add sauce to,add,add,VERB,ILL_STATE
+duck,add sauce to,sauce,sauce,NOUN,ILL_STATE
+duck,de-feather,de,de,PROPN,ILL_STATE
+duck,de-feather,feather,feather,NOUN,ILL_STATE
+duck,shoot and kill,shoot,shoot,VERB,ILL_STATE
+duck,shoot and kill,kill,kill,VERB,ILL_STATE
+duck,hunt for,hunt,hunt,VERB,ILL_STATE
+duck,skin,skin,skin,NOUN,ILL_STATE
+duck,taxiderm,taxidermy,taxidermy,NOUN,ILL_STATE
+tube,squeeze,squeeze,squeeze,VERB,ILL_STATE
+tube,press on,press,press,VERB,ILL_STATE
+tube,push,push,push,VERB,ILL_STATE
+tube,jump on,jump,jump,VERB,ILL_STATE
+tube,step on,step,step,VERB,ILL_STATE
+tube,throw,throw,throw,VERB,ILL_STATE
+tube,connect with another tube,connect,connect,VERB,ILL_STATE
+tube,connect with another tube,another,another,DET,ILL_STATE
+tube,connect with another tube,tube,tube,NOUN,ILL_STATE
+tube,blow throw,blow,blow,VERB,ILL_STATE
+tube,blow throw,throw,throw,VERB,ILL_STATE
+tube,cut,cut,cut,VERB,ILL_STATE
+coleslaw,eat,eat,eat,VERB,ILL_STATE
+coleslaw,mix around,mix,mix,VERB,ILL_STATE
+coleslaw,mix around,around,around,ADV,ILL_STATE
+coleslaw,add to other foods,add,add,VERB,ILL_STATE
+coleslaw,add to other foods,foods,food,NOUN,ILL_STATE
+coleslaw,throw,throw,throw,VERB,ILL_STATE
+coleslaw,throw up,throw,throw,VERB,ILL_STATE
+token,hold,hold,hold,VERB,ILL_STATE
+token,spin,spin,spin,NOUN,ILL_STATE
+token,flip,flip,flip,VERB,ILL_STATE
+token,drop,drop,drop,VERB,ILL_STATE
+token,step on,step,step,VERB,ILL_STATE
+token,leave in clothing,leave,leave,VERB,ILL_STATE
+token,leave in clothing,clothing,clothing,NOUN,ILL_STATE
+token,roll,roll,roll,VERB,ILL_STATE
+token,collect,collect,collect,VERB,ILL_STATE
+token,turn in for prize,turn,turn,VERB,ILL_STATE
+token,turn in for prize,prize,prize,NOUN,ILL_STATE
+token,trade,trade,trade,VERB,ILL_STATE
+belly,rub,rub,rub,VERB,ILL_STATE
+belly,pat,pat,pat,VERB,ILL_STATE
+belly,hit,hit,hit,VERB,ILL_STATE
+belly,punch,punch,punch,VERB,ILL_STATE
+belly,land on,land,land,NOUN,ILL_STATE
+belly,balance on,balance,balance,VERB,ILL_STATE
+belly,tickle,tickle,tickle,VERB,ILL_STATE
+belly,cut,cut,cut,VERB,ILL_STATE
+belly,strengthen,strengthen,strengthen,VERB,ILL_STATE
+belly,fill,fill,fill,NOUN,ILL_STATE
+belly,put water on,put,put,VERB,ILL_STATE
+belly,put water on,water,water,NOUN,ILL_STATE
+belly,lick,lick,lick,VERB,ILL_STATE
+mayor,ask for advice,ask,ask,VERB,ILL_STATE
+mayor,ask for advice,advice,advice,NOUN,ILL_STATE
+mayor,listen to,listen,listen,VERB,ILL_STATE
+mayor,voice opinion,voice,voice,NOUN,ILL_STATE
+mayor,voice opinion,opinion,opinion,NOUN,ILL_STATE
+mayor,represent,represent,represent,VERB,ILL_STATE
+mayor,vote,vote,vote,NOUN,ILL_STATE
+goblet,hold,hold,hold,VERB,ILL_STATE
+goblet,lift,lift,lift,VERB,ILL_STATE
+goblet,put down,put,put,VERB,ILL_STATE
+goblet,throw,throw,throw,VERB,ILL_STATE
+goblet,place objects inside,place,place,NOUN,ILL_STATE
+goblet,place objects inside,objects,object,VERB,ILL_STATE
+goblet,place objects inside,inside,inside,ADV,ILL_STATE
+goblet,squat with,squat,squat,VERB,ILL_STATE
+goblet,stand on,stand,stand,VERB,ILL_STATE
+goblet,roll,roll,roll,VERB,ILL_STATE
+chemicals,mix,mix,mix,NOUN,ILL_STATE
+chemicals,ingest,ingest,ingest,VERB,ILL_STATE
+chemicals,pour,pour,pour,VERB,ILL_STATE
+chemicals,secrete,secrete,secrete,VERB,ILL_STATE
+tyke,cut,cut,cut,VERB,ILL_STATE
+tyke,sit on,sit,sit,VERB,ILL_STATE
+tyke,place water on,place,place,NOUN,ILL_STATE
+tyke,place water on,water,water,NOUN,ILL_STATE
+altarpiece,place on altar,place,place,NOUN,ILL_STATE
+altarpiece,place on altar,altar,altar,NOUN,ILL_STATE
+altarpiece,hold,hold,hold,VERB,ILL_STATE
+altarpiece,kiss,kiss,kiss,VERB,ILL_STATE
+altarpiece,hug,hug,hug,VERB,ILL_STATE
+altarpiece,put down,put,put,VERB,ILL_STATE
+altarpiece,throw,throw,throw,VERB,ILL_STATE
+altarpiece,stand on,stand,stand,VERB,ILL_STATE
+altarpiece,look at,look,look,VERB,ILL_STATE
+wound,clean out,clean,clean,VERB,ILL_STATE
+wound,rinse with water,rinse,rinse,VERB,ILL_STATE
+wound,rinse with water,water,water,NOUN,ILL_STATE
+wound,put neosporin into,put,put,VERB,ILL_STATE
+wound,put neosporin into,neosporin,neosporin,NOUN,ILL_STATE
+wound,put bandaid over,put,put,VERB,ILL_STATE
+wound,put bandaid over,bandage,bandage,NOUN,ILL_STATE
+wound,pick,pick,pick,VERB,ILL_STATE
+wound,ooze,ooze,ooze,VERB,ILL_STATE
+wound,bleed,bleed,bleed,VERB,ILL_STATE
+wound,scab,scab,scab,VERB,ILL_STATE
+veal,cook,cook,cake,VERB,ILL_STATE
+veal,chew,chew,chew,VERB,ILL_STATE
+veal,swallow,swallow,swallow,VERB,ILL_STATE
+veal,cut,cut,cut,VERB,ILL_STATE
+veal,spit out,spit,spit,VERB,ILL_STATE
+veal,digest,digest,digest,VERB,ILL_STATE
+suit,wear,wear,wear,VERB,ILL_STATE
+suit,iron,iron,iron,VERB,ILL_STATE
+suit,wash,wash,wash,VERB,ILL_STATE
+suit,dry,dry,dry,VERB,ILL_STATE
+suit,borrow,borrow,borrow,VERB,ILL_STATE
+suit,lend,lend,lend,VERB,ILL_STATE
+suit,hang up,hang,hang,VERB,ILL_STATE
+suit,put on,put,put,VERB,ILL_STATE
+suit,look at,look,look,VERB,ILL_STATE
+suit,stand on,stand,stand,VERB,ILL_STATE
+suit,ball up,ball,ball,NOUN,ILL_STATE
+suit,place in bag,place,place,VERB,ILL_STATE
+suit,place in bag,bag,bag,NOUN,ILL_STATE
+shell,collect,collect,collect,VERB,ILL_STATE
+shell,scoop items,scoop,scoop,VERB,ILL_STATE
+shell,scoop items,items,item,NOUN,ILL_STATE
+shell,place into jar,place,place,NOUN,ILL_STATE
+shell,place into jar,jar,jar,NOUN,ILL_STATE
+shell,crack open,crack,crack,VERB,ILL_STATE
+shell,crack open,open,open,ADJ,ILL_STATE
+shell,break,break,break,VERB,ILL_STATE
+shell,throw,throw,throw,VERB,ILL_STATE
+shell,step on,step,step,VERB,ILL_STATE
+shell,hold,hold,hold,VERB,ILL_STATE
+purse,hold,hold,hold,VERB,ILL_STATE
+purse,place items in,place,place,VERB,ILL_STATE
+purse,place items in,items,item,NOUN,ILL_STATE
+purse,take items from,take,take,VERB,ILL_STATE
+purse,take items from,items,item,NOUN,ILL_STATE
+purse,hold,hold,hold,VERB,ILL_STATE
+purse,put down,put,put,VERB,ILL_STATE
+purse,look at,look,look,VERB,ILL_STATE
+purse,step on,step,step,VERB,ILL_STATE
+purse,throw,throw,throw,VERB,ILL_STATE
+purse,spend money on,spend,spend,VERB,ILL_STATE
+purse,spend money on,money,money,NOUN,ILL_STATE
+vessel,float at sea,float,float,VERB,ILL_STATE
+vessel,float at sea,sea,sea,NOUN,ILL_STATE
+vessel,transport from one area to another,transport,transport,VERB,ILL_STATE
+vessel,transport from one area to another,one,one,NUM,ILL_STATE
+vessel,transport from one area to another,area,area,NOUN,ILL_STATE
+vessel,transport from one area to another,another,another,DET,ILL_STATE
+vessel,store on or near land,store,store,VERB,ILL_STATE
+vessel,store on or near land,near,near,ADV,ILL_STATE
+vessel,store on or near land,land,land,NOUN,ILL_STATE
+vessel,clean,clean,clean,VERB,ILL_STATE
+vessel,sink,sink,sink,VERB,ILL_STATE
+vessel,blow up,blow,blow,VERB,ILL_STATE
+vessel,sit on,sit,sit,VERB,ILL_STATE
+vessel,dance on,dance,dance,VERB,ILL_STATE
+vessel,lay on,lay,lay,VERB,ILL_STATE
+vessel,sleep on,sleep,sleep,VERB,ILL_STATE
+cane,use to walk,use,use,VERB,ILL_STATE
+cane,use to walk,walk,walk,VERB,ILL_STATE
+cane,use to hit,use,use,VERB,ILL_STATE
+cane,use to hit,hit,hit,VERB,ILL_STATE
+cane,use for balance,use,use,VERB,ILL_STATE
+cane,use for balance,balance,balance,VERB,ILL_STATE
+cane,decor,decor,decorate,VERB,ILL_STATE
+cane,block door,block,block,VERB,ILL_STATE
+cane,block door,door,door,NOUN,ILL_STATE
+cane,break items,break,break,VERB,ILL_STATE
+cane,break items,items,item,NOUN,ILL_STATE
+cane,hit items,hit,hit,VERB,ILL_STATE
+cane,hit items,items,item,NOUN,ILL_STATE
+asparagus,chew,chew,chew,VERB,ILL_STATE
+asparagus,swallow,swallow,swallow,VERB,ILL_STATE
+asparagus,cook,cook,cake,VERB,ILL_STATE
+asparagus,cut,cut,cut,VERB,ILL_STATE
+asparagus,smash,smash,smash,VERB,ILL_STATE
+asparagus,grow,grow,grow,VERB,ILL_STATE
+asparagus,plant,plant,plant,VERB,ILL_STATE
+asparagus,tear,tear,tear,VERB,ILL_STATE
+platter,wash,wash,wash,VERB,ILL_STATE
+platter,serve food,serve,serve,VERB,ILL_STATE
+platter,serve food,food,food,NOUN,ILL_STATE
+platter,stow away,stow,stow,VERB,ILL_STATE
+platter,stow away,away,away,ADV,ILL_STATE
+platter,stack,stack,stack,VERB,ILL_STATE
+platter,collect,collect,collect,VERB,ILL_STATE
+platter,display,display,display,VERB,ILL_STATE
+bench,sit on,sit,sit,VERB,ILL_STATE
+bench,stand on,stand,stand,VERB,ILL_STATE
+bench,lay on,lay,lay,VERB,ILL_STATE
+bench,block area,block,block,VERB,ILL_STATE
+bench,block area,area,area,NOUN,ILL_STATE
+bench,throw,throw,throw,VERB,ILL_STATE
+bench,turn in different directions,turn,turn,VERB,ILL_STATE
+bench,turn in different directions,different,different,ADJ,ILL_STATE
+bench,turn in different directions,directions,direction,NOUN,ILL_STATE
+orchard,grow fruit and vegetables,grow,grow,VERB,ILL_STATE
+orchard,grow fruit and vegetables,fruit,fruit,NOUN,ILL_STATE
+orchard,grow fruit and vegetables,vegetables,vegetables,NOUN,ILL_STATE
+orchard,pick fruit and vegetables,pick,pick,VERB,ILL_STATE
+orchard,pick fruit and vegetables,fruit,fruit,NOUN,ILL_STATE
+orchard,pick fruit and vegetables,vegetables,vegetables,NOUN,ILL_STATE
+orchard,water,water,water,NOUN,ILL_STATE
+orchard,maintain,maintain,maintain,VERB,ILL_STATE
+orchard,pull weeds from,pull,pull,VERB,ILL_STATE
+orchard,pull weeds from,weeds,weed,NOUN,ILL_STATE
+orchard,kill insects,kill,kill,VERB,ILL_STATE
+orchard,kill insects,insects,insects,NOUN,ILL_STATE
+orchard,walk on,walk,walk,VERB,ILL_STATE
+orchard,run on,run,run,NOUN,ILL_STATE
+rancher,take care of farm,take,take,VERB,ILL_STATE
+rancher,take care of farm,care,care,NOUN,ILL_STATE
+rancher,take care of farm,farm,farm,NOUN,ILL_STATE
+rancher,herd animals,herd,herd,VERB,ILL_STATE
+rancher,herd animals,animals,animal,NOUN,ILL_STATE
+rancher,grow plants,grow,grow,VERB,ILL_STATE
+rancher,grow plants,plants,plant,NOUN,ILL_STATE
+rancher,maintain plants,maintain,maintain,VERB,ILL_STATE
+rancher,maintain plants,plants,plant,NOUN,ILL_STATE
+rancher,work,work,work,NOUN,ILL_STATE
+elbow,bend,bend,bend,NOUN,ILL_STATE
+elbow,straighten,straighten,straighten,VERB,ILL_STATE
+elbow,break,break,break,VERB,ILL_STATE
+elbow,bruise,bruise,bruise,VERB,ILL_STATE
+elbow,cut,cut,cut,VERB,ILL_STATE
+elbow,touch,touch,touch,VERB,ILL_STATE
+elbow,kiss,kiss,kiss,VERB,ILL_STATE
+elbow,crack,crack,crack,VERB,ILL_STATE
+elbow,eat,eat,eat,VERB,ILL_STATE
+saleslady,talk to,talk,talk,VERB,ILL_STATE
+saleslady,sell product,sell,sell,VERB,ILL_STATE
+saleslady,sell product,product,product,NOUN,ILL_STATE
+saleslady,touch,touch,touch,VERB,ILL_STATE
+saleslady,chase,chase,chase,VERB,ILL_STATE
+saleslady,pick up,pick,pick,VERB,ILL_STATE
+saleslady,drive around,drive,drive,VERB,ILL_STATE
+saleslady,drive around,around,around,ADV,ILL_STATE
+wrapper,open,open,open,VERB,ILL_STATE
+wrapper,crinkle,crinkle,crinkle,VERB,ILL_STATE
+wrapper,throw away,throw,throw,VERB,ILL_STATE
+wrapper,throw away,away,away,ADV,ILL_STATE
+wrapper,close on an item,close,close,VERB,ILL_STATE
+wrapper,close on an item,item,item,NOUN,ILL_STATE
+wrapper,tear into pieces,tear,tear,VERB,ILL_STATE
+wrapper,tear into pieces,pieces,piece,NOUN,ILL_STATE
+wrapper,tape back together,tape,tape,NOUN,ILL_STATE
+wrapper,tape back together,back,back,ADV,ILL_STATE
+wrapper,tape back together,together,together,ADV,ILL_STATE
+wrapper,collect,collect,collect,VERB,ILL_STATE
+hardware,build objects,build,build,NOUN,ILL_STATE
+hardware,build objects,objects,object,VERB,ILL_STATE
+hardware,clean,clean,clean,VERB,ILL_STATE
+hardware,stow away,stow,stow,VERB,ILL_STATE
+hardware,stow away,away,away,ADV,ILL_STATE
+hardware,sell,sell,sell,VERB,ILL_STATE
+hardware,hang,hang,hang,VERB,ILL_STATE
+hardware,shelf ,shelf,shelf,NOUN,ILL_STATE
+kilt,worn,worn,wear,VERB,ILL_STATE
+kilt,tossed,tossed,toss,VERB,ILL_STATE
+kilt,thrown,thrown,throw,VERB,ILL_STATE
+cushion,decoration,decoration,decorate,VERB,ILL_STATE
+cushion,comfort,comfort,comfort,NOUN,ILL_STATE
+cushion,sitting,sitting,sit,VERB,ILL_STATE
+cushion,laying,laying,lay,VERB,ILL_STATE
+cushion,safety,safety,safety,NOUN,ILL_STATE
+cushion,cleaned,cleaned,clean,VERB,ILL_STATE
+motorboat,spun,spun,spun,NOUN,ILL_STATE
+motorboat,driven,driven,drive,VERB,ILL_STATE
+motorboat,sold,sold,sell,VERB,ILL_STATE
+motorboat,fishing,fishing,fish,VERB,ILL_STATE
+suspender,worn,worn,wear,VERB,ILL_STATE
+pine,scent,scent,scent,NOUN,ILL_STATE
+pine,decoration,decoration,decorate,VERB,ILL_STATE
+pine,sap,sap,sap,NOUN,ILL_STATE
+pine,furniture,furniture,furniture,NOUN,ILL_STATE
+pine,gardening,gardening,garde,VERB,ILL_STATE
+mulch,gardening,gardening,garde,VERB,ILL_STATE
+mulch,decor,decor,decor,VERB,ILL_STATE
+mulch,moisture,moisture,moisture,NOUN,ILL_STATE
+mulch,plants ,plants,plant,NOUN,ILL_STATE
+funnel,drinking,drinking,drink,VERB,ILL_STATE
+funnel,cooking,cooking,cook,VERB,ILL_STATE
+funnel,baking,baking,bake,VERB,ILL_STATE
+funnel,liquids,liquids,liquid,NOUN,ILL_STATE
+funnel,filtering ,filtering,filter,VERB,ILL_STATE
+eyelid,blinking,blinking,blink,VERB,ILL_STATE
+eyelid,protection,protection,protect,VERB,ILL_STATE
+eyelid,makeup,makeup,makeup,NOUN,ILL_STATE
+eyelid,sleeping,sleeping,sleep,VERB,ILL_STATE
+controller,gaming,gaming,game,NOUN,ILL_STATE
+controller,television,television,television,NOUN,ILL_STATE
+controller,playing,playing,play,VERB,ILL_STATE
+store,groceries,groceries,grocery,NOUN,ILL_STATE
+store,buying,buying,buy,VERB,ILL_STATE
+store,selling,selling,sell,VERB,ILL_STATE
+store,looking,looking,look,VERB,ILL_STATE
+storeroom,storing,storing,store,VERB,ILL_STATE
+storeroom,organize,organize,organize,VERB,ILL_STATE
+storeroom,secure,secure,secure,VERB,ILL_STATE
+silk,wear,wear,wear,VERB,ILL_STATE
+silk,clothing,clothing,clothing,NOUN,ILL_STATE
+silk,comfort,comfort,comfort,VERB,ILL_STATE
+silk,fashion,fashion,fashion,NOUN,ILL_STATE
+peanut,eat,eat,eat,VERB,ILL_STATE
+peanut,baking,baking,bake,VERB,ILL_STATE
+peanut,cooking,cooking,cook,VERB,ILL_STATE
+peanut,smelling,smelling,smell,VERB,ILL_STATE
+peanut,tasting ,tasting,taste,VERB,ILL_STATE
+Guitar,playing,playing,play,VERB,ILL_STATE
+Guitar,strumming,strumming,strumm,VERB,ILL_STATE
+Guitar,listening,listening,listen,VERB,ILL_STATE
+Guitar,hearing,hearing,hear,VERB,ILL_STATE
+grandniece,love,love,love,VERB,ILL_STATE
+daddy,hug,hug,hug,VERB,ILL_STATE
+daddy,love,love,love,VERB,ILL_STATE
+daddy,adore,adore,adore,VERB,ILL_STATE
+daddy,learn,learn,learn,VERB,ILL_STATE
+daddy,play,play,play,VERB,ILL_STATE
+conductor,safety,safety,safety,NOUN,ILL_STATE
+conductor,trains,trains,train,NOUN,ILL_STATE
+goldfish,watch,watch,watch,VERB,ILL_STATE
+goldfish,adore,adore,adore,VERB,ILL_STATE
+goldfish,admire,admire,admire,VERB,ILL_STATE
+tent,sleep,sleep,sleep,NOUN,ILL_STATE
+tent,safety,safety,safety,NOUN,ILL_STATE
+tent,camp,camp,camp,NOUN,ILL_STATE
+tent,hiding,hiding,hi,VERB,ILL_STATE
+tent,shelter,shelter,shelter,NOUN,ILL_STATE
+pad,wear,wear,wear,VERB,ILL_STATE
+person,hug,hug,hug,VERB,ILL_STATE
+person,love,love,love,NOUN,ILL_STATE
+person,adore,adore,adore,VERB,ILL_STATE
+person,learn,learn,learn,VERB,ILL_STATE
+person,help,help,help,VERB,ILL_STATE
+radish,eat,eat,eat,VERB,ILL_STATE
+radish,cook,cook,cake,VERB,ILL_STATE
+radish,smell,smell,smell,VERB,ILL_STATE
+radish,taste,taste,taste,VERB,ILL_STATE
+cheese,eat,eat,eat,VERB,ILL_STATE
+cheese,cook,cook,cake,VERB,ILL_STATE
+cheese,melt,melt,melt,NOUN,ILL_STATE
+cheese,bake,bake,bake,VERB,ILL_STATE
+cheese,smell,smell,smell,VERB,ILL_STATE
+cheese,enjoy,enjoy,enjoy,VERB,ILL_STATE
+medic,emergency,emergency,emergency,NOUN,ILL_STATE
+medic,help,help,help,VERB,ILL_STATE
+mucous,moistness,moistness,moistness,NOUN,ILL_STATE
+banquet,wedding,wedding,wedding,NOUN,ILL_STATE
+banquet,prom,prom,prom,X,ILL_STATE
+salesman,buy,buy,buy,VERB,ILL_STATE
+salesman,listen,listen,listen,VERB,ILL_STATE
+grapevine,wine,wine,wine,NOUN,ILL_STATE
+grapevine,eating,eating,eat,VERB,ILL_STATE
+grapevine,tasting,tasting,taste,VERB,ILL_STATE
+eyebath,rinse,rinse,rinse,VERB,ILL_STATE
+eyebath,clean,clean,clean,VERB,ILL_STATE
+people,love,love,love,NOUN,ILL_STATE
+people,help,help,help,VERB,ILL_STATE
+people,care,care,care,VERB,ILL_STATE
+people,hug,hug,hug,VERB,ILL_STATE
+powderpuff,football game,football,football,NOUN,ILL_STATE
+powderpuff,football game,game,game,NOUN,ILL_STATE
+pedal,bike,bike,bike,NOUN,ILL_STATE
+pedal,car,car,car,NOUN,ILL_STATE
+pedal,transportation,transportation,transport,VERB,ILL_STATE
+doll,play,play,play,VERB,ILL_STATE
+doll,dress,dress,dress,NOUN,ILL_STATE
+doll,buy,buy,buy,VERB,ILL_STATE
+medication,consume,consume,consume,VERB,ILL_STATE
+medication,pharmacy,pharmacy,pharmacy,NOUN,ILL_STATE
+medication,pain-relieving,pain,pain,NOUN,ILL_STATE
+medication,pain-relieving,relieving,relieive,VERB,ILL_STATE
+sandbank,sand,sand,sand,NOUN,ILL_STATE
+sandbank,water,water,water,NOUN,ILL_STATE
+sandbank,lake,lake,lake,NOUN,ILL_STATE
+sandbank,beaches,beaches,beach,NOUN,ILL_STATE
+paprika,cooking,cooking,cook,NOUN,ILL_STATE
+paprika,spice,spice,spice,NOUN,ILL_STATE
+paprika,flavor,flavor,flavor,NOUN,ILL_STATE
+keyhole,key,key,key,ADJ,ILL_STATE
+keyhole,unlock,unlock,unlock,NOUN,ILL_STATE
+keyhole,lock,lock,lock,NOUN,ILL_STATE
+keyhole,doors,doors,door,NOUN,ILL_STATE
+tranquilizers,reduce tension,reduce,reduce,VERB,ILL_STATE
+tranquilizers,reduce tension,tension,tension,NOUN,ILL_STATE
+tranquilizers,reduce anxiety,reduce,reduce,VERB,ILL_STATE
+tranquilizers,reduce anxiety,anxiety,anxiety,NOUN,ILL_STATE
+tranquilizers,drug,drug,drug,NOUN,ILL_STATE
+bazooka,gun,gun,gun,NOUN,ILL_STATE
+bazooka,weapon,weapon,weapon,NOUN,ILL_STATE
+bazooka,war,war,war,NOUN,ILL_STATE
+postman,deliver,deliver,deliver,VERB,ILL_STATE
+postman,mail,mail,mail,NOUN,ILL_STATE
+postman,walking,walking,walk,VERB,ILL_STATE
+postman,letters,letters,letter,NOUN,ILL_STATE
+postman,packages,packages,packages,NOUN,ILL_STATE
+prosecutor,lawyer,lawyer,lawyer,NOUN,ILL_STATE
+prosecutor,court,court,court,NOUN,ILL_STATE
+pomegranate,fruit,fruit,fruit,NOUN,ILL_STATE
+pomegranate,eat,eat,eat,VERB,ILL_STATE
+pomegranate,seeds,seeds,seed,NOUN,ILL_STATE
+pomegranate,juice,juice,juice,NOUN,ILL_STATE
+worker,gets paid,gets,get,VERB,ILL_STATE
+worker,gets paid,paid,pay,VERB,ILL_STATE
+copper,element,element,element,NOUN,ILL_STATE
+copper,equipment,equipment,equipment,NOUN,ILL_STATE
+copper,wiring,wiring,wiring,NOUN,ILL_STATE
+copper,motors,motors,motor,NOUN,ILL_STATE
+copper,pipes,pipes,pipe,NOUN,ILL_STATE
+woodwork,carving,carving,carve,VERB,ILL_STATE
+woodwork,tools,tools,tool,NOUN,ILL_STATE
+woodwork,skill,skill,skill,NOUN,ILL_STATE
+waste,smelly,smelly,smelly,ADV,ILL_STATE
+cedar,trees,trees,tree,NOUN,ILL_STATE
+hoop,basketball,basketball,basketball,NOUN,ILL_STATE
+hoop,hula hoop,hula,hula,X,ILL_STATE
+hoop,hula hoop,hoop,hoop,NOUN,ILL_STATE
+Picture Frame,memories,memories,memories,NOUN,ILL_STATE
+Picture Frame,hold pictures,hold,hold,VERB,ILL_STATE
+Picture Frame,hold pictures,pictures,picture,NOUN,ILL_STATE
+Picture Frame,decorate,decorate,decorate,VERB,ILL_STATE
+antiques,old,old,old,ADJ,ILL_STATE
+antiques,valuable,valuable,valuable,ADJ,ILL_STATE
+antiques,display,display,display,NOUN,ILL_STATE
+cabbage,soup,soup,soup,NOUN,ILL_STATE
+cabbage,meals,meals,meal,NOUN,ILL_STATE
+cabbage,eat,eat,eat,VERB,ILL_STATE
+cabbage,vegetable,vegetable,vegetable,NOUN,ILL_STATE
+eyepiece,visual,visual,visual,ADJ,ILL_STATE
+motel,sleep,sleep,sleep,NOUN,ILL_STATE
+motel,sleepover,sleepover,sleepover,NOUN,ILL_STATE
+motel,sex,sex,sex,VERB,ILL_STATE
+motel,drink,drink,drink,VERB,ILL_STATE
+case,phone,phone,phone,NOUN,ILL_STATE
+case,laptop,laptop,laptop,NOUN,ILL_STATE
+case,stopping,stopping,stop,NOUN,ILL_STATE
+ashcan,ash,ash,ash,INTJ,ILL_STATE
+ashcan,wood,wood,wood,NOUN,ILL_STATE
+ashcan,coal fires,coal,coal,NOUN,ILL_STATE
+ashcan,coal fires,fires,fire,NOUN,ILL_STATE
+seating,waiting,waiting,wait,VERB,ILL_STATE
+seating,studying,studying,study,VERB,ILL_STATE
+seating,reading,reading,read,NOUN,ILL_STATE
+hoe,digging dirt,digging,digge,VERB,ILL_STATE
+hoe,digging dirt,dirt,dirt,NOUN,ILL_STATE
+hoe,dig soil,dig,dig,VERB,ILL_STATE
+hoe,dig soil,soil,soil,NOUN,ILL_STATE
+hoe,harvest crops,harvest,harvest,VERB,ILL_STATE
+hoe,harvest crops,crops,crop,NOUN,ILL_STATE
+hoe,breaking things,breaking,break,NOUN,ILL_STATE
+hoe,breaking things,things,thing,NOUN,ILL_STATE
+hoe,removing weeds ,removing,remove,VERB,ILL_STATE
+hoe,removing weeds ,weeds,weed,NOUN,ILL_STATE
+pantry,food,food,food,NOUN,ILL_STATE
+pantry,storage,storage,store,VERB,ILL_STATE
+pantry,cans,cans,can,NOUN,ILL_STATE
+pantry,store products,store,store,VERB,ILL_STATE
+pantry,store products,products,product,NOUN,ILL_STATE
+arrow,shooting targets,shooting,shoot,VERB,ILL_STATE
+arrow,shooting targets,targets,target,NOUN,ILL_STATE
+arrow,hunting animals,hunting,hunt,VERB,ILL_STATE
+arrow,hunting animals,animals,animal,NOUN,ILL_STATE
+arrow,sport,sport,sport,NOUN,ILL_STATE
+paperback,reading,reading,read,VERB,ILL_STATE
+paperback,cheap,cheap,cheap,ADJ,ILL_STATE
+paperback,books,books,book,NOUN,ILL_STATE
+paperback,textbooks,textbooks,textbook,NOUN,ILL_STATE
+shelter,seek protection,seek,seek,VERB,ILL_STATE
+shelter,seek protection,protection,protect,VERB,ILL_STATE
+shelter,warmth,warmth,warmth,NOUN,ILL_STATE
+shelter,house,house,house,NOUN,ILL_STATE
+shelter,building,building,building,NOUN,ILL_STATE
+shelter,to work at your job,work,work,NOUN,ILL_STATE
+shelter,to work at your job,job,job,NOUN,ILL_STATE
+shelter,emergency locations,emergency,emergency,NOUN,ILL_STATE
+shelter,emergency locations,locations,location,NOUN,ILL_STATE
+drug,treat patients,treat,treat,VERB,ILL_STATE
+drug,treat patients,patients,patient,NOUN,ILL_STATE
+drug,health,health,health,NOUN,ILL_STATE
+drug,energy,energy,energy,NOUN,ILL_STATE
+drug,painkiller,painkiller,painkiller,NOUN,ILL_STATE
+drug,medical care,medical,medical,ADJ,ILL_STATE
+drug,medical care,care,care,NOUN,ILL_STATE
+drug,to get high,get,get,VERB,ILL_STATE
+drug,to get high,high,high,INTJ,ILL_STATE
+groundsman,mowing lawn,mowing,mow,VERB,ILL_STATE
+groundsman,mowing lawn,lawn,lawn,NOUN,ILL_STATE
+groundsman,trimming trees,trimming,trimm,VERB,ILL_STATE
+groundsman,trimming trees,trees,tree,NOUN,ILL_STATE
+groundsman,caring for plants and grass,caring,care,VERB,ILL_STATE
+groundsman,caring for plants and grass,plants,plant,NOUN,ILL_STATE
+groundsman,caring for plants and grass,grass,grass,NOUN,ILL_STATE
+avocado,bread,bread,bread,NOUN,ILL_STATE
+avocado,tacos,tacos,taco,NOUN,ILL_STATE
+avocado,food,food,food,NOUN,ILL_STATE
+avocado,face masks,face,face,NOUN,ILL_STATE
+avocado,face masks,masks,mask,NOUN,ILL_STATE
+fruit,bowl,bowl,bowl,NOUN,ILL_STATE
+fruit,decoration,decoration,decorate,VERB,ILL_STATE
+fruit,food,food,food,NOUN,ILL_STATE
+fruit,health,health,health,NOUN,ILL_STATE
+fruit,smash,smash,smash,VERB,ILL_STATE
+fruit,eat,eat,eat,VERB,ILL_STATE
+phalanges,typing,typing,type,NOUN,ILL_STATE
+phalanges,tying shoes,tying,tie,VERB,ILL_STATE
+phalanges,tying shoes,shoes,shoe,VERB,ILL_STATE
+beef,tacos,tacos,taco,NOUN,ILL_STATE
+beef,food,food,food,NOUN,ILL_STATE
+beef,eat,eat,eat,VERB,ILL_STATE
+beef,steak,steak,steak,NOUN,ILL_STATE
+beef,ribs,ribs,rib,NOUN,ILL_STATE
+beef,restaurant,restaurant,restaurant,NOUN,ILL_STATE
+creek,science,science,science,NOUN,ILL_STATE
+creek,swim,swim,swim,VERB,ILL_STATE
+creek,skip rocks,skip,skip,VERB,ILL_STATE
+creek,skip rocks,rocks,rock,NOUN,ILL_STATE
+creek,fish,fish,fish,NOUN,ILL_STATE
+creek,kayak ,kayak,kayak,VERB,ILL_STATE
+matter,issue,issue,issue,NOUN,ILL_STATE
+matter,problem,problem,problem,NOUN,ILL_STATE
+strongbox,keeping passwords/items safe,keeping,keep,VERB,ILL_STATE
+strongbox,keeping passwords/items safe,passwords,passwords,NOUN,ILL_STATE
+strongbox,keeping passwords/items safe,items,item,NOUN,ILL_STATE
+strongbox,keeping passwords/items safe,safe,safe,ADJ,ILL_STATE
+strongbox,jewels,jewels,jewel,NOUN,ILL_STATE
+strongbox,money,money,money,NOUN,ILL_STATE
+strongbox,documents,documents,document,NOUN,ILL_STATE
+strongbox,safeguarding valuables ,safeguarding,safeguard,VERB,ILL_STATE
+strongbox,safeguarding valuables ,valuables,valuable,NOUN,ILL_STATE
+excavator,move large things,move,move,VERB,ILL_STATE
+excavator,move large things,large,large,ADJ,ILL_STATE
+excavator,move large things,things,thing,NOUN,ILL_STATE
+excavator,dig dirt,dig,dig,VERB,ILL_STATE
+excavator,dig dirt,dirt,dirt,NOUN,ILL_STATE
+excavator,demolishing things,demolishing,demolish,VERB,ILL_STATE
+excavator,demolishing things,things,thing,NOUN,ILL_STATE
+excavator,dredging rivers ,dredging,dredge,VERB,ILL_STATE
+excavator,dredging rivers ,rivers,rivers,NOUN,ILL_STATE
+tailcoat,wedding,wedding,wedding,NOUN,ILL_STATE
+tailcoat,prom,prom,prom,X,ILL_STATE
+tailcoat,homecoming,homecoming,homecom,VERB,ILL_STATE
+tailcoat,events,events,event,NOUN,ILL_STATE
+tailcoat,red carpet,red,red,ADJ,ILL_STATE
+tailcoat,red carpet,carpet,carpet,NOUN,ILL_STATE
+tailcoat,formal occasions,formal,formal,ADJ,ILL_STATE
+tailcoat,formal occasions,occasions,occasion,NOUN,ILL_STATE
+client,business,business,business,NOUN,ILL_STATE
+client,sale products,sale,sale,NOUN,ILL_STATE
+client,sale products,products,product,NOUN,ILL_STATE
+plum,face mask,face,face,NOUN,ILL_STATE
+plum,face mask,mask,mask,NOUN,ILL_STATE
+plum,eating,eating,eat,VERB,ILL_STATE
+plum,for health,health,health,NOUN,ILL_STATE
+plum,step on it,step,step,NOUN,ILL_STATE
+plum,smash it,smash,smash,VERB,ILL_STATE
+plum,plant/pick it,plant,plant,NOUN,ILL_STATE
+plum,plant/pick it,pick,pick,VERB,ILL_STATE
+body,communicate,communicate,communicate,VERB,ILL_STATE
+body,exercise,exercise,exercise,NOUN,ILL_STATE
+body,walk,walk,walk,VERB,ILL_STATE
+body,do things,things,thing,NOUN,ILL_STATE
+body,hold things,hold,hold,VERB,ILL_STATE
+body,hold things,things,thing,NOUN,ILL_STATE
+body,write,write,write,VERB,ILL_STATE
+body,dancing,dancing,dance,VERB,ILL_STATE
+body,play sports,play,play,VERB,ILL_STATE
+body,play sports,sports,sport,NOUN,ILL_STATE
+body,swim,swim,swim,VERB,ILL_STATE
+roll,relieve muscles,relieve,relieve,VERB,ILL_STATE
+roll,relieve muscles,muscles,muscle,NOUN,ILL_STATE
+roll,increase joint pain,increase,increase,NOUN,ILL_STATE
+roll,increase joint pain,joint,joint,ADJ,ILL_STATE
+roll,increase joint pain,pain,pain,NOUN,ILL_STATE
+roll,relieve soreness,relieve,relieve,VERB,ILL_STATE
+roll,relieve soreness,soreness,soreness,NOUN,ILL_STATE
+roll,yoga,yoga,yoga,NOUN,ILL_STATE
+roll,rolling,rolling,roll,NOUN,ILL_STATE
+linoleum,walking on,walking,walk,NOUN,ILL_STATE
+linoleum,decorating,decorating,decorate,VERB,ILL_STATE
+linoleum,for houses,houses,house,NOUN,ILL_STATE
+linoleum,sampling,sampling,sample,NOUN,ILL_STATE
+linoleum,kitchens,kitchens,kitchen,NOUN,ILL_STATE
+linoleum,bathrooms,bathrooms,bathroom,NOUN,ILL_STATE
+linoleum,living room,living,live,NOUN,ILL_STATE
+linoleum,living room,room,room,NOUN,ILL_STATE
+torchlight,self defense,self,self,NOUN,ILL_STATE
+torchlight,self defense,defense,defense,NOUN,ILL_STATE
+torchlight,safety,safety,safety,NOUN,ILL_STATE
+torchlight,use in the dark,use,use,VERB,ILL_STATE
+torchlight,use in the dark,dark,dark,ADJ,ILL_STATE
+torchlight,emergency situations,emergency,emergency,NOUN,ILL_STATE
+torchlight,emergency situations,situations,situation,NOUN,ILL_STATE
+torchlight,start a fire,start,start,VERB,ILL_STATE
+torchlight,start a fire,fire,fire,NOUN,ILL_STATE
+torchlight,camping,camping,camp,VERB,ILL_STATE
+torchlight,decorations,decorations,decorate,VERB,ILL_STATE
+illustrator,create logos,create,create,VERB,ILL_STATE
+illustrator,create logos,logos,logo,NOUN,ILL_STATE
+illustrator,icons,icons,icon,NOUN,ILL_STATE
+illustrator,charts,charts,chart,NOUN,ILL_STATE
+illustrator,posters,posters,poster,NOUN,ILL_STATE
+illustrator,books,books,book,NOUN,ILL_STATE
+illustrator,magazine,magazine,magazine,NOUN,ILL_STATE
+illustrator,comic books,comic,comic,ADJ,ILL_STATE
+illustrator,comic books,books,book,NOUN,ILL_STATE
+illustrator,books,books,book,NOUN,ILL_STATE
+illustrator,school books,school,school,NOUN,ILL_STATE
+illustrator,school books,books,book,NOUN,ILL_STATE
+illustrator,brochures,brochures,brochure,NOUN,ILL_STATE
+illustrator,menus,menus,menus,X,ILL_STATE
+stick,crafts,crafts,craft,NOUN,ILL_STATE
+stick,draw on sand,draw,dree,VERB,ILL_STATE
+stick,draw on sand,sand,sand,NOUN,ILL_STATE
+stick,fires,fires,fire,NOUN,ILL_STATE
+stick,make a smowman,make,make,VERB,ILL_STATE
+stick,make a smowman,snowman,snowman,NOUN,ILL_STATE
+stick,stickman,stick,stick,NOUN,ILL_STATE
+stick,stickman,man,man,NOUN,ILL_STATE
+stick,bow and arrow,bow,bow,NOUN,ILL_STATE
+stick,bow and arrow,arrow,arrow,NOUN,ILL_STATE
+stick,tree house,tree,tree,NOUN,ILL_STATE
+stick,tree house,house,house,NOUN,ILL_STATE
+stick,teepee,tepee,tepee,NOUN,ILL_STATE
+accordion,perform music,perform,perform,VERB,ILL_STATE
+accordion,perform music,music,music,NOUN,ILL_STATE
+accordion,entertainment,entertainment,entertainment,NOUN,ILL_STATE
+accordion,make money,make,make,VERB,ILL_STATE
+accordion,make money,money,money,NOUN,ILL_STATE
+accordion,hobby,hobby,hobby,NOUN,ILL_STATE
+eggplant,make food,make,make,VERB,ILL_STATE
+eggplant,make food,food,food,NOUN,ILL_STATE
+pedal,push,push,push,VERB,ILL_STATE
+pedal,function,function,function,NOUN,ILL_STATE
+pedal,slow down,slow,slow,VERB,ILL_STATE
+watercress,eat,eat,eat,VERB,ILL_STATE
+watercress,grow,grow,grow,VERB,ILL_STATE
+watercress,gift,gift,gift,NOUN,ILL_STATE
+stableman,socialize,socialize,socialize,NOUN,ILL_STATE
+stableman,teach,teach,teach,VERB,ILL_STATE
+stableman,care for animals,care,care,NOUN,ILL_STATE
+stableman,care for animals,animals,animal,NOUN,ILL_STATE
+prosecutor,defend,defend,defend,VERB,ILL_STATE
+prosecutor,practice,practice,practice,NOUN,ILL_STATE
+prosecutor,trust,trust,trust,VERB,ILL_STATE
+prosecutor,save,save,save,VERB,ILL_STATE
+crutch,assist,assist,assist,VERB,ILL_STATE
+crutch,weapon,weapon,weapon,NOUN,ILL_STATE
+paprika,taste,taste,taste,VERB,ILL_STATE
+paprika,spice,spice,spice,NOUN,ILL_STATE
+eyepiece,see,see,see,VERB,ILL_STATE
+eyepiece,fashion,fashion,fashion,NOUN,ILL_STATE
+doll,enjoyment,enjoyment,enjoyment,NOUN,ILL_STATE
+doll,teach,teach,teach,VERB,ILL_STATE
+doll,play with,play,play,VERB,ILL_STATE
+doll,dress,dress,dress,NOUN,ILL_STATE
+copper,melt,melt,melt,NOUN,ILL_STATE
+copper,herden,harden,harden,ADV,ILL_STATE
+copper,build,build,build,NOUN,ILL_STATE
+hoop,define areas,define,define,VERB,ILL_STATE
+hoop,define areas,areas,area,NOUN,ILL_STATE
+hoop,hold net,hold,hold,VERB,ILL_STATE
+hoop,hold net,net,net,NOUN,ILL_STATE
+hoop,hold on to,hold,hold,VERB,ILL_STATE
+sandbank,nature,nature,nature,NOUN,ILL_STATE
+sandbank,enjoyment,enjoyment,enjoyment,NOUN,ILL_STATE
+sandbank,accessablilty,accessibility,accessibility,NOUN,ILL_STATE
+keyhole,lock,lock,lock,VERB,ILL_STATE
+keyhole,unlock,unlock,unlock,VERB,ILL_STATE
+keyhole,see,see,see,VERB,ILL_STATE
+worker,do job,job,job,NOUN,ILL_STATE
+worker,trust,trust,trust,NOUN,ILL_STATE
+worker,socialize,socialize,socialize,VERB,ILL_STATE
+worker,improve company,improve,improve,VERB,ILL_STATE
+worker,improve company,company,company,NOUN,ILL_STATE
+worker,earn wage,earn,earn,VERB,ILL_STATE
+worker,earn wage,wage,wage,NOUN,ILL_STATE
+figurine,collect,collect,collect,VERB,ILL_STATE
+figurine,play with,play,play,VERB,ILL_STATE
+figurine,enjoy,enjoy,enjoy,VERB,ILL_STATE
+figurine,share,share,share,NOUN,ILL_STATE
+figurine,bond over,bond,bond,NOUN,ILL_STATE
+waste,throw away,throw,throw,VERB,ILL_STATE
+waste,throw away,away,away,ADV,ILL_STATE
+waste,clean,clean,clean,VERB,ILL_STATE
+waste,disease,disease,disease,NOUN,ILL_STATE
+sheepskin,protection,protection,protect,VERB,ILL_STATE
+sheepskin,warmth,warmth,warmth,NOUN,ILL_STATE
+cabbage,provide vitamins,provide,provide,VERB,ILL_STATE
+cabbage,provide vitamins,vitamins,vitamin,NOUN,ILL_STATE
+cabbage,prevent hunger,prevent,prevent,VERB,ILL_STATE
+cabbage,prevent hunger,hunger,hunger,NOUN,ILL_STATE
+cabbage,feed others,feed,feed,VERB,ILL_STATE
+cabbage,feed others,others,other,NOUN,ILL_STATE
+cabbage,cook,cook,cake,VERB,ILL_STATE
+cabbage,eat,eat,eat,VERB,ILL_STATE
+postman,communicate,communicate,communicate,VERB,ILL_STATE
+postman,inform,inform,inform,NOUN,ILL_STATE
+postman,sell stamps,sell,sell,VERB,ILL_STATE
+postman,sell stamps,stamps,stamp,NOUN,ILL_STATE
+postman,send and receive packages,send,send,VERB,ILL_STATE
+postman,send and receive packages,receive,receive,VERB,ILL_STATE
+postman,send and receive packages,packages,packages,NOUN,ILL_STATE
+postman,organize systems,organize,organize,VERB,ILL_STATE
+postman,organize systems,systems,systems,NOUN,ILL_STATE
+wristlet,fashion,fashion,fashion,NOUN,ILL_STATE
+wristlet,comfort,comfort,comfort,NOUN,ILL_STATE
+wristlet,enjoyment,enjoyment,enjoyment,NOUN,ILL_STATE
+woodwork,wage,wage,wage,NOUN,ILL_STATE
+woodwork,enjoyment,enjoyment,enjoyment,NOUN,ILL_STATE
+woodwork,craft,craft,craft,NOUN,ILL_STATE
+antiques,enjoyment,enjoyment,enjoyment,NOUN,ILL_STATE
+antiques,sell,sell,sell,VERB,ILL_STATE
+antiques,store,store,store,VERB,ILL_STATE
+antiques,display,display,display,VERB,ILL_STATE
+bazooka,enjoy,enjoy,enjoy,VERB,ILL_STATE
+bazooka,weapon,weapon,weapon,NOUN,ILL_STATE
+laryngoscope,see larynx,see,see,VERB,ILL_STATE
+laryngoscope,see larynx,larynx,larynx,INTJ,ILL_STATE
+laryngoscope,examine issues,examine,examine,VERB,ILL_STATE
+laryngoscope,examine issues,issues,issue,NOUN,ILL_STATE
+laryngoscope,weapon ,weapon,weapon,NOUN,ILL_STATE
+Picture Frame,protect phone,protect,protect,VERB,ILL_STATE
+Picture Frame,protect phone,phone,phone,NOUN,ILL_STATE
+Picture Frame,add decor,add,add,VERB,ILL_STATE
+Picture Frame,add decor,decor,decorate,VERB,ILL_STATE
+Picture Frame,highlight memory,highlight,highlight,INTJ,ILL_STATE
+Picture Frame,highlight memory,memory,memory,NOUN,ILL_STATE
+medication,prevent/decrease illness affects,prevent,prevent,VERB,ILL_STATE
+medication,prevent/decrease illness affects,decrease,decrease,NOUN,ILL_STATE
+medication,prevent/decrease illness affects,illness,illness,NOUN,ILL_STATE
+medication,prevent/decrease illness affects,affects,effect,NOUN,ILL_STATE
+medication,comfort,comfort,comfort,NOUN,ILL_STATE
+medication,addiction,addiction,addiction,NOUN,ILL_STATE
+medication,safety,safety,safety,NOUN,ILL_STATE
+medication,prevention,prevention,prevention,NOUN,ILL_STATE
+tranquilizers,safety,safety,safety,NOUN,ILL_STATE
+tranquilizers,weapon,weapon,weapon,NOUN,ILL_STATE
+cedar,plant,plant,plant,NOUN,ILL_STATE
+cedar,cut down,cut,cut,VERB,ILL_STATE
+cedar,craft,craft,craft,NOUN,ILL_STATE
+cedar,sell,sell,sell,VERB,ILL_STATE
+playsuit,fashion,fashion,fashion,NOUN,ILL_STATE
+playsuit,comfort,comfort,comfort,NOUN,ILL_STATE
+playsuit,confidence,confidence,confidence,NOUN,ILL_STATE
+powderpuff,sport,sport,sport,NOUN,ILL_STATE
+powderpuff,applying/removing make up/skin care,applying,apply,VERB,ILL_STATE
+powderpuff,applying/removing make up/skin care,removing,remove,VERB,ILL_STATE
+powderpuff,applying/removing make up/skin care,make,make,VERB,ILL_STATE
+powderpuff,applying/removing make up/skin care,skin,skin,NOUN,ILL_STATE
+powderpuff,applying/removing make up/skin care,care,care,NOUN,ILL_STATE
+pomegranate,vitamins,vitamins,vitamin,NOUN,ILL_STATE
+pomegranate,sell,sell,sell,VERB,ILL_STATE
+pomegranate,eat,eat,eat,VERB,ILL_STATE
+pomegranate,juice,juice,juice,NOUN,ILL_STATE
+rind,throw it away,throw,throw,VERB,ILL_STATE
+rind,throw it away,away,away,ADV,ILL_STATE
+rind,eat,eat,eat,VERB,ILL_STATE
+rind,compost,compost,compost,VERB,ILL_STATE
+rind,garnish,garnish,garnish,VERB,ILL_STATE
+rind,zest,zest,zest,ADJ,ILL_STATE
+ferret,play,play,play,VERB,ILL_STATE
+ferret,pet,pet,pet,NOUN,ILL_STATE
+ferret,name,name,name,NOUN,ILL_STATE
+ferret,take care of,take,take,VERB,ILL_STATE
+ferret,take care of,care,care,NOUN,ILL_STATE
+plywood,cut,cut,cut,VERB,ILL_STATE
+plywood,measure,measure,measure,VERB,ILL_STATE
+plywood,buy,buy,buy,VERB,ILL_STATE
+plywood,sell,sell,sell,VERB,ILL_STATE
+plywood,make,make,make,VERB,ILL_STATE
+plywood,build,build,build,VERB,ILL_STATE
+plywood,break,break,break,VERB,ILL_STATE
+plywood,burn,burn,burn,VERB,ILL_STATE
+scrubber,scrub,scrub,scrub,VERB,ILL_STATE
+scrubber,clean,clean,clean,VERB,ILL_STATE
+cheesecake,eat,eat,eat,VERB,ILL_STATE
+cheesecake,bake,bake,bake,VERB,ILL_STATE
+cheesecake,make,make,make,VERB,ILL_STATE
+cheesecake,buy,buy,buy,VERB,ILL_STATE
+cheesecake,sell,sell,sell,VERB,ILL_STATE
+brochure,read,read,read,VERB,ILL_STATE
+brochure,open,open,open,VERB,ILL_STATE
+brochure,tear,tear,tear,VERB,ILL_STATE
+brochure,throw away,throw,throw,VERB,ILL_STATE
+brochure,throw away,away,away,ADV,ILL_STATE
+brochure,mail,mail,mail,NOUN,ILL_STATE
+battleship,sail,sail,sail,VERB,ILL_STATE
+battleship,fight,fight,fight,VERB,ILL_STATE
+battleship,sink,sink,sink,VERB,ILL_STATE
+battleship,shoot,shoot,shoot,VERB,ILL_STATE
+battleship,play,play,play,VERB,ILL_STATE
+stewardess,talk,talk,talk,VERB,ILL_STATE
+stewardess,request,request,request,VERB,ILL_STATE
+handsaw,cut,cut,cut,VERB,ILL_STATE
+handsaw,sharpen,sharpen,sharpen,VERB,ILL_STATE
+handsaw,re handle,re,re,ADP,ILL_STATE
+handsaw,re handle,handle,handle,NOUN,ILL_STATE
+handsaw,stain,stain,stain,NOUN,ILL_STATE
+handsaw,break,break,break,NOUN,ILL_STATE
+pickle,eat,eat,eat,VERB,ILL_STATE
+pickle,make pickles,make,make,VERB,ILL_STATE
+pickle,make pickles,pickles,pickle,NOUN,ILL_STATE
+pickle,chill,chill,chill,VERB,ILL_STATE
+pickle,store,store,store,VERB,ILL_STATE
+pickle,buy,buy,buy,VERB,ILL_STATE
+newsagent,buy,buy,buy,VERB,ILL_STATE
+newsagent,read,read,read,VERB,ILL_STATE
+newsagent,throw away,throw,throw,VERB,ILL_STATE
+newsagent,throw away,away,away,ADV,ILL_STATE
+biscuit,eat,eat,eat,VERB,ILL_STATE
+biscuit,make,make,make,VERB,ILL_STATE
+biscuit,bake,bake,bake,VERB,ILL_STATE
+biscuit,butter biscuits,butter,butter,VERB,ILL_STATE
+biscuit,butter biscuits,biscuits,biscuit,NOUN,ILL_STATE
+rhubarb,grow,grow,grow,VERB,ILL_STATE
+rhubarb,bake into pie,bake,bake,VERB,ILL_STATE
+rhubarb,bake into pie,pie,pie,NOUN,ILL_STATE
+rhubarb,chop,chop,chop,VERB,ILL_STATE
+rhubarb,eat it raw,eat,eat,VERB,ILL_STATE
+rhubarb,eat it raw,raw,raw,ADJ,ILL_STATE
+blood,drink,drink,drink,VERB,ILL_STATE
+blood,draw,draw,dree,VERB,ILL_STATE
+blood,separate,separate,separate,VERB,ILL_STATE
+blood,test,test,test,VERB,ILL_STATE
+locker,store stuff in it,store,store,VERB,ILL_STATE
+locker,store stuff in it,stuff,stuff,NOUN,ILL_STATE
+locker,unlock,unlock,unlock,VERB,ILL_STATE
+locker,lock,lock,lock,VERB,ILL_STATE
+dagger,stab,stab,stab,VERB,ILL_STATE
+dagger,sharpen,sharpen,sharpen,VERB,ILL_STATE
+dagger,clean,clean,clean,VERB,ILL_STATE
+dagger,bend,bend,bend,VERB,ILL_STATE
+teeth,brush,brush,brush,VERB,ILL_STATE
+teeth,clean,clean,clean,VERB,ILL_STATE
+teeth,pull,pull,pull,VERB,ILL_STATE
+teeth,fix,fix,fix,VERB,ILL_STATE
+teeth,chew,chew,chew,VERB,ILL_STATE
+bun,eat,eat,eat,VERB,ILL_STATE
+bun,burn,burn,burn,VERB,ILL_STATE
+book,read,read,read,VERB,ILL_STATE
+book,throw,throw,throw,VERB,ILL_STATE
+book,burn,burn,burn,VERB,ILL_STATE
+book,rent,rent,rent,VERB,ILL_STATE
+book,write,write,write,VERB,ILL_STATE
+book,publish,publish,publish,VERB,ILL_STATE
+skate,skateboard,skateboard,skateboard,X,ILL_STATE
+skate,rollerskate,roller,rollerskate,NOUN,ILL_STATE
+skate,do tricks,tricks,trick,NOUN,ILL_STATE
+armband,identification,identification,identification,NOUN,ILL_STATE
+armband,wear ,wear,wear,VERB,ILL_STATE
+propeller,rotate,rotate,rotate,VERB,ILL_STATE
+propeller,spin,spin,spin,VERB,ILL_STATE
+nostril,breath,breath,breath,VERB,ILL_STATE
+nostril,blow,blow,blow,VERB,ILL_STATE
+nostril,flare,flare,flare,VERB,ILL_STATE
+nostril,wiggle,wiggle,wiggle,VERB,ILL_STATE
+snowdrift,jump in one,jump,jump,VERB,ILL_STATE
+snowdrift,jump in one,one,one,NUM,ILL_STATE
+snowdrift,shovel,shovel,shovel,VERB,ILL_STATE
+snowdrift,freeze,freeze,freeze,VERB,ILL_STATE
+snowdrift,play,play,play,VERB,ILL_STATE
+roach,kill,kill,kill,VERB,ILL_STATE
+roach,stomp,stomp,stomp,VERB,ILL_STATE
+roach,exterminate ,exterminate,exterminate,VERB,ILL_STATE
+wine,drink,drink,drink,VERB,ILL_STATE
+wine,get drunk,get,get,VERB,ILL_STATE
+wine,get drunk,drunk,drink,ADJ,ILL_STATE
+wine,taste,taste,taste,VERB,ILL_STATE
+horsewhip,crack it,crack,crack,VERB,ILL_STATE
+horsewhip,intimidate ,intimidate,intimidate,VERB,ILL_STATE
+attorney,defend,defend,defend,VERB,ILL_STATE
+attorney,prosacute ,prosecute,prosecute,VERB,ILL_STATE
+herbivore,eats plants,eats,eat,VERB,ILL_STATE
+herbivore,eats plants,plants,plant,NOUN,ILL_STATE
+herbivore,use as food,use,use,VERB,ILL_STATE
+herbivore,use as food,food,food,NOUN,ILL_STATE
+dart,play,play,play,VERB,ILL_STATE
+dart,throw,throw,throw,VERB,ILL_STATE
+comic,read,read,read,VERB,ILL_STATE
+garden,plant,plant,plant,NOUN,ILL_STATE
+garden,grow,grow,grow,VERB,ILL_STATE
+ink,write,write,write,VERB,ILL_STATE
+ink,tattoo,tattoo,tattoo,VERB,ILL_STATE
+washer,clean clothes,clean,clean,VERB,ILL_STATE
+washer,clean clothes,clothes,clothes,NOUN,ILL_STATE
+chambermaid,clean,clean,clean,VERB,ILL_STATE
+tower,office,office,office,NOUN,ILL_STATE
+tower,jobs,jobs,job,NOUN,ILL_STATE
+harpist,play songs,play,play,VERB,ILL_STATE
+harpist,play songs,songs,song,NOUN,ILL_STATE
+matchstick,eat food,eat,eat,VERB,ILL_STATE
+matchstick,eat food,food,food,NOUN,ILL_STATE
+matchstick,light something,light,light,NOUN,ILL_STATE
+matchstick,light something,something,something,PRON,ILL_STATE
+traveler,travel,travel,travel,VERB,ILL_STATE
+traveler,go on planes,go,go,VERB,ILL_STATE
+traveler,go on planes,planes,plane,NOUN,ILL_STATE
+gatehouse,isolated ,isolated,isolate,VERB,ILL_STATE
+manhole,storage,storage,storage,NOUN,ILL_STATE
+honey,eat,eat,eat,VERB,ILL_STATE
+honey,bees,bees,be,NOUN,ILL_STATE
+dandruff,hair,hair,hair,NOUN,ILL_STATE
+flesh,science experiement,science,science,NOUN,ILL_STATE
+flesh,science experiement,experiment,experiment,VERB,ILL_STATE
+poncho,warmth,warmth,warmth,NOUN,ILL_STATE
+poncho,cover,cover,cover,NOUN,ILL_STATE
+skateboarder,skate,skate,skate,VERB,ILL_STATE
+mailbag,store things,store,store,VERB,ILL_STATE
+mailbag,store things,things,thing,NOUN,ILL_STATE
+mailbag,mail,mail,mail,VERB,ILL_STATE
+ass,donkey,donkey,donkey,NOUN,ILL_STATE
+quadriceps,running,running,run,VERB,ILL_STATE
+quadriceps,squatting,squatting,squatt,VERB,ILL_STATE
+quadriceps,lifting,lifting,lift,VERB,ILL_STATE
+crisps,eating,eating,eat,VERB,ILL_STATE
+buttermilk,baking,baking,bake,VERB,ILL_STATE
+buttermilk,cooking,cooking,cook,VERB,ILL_STATE
+ceramic,building,building,build,VERB,ILL_STATE
+ceramic,making,making,make,VERB,ILL_STATE
+genitals,sexual intercourse,sexual,sex,VERB,ILL_STATE
+genitals,sexual intercourse,intercourse,intercourse,VERB,ILL_STATE
+genitals,reproduction,reproduction,reproduce,VERB,ILL_STATE
+swamp,swim,swim,swim,VERB,ILL_STATE
+house,live in,live,live,VERB,ILL_STATE
+house,sleep in,sleep,sleep,VERB,ILL_STATE
+viewfinder,look,look,look,VERB,ILL_STATE
+viewfinder,see ,see,see,VERB,ILL_STATE
+tote,carry something,carry,carry,VERB,ILL_STATE
+tote,carry something,something,something,PRON,ILL_STATE
+tote,store things,store,store,VERB,ILL_STATE
+tote,store things,things,thing,NOUN,ILL_STATE
+clubhouse,relax at,relax,relax,VERB,ILL_STATE
+clubhouse,hang out ,hang,hang,VERB,ILL_STATE
+butter,cook,cook,cake,VERB,ILL_STATE
+butter,bake,bake,bake,VERB,ILL_STATE
+butter,eat ,eat,eat,VERB,ILL_STATE
+bun,hair,hair,hair,NOUN,ILL_STATE
+bun,bread,bread,bread,NOUN,ILL_STATE
+rind,orange,orange,orange,ADJ,ILL_STATE
+rind,melon,melon,melon,NOUN,ILL_STATE
+skate,skateboard,skateboard,skateboard,X,ILL_STATE
+skate,ice skate,ice,ice skate,VERB,ILL_STATE
+skate,sports,sports,sport,NOUN,ILL_STATE
+scrubber,doing the dishes,dishes,dish,NOUN,ILL_STATE
+newsagent,journalism,journalism,journalism,NOUN,ILL_STATE
+newsagent,newsreport,news,news,NOUN,ILL_STATE
+newsagent,newsreport,report,report,NOUN,ILL_STATE
+attorney,court,court,court,NOUN,ILL_STATE
+attorney,law,law,law,NOUN,ILL_STATE
+teeth,dentist,dentist,dentist,NOUN,ILL_STATE
+teeth,chewing,chewing,chew,VERB,ILL_STATE
+teeth,tearing,tearing,tear,VERB,ILL_STATE
+teeth,biting,biting,bite,VERB,ILL_STATE
+brochure,information,information,inform,VERB,ILL_STATE
+brochure,vacation,vacation,vacation,NOUN,ILL_STATE
+brochure,amusement park,amusement,amusement,NOUN,ILL_STATE
+brochure,amusement park,park,park,NOUN,ILL_STATE
+book,reading,reading,read,NOUN,ILL_STATE
+book,studying,studying,study,VERB,ILL_STATE
+book,writing,writing,write,NOUN,ILL_STATE
+pickle,food,food,food,NOUN,ILL_STATE
+pickle,bitter,bitter,bitter,NOUN,ILL_STATE
+pickle,relish,relish,relish,INTJ,ILL_STATE
+plywood,building,building,building,NOUN,ILL_STATE
+plywood,crafting,crafting,craft,NOUN,ILL_STATE
+nostril,smell,smell,smell,VERB,ILL_STATE
+nostril,nose,nose,nose,PRON,ILL_STATE
+rhubarb,food,food,food,NOUN,ILL_STATE
+rhubarb,pie,pie,pie,NOUN,ILL_STATE
+locker,school,school,school,NOUN,ILL_STATE
+locker,work,work,work,NOUN,ILL_STATE
+locker,public,public,public,ADJ,ILL_STATE
+locker,items,items,item,NOUN,ILL_STATE
+dagger,fight,fight,fight,VERB,ILL_STATE
+dagger,duel,duel,duel,VERB,ILL_STATE
+dagger,slice,slice,slice,VERB,ILL_STATE
+dagger,stab,stab,stab,VERB,ILL_STATE
+snowdrift,winter,winter,winter,NOUN,ILL_STATE
+snowdrift,mountain,mountain,mountain,NOUN,ILL_STATE
+snowdrift,flurry,flurry,flurry,INTJ,ILL_STATE
+snowdrift,blizzard,blizzard,blizzard,X,ILL_STATE
+wine,drink,drink,drink,VERB,ILL_STATE
+wine,drunk,drunk,drink,VERB,ILL_STATE
+roach,bug,bug,bug,NOUN,ILL_STATE
+roach,dirty,dirty,dirty,ADJ,ILL_STATE
+roach,scary,scary,scary,ADJ,ILL_STATE
+blood,gross,gross,gross,ADJ,ILL_STATE
+blood,messy,messy,messy,ADJ,ILL_STATE
+blood,hospital,hospital,hospital,NOUN,ILL_STATE
+blood,crime scene,crime,crime,NOUN,ILL_STATE
+blood,crime scene,scene,scene,NOUN,ILL_STATE
+blood,life,life,life,NOUN,ILL_STATE
+handsaw,cut,cut,cut,VERB,ILL_STATE
+handsaw,saw,saw,see,VERB,ILL_STATE
+handsaw,slice,slice,slice,VERB,ILL_STATE
+handsaw,carpentry,carpentry,carpentry,NOUN,ILL_STATE
+handsaw,craft,craft,craft,VERB,ILL_STATE
+handsaw,build,build,build,VERB,ILL_STATE
+battleship,game,game,game,NOUN,ILL_STATE
+battleship,movie,movie,movie,NOUN,ILL_STATE
+battleship,war,war,war,NOUN,ILL_STATE
+propeller,boat,boat,boat,NOUN,ILL_STATE
+propeller,helicopter,helicopter,helicopter,NOUN,ILL_STATE
+propeller,move,move,move,VERB,ILL_STATE
+propeller,glide,glide,glide,VERB,ILL_STATE
+propeller,speed,speed,speed,VERB,ILL_STATE
+armband,sweat,sweat,sweat,VERB,ILL_STATE
+armband,accessory,accessory,accessory,INTJ,ILL_STATE
+armband,sports,sports,sport,NOUN,ILL_STATE
+armband,athleye,athlete,athlete,X,ILL_STATE
+stewardess,airplane,airplane,airplane,NOUN,ILL_STATE
+stewardess,train,train,train,NOUN,ILL_STATE
+stewardess,serve,serve,serve,VERB,ILL_STATE
+stewardess,worker,worker,worker,NOUN,ILL_STATE
+cheesecake,food,food,food,NOUN,ILL_STATE
+cheesecake,dessert,dessert,dessert,NOUN,ILL_STATE
+horsewhip,horses,horses,horse,NOUN,ILL_STATE
+horsewhip,races,races,races,NOUN,ILL_STATE
+horsewhip,jockey,jockey,jockey,NOUN,ILL_STATE
+horsewhip,weapon,weapon,weapon,NOUN,ILL_STATE
+herbivore,plants,plants,plant,NOUN,ILL_STATE
+herbivore,vegetables,vegetables,vegetables,NOUN,ILL_STATE
+herbivore,dinosaurs,dinosaurs,dinosaur,NOUN,ILL_STATE
+herbivore,animals,animals,animal,NOUN,ILL_STATE
+biscuit,food,food,food,NOUN,ILL_STATE
+biscuit,gravy,gravy,gravy,NOUN,ILL_STATE
+biscuit,restaurant,restaurant,restaurant,NOUN,ILL_STATE
+biscuit,meal,meal,meal,NOUN,ILL_STATE
+biscuit,warm,warm,warm,ADJ,ILL_STATE
+biscuit,bread,bread,bread,NOUN,ILL_STATE
+ferret,animal,animal,animal,NOUN,ILL_STATE
+ferret,cute,cute,cute,ADJ,ILL_STATE
+ferret,mom,mom,mom,X,ILL_STATE
+ferret,sneaky,sneaky,sneaky,INTJ,ILL_STATE
+ferret,cheeky,cheeky,cheeky,NOUN,ILL_STATE
+ferret,rodent,rodent,rodent,NOUN,ILL_STATE
+ferret,long,long,long,ADV,ILL_STATE
+ferret,paws,paws,paws,NOUN,ILL_STATE
+boyfriend,kiss,kiss,kiss,VERB,ILL_STATE
+boyfriend,hug,hug,hug,VERB,ILL_STATE
+boyfriend,quality time,quality,quality,NOUN,ILL_STATE
+boyfriend,quality time,time,time,NOUN,ILL_STATE
+boyfriend,dates,dates,date,NOUN,ILL_STATE
+boyfriend,cute,cute,cute,ADJ,ILL_STATE
+boyfriend,sex,sex,sex,VERB,ILL_STATE
+handclasp,holding hands,holding,hold,NOUN,ILL_STATE
+handclasp,holding hands,hands,hand,NOUN,ILL_STATE
+handclasp,fine motor,fine,fine,ADJ,ILL_STATE
+handclasp,fine motor,motor,motor,NOUN,ILL_STATE
+handclasp,high five,high,high,INTJ,ILL_STATE
+handclasp,high five,five,five,NUM,ILL_STATE
+handclasp,shaking fists,shaking,shak,VERB,ILL_STATE
+handclasp,shaking fists,fists,fist,NOUN,ILL_STATE
+handclasp,holding a bat,holding,hold,NOUN,ILL_STATE
+handclasp,holding a bat,bat,bat,NOUN,ILL_STATE
+sword,cut,cut,cut,VERB,ILL_STATE
+sword,kill,kill,kill,VERB,ILL_STATE
+sword,katana,katana,katana,NOUN,ILL_STATE
+sword,ninjas,ninjas,ninja,NOUN,ILL_STATE
+sword,knights,knights,knights,NOUN,ILL_STATE
+sword,double edge,double,double,ADJ,ILL_STATE
+sword,double edge,edge,edge,NOUN,ILL_STATE
+diner,eat,eat,eat,VERB,ILL_STATE
+diner,go on a date,go,go,VERB,ILL_STATE
+diner,go on a date,date,date,NOUN,ILL_STATE
+diner,meet friends,meet,meet,VERB,ILL_STATE
+diner,meet friends,friends,friend,NOUN,ILL_STATE
+diner,hang out,hang,hang,VERB,ILL_STATE
+diner,talk to wait staff,talk,talk,VERB,ILL_STATE
+diner,talk to wait staff,wait,wait,VERB,ILL_STATE
+diner,talk to wait staff,staff,staff,NOUN,ILL_STATE
+diner,order,order,order,VERB,ILL_STATE
+diner,drink,drink,drink,VERB,ILL_STATE
+diner,meet family,meet,meet,VERB,ILL_STATE
+diner,meet family,family,family,NOUN,ILL_STATE
+footpad,rest your feet,rest,rest,VERB,ILL_STATE
+footpad,rest your feet,feet,foot,NOUN,ILL_STATE
+chairman,vote,vote,vote,VERB,ILL_STATE
+chairman,make decisions,make,make,VERB,ILL_STATE
+chairman,make decisions,decisions,decision,NOUN,ILL_STATE
+chairman,have conversations,conversations,conversation,NOUN,ILL_STATE
+vitamin,pills,pills,pill,NOUN,ILL_STATE
+vitamin,supplements,supplements,supplement,NOUN,ILL_STATE
+vitamin,solvent,solvent,solvent,NOUN,ILL_STATE
+vitamin,drink,drink,drink,VERB,ILL_STATE
+vitamin,chew,chew,chew,VERB,ILL_STATE
+vitamin,swallow,swallow,swallow,VERB,ILL_STATE
+broth,chicken,chicken,chicken,NOUN,ILL_STATE
+broth,beef,beef,beef,NOUN,ILL_STATE
+broth,stew,stew,stew,NOUN,ILL_STATE
+broth,soups,soups,soup,NOUN,ILL_STATE
+broth,chicken and dumpling,chicken,chicken,NOUN,ILL_STATE
+broth,chicken and dumpling,dumpling,dump,NOUN,ILL_STATE
+remote,television,television,television,NOUN,ILL_STATE
+remote,keyless car entry,keyless,keyless,ADJ,ILL_STATE
+remote,keyless car entry,car,car,NOUN,ILL_STATE
+remote,keyless car entry,entry,entry,NOUN,ILL_STATE
+remote,dvd player,dvd,dvd,NOUN,ILL_STATE
+remote,dvd player,player,player,NOUN,ILL_STATE
+remote,garage door,garage,garage,NOUN,ILL_STATE
+remote,garage door,door,door,NOUN,ILL_STATE
+bouquet,flowers,flowers,flower,NOUN,ILL_STATE
+bouquet,gifts,gifts,gift,NOUN,ILL_STATE
+bouquet,girlfriend,girlfriend,girlfriend,NOUN,ILL_STATE
+bouquet,wedding,wedding,wedding,NOUN,ILL_STATE
+bouquet,funeral,funeral,funeral,NOUN,ILL_STATE
+bouquet,warm feelings ,warm,warm,ADJ,ILL_STATE
+bouquet,warm feelings ,feelings,feeling,NOUN,ILL_STATE
+muscle,working out,working,work,VERB,ILL_STATE
+muscle,playing sports,playing,play,VERB,ILL_STATE
+muscle,playing sports,sports,sport,NOUN,ILL_STATE
+muscle,breathing,breathing,breathe,VERB,ILL_STATE
+muscle,typing,typing,type,VERB,ILL_STATE
+muscle,running ,running,run,VERB,ILL_STATE
+paper,fold it,fold,fold,VERB,ILL_STATE
+paper,tear it,tear,tear,VERB,ILL_STATE
+paper,eat it,eat,eat,VERB,ILL_STATE
+paper,write on it,write,write,VERB,ILL_STATE
+paper,color,color,color,NOUN,ILL_STATE
+paper,draw on it,draw,dree,VERB,ILL_STATE
+paper,play games,play,play,VERB,ILL_STATE
+paper,play games,games,game,NOUN,ILL_STATE
+mistress,scandal,scandal,scandal,NOUN,ILL_STATE
+mistress,cheating,cheating,cheat,VERB,ILL_STATE
+mistress,unfaithful,unfaithful,unfaithful,ADJ,ILL_STATE
+flute,instrument,instrument,instrument,NOUN,ILL_STATE
+flute,play,play,play,VERB,ILL_STATE
+flute,perform,perform,perform,VERB,ILL_STATE
+golfer,player,player,player,NOUN,ILL_STATE
+golfer,athlete,athlete,athlete,X,ILL_STATE
+golfer,competitor,competitor,competitor,NOUN,ILL_STATE
+pump,milk,milk,milk,NOUN,ILL_STATE
+pump,gas,gas,gas,NOUN,ILL_STATE
+pump,fuel,fuel,fuel,NOUN,ILL_STATE
+pump,coolant,coolant,coolant,NOUN,ILL_STATE
+pump,water,water,water,NOUN,ILL_STATE
+saleswoman,perfume,perfume,perfume,NOUN,ILL_STATE
+saleswoman,professional,professional,professional,ADJ,ILL_STATE
+saleswoman,independent,independent,independent,ADJ,ILL_STATE
+drainpipe,water,water,water,NOUN,ILL_STATE
+drainpipe,rain,rain,rain,NOUN,ILL_STATE
+drainpipe,down pour,pour,pour,VERB,ILL_STATE
+scratches,nails,nails,nails,NOUN,ILL_STATE
+scratches,hands,hands,hand,NOUN,ILL_STATE
+scratches,bleeding,bleeding,bleed,NOUN,ILL_STATE
+scratches,cats,cats,cat,NOUN,ILL_STATE
+quarter,gumball machines,gumball,gumball,NOUN,ILL_STATE
+quarter,gumball machines,machines,machine,NOUN,ILL_STATE
+quarter,zoo donations,zoo,zoo,NOUN,ILL_STATE
+quarter,zoo donations,donations,donate,VERB,ILL_STATE
+quarter,laundry,laundry,laundry,NOUN,ILL_STATE
+cornbread,butter,butter,butter,NOUN,ILL_STATE
+cornbread,chili,chili,chili,NOUN,ILL_STATE
+cornbread,fall,fall,fall,NOUN,ILL_STATE
+cornbread,home,home,home,ADV,ILL_STATE
+interviewer,news,news,news,NOUN,ILL_STATE
+interviewer,job,job,job,NOUN,ILL_STATE
+interviewer,professional,professional,professional,ADJ,ILL_STATE
+southerner,trucks,trucks,truck,NOUN,ILL_STATE
+southerner,country music,country,country,NOUN,ILL_STATE
+southerner,country music,music,music,NOUN,ILL_STATE
+southerner,florida,florida,florida,NOUN,ILL_STATE
+mixer,baking,baking,baking,NOUN,ILL_STATE
+mixer,cakes,cakes,cake,NOUN,ILL_STATE
+mixer,electric,electric,electric,ADJ,ILL_STATE
+mixer,hand,hand,hand,NOUN,ILL_STATE
+mixer,brownies,brownies,brownie,NOUN,ILL_STATE
+gardener,laborer,laborer,laborer,NOUN,ILL_STATE
+gardener,fruit,fruit,fruit,NOUN,ILL_STATE
+gardener,vegetables,vegetables,vegetables,NOUN,ILL_STATE
+gardener,grains,grains,grain,NOUN,ILL_STATE
+washbowl,cleaning,cleaning,clean,VERB,ILL_STATE
+washbowl,guests,guests,guest,NOUN,ILL_STATE
+washbowl,kitchen,kitchen,kitchen,NOUN,ILL_STATE
+arachnid,spiders,spiders,spider,NOUN,ILL_STATE
+arachnid,spiderman,spiderman,spiderman,NOUN,ILL_STATE
+treasure,pirates,pirates,pirate,NOUN,ILL_STATE
+treasure,buccaneers,buccaneers,buccaneer,NOUN,ILL_STATE
+treasure,jack sparrow,jack,jack,VERB,ILL_STATE
+treasure,silver,silver,silver,NOUN,ILL_STATE
+treasure,gold,gold,gold,INTJ,ILL_STATE
+treasure,iron,iron,iron,ADJ,ILL_STATE
+antenna,radio,radio,radio,NOUN,ILL_STATE
+antenna,bugs,bugs,bug,NOUN,ILL_STATE
+pompom,cheerleaders,cheerleaders,cheerleader,NOUN,ILL_STATE
+pompom,celebrating,celebrating,celebrate,VERB,ILL_STATE
+pompom,student section,student,student,NOUN,ILL_STATE
+pompom,student section,section,section,NOUN,ILL_STATE
+pool,swim,swim,swim,VERB,ILL_STATE
+pool,jump,jump,jump,VERB,ILL_STATE
+pool,splash,splash,splash,NOUN,ILL_STATE
+pool,exercise,exercise,exercise,VERB,ILL_STATE
+pool,play,play,play,VERB,ILL_STATE
+blouse,wear,wear,wear,VERB,ILL_STATE
+blouse,sew,sew,sew,VERB,ILL_STATE
+blouse,design,design,design,NOUN,ILL_STATE
+blouse,wash,wash,wash,VERB,ILL_STATE
+calf,walk,walk,walk,VERB,ILL_STATE
+nephew,play,play,play,VERB,ILL_STATE
+nephew,watch,watch,watch,VERB,ILL_STATE
+nephew,babysit,babysit,babysit,VERB,ILL_STATE
+nephew,care,care,care,VERB,ILL_STATE
+kissing,affection,affection,affection,NOUN,ILL_STATE
+kissing,greeting,greeting,greet,VERB,ILL_STATE
+cable,connect,connect,connect,VERB,ILL_STATE
+cable,jump a car,jump,jump,VERB,ILL_STATE
+cable,jump a car,car,car,NOUN,ILL_STATE
+cable,phone,phone,phone,NOUN,ILL_STATE
+fleece,warmth,warmth,warmth,NOUN,ILL_STATE
+fleece,jacket,jacket,jacket,NOUN,ILL_STATE
+fleece,shirt,shirt,shirt,NOUN,ILL_STATE
+fleece,blanket,blanket,blanket,NOUN,ILL_STATE
+sock,warmth,warmth,warmth,NOUN,ILL_STATE
+sock,wear,wear,wear,VERB,ILL_STATE
+grits,eat,eat,eat,VERB,ILL_STATE
+grits,cook,cook,cake,VERB,ILL_STATE
+stove,cook,cook,cake,VERB,ILL_STATE
+stove,heat,heat,heat,NOUN,ILL_STATE
+stove,bake,bake,bake,VERB,ILL_STATE
+stove,broil,broil,broil,VERB,ILL_STATE
+cube,ice,ice,ice,NOUN,ILL_STATE
+cube,dice,dice,dice,VERB,ILL_STATE
+cube,thrown,thrown,throw,VERB,ILL_STATE
+cube,storage,storage,storage,NOUN,ILL_STATE
+preschooler,play,play,play,VERB,ILL_STATE
+preschooler,teach,teach,teach,VERB,ILL_STATE
+preschooler,learn,learn,learn,VERB,ILL_STATE
+blazer,wear,wear,wear,VERB,ILL_STATE
+blazer,wash,wash,wash,VERB,ILL_STATE
+ashtray,ash,ash,ash,INTJ,ILL_STATE
+step,walk,walk,walk,VERB,ILL_STATE
+step,climb,climb,climb,VERB,ILL_STATE
+pacifier,suck,suck,suck,VERB,ILL_STATE
+pacifier,calm,calm,calm,VERB,ILL_STATE
+pacifier,quiet,quiet,quiet,NOUN,ILL_STATE
+fireplace,warmth,warmth,warmth,NOUN,ILL_STATE
+fireplace,burn,burn,burn,VERB,ILL_STATE
+fireplace,heat,heat,heat,VERB,ILL_STATE
+Robot,clean,clean,clean,VERB,ILL_STATE
+chessboard,play,play,play,VERB,ILL_STATE
+drumstick,beat,beat,beat,VERB,ILL_STATE
+drumstick,tap,tap,tap,NOUN,ILL_STATE
+yacht,riding,riding,ride,VERB,ILL_STATE
+yacht,sleeping,sleeping,sleep,VERB,ILL_STATE
+yacht,sitting,sitting,sit,VERB,ILL_STATE
+yacht,relaxing,relaxing,relax,VERB,ILL_STATE
+yacht,vacationing,vacationing,vacation,VERB,ILL_STATE
+yacht,diving,diving,dive,VERB,ILL_STATE
+cathedral,praying,praying,pray,VERB,ILL_STATE
+cathedral,resting,resting,rest,VERB,ILL_STATE
+cathedral,communing,communing,commun,VERB,ILL_STATE
+cathedral,talking,talking,talk,VERB,ILL_STATE
+crucifix,hanging,hanging,hang,VERB,ILL_STATE
+gunnysack,storing,storing,store,VERB,ILL_STATE
+gunnysack,wearing,wearing,wear,VERB,ILL_STATE
+gunnysack,throwing,throwing,throw,VERB,ILL_STATE
+gunnysack,wearing,wearing,wear,VERB,ILL_STATE
+steamboat,riding,riding,ride,VERB,ILL_STATE
+steamboat,vacationing,vacationing,vacation,VERB,ILL_STATE
+steamboat,touring,touring,touring,VERB,ILL_STATE
+steamboat,sleeping,sleeping,sleep,VERB,ILL_STATE
+steamboat,using it as a home,using,use,VERB,ILL_STATE
+steamboat,using it as a home,home,home,ADV,ILL_STATE
+entomologist,they can do taxidermy,can,can,AUX,ILL_STATE
+entomologist,they can do taxidermy,taxidermy,taxidermy,NOUN,ILL_STATE
+entomologist,they study insects,study,study,VERB,ILL_STATE
+entomologist,they study insects,insects,insect,NOUN,ILL_STATE
+rhinestone,decorating,decorating,decorate,VERB,ILL_STATE
+rhinestone,wearing,wearing,wear,VERB,ILL_STATE
+rhinestone,holding,holding,hold,NOUN,ILL_STATE
+earphone,listening,listening,listen,VERB,ILL_STATE
+earphone,wearing for design purposes,wearing,wear,VERB,ILL_STATE
+earphone,wearing for design purposes,design,design,NOUN,ILL_STATE
+earphone,wearing for design purposes,purposes,purpose,NOUN,ILL_STATE
+maidservant,cleaning,cleaning,clean,VERB,ILL_STATE
+maidservant,cooking,cooking,cook,VERB,ILL_STATE
+maidservant,washing clothes,washing,wash,VERB,ILL_STATE
+maidservant,washing clothes,clothes,clothes,NOUN,ILL_STATE
+maidservant,helping,helping,help,VERB,ILL_STATE
+maidservant,babysitting,babysitting,babysit,VERB,ILL_STATE
+maidservant,running errands,running,run,VERB,ILL_STATE
+maidservant,running errands,errands,errand,NOUN,ILL_STATE
+wheelhouse,relaxing,relaxing,relax,VERB,ILL_STATE
+wheelhouse,sleeping,sleeping,sleep,VERB,ILL_STATE
+wheelhouse,riding,riding,ride,VERB,ILL_STATE
+wheelhouse,living,living,live,VERB,ILL_STATE
+mosquito,biting,biting,bite,VERB,ILL_STATE
+mosquito,flying,flying,flie,VERB,ILL_STATE
+mosquito,living,living,live,VERB,ILL_STATE
+trucks,driving,driving,drive,VERB,ILL_STATE
+trucks,sleeping,sleeping,sleep,VERB,ILL_STATE
+trucks,storage,storage,store,VERB,ILL_STATE
+trucks,transporting goods,transporting,transport,VERB,ILL_STATE
+trucks,transporting goods,goods,goods,NOUN,ILL_STATE
+birthmark,beauty,beauty,beauty,NOUN,ILL_STATE
+birthmark,uniqueness,uniqueness,uniqueness,NOUN,ILL_STATE
+shrub,growing,growing,grow,VERB,ILL_STATE
+shrub,decoration,decoration,decorate,VERB,ILL_STATE
+shrub,smelling,smelling,smell,VERB,ILL_STATE
+shrub,putting it in hair,putting,put,VERB,ILL_STATE
+shrub,putting it in hair,hair,hair,NOUN,ILL_STATE
+shrub,putting it on clothes,putting,put,VERB,ILL_STATE
+shrub,putting it on clothes,clothes,clothes,NOUN,ILL_STATE
+clarinet,listening,listening,listen,VERB,ILL_STATE
+clarinet,playing,playing,play,VERB,ILL_STATE
+clarinet,holding,holding,hold,NOUN,ILL_STATE
+vegetable,eating,eating,eat,VERB,ILL_STATE
+vegetable,growing,growing,grow,VERB,ILL_STATE
+hog,having it as a pet,pet,pet,NOUN,ILL_STATE
+hog,eating it,eating,eat,VERB,ILL_STATE
+amphibian,having it as a pet,pet,pet,NOUN,ILL_STATE
+amphibian,eating it,eating,eat,VERB,ILL_STATE
+amphibian,observing it in nature,observing,obserive,VERB,ILL_STATE
+amphibian,observing it in nature,nature,nature,NOUN,ILL_STATE
+tuxedo,wearing,wearing,wear,VERB,ILL_STATE
+tuxedo,looking,looking,look,VERB,ILL_STATE
+forceps,cutting,cutting,cut,VERB,ILL_STATE
+forceps,plucking,plucking,pluck,VERB,ILL_STATE
+forceps,as a weapon,weapon,weapon,NOUN,ILL_STATE
+flask,for science,science,science,NOUN,ILL_STATE
+generator,producing power,producing,produce,VERB,ILL_STATE
+generator,producing power,power,power,NOUN,ILL_STATE
+stamp,marking,marking,mark,VERB,ILL_STATE
+horn,making noise,making,make,VERB,ILL_STATE
+horn,making noise,noise,noise,NOUN,ILL_STATE
+horn,using an animals horn as a weapon,using,use,VERB,ILL_STATE
+horn,using an animals horn as a weapon,animals,animal,NOUN,ILL_STATE
+horn,using an animals horn as a weapon,horn,horn,NOUN,ILL_STATE
+horn,using an animals horn as a weapon,weapon,weapon,NOUN,ILL_STATE
+lapdog,as a pet,pet,pet,NOUN,ILL_STATE
+lapdog,cuddling,cuddling,cuddle,VERB,ILL_STATE
+lapdog,using it for protection,using,use,VERB,ILL_STATE
+lapdog,using it for protection,protection,protect,VERB,ILL_STATE
+lapdog,comfort,comfort,comfort,NOUN,ILL_STATE
+lapdog,using it to feel safe,using,use,VERB,ILL_STATE
+lapdog,using it to feel safe,feel,feel,VERB,ILL_STATE
+lapdog,using it to feel safe,safe,safe,ADJ,ILL_STATE
+playground,playing,playing,play,VERB,ILL_STATE
+playground,sleeping,sleeping,sleep,VERB,ILL_STATE
+playground,lounging,lounging,lounge,VERB,ILL_STATE
+playground,hiding,hiding,hi,VERB,ILL_STATE
+algae,analyzing it,analyzing,analyze,VERB,ILL_STATE
+masseuse,relaxation,relaxation,relax,VERB,ILL_STATE
+masseuse,massaging,massaging,massage,VERB,ILL_STATE
+masseuse,socializing,socializing,socialize,VERB,ILL_STATE
+cock,caring for it on a farm,caring,care,VERB,ILL_STATE
+cock,caring for it on a farm,farm,farm,NOUN,ILL_STATE
+cock,eating it,eating,eat,VERB,ILL_STATE
+cock,making eggs,making,make,VERB,ILL_STATE
+cock,making eggs,eggs,egg,NOUN,ILL_STATE
+shuttle,flying,flying,flie,VERB,ILL_STATE
+shuttle,transportation,transportation,transportation,NOUN,ILL_STATE
+shuttle,sleeping,sleeping,sleep,VERB,ILL_STATE
+shuttle,eating,eating,eat,VERB,ILL_STATE
+shuttle,taking care of yourself,taking,take,VERB,ILL_STATE
+sushi,eat it,eat,eat,VERB,ILL_STATE
+sushi,throw it away,throw,throw,VERB,ILL_STATE
+sushi,throw it away,away,away,ADV,ILL_STATE
+sushi,make a sushi tower with it,make,make,VERB,ILL_STATE
+straitjacket,wear it,wear,wear,VERB,ILL_STATE
+trombone,play it,play,play,VERB,ILL_STATE
+trombone,use it as decoration,use,use,VERB,ILL_STATE
+trombone,use it as decoration,decoration,decorate,VERB,ILL_STATE
+trombone,use it as a coat hanger,use,use,VERB,ILL_STATE
+trombone,use it as a coat hanger,coat,coat,NOUN,ILL_STATE
+trombone,use it as a coat hanger,hanger,hanger,NOUN,ILL_STATE
+trombone,hug it,hug,hug,VERB,ILL_STATE
+makeup,put in on your face,put,put,VERB,ILL_STATE
+makeup,put in on your face,face,face,NOUN,ILL_STATE
+makeup,use it for art material,use,use,VERB,ILL_STATE
+makeup,use it for art material,art,art,NOUN,ILL_STATE
+makeup,use it for art material,material,material,NOUN,ILL_STATE
+pie,eat it,eat,eat,VERB,ILL_STATE
+pie,throw it at someone,throw,throw,VERB,ILL_STATE
+pie,throw it at someone,someone,someone,PRON,ILL_STATE
+stopwatch,use it to time someone,use,use,VERB,ILL_STATE
+stopwatch,use it to time someone,time,time,NOUN,ILL_STATE
+stopwatch,use it to time someone,someone,someone,PRON,ILL_STATE
+stopwatch,use it as a paper weight,use,use,VERB,ILL_STATE
+stopwatch,use it as a paper weight,paper,paper,NOUN,ILL_STATE
+stopwatch,use it as a paper weight,weight,weight,NOUN,ILL_STATE
+stopwatch,use it when you are bored ,use,use,VERB,ILL_STATE
+stopwatch,use it when you are bored ,bored,bore,VERB,ILL_STATE
+canteen,use it to hold water,use,use,VERB,ILL_STATE
+canteen,use it to hold water,hold,hold,VERB,ILL_STATE
+canteen,use it to hold water,water,water,NOUN,ILL_STATE
+canteen,soup,soup,soup,NOUN,ILL_STATE
+canteen,eat from it,eat,eat,VERB,ILL_STATE
+piercing,put an earring in it,put,put,VERB,ILL_STATE
+piercing,put an earring in it,earring,earr,VERB,ILL_STATE
+piercing,use it as a place to hold your gum,use,use,VERB,ILL_STATE
+piercing,use it as a place to hold your gum,place,place,NOUN,ILL_STATE
+piercing,use it as a place to hold your gum,hold,hold,VERB,ILL_STATE
+piercing,use it as a place to hold your gum,gum,gum,NOUN,ILL_STATE
+goldsmith,use it to revamp your gold jewelry,use,use,VERB,ILL_STATE
+goldsmith,use it to revamp your gold jewelry,revamp,revamp,NOUN,ILL_STATE
+goldsmith,use it to revamp your gold jewelry,gold,gold,INTJ,ILL_STATE
+goldsmith,use it to revamp your gold jewelry,jewelry,jewelry,NOUN,ILL_STATE
+bedspread,use it as a blanket,use,use,VERB,ILL_STATE
+bedspread,use it as a blanket,blanket,blanket,NOUN,ILL_STATE
+bedspread,use it in a fort,use,use,VERB,ILL_STATE
+bedspread,use it in a fort,fort,fort,NOUN,ILL_STATE
+bedspread,use it as a tent,use,use,VERB,ILL_STATE
+bedspread,use it as a tent,tent,tent,NOUN,ILL_STATE
+bedspread,paint it,paint,paint,VERB,ILL_STATE
+bedspread,turn it into art,turn,turn,VERB,ILL_STATE
+bedspread,turn it into art,art,art,NOUN,ILL_STATE
+bedspread,hang it on a wall,hang,hang,VERB,ILL_STATE
+bedspread,hang it on a wall,wall,wall,NOUN,ILL_STATE
+denims,wear them,wear,wear,VERB,ILL_STATE
+denims,put them on canvas,put,put,VERB,ILL_STATE
+denims,put them on canvas,canvas,canvas,NOUN,ILL_STATE
+denims,convert them to other clothing items,convert,convert,NOUN,ILL_STATE
+denims,convert them to other clothing items,clothing,clothing,NOUN,ILL_STATE
+denims,convert them to other clothing items,items,item,NOUN,ILL_STATE
+tank,drive it ,drive,drive,VERB,ILL_STATE
+clitoris,for sexual purposes,sexual,sex,VERB,ILL_STATE
+clitoris,for sexual purposes,purposes,purpose,NOUN,ILL_STATE
+bat,to a hit a ball with,hit,hit,VERB,ILL_STATE
+bat,to a hit a ball with,ball,ball,NOUN,ILL_STATE
+bat,to use as a decoration,use,use,VERB,ILL_STATE
+bat,to use as a decoration,decoration,decorate,VERB,ILL_STATE
+bat,to use in self defense ,use,use,VERB,ILL_STATE
+bat,to use in self defense ,self,self,NOUN,ILL_STATE
+bat,to use in self defense ,defense,defense,NOUN,ILL_STATE
+monk,use them on your pursuit of spirituality ,use,use,VERB,ILL_STATE
+monk,use them on your pursuit of spirituality ,pursuit,pursuit,VERB,ILL_STATE
+monk,use them on your pursuit of spirituality ,spirituality,spirituality,NOUN,ILL_STATE
+buckle,to wear a seatbelt,wear,wear,VERB,ILL_STATE
+buckle,to wear a seatbelt,seatbelt,seatbelt,NOUN,ILL_STATE
+buckle,to hold up your pants,hold,hold,VERB,ILL_STATE
+buckle,to hold up your pants,pants,pants,NOUN,ILL_STATE
+buckle,to keep your shoes on ,keep,keep,VERB,ILL_STATE
+buckle,to keep your shoes on ,shoes,shoe,VERB,ILL_STATE
+epidermis,to protect your bodies insides,protect,protect,VERB,ILL_STATE
+epidermis,to protect your bodies insides,bodies,body,NOUN,ILL_STATE
+epidermis,to protect your bodies insides,insides,insides,ADV,ILL_STATE
+bleacher,to run up,run,run,NOUN,ILL_STATE
+bleacher,to sit on,sit,sit,VERB,ILL_STATE
+bleacher,to walk on ,walk,walk,VERB,ILL_STATE
+piccolo,to play,play,play,VERB,ILL_STATE
+piccolo,to use as decoration ,use,use,VERB,ILL_STATE
+piccolo,to use as decoration ,decoration,decorate,VERB,ILL_STATE
+newspaperman,to say hello to,say,say,VERB,ILL_STATE
+newspaperman,to say hello to,hello,hello,INTJ,ILL_STATE
+newspaperman,to receive your newspaper from them,receive,receive,VERB,ILL_STATE
+newspaperman,to receive your newspaper from them,newspaper,newspaper,NOUN,ILL_STATE
+gyroscope,to look at something,look,look,VERB,ILL_STATE
+gyroscope,to look at something,something,something,PRON,ILL_STATE
+signpost,to look at,look,look,VERB,ILL_STATE
+signpost,to use as decoration ,use,use,VERB,ILL_STATE
+signpost,to use as decoration ,decoration,decorate,VERB,ILL_STATE
+porridge,to eat,eat,eat,VERB,ILL_STATE
+porridge,to bake with,bake,bake,VERB,ILL_STATE
+twine,for decoration,decoration,decorate,VERB,ILL_STATE
+twine,to tie a knot,tie,tie,VERB,ILL_STATE
+twine,to tie a knot,knot,knot,PART,ILL_STATE
+twine,to tie things together,tie,tie,VERB,ILL_STATE
+twine,to tie things together,things,thing,NOUN,ILL_STATE
+twine,to tie things together,together,together,ADV,ILL_STATE
+baklava,to eat?,eat,eat,VERB,ILL_STATE
+acorn,to throw at something,throw,throw,VERB,ILL_STATE
+acorn,to throw at something,something,something,PRON,ILL_STATE
+acorn,to eat,eat,eat,VERB,ILL_STATE
+acorn,for squirrels to eat,squirrels,squirrel,NOUN,ILL_STATE
+acorn,for squirrels to eat,eat,eat,VERB,ILL_STATE
+walker,to use for balance,use,use,VERB,ILL_STATE
+walker,to use for balance,balance,balance,NOUN,ILL_STATE
+walker,to hold things,hold,hold,VERB,ILL_STATE
+walker,to hold things,things,thing,NOUN,ILL_STATE
+walker,to hold onto when you need to get up or down ,hold,hold,VERB,ILL_STATE
+walker,to hold onto when you need to get up or down ,onto,onto,ADP,ILL_STATE
+walker,to hold onto when you need to get up or down ,need,need,VERB,ILL_STATE
+walker,to hold onto when you need to get up or down ,get,get,VERB,ILL_STATE
+dance,you can use this to relieve stress,can,can,AUX,ILL_STATE
+dance,you can use this to relieve stress,use,use,VERB,ILL_STATE
+dance,you can use this to relieve stress,relieve,relieve,ADJ,ILL_STATE
+dance,you can use this to relieve stress,stress,stress,NOUN,ILL_STATE
+dance,to have fun,fun,fun,NOUN,ILL_STATE
+dance,to make friends,make,make,VERB,ILL_STATE
+dance,to make friends,friends,friend,NOUN,ILL_STATE
+oilcan,to hold oil or water,hold,hold,VERB,ILL_STATE
+oilcan,to hold oil or water,oil,oil,NOUN,ILL_STATE
+oilcan,to hold oil or water,water,water,NOUN,ILL_STATE
+oilcan,to water your garden ,water,water,NOUN,ILL_STATE
+oilcan,to water your garden ,garden,garden,NOUN,ILL_STATE
+salad,to eat,eat,eat,VERB,ILL_STATE
+salad,to make for your rabbit,make,make,VERB,ILL_STATE
+salad,to make for your rabbit,rabbit,rabbit,NOUN,ILL_STATE
+salad,to look at it ,look,look,VERB,ILL_STATE
+acne,control,control,control,NOUN,ILL_STATE
+acne,hide,hide,hide,VERB,ILL_STATE
+acne,cover,cover,cover,VERB,ILL_STATE
+acne,pop,pop,pop,VERB,ILL_STATE
+cuisine,cook,cook,cake,VERB,ILL_STATE
+cuisine,bake,bake,bake,VERB,ILL_STATE
+cuisine,menu,menu,menu,NOUN,ILL_STATE
+cuisine,eat,eat,eat,VERB,ILL_STATE
+cuisine,dine,dine,dine,VERB,ILL_STATE
+condom,use,use,use,VERB,ILL_STATE
+condom,wear,wear,wear,VERB,ILL_STATE
+condom,tear,tear,tear,VERB,ILL_STATE
+condom,break,break,break,VERB,ILL_STATE
+condom,store,store,store,VERB,ILL_STATE
+condom,purchase,purchase,purchase,VERB,ILL_STATE
+condom,use,use,use,VERB,ILL_STATE
+latex,cover,cover,cover,VERB,ILL_STATE
+latex,gloves,gloves,glove,NOUN,ILL_STATE
+latex,condoms,condoms,condom,NOUN,ILL_STATE
+latex,allergy,allergy,allergy,NOUN,ILL_STATE
+bloodhound,dog,dog,dog,NOUN,ILL_STATE
+bloodhound,train,train,train,VERB,ILL_STATE
+bloodhound,pet,pet,pet,NOUN,ILL_STATE
+maize,corn,corn,corn,NOUN,ILL_STATE
+maize,spray,spray,spray,VERB,ILL_STATE
+maize,lost,lost,lose,ADJ,ILL_STATE
+maize,action,action,action,NOUN,ILL_STATE
+maize,place,place,place,NOUN,ILL_STATE
+morsel,chocolate,chocolate,chocolate,NOUN,ILL_STATE
+land,buy,buy,buy,VERB,ILL_STATE
+land,purchase,purchase,purchase,VERB,ILL_STATE
+land,rent,rent,rent,VERB,ILL_STATE
+land,lose,lose,lose,VERB,ILL_STATE
+land,excavate,excavate,excavate,VERB,ILL_STATE
+pegboard,throw,throw,throw,VERB,ILL_STATE
+primrose,scent,scent,scent,NOUN,ILL_STATE
+primrose,floral,floral,floral,ADJ,ILL_STATE
+primrose,color,color,color,NOUN,ILL_STATE
+tattoo,ink,ink,ink,NOUN,ILL_STATE
+tattoo,needled,needled,need,VERB,ILL_STATE
+tattoo,injected,injected,inject,VERB,ILL_STATE
+tattoo,removed,removed,remove,VERB,ILL_STATE
+neckband,protection,protection,protect,VERB,ILL_STATE
+neckband,gear,gear,gear,NOUN,ILL_STATE
+neckband,equipment,equipment,equipment,NOUN,ILL_STATE
+bone,break,break,break,VERB,ILL_STATE
+bone,weak,weak,weak,ADJ,ILL_STATE
+bone,strong,strong,strong,ADJ,ILL_STATE
+bone,marrow,marrow,marrow,NOUN,ILL_STATE
+bone,broth,broth,broth,NOUN,ILL_STATE
+peppercorn,candy,candy,candy,NOUN,ILL_STATE
+peppercorn,eat,eat,eat,VERB,ILL_STATE
+pencil,write,write,write,VERB,ILL_STATE
+pencil,sharpen,sharpen,sharpen,VERB,ILL_STATE
+pencil,draw,draw,dree,VERB,ILL_STATE
+pencil,erase,erase,erase,VERB,ILL_STATE
+pencil,create,create,create,VERB,ILL_STATE
+yoga,stretch,stretch,stretch,VERB,ILL_STATE
+yoga,relax,relax,relax,VERB,ILL_STATE
+yoga,exert,exert,exert,VERB,ILL_STATE
+hut,live,live,live,VERB,ILL_STATE
+hut,storage,storage,store,VERB,ILL_STATE
+hut,hideout,hideout,hideout,NOUN,ILL_STATE
+earpiece,headphone,headphone,headphone,NOUN,ILL_STATE
+earpiece,hearing device,hearing,hear,VERB,ILL_STATE
+earpiece,hearing device,device,device,NOUN,ILL_STATE
+earpiece,hear,hear,hear,VERB,ILL_STATE
+earpiece,adjust volume,adjust,adjust,VERB,ILL_STATE
+earpiece,adjust volume,volume,volume,NOUN,ILL_STATE
+peelings,banana,banana,banana,NOUN,ILL_STATE
+peelings,nail,nail,nail,NOUN,ILL_STATE
+peelings,fruit,fruit,fruit,NOUN,ILL_STATE
+eggshell,crack,crack,crack,VERB,ILL_STATE
+eggshell,eat,eat,eat,VERB,ILL_STATE
+eggshell,break,break,break,VERB,ILL_STATE
+childbirth,push,push,push,VERB,ILL_STATE
+childbirth,remove,remove,remove,VERB,ILL_STATE
+childbirth,contract,contract,contract,NOUN,ILL_STATE
+childbirth,bleed,bleed,bleed,VERB,ILL_STATE
+graveyard,cemetery,cemetery,cemetery,NOUN,ILL_STATE
+graveyard,headstones,headstones,headstone,NOUN,ILL_STATE
+graveyard,gravestones,gravestones,gravestone,NOUN,ILL_STATE
+graveyard,walk,walk,walk,VERB,ILL_STATE
+graveyard,pray,pray,pray,VERB,ILL_STATE
+graveyard,cry,cry,cry,VERB,ILL_STATE
+detergent,clean,clean,clean,VERB,ILL_STATE
+detergent,scented,scented,scent,VERB,ILL_STATE
+detergent,liquid,liquid,liquid,AUX,ILL_STATE
+oat,eat,eat,eat,VERB,ILL_STATE
+oat,oatmeal,oatmeal,oatmeal,ADJ,ILL_STATE
+oat,cook,cook,cake,VERB,ILL_STATE
+oat,bake,bake,bake,VERB,ILL_STATE
+newsletter,read,read,read,VERB,ILL_STATE
+newsletter,burn,burn,burn,VERB,ILL_STATE
+newsletter,shred,shred,shr,VERB,ILL_STATE
+newsletter,mail,mail,mail,NOUN,ILL_STATE
+brass,iron,iron,iron,ADJ,ILL_STATE
+brass,instrument,instrument,instrument,NOUN,ILL_STATE
+brass,jewelry,jewelry,jewelry,NOUN,ILL_STATE
+chick,baby chicken,baby,baby,NOUN,ILL_STATE
+chick,baby chicken,chicken,chicken,NOUN,ILL_STATE
+chick,girl,girl,girl,NOUN,ILL_STATE
+tape,rip,rip,rip,VERB,ILL_STATE
+tape,apply,apply,apply,VERB,ILL_STATE
+tape,tape,tape,tape,NOUN,ILL_STATE
+tape,use,use,use,VERB,ILL_STATE
+tape,clear,clear,clear,ADJ,ILL_STATE
+tape,duct,duct,duct,NOUN,ILL_STATE
+client,therapy,therapy,therapy,NOUN,ILL_STATE
+client,doctor,doctor,doctor,NOUN,ILL_STATE
+client,court,court,court,NOUN,ILL_STATE
+client,lawyer,lawyer,lawyer,NOUN,ILL_STATE
+client,partner,partner,partner,NOUN,ILL_STATE
+client,coworker,coworker,coworker,NOUN,ILL_STATE
+creek,floor boards,floor,floor,NOUN,ILL_STATE
+creek,floor boards,boards,board,NOUN,ILL_STATE
+creek,door,door,door,NOUN,ILL_STATE
+creek,sounds,sounds,sound,NOUN,ILL_STATE
+creek,noises,noises,noise,NOUN,ILL_STATE
+eggplant,food,food,food,NOUN,ILL_STATE
+eggplant,dinner,dinner,dinner,NOUN,ILL_STATE
+eggplant,emoji,emoji,emoji,X,ILL_STATE
+eggplant,inappropriate idea,inappropriate,inappropriate,ADJ,ILL_STATE
+eggplant,inappropriate idea,idea,idea,NOUN,ILL_STATE
+strongbox,muscle,muscle,muscle,NOUN,ILL_STATE
+strongbox,analogy,analogy,analogy,NOUN,ILL_STATE
+strongbox,wrestling,wrestling,wrestle,VERB,ILL_STATE
+strongbox,boxing,boxing,box,NOUN,ILL_STATE
+drug,pharamacy,pharmacy,pharmacy,NOUN,ILL_STATE
+drug,doctors,doctors,doctor,NOUN,ILL_STATE
+drug,neuroscience,neuroscience,neuroscience,NOUN,ILL_STATE
+drug,kids,kids,kid,NOUN,ILL_STATE
+drug,medicine,medicine,medicine,NOUN,ILL_STATE
+drug,over the counter,counter,counter,NOUN,ILL_STATE
+drug,antidepressents ,antidepressants,antidepressant,NOUN,ILL_STATE
+case,court,court,court,NOUN,ILL_STATE
+case,book case,book,book,NOUN,ILL_STATE
+case,book case,case,case,NOUN,ILL_STATE
+case,phone case,phone,phone,NOUN,ILL_STATE
+case,phone case,case,case,NOUN,ILL_STATE
+case,laptop case,laptop,laptop,NOUN,ILL_STATE
+case,laptop case,case,case,NOUN,ILL_STATE
+case,electronics,electronics,electronics,NOUN,ILL_STATE
+case,protection,protection,protection,NOUN,ILL_STATE
+case,acccessories,accessories,accessory,NOUN,ILL_STATE
+case,attire,attire,attire,NOUN,ILL_STATE
+shelter,food,food,food,NOUN,ILL_STATE
+shelter,home,home,home,ADV,ILL_STATE
+shelter,pet,pet,pet,NOUN,ILL_STATE
+shelter,space,space,space,NOUN,ILL_STATE
+shelter,roof,roof,roof,NOUN,ILL_STATE
+plum,food,food,food,NOUN,ILL_STATE
+plum,fruit,fruit,fruit,NOUN,ILL_STATE
+plum,purple color,purple,purple,ADJ,ILL_STATE
+plum,purple color,color,color,NOUN,ILL_STATE
+plum,can be used to eat,can,can,AUX,ILL_STATE
+plum,can be used to eat,used,use,VERB,ILL_STATE
+plum,can be used to eat,eat,eat,VERB,ILL_STATE
+arrow,bow and arrow,bow,bow,NOUN,ILL_STATE
+arrow,bow and arrow,arrow,arrow,NOUN,ILL_STATE
+arrow,archery,archery,archery,NOUN,ILL_STATE
+arrow,symbol,symbol,symbol,NOUN,ILL_STATE
+paperback,books,books,book,NOUN,ILL_STATE
+phalanges,plane,plane,plane,NOUN,ILL_STATE
+linoleum,substance ,substance,substance,NOUN,ILL_STATE
+body,person,person,person,NOUN,ILL_STATE
+body,chemistry,chemistry,chemistry,NOUN,ILL_STATE
+body,science,science,science,NOUN,ILL_STATE
+body,surgery,surgery,surgery,NOUN,ILL_STATE
+pantry,food,food,food,NOUN,ILL_STATE
+pantry,storage,storage,storage,NOUN,ILL_STATE
+pantry,organization,organization,organization,NOUN,ILL_STATE
+pantry,kitchen,kitchen,kitchen,NOUN,ILL_STATE
+accordion,instruement,instrument,instrument,NOUN,ILL_STATE
+accordion,band,band,band,NOUN,ILL_STATE
+accordion,music,music,music,NOUN,ILL_STATE
+roll,bread,bread,bread,NOUN,ILL_STATE
+roll,drums,drums,drum,NOUN,ILL_STATE
+roll,statement,statement,statement,NOUN,ILL_STATE
+fruit,food,food,food,NOUN,ILL_STATE
+fruit,piece of artwork,piece,piece,NOUN,ILL_STATE
+fruit,piece of artwork,artwork,artwork,NOUN,ILL_STATE
+motel,place to stay,place,place,NOUN,ILL_STATE
+motel,place to stay,stay,stay,VERB,ILL_STATE
+excavator,movement,movement,movement,NOUN,ILL_STATE
+stick,fire,fire,fire,NOUN,ILL_STATE
+stick,holding things together,holding,hold,NOUN,ILL_STATE
+stick,holding things together,things,thing,NOUN,ILL_STATE
+stick,holding things together,together,together,ADV,ILL_STATE
+stick,playing with a dog,playing,play,VERB,ILL_STATE
+stick,playing with a dog,dog,dog,NOUN,ILL_STATE
+torchlight,electricitly,electricity,electricity,NOUN,ILL_STATE
+torchlight,light,light,light,NOUN,ILL_STATE
+torchlight,energy,energy,energy,NOUN,ILL_STATE
+matter,science,science,science,NOUN,ILL_STATE
+seating,restaurant,restaurant,restaurant,NOUN,ILL_STATE
+seating,bus,bus,bus,NOUN,ILL_STATE
+seating,car,car,car,NOUN,ILL_STATE
+seating,chairs,chairs,chair,NOUN,ILL_STATE
+seating,school,school,school,NOUN,ILL_STATE
+seating,building,building,building,NOUN,ILL_STATE
+seating,library,library,library,INTJ,ILL_STATE
+seating,desk,desk,desk,NOUN,ILL_STATE
+hoe,garden?,garden,garden,VERB,ILL_STATE
+avocado,food,food,food,NOUN,ILL_STATE
+avocado,toast,toast,toast,NOUN,ILL_STATE
+avocado,breakfast,breakfast,breakfast,NOUN,ILL_STATE
+avocado,tacos,tacos,taco,NOUN,ILL_STATE
+avocado,lunch,lunch,lunch,NOUN,ILL_STATE
+avocado,dinner,dinner,dinner,NOUN,ILL_STATE
+tailcoat,fashion,fashion,fashion,NOUN,ILL_STATE
+tailcoat,cold weather,cold,cold,ADJ,ILL_STATE
+tailcoat,cold weather,weather,weather,NOUN,ILL_STATE
+illustrator,books,books,book,NOUN,ILL_STATE
+illustrator,education,education,educate,VERB,ILL_STATE
+illustrator,knowledge,knowledge,knowledge,NOUN,ILL_STATE
+groundsman,help?,help,help,VERB,ILL_STATE
+beef,food,food,food,NOUN,ILL_STATE
+beef,dinner,dinner,dinner,NOUN,ILL_STATE
+cable,watching,watching,watch,VERB,ILL_STATE
+nephew,playing,playing,play,VERB,ILL_STATE
+ashtray,smoking,smoking,smoke,VERB,ILL_STATE
+ashtray,sitting,sitting,sit,VERB,ILL_STATE
+cube,box,box,box,NOUN,ILL_STATE
+calf,walking,walking,walk,VERB,ILL_STATE
+bloke,talking,talking,talk,VERB,ILL_STATE
+bloke,hugging,hugging,hug,VERB,ILL_STATE
+blouse,wearing,wearing,wear,VERB,ILL_STATE
+pool,swimming,swimming,swimm,VERB,ILL_STATE
+pool,floating,floating,float,VERB,ILL_STATE
+pacifier,sucking,sucking,suck,VERB,ILL_STATE
+chessboard,playing,playing,play,VERB,ILL_STATE
+chessboard,decorating,decorating,decorate,VERB,ILL_STATE
+fleece,wearing,wearing,wear,VERB,ILL_STATE
+Robot,working,working,work,VERB,ILL_STATE
+preschooler,talking,talking,talk,VERB,ILL_STATE
+blazer,wearing,wearing,wear,VERB,ILL_STATE
+stove,cooking,cooking,cook,VERB,ILL_STATE
+sock,wearing,wearing,wear,VERB,ILL_STATE
+drumstick,playing,playing,play,VERB,ILL_STATE
+step,walking,walking,walk,VERB,ILL_STATE
+hippie,smoking,smoking,smoke,VERB,ILL_STATE
+fireplace,cooking,cooking,cook,VERB,ILL_STATE
+fireplace,hearing,hearing,hear,VERB,ILL_STATE
+grits,eating,eating,eat,VERB,ILL_STATE
+tightrope,walk,walk,walk,VERB,ILL_STATE
+tightrope,tow,tow,tow,VERB,ILL_STATE
+tightrope,hang from,hang,hang,VERB,ILL_STATE
+tightrope,observe,observe,observe,VERB,ILL_STATE
+tomb,observe,observe,observe,VERB,ILL_STATE
+tomb,lay in,lay,lay,VERB,ILL_STATE
+tomb,respect,respect,respect,VERB,ILL_STATE
+beefcake,eat,eat,eat,VERB,ILL_STATE
+beefcake,cook,cook,cake,VERB,ILL_STATE
+beefcake,prepare,prepare,prepare,VERB,ILL_STATE
+beefcake,heat,heat,heat,NOUN,ILL_STATE
+beefcake,feed others,feed,feed,VERB,ILL_STATE
+beefcake,feed others,others,other,NOUN,ILL_STATE
+beefcake,feed animals,feed,feed,VERB,ILL_STATE
+beefcake,feed animals,animals,animal,NOUN,ILL_STATE
+beefcake,give away,give,give,VERB,ILL_STATE
+beefcake,give away,away,away,ADV,ILL_STATE
+fossil,study,study,study,VERB,ILL_STATE
+fossil,observe,observe,observe,VERB,ILL_STATE
+fossil,predict,predict,predict,VERB,ILL_STATE
+fossil,comprehend,comprehend,comprehend,VERB,ILL_STATE
+fossil,plate (maybe),plate,plate,NOUN,ILL_STATE
+fossil,plate (maybe),maybe,maybe,ADV,ILL_STATE
+hairbrush,brush,brush,brush,VERB,ILL_STATE
+hairbrush,comb,comb,comb,NOUN,ILL_STATE
+hairbrush,style,style,style,VERB,ILL_STATE
+hairbrush,flatten,flatten,flatten,VERB,ILL_STATE
+hairbrush,retrieve (a phone in between a car seat or something similar),retrieve,retrieve,VERB,ILL_STATE
+hairbrush,retrieve (a phone in between a car seat or something similar),phone,phone,NOUN,ILL_STATE
+hairbrush,retrieve (a phone in between a car seat or something similar),car,car,NOUN,ILL_STATE
+hairbrush,retrieve (a phone in between a car seat or something similar),seat,seat,NOUN,ILL_STATE
+hairbrush,retrieve (a phone in between a car seat or something similar),something,something,PRON,ILL_STATE
+hairbrush,retrieve (a phone in between a car seat or something similar),similar,similar,ADJ,ILL_STATE
+tooth,chew,chew,chew,VERB,ILL_STATE
+tooth,necklace,necklace,necklace,NOUN,ILL_STATE
+cornfield,harvest,harvest,harvest,VERB,ILL_STATE
+cornfield,build,build,build,NOUN,ILL_STATE
+cornfield,profit,profit,profit,NOUN,ILL_STATE
+cornfield,take pictures,take,take,VERB,ILL_STATE
+cornfield,take pictures,pictures,picture,NOUN,ILL_STATE
+cornfield,plant,plant,plant,VERB,ILL_STATE
+cornfield,study,study,study,VERB,ILL_STATE
+stallion,ride,ride,ride,NOUN,ILL_STATE
+stallion,race,race,race,NOUN,ILL_STATE
+stallion,gambling,gambling,gamble,VERB,ILL_STATE
+stallion,breed,breed,breed,VERB,ILL_STATE
+stallion,sell,sell,sell,VERB,ILL_STATE
+woman,converse,converse,converse,NOUN,ILL_STATE
+woman,work,work,work,NOUN,ILL_STATE
+woman,nurture,nurture,nurture,VERB,ILL_STATE
+label,mark,mark,mark,VERB,ILL_STATE
+label,display,display,display,VERB,ILL_STATE
+label,inform,inform,inform,VERB,ILL_STATE
+label,warn,warn,warn,VERB,ILL_STATE
+bootlace,tie,tie,tie,VERB,ILL_STATE
+bootlace,hold together,hold,hold,VERB,ILL_STATE
+bootlace,hold together,together,together,ADV,ILL_STATE
+bootlace,enforce,enforce,enforce,VERB,ILL_STATE
+bootlace,style,style,style,VERB,ILL_STATE
+bootlace,bracelet,bracelet,bracelet,NOUN,ILL_STATE
+bootlace,necklace,necklace,necklace,NOUN,ILL_STATE
+portfolio,contain,contain,contain,VERB,ILL_STATE
+portfolio,store,store,store,VERB,ILL_STATE
+portfolio,organize,organize,organize,VERB,ILL_STATE
+portfolio,appear professional,appear,appear,VERB,ILL_STATE
+portfolio,appear professional,professional,professional,ADJ,ILL_STATE
+portfolio,minimize,minimize,minimize,NOUN,ILL_STATE
+portfolio,uphold cleanliness ,uphold,uphold,INTJ,ILL_STATE
+portfolio,uphold cleanliness ,cleanliness,cleanliness,NOUN,ILL_STATE
+flashlight,illuminate,illuminate,illuminate,VERB,ILL_STATE
+flashlight,search,search,search,VERB,ILL_STATE
+flashlight,games,games,game,NOUN,ILL_STATE
+flashlight,locate,locate,locate,VERB,ILL_STATE
+flashlight,navigate,navigate,navigate,VERB,ILL_STATE
+flashlight,sell,sell,sell,VERB,ILL_STATE
+cracker,eat,eat,eat,VERB,ILL_STATE
+cracker,religious services,religious,religious,ADJ,ILL_STATE
+cracker,religious services,services,service,NOUN,ILL_STATE
+cracker,break into soup,break,break,VERB,ILL_STATE
+cracker,break into soup,soup,soup,NOUN,ILL_STATE
+cracker,crush into crumbs,crush,crush,VERB,ILL_STATE
+cracker,crush into crumbs,crumbs,crumb,VERB,ILL_STATE
+cracker,cook with,cook,cake,VERB,ILL_STATE
+cracker,coat,coat,coat,NOUN,ILL_STATE
+moneybags,store,store,store,VERB,ILL_STATE
+moneybags,movie prop,movie,movie,NOUN,ILL_STATE
+moneybags,movie prop,prop,prop,NOUN,ILL_STATE
+moneybags,purse,purse,purse,NOUN,ILL_STATE
+ramp,go up,go,go,VERB,ILL_STATE
+ramp,go down,go,go,VERB,ILL_STATE
+ramp,reach new areas,reach,reach,NOUN,ILL_STATE
+ramp,reach new areas,new,new,ADJ,ILL_STATE
+ramp,reach new areas,areas,area,NOUN,ILL_STATE
+ramp,help the disabled,help,help,VERB,ILL_STATE
+ramp,help the disabled,disabled,disable,VERB,ILL_STATE
+ramp,tricks,tricks,trick,NOUN,ILL_STATE
+ramp,block,block,block,NOUN,ILL_STATE
+crypt,hide,hide,hide,NOUN,ILL_STATE
+crypt,visit,visit,visit,VERB,ILL_STATE
+crypt,observe,observe,observe,VERB,ILL_STATE
+crypt,respect,respect,respect,VERB,ILL_STATE
+commode,store,store,store,VERB,ILL_STATE
+commode,hide,hide,hide,VERB,ILL_STATE
+commode,sell,sell,sell,VERB,ILL_STATE
+commode,use as a stand,use,use,VERB,ILL_STATE
+commode,use as a stand,stand,stand,VERB,ILL_STATE
+commode,hold ,hold,hold,VERB,ILL_STATE
+envelope,send a letter,send,send,VERB,ILL_STATE
+envelope,send a letter,letter,letter,NOUN,ILL_STATE
+envelope,store money,store,store,VERB,ILL_STATE
+envelope,store money,money,money,NOUN,ILL_STATE
+envelope,store documents,store,store,VERB,ILL_STATE
+envelope,store documents,documents,document,NOUN,ILL_STATE
+envelope,hide,hide,hide,VERB,ILL_STATE
+envelope,write on,write,write,VERB,ILL_STATE
+deerskin,rug,rug,rug,NOUN,ILL_STATE
+deerskin,clothing,clothing,clothing,NOUN,ILL_STATE
+deerskin,trophy,trophy,trophy,NOUN,ILL_STATE
+deerskin,decoration,decoration,decorate,VERB,ILL_STATE
+deerskin,process,process,process,VERB,ILL_STATE
+deerskin,sell,sell,sell,VERB,ILL_STATE
+chaplain,preach,preach,preach,VERB,ILL_STATE
+chaplain,usher,usher,usher,ADJ,ILL_STATE
+grandparent,converse,converse,converse,NOUN,ILL_STATE
+grandparent,gather with,gather,gather,NOUN,ILL_STATE
+grandparent,visit,visit,visit,VERB,ILL_STATE
+grandparent,appreciate,appreciate,appreciate,NOUN,ILL_STATE
+grandparent,guardian,guardian,guardian,NOUN,ILL_STATE
+Donut,eat,eat,eat,VERB,ILL_STATE
+Donut,make,make,make,VERB,ILL_STATE
+Donut,sell,sell,sell,VERB,ILL_STATE
+Donut,smell,smell,smell,VERB,ILL_STATE
+Donut,give,give,give,VERB,ILL_STATE
+tree,observe,observe,observe,ADJ,ILL_STATE
+tree,create wood,create,create,VERB,ILL_STATE
+tree,create wood,wood,wood,NOUN,ILL_STATE
+tree,decorate,decorate,decorate,VERB,ILL_STATE
+tree,plant,plant,plant,NOUN,ILL_STATE
+tree,make paper,make,make,VERB,ILL_STATE
+tree,make paper,paper,paper,NOUN,ILL_STATE
+vermouth,drink,drink,drink,VERB,ILL_STATE
+vermouth,cook with,cook,cake,VERB,ILL_STATE
+vermouth,celebrate,celebrate,celebrate,NOUN,ILL_STATE
+carnival,have fun,fun,fun,NOUN,ILL_STATE
+carnival,win prizes,win,win,VERB,ILL_STATE
+carnival,win prizes,prizes,prize,NOUN,ILL_STATE
+carnival,quality time,quality,quality,NOUN,ILL_STATE
+carnival,quality time,time,time,NOUN,ILL_STATE
+fluid,drink,drink,drink,VERB,ILL_STATE
+fluid,survive,survive,survive,VERB,ILL_STATE
+fluid,shower,shower,shower,NOUN,ILL_STATE
+fluid,bathe,bathe,bathe,VERB,ILL_STATE
+fluid,cook with,cook,cake,VERB,ILL_STATE
+ashes,contain,contain,contain,NOUN,ILL_STATE
+ashes,sell,sell,sell,VERB,ILL_STATE
+ashes,remember,remember,remember,VERB,ILL_STATE
+vendor,buy,buy,buy,VERB,ILL_STATE
+vendor,bring business,bring,bring,VERB,ILL_STATE
+vendor,bring business,business,business,NOUN,ILL_STATE
+antihistamine,medicate,medicate,medicate,VERB,ILL_STATE
+antihistamine,relieve,relieve,relieve,VERB,ILL_STATE
+antihistamine,reduce inflammation,reduce,reduce,VERB,ILL_STATE
+antihistamine,reduce inflammation,inflammation,inflammation,NOUN,ILL_STATE
+antihistamine,reduce allergies,reduce,reduce,NOUN,ILL_STATE
+antihistamine,reduce allergies,allergies,allergy,NOUN,ILL_STATE
+bathe,clean,clean,clean,VERB,ILL_STATE
+bathe,refresh,refresh,refresh,INTJ,ILL_STATE
+ginger,cooking,cooking,cook,VERB,ILL_STATE
+negligee,dress up ,dress,dress,NOUN,ILL_STATE
+wand,magic,magic,magic,NOUN,ILL_STATE
+wand,sturing ,stir,stir,VERB,ILL_STATE
+van,driving,driving,drive,VERB,ILL_STATE
+van,running,running,run,VERB,ILL_STATE
+balcony,sitting,sitting,sit,VERB,ILL_STATE
+balcony,cooking,cooking,cook,VERB,ILL_STATE
+balcony,outside,outside,outside,ADV,ILL_STATE
+balcony,relaxing ,relaxing,relax,VERB,ILL_STATE
+chinaware,expensive,expensive,expensive,ADJ,ILL_STATE
+chinaware,eating,eating,eat,VERB,ILL_STATE
+chinaware,fancy,fancy,fancy,ADJ,ILL_STATE
+pilaf,huh,huh,huh,INTJ,ILL_STATE
+canvass,art,art,art,NOUN,ILL_STATE
+canvass,paint,paint,paint,VERB,ILL_STATE
+canvass,color ,color,color,NOUN,ILL_STATE
+blindfold,dark,dark,dark,ADJ,ILL_STATE
+blindfold,scary ,scary,scary,ADJ,ILL_STATE
+tabasco,smoke,smoke,smoke,VERB,ILL_STATE
+tabasco,smelly ,smelly,smelly,ADV,ILL_STATE
+footballer,games,games,game,NOUN,ILL_STATE
+footballer,sports,sports,sport,NOUN,ILL_STATE
+footballer,person ,person,person,NOUN,ILL_STATE
+desert,hot,hot,hot,ADJ,ILL_STATE
+desert,dry,dry,dry,ADJ,ILL_STATE
+tinfoil,hold,hold,hold,VERB,ILL_STATE
+tinfoil,heat,heat,heat,NOUN,ILL_STATE
+chronograph,huh,huh,huh,INTJ,ILL_STATE
+bird,fly,fly,fly,VERB,ILL_STATE
+bird,sky,sky,sky,NOUN,ILL_STATE
+bird,fast,fast,fast,ADJ,ILL_STATE
+bird,light ,light,light,NOUN,ILL_STATE
+scale,weight,weight,weight,NOUN,ILL_STATE
+scale,person,person,person,NOUN,ILL_STATE
+scale,food ,food,food,NOUN,ILL_STATE
+bicep,arm ,arm,arm,X,ILL_STATE
+bicep,muscle,muscle,muscle,NOUN,ILL_STATE
+bicep,workout ,workout,workout,NOUN,ILL_STATE
+snowfall,winter,winter,winter,NOUN,ILL_STATE
+snowfall,cold,cold,cold,ADJ,ILL_STATE
+snowfall,snowman ,snowman,snowman,NOUN,ILL_STATE
+crystal,person,person,person,NOUN,ILL_STATE
+crystal,blue,blue,blue,ADJ,ILL_STATE
+screw,nail,nail,nail,NOUN,ILL_STATE
+screw,tools ,tools,tool,NOUN,ILL_STATE
+ticket,fun,fun,fun,NOUN,ILL_STATE
+ticket,party,party,party,NOUN,ILL_STATE
+ticket,concert,concert,concert,NOUN,ILL_STATE
+ticket,sport,sport,sport,NOUN,ILL_STATE
+berry,eating,eating,eat,VERB,ILL_STATE
+berry,yummy ,yummy,yummy,INTJ,ILL_STATE
+physician,doctor,doctor,doctor,NOUN,ILL_STATE
+physician,job ,job,job,NOUN,ILL_STATE
+myself,fun,fun,fun,NOUN,ILL_STATE
+myself,happy ,happy,happy,ADJ,ILL_STATE
+tofu,food,food,food,NOUN,ILL_STATE
+whisky,alcohol,alcohol,alcohol,NOUN,ILL_STATE
+whisky,hot,hot,hot,ADJ,ILL_STATE
+whisky,scratchy,scratchy,scratchy,ADJ,ILL_STATE
+parsnip,huh,huh,huh,INTJ,ILL_STATE
+harvest,fall,fall,fall,NOUN,ILL_STATE
+harvest,fun,fun,fun,NOUN,ILL_STATE
+harvest,corn,corn,corn,NOUN,ILL_STATE
+harvest,wheat ,wheat,wheat,X,ILL_STATE
+family,big,big,big,ADJ,ILL_STATE
+family,events ,events,event,NOUN,ILL_STATE
+pudding,eat,eat,eat,VERB,ILL_STATE
+pudding,mix,mix,mix,NOUN,ILL_STATE
+coin,throw,throw,throw,INTJ,ILL_STATE
+coin,spend,spend,spend,NOUN,ILL_STATE
+pineapple,eat,eat,eat,VERB,ILL_STATE
+pineapple,cut,cut,cut,VERB,ILL_STATE
+cliff,jump,jump,jump,VERB,ILL_STATE
+needle,sew,sew,sew,VERB,ILL_STATE
+drywall,build a wall,build,build,NOUN,ILL_STATE
+drywall,build a wall,wall,wall,NOUN,ILL_STATE
+orange,eat,eat,eat,VERB,ILL_STATE
+orange,cute,cute,cute,ADJ,ILL_STATE
+saddle,ride,ride,ride,NOUN,ILL_STATE
+celery,eat,eat,eat,VERB,ILL_STATE
+joystick,drive,drive,drive,VERB,ILL_STATE
+potato,eat,eat,eat,VERB,ILL_STATE
+nanny,watch kids,watch,watch,VERB,ILL_STATE
+nanny,watch kids,kids,kid,NOUN,ILL_STATE
+massager,massage,massage,massage,NOUN,ILL_STATE
+massager,use,use,use,VERB,ILL_STATE
+massager,put on body,put,put,VERB,ILL_STATE
+massager,put on body,body,body,NOUN,ILL_STATE
+wishbone,break it,break,break,NOUN,ILL_STATE
+tit,suck on,suck,suck,VERB,ILL_STATE
+boa,wear,wear,wear,VERB,ILL_STATE
+orangutan,pet,pet,pet,NOUN,ILL_STATE
+orangutan,watch,watch,watch,VERB,ILL_STATE
+orangutan,feed,feed,feed,NOUN,ILL_STATE
+decor,look at,look,look,VERB,ILL_STATE
+decor,put in house,put,put,VERB,ILL_STATE
+decor,put in house,house,house,NOUN,ILL_STATE
+solicitor,talk to,talk,talk,VERB,ILL_STATE
+map,read,read,read,VERB,ILL_STATE
+tablespoon,scoop,scoop,scoop,VERB,ILL_STATE
+pin,pin,pin,pin,NOUN,ILL_STATE
+cayenne,cook with,cook,cake,VERB,ILL_STATE
+handrail,hold on to,hold,hold,INTJ,ILL_STATE
+grease,grease,grease,grease,INTJ,ILL_STATE
+grease,lather,lather,lather,NOUN,ILL_STATE
+hosiery,wear,wear,wear,VERB,ILL_STATE
+parsley,cook with,cook,cake,VERB,ILL_STATE
+parsley,cut,cut,cut,VERB,ILL_STATE
+parsley,pick,pick,pick,VERB,ILL_STATE
+bloomers,wear,wear,wear,VERB,ILL_STATE
+sandbox,play in,play,play,VERB,ILL_STATE
+sandbox,jump in,jump,jump,VERB,ILL_STATE
+sandbox,build sandcastles,build,build,NOUN,ILL_STATE
+sandbox,build sandcastles,sandcastles,sandcastle,NOUN,ILL_STATE
+ladle,scoop,scoop,scoop,VERB,ILL_STATE
+tomahawk,throw,throw,throw,INTJ,ILL_STATE
+briefcase,carry,carry,carry,VERB,ILL_STATE
+briefcase,open,open,open,ADJ,ILL_STATE
+briefcase,put paperwork inside,put,put,VERB,ILL_STATE
+briefcase,put paperwork inside,paperwork,paperwork,NOUN,ILL_STATE
+briefcase,put paperwork inside,inside,inside,ADV,ILL_STATE
+seat,sit in,sit,sit,VERB,ILL_STATE
+florist,buy flowers from,buy,buy,VERB,ILL_STATE
+florist,buy flowers from,flowers,flower,NOUN,ILL_STATE
+schoolgirl,to learn,learn,learn,VERB,ILL_STATE
+schoolgirl,to help,help,help,VERB,ILL_STATE
+schoolgirl,to communicate,communicate,communicate,ADJ,ILL_STATE
+scorpion,to play with,play,play,VERB,ILL_STATE
+scorpion,to research,research,research,VERB,ILL_STATE
+scorpion,to smoosh,smoosh,smash,VERB,ILL_STATE
+palm,to read,read,read,VERB,ILL_STATE
+palm,to grab things,grab,grab,VERB,ILL_STATE
+palm,to grab things,things,thing,NOUN,ILL_STATE
+darkroom,to make pictures,make,make,VERB,ILL_STATE
+darkroom,to make pictures,pictures,picture,NOUN,ILL_STATE
+darkroom,to look at pictures,look,look,VERB,ILL_STATE
+darkroom,to look at pictures,pictures,picture,NOUN,ILL_STATE
+darkroom,to get in the dark,get,get,VERB,ILL_STATE
+darkroom,to get in the dark,dark,dark,ADJ,ILL_STATE
+feast,to eat,eat,eat,VERB,ILL_STATE
+feast,to look at,look,look,VERB,ILL_STATE
+feast,to make a speech,make,make,VERB,ILL_STATE
+feast,to make a speech,speech,speech,NOUN,ILL_STATE
+vinyl,to listen to,listen,listen,VERB,ILL_STATE
+vinyl,to put down,put,put,VERB,ILL_STATE
+vinyl,to collect,collect,collect,NOUN,ILL_STATE
+vinegar,to cook with,cook,cake,VERB,ILL_STATE
+vinegar,to clean,clean,clean,VERB,ILL_STATE
+vinegar,to experiment,experiment,experiment,NOUN,ILL_STATE
+sprinkler,to clean,clean,clean,VERB,ILL_STATE
+sprinkler,to wet,wet,wet,ADJ,ILL_STATE
+sourdough,to cook with,cook,cake,VERB,ILL_STATE
+grass,to play in,play,play,VERB,ILL_STATE
+grass,to take care of,take,take,VERB,ILL_STATE
+grass,to take care of,care,care,NOUN,ILL_STATE
+grass,to look nice,look,look,VERB,ILL_STATE
+grass,to look nice,nice,nice,ADJ,ILL_STATE
+barnacle,to look nice ,look,look,VERB,ILL_STATE
+barnacle,to look nice ,nice,nice,ADJ,ILL_STATE
+guest,to serve,serve,serve,VERB,ILL_STATE
+guest,to talk to,talk,talk,VERB,ILL_STATE
+streetcar,to park,park,park,NOUN,ILL_STATE
+streetcar,to drive around,drive,drive,VERB,ILL_STATE
+streetcar,to drive around,around,around,ADV,ILL_STATE
+curb,to stop cars,stop,stop,VERB,ILL_STATE
+curb,to stop cars,cars,cars,NOUN,ILL_STATE
+curb,to sit on,sit,sit,VERB,ILL_STATE
+cookbook,to read,read,read,VERB,ILL_STATE
+cookbook,to create,create,create,VERB,ILL_STATE
+cookbook,to write,write,write,VERB,ILL_STATE
+peanuts,to eat,eat,eat,VERB,ILL_STATE
+peanuts,to cook,cook,cake,VERB,ILL_STATE
+peanuts,to feed,feed,feed,NOUN,ILL_STATE
+teenager,to hang out,hang,hang,VERB,ILL_STATE
+teenager,to talk to,talk,talk,VERB,ILL_STATE
+watchdog,to protect,protect,protect,VERB,ILL_STATE
+hangnail,to take off,take,take,VERB,ILL_STATE
+hangnail,to protect skin,protect,protect,VERB,ILL_STATE
+hangnail,to protect skin,skin,skin,NOUN,ILL_STATE
+vinaigrette,to cook witj,cook,cake,VERB,ILL_STATE
+cymbal,to play,play,play,VERB,ILL_STATE
+cymbal,to pick up,pick,pick,VERB,ILL_STATE
+cymbal,to clean,clean,clean,VERB,ILL_STATE
+swab,to clean,clean,clean,VERB,ILL_STATE
+swab,to organize,organize,organize,VERB,ILL_STATE
+goatskin,to be warm,warm,warm,ADJ,ILL_STATE
+goatskin,to create,create,create,VERB,ILL_STATE
+buttock,to protect,protect,protect,VERB,ILL_STATE
+hypnotist,to help,help,help,VERB,ILL_STATE
+hypnotist,to create new ideas,create,create,VERB,ILL_STATE
+hypnotist,to create new ideas,new,new,ADJ,ILL_STATE
+hypnotist,to create new ideas,ideas,idea,NOUN,ILL_STATE
+slime,to play with,play,play,VERB,ILL_STATE
+hook,to hook things on,hook,hook,INTJ,ILL_STATE
+hook,to hook things on,things,thing,NOUN,ILL_STATE
+eel,to do something in ocean,something,something,PRON,ILL_STATE
+eel,to do something in ocean,ocean,ocean,NOUN,ILL_STATE
+eel,to play with,play,play,VERB,ILL_STATE
+intern,to work on things,work,work,NOUN,ILL_STATE
+intern,to work on things,things,thing,NOUN,ILL_STATE
+intern,to help,help,help,VERB,ILL_STATE
+intern,to give ideas,give,give,VERB,ILL_STATE
+intern,to give ideas,ideas,idea,NOUN,ILL_STATE
+intern,to serve,serve,serve,VERB,ILL_STATE
+statue,to show something,show,show,VERB,ILL_STATE
+statue,to show something,something,something,PRON,ILL_STATE
+corvette,driving,driving,drive,VERB,ILL_STATE
+corvette,remodeling,remodeling,remodel,VERB,ILL_STATE
+corvette,display,display,display,NOUN,ILL_STATE
+corvette,selling,selling,sell,VERB,ILL_STATE
+partner,communication,communication,communicate,VERB,ILL_STATE
+partner,relationship,relationship,relationship,NOUN,ILL_STATE
+farmhand,farm work,farm,farm,NOUN,ILL_STATE
+farmhand,farm work,work,work,NOUN,ILL_STATE
+lint,throw out,throw,throw,VERB,ILL_STATE
+lint,fire starters,fire,fire,NOUN,ILL_STATE
+lint,fire starters,starters,starter,NOUN,ILL_STATE
+watchmaker,make watches,make,make,VERB,ILL_STATE
+watchmaker,make watches,watches,watch,NOUN,ILL_STATE
+goat,yoga,yoga,yoga,NOUN,ILL_STATE
+goat,food,food,food,NOUN,ILL_STATE
+goat,pet,pet,pet,NOUN,ILL_STATE
+creamer,coffee,coffee,coffee,NOUN,ILL_STATE
+creamer,hot drinks,hot,hot,ADJ,ILL_STATE
+creamer,hot drinks,drinks,drink,NOUN,ILL_STATE
+creamer,food,food,food,NOUN,ILL_STATE
+caseworker,health services,health,health,NOUN,ILL_STATE
+caseworker,health services,services,service,NOUN,ILL_STATE
+watch,time keeping,time,time,NOUN,ILL_STATE
+watch,time keeping,keeping,keep,VERB,ILL_STATE
+watch,style,style,style,NOUN,ILL_STATE
+scar,scar away cream,away,away,ADV,ILL_STATE
+nurse,health services,health,health,NOUN,ILL_STATE
+nurse,health services,services,service,NOUN,ILL_STATE
+genitalia,pleasure,pleasure,pleasure,NOUN,ILL_STATE
+genitalia,pain,pain,pain,NOUN,ILL_STATE
+Toilet,going to the bathroom,going,go,VERB,ILL_STATE
+Toilet,going to the bathroom,bathroom,bathroom,NOUN,ILL_STATE
+Toilet,get waste out,get,get,VERB,ILL_STATE
+Toilet,get waste out,waste,waste,NOUN,ILL_STATE
+receipt,restaurants,restaurants,restaurant,NOUN,ILL_STATE
+receipt,groceries,groceries,grocery,NOUN,ILL_STATE
+receipt,history,history,history,NOUN,ILL_STATE
+toboggan,sledding,sledding,sled,VERB,ILL_STATE
+machetes,camping,camping,camp,VERB,ILL_STATE
+neck,style,style,style,NOUN,ILL_STATE
+neck,tattoo,tattoo,tattoo,NOUN,ILL_STATE
+fence,protection,protection,protection,NOUN,ILL_STATE
+fence,border,border,border,NOUN,ILL_STATE
+crumpet,eat,eat,eat,VERB,ILL_STATE
+shortcake,eat,eat,eat,VERB,ILL_STATE
+cream,food,food,food,NOUN,ILL_STATE
+cream,cooking,cooking,cook,VERB,ILL_STATE
+cream,snacking,snacking,snack,VERB,ILL_STATE
+tobacco,smoking,smoking,smoke,VERB,ILL_STATE
+broom,sweeping,sweeping,sweep,VERB,ILL_STATE
+broom,cleaning,cleaning,clean,VERB,ILL_STATE
+broom,prop,prop,prop,VERB,ILL_STATE
+workbook,assignments,assignments,assignment,NOUN,ILL_STATE
+workbook,studying,studying,study,VERB,ILL_STATE
+fountain,drinking,drinking,drink,VERB,ILL_STATE
+fountain,pouring,pouring,pour,VERB,ILL_STATE
+coke,drinking,drinking,drink,VERB,ILL_STATE
+coke,labs,labs,lab,NOUN,ILL_STATE
+coke,cooking,cooking,cook,VERB,ILL_STATE
+coke,baking,baking,bake,VERB,ILL_STATE
+encyclopedia,studying,studying,study,VERB,ILL_STATE
+encyclopedia,escape rooms,escape,escape,NOUN,ILL_STATE
+encyclopedia,escape rooms,rooms,room,NOUN,ILL_STATE
+encyclopedia,reference source,reference,reference,NOUN,ILL_STATE
+encyclopedia,reference source,source,source,NOUN,ILL_STATE
+slipcover,furniture,furniture,furniture,NOUN,ILL_STATE
+stethoscope,healthcare,healthcare,healthcare,NOUN,ILL_STATE
+patrolman,security,security,security,NOUN,ILL_STATE
+mentor,advice,advice,advice,NOUN,ILL_STATE
+mentor,confide in,confide,confide,VERB,ILL_STATE
+mentor,ask questions,ask,ask,VERB,ILL_STATE
+mentor,ask questions,questions,question,NOUN,ILL_STATE
+mentor,support,support,support,NOUN,ILL_STATE
+engine,drive,drive,drive,VERB,ILL_STATE
+engine,power work equipment,power,power,NOUN,ILL_STATE
+engine,power work equipment,work,work,NOUN,ILL_STATE
+engine,power work equipment,equipment,equipment,NOUN,ILL_STATE
+engine,transportation,transportation,transportation,NOUN,ILL_STATE
+rain,drink,drink,drink,VERB,ILL_STATE
+rain,play in,play,play,VERB,ILL_STATE
+rain,collect,collect,collect,VERB,ILL_STATE
+rain,shower,shower,shower,NOUN,ILL_STATE
+tombstone,burials,burials,burial,NOUN,ILL_STATE
+tombstone,decorating,decorating,decorate,VERB,ILL_STATE
+tombstone,engraving,engraving,engrave,VERB,ILL_STATE
+lambskin,pouches,pouches,pouch,NOUN,ILL_STATE
+lambskin,shoes,shoes,shoe,VERB,ILL_STATE
+lambskin,clothing,clothing,clothing,NOUN,ILL_STATE
+edibles,recreation,recreation,recreation,NOUN,ILL_STATE
+edibles,sustenance,sustenance,sustenance,NOUN,ILL_STATE
+edibles,cooking,cooking,cook,VERB,ILL_STATE
+laxative,pooping,pooping,poop,VERB,ILL_STATE
+laxative,clearing system,clearing,clear,VERB,ILL_STATE
+laxative,clearing system,system,system,NOUN,ILL_STATE
+motorcycle,drive,drive,drive,VERB,ILL_STATE
+motorcycle,recreation,recreation,recreation,NOUN,ILL_STATE
+motorcycle,events,events,event,NOUN,ILL_STATE
+telescope,stargazing,stargazing,stargaze,VERB,ILL_STATE
+telescope,viewing,viewing,viewe,VERB,ILL_STATE
+drugstore,food,food,food,NOUN,ILL_STATE
+drugstore,prescriptions,prescriptions,prescription,NOUN,ILL_STATE
+drugstore,toiletries,toiletries,toiletry,NOUN,ILL_STATE
+drugstore,drinks,drinks,drink,VERB,ILL_STATE
+male,socialization,socialization,socialization,NOUN,ILL_STATE
+male,sex,sex,sex,VERB,ILL_STATE
+male,relationships,relationships,relationship,NOUN,ILL_STATE
+ornament,hang,hang,hang,VERB,ILL_STATE
+ornament,decorate,decorate,decorate,VERB,ILL_STATE
+woodshed,storing tools,storing,storing,NOUN,ILL_STATE
+woodshed,storing tools,tools,tool,NOUN,ILL_STATE
+woodshed,wood,wood,wood,NOUN,ILL_STATE
+woodshed,building supplies,building,building,NOUN,ILL_STATE
+woodshed,building supplies,supplies,supplies,NOUN,ILL_STATE
+harmonica,playing,playing,play,VERB,ILL_STATE
+harmonica,dancing,dancing,dancing,NOUN,ILL_STATE
+harmonica,singing,singing,singe,VERB,ILL_STATE
+evergreen,lumber,lumber,lumber,NOUN,ILL_STATE
+evergreen,needles for cleaning solution,needles,needles,NOUN,ILL_STATE
+evergreen,needles for cleaning solution,cleaning,cleaning,NOUN,ILL_STATE
+evergreen,needles for cleaning solution,solution,solution,NOUN,ILL_STATE
+evergreen,needles for candles,needles,needles,NOUN,ILL_STATE
+evergreen,needles for candles,candles,candle,NOUN,ILL_STATE
+leftovers,eat,eat,eat,VERB,ILL_STATE
+leftovers,throw away,throw,throw,VERB,ILL_STATE
+leftovers,throw away,away,away,ADV,ILL_STATE
+leftovers,reheat,reheat,reheat,VERB,ILL_STATE
+houseboat,parties,parties,party,NOUN,ILL_STATE
+houseboat,living,living,live,VERB,ILL_STATE
+houseboat,cooking,cooking,cook,VERB,ILL_STATE
+houseboat,using the bathroom,using,use,VERB,ILL_STATE
+houseboat,using the bathroom,bathroom,bathroom,NOUN,ILL_STATE
+houseboat,sleeping,sleeping,sleep,VERB,ILL_STATE
+houseboat,swimming,swimming,swimm,VERB,ILL_STATE
+houseboat,boating,boating,boate,VERB,ILL_STATE
+vitamins,strength,strength,strength,NOUN,ILL_STATE
+vitamins,health,health,health,NOUN,ILL_STATE
+beagle,fun,fun,fun,NOUN,ILL_STATE
+beagle,companion,companion,companion,NOUN,ILL_STATE
+beagle,walks,walks,walk,VERB,ILL_STATE
+beagle,playing,playing,play,VERB,ILL_STATE
+ductwork,air conditioning,air,air,NOUN,ILL_STATE
+ductwork,air conditioning,conditioning,condition,VERB,ILL_STATE
+ductwork,electricity,electricity,electricity,NOUN,ILL_STATE
+ductwork,water,water,water,NOUN,ILL_STATE
+barber,haircuts,haircuts,haircut,NOUN,ILL_STATE
+barber,beard trims,beard,beard,NOUN,ILL_STATE
+barber,beard trims,trims,trim,VERB,ILL_STATE
+saltshaker,season food,season,season,NOUN,ILL_STATE
+saltshaker,season food,food,food,NOUN,ILL_STATE
+saltshaker,smash,smash,smash,VERB,ILL_STATE
+saltshaker,throw,throw,throw,VERB,ILL_STATE
+saltshaker,refill,refill,refill,VERB,ILL_STATE
+curler,curling hair,curling,curl,VERB,ILL_STATE
+curler,curling hair,hair,hair,NOUN,ILL_STATE
+curler,burning,burning,burn,VERB,ILL_STATE
+curler,styling hair,styling,style,VERB,ILL_STATE
+curler,styling hair,hair,hair,NOUN,ILL_STATE
+llama,meat,meat,meat,NOUN,ILL_STATE
+llama,fur,fur,fur,NOUN,ILL_STATE
+llama,clothing/shoes,clothing,clothing,NOUN,ILL_STATE
+llama,clothing/shoes,shoes,shoe,VERB,ILL_STATE
+llama,pets,pets,pets,NOUN,ILL_STATE
+llama,profit,profit,profit,NOUN,ILL_STATE
+teardrop,pity,pity,pity,NOUN,ILL_STATE
+teardrop,guilt,guilt,guilt,NOUN,ILL_STATE
+teardrop,empathy,empathy,empathy,NOUN,ILL_STATE
+teardrop,relief,relief,relief,NOUN,ILL_STATE
+teardrop,handling emotion,handling,handle,VERB,ILL_STATE
+teardrop,handling emotion,emotion,emotion,NOUN,ILL_STATE
+manicure,healthy nails,healthy,healthy,ADJ,ILL_STATE
+manicure,healthy nails,nails,nails,NOUN,ILL_STATE
+manicure,special events,special,special,ADJ,ILL_STATE
+manicure,special events,events,event,NOUN,ILL_STATE
+manicure,photoshoots,photo,photo,NOUN,ILL_STATE
+manicure,photoshoots,shoots,shoot,NOUN,ILL_STATE
+manicure,looking nice,looking,look,VERB,ILL_STATE
+manicure,looking nice,nice,nice,ADJ,ILL_STATE
+screwdriver,weapon,weapon,weapon,NOUN,ILL_STATE
+screwdriver,screw screws,screw,screw,VERB,ILL_STATE
+screwdriver,screw screws,screws,screw,NOUN,ILL_STATE
+screwdriver,repair,repair,repair,VERB,ILL_STATE
+hardware,tools,tools,tool,NOUN,ILL_STATE
+hardware,fix,fix,fix,VERB,ILL_STATE
+rancher,horses,horses,horse,NOUN,ILL_STATE
+tube,liquid,liquid,liquid,AUX,ILL_STATE
+tube,crafting,crafting,craft,NOUN,ILL_STATE
+tube,fix ,fix,fix,VERB,ILL_STATE
+cane,walking,walking,walk,NOUN,ILL_STATE
+cane,hitting,hitting,hit,VERB,ILL_STATE
+orchard,apples,apples,apple,NOUN,ILL_STATE
+orchard,growing,growing,grow,VERB,ILL_STATE
+orchard,trees,trees,tree,NOUN,ILL_STATE
+shell,sea,sea,sea,NOUN,ILL_STATE
+shell,protection,protection,protect,VERB,ILL_STATE
+shell,gas,gas,gas,NOUN,ILL_STATE
+bench,sitting,sitting,sit,VERB,ILL_STATE
+bench,standing,standing,stand,VERB,ILL_STATE
+bench,hiding,hiding,hi,VERB,ILL_STATE
+altarpiece,decoration,decoration,decorate,VERB,ILL_STATE
+asparagus,eating,eating,eat,VERB,ILL_STATE
+asparagus,herbs,herbs,herb,NOUN,ILL_STATE
+asparagus,plants,plants,plant,NOUN,ILL_STATE
+platter,food,food,food,NOUN,ILL_STATE
+platter,placing,placing,place,VERB,ILL_STATE
+platter,holding ,holding,hold,NOUN,ILL_STATE
+purse,holding,holding,hold,NOUN,ILL_STATE
+purse,accessory,accessory,accessory,INTJ,ILL_STATE
+purse,hiding ,hiding,hi,VERB,ILL_STATE
+coleslaw,food,food,food,NOUN,ILL_STATE
+block,people,people,people,NOUN,ILL_STATE
+block,hide,hide,hide,NOUN,ILL_STATE
+block,building ,building,building,NOUN,ILL_STATE
+wound,protection,protection,protect,VERB,ILL_STATE
+wound,injury,injury,injury,NOUN,ILL_STATE
+chemicals,makeup,makeup,makeup,NOUN,ILL_STATE
+chemicals,equation,equation,equation,NOUN,ILL_STATE
+chemicals,cleaning supplies,cleaning,clean,VERB,ILL_STATE
+chemicals,cleaning supplies,supplies,supplies,NOUN,ILL_STATE
+clay,building,building,building,NOUN,ILL_STATE
+clay,crafts,crafts,craft,NOUN,ILL_STATE
+clay,patching,patching,patch,VERB,ILL_STATE
+duck,animal,animal,animal,NOUN,ILL_STATE
+duck,food,food,food,NOUN,ILL_STATE
+saleslady,business,business,business,NOUN,ILL_STATE
+saleslady,money,money,money,NOUN,ILL_STATE
+elbow,breaking,breaking,break,NOUN,ILL_STATE
+elbow,bending,bending,bend,VERB,ILL_STATE
+landscape,painting,painting,paint,VERB,ILL_STATE
+landscape,photos,photos,photo,NOUN,ILL_STATE
+strainer,water,water,water,NOUN,ILL_STATE
+goblet,liquid,liquid,liquid,AUX,ILL_STATE
+goblet,food,food,food,NOUN,ILL_STATE
+suit,men,men,men,NOUN,ILL_STATE
+suit,cards,cards,card,NOUN,ILL_STATE
+wrapper,gifts,gifts,gift,NOUN,ILL_STATE
+wrapper,paper,paper,paper,NOUN,ILL_STATE
+token,slots,slots,slot,NOUN,ILL_STATE
+token,money ,money,money,NOUN,ILL_STATE

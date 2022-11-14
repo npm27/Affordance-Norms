@@ -23,9 +23,9 @@ This page provides a searchable portal for our affordance norming project. This 
 
 ### Affordance Norm Variables
 
-**Affordance Strength:** (DESCRIPTION HERE) 
+**Affordance Strength (AFS):** The probability of a specific affordance being given in response to a cue. This value is computed by dividing the frequency count of each unique response by the total number of responses the cue receives.
 
-**Affordance Set-Size:** (DESCRIPTION HERE)
+**Affordance Set-Size (AFSS):** The total number of unique affordance responses to a cue.
 
 
 ```{r eruptions, echo=FALSE}
@@ -44,7 +44,8 @@ server = function(input, output) {
                extensions = 'Buttons',
                options = list(
                  dom = 'rtpB',
-                 buttons = c('copy', 'csv', 'excel')
+                 buttons = c('copy', 'csv', 'excel'),
+                 pageLength = 20
                ) #close options
                ) #close data table 
      

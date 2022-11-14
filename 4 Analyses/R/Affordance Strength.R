@@ -48,7 +48,7 @@ for(i in cuelist){
     cue = temp2$CUE[1]
     response = temp2$RESPONSE.LEMMA[1]
     AFS = nrow(temp2) / nrow(temp)
-    AFSS = nrow(temp)
+    AFSS = length(r_list)
     
     temp3 = data.frame(cue, response, AFS, AFSS)
     

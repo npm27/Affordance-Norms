@@ -17,18 +17,21 @@ library(DT)
 affordances = read.csv("Affordance Norms.csv")
 
 ##use this space to update column headings, round values, etc.
+affordances$AFS = round(affordances$AFS, digits = 3)
 
 ```
-This page provides a searchable portal for our affordance norming project. This following dataset contains affordance responses for 3000 concrete nouns and displays affordance strength values and set sizes. The table below provides options for searching this dataset while also filtering by several metrics. The filtered table can then be downloaded to .csv for .xlsx for further analysis. Please note that if you are downloading the application to run locally on RStudio, you will need to download the entire folder on our [GitHub repository](https://github.com/npm27/).
+### General Overview
+This page provides a searchable portal for our affordance norming project. This following dataset contains affordance responses for 3000 concrete nouns and displays affordance strength values and set sizes. The table below provides options for searching this dataset while also filtering by several metrics. The filtered table can then be downloaded to .csv or.xlsx for further analysis. Please note that if you are downloading the application to run locally on RStudio, you will need to download the entire folder on our [GitHub repository](https://github.com/npm27/).
 
-### Affordance Norm Variables
+### Variable Descriptions
 
 **Affordance Strength (AFS):** The probability of a specific affordance being given in response to a cue. This value is computed by dividing the frequency count of each unique response by the total number of responses the cue receives.
 
 **Affordance Set-Size (AFSS):** The total number of unique affordance responses to a cue.
 
+### Affordance Norm Table
 
-```{r eruptions, echo=FALSE}
+```{r eruptions, echo = FALSE}
 #####Define UI####
 ui = fluidPage(
    div(style = 'overflow-x: scroll', DTOutput("affordance_table"))

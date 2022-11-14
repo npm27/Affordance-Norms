@@ -1,0 +1,54 @@
+---
+output:
+  html_document:
+    toc: TRUE
+    toc_float: TRUE
+runtime: shiny
+title: "Affordance Norms"
+---
+<p>
+
+```{r setup, echo = FALSE, warning = FALSE, include = FALSE}
+##load libraries
+library(shiny)
+library(DT)
+
+##load datasets here
+
+```
+This page provides a searchable portal for our affordance norming project. This following dataset contains affordance responses for 3000 concrete nouns and displays affordance strength values and set sizes. The table below provides options for searching this dataset while also filtering by several metrics. The filtered table can then be downloaded to .csv for .xlsx for further analysis. Please note that if you are downloading the application to run locally on RStudio, you will need to download the entire folder on our [GitHub repository](https://github.com/npm27/).
+
+### Affordance Norm Variables
+
+**Affordance Strength:** (DESCRIPTION HERE) 
+
+**Affordance Set-Size:** (DESCRIPTION HERE)
+
+
+```{r eruptions, echo=FALSE}
+#####Define UI####
+ui = fluidPage(
+   div(style = 'overflow-x: scroll', DTOutput("affordance_table"))
+   ) #fluidpage
+
+server = function(input, output) {
+   
+   output$affordance_table = renderDT(server = TRUE, {
+     
+     datatable(iris, #Swap out iris data set for norms
+               filter = 'top',
+               rownames = FALSE,
+               extensions = 'Buttons',
+               options = list(
+                 dom = 'rtpB',
+                 buttons = c('copy', 'csv', 'excel')
+               ) #close options
+               ) #close data table 
+     
+   }) #close render DT
+      
+}
+
+# Run the application 
+shinyApp(ui = ui, server = server, options = list(height = 550))
+```

@@ -1,0 +1,16 @@
+Username,ID,Trial,Question,Type,RT,Response
+bday@butler.edu,1pmi0x4pmm,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3970,Smooth
+bday@butler.edu,1pmi0x4pmm,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4191,DoneItBefore
+bday@butler.edu,1pmi0x4pmm,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3449,4
+bday@butler.edu,1pmi0x4pmm,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6815,piloting
+bday@butler.edu,1pmi0x4pmm,5,"Which of the following problems did you have?",Checkbox,5691,none
+cholzwor@butler.edu,3wke3rhc0k,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3986,Smooth
+cholzwor@butler.edu,3wke3rhc0k,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5591,Naive
+cholzwor@butler.edu,3wke3rhc0k,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,17363,1
+cholzwor@butler.edu,3wke3rhc0k,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8619,no
+cholzwor@butler.edu,3wke3rhc0k,5,"Which of the following problems did you have?",Checkbox,16569,none
+akfoster@butler.eu,hbdkfr172l,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4238,Smooth
+akfoster@butler.eu,hbdkfr172l,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5503,Naive
+akfoster@butler.eu,hbdkfr172l,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7834,4
+akfoster@butler.eu,hbdkfr172l,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5769,No
+akfoster@butler.eu,hbdkfr172l,5,"Which of the following problems did you have?",Checkbox,6505,none

@@ -14,6 +14,9 @@ library(shiny)
 library(DT)
 
 ##load datasets here
+affordances = read.csv("Affordance Norms.csv")
+
+##use this space to update column headings, round values, etc.
 
 ```
 This page provides a searchable portal for our affordance norming project. This following dataset contains affordance responses for 3000 concrete nouns and displays affordance strength values and set sizes. The table below provides options for searching this dataset while also filtering by several metrics. The filtered table can then be downloaded to .csv for .xlsx for further analysis. Please note that if you are downloading the application to run locally on RStudio, you will need to download the entire folder on our [GitHub repository](https://github.com/npm27/).
@@ -35,7 +38,7 @@ server = function(input, output) {
    
    output$affordance_table = renderDT(server = TRUE, {
      
-     datatable(iris, #Swap out iris data set for norms
+     datatable(affordances, #Swap out iris data set for norms
                filter = 'top',
                rownames = FALSE,
                extensions = 'Buttons',

@@ -31,3 +31,31 @@ AFS = nrow(test2)/nrow(test)
 
 ##Maybe write a loop? Outer loop that moves through cues, inner loop then moves through lemma responses
 ##at the end of each iteration, write cue, lemma.response, and value to DF?
+Affordance_Strength = data.frame(matrix(ncol = 4,nrow = 0, dimnames = list(NULL, c("cue", "response", "AFS", "AFSS"))))
+
+for(i in cuelist){
+  
+  temp = subset(verbs2,
+                verbs2$CUE == i)
+
+  r_list = unique(temp$RESPONSE.LEMMA)
+  
+  for(j in r_list){
+    
+    temp2 = subset(temp,
+                   temp$RESPONSE.LEMMA == j)
+    
+    cue = temp2$CUE[1]
+    response = temp2$RESPONSE.LEMMA[1]
+    AFS = nrow(temp2) / nrow(temp)
+    AFSS = nrow(temp)
+    
+    temp3 = data.frame(cue, response, AFS, AFSS)
+    
+    Affordance_Strength = rbind(Affordance_Strength, temp3)
+  }
+  
+}
+
+#write to file
+#write.csv(Affordance_Strength, file = "Affordance Norms.csv", row.names = F)

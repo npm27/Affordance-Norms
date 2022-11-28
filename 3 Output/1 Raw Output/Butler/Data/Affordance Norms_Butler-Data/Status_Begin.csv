@@ -1,0 +1,11 @@
+Username,ID,Date,Session,Condition_Number,Condition_Description,Output_File,Stimuli_File,Procedure_File,Browser,DeviceType,OS,IP
+TESTJACOB,r3optqpy6p,2022-10-06T20:27:49+00:00,1,1,"Version 1",Output_Session1_TESTJACOB_r3optqpy6p.csv,"updated stim.csv",Version1.csv,"Chrome Generic",Desktop,Win10,10.16.28.128
+bday@butler.edu,1pmi0x4pmm,2022-10-20T14:36:45+00:00,1,2,"Version 2",Output_Session1_bday@butler.edu_1pmi0x4pmm.csv,"updated stim.csv",Version2.csv,"Safari Generic",Desktop,MacOSX,159.242.0.110
+msmith@butler.edu,bx0vp4mt9t,2022-10-27T14:39:04+00:00,1,3,"Version 3",Output_Session1_msmith@butler.edu_bx0vp4mt9t.csv,"updated stim.csv",Version3.csv,"Safari 11.1",Desktop,MacOSX,159.242.0.113
+cholzwor@butler.edu,3wke3rhc0k,2022-10-30T20:13:20+00:00,1,4,"Version 4",Output_Session1_cholzwor@butler.edu_3wke3rhc0k.csv,"updated stim.csv",Version4.csv,"Chrome Generic",Desktop,MacOSX,159.242.0.110
+akfoster@butler.eu,hbdkfr172l,2022-11-03T02:15:16+00:00,1,5,"Version 5",Output_Session1_akfoster@butler.eu_hbdkfr172l.csv,"updated stim.csv",Version5.csv,"Edge Generic",Desktop,Win10,159.242.0.112
+hrbaer@butler.edu,2gyniscu6m,2022-11-14T20:57:25+00:00,1,6,"Version 6",Output_Session1_hrbaer@butler.edu_2gyniscu6m.csv,"updated stim.csv",Version6.csv,"Safari Generic",Desktop,MacOSX,159.242.0.110
+gkurban@butler.edu,1pk93kwn2h,2022-11-14T22:58:33+00:00,1,7,"Version 7",Output_Session1_gkurban@butler.edu_1pk93kwn2h.csv,"updated stim.csv",Version7.csv,"Safari Generic",Desktop,MacOSX,159.242.0.110
+gflynn1@butler.edu,5ejlw1e1xt,2022-11-18T13:58:53+00:00,1,8,"Version 8",Output_Session1_gflynn1@butler.edu_5ejlw1e1xt.csv,"updated stim.csv",Version8.csv,"Safari Generic",Desktop,MacOSX,159.242.0.110
+ejbauman@butler.edu,4uwechchk5,2022-11-18T15:33:16+00:00,1,9,"Version 9",Output_Session1_ejbauman@butler.edu_4uwechchk5.csv,"updated stim.csv",Version9.csv,"Chrome Generic",Desktop,MacOSX,159.242.0.110
+lhouldsworth@butler.edu,c7yn5wgqmn,2022-11-28T13:38:06+00:00,1,10,"Version 10",Output_Session1_lhouldsworth@butler.edu_c7yn5wgqmn.csv,"updated stim.csv",Version10.csv,"Chrome Generic",Desktop,MacOSX,159.242.0.110

@@ -1,0 +1,36 @@
+Username,ID,Trial,Question,Type,RT,Response
+bday@butler.edu,1pmi0x4pmm,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3970,Smooth
+bday@butler.edu,1pmi0x4pmm,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4191,DoneItBefore
+bday@butler.edu,1pmi0x4pmm,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3449,4
+bday@butler.edu,1pmi0x4pmm,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6815,piloting
+bday@butler.edu,1pmi0x4pmm,5,"Which of the following problems did you have?",Checkbox,5691,none
+cholzwor@butler.edu,3wke3rhc0k,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3986,Smooth
+cholzwor@butler.edu,3wke3rhc0k,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5591,Naive
+cholzwor@butler.edu,3wke3rhc0k,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,17363,1
+cholzwor@butler.edu,3wke3rhc0k,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8619,no
+cholzwor@butler.edu,3wke3rhc0k,5,"Which of the following problems did you have?",Checkbox,16569,none
+akfoster@butler.eu,hbdkfr172l,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4238,Smooth
+akfoster@butler.eu,hbdkfr172l,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5503,Naive
+akfoster@butler.eu,hbdkfr172l,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7834,4
+akfoster@butler.eu,hbdkfr172l,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5769,No
+akfoster@butler.eu,hbdkfr172l,5,"Which of the following problems did you have?",Checkbox,6505,none
+hrbaer@butler.edu,2gyniscu6m,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,30144,Smooth
+hrbaer@butler.edu,2gyniscu6m,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5384,Naive
+hrbaer@butler.edu,2gyniscu6m,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6898,5
+hrbaer@butler.edu,2gyniscu6m,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,17764,"actually no, just focusing on brainstorming ideas"
+hrbaer@butler.edu,2gyniscu6m,5,"Which of the following problems did you have?",Checkbox,7497,none
+gkurban@butler.edu,1pk93kwn2h,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7040,Smooth
+gkurban@butler.edu,1pk93kwn2h,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7557,Naive
+gkurban@butler.edu,1pk93kwn2h,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,8248,7
+gkurban@butler.edu,1pk93kwn2h,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6863,No
+gkurban@butler.edu,1pk93kwn2h,5,"Which of the following problems did you have?",Checkbox,6115,none
+gflynn1@butler.edu,5ejlw1e1xt,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,9830,Smooth
+gflynn1@butler.edu,5ejlw1e1xt,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7830,Naive
+gflynn1@butler.edu,5ejlw1e1xt,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,12579,2
+gflynn1@butler.edu,5ejlw1e1xt,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10553,no
+gflynn1@butler.edu,5ejlw1e1xt,5,"Which of the following problems did you have?",Checkbox,7608,none
+lhouldsworth@butler.edu,c7yn5wgqmn,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8027,Smooth
+lhouldsworth@butler.edu,c7yn5wgqmn,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,16032,Naive
+lhouldsworth@butler.edu,c7yn5wgqmn,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,8598,6
+lhouldsworth@butler.edu,c7yn5wgqmn,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10769,no
+lhouldsworth@butler.edu,c7yn5wgqmn,5,"Which of the following problems did you have?",Checkbox,29916,none

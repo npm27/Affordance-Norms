@@ -20,4 +20,5 @@ dat2 = subset(dat2,
               dat2$Procedure.Item < 3001)
 
 ##Write to .csv
-write.csv(dat2, file = "Merged_IL_State_10_18.csv", row.names = F)
+#write.csv(dat2, file = "Merged_IL_State_10_18.csv", row.names = F)
+

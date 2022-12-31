@@ -1,5 +1,5 @@
 ####Combine .csv files into master datasheet####
-setwd("./RAW Batch 3")
+setwd("./USM 2")
 
 #Get the files names
 files = list.files(pattern = "*.csv")
@@ -20,4 +20,4 @@ dat2 = subset(dat2,
               dat2$Procedure.Item < 3001)
 
 ##Write to .csv
-write.csv(dat2, file = "USM_merged_10_18_22_.csv", row.names = F)
+write.csv(dat2, file = "USM1_merged_12_31_22_.csv", row.names = F)

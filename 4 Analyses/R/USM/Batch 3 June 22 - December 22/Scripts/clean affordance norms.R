@@ -24,10 +24,13 @@ library(udpipe)
 library(stopwords)
 
 ##read in data
-master = read.csv("0-Data/combined_data_3_16_22.csv", stringsAsFactors = F)
+temp1 = read.csv("0-Data/USM1_MERGED_12_31_22.csv", stringsAsFactors = F)
+temp2 = read.csv("0-Data/USM2_MERGED_12_31_22.csv", stringsAsFactors = F)
+
+master = rbind(temp1, temp2)
 
 ##only keep the columns we need
-dat = master[ , c(1, 5, 11, 13, 19, 33, 35)]
+dat = master[ , c(1, 5, 11, 13, 19, 33)]
 
 #useful column names
 colnames(dat)[6] = "affordance_response"
@@ -39,7 +42,25 @@ dat$affordance_response[dat$affordance_response == "n/a"] = NA
 ##normalize all responses to lowercase
 dat$affordance_response = tolower(dat$affordance_response)
 
-source("remove idk.R")
+source("Scripts/remove idk.R")
+
+dat$affordance_response[dat$affordance_response == "i dont know what that is "] = NA
+dat$affordance_response[dat$affordance_response == "i don't know what that is"] = NA
+dat$affordance_response[dat$affordance_response == "i don't know what that is."] = NA
+dat$affordance_response[dat$affordance_response == "i don't know what that means"] = NA
+dat$affordance_response[dat$affordance_response == "dont know what this is"] = NA
+dat$affordance_response[dat$affordance_response == "i dont know what to say"] = NA
+dat$affordance_response[dat$affordance_response == "not an object"] = NA
+dat$affordance_response[dat$affordance_response == "i am not sure i know what acne could be used for "] = NA
+dat$affordance_response[dat$affordance_response == "i do not know what this is"] = NA
+dat$affordance_response[dat$affordance_response == "idk casket"] = NA
+dat$affordance_response[dat$affordance_response == "idk what this is "] = NA
+dat$affordance_response[dat$affordance_response == "shirts too low idk"] = NA
+dat$affordance_response[dat$affordance_response == "what???"] = NA
+dat$affordance_response[dat$affordance_response == "i have no clue what this is"] = NA
+dat$affordance_response[dat$affordance_response == "what"] = NA
+dat$affordance_response[dat$affordance_response == "no idea what this is"] = NA
+dat$affordance_response[dat$affordance_response == "i honestly have no idea what this is."] = NA
 
 #Check for NAs
 table(is.na(dat$affordance_response))
@@ -94,21 +115,21 @@ parsed_afforances = unnest_tokens(tbl = parsed_afforances, output = parsed,
                                   pattern = ",")
 
 parsed_afforances$corrected = stri_replace_all_regex(str = parsed_afforances$parsed,
-                                           pattern = spelling.dict$spelling.pattern,
-                                           replacement = spelling.dict$spelling.sugg,
-                                           vectorize_all = FALSE)
+                                                     pattern = spelling.dict$spelling.pattern,
+                                                     replacement = spelling.dict$spelling.sugg,
+                                                     vectorize_all = FALSE)
 
 ##Remove a few weird things
-parsed_afforances$corrected[parsed_afforances$corrected == "na"] = NA 
-parsed_afforances$corrected[parsed_afforances$corrected == " "] = NA 
-parsed_afforances$corrected[parsed_afforances$corrected == ""] = NA
-parsed_afforances$corrected[parsed_afforances$corrected == "  learning how to do a task"] = "someone learning how to do a task"
+#parsed_afforances$corrected[parsed_afforances$corrected == "na"] = NA 
+#parsed_afforances$corrected[parsed_afforances$corrected == " "] = NA 
+#parsed_afforances$corrected[parsed_afforances$corrected == ""] = NA
+#parsed_afforances$corrected[parsed_afforances$corrected == "  learning how to do a task"] = "someone learning how to do a task"
 
 #Fix column names
-colnames(parsed_afforances)[7:8] = c("affordance_parsed", "affordance_corrected")
+colnames(parsed_afforances)[6:7] = c("affordance_parsed", "affordance_corrected")
 
 ##Write spelled checked data to .csv
-#write.csv(parsed_afforances, file = "spell_checked.csv", row.names = F)
+write.csv(parsed_afforances, file = "spell_checked.csv", row.names = F)
 
 ####Lemmatization####
 dat = read.csv("spell_checked.csv", stringsAsFactors = F)
@@ -127,7 +148,7 @@ dat$affordance_lemma = lemmatize_strings(dat$affordance_corrected)
 ##what about udpipe?
 #Example
 #x = c(doc_a = "In our last meeting, someone said that we are meeting again tomorrow",
- #      doc_b = "It's better to be good at being the best")
+#      doc_b = "It's better to be good at being the best")
 #anno = udpipe(x, "english")
 #anno[, c("doc_id", "sentence_id", "token", "lemma", "upos")]
 
@@ -148,26 +169,26 @@ dat$affordance_corrected = stringr::str_remove_all(dat$affordance_corrected, " "
 #Now I need to remove punctuation/weirdness
 
 ##Remove stop words
-no_stop = dat %>%
-  filter(!grepl("[[:punct:]]", affordance_corrected)) %>% #Remove punctuation
-  filter(!affordance_corrected %in% stopwords(language = "en", source = "snowball")) %>% #remove stopwords
-  filter(!grepl("[[:digit:]]+", affordance_corrected)) %>% #remove numbers
-  filter(!is.na(affordance_corrected))
+no_stop = tokens %>%
+  filter(!grepl("[[:punct:]]", word)) %>% #Remove punctuation
+  filter(!word %in% stopwords(language = "en", source = "snowball")) %>% #remove stopwords
+  filter(!grepl("[[:digit:]]+", word)) %>% #remove numbers
+  filter(!is.na(word))
 
-temp = data.frame(table(no_stop$affordance_corrected)) #If you View temp, you can see that there's parenthesis, puncation, weird spaces, etc.
+temp = data.frame(table(no_stop$word))
 
 #remove extra spaces
-no_stop$affordance_corrected = gsub(" ", "", no_stop$affordance_corrected)
+#no_stop$affordance_corrected = gsub(" ", "", no_stop$affordance_corrected)
 
 #Remove 's
-no_stop$affordance_corrected = gsub("'s", "", no_stop$affordance_corrected)
+#no_stop$affordance_corrected = gsub("'s", "", no_stop$affordance_corrected)
 
 #Remove 't
-no_stop$affordance_corrected = gsub("'t", "t", no_stop$affordance_corrected)
+#no_stop$affordance_corrected = gsub("'t", "t", no_stop$affordance_corrected)
 
 #Remove any stopwords that might have been generated in lines 139/142
-no_stop = no_stop %>%
-  filter(!affordance_corrected %in% stopwords(language = "en", source = "snowball"))
+#no_stop = no_stop %>%
+# filter(!affordance_corrected %in% stopwords(language = "en", source = "snowball"))
 
 ##Write to .csv for lemmatization w/ Python
 #write.csv(no_stop, file = "cleaned_9_19_21.csv", row.names = F)
@@ -175,36 +196,30 @@ no_stop = no_stop %>%
 ####Lemmatize w/ R####
 ##Having some issues w/ this, using Python instead. Code is included though in case I ever get this working.
 #Lemmatize! (This gives a second set of lemmas using a different algorithm. Also provides part of speech info)
-#lemmatized = udpipe(no_stop$affordance_corrected, "english")
+lemmatized = udpipe(no_stop$word, "english")
 
 #If lemmatized and no_stop don't match up perfectly, can use the code below to see where the differences are
-lemmatized$token[!lemmatized$token %in% no_stop$affordance_corrected] #Then just tweak the character removal process above as needed
+lemmatized$token[!lemmatized$token %in% no_stop$word] #Then just tweak the character removal process above as needed
+
+lemmatized2 = lemmatized[-c(9,5534,13908), ]
 
 ##Combine datasets and add in second set of Lemmas, part of speech info
-combined = cbind(no_stop, lemmatized[ , c(10:11, 13)])
+combined = cbind(no_stop, lemmatized2[ , c(10:11, 13)])
+
+combined[10, 8] = "snot"
+combined[5535, 8] = "snort"
 
 #Give useful column names
-colnames(combined)[14:16] = c("Lemma_1", "Lemma_2", "POS")
+colnames(combined)[9] = c("POS")
 
 #Drop unused columns
-combined = combined[ , -c(3, 7:8)]
+combined = combined[ , -c(2, 10)]
 
-#Do Lemmas match?
-combined$Lemma_match = combined$Lemma_1 == combined$Lemma_2
-
-table(combined$Lemma_match) #Mostly matches but got about 1600 mismatches. Let's see what's up with that!
-
-temp = subset(combined,
-              combined$Lemma_match == FALSE)
-
-##Going to use Lemma 1. Both have a couple of weird things, but Lemma 1 is substantially less weird
 #don't know why it keeps changing dry to spin-dry though. Going to manually fix that.
-combined$Lemma_1[combined$Lemma_1 == "spin-dry"] = "dry"
+combined$lemma[combined$lemma == "spin-dry"] = "dry"
+combined$lemma[combined$lemma == "smoothy"] = "smoothie"
 
 #might be a good idea to open this up in excel and spot check
 
-#drop lemma 2 and match columns
-combined = combined[ , -c(12, 15)]
-
 ##Write to .csv
-write.csv(combined, file = "Cleaned_5_14_21.csv", row.names = F)
+#write.csv(combined, file = "USM Cleaned 12_31_22.csv", row.names = F)

@@ -57,5 +57,19 @@ for(i in cuelist){
   
 }
 
+##now sort
+Affordance_Strength2 = data.frame(matrix(ncol = 4,nrow = 0, dimnames = list(NULL, c("cue", "response", "AFS", "AFSS"))))
+
+for(k in cuelist){
+  
+  temp4 = subset(Affordance_Strength,
+                 Affordance_Strength$cue == k)
+  
+  temp4 = temp4[order(temp4$AFS, decreasing=TRUE), ]
+  
+  Affordance_Strength2 = rbind(Affordance_Strength2, temp4)
+  
+}
+
 #write to file
-#write.csv(Affordance_Strength, file = "Affordance Norms.csv", row.names = F)
+#write.csv(Affordance_Strength2, file = "Affordance Norms.csv", row.names = F)

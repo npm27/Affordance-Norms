@@ -29,7 +29,7 @@
         $title   = 'Done!';
         $message = '<h2>Thank you for your participation! Please make note right now of the exact time/date you completed this study. You will will need this information to claim your credit!</h2>'
 		 .  '<p>To receive your credit, please click on the following link or copy it into a new browser tab:</p>'
-		 .  '<a href=" https://www.surveymonkey.com/r/PsychResearchSpring2023</a>'
+		 .  '<a href="https://www.surveymonkey.com/r/PsychResearchSpring2023">https://www.surveymonkey.com/r/PsychResearchSpring2023</a>'
                  .  '<p>You will be asked to provide your name, indicate the study you just completed, and indicate the course in which you want research credit. You will also be asked for the time/date in which you began AND finished the study.'
                  .  '</p>';
         if ($_CONFIG->mTurk_mode == true) {

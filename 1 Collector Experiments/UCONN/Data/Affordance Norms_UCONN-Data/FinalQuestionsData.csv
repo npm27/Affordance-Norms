@@ -1,0 +1,772 @@
+Username,ID,Trial,Question,Type,RT,Response
+test1234,59gbelqqhp,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4177,Smooth
+test1234,59gbelqqhp,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,72488,DoneItBefore
+test1234,59gbelqqhp,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,1174,1
+test1234,59gbelqqhp,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,1029,
+test1234,59gbelqqhp,5,"Which of the following problems did you have?",Checkbox,1548,none
+giselle.rodriguez@uconn.edu,ztz9yqpsge,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5194,Smooth
+giselle.rodriguez@uconn.edu,ztz9yqpsge,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6434,Naive
+giselle.rodriguez@uconn.edu,ztz9yqpsge,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,12372,5
+giselle.rodriguez@uconn.edu,ztz9yqpsge,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,14085,"nope just this experiment"
+giselle.rodriguez@uconn.edu,ztz9yqpsge,5,"Which of the following problems did you have?",Checkbox,5590,none
+cecilia.debruycker@uconn.edu,pfijunoxtf,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5674,Smooth
+cecilia.debruycker@uconn.edu,pfijunoxtf,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4232,Naive
+cecilia.debruycker@uconn.edu,pfijunoxtf,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5706,5
+cecilia.debruycker@uconn.edu,pfijunoxtf,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11726,"no "
+cecilia.debruycker@uconn.edu,pfijunoxtf,5,"Which of the following problems did you have?",Checkbox,5747,none
+raven.dest@uconn.edu,esaynooixt,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,13627,Smooth
+raven.dest@uconn.edu,esaynooixt,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6130,Naive
+raven.dest@uconn.edu,esaynooixt,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,8566,4
+raven.dest@uconn.edu,esaynooixt,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10282,No
+raven.dest@uconn.edu,esaynooixt,5,"Which of the following problems did you have?",Checkbox,6552,none
+paige.starr@uconn.edu,w9x75kd1do,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8097,Smooth
+paige.starr@uconn.edu,w9x75kd1do,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4382,Naive
+paige.starr@uconn.edu,w9x75kd1do,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7504,4
+paige.starr@uconn.edu,w9x75kd1do,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7227,No
+paige.starr@uconn.edu,w9x75kd1do,5,"Which of the following problems did you have?",Checkbox,9586,none
+ashley.patiag@uconn.edu,8urbzqaqnl,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3766,Smooth
+ashley.patiag@uconn.edu,8urbzqaqnl,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3040,DoneItBefore
+ashley.patiag@uconn.edu,8urbzqaqnl,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5611,6
+ashley.patiag@uconn.edu,8urbzqaqnl,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6231,no
+ashley.patiag@uconn.edu,8urbzqaqnl,5,"Which of the following problems did you have?",Checkbox,7689,none
+jaela.black@uconn.edu,w3acwxze32,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,16362,MinorBumps
+jaela.black@uconn.edu,w3acwxze32,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5302,Naive
+jaela.black@uconn.edu,w3acwxze32,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4857,4
+jaela.black@uconn.edu,w3acwxze32,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,12181,"I was listening to music (pop music)"
+jaela.black@uconn.edu,w3acwxze32,5,"Which of the following problems did you have?",Checkbox,13580,none
+owen.donegan@uconn.edu,yg46ql38g8,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,10153,Smooth
+owen.donegan@uconn.edu,yg46ql38g8,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7934,Naive
+owen.donegan@uconn.edu,yg46ql38g8,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6459,4
+owen.donegan@uconn.edu,yg46ql38g8,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,18958,"no, I was sitting in the library "
+meghan.henningsen@uconn.edu,5sf475mide,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7232,Smooth
+owen.donegan@uconn.edu,yg46ql38g8,5,"Which of the following problems did you have?",Checkbox,6535,none
+meghan.henningsen@uconn.edu,5sf475mide,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5085,Naive
+meghan.henningsen@uconn.edu,5sf475mide,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10559,3
+meghan.henningsen@uconn.edu,5sf475mide,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5135,no
+meghan.henningsen@uconn.edu,5sf475mide,5,"Which of the following problems did you have?",Checkbox,781,
+julia.farnoli@uconn.edu,cvhjlz4jq5,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7439,Smooth
+julia.farnoli@uconn.edu,cvhjlz4jq5,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5400,Naive
+julia.farnoli@uconn.edu,cvhjlz4jq5,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,13110,1
+julia.farnoli@uconn.edu,cvhjlz4jq5,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10081,"No. "
+julia.farnoli@uconn.edu,cvhjlz4jq5,5,"Which of the following problems did you have?",Checkbox,10080,none
+dylan.pontonio@uconn.edu,qp4vr4ha31,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2743,Smooth
+dylan.pontonio@uconn.edu,qp4vr4ha31,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,2732,Naive
+dylan.pontonio@uconn.edu,qp4vr4ha31,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5254,6
+dylan.pontonio@uconn.edu,qp4vr4ha31,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5786,no
+dylan.pontonio@uconn.edu,qp4vr4ha31,5,"Which of the following problems did you have?",Checkbox,3352,none
+molly.rogers@uconn.edu,y8qagcqmr3,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,10519,MinorBumps
+molly.rogers@uconn.edu,y8qagcqmr3,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,8231,Naive
+molly.rogers@uconn.edu,y8qagcqmr3,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,11910,1
+molly.rogers@uconn.edu,y8qagcqmr3,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11498,"Sitting in class"
+molly.rogers@uconn.edu,y8qagcqmr3,5,"Which of the following problems did you have?",Checkbox,10725,none
+alyca.elcuri@uconn.edu,ekshe4ef11,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3390,Smooth
+alyca.elcuri@uconn.edu,ekshe4ef11,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4978,Naive
+alyca.elcuri@uconn.edu,ekshe4ef11,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7057,6
+alyca.elcuri@uconn.edu,ekshe4ef11,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7614,no
+alyca.elcuri@uconn.edu,ekshe4ef11,5,"Which of the following problems did you have?",Checkbox,4075,none
+aisha.shahid@uconn.edu,qcopkmmd62,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,19194,MinorBumps
+aisha.shahid@uconn.edu,qcopkmmd62,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,9645,Naive
+aisha.shahid@uconn.edu,qcopkmmd62,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10677,6
+aisha.shahid@uconn.edu,qcopkmmd62,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8971,no
+aisha.shahid@uconn.edu,qcopkmmd62,5,"Which of the following problems did you have?",Checkbox,11422,none
+olivia.wright@uconn.edu,n4q0ok91w0,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7087,Smooth
+olivia.wright@uconn.edu,n4q0ok91w0,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7200,DoneItBefore
+isabella.latina@uconn.edu,c4xpio8lgx,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2649,Smooth
+olivia.wright@uconn.edu,n4q0ok91w0,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,11792,3
+isabella.latina@uconn.edu,c4xpio8lgx,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4575,Naive
+emily.b.sullivan@uconn.edu,6txsyh2bgl,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3225,Smooth
+olivia.wright@uconn.edu,n4q0ok91w0,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6480,No
+isabella.latina@uconn.edu,c4xpio8lgx,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5801,5
+emily.b.sullivan@uconn.edu,6txsyh2bgl,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4822,Naive
+olivia.wright@uconn.edu,n4q0ok91w0,5,"Which of the following problems did you have?",Checkbox,5732,none
+isabella.latina@uconn.edu,c4xpio8lgx,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5021,no
+emily.b.sullivan@uconn.edu,6txsyh2bgl,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4566,1
+isabella.latina@uconn.edu,c4xpio8lgx,5,"Which of the following problems did you have?",Checkbox,7607,none
+emily.b.sullivan@uconn.edu,6txsyh2bgl,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6476,
+jordan.dupree@uconn.edu,l7tljigdzs,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3580,Smooth
+emily.b.sullivan@uconn.edu,6txsyh2bgl,5,"Which of the following problems did you have?",Checkbox,6183,none
+jordan.dupree@uconn.edu,l7tljigdzs,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6597,Naive
+jordan.dupree@uconn.edu,l7tljigdzs,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10880,3
+jordan.dupree@uconn.edu,l7tljigdzs,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,26161,"I looked up what a few of the words and what they were"
+jordan.dupree@uconn.edu,l7tljigdzs,5,"Which of the following problems did you have?",Checkbox,5832,none
+alysia.ma@uconn.edu,2xypwmrv7z,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4603,Smooth
+alysia.ma@uconn.edu,2xypwmrv7z,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4833,Naive
+alysia.ma@uconn.edu,2xypwmrv7z,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3849,4
+kelly_rae.lonergan@uconn.edu,joc6hrt9rq,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5118,Smooth
+kelly_rae.lonergan@uconn.edu,joc6hrt9rq,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3963,Naive
+kelly_rae.lonergan@uconn.edu,joc6hrt9rq,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4731,5
+alysia.ma@uconn.edu,2xypwmrv7z,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,34677,"I was sitting in the library with noise proof headphones in. People were walking around, I guess I occasionally glanced around to see what was going on."
+kelly_rae.lonergan@uconn.edu,joc6hrt9rq,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,13447,"No I was not"
+alysia.ma@uconn.edu,2xypwmrv7z,5,"Which of the following problems did you have?",Checkbox,5452,none
+pan.chrisovechotis@uconn.edu,b0fc0399eo,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,18030,MinorBumps
+kelly_rae.lonergan@uconn.edu,joc6hrt9rq,5,"Which of the following problems did you have?",Checkbox,3686,none
+pan.chrisovechotis@uconn.edu,b0fc0399eo,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6671,Naive
+pan.chrisovechotis@uconn.edu,b0fc0399eo,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,22378,3
+pan.chrisovechotis@uconn.edu,b0fc0399eo,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,9599,No
+pan.chrisovechotis@uconn.edu,b0fc0399eo,5,"Which of the following problems did you have?",Checkbox,9522,none
+cassandra.correa@uconn.edu,wnn2ofq4qr,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4770,Smooth
+cassandra.correa@uconn.edu,wnn2ofq4qr,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6095,Naive
+cassandra.correa@uconn.edu,wnn2ofq4qr,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3992,5
+cassandra.correa@uconn.edu,wnn2ofq4qr,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4954,No
+cassandra.correa@uconn.edu,wnn2ofq4qr,5,"Which of the following problems did you have?",Checkbox,6522,none
+maia.cyganowski@uconn.edu,w7qg277ns6,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5896,Smooth
+maia.cyganowski@uconn.edu,w7qg277ns6,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4129,Naive
+maia.cyganowski@uconn.edu,w7qg277ns6,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7601,1
+maia.cyganowski@uconn.edu,w7qg277ns6,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11634,"listening to music"
+maia.cyganowski@uconn.edu,w7qg277ns6,5,"Which of the following problems did you have?",Checkbox,6813,none
+Joseph.Verrillo@uconn.edu,a3nwxgde6j,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,12076,MinorBumps
+Joseph.Verrillo@uconn.edu,a3nwxgde6j,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5691,Naive
+Joseph.Verrillo@uconn.edu,a3nwxgde6j,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7305,3
+Joseph.Verrillo@uconn.edu,a3nwxgde6j,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,17417,"listened to music "
+Joseph.Verrillo@uconn.edu,a3nwxgde6j,5,"Which of the following problems did you have?",Checkbox,10720,none
+alex.zavelson@uconn.edu,dw9bcm18qk,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6362,Smooth
+alex.zavelson@uconn.edu,dw9bcm18qk,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5142,Naive
+alex.zavelson@uconn.edu,dw9bcm18qk,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7219,4
+alex.zavelson@uconn.edu,dw9bcm18qk,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6737,No
+alex.zavelson@uconn.edu,dw9bcm18qk,5,"Which of the following problems did you have?",Checkbox,5172,none
+ryan.najemy@uconn.edu,9slw9jnvps,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4653,Smooth
+ryan.najemy@uconn.edu,9slw9jnvps,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4848,Naive
+ryan.najemy@uconn.edu,9slw9jnvps,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5780,4
+ryan.najemy@uconn.edu,9slw9jnvps,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5091,No
+ryan.najemy@uconn.edu,9slw9jnvps,5,"Which of the following problems did you have?",Checkbox,4631,none
+morgan.klepack@uconn.edu,7j4uf0lrqa,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3310,ExcludeMe
+morgan.klepack@uconn.edu,7j4uf0lrqa,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3121,Naive
+morgan.klepack@uconn.edu,7j4uf0lrqa,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4363,1
+morgan.klepack@uconn.edu,7j4uf0lrqa,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5565,no
+morgan.klepack@uconn.edu,7j4uf0lrqa,5,"Which of the following problems did you have?",Checkbox,5460,none
+joseph.agreda@uconn.edu,eskn15hn61,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4308,Smooth
+joseph.agreda@uconn.edu,eskn15hn61,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4205,Naive
+joseph.agreda@uconn.edu,eskn15hn61,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3870,7
+joseph.agreda@uconn.edu,eskn15hn61,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,27441,No
+joseph.agreda@uconn.edu,eskn15hn61,5,"Which of the following problems did you have?",Checkbox,5541,none
+zachary.susser@uconn.edu,rclg8qp1o1,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,20370,MinorBumps
+zachary.susser@uconn.edu,rclg8qp1o1,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,11216,Naive
+zachary.susser@uconn.edu,rclg8qp1o1,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6630,2
+zachary.susser@uconn.edu,rclg8qp1o1,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,9495,No
+zachary.susser@uconn.edu,rclg8qp1o1,5,"Which of the following problems did you have?",Checkbox,17861,none
+yining.luo@uconn.edu,g4cht4py9i,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5606,MinorBumps
+yining.luo@uconn.edu,g4cht4py9i,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4790,DoneItBefore
+yining.luo@uconn.edu,g4cht4py9i,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,8562,3
+yining.luo@uconn.edu,g4cht4py9i,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11259,translater
+yining.luo@uconn.edu,g4cht4py9i,5,"Which of the following problems did you have?",Checkbox,9294,none
+arianna.dimeo@uconn.edu,1f98ohtyy5,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4667,Smooth
+arianna.dimeo@uconn.edu,1f98ohtyy5,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4736,Naive
+arianna.dimeo@uconn.edu,1f98ohtyy5,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6230,7
+arianna.dimeo@uconn.edu,1f98ohtyy5,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,9519,"Eating lunch"
+arianna.dimeo@uconn.edu,1f98ohtyy5,5,"Which of the following problems did you have?",Checkbox,3726,none
+myla.altadonna@uconn.edu,vd0u9j8itx,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,16448,MinorBumps
+myla.altadonna@uconn.edu,vd0u9j8itx,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5411,Naive
+myla.altadonna@uconn.edu,vd0u9j8itx,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7403,5
+myla.altadonna@uconn.edu,vd0u9j8itx,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,13952,yes
+myla.altadonna@uconn.edu,vd0u9j8itx,5,"Which of the following problems did you have?",Checkbox,9934,none
+alyssa.wodarski@uconn.edu,j9u88j6uun,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8282,Smooth
+alyssa.wodarski@uconn.edu,j9u88j6uun,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5915,Naive
+alyssa.wodarski@uconn.edu,j9u88j6uun,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,13781,1
+alyssa.wodarski@uconn.edu,j9u88j6uun,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8945,no
+alyssa.wodarski@uconn.edu,j9u88j6uun,5,"Which of the following problems did you have?",Checkbox,7633,none
+allison.waugh@uconn.edu,m6pdtik2i2,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8453,MinorBumps
+allison.waugh@uconn.edu,m6pdtik2i2,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5728,Naive
+allison.waugh@uconn.edu,m6pdtik2i2,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5527,2
+allison.waugh@uconn.edu,m6pdtik2i2,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7722,no
+allison.waugh@uconn.edu,m6pdtik2i2,5,"Which of the following problems did you have?",Checkbox,10961,none
+aryanna.carter@uconn.edu,60ok2qguhd,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7726,Smooth
+aryanna.carter@uconn.edu,60ok2qguhd,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6850,Naive
+aryanna.carter@uconn.edu,60ok2qguhd,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6606,5
+aryanna.carter@uconn.edu,60ok2qguhd,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,12978,"talking to friends"
+aryanna.carter@uconn.edu,60ok2qguhd,5,"Which of the following problems did you have?",Checkbox,8535,none
+zarya.hernandez_salto@uconn.edu,3i8lh027fm,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7005,MinorBumps
+zarya.hernandez_salto@uconn.edu,3i8lh027fm,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5289,Naive
+zarya.hernandez_salto@uconn.edu,3i8lh027fm,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7826,0
+zarya.hernandez_salto@uconn.edu,3i8lh027fm,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11429,"I was in class"
+zarya.hernandez_salto@uconn.edu,3i8lh027fm,5,"Which of the following problems did you have?",Checkbox,7668,reload
+zarya.hernandez_salto@uconn.edu,3i8lh027fm,5,"Which of the following problems did you have?",Checkbox,7668,"internet connectivity problems"
+delaney.harrington@uconn.edu,x8v3kvr0jz,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4843,Smooth
+delaney.harrington@uconn.edu,x8v3kvr0jz,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4409,Naive
+delaney.harrington@uconn.edu,x8v3kvr0jz,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5436,3
+delaney.harrington@uconn.edu,x8v3kvr0jz,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,15989,"The TV was on and people were trying to talk to me"
+delaney.harrington@uconn.edu,x8v3kvr0jz,5,"Which of the following problems did you have?",Checkbox,7067,none
+nathan.e.shaw@uconn.edu,ggjj32kxch,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,9527,Smooth
+nathan.e.shaw@uconn.edu,ggjj32kxch,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,2994,Naive
+nathan.e.shaw@uconn.edu,ggjj32kxch,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3948,5
+nathan.e.shaw@uconn.edu,ggjj32kxch,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,12268,"Drink water"
+nathan.e.shaw@uconn.edu,ggjj32kxch,5,"Which of the following problems did you have?",Checkbox,4285,none
+alexis.martino@uconn.edu,nxi1l3w7nv,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4619,Smooth
+alexis.martino@uconn.edu,nxi1l3w7nv,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4726,Naive
+alexis.martino@uconn.edu,nxi1l3w7nv,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4160,4
+alexis.martino@uconn.edu,nxi1l3w7nv,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7625,No
+alexis.martino@uconn.edu,nxi1l3w7nv,5,"Which of the following problems did you have?",Checkbox,5478,none
+jessica.vo@uconn.edu,8k41cvgz7b,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8457,Smooth
+jessica.vo@uconn.edu,8k41cvgz7b,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5055,Naive
+jessica.vo@uconn.edu,8k41cvgz7b,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4768,1
+jessica.vo@uconn.edu,8k41cvgz7b,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5703,No
+jessica.vo@uconn.edu,8k41cvgz7b,5,"Which of the following problems did you have?",Checkbox,7183,none
+kiley.malinowski@uconn.edu,scj9j3vvoq,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5779,Smooth
+kiley.malinowski@uconn.edu,scj9j3vvoq,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5493,Naive
+kiley.malinowski@uconn.edu,scj9j3vvoq,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6623,5
+kiley.malinowski@uconn.edu,scj9j3vvoq,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,37157,no
+kiley.malinowski@uconn.edu,scj9j3vvoq,5,"Which of the following problems did you have?",Checkbox,5729,none
+rachel.silverman@uconn.edu,jt5j1z3nbs,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6601,Smooth
+rachel.silverman@uconn.edu,jt5j1z3nbs,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6779,Naive
+rachel.silverman@uconn.edu,jt5j1z3nbs,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10678,3
+rachel.silverman@uconn.edu,jt5j1z3nbs,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5572,no
+rachel.silverman@uconn.edu,jt5j1z3nbs,5,"Which of the following problems did you have?",Checkbox,5347,none
+juliana.febrizio@uconn.edu,9iqpj67pmd,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6823,Smooth
+juliana.febrizio@uconn.edu,9iqpj67pmd,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4805,Naive
+juliana.febrizio@uconn.edu,9iqpj67pmd,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6933,4
+juliana.febrizio@uconn.edu,9iqpj67pmd,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10273,"I was on the phone"
+juliana.febrizio@uconn.edu,9iqpj67pmd,5,"Which of the following problems did you have?",Checkbox,6078,none
+kelly.s.aguilar@uconn.edu,43dnzbs7yi,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8180,ExcludeMe
+kelly.s.aguilar@uconn.edu,43dnzbs7yi,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7971,Naive
+kelly.s.aguilar@uconn.edu,43dnzbs7yi,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7458,6
+kelly.s.aguilar@uconn.edu,43dnzbs7yi,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8791,"No "
+kelly.s.aguilar@uconn.edu,43dnzbs7yi,5,"Which of the following problems did you have?",Checkbox,5874,none
+sophie.atkinson@uconn.edu,4o0h83l4c2,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,16449,Smooth
+sophie.atkinson@uconn.edu,4o0h83l4c2,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,12653,DoneItBefore
+sophie.atkinson@uconn.edu,4o0h83l4c2,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,11884,1
+sophie.atkinson@uconn.edu,4o0h83l4c2,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7868,no
+sophie.atkinson@uconn.edu,4o0h83l4c2,5,"Which of the following problems did you have?",Checkbox,24845,none
+shea.carroll@uconn.edu,vf4hzv67lg,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3752,Smooth
+shea.carroll@uconn.edu,vf4hzv67lg,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4737,Naive
+shea.carroll@uconn.edu,vf4hzv67lg,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4562,2
+shea.carroll@uconn.edu,vf4hzv67lg,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,3894,no
+shea.carroll@uconn.edu,vf4hzv67lg,5,"Which of the following problems did you have?",Checkbox,7109,none
+shane.markle@uconn.edu,hhis0ra1j8,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7090,Smooth
+shane.markle@uconn.edu,hhis0ra1j8,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4738,Naive
+shane.markle@uconn.edu,hhis0ra1j8,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,11154,8
+shane.markle@uconn.edu,hhis0ra1j8,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,15779,No
+shane.markle@uconn.edu,hhis0ra1j8,5,"Which of the following problems did you have?",Checkbox,8150,none
+nina.laverty@uconn.edu,x8vvocqfwz,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2808,Smooth
+nina.laverty@uconn.edu,x8vvocqfwz,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4444,Naive
+nina.laverty@uconn.edu,x8vvocqfwz,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6270,5
+nina.laverty@uconn.edu,x8vvocqfwz,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,9489,"No "
+dylan.barkasy@uconn.edu,gvav30d53b,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3050,MinorBumps
+dylan.barkasy@uconn.edu,gvav30d53b,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4340,Naive
+nina.laverty@uconn.edu,x8vvocqfwz,5,"Which of the following problems did you have?",Checkbox,8364,none
+dylan.barkasy@uconn.edu,gvav30d53b,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4665,4
+dylan.barkasy@uconn.edu,gvav30d53b,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6608,Class
+arsha.tone@uconn.edu,4lvften5wx,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,9372,Smooth
+dylan.barkasy@uconn.edu,gvav30d53b,5,"Which of the following problems did you have?",Checkbox,4800,none
+arsha.tone@uconn.edu,4lvften5wx,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5981,Naive
+arsha.tone@uconn.edu,4lvften5wx,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7749,1
+arsha.tone@uconn.edu,4lvften5wx,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7308,no
+arsha.tone@uconn.edu,4lvften5wx,5,"Which of the following problems did you have?",Checkbox,6842,none
+gianna.perricone@uconn.edu,hz0jj3y44a,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4372,Smooth
+gianna.perricone@uconn.edu,hz0jj3y44a,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3717,Naive
+gianna.perricone@uconn.edu,hz0jj3y44a,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3382,3
+gianna.perricone@uconn.edu,hz0jj3y44a,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4582,No
+gianna.perricone@uconn.edu,hz0jj3y44a,5,"Which of the following problems did you have?",Checkbox,6432,reload
+vanesa.galindo@uconn.edu,cyc2gkrwaq,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2900,Smooth
+vanesa.galindo@uconn.edu,cyc2gkrwaq,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3304,Naive
+vanesa.galindo@uconn.edu,cyc2gkrwaq,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4157,4
+vanesa.galindo@uconn.edu,cyc2gkrwaq,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,2631,
+vanesa.galindo@uconn.edu,cyc2gkrwaq,5,"Which of the following problems did you have?",Checkbox,4110,none
+anna.pasterick@uconn.edu,zswi7kcdxq,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,13412,Smooth
+anna.pasterick@uconn.edu,zswi7kcdxq,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,9764,Naive
+anna.pasterick@uconn.edu,zswi7kcdxq,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,20358,2
+rebecca.miller@uconn.edu,qzldnt4343,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7614,MinorBumps
+rebecca.miller@uconn.edu,qzldnt4343,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3480,Naive
+rebecca.miller@uconn.edu,qzldnt4343,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4349,5
+rebecca.miller@uconn.edu,qzldnt4343,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5527,No
+anna.pasterick@uconn.edu,zswi7kcdxq,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,17076,"no "
+rebecca.miller@uconn.edu,qzldnt4343,5,"Which of the following problems did you have?",Checkbox,7225,none
+anna.pasterick@uconn.edu,zswi7kcdxq,5,"Which of the following problems did you have?",Checkbox,12933,none
+jiage.li@uconn.edu,e6hzscouek,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,20871,Smooth
+jiage.li@uconn.edu,e6hzscouek,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5025,Naive
+jiage.li@uconn.edu,e6hzscouek,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5999,5
+jiage.li@uconn.edu,e6hzscouek,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8581,no
+jiage.li@uconn.edu,e6hzscouek,5,"Which of the following problems did you have?",Checkbox,7725,none
+olivia.sztemberg@uconn.edu,xv1gnufgvd,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2983,Smooth
+olivia.sztemberg@uconn.edu,xv1gnufgvd,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3024,Naive
+olivia.sztemberg@uconn.edu,xv1gnufgvd,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6406,6
+olivia.sztemberg@uconn.edu,xv1gnufgvd,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,17847,"Trying to complete 7 credits before my class starts"
+olivia.sztemberg@uconn.edu,xv1gnufgvd,5,"Which of the following problems did you have?",Checkbox,7674,none
+gabriela.duana@uconn.edu,tmyo6djiat,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,11814,MinorBumps
+gabriela.duana@uconn.edu,tmyo6djiat,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,9044,Naive
+gabriela.duana@uconn.edu,tmyo6djiat,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6132,5
+gabriela.duana@uconn.edu,tmyo6djiat,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,9394,"listening to music"
+gabriela.duana@uconn.edu,tmyo6djiat,5,"Which of the following problems did you have?",Checkbox,7013,none
+erin.munch@uconn.edu,nimqtd98gp,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6805,Smooth
+erin.munch@uconn.edu,nimqtd98gp,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3253,Naive
+erin.munch@uconn.edu,nimqtd98gp,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7279,2
+erin.munch@uconn.edu,nimqtd98gp,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,32990,"a little "
+erin.munch@uconn.edu,nimqtd98gp,5,"Which of the following problems did you have?",Checkbox,10174,none
+dakota.davis@uconn.edu,5tpsvgk8i3,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5597,Smooth
+dakota.davis@uconn.edu,5tpsvgk8i3,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4161,Naive
+dakota.davis@uconn.edu,5tpsvgk8i3,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3863,5
+dakota.davis@uconn.edu,5tpsvgk8i3,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5439,No
+dakota.davis@uconn.edu,5tpsvgk8i3,5,"Which of the following problems did you have?",Checkbox,4000,none
+giuseppe.cesare@uconn.edu,hgjsetzno1,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,1889,Smooth
+giuseppe.cesare@uconn.edu,hgjsetzno1,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,8140,Naive
+giuseppe.cesare@uconn.edu,hgjsetzno1,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,2915,5
+giuseppe.cesare@uconn.edu,hgjsetzno1,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10918,"I was in class lol"
+giuseppe.cesare@uconn.edu,hgjsetzno1,5,"Which of the following problems did you have?",Checkbox,3495,none
+emily.eggler@uconn.edu,rgdnly4q3p,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6577,Smooth
+emily.eggler@uconn.edu,rgdnly4q3p,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5917,Naive
+emily.eggler@uconn.edu,rgdnly4q3p,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4692,3
+emily.eggler@uconn.edu,rgdnly4q3p,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,9401,"Nope :)"
+emily.eggler@uconn.edu,rgdnly4q3p,5,"Which of the following problems did you have?",Checkbox,9747,none
+kansas.sienna@uconn.edu,gonpxjwi6b,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7273,Smooth
+kansas.sienna@uconn.edu,gonpxjwi6b,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,9954,Naive
+kansas.sienna@uconn.edu,gonpxjwi6b,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10906,4
+kansas.sienna@uconn.edu,gonpxjwi6b,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11249,No
+kansas.sienna@uconn.edu,gonpxjwi6b,5,"Which of the following problems did you have?",Checkbox,7918,none
+nicolas.mastropaolo@uconn.edu,13go996ev6,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2970,Smooth
+samantha.g.sullivan@uconn.edu,b2lqooe6fi,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3196,Smooth
+samantha.g.sullivan@uconn.edu,b2lqooe6fi,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5015,Naive
+samantha.g.sullivan@uconn.edu,b2lqooe6fi,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,11073,5
+samantha.g.sullivan@uconn.edu,b2lqooe6fi,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,12558,"I was eating "
+matthew.kraus@uconn.edu,8nc60zeexy,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8291,Smooth
+samantha.g.sullivan@uconn.edu,b2lqooe6fi,5,"Which of the following problems did you have?",Checkbox,10479,none
+matthew.kraus@uconn.edu,8nc60zeexy,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4666,DoneItBefore
+matthew.kraus@uconn.edu,8nc60zeexy,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5801,4
+matthew.kraus@uconn.edu,8nc60zeexy,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7031,no
+nicolas.mastropaolo@uconn.edu,13go996ev6,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,75758,Naive
+matthew.kraus@uconn.edu,8nc60zeexy,5,"Which of the following problems did you have?",Checkbox,7666,none
+nicolas.mastropaolo@uconn.edu,13go996ev6,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,16779,2
+nicolas.mastropaolo@uconn.edu,13go996ev6,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,18349,no
+nicolas.mastropaolo@uconn.edu,13go996ev6,5,"Which of the following problems did you have?",Checkbox,8809,none
+amanda.wainwright@uconn.edu,rbsxl8nddy,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4035,MinorBumps
+amanda.wainwright@uconn.edu,rbsxl8nddy,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,13342,Naive
+amanda.wainwright@uconn.edu,rbsxl8nddy,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7434,6
+amanda.wainwright@uconn.edu,rbsxl8nddy,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,13684,"i was eating"
+amanda.wainwright@uconn.edu,rbsxl8nddy,5,"Which of the following problems did you have?",Checkbox,9998,none
+valeria.ramirez@uconn.edu,p9vbj1q7ik,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,10822,ExcludeMe
+valeria.ramirez@uconn.edu,p9vbj1q7ik,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6431,Naive
+valeria.ramirez@uconn.edu,p9vbj1q7ik,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10593,2
+valeria.ramirez@uconn.edu,p9vbj1q7ik,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7581,No
+valeria.ramirez@uconn.edu,p9vbj1q7ik,5,"Which of the following problems did you have?",Checkbox,7761,none
+joanna.emin@uconn.edu,wvg94ffy7v,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4279,MinorBumps
+joanna.emin@uconn.edu,wvg94ffy7v,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5082,Naive
+joanna.emin@uconn.edu,wvg94ffy7v,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7378,3
+joanna.emin@uconn.edu,wvg94ffy7v,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,18813,N/A
+taylor.e.sullivan@uconn.edu,rkvcbilo8s,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5151,MinorBumps
+taylor.e.sullivan@uconn.edu,rkvcbilo8s,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,2806,Naive
+taylor.e.sullivan@uconn.edu,rkvcbilo8s,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4210,4
+joanna.emin@uconn.edu,wvg94ffy7v,5,"Which of the following problems did you have?",Checkbox,10528,none
+taylor.e.sullivan@uconn.edu,rkvcbilo8s,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,21606,"Yes, I was working on an assignmen t"
+taylor.e.sullivan@uconn.edu,rkvcbilo8s,5,"Which of the following problems did you have?",Checkbox,4381,none
+isabella.morfin@uconn.edu,19kza088w3,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,,
+isabella.morfin@uconn.edu,19kza088w3,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6876,Naive
+isabella.morfin@uconn.edu,19kza088w3,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6817,4
+isabella.morfin@uconn.edu,19kza088w3,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7985,"eating "
+isabella.morfin@uconn.edu,19kza088w3,5,"Which of the following problems did you have?",Checkbox,8262,none
+madison.kretschman@uconn.edu,lxzhax10h9,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8074,Smooth
+madison.kretschman@uconn.edu,lxzhax10h9,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5759,Naive
+madison.kretschman@uconn.edu,lxzhax10h9,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5233,5
+madison.kretschman@uconn.edu,lxzhax10h9,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4934,no
+madison.kretschman@uconn.edu,lxzhax10h9,5,"Which of the following problems did you have?",Checkbox,6600,none
+jayline.steiding@uconn.edu,5aefncjklv,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7662,Smooth
+jayline.steiding@uconn.edu,5aefncjklv,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4472,Naive
+jayline.steiding@uconn.edu,5aefncjklv,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5540,3
+jayline.steiding@uconn.edu,5aefncjklv,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6359,no
+jayline.steiding@uconn.edu,5aefncjklv,5,"Which of the following problems did you have?",Checkbox,8088,none
+paige.gewirtz@uconn.edu,s99yfl2zhj,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6353,Smooth
+paige.gewirtz@uconn.edu,s99yfl2zhj,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5450,Naive
+paige.gewirtz@uconn.edu,s99yfl2zhj,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,9072,4
+paige.gewirtz@uconn.edu,s99yfl2zhj,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11988,"No I was focused on it"
+paige.gewirtz@uconn.edu,s99yfl2zhj,5,"Which of the following problems did you have?",Checkbox,7062,none
+jackson.kellogg@uconn.edu,s0z520vj67,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5345,Smooth
+jackson.kellogg@uconn.edu,s0z520vj67,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4442,Naive
+jackson.kellogg@uconn.edu,s0z520vj67,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5500,4
+jackson.kellogg@uconn.edu,s0z520vj67,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7946,No
+jackson.kellogg@uconn.edu,s0z520vj67,5,"Which of the following problems did you have?",Checkbox,4604,none
+isabelle.jadach@uconn.edu,2ld2y70xs0,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3110,Smooth
+isabelle.jadach@uconn.edu,2ld2y70xs0,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5642,Naive
+isabelle.jadach@uconn.edu,2ld2y70xs0,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,8975,2
+isabelle.jadach@uconn.edu,2ld2y70xs0,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7582,No
+isabelle.jadach@uconn.edu,2ld2y70xs0,5,"Which of the following problems did you have?",Checkbox,5222,none
+alexis.drossos@uconn.edu,m41b8fwzn0,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5558,Smooth
+alexis.drossos@uconn.edu,m41b8fwzn0,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3171,Naive
+alexis.drossos@uconn.edu,m41b8fwzn0,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4800,5
+alexis.drossos@uconn.edu,m41b8fwzn0,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4238,No
+alexis.drossos@uconn.edu,m41b8fwzn0,5,"Which of the following problems did you have?",Checkbox,4632,none
+hunter.tang@uconn.edu,e19fne5kxu,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,13371,MinorBumps
+hunter.tang@uconn.edu,e19fne5kxu,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5276,Naive
+hunter.tang@uconn.edu,e19fne5kxu,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5324,4
+hunter.tang@uconn.edu,e19fne5kxu,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10851,"Being very confused"
+hunter.tang@uconn.edu,e19fne5kxu,5,"Which of the following problems did you have?",Checkbox,6953,none
+alexandra.lisowski@uconn.edu,vqu6zgv71p,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8831,Smooth
+alexandra.lisowski@uconn.edu,vqu6zgv71p,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,9733,Naive
+alexandra.lisowski@uconn.edu,vqu6zgv71p,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10261,4
+alexandra.lisowski@uconn.edu,vqu6zgv71p,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7995,no
+alexandra.lisowski@uconn.edu,vqu6zgv71p,5,"Which of the following problems did you have?",Checkbox,10880,none
+courtney.musante@uconn.edu,zvlyddgydy,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4803,Smooth
+courtney.musante@uconn.edu,zvlyddgydy,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5736,Naive
+courtney.musante@uconn.edu,zvlyddgydy,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7043,3
+courtney.musante@uconn.edu,zvlyddgydy,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,16627,"I was listening to music. "
+courtney.musante@uconn.edu,zvlyddgydy,5,"Which of the following problems did you have?",Checkbox,6657,none
+anna.lu@uconn.edu,jsuzbhpu34,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3556,MinorBumps
+anna.lu@uconn.edu,jsuzbhpu34,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,2686,Naive
+anna.lu@uconn.edu,jsuzbhpu34,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,8594,3
+anna.lu@uconn.edu,jsuzbhpu34,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5326,No
+anna.lu@uconn.edu,jsuzbhpu34,5,"Which of the following problems did you have?",Checkbox,3535,none
+haydin.courtois@uconn.edu,1y3i89tb8u,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4772,Smooth
+haydin.courtois@uconn.edu,1y3i89tb8u,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6285,Naive
+haydin.courtois@uconn.edu,1y3i89tb8u,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,9311,6
+haydin.courtois@uconn.edu,1y3i89tb8u,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11103,No
+haydin.courtois@uconn.edu,1y3i89tb8u,5,"Which of the following problems did you have?",Checkbox,8470,none
+andres.salas@uconn.edu,hbs62iq7wt,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,12319,Smooth
+andres.salas@uconn.edu,hbs62iq7wt,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,8654,Naive
+andres.salas@uconn.edu,hbs62iq7wt,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,23727,2
+andres.salas@uconn.edu,hbs62iq7wt,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,32163,"no, yes"
+andres.salas@uconn.edu,hbs62iq7wt,5,"Which of the following problems did you have?",Checkbox,19252,none
+kate.santos@uconn.edu,2j5f8f6ijf,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,11871,Smooth
+kate.santos@uconn.edu,2j5f8f6ijf,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7823,Naive
+kate.santos@uconn.edu,2j5f8f6ijf,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,12510,4
+kate.santos@uconn.edu,2j5f8f6ijf,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6660,Nope
+kate.santos@uconn.edu,2j5f8f6ijf,5,"Which of the following problems did you have?",Checkbox,6029,none
+benjamin.kushi@uconn.edu,ebjh53105v,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6997,Smooth
+benjamin.kushi@uconn.edu,ebjh53105v,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5730,Naive
+benjamin.kushi@uconn.edu,ebjh53105v,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3890,2
+benjamin.kushi@uconn.edu,ebjh53105v,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5143,No
+benjamin.kushi@uconn.edu,ebjh53105v,5,"Which of the following problems did you have?",Checkbox,4828,none
+sophia.sanchez@uconn.edu,kg11l0f509,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2707,MinorBumps
+sophia.sanchez@uconn.edu,kg11l0f509,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,2152,Naive
+sophia.sanchez@uconn.edu,kg11l0f509,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5725,3
+sophia.sanchez@uconn.edu,kg11l0f509,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,16948,"I was watching a show"
+sophia.sanchez@uconn.edu,kg11l0f509,5,"Which of the following problems did you have?",Checkbox,9527,"blank page"
+eduardo.perea_hernandez@uconn.edu,1ecttf4t3f,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,11544,Smooth
+eduardo.perea_hernandez@uconn.edu,1ecttf4t3f,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6577,Naive
+eduardo.perea_hernandez@uconn.edu,1ecttf4t3f,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7226,5
+eduardo.perea_hernandez@uconn.edu,1ecttf4t3f,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8520,No
+eduardo.perea_hernandez@uconn.edu,1ecttf4t3f,5,"Which of the following problems did you have?",Checkbox,10618,none
+val.chia@uconn.edu,y89njvxw4l,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5247,Smooth
+val.chia@uconn.edu,y89njvxw4l,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4725,Naive
+val.chia@uconn.edu,y89njvxw4l,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7850,3
+val.chia@uconn.edu,y89njvxw4l,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,38456,"listening to my roommate's music, sitting in the uncomfortable dorm chairs, drinking coca-cola"
+val.chia@uconn.edu,y89njvxw4l,5,"Which of the following problems did you have?",Checkbox,4374,none
+jason.giambertone@uconn.edu,hp6vg3imz9,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3678,Smooth
+jason.giambertone@uconn.edu,hp6vg3imz9,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6598,Naive
+jason.giambertone@uconn.edu,hp6vg3imz9,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,8397,2
+jason.giambertone@uconn.edu,hp6vg3imz9,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,19130,No'
+jason.giambertone@uconn.edu,hp6vg3imz9,5,"Which of the following problems did you have?",Checkbox,7897,none
+sophia.montanez@uconn.edu,7zxus5ffaq,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7375,Smooth
+sophia.montanez@uconn.edu,7zxus5ffaq,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5108,Naive
+sophia.montanez@uconn.edu,7zxus5ffaq,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10137,1
+sophia.montanez@uconn.edu,7zxus5ffaq,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,16838,"I was listening to music during the experiment"
+sophia.montanez@uconn.edu,7zxus5ffaq,5,"Which of the following problems did you have?",Checkbox,7409,none
+charlotte.seitzinger@uconn.edu,j57i64w6wb,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3872,Smooth
+charlotte.seitzinger@uconn.edu,j57i64w6wb,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,2774,Naive
+charlotte.seitzinger@uconn.edu,j57i64w6wb,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4171,5
+charlotte.seitzinger@uconn.edu,j57i64w6wb,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,9432,"Talking to a friend "
+charlotte.seitzinger@uconn.edu,j57i64w6wb,5,"Which of the following problems did you have?",Checkbox,4334,none
+terence.falvey@uconn.edu,57udfp2azu,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7634,Smooth
+terence.falvey@uconn.edu,57udfp2azu,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6127,Naive
+terence.falvey@uconn.edu,57udfp2azu,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,9658,1
+terence.falvey@uconn.edu,57udfp2azu,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5156,no
+terence.falvey@uconn.edu,57udfp2azu,5,"Which of the following problems did you have?",Checkbox,5633,none
+gabriel.paknia@uconn.edu,rozj0e7c5j,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7209,Smooth
+gabriel.paknia@uconn.edu,rozj0e7c5j,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,2788,Naive
+gabriel.paknia@uconn.edu,rozj0e7c5j,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4291,2
+gabriel.paknia@uconn.edu,rozj0e7c5j,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10702,"Music in the background on my speaker"
+gabriel.paknia@uconn.edu,rozj0e7c5j,5,"Which of the following problems did you have?",Checkbox,4411,none
+brianna.maximilien@uconn.edu,un9vm06t3c,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4044,Smooth
+brianna.maximilien@uconn.edu,un9vm06t3c,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5559,Naive
+brianna.maximilien@uconn.edu,un9vm06t3c,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3021,1
+brianna.maximilien@uconn.edu,un9vm06t3c,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,1882,
+brianna.maximilien@uconn.edu,un9vm06t3c,5,"Which of the following problems did you have?",Checkbox,5365,none
+Isabella.carnelli@uconn.edu,tgvffu0j60,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4783,Smooth
+Isabella.carnelli@uconn.edu,tgvffu0j60,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4497,Naive
+Isabella.carnelli@uconn.edu,tgvffu0j60,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6192,5
+Isabella.carnelli@uconn.edu,tgvffu0j60,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,9495,No
+Isabella.carnelli@uconn.edu,tgvffu0j60,5,"Which of the following problems did you have?",Checkbox,7175,none
+enzo.klaus@uconn.edu,pg3dptfjvm,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4077,Smooth
+enzo.klaus@uconn.edu,pg3dptfjvm,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5201,Naive
+enzo.klaus@uconn.edu,pg3dptfjvm,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6735,2
+enzo.klaus@uconn.edu,pg3dptfjvm,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4002,no
+enzo.klaus@uconn.edu,pg3dptfjvm,5,"Which of the following problems did you have?",Checkbox,5425,none
+samantha.york@uconn.edu,ktsdz0ubbd,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3700,Smooth
+samantha.york@uconn.edu,ktsdz0ubbd,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5640,Naive
+samantha.york@uconn.edu,ktsdz0ubbd,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,12233,5
+samantha.york@uconn.edu,ktsdz0ubbd,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,29728,no
+samantha.york@uconn.edu,ktsdz0ubbd,5,"Which of the following problems did you have?",Checkbox,92361,none
+esmeralda.aguirre@uconn.edu,24qsi3xc55,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,12003,MinorBumps
+esmeralda.aguirre@uconn.edu,24qsi3xc55,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6917,Naive
+esmeralda.aguirre@uconn.edu,24qsi3xc55,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5332,6
+esmeralda.aguirre@uconn.edu,24qsi3xc55,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,12542,"my friend was talking to me"
+esmeralda.aguirre@uconn.edu,24qsi3xc55,5,"Which of the following problems did you have?",Checkbox,7977,none
+tanya.d'mello@uconn.edu,npqiieq7mv,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2685,Smooth
+tanya.d'mello@uconn.edu,npqiieq7mv,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6879,Naive
+tanya.d'mello@uconn.edu,npqiieq7mv,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4502,2
+tanya.d'mello@uconn.edu,npqiieq7mv,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8906,"before my class "
+tanya.d'mello@uconn.edu,npqiieq7mv,5,"Which of the following problems did you have?",Checkbox,4674,none
+Christopher.Yan@uconn.edu,ltj0c67vkv,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7679,MinorBumps
+Christopher.Yan@uconn.edu,ltj0c67vkv,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5334,DoneItBefore
+Christopher.Yan@uconn.edu,ltj0c67vkv,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3536,7
+Christopher.Yan@uconn.edu,ltj0c67vkv,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5188,No
+Christopher.Yan@uconn.edu,ltj0c67vkv,5,"Which of the following problems did you have?",Checkbox,2998,none
+jiajun.yang@uconn.edu,rew0ib05gu,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7190,Smooth
+jiajun.yang@uconn.edu,rew0ib05gu,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7712,Naive
+jiajun.yang@uconn.edu,rew0ib05gu,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7721,5
+jiajun.yang@uconn.edu,rew0ib05gu,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,22475,"Blowing my nose"
+jiajun.yang@uconn.edu,rew0ib05gu,5,"Which of the following problems did you have?",Checkbox,8873,none
+julia.brereton@uconn.edu,7i0ks7tktb,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3790,Smooth
+julia.brereton@uconn.edu,7i0ks7tktb,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3701,Naive
+julia.brereton@uconn.edu,7i0ks7tktb,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4681,4
+julia.brereton@uconn.edu,7i0ks7tktb,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,1658,
+julia.brereton@uconn.edu,7i0ks7tktb,5,"Which of the following problems did you have?",Checkbox,4525,none
+sarah.g.bradley@uconn.edu,9yx7lcijul,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5905,Smooth
+sarah.g.bradley@uconn.edu,9yx7lcijul,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4254,Naive
+sarah.g.bradley@uconn.edu,9yx7lcijul,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4055,7
+sarah.g.bradley@uconn.edu,9yx7lcijul,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6470,No
+sarah.g.bradley@uconn.edu,9yx7lcijul,5,"Which of the following problems did you have?",Checkbox,6693,none
+andrew.kubaska@uconn.edu,a53jodfmcr,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,10483,Smooth
+andrew.kubaska@uconn.edu,a53jodfmcr,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5445,Naive
+andrew.kubaska@uconn.edu,a53jodfmcr,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4167,4
+andrew.kubaska@uconn.edu,a53jodfmcr,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4026,No
+andrew.kubaska@uconn.edu,a53jodfmcr,5,"Which of the following problems did you have?",Checkbox,5935,none
+meghan.koziolkowsky@uconn.edu,kwuu4kbw1o,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5177,Smooth
+meghan.koziolkowsky@uconn.edu,kwuu4kbw1o,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4510,Naive
+meghan.koziolkowsky@uconn.edu,kwuu4kbw1o,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5560,1
+meghan.koziolkowsky@uconn.edu,kwuu4kbw1o,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11809,"No, and I closed my tabs too"
+meghan.koziolkowsky@uconn.edu,kwuu4kbw1o,5,"Which of the following problems did you have?",Checkbox,7568,none
+kaitlyn.basant@uconn.edu,fpq1fc634s,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,10518,MinorBumps
+kaitlyn.basant@uconn.edu,fpq1fc634s,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3877,Naive
+kaitlyn.basant@uconn.edu,fpq1fc634s,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7252,5
+kaitlyn.basant@uconn.edu,fpq1fc634s,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11290,"eating breakfast"
+kaitlyn.basant@uconn.edu,fpq1fc634s,5,"Which of the following problems did you have?",Checkbox,6729,none
+alexa.granfield@uconn.edu,y2lvrjx8ll,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,15908,MinorBumps
+alexa.granfield@uconn.edu,y2lvrjx8ll,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4961,Naive
+alexa.granfield@uconn.edu,y2lvrjx8ll,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5534,2
+alexa.granfield@uconn.edu,y2lvrjx8ll,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,27046,"No but I accidentally held down the enter button too long and it submitted a few blank answers."
+alexa.granfield@uconn.edu,y2lvrjx8ll,5,"Which of the following problems did you have?",Checkbox,9824,none
+julia.loncar@uconn.edu,8on6txv37q,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6314,Smooth
+julia.loncar@uconn.edu,8on6txv37q,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,8195,DoneItBefore
+julia.loncar@uconn.edu,8on6txv37q,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3539,6
+julia.loncar@uconn.edu,8on6txv37q,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6475,"no "
+julia.loncar@uconn.edu,8on6txv37q,5,"Which of the following problems did you have?",Checkbox,7805,"blank page"
+neeha.zaman@uconn.edu,bxaxu9xpwu,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4750,Smooth
+neeha.zaman@uconn.edu,bxaxu9xpwu,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,2647,Naive
+neeha.zaman@uconn.edu,bxaxu9xpwu,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4780,1
+neeha.zaman@uconn.edu,bxaxu9xpwu,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7109,"in class"
+neeha.zaman@uconn.edu,bxaxu9xpwu,5,"Which of the following problems did you have?",Checkbox,6145,none
+dylan.keith@uconn.edu,de2wd69ouj,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3215,Smooth
+dylan.keith@uconn.edu,de2wd69ouj,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5822,Naive
+dylan.keith@uconn.edu,de2wd69ouj,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,14937,1
+dylan.keith@uconn.edu,de2wd69ouj,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,9627,No
+dylan.keith@uconn.edu,de2wd69ouj,5,"Which of the following problems did you have?",Checkbox,8890,none
+sophia.iovino@uconn.edu,itfxd2snge,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8197,Smooth
+sophia.iovino@uconn.edu,itfxd2snge,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4922,Naive
+sophia.iovino@uconn.edu,itfxd2snge,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6696,1
+sophia.iovino@uconn.edu,itfxd2snge,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6810,no
+sophia.iovino@uconn.edu,itfxd2snge,5,"Which of the following problems did you have?",Checkbox,6304,none
+hector.condori@uconn.edu,siakxkm364,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5843,Smooth
+hector.condori@uconn.edu,siakxkm364,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4270,Naive
+hector.condori@uconn.edu,siakxkm364,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4371,6
+hector.condori@uconn.edu,siakxkm364,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,16027,Nothing
+hector.condori@uconn.edu,siakxkm364,5,"Which of the following problems did you have?",Checkbox,7940,none
+emma.dwyer@uconn.edu,6inckdhar5,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2935,Smooth
+emma.dwyer@uconn.edu,6inckdhar5,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6122,Naive
+emma.dwyer@uconn.edu,6inckdhar5,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6563,3
+emma.dwyer@uconn.edu,6inckdhar5,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4930,no
+emma.dwyer@uconn.edu,6inckdhar5,5,"Which of the following problems did you have?",Checkbox,9448,none
+reshma.ramesh@uconn.edu,rqg3ywru61,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,12363,MinorBumps
+reshma.ramesh@uconn.edu,rqg3ywru61,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7303,DoneItBefore
+reshma.ramesh@uconn.edu,rqg3ywru61,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,9326,2
+reshma.ramesh@uconn.edu,rqg3ywru61,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8182,no
+reshma.ramesh@uconn.edu,rqg3ywru61,5,"Which of the following problems did you have?",Checkbox,9250,none
+brooke.noonan@uconn.edu,ifhcn51bbh,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3769,Smooth
+brooke.noonan@uconn.edu,ifhcn51bbh,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4236,Naive
+brooke.noonan@uconn.edu,ifhcn51bbh,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3240,4
+brooke.noonan@uconn.edu,ifhcn51bbh,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,1662,
+brooke.noonan@uconn.edu,ifhcn51bbh,5,"Which of the following problems did you have?",Checkbox,6957,none
+atziri.rodriguez@uconn.edu,k32jw6nfmp,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6733,Smooth
+atziri.rodriguez@uconn.edu,k32jw6nfmp,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3773,Naive
+atziri.rodriguez@uconn.edu,k32jw6nfmp,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10565,4
+atziri.rodriguez@uconn.edu,k32jw6nfmp,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6559,no
+atziri.rodriguez@uconn.edu,k32jw6nfmp,5,"Which of the following problems did you have?",Checkbox,7999,none
+iya.marrett@uconn.edu,1jg73eowf1,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2675,Smooth
+iya.marrett@uconn.edu,1jg73eowf1,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,21181,Naive
+iya.marrett@uconn.edu,1jg73eowf1,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,12471,1
+iya.marrett@uconn.edu,1jg73eowf1,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4793,no
+iya.marrett@uconn.edu,1jg73eowf1,5,"Which of the following problems did you have?",Checkbox,9922,none
+brianna.ramkishun@uconn.edu,e0dymadjhb,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,9182,Smooth
+brianna.ramkishun@uconn.edu,e0dymadjhb,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4243,Naive
+brianna.ramkishun@uconn.edu,e0dymadjhb,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6297,3
+brianna.ramkishun@uconn.edu,e0dymadjhb,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,25028,"I had to google some words to better understand what they are."
+brianna.ramkishun@uconn.edu,e0dymadjhb,5,"Which of the following problems did you have?",Checkbox,5984,none
+michael.j.mcgough@uconn.edu,ycyvgimvbn,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,11067,Smooth
+michael.j.mcgough@uconn.edu,ycyvgimvbn,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7072,Naive
+michael.j.mcgough@uconn.edu,ycyvgimvbn,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6381,2
+michael.j.mcgough@uconn.edu,ycyvgimvbn,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11885,no
+michael.j.mcgough@uconn.edu,ycyvgimvbn,5,"Which of the following problems did you have?",Checkbox,8277,none
+chandler.mchale@uconn.edu,k50u95eomq,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,10602,MinorBumps
+chandler.mchale@uconn.edu,k50u95eomq,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5223,Naive
+chandler.mchale@uconn.edu,k50u95eomq,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6572,4
+chandler.mchale@uconn.edu,k50u95eomq,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5415,No
+chandler.mchale@uconn.edu,k50u95eomq,5,"Which of the following problems did you have?",Checkbox,5636,none
+andrew.gregory@uconn.edu,ho029p7nm4,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6384,Smooth
+andrew.gregory@uconn.edu,ho029p7nm4,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6173,Naive
+andrew.gregory@uconn.edu,ho029p7nm4,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4583,1
+andrew.gregory@uconn.edu,ho029p7nm4,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11039,"No I was not"
+andrew.gregory@uconn.edu,ho029p7nm4,5,"Which of the following problems did you have?",Checkbox,7873,none
+martina.kaba@uconn.edu,d54u45di5x,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,11116,Smooth
+martina.kaba@uconn.edu,d54u45di5x,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7122,Naive
+martina.kaba@uconn.edu,d54u45di5x,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5641,5
+leila.akhouzine@uconn.edu,ioova8zgdb,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8657,Smooth
+martina.kaba@uconn.edu,d54u45di5x,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6884,no
+leila.akhouzine@uconn.edu,ioova8zgdb,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4943,Naive
+martina.kaba@uconn.edu,d54u45di5x,5,"Which of the following problems did you have?",Checkbox,7685,none
+leila.akhouzine@uconn.edu,ioova8zgdb,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6946,4
+leila.akhouzine@uconn.edu,ioova8zgdb,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4634,no
+leila.akhouzine@uconn.edu,ioova8zgdb,5,"Which of the following problems did you have?",Checkbox,5964,none
+gamage.perera@uconn.edu,n4avzwjzn1,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4298,Smooth
+gamage.perera@uconn.edu,n4avzwjzn1,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,2243,Naive
+gamage.perera@uconn.edu,n4avzwjzn1,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,2175,1
+gamage.perera@uconn.edu,n4avzwjzn1,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5378,none
+gamage.perera@uconn.edu,n4avzwjzn1,5,"Which of the following problems did you have?",Checkbox,2202,none
+nathaniel.i.smitjh@uconn.edu,1uwocy8xk9,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,15615,MinorBumps
+nathaniel.i.smitjh@uconn.edu,1uwocy8xk9,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5801,Naive
+nathaniel.i.smitjh@uconn.edu,1uwocy8xk9,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,11037,3
+nathaniel.i.smitjh@uconn.edu,1uwocy8xk9,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,17043,"Yes, I was taking notes in class"
+nathaniel.i.smitjh@uconn.edu,1uwocy8xk9,5,"Which of the following problems did you have?",Checkbox,11309,none
+jeanie.nguyen@uconn.edu,oz42pqevm8,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5770,Smooth
+jeanie.nguyen@uconn.edu,oz42pqevm8,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3253,Naive
+jeanie.nguyen@uconn.edu,oz42pqevm8,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,11918,4
+kavya.singh@uconn.edu,9ruuv8myzw,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,9148,Smooth
+jeanie.nguyen@uconn.edu,oz42pqevm8,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,12244,"Nope, just thinking really hard"
+jeanie.nguyen@uconn.edu,oz42pqevm8,5,"Which of the following problems did you have?",Checkbox,3900,none
+kavya.singh@uconn.edu,9ruuv8myzw,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6053,Naive
+david.clay@uconn.edu,ppa9qo25xo,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,10831,ExcludeMe
+kavya.singh@uconn.edu,9ruuv8myzw,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7707,5
+david.clay@uconn.edu,ppa9qo25xo,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7528,DoneItBefore
+kavya.singh@uconn.edu,9ruuv8myzw,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7703,no
+david.clay@uconn.edu,ppa9qo25xo,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4947,3
+kavya.singh@uconn.edu,9ruuv8myzw,5,"Which of the following problems did you have?",Checkbox,6552,none
+david.clay@uconn.edu,ppa9qo25xo,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,17854,"im in a lecture and it's about to end so i went fast im sorry"
+david.clay@uconn.edu,ppa9qo25xo,5,"Which of the following problems did you have?",Checkbox,10191,
+mark.paine@uconn.edu,zs0l25cadu,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5164,Smooth
+mark.paine@uconn.edu,zs0l25cadu,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4049,Naive
+mark.paine@uconn.edu,zs0l25cadu,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,27959,2
+einin.frost@uconn.edu,k4ynidcw3o,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3861,MinorBumps
+einin.frost@uconn.edu,k4ynidcw3o,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4663,Naive
+einin.frost@uconn.edu,k4ynidcw3o,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5711,1
+einin.frost@uconn.edu,k4ynidcw3o,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7150,No
+einin.frost@uconn.edu,k4ynidcw3o,5,"Which of the following problems did you have?",Checkbox,15041,none
+mark.paine@uconn.edu,zs0l25cadu,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,164541,No
+mark.paine@uconn.edu,zs0l25cadu,5,"Which of the following problems did you have?",Checkbox,7358,reload
+lily.van_der_kroef@uconn.edu,rnb6416ji6,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4209,Smooth
+lily.van_der_kroef@uconn.edu,rnb6416ji6,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4221,Naive
+lily.van_der_kroef@uconn.edu,rnb6416ji6,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4402,1
+lily.van_der_kroef@uconn.edu,rnb6416ji6,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5171,no
+lily.van_der_kroef@uconn.edu,rnb6416ji6,5,"Which of the following problems did you have?",Checkbox,3137,none
+kaitlin.burnitz@uconn.edu,vl655yhm58,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6106,Smooth
+kaitlin.burnitz@uconn.edu,vl655yhm58,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5642,Naive
+kaitlin.burnitz@uconn.edu,vl655yhm58,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,9788,5
+kaitlin.burnitz@uconn.edu,vl655yhm58,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7652,no
+kaitlin.burnitz@uconn.edu,vl655yhm58,5,"Which of the following problems did you have?",Checkbox,6003,none
+jana.lawrence@uconn.edu,7osx8kuflk,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4917,Smooth
+jana.lawrence@uconn.edu,7osx8kuflk,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,8624,DoneItBefore
+jana.lawrence@uconn.edu,7osx8kuflk,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,7029,5
+jana.lawrence@uconn.edu,7osx8kuflk,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,12829,"No "
+jana.lawrence@uconn.edu,7osx8kuflk,5,"Which of the following problems did you have?",Checkbox,10165,none
+jocelyn.dallaste@uconn.edu,fx71v6p9v9,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5366,Smooth
+jocelyn.dallaste@uconn.edu,fx71v6p9v9,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4771,Naive
+jocelyn.dallaste@uconn.edu,fx71v6p9v9,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5365,3
+jocelyn.dallaste@uconn.edu,fx71v6p9v9,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10904,class
+jocelyn.dallaste@uconn.edu,fx71v6p9v9,5,"Which of the following problems did you have?",Checkbox,6429,none
+alex.hart@uconn.edu,u8b4mvcnen,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7922,Smooth
+alex.hart@uconn.edu,u8b4mvcnen,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7497,Naive
+alex.hart@uconn.edu,u8b4mvcnen,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,13661,4
+alex.hart@uconn.edu,u8b4mvcnen,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7664,"no "
+alex.hart@uconn.edu,u8b4mvcnen,5,"Which of the following problems did you have?",Checkbox,11445,none
+chastity.cruz@uconn.edu,rq1nsyb5eo,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,5897,MinorBumps
+chastity.cruz@uconn.edu,rq1nsyb5eo,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3389,Naive
+chastity.cruz@uconn.edu,rq1nsyb5eo,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,14629,1
+chastity.cruz@uconn.edu,rq1nsyb5eo,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6637,No
+chastity.cruz@uconn.edu,rq1nsyb5eo,5,"Which of the following problems did you have?",Checkbox,7100,none
+justin.a.lamoureux@uconn.edu,z70phkx09m,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,2944,Smooth
+justin.a.lamoureux@uconn.edu,z70phkx09m,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3324,Naive
+justin.a.lamoureux@uconn.edu,z70phkx09m,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5595,5
+justin.a.lamoureux@uconn.edu,z70phkx09m,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6070,"No "
+justin.a.lamoureux@uconn.edu,z70phkx09m,5,"Which of the following problems did you have?",Checkbox,4324,none
+guobin.chen@uconn.edu,1xidic0j8j,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7513,MinorBumps
+michelle.serrano@uconn.edu,97qyyo4grg,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3498,MinorBumps
+guobin.chen@uconn.edu,1xidic0j8j,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3778,Naive
+michelle.serrano@uconn.edu,97qyyo4grg,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6269,Naive
+guobin.chen@uconn.edu,1xidic0j8j,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6843,6
+michelle.serrano@uconn.edu,97qyyo4grg,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5425,4
+michelle.serrano@uconn.edu,97qyyo4grg,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8634,No
+michelle.serrano@uconn.edu,97qyyo4grg,5,"Which of the following problems did you have?",Checkbox,8016,none
+guobin.chen@uconn.edu,1xidic0j8j,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,25929,"Looking up words in a dictionary"
+guobin.chen@uconn.edu,1xidic0j8j,5,"Which of the following problems did you have?",Checkbox,17284,none
+adriana.diaz@uconn.edu,sfepb7xhp2,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8946,MinorBumps
+adriana.diaz@uconn.edu,sfepb7xhp2,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5741,Naive
+adriana.diaz@uconn.edu,sfepb7xhp2,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6192,4
+adriana.diaz@uconn.edu,sfepb7xhp2,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7158,no
+adriana.diaz@uconn.edu,sfepb7xhp2,5,"Which of the following problems did you have?",Checkbox,9679,none
+eva-larue.barber@uconn.edu,5kpf8lp473,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4826,Smooth
+eva-larue.barber@uconn.edu,5kpf8lp473,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3879,Naive
+eva-larue.barber@uconn.edu,5kpf8lp473,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,2712,1
+eva-larue.barber@uconn.edu,5kpf8lp473,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6250,
+eva-larue.barber@uconn.edu,5kpf8lp473,5,"Which of the following problems did you have?",Checkbox,5693,none
+lisbeth.lucas-moran@uconn.edu,i3319eotom,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7352,Smooth
+lisbeth.lucas-moran@uconn.edu,i3319eotom,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7286,Naive
+lisbeth.lucas-moran@uconn.edu,i3319eotom,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4901,5
+lisbeth.lucas-moran@uconn.edu,i3319eotom,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10550,"Listening to music"
+lisbeth.lucas-moran@uconn.edu,i3319eotom,5,"Which of the following problems did you have?",Checkbox,6718,none
+hao.zhuo@uconn.edu,vhkvhdzmzk,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3189,Smooth
+hao.zhuo@uconn.edu,vhkvhdzmzk,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6257,Naive
+hao.zhuo@uconn.edu,vhkvhdzmzk,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4578,2
+hao.zhuo@uconn.edu,vhkvhdzmzk,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4833,No
+hao.zhuo@uconn.edu,vhkvhdzmzk,5,"Which of the following problems did you have?",Checkbox,4325,none
+dom.wood@uconn.edu,l0t3i1c636,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,1887,Smooth
+dom.wood@uconn.edu,l0t3i1c636,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5067,Naive
+dom.wood@uconn.edu,l0t3i1c636,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6400,3
+dom.wood@uconn.edu,l0t3i1c636,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6664,No
+dom.wood@uconn.edu,l0t3i1c636,5,"Which of the following problems did you have?",Checkbox,5023,none
+brooke.catellier@uconn.edu,ou0vhu70oc,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8271,MinorBumps
+brooke.catellier@uconn.edu,ou0vhu70oc,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7364,Naive
+brooke.catellier@uconn.edu,ou0vhu70oc,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5241,4
+brooke.catellier@uconn.edu,ou0vhu70oc,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,4655,no
+brooke.catellier@uconn.edu,ou0vhu70oc,5,"Which of the following problems did you have?",Checkbox,7992,none
+alana.goldhaber@uconn.edu,ajkc22fvyq,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3202,Smooth
+alana.goldhaber@uconn.edu,ajkc22fvyq,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6190,Naive
+alana.goldhaber@uconn.edu,ajkc22fvyq,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6089,5
+alana.goldhaber@uconn.edu,ajkc22fvyq,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7322,No
+alana.goldhaber@uconn.edu,ajkc22fvyq,5,"Which of the following problems did you have?",Checkbox,9591,none
+caitlin.mancuso@uconn.edu,9e82dp6qw0,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,6242,Smooth
+caitlin.mancuso@uconn.edu,9e82dp6qw0,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,4482,Naive
+caitlin.mancuso@uconn.edu,9e82dp6qw0,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4498,6
+caitlin.mancuso@uconn.edu,9e82dp6qw0,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,10845,"Listening to music."
+caitlin.mancuso@uconn.edu,9e82dp6qw0,5,"Which of the following problems did you have?",Checkbox,3798,none
+george.wirpel@uconn.edu,bv2ra8bim7,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,12140,MinorBumps
+george.wirpel@uconn.edu,bv2ra8bim7,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,9953,Naive
+george.wirpel@uconn.edu,bv2ra8bim7,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,10822,2
+george.wirpel@uconn.edu,bv2ra8bim7,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,5816,no
+george.wirpel@uconn.edu,bv2ra8bim7,5,"Which of the following problems did you have?",Checkbox,8235,none
+emma.mcmurray@uconn.edu,tazfllm1gi,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,13516,MinorBumps
+emma.mcmurray@uconn.edu,tazfllm1gi,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,7258,DoneItBefore
+emma.mcmurray@uconn.edu,tazfllm1gi,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,15010,2
+emma.mcmurray@uconn.edu,tazfllm1gi,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,13931,"No "
+emma.mcmurray@uconn.edu,tazfllm1gi,5,"Which of the following problems did you have?",Checkbox,11314,none
+luke.olsen@uconn.edu,pqdxmtof4j,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,4867,Smooth
+luke.olsen@uconn.edu,pqdxmtof4j,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6512,Naive
+luke.olsen@uconn.edu,pqdxmtof4j,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,8467,5
+luke.olsen@uconn.edu,pqdxmtof4j,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7208,No
+luke.olsen@uconn.edu,pqdxmtof4j,5,"Which of the following problems did you have?",Checkbox,8132,none
+michelle.serrano@gmail.com,fg8yintp3e,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3380,Smooth
+michelle.serrano@gmail.com,fg8yintp3e,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3115,Naive
+michelle.serrano@gmail.com,fg8yintp3e,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,4697,5
+michelle.serrano@gmail.com,fg8yintp3e,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,11611,"I was looking at the time"
+michelle.serrano@gmail.com,fg8yintp3e,5,"Which of the following problems did you have?",Checkbox,3451,none
+braeden.allen@uconn.edu,38965nf3bd,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,8197,Smooth
+braeden.allen@uconn.edu,38965nf3bd,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,9592,Naive
+braeden.allen@uconn.edu,38965nf3bd,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,5116,6
+braeden.allen@uconn.edu,38965nf3bd,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,17319,No
+braeden.allen@uconn.edu,38965nf3bd,5,"Which of the following problems did you have?",Checkbox,5031,none
+ella.noonan@uconn.edu,z2zbr1v9n7,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,3538,Smooth
+ella.noonan@uconn.edu,z2zbr1v9n7,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,3561,Naive
+ella.noonan@uconn.edu,z2zbr1v9n7,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,3310,5
+ella.noonan@uconn.edu,z2zbr1v9n7,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,7685,No
+ella.noonan@uconn.edu,z2zbr1v9n7,5,"Which of the following problems did you have?",Checkbox,4527,none
+matthew.mcbarron@uconn.edu,hocl8ryebf,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,7604,Smooth
+matthew.mcbarron@uconn.edu,hocl8ryebf,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,5706,Naive
+matthew.mcbarron@uconn.edu,hocl8ryebf,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,6744,2
+matthew.mcbarron@uconn.edu,hocl8ryebf,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,6953,nope
+matthew.mcbarron@uconn.edu,hocl8ryebf,5,"Which of the following problems did you have?",Checkbox,9922,none
+donelia.porter@uconn.edu,1amki9yln4,1,"Did the experiment go smoothly or were there problems? (Note: Your compensation will not depend on your answer below, so please be honest.)!!!",Radio,11951,MinorBumps
+donelia.porter@uconn.edu,1amki9yln4,2,"Have you participated in this experiment (or another experiment using the same learning materials) before?",Radio,6290,Naive
+donelia.porter@uconn.edu,1amki9yln4,3,"How much fun was this experiment? <p>1 being very fun -- 7 being the MOST FUN EVER</p>",Likert,15150,0
+donelia.porter@uconn.edu,1amki9yln4,4,"Were you doing anything else while this experiment was going on? You will get credit no matter how you respond here.",Text,8169,No
+donelia.porter@uconn.edu,1amki9yln4,5,"Which of the following problems did you have?",Checkbox,78970,none

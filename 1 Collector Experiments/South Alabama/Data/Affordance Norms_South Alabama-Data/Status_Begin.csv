@@ -1,0 +1,435 @@
+Username,ID,Date,Session,Condition_Number,Condition_Description,Output_File,Stimuli_File,Procedure_File,Browser,DeviceType,OS,IP
+j00670955,acfj4mex3w,2022-10-24T16:40:18+00:00,1,1,"Version 1",Output_Session1_j00670955_acfj4mex3w.csv,"updated stim.csv",Version1.csv,"Chrome 105.0",Desktop,Win10,69.85.215.34
+J00670955tms,yiiewhkjd5,2022-10-24T16:59:51+00:00,1,2,"Version 2",Output_Session1_J00670955tms_yiiewhkjd5.csv,"updated stim.csv",Version2.csv,"Chrome 105.0",Desktop,Win10,69.85.215.34
+J00721876_ago,nd32o4rgm8,2022-10-24T22:14:11+00:00,1,3,"Version 3",Output_Session1_J00721876_ago_nd32o4rgm8.csv,"updated stim.csv",Version3.csv,"Safari 15.5",Desktop,MacOSX,69.85.216.108
+J00709304_CJP,t0uel0fps6,2022-10-25T14:46:25+00:00,1,4,"Version 4",Output_Session1_J00709304_CJP_t0uel0fps6.csv,"updated stim.csv",Version4.csv,"Safari 14.0",Desktop,MacOSX,69.85.215.44
+J00715408sgr,n7czfm84af,2022-10-25T18:27:04+00:00,1,5,"Version 5",Output_Session1_J00715408sgr_n7czfm84af.csv,"updated stim.csv",Version5.csv,"Chrome 105.0",Desktop,MacOSX,69.85.215.41
+J00716950ML,ojx7qxvzxc,2022-10-25T18:37:59+00:00,1,6,"Version 6",Output_Session1_J00716950ML_ojx7qxvzxc.csv,"updated stim.csv",Version6.csv,"Chrome 106.0",Desktop,MacOSX,108.169.224.65
+J00709146VLW,mj6ts8jq6r,2022-10-26T17:16:59+00:00,1,7,"Version 7",Output_Session1_J00709146VLW_mj6ts8jq6r.csv,"updated stim.csv",Version7.csv,"Safari 15.5",Desktop,MacOSX,69.85.215.41
+J00706165CBC,xeza5t6hzo,2022-10-26T17:22:40+00:00,1,8,"Version 8",Output_Session1_J00706165CBC_xeza5t6hzo.csv,"updated stim.csv",Version8.csv,"Chrome 106.0",Desktop,MacOSX,69.85.215.41
+J00716231_tra,b1oay82kwa,2022-10-28T13:11:55+00:00,1,9,"Version 9",Output_Session1_J00716231_tra_b1oay82kwa.csv,"updated stim.csv",Version9.csv,"Safari 15.5",Desktop,MacOSX,69.85.215.54
+J00715603_cmh,qmbcivt7q1,2022-10-29T18:13:58+00:00,1,10,"Version 10",Output_Session1_J00715603_cmh_qmbcivt7q1.csv,"updated stim.csv",Version10.csv,"Chrome 106.0",Desktop,MacOSX,68.57.164.176
+J00656083_acs,5xfkktlb5o,2022-10-29T18:51:25+00:00,1,11,"Version 11",Output_Session1_J00656083_acs_5xfkktlb5o.csv,"updated stim.csv",Version11.csv,"Edge 106.0",Desktop,Win10,69.85.216.106
+J00713089,d3vg74zy3x,2022-10-31T01:49:47+00:00,1,12,"Version 12",Output_Session1_J00713089_d3vg74zy3x.csv,"updated stim.csv",Version12.csv,"Chrome 106.0",Desktop,Win10,69.85.216.142
+j00710885_daw,7fc8cak5z8,2022-10-31T02:18:16+00:00,1,13,"Version 13",Output_Session1_j00710885_daw_7fc8cak5z8.csv,"updated stim.csv",Version13.csv,"Edge 107.0",Desktop,Win10,69.85.216.104
+J00706801TB,gmlsy5spcs,2022-10-31T18:36:07+00:00,1,14,"Version 14",Output_Session1_J00706801TB_gmlsy5spcs.csv,"updated stim.csv",Version14.csv,"Mobile Safari 15.4","Mobile Phone",iOS,69.85.215.54
+J00723796_dkj,zait46nxzc,2022-10-31T22:33:16+00:00,1,15,"Version 15",Output_Session1_J00723796_dkj_zait46nxzc.csv,"updated stim.csv",Version15.csv,"Edge 107.0",Desktop,Win10,69.85.216.103
+J00714995_LLT,tuv18tsjam,2022-11-01T01:56:18+00:00,1,16,"Version 16",Output_Session1_J00714995_LLT_tuv18tsjam.csv,"updated stim.csv",Version16.csv,"Chrome 106.0",Desktop,Win10,69.85.216.102
+J00693214_msk,hybcxdgiyw,2022-11-01T02:21:31+00:00,1,17,"Version 17",Output_Session1_J00693214_msk_hybcxdgiyw.csv,"updated stim.csv",Version17.csv,"Chrome 107.0",Desktop,Win10,45.30.221.247
+J00719933KK,ld6k7bg0mi,2022-11-01T16:34:30+00:00,1,18,"Version 18",Output_Session1_J00719933KK_ld6k7bg0mi.csv,"updated stim.csv",Version18.csv,"Safari 15.5",Desktop,MacOSX,69.85.215.45
+J00691273ARB,mg305811wp,2022-11-01T16:36:18+00:00,1,19,"Version 19",Output_Session1_J00691273ARB_mg305811wp.csv,"updated stim.csv",Version19.csv,"Chrome 106.0",Desktop,MacOSX,69.85.215.25
+J00705819_aeh,m8m6stagld,2022-11-01T16:38:25+00:00,1,20,"Version 20",Output_Session1_J00705819_aeh_m8m6stagld.csv,"updated stim.csv",Version20.csv,"Safari 16.0",Desktop,MacOSX,69.85.216.102
+j00712704hp,7za5lo38wi,2022-11-01T17:12:44+00:00,1,21,"Version 21",Output_Session1_j00712704hp_7za5lo38wi.csv,"updated stim.csv",Version21.csv,"Safari 15.6.1",Desktop,MacOSX,69.85.215.25
+J00709713_MT,r0x364u4ka,2022-11-01T19:43:04+00:00,1,22,"Version 22",Output_Session1_J00709713_MT_r0x364u4ka.csv,"updated stim.csv",Version22.csv,"Safari 14.1",Desktop,MacOSX,69.85.215.54
+J00703371_crw,tvk919k779,2022-11-01T20:28:22+00:00,1,23,"Version 23",Output_Session1_J00703371_crw_tvk919k779.csv,"updated stim.csv",Version23.csv,"Edge 107.0",Desktop,Win10,69.246.172.53
+J00718929_smg,19ueinftj8,2022-11-02T16:12:37+00:00,1,24,"Version 24",Output_Session1_J00718929_smg_19ueinftj8.csv,"updated stim.csv",Version24.csv,DefaultProperties,unknown,unknown,68.63.32.181
+J00706812VS,lpmoxey0b7,2022-11-02T16:52:15+00:00,1,25,"Version 25",Output_Session1_J00706812VS_lpmoxey0b7.csv,"updated stim.csv",Version25.csv,"Safari 15.3",Desktop,MacOSX,69.85.216.102
+J00691416,235l7y9yd3,2022-11-02T22:46:17+00:00,1,26,"Version 26",Output_Session1_J00691416_235l7y9yd3.csv,"updated stim.csv",Version26.csv,"Edge 107.0",Desktop,Win10,70.235.93.224
+J00707319EKD,km198e18ro,2022-11-03T00:11:21+00:00,1,27,"Version 27",Output_Session1_J00707319EKD_km198e18ro.csv,"updated stim.csv",Version27.csv,"Chrome 106.0",Desktop,MacOSX,69.85.216.102
+J00688716_taf,mwulznqdi5,2022-11-03T02:39:45+00:00,1,28,"Version 28",Output_Session1_J00688716_taf_mwulznqdi5.csv,"updated stim.csv",Version28.csv,"Chrome 107.0",Desktop,Win10,104.51.98.57
+J00719196_irr,p39qfq0wsp,2022-11-03T02:43:16+00:00,1,29,"Version 29",Output_Session1_J00719196_irr_p39qfq0wsp.csv,"updated stim.csv",Version29.csv,"Chrome 107.0",Desktop,Win10,69.85.216.102
+J00712670,xaxuw13yu3,2022-11-03T03:55:03+00:00,1,30,"Version 30",Output_Session1_J00712670_xaxuw13yu3.csv,"updated stim.csv",Version30.csv,"Chrome 105.0",Desktop,MacOSX,198.28.167.125
+J00712670CM,b0d1m7i4lj,2022-11-03T03:55:40+00:00,1,31,"Version 31",Output_Session1_J00712670CM_b0d1m7i4lj.csv,"updated stim.csv",Version31.csv,"Chrome 105.0",Desktop,MacOSX,198.28.167.125
+j00686630_jj,iacrqpeo0n,2022-11-03T17:24:20+00:00,1,32,"Version 32",Output_Session1_j00686630_jj_iacrqpeo0n.csv,"updated stim.csv",Version32.csv,"Chrome 106.0",Desktop,Win10,69.85.215.54
+cas2024CS,8q6cnugm5q,2022-11-04T21:29:30+00:00,1,33,"Version 33",Output_Session1_cas2024CS_8q6cnugm5q.csv,"updated stim.csv",Version33.csv,"Edge 107.0",Desktop,Win10,73.118.113.208
+J00711161_jtc,u6zvc09lxl,2022-11-05T06:30:41+00:00,1,34,"Version 34",Output_Session1_J00711161_jtc_u6zvc09lxl.csv,"updated stim.csv",Version34.csv,"Chrome 107.0",Desktop,Win10,69.85.216.140
+j00690275_cbi,g9g2qpaduf,2022-11-06T03:48:03+00:00,1,35,"Version 35",Output_Session1_j00690275_cbi_g9g2qpaduf.csv,"updated stim.csv",Version35.csv,"Chrome 105.0",Desktop,MacOSX,68.63.33.222
+J00689444_bcb,s6x3jn9z5z,2022-11-06T18:16:05+00:00,1,36,"Version 36",Output_Session1_J00689444_bcb_s6x3jn9z5z.csv,"updated stim.csv",Version36.csv,"Chrome 107.0",Desktop,Win10,69.85.216.112
+J00695430_mbb,dhqiwpnang,2022-11-06T21:25:55+00:00,1,37,"Version 37",Output_Session1_J00695430_mbb_dhqiwpnang.csv,"updated stim.csv",Version37.csv,"Chrome 106.0",Desktop,MacOSX,69.85.216.134
+JAN,cmjz8iohqp,2022-11-07T19:48:56+00:00,1,38,"Version 38",Output_Session1_JAN_cmjz8iohqp.csv,"updated stim.csv",Version38.csv,"Chrome 103.0",Desktop,MacOSX,69.85.216.140
+J00717803,8y70z9x12l,2022-11-07T20:13:34+00:00,1,39,"Version 39",Output_Session1_J00717803_8y70z9x12l.csv,"updated stim.csv",Version39.csv,DefaultProperties,unknown,unknown,69.85.215.41
+J00722620_arf,n15rogsbov,2022-11-07T21:21:24+00:00,1,40,"Version 40",Output_Session1_J00722620_arf_n15rogsbov.csv,"updated stim.csv",Version40.csv,"Edge 107.0",Desktop,Win10,99.107.159.121
+J00715107_aar,ddyg8qy9zb,2022-11-08T03:10:48+00:00,1,41,"Version 41",Output_Session1_J00715107_aar_ddyg8qy9zb.csv,"updated stim.csv",Version41.csv,"Edge 107.0",Desktop,Win10,69.85.216.102
+j00702493js,a7dqdq1vk2,2022-11-08T14:55:47+00:00,1,42,"Version 42",Output_Session1_j00702493js_a7dqdq1vk2.csv,"updated stim.csv",Version42.csv,"Edge 106.0",Desktop,Win10,69.85.216.142
+J00692726AS,46gek1dwei,2022-11-08T19:09:06+00:00,1,43,"Version 43",Output_Session1_J00692726AS_46gek1dwei.csv,"updated stim.csv",Version43.csv,"Chrome 107.0",Desktop,Win10,69.85.215.32
+J00720927,szzrwxgi68,2022-11-08T19:16:43+00:00,1,44,"Version 44",Output_Session1_J00720927_szzrwxgi68.csv,"updated stim.csv",Version44.csv,"Safari 16.0",Desktop,MacOSX,69.85.215.41
+J00708366_grd,17n0il9xfv,2022-11-08T19:39:56+00:00,1,45,"Version 45",Output_Session1_J00708366_grd_17n0il9xfv.csv,"updated stim.csv",Version45.csv,"Safari 15.5",Desktop,MacOSX,69.85.215.41
+J00688582_med,26p7wjoa5h,2022-11-08T20:21:33+00:00,1,46,"Version 46",Output_Session1_J00688582_med_26p7wjoa5h.csv,"updated stim.csv",Version46.csv,"Chrome 107.0",Desktop,MacOSX,69.85.215.56
+J00708607CQ,iineh0ou6a,2022-11-08T22:52:40+00:00,1,47,"Version 47",Output_Session1_J00708607CQ_iineh0ou6a.csv,"updated stim.csv",Version47.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.102
+J00691433_obo,hsbl9lh3ot,2022-11-08T22:54:11+00:00,1,48,"Version 48",Output_Session1_J00691433_obo_hsbl9lh3ot.csv,"updated stim.csv",Version48.csv,"Edge 107.0",Desktop,Win10,99.36.31.216
+J00724826,fbpt7wnr7a,2022-11-09T04:07:49+00:00,1,49,"Version 49",Output_Session1_J00724826_fbpt7wnr7a.csv,"updated stim.csv",Version49.csv,"Chrome 107.0",Desktop,Win10,69.85.216.103
+J00707642ALM,wp6c7dq56f,2022-11-09T04:52:06+00:00,1,50,"Version 50",Output_Session1_J00707642ALM_wp6c7dq56f.csv,"updated stim.csv",Version50.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.102
+J00673035_JTJ,b7yofp3536,2022-11-09T19:45:22+00:00,1,51,"Version 51",Output_Session1_J00673035_JTJ_b7yofp3536.csv,"updated stim.csv",Version51.csv,"Chrome 107.0",Desktop,Win10,69.85.215.54
+J00716276MR,4o95z1re9s,2022-11-09T20:11:54+00:00,1,52,"Version 52",Output_Session1_J00716276MR_4o95z1re9s.csv,"updated stim.csv",Version52.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.134
+J00711093_jbt,xaxxy1thah,2022-11-09T22:02:41+00:00,1,53,"Version 53",Output_Session1_J00711093_jbt_xaxxy1thah.csv,"updated stim.csv",Version53.csv,DefaultProperties,unknown,unknown,69.85.215.45
+J00709516_CDI,pcs7icam3q,2022-11-10T05:12:06+00:00,1,54,"Version 54",Output_Session1_J00709516_CDI_pcs7icam3q.csv,"updated stim.csv",Version54.csv,"Chrome 107.0",Desktop,Win10,69.85.216.142
+J00708773_kmm,vb7412fqs6,2022-11-10T22:55:04+00:00,1,55,"Version 55",Output_Session1_J00708773_kmm_vb7412fqs6.csv,"updated stim.csv",Version55.csv,"Safari 16.0",Desktop,MacOSX,69.85.216.103
+j00666689DF,7wqffz4osa,2022-11-11T00:29:56+00:00,1,56,"Version 56",Output_Session1_j00666689DF_7wqffz4osa.csv,"updated stim.csv",Version56.csv,"Chrome 107.0",Desktop,Win10,68.234.164.24
+J00713869_cth,mu1tc0i6bz,2022-11-11T03:10:56+00:00,1,57,"Version 57",Output_Session1_J00713869_cth_mu1tc0i6bz.csv,"updated stim.csv",Version57.csv,"Chrome 107.0",Desktop,Win10,198.28.167.7
+J00688582_med,xr01ls6ywd,2022-11-11T16:28:21+00:00,1,58,"Version 58",Output_Session1_J00688582_med_xr01ls6ywd.csv,"updated stim.csv",Version58.csv,"Chrome 107.0",Desktop,MacOSX,69.85.215.41
+tms,wjuiibxhnh,2022-11-11T19:31:07+00:00,1,59,"Version 59",Output_Session1_tms_wjuiibxhnh.csv,"updated stim.csv",Version59.csv,"Edge 107.0",Desktop,Win10,69.85.215.54
+J00701777LM,5dig0nfxvm,2022-11-11T23:55:39+00:00,1,60,"Version 60",Output_Session1_J00701777LM_5dig0nfxvm.csv,"updated stim.csv",Version60.csv,"Chrome 107.0",Desktop,Win10,68.234.165.190
+J00641914PS,wnkyangy23,2022-11-12T02:38:28+00:00,1,61,"Version 61",Output_Session1_J00641914PS_wnkyangy23.csv,"updated stim.csv",Version61.csv,"Chrome 104.0",Desktop,MacOSX,173.22.198.140
+J00710354_cl,uyfuohkort,2022-11-12T19:36:51+00:00,1,62,"Version 62",Output_Session1_J00710354_cl_uyfuohkort.csv,"updated stim.csv",Version62.csv,"Firefox 106.0",Desktop,Win10,69.85.216.120
+J00709127_MM,mq7dfwkavn,2022-11-12T20:05:10+00:00,1,63,"Version 63",Output_Session1_J00709127_MM_mq7dfwkavn.csv,"updated stim.csv",Version63.csv,"Edge 107.0",Desktop,Win10,69.85.215.51
+J00719290_TG,nxsh8wixz8,2022-11-12T20:23:07+00:00,1,64,"Version 64",Output_Session1_J00719290_TG_nxsh8wixz8.csv,"updated stim.csv",Version64.csv,"Safari 14.1",Desktop,MacOSX,68.234.164.24
+J00709767_aas,8uy0y523ro,2022-11-12T20:37:28+00:00,1,65,"Version 65",Output_Session1_J00709767_aas_8uy0y523ro.csv,"updated stim.csv",Version65.csv,"Chrome 107.0",Desktop,Win10,107.129.0.203
+J00667670_KPL,qmzma0iroi,2022-11-12T21:43:07+00:00,1,66,"Version 66",Output_Session1_J00667670_KPL_qmzma0iroi.csv,"updated stim.csv",Version66.csv,"Chrome 107.0",Desktop,MacOSX,71.16.224.130
+J00690994_aaw,hjirv66ev2,2022-11-13T19:49:43+00:00,1,67,"Version 67",Output_Session1_J00690994_aaw_hjirv66ev2.csv,"updated stim.csv",Version67.csv,"Chrome 107.0",Desktop,MacOSX,108.208.170.222
+w10083924,m9fgs75d81,2022-11-13T22:19:03+00:00,1,68,"Version 68",Output_Session1_w10083924_m9fgs75d81.csv,"updated stim.csv",Version68.csv,"Safari 14.1",Desktop,MacOSX,69.85.215.45
+J00706716AL,2ww8ovz91p,2022-11-13T22:21:27+00:00,1,69,"Version 69",Output_Session1_J00706716AL_2ww8ovz91p.csv,"updated stim.csv",Version69.csv,"Safari 15.3",Desktop,MacOSX,69.85.216.102
+J00709127MM,k3pwwgn4fc,2022-11-13T22:54:01+00:00,1,70,"Version 70",Output_Session1_J00709127MM_k3pwwgn4fc.csv,"updated stim.csv",Version70.csv,"Edge 107.0",Desktop,Win10,69.85.215.51
+J00710014SD,o4qlsnpw84,2022-11-14T04:50:22+00:00,1,71,"Version 71",Output_Session1_J00710014SD_o4qlsnpw84.csv,"updated stim.csv",Version71.csv,"Edge 107.0",Desktop,Win10,69.85.216.102
+J00715610_an,kzzcrgugxf,2022-11-14T06:56:37+00:00,1,72,"Version 72",Output_Session1_J00715610_an_kzzcrgugxf.csv,"updated stim.csv",Version72.csv,"Chrome 107.0",Desktop,Win10,73.42.50.161
+j00673035jtj,tyvhatkid8,2022-11-14T18:33:38+00:00,1,73,"Version 73",Output_Session1_j00673035jtj_tyvhatkid8.csv,"updated stim.csv",Version73.csv,"Chrome 107.0",Desktop,Win10,69.85.215.25
+J00705939_ave,jrqf8qiy0y,2022-11-14T19:15:31+00:00,1,74,"Version 74",Output_Session1_J00705939_ave_jrqf8qiy0y.csv,"updated stim.csv",Version74.csv,"Chrome 104.0",Desktop,MacOSX,69.85.215.54
+tmsj00670955,ftm5p8v656,2022-11-14T19:22:15+00:00,1,75,"Version 75",Output_Session1_tmsj00670955_ftm5p8v656.csv,"updated stim.csv",Version75.csv,"Edge 107.0",Desktop,Win10,69.85.215.54
+J00687870REW,gohmex7ef2,2022-11-15T00:03:47+00:00,1,76,"Version 76",Output_Session1_J00687870REW_gohmex7ef2.csv,"updated stim.csv",Version76.csv,"Safari 14.1",Desktop,MacOSX,69.85.215.42
+J00707115_vls,1fs146qkav,2022-11-15T01:24:51+00:00,1,77,"Version 77",Output_Session1_J00707115_vls_1fs146qkav.csv,"updated stim.csv",Version77.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.124
+J00711239_AN,mu849vhihj,2022-11-15T17:08:19+00:00,1,78,"Version 78",Output_Session1_J00711239_AN_mu849vhihj.csv,"updated stim.csv",Version78.csv,"Chrome 107.0",Desktop,Win10,69.85.215.48
+J00715903_SB,6iu8fk6w8a,2022-11-15T17:57:19+00:00,1,79,"Version 79",Output_Session1_J00715903_SB_6iu8fk6w8a.csv,"updated stim.csv",Version79.csv,DefaultProperties,unknown,unknown,69.85.216.103
+J00709767,8m2f11rifc,2022-11-15T19:07:01+00:00,1,80,"Version 80",Output_Session1_J00709767_8m2f11rifc.csv,"updated stim.csv",Version80.csv,"Chrome 107.0",Desktop,Win10,69.85.215.54
+J00715980_kms,6mv3154bcl,2022-11-15T19:28:12+00:00,1,81,"Version 81",Output_Session1_J00715980_kms_6mv3154bcl.csv,"updated stim.csv",Version81.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.103
+J00717667CB,qtx2pj5139,2022-11-15T20:36:59+00:00,1,82,"Version 82",Output_Session1_J00717667CB_qtx2pj5139.csv,"updated stim.csv",Version82.csv,"Chrome 105.0",Desktop,Win10,69.85.215.54
+J00686057_cas,y61cfes66h,2022-11-15T20:37:31+00:00,1,83,"Version 83",Output_Session1_J00686057_cas_y61cfes66h.csv,"updated stim.csv",Version83.csv,"Edge 107.0",Desktop,Win10,69.85.215.58
+J00706165,7wyf7sbu2w,2022-11-15T20:56:01+00:00,1,84,"Version 84",Output_Session1_J00706165_7wyf7sbu2w.csv,"updated stim.csv",Version84.csv,"Safari 15.6.1",Desktop,MacOSX,69.85.215.48
+J00708585,8azgp5bejg,2022-11-15T21:23:23+00:00,1,85,"Version 85",Output_Session1_J00708585_8azgp5bejg.csv,"updated stim.csv",Version85.csv,"Chrome 107.0",Desktop,Win10,45.30.221.129
+00722362Mbh,goxaqat63u,2022-11-15T23:50:23+00:00,1,86,"Version 86",Output_Session1_00722362Mbh_goxaqat63u.csv,"updated stim.csv",Version86.csv,"Edge 107.0",Desktop,Win10,69.85.216.109
+J00708093_ojs,zkwhc4iitx,2022-11-16T01:24:34+00:00,1,87,"Version 87",Output_Session1_J00708093_ojs_zkwhc4iitx.csv,"updated stim.csv",Version87.csv,"Chrome 107.0",Desktop,Win10,207.229.101.185
+J00714505,9760ecc6oi,2022-11-16T04:57:46+00:00,1,88,"Version 88",Output_Session1_J00714505_9760ecc6oi.csv,"updated stim.csv",Version88.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.108
+j00707964,gz8ubfz3qp,2022-11-16T06:10:09+00:00,1,89,"Version 89",Output_Session1_j00707964_gz8ubfz3qp.csv,"updated stim.csv",Version89.csv,"Safari 14.1",Desktop,MacOSX,69.85.216.102
+J00707647_EAM,xsswn3ugvp,2022-11-16T06:41:27+00:00,1,90,"Version 90",Output_Session1_J00707647_EAM_xsswn3ugvp.csv,"updated stim.csv",Version90.csv,"Chrome 107.0",Desktop,Win10,69.85.216.142
+J00709237,vkyorqqpbl,2022-11-16T19:26:25+00:00,1,91,"Version 91",Output_Session1_J00709237_vkyorqqpbl.csv,"updated stim.csv",Version91.csv,"Chrome 107.0",Desktop,Win10,69.85.216.102
+J00715181_sba,35dyes8yof,2022-11-16T19:32:32+00:00,1,92,"Version 92",Output_Session1_J00715181_sba_35dyes8yof.csv,"updated stim.csv",Version92.csv,"Safari 15.6.1",Desktop,MacOSX,69.85.216.103
+J00719925SRB,m7p00t30mx,2022-11-16T19:34:00+00:00,1,93,"Version 93",Output_Session1_J00719925SRB_m7p00t30mx.csv,"updated stim.csv",Version93.csv,"Chrome 105.0",Desktop,MacOSX,69.85.216.103
+j00713029kel,ty5auqte53,2022-11-16T19:47:37+00:00,1,94,"Version 94",Output_Session1_j00713029kel_ty5auqte53.csv,"updated stim.csv",Version94.csv,"Safari 16.1",Desktop,MacOSX,69.85.215.25
+j00713029kel,f0hr0xv7ve,2022-11-16T19:47:47+00:00,1,95,"Version 95",Output_Session1_j00713029kel_f0hr0xv7ve.csv,"updated stim.csv",Version95.csv,"Safari 16.1",Desktop,MacOSX,69.85.215.25
+J007050940_jaf,xn443potw3,2022-11-16T19:54:17+00:00,1,96,"Version 96",Output_Session1_J007050940_jaf_xn443potw3.csv,"updated stim.csv",Version96.csv,"Edge 107.0",Desktop,Win10,69.85.215.54
+J00716080_saf,xgyvwn7gw9,2022-11-16T21:16:14+00:00,1,97,"Version 97",Output_Session1_J00716080_saf_xgyvwn7gw9.csv,"updated stim.csv",Version97.csv,DefaultProperties,unknown,unknown,69.85.215.45
+J00686057_cas,7dn61eorc2,2022-11-16T23:52:17+00:00,1,98,"Version 98",Output_Session1_J00686057_cas_7dn61eorc2.csv,"updated stim.csv",Version98.csv,"Edge 107.0",Desktop,Win10,69.85.215.42
+J00706823_afm,d8mwcib1u9,2022-11-17T01:10:30+00:00,1,99,"Version 99",Output_Session1_J00706823_afm_d8mwcib1u9.csv,"updated stim.csv",Version99.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.103
+J00707785SC,7n901ood17,2022-11-17T03:42:33+00:00,1,100,"Version 100",Output_Session1_J00707785SC_7n901ood17.csv,"updated stim.csv",Version100.csv,"Chrome 107.0",Desktop,Win10,69.85.216.102
+J00712371_CJV,x2uf23h3m8,2022-11-17T06:08:44+00:00,1,1,"Version 1",Output_Session1_J00712371_CJV_x2uf23h3m8.csv,"updated stim.csv",Version1.csv,"Chrome 107.0",Desktop,Win10,69.85.216.103
+J00691048_amb,ns9pal7x0z,2022-11-17T13:06:52+00:00,1,2,"Version 2",Output_Session1_J00691048_amb_ns9pal7x0z.csv,"updated stim.csv",Version2.csv,"Safari 15.3",Desktop,MacOSX,69.85.216.134
+J00696974CU,6ryev50u5x,2022-11-17T14:14:45+00:00,1,3,"Version 3",Output_Session1_J00696974CU_6ryev50u5x.csv,"updated stim.csv",Version3.csv,"Chrome 107.0",Desktop,Win10,69.85.217.189
+J00706446_mde,hbksnt0cwd,2022-11-17T15:57:09+00:00,1,4,"Version 4",Output_Session1_J00706446_mde_hbksnt0cwd.csv,"updated stim.csv",Version4.csv,"Chrome 107.0",Desktop,MacOSX,69.85.215.25
+J00688087AD,uodu0pnfeq,2022-11-17T16:59:29+00:00,1,5,"Version 5",Output_Session1_J00688087AD_uodu0pnfeq.csv,"updated stim.csv",Version5.csv,"Edge 107.0",Desktop,Win10,69.85.215.54
+J00700963ALK,xf9hcd4938,2022-11-17T17:10:11+00:00,1,6,"Version 6",Output_Session1_J00700963ALK_xf9hcd4938.csv,"updated stim.csv",Version6.csv,"Edge 107.0",Desktop,Win10,69.85.215.48
+J00721766_LRC,0h3l9qyl50,2022-11-17T23:53:56+00:00,1,7,"Version 7",Output_Session1_J00721766_LRC_0h3l9qyl50.csv,"updated stim.csv",Version7.csv,"Safari 15.5",Desktop,MacOSX,69.85.216.103
+J00709028A.N.,7tk5dxomhi,2022-11-18T03:58:35+00:00,1,8,"Version 8",Output_Session1_J00709028A.N._7tk5dxomhi.csv,"updated stim.csv",Version8.csv,"Chrome 107.0",Desktop,Win10,69.85.215.107
+J00719397,6af5a6vu07,2022-11-18T06:23:33+00:00,1,9,"Version 9",Output_Session1_J00719397_6af5a6vu07.csv,"updated stim.csv",Version9.csv,"Safari 15.6.1",Desktop,MacOSX,69.85.216.120
+J00724627_JWB,3e6fqu1xjk,2022-11-18T10:06:18+00:00,1,10,"Version 10",Output_Session1_J00724627_JWB_3e6fqu1xjk.csv,"updated stim.csv",Version10.csv,"Edge 107.0",Desktop,Win10,99.144.169.119
+J00723588_SR,udybiacmpe,2022-11-18T18:14:07+00:00,1,11,"Version 11",Output_Session1_J00723588_SR_udybiacmpe.csv,"updated stim.csv",Version11.csv,"Edge 107.0",Desktop,Win10,69.243.237.218
+J00526068_gfd,6arew5vjn3,2022-11-18T19:46:06+00:00,1,12,"Version 12",Output_Session1_J00526068_gfd_6arew5vjn3.csv,"updated stim.csv",Version12.csv,"Safari 15.4",Desktop,MacOSX,172.1.82.194
+J00708242EC,5ygg5zfrnk,2022-11-18T21:25:19+00:00,1,13,"Version 13",Output_Session1_J00708242EC_5ygg5zfrnk.csv,"updated stim.csv",Version13.csv,"Edge 107.0",Desktop,Win10,67.61.148.152
+J00704633_gat,h75mddw2ei,2022-11-19T04:18:21+00:00,1,14,"Version 14",Output_Session1_J00704633_gat_h75mddw2ei.csv,"updated stim.csv",Version14.csv,"Edge 107.0",Desktop,Win10,108.76.240.26
+J00717191IFP,znzufh50oz,2022-11-19T05:33:40+00:00,1,15,"Version 15",Output_Session1_J00717191IFP_znzufh50oz.csv,"updated stim.csv",Version15.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.102
+J00717956_cab,b8apanog21,2022-11-20T15:39:43+00:00,1,16,"Version 16",Output_Session1_J00717956_cab_b8apanog21.csv,"updated stim.csv",Version16.csv,"Chrome 106.0",Desktop,Win10,98.230.19.9
+J00688087AD,k1dsekk8pr,2022-11-20T18:25:42+00:00,1,17,"Version 17",Output_Session1_J00688087AD_k1dsekk8pr.csv,"updated stim.csv",Version17.csv,"Edge 107.0",Desktop,Win10,174.203.40.36
+J00715696AC,v6y28mxizj,2022-11-20T20:36:07+00:00,1,18,"Version 18",Output_Session1_J00715696AC_v6y28mxizj.csv,"updated stim.csv",Version18.csv,"Safari 15.3",Desktop,MacOSX,68.1.95.146
+J00637838,u5p9ft14l0,2022-11-20T22:47:20+00:00,1,19,"Version 19",Output_Session1_J00637838_u5p9ft14l0.csv,"updated stim.csv",Version19.csv,"Chrome 107.0",Desktop,Win10,99.36.31.216
+J007134211_ecm,yz5yakwpv2,2022-11-20T22:55:01+00:00,1,20,"Version 20",Output_Session1_J007134211_ecm_yz5yakwpv2.csv,"updated stim.csv",Version20.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.102
+J00708126_KNS,0hykat3i8z,2022-11-21T01:37:28+00:00,1,21,"Version 21",Output_Session1_J00708126_KNS_0hykat3i8z.csv,"updated stim.csv",Version21.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.102
+J00708533_bmf,laolc2uxc0,2022-11-21T02:38:21+00:00,1,22,"Version 22",Output_Session1_J00708533_bmf_laolc2uxc0.csv,"updated stim.csv",Version22.csv,"Safari 14.1",Desktop,MacOSX,166.196.82.42
+J00702800_egh,endf02isq4,2022-11-21T03:05:39+00:00,1,23,"Version 23",Output_Session1_J00702800_egh_endf02isq4.csv,"updated stim.csv",Version23.csv,"Chrome 105.0",Desktop,MacOSX,107.77.233.68
+J00693425_tnw,kv3od2kdhc,2022-11-21T19:21:46+00:00,1,24,"Version 24",Output_Session1_J00693425_tnw_kv3od2kdhc.csv,"updated stim.csv",Version24.csv,"Chrome 106.0",Desktop,MacOSX,71.91.94.97
+J00696415_hgl,cgs3qmjj3t,2022-11-21T23:17:39+00:00,1,25,"Version 25",Output_Session1_J00696415_hgl_cgs3qmjj3t.csv,"updated stim.csv",Version25.csv,"Chrome 107.0",Desktop,Win10,76.227.178.254
+J00696415_hgl,6takxzhp7j,2022-11-21T23:27:52+00:00,1,26,"Version 26",Output_Session1_J00696415_hgl_6takxzhp7j.csv,"updated stim.csv",Version26.csv,"Chrome 107.0",Desktop,Win10,76.227.178.254
+J00715906_ZAB,xjenaa4mlt,2022-11-21T23:45:27+00:00,1,27,"Version 27",Output_Session1_J00715906_ZAB_xjenaa4mlt.csv,"updated stim.csv",Version27.csv,"Chrome 107.0",Desktop,MacOSX,71.90.184.74
+J00724033_agw,40f1oidqv1,2022-11-22T00:04:31+00:00,1,28,"Version 28",Output_Session1_J00724033_agw_40f1oidqv1.csv,"updated stim.csv",Version28.csv,"Chrome 107.0",Desktop,MacOSX,207.229.101.185
+J00697752KHD,q9l6ygc1x9,2022-11-22T01:18:30+00:00,1,29,"Version 29",Output_Session1_J00697752KHD_q9l6ygc1x9.csv,"updated stim.csv",Version29.csv,"Chrome 107.0",Desktop,Win10,75.138.35.235
+J00722204MDS,q5wfvgjpmy,2022-11-22T03:43:18+00:00,1,30,"Version 30",Output_Session1_J00722204MDS_q5wfvgjpmy.csv,"updated stim.csv",Version30.csv,"Edge 107.0",Desktop,Win10,207.190.23.211
+J00720751,gwhqz7yql9,2022-11-22T21:57:09+00:00,1,31,"Version 31",Output_Session1_J00720751_gwhqz7yql9.csv,"updated stim.csv",Version31.csv,"Mobile Safari 15.6","Mobile Phone",iOS,69.85.216.103
+000719536rln,ahjq2jlmxz,2022-11-22T22:23:21+00:00,1,32,"Version 32",Output_Session1_000719536rln_ahjq2jlmxz.csv,"updated stim.csv",Version32.csv,"Chrome 107.0",Desktop,Win10,162.0.156.71
+J00710132_mku,9ox3yma62u,2022-11-23T14:36:11+00:00,1,33,"Version 33",Output_Session1_J00710132_mku_9ox3yma62u.csv,"updated stim.csv",Version33.csv,"Safari 16.1",Desktop,MacOSX,98.230.18.66
+J00710311_tmv,dn47rl8knu,2022-11-24T09:37:47+00:00,1,34,"Version 34",Output_Session1_J00710311_tmv_dn47rl8knu.csv,"updated stim.csv",Version34.csv,"Chrome 107.0 for iOS",Tablet,iOS,23.115.189.55
+J00714015,riqeo58wdu,2022-11-24T15:11:46+00:00,1,35,"Version 35",Output_Session1_J00714015_riqeo58wdu.csv,"updated stim.csv",Version35.csv,"Mobile Safari 16.0","Mobile Phone",iOS,104.7.243.139
+J00714015_jbf,m2kxfu8rud,2022-11-24T15:46:58+00:00,1,36,"Version 36",Output_Session1_J00714015_jbf_m2kxfu8rud.csv,"updated stim.csv",Version36.csv,"Mobile Safari 16.0","Mobile Phone",iOS,174.202.197.18
+J00714015_jbf,8dw1nrtfd8,2022-11-24T15:47:07+00:00,1,37,"Version 37",Output_Session1_J00714015_jbf_8dw1nrtfd8.csv,"updated stim.csv",Version37.csv,"Mobile Safari 16.0","Mobile Phone",iOS,104.7.243.139
+J00711068IR,h7jbiuxm7h,2022-11-24T20:23:07+00:00,1,38,"Version 38",Output_Session1_J00711068IR_h7jbiuxm7h.csv,"updated stim.csv",Version38.csv,"Chrome 107.0",Desktop,Win10,47.36.200.225
+J00715836_FL,aw1mstizcl,2022-11-25T15:38:17+00:00,1,39,"Version 39",Output_Session1_J00715836_FL_aw1mstizcl.csv,"updated stim.csv",Version39.csv,"Chrome 107.0",Desktop,Win10,97.103.196.57
+J00720106_krh,q2zcb26z1w,2022-11-25T18:47:54+00:00,1,40,"Version 40",Output_Session1_J00720106_krh_q2zcb26z1w.csv,"updated stim.csv",Version40.csv,"Chrome 107.0",Desktop,Win10,99.36.25.49
+J00670274,r18m7f0a8y,2022-11-26T20:30:30+00:00,1,41,"Version 41",Output_Session1_J00670274_r18m7f0a8y.csv,"updated stim.csv",Version41.csv,"Chrome 107.0",Desktop,MacOSX,68.54.166.224
+J00690160_bnt,co0sir5vyw,2022-11-26T21:04:04+00:00,1,42,"Version 42",Output_Session1_J00690160_bnt_co0sir5vyw.csv,"updated stim.csv",Version42.csv,"Chrome 107.0",Desktop,Win10,99.36.31.172
+DDB,ie7dj4s2t4,2022-11-26T21:33:23+00:00,1,43,"Version 43",Output_Session1_DDB_ie7dj4s2t4.csv,"updated stim.csv",Version43.csv,"Mobile Safari 16.0","Mobile Phone",iOS,69.85.216.104
+J00705712_TCR,sfich9rm33,2022-11-27T00:44:14+00:00,1,44,"Version 44",Output_Session1_J00705712_TCR_sfich9rm33.csv,"updated stim.csv",Version44.csv,"Chrome 107.0 for iOS",Tablet,iOS,73.118.105.235
+nfw2121,ng7j30wg0c,2022-11-27T01:25:40+00:00,1,45,"Version 45",Output_Session1_nfw2121_ng7j30wg0c.csv,"updated stim.csv",Version45.csv,"Mobile Safari 16.0","Mobile Phone",iOS,142.154.141.200
+J00690096ED,ta8xyttp7t,2022-11-27T02:40:56+00:00,1,46,"Version 46",Output_Session1_J00690096ED_ta8xyttp7t.csv,"updated stim.csv",Version46.csv,"Chrome 107.0",Desktop,Win10,172.56.225.14
+J00718883PH,gsck9io4f6,2022-11-27T03:22:55+00:00,1,47,"Version 47",Output_Session1_J00718883PH_gsck9io4f6.csv,"updated stim.csv",Version47.csv,DefaultProperties,unknown,unknown,68.57.180.79
+J00712344_jir,d3xc5gneaj,2022-11-27T19:09:00+00:00,1,48,"Version 48",Output_Session1_J00712344_jir_d3xc5gneaj.csv,"updated stim.csv",Version48.csv,"Chrome 107.0",Desktop,MacOSX,108.169.224.65
+J00685260,f7wzh5y4ip,2022-11-27T21:21:58+00:00,1,49,"Version 49",Output_Session1_J00685260_f7wzh5y4ip.csv,"updated stim.csv",Version49.csv,"Safari 15.5",Desktop,MacOSX,162.225.250.229
+J00685260_EMG,5gvtuxjrxy,2022-11-27T21:22:17+00:00,1,50,"Version 50",Output_Session1_J00685260_EMG_5gvtuxjrxy.csv,"updated stim.csv",Version50.csv,"Safari 15.5",Desktop,MacOSX,162.225.250.229
+J00707190_ask,fr7jt7ubyh,2022-11-27T22:56:18+00:00,1,51,"Version 51",Output_Session1_J00707190_ask_fr7jt7ubyh.csv,"updated stim.csv",Version51.csv,"Chrome 105.0",Desktop,MacOSX,160.2.24.97
+J00707050_hms,gdchvq9hd3,2022-11-28T03:12:50+00:00,1,52,"Version 52",Output_Session1_J00707050_hms_gdchvq9hd3.csv,"updated stim.csv",Version52.csv,"Mobile Safari 15.6","Mobile Phone",iOS,166.196.82.117
+J00709083_tsb,b707txv3ya,2022-11-28T14:59:08+00:00,1,53,"Version 53",Output_Session1_J00709083_tsb_b707txv3ya.csv,"updated stim.csv",Version53.csv,"Chrome 107.0",Desktop,Win10,69.85.217.201
+j00716025KSH,jd1cuc8lgx,2022-11-28T15:34:23+00:00,1,54,"Version 54",Output_Session1_j00716025KSH_jd1cuc8lgx.csv,"updated stim.csv",Version54.csv,"Safari 16.0",Desktop,MacOSX,69.85.215.27
+J00724033AW,y71urmvj00,2022-11-28T16:31:26+00:00,1,55,"Version 55",Output_Session1_J00724033AW_y71urmvj00.csv,"updated stim.csv",Version55.csv,"Chrome 107.0",Desktop,MacOSX,69.85.215.41
+ECMJ00713421,pan2sk7qeg,2022-11-28T18:22:12+00:00,1,56,"Version 56",Output_Session1_ECMJ00713421_pan2sk7qeg.csv,"updated stim.csv",Version56.csv,"Chrome 107.0",Desktop,MacOSX,69.85.215.48
+J00692277_las,f1rl5yy229,2022-11-28T18:29:19+00:00,1,57,"Version 57",Output_Session1_J00692277_las_f1rl5yy229.csv,"updated stim.csv",Version57.csv,"Chrome 107.0",Desktop,Win10,69.85.216.140
+beagraves,7oii8j90z0,2022-11-28T20:07:03+00:00,1,58,"Version 58",Output_Session1_beagraves_7oii8j90z0.csv,"updated stim.csv",Version58.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.134
+J00670561_LPM,pybr634w2i,2022-11-28T21:46:51+00:00,1,59,"Version 59",Output_Session1_J00670561_LPM_pybr634w2i.csv,"updated stim.csv",Version59.csv,"Chrome 107.0",Desktop,Win10,68.63.49.47
+J00718061_MAL,eleybqacxy,2022-11-28T22:53:47+00:00,1,60,"Version 60",Output_Session1_J00718061_MAL_eleybqacxy.csv,"updated stim.csv",Version60.csv,"Chrome 107.0",Desktop,MacOSX,69.85.215.45
+J00708685_egr,zqs03tmjqw,2022-11-28T23:03:28+00:00,1,61,"Version 61",Output_Session1_J00708685_egr_zqs03tmjqw.csv,"updated stim.csv",Version61.csv,"Chrome 107.0",Desktop,Win10,69.85.216.102
+J00674295_ASG,flb39693w4,2022-11-29T00:57:48+00:00,1,62,"Version 62",Output_Session1_J00674295_ASG_flb39693w4.csv,"updated stim.csv",Version62.csv,"Chrome 107.0",Desktop,MacOSX,67.177.71.160
+J00726983_JJC,ehomzd9gnw,2022-11-29T02:19:00+00:00,1,63,"Version 63",Output_Session1_J00726983_JJC_ehomzd9gnw.csv,"updated stim.csv",Version63.csv,"Mobile Safari 15.5","Mobile Phone",iOS,67.177.66.33
+J00716798GC,n2x1ztb4t9,2022-11-29T02:49:47+00:00,1,64,"Version 64",Output_Session1_J00716798GC_n2x1ztb4t9.csv,"updated stim.csv",Version64.csv,"Mobile Safari 16.1","Mobile Phone",iOS,69.85.216.103
+J00716798GC,amdrgrq8kl,2022-11-29T02:51:05+00:00,1,65,"Version 65",Output_Session1_J00716798GC_amdrgrq8kl.csv,"updated stim.csv",Version65.csv,"Mobile Safari 16.1","Mobile Phone",iOS,69.85.216.103
+J00716798GC,ekccx7x5g5,2022-11-29T02:51:52+00:00,1,66,"Version 66",Output_Session1_J00716798GC_ekccx7x5g5.csv,"updated stim.csv",Version66.csv,"Mobile Safari 16.1","Mobile Phone",iOS,69.85.216.103
+J00707190,rxi0bc6xhi,2022-11-29T02:54:31+00:00,1,67,"Version 67",Output_Session1_J00707190_rxi0bc6xhi.csv,"updated stim.csv",Version67.csv,"Chrome 105.0",Desktop,MacOSX,69.85.216.104
+J00661685_Mmkk,9qinvug4hi,2022-11-29T03:03:58+00:00,1,68,"Version 68",Output_Session1_J00661685_Mmkk_9qinvug4hi.csv,"updated stim.csv",Version68.csv,"Firefox 98.0",Desktop,MacOSX,68.234.165.68
+J00709884amw,pp2tesd79o,2022-11-29T03:43:08+00:00,1,69,"Version 69",Output_Session1_J00709884amw_pp2tesd79o.csv,"updated stim.csv",Version69.csv,"Chrome 106.0",Desktop,MacOSX,69.85.216.102
+egn2122EGN,kbp60xxy4v,2022-11-29T05:28:26+00:00,1,70,"Version 70",Output_Session1_egn2122EGN_kbp60xxy4v.csv,"updated stim.csv",Version70.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.108
+J007-5784,kiufsjmsqj,2022-11-29T17:04:38+00:00,1,71,"Version 71",Output_Session1_J007-5784_kiufsjmsqj.csv,"updated stim.csv",Version71.csv,"Safari 14.1",Desktop,MacOSX,69.85.215.54
+J00705784_mel,7raabqe8ht,2022-11-29T17:05:06+00:00,1,72,"Version 72",Output_Session1_J00705784_mel_7raabqe8ht.csv,"updated stim.csv",Version72.csv,"Safari 14.1",Desktop,MacOSX,69.85.215.54
+j719536rln,2r4hn0i79i,2022-11-29T17:25:44+00:00,1,73,"Version 73",Output_Session1_j719536rln_2r4hn0i79i.csv,"updated stim.csv",Version73.csv,"Chrome 107.0",Desktop,Win10,174.203.33.205
+J00700954map,p2bwve6x3b,2022-11-29T19:51:21+00:00,1,74,"Version 74",Output_Session1_J00700954map_p2bwve6x3b.csv,"updated stim.csv",Version74.csv,DefaultProperties,unknown,unknown,69.85.216.140
+J00705784,pztoqf6h7t,2022-11-29T20:37:37+00:00,1,75,"Version 75",Output_Session1_J00705784_pztoqf6h7t.csv,"updated stim.csv",Version75.csv,"Safari 14.1",Desktop,MacOSX,69.85.215.31
+J00706970_LAD,uyiqnriivf,2022-11-29T20:57:53+00:00,1,76,"Version 76",Output_Session1_J00706970_LAD_uyiqnriivf.csv,"updated stim.csv",Version76.csv,"Safari 15.4",Desktop,MacOSX,69.85.216.142
+J00716731_egc,n4er13nvtj,2022-11-29T22:31:03+00:00,1,77,"Version 77",Output_Session1_J00716731_egc_n4er13nvtj.csv,"updated stim.csv",Version77.csv,"Safari 15.6.1",Desktop,MacOSX,67.177.67.230
+KEN,1yo1y3nil9,2022-11-29T23:29:25+00:00,1,78,"Version 78",Output_Session1_KEN_1yo1y3nil9.csv,"updated stim.csv",Version78.csv,"Safari 15.6.1",Desktop,MacOSX,68.35.211.255
+Ken,bv6n5wjzed,2022-11-29T23:36:15+00:00,1,79,"Version 79",Output_Session1_Ken_bv6n5wjzed.csv,"updated stim.csv",Version79.csv,"Safari 15.6.1",Desktop,MacOSX,68.35.211.255
+J00709221,tvu0skfkpo,2022-11-29T23:38:17+00:00,1,80,"Version 80",Output_Session1_J00709221_tvu0skfkpo.csv,"updated stim.csv",Version80.csv,"Safari 15.6.1",Desktop,MacOSX,108.217.70.105
+J00643621_teg,cprxctg3lv,2022-11-30T01:00:43+00:00,1,81,"Version 81",Output_Session1_J00643621_teg_cprxctg3lv.csv,"updated stim.csv",Version81.csv,"Edge 107.0",Desktop,Win10,69.254.168.117
+J00724197_ALM,qew7fefol5,2022-11-30T02:03:49+00:00,1,82,"Version 82",Output_Session1_J00724197_ALM_qew7fefol5.csv,"updated stim.csv",Version82.csv,DefaultProperties,unknown,unknown,69.85.216.139
+J00719536_rln,g1dsnpiepa,2022-11-30T02:18:02+00:00,1,83,"Version 83",Output_Session1_J00719536_rln_g1dsnpiepa.csv,"updated stim.csv",Version83.csv,"Chrome 107.0",Desktop,Win10,162.0.156.69
+J00717313JG,y5uqj4pahk,2022-11-30T02:21:13+00:00,1,84,"Version 84",Output_Session1_J00717313JG_y5uqj4pahk.csv,"updated stim.csv",Version84.csv,"Chrome 107.0",Desktop,MacOSX,45.30.221.251
+J00712873_tj,w6xqhio03z,2022-11-30T02:43:49+00:00,1,85,"Version 85",Output_Session1_J00712873_tj_w6xqhio03z.csv,"updated stim.csv",Version85.csv,"Edge 107.0",Desktop,Win10,69.85.216.116
+aidanwhiteAB,hix78smz0t,2022-11-30T03:15:11+00:00,1,86,"Version 86",Output_Session1_aidanwhiteAB_hix78smz0t.csv,"updated stim.csv",Version86.csv,"Chrome 107.0",Desktop,Win10,69.85.216.103
+J00689728te,p8jmor8epm,2022-11-30T03:39:34+00:00,1,87,"Version 87",Output_Session1_J00689728te_p8jmor8epm.csv,"updated stim.csv",Version87.csv,"Chrome 107.0 for iOS",Tablet,iOS,166.196.82.96
+J00711776_TEF,wdoi7m9ay7,2022-11-30T03:51:46+00:00,1,88,"Version 88",Output_Session1_J00711776_TEF_wdoi7m9ay7.csv,"updated stim.csv",Version88.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.103
+J00557817DPD,mvzwttqm9n,2022-11-30T03:57:04+00:00,1,89,"Version 89",Output_Session1_J00557817DPD_mvzwttqm9n.csv,"updated stim.csv",Version89.csv,"Firefox 107.0",Desktop,Win10,162.204.172.159
+j00713554,9bdq2x70tk,2022-11-30T06:08:42+00:00,1,90,"Version 90",Output_Session1_j00713554_9bdq2x70tk.csv,"updated stim.csv",Version90.csv,"Edge 107.0",Desktop,Win10,67.61.111.73
+dnd2121,xz5mzlr7pg,2022-11-30T06:15:14+00:00,1,91,"Version 91",Output_Session1_dnd2121_xz5mzlr7pg.csv,"updated stim.csv",Version91.csv,"Safari 15.1",Desktop,MacOSX,69.85.216.140
+J00714038_blj,c483uykg5i,2022-11-30T06:50:01+00:00,1,92,"Version 92",Output_Session1_J00714038_blj_c483uykg5i.csv,"updated stim.csv",Version92.csv,"Chrome 107.0",Desktop,Win10,69.85.216.103
+J00714038_blj,d5b9kq2tdu,2022-11-30T06:56:48+00:00,1,93,"Version 93",Output_Session1_J00714038_blj_d5b9kq2tdu.csv,"updated stim.csv",Version93.csv,"Chrome 107.0",Desktop,Win10,69.85.216.103
+J00717242_ceb,18xl8cjy8c,2022-11-30T17:08:37+00:00,1,94,"Version 94",Output_Session1_J00717242_ceb_18xl8cjy8c.csv,"updated stim.csv",Version94.csv,"Chrome 107.0",Desktop,MacOSX,69.85.215.45
+J00721054_EJW,e3n5sng7mn,2022-11-30T19:02:40+00:00,1,95,"Version 95",Output_Session1_J00721054_EJW_e3n5sng7mn.csv,"updated stim.csv",Version95.csv,"Chrome 106.0",Desktop,Win10,98.183.27.206
+J00717370_kmt,gbroy234yi,2022-11-30T20:33:38+00:00,1,96,"Version 96",Output_Session1_J00717370_kmt_gbroy234yi.csv,"updated stim.csv",Version96.csv,"Chrome 105.0",Desktop,MacOSX,69.85.216.102
+J00717962sdpr,xcu38pepyo,2022-11-30T21:22:43+00:00,1,97,"Version 97",Output_Session1_J00717962sdpr_xcu38pepyo.csv,"updated stim.csv",Version97.csv,"Safari 15.6.1",Desktop,MacOSX,69.85.215.45
+J00715556CM,ybbydeqfun,2022-11-30T22:08:58+00:00,1,98,"Version 98",Output_Session1_J00715556CM_ybbydeqfun.csv,"updated stim.csv",Version98.csv,"Chrome 107.0",Desktop,Win10,69.85.216.102
+IANB,q8gf8ghp50,2022-11-30T23:01:51+00:00,1,99,"Version 99",Output_Session1_IANB_q8gf8ghp50.csv,"updated stim.csv",Version99.csv,"Chrome 107.0 for iOS",Tablet,iOS,69.85.216.103
+J00696262,ak1nbpejbe,2022-11-30T23:47:57+00:00,1,100,"Version 100",Output_Session1_J00696262_ak1nbpejbe.csv,"updated stim.csv",Version100.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.140
+J00713425_LAP,gyxrza96u1,2022-12-01T00:01:08+00:00,1,1,"Version 1",Output_Session1_J00713425_LAP_gyxrza96u1.csv,"updated stim.csv",Version1.csv,"Firefox 107.0",Desktop,MacOSX,23.117.99.65
+J00715325AW,0qtszajkvj,2022-12-01T01:41:08+00:00,1,2,"Version 2",Output_Session1_J00715325AW_0qtszajkvj.csv,"updated stim.csv",Version2.csv,"Safari 16.0",Desktop,MacOSX,69.85.215.45
+J00722196LJK,8bwnugyfvm,2022-12-01T02:27:02+00:00,1,3,"Version 3",Output_Session1_J00722196LJK_8bwnugyfvm.csv,"updated stim.csv",Version3.csv,"Chrome 107.0",Desktop,MacOSX,173.21.118.204
+J00716178DDD,x27zemiudu,2022-12-01T02:27:28+00:00,1,4,"Version 4",Output_Session1_J00716178DDD_x27zemiudu.csv,"updated stim.csv",Version4.csv,"Edge 107.0",Desktop,Win10,50.242.157.77
+J00605047_jaf,tts6r08esk,2022-12-01T03:06:37+00:00,1,5,"Version 5",Output_Session1_J00605047_jaf_tts6r08esk.csv,"updated stim.csv",Version5.csv,"Chrome 106.0",Desktop,Win10,68.35.204.214
+J00710626AB,wh1nhi1sd9,2022-12-01T03:23:35+00:00,1,6,"Version 6",Output_Session1_J00710626AB_wh1nhi1sd9.csv,"updated stim.csv",Version6.csv,"Edge 107.0",Desktop,Win10,99.180.88.204
+J00710626AB,rvc5qht2l7,2022-12-01T03:34:45+00:00,1,7,"Version 7",Output_Session1_J00710626AB_rvc5qht2l7.csv,"updated stim.csv",Version7.csv,"Edge 107.0",Desktop,Win10,99.180.88.204
+J00711570_MRL,12q3txr873,2022-12-01T04:28:55+00:00,1,8,"Version 8",Output_Session1_J00711570_MRL_12q3txr873.csv,"updated stim.csv",Version8.csv,"Edge 107.0",Desktop,Win10,166.196.82.13
+j00710919,ikadkrg7dh,2022-12-01T04:30:33+00:00,1,9,"Version 9",Output_Session1_j00710919_ikadkrg7dh.csv,"updated stim.csv",Version9.csv,"Edge 107.0",Desktop,Win10,73.118.41.231
+J00708575C.E,7g2pdbq0aw,2022-12-01T04:49:38+00:00,1,10,"Version 10",Output_Session1_J00708575C.E_7g2pdbq0aw.csv,"updated stim.csv",Version10.csv,"Chrome Generic",Desktop,Win10,107.77.237.189
+j00705948_kaj,thx41i1tko,2022-12-01T05:13:29+00:00,1,11,"Version 11",Output_Session1_j00705948_kaj_thx41i1tko.csv,"updated stim.csv",Version11.csv,"Safari 16.1",Desktop,MacOSX,69.85.216.102
+J00693751_amc,i5glkpqyco,2022-12-01T05:24:07+00:00,1,12,"Version 12",Output_Session1_J00693751_amc_i5glkpqyco.csv,"updated stim.csv",Version12.csv,"Safari 14.1",Desktop,MacOSX,68.35.211.115
+j00696237dk,u3osxo84cm,2022-12-01T05:41:20+00:00,1,13,"Version 13",Output_Session1_j00696237dk_u3osxo84cm.csv,"updated stim.csv",Version13.csv,"Chrome 107.0",Desktop,MacOSX,23.115.189.52
+j00718171_ivh,m9ojga76ka,2022-12-01T13:58:37+00:00,1,14,"Version 14",Output_Session1_j00718171_ivh_m9ojga76ka.csv,"updated stim.csv",Version14.csv,"Chrome 104.0",Desktop,MacOSX,166.196.61.72
+w10113637,jds5fz9uzg,2022-12-01T16:41:35+00:00,1,15,"Version 15",Output_Session1_w10113637_jds5fz9uzg.csv,"updated stim.csv",Version15.csv,"Safari 15.3",Desktop,MacOSX,69.85.216.134
+J00696344_jbh,pq5rslvfbf,2022-12-01T16:42:06+00:00,1,16,"Version 16",Output_Session1_J00696344_jbh_pq5rslvfbf.csv,"updated stim.csv",Version16.csv,"Safari 15.3",Desktop,MacOSX,69.85.216.134
+J00698744EM,jbstjdmhdm,2022-12-01T16:45:05+00:00,1,17,"Version 17",Output_Session1_J00698744EM_jbstjdmhdm.csv,"updated stim.csv",Version17.csv,"Safari 14.0",Desktop,MacOSX,68.57.181.174
+J00698744EM,nkbhrz8ff3,2022-12-01T16:46:18+00:00,1,18,"Version 18",Output_Session1_J00698744EM_nkbhrz8ff3.csv,"updated stim.csv",Version18.csv,"Safari 14.0",Desktop,MacOSX,68.57.181.174
+J00711528_cec,lj60eivvqs,2022-12-01T17:06:51+00:00,1,19,"Version 19",Output_Session1_J00711528_cec_lj60eivvqs.csv,"updated stim.csv",Version19.csv,"Safari 15.4",Desktop,MacOSX,108.87.112.42
+J00676222mlm,az40kkuiai,2022-12-01T17:46:20+00:00,1,20,"Version 20",Output_Session1_J00676222mlm_az40kkuiai.csv,"updated stim.csv",Version20.csv,"Safari 16.1",Desktop,MacOSX,69.85.215.25
+J00717711_ACG,3asagjy4xo,2022-12-01T18:26:42+00:00,1,21,"Version 21",Output_Session1_J00717711_ACG_3asagjy4xo.csv,"updated stim.csv",Version21.csv,"Edge 107.0",Desktop,Win10,69.85.216.104
+piaculverPC,e8d5q2ga48,2022-12-01T19:16:33+00:00,1,22,"Version 22",Output_Session1_piaculverPC_e8d5q2ga48.csv,"updated stim.csv",Version22.csv,"Chrome 107.0",Desktop,Win10,69.85.216.109
+j00722198,ajtnd0mcmj,2022-12-01T20:01:49+00:00,1,23,"Version 23",Output_Session1_j00722198_ajtnd0mcmj.csv,"updated stim.csv",Version23.csv,"Edge 107.0",Desktop,Win10,69.85.215.45
+J00722681_LT,llq3a8r6q4,2022-12-01T20:19:42+00:00,1,24,"Version 24",Output_Session1_J00722681_LT_llq3a8r6q4.csv,"updated stim.csv",Version24.csv,"Edge 107.0",Desktop,Win10,69.85.215.31
+j00722198_crm,o8ok1k9muz,2022-12-01T20:35:23+00:00,1,25,"Version 25",Output_Session1_j00722198_crm_o8ok1k9muz.csv,"updated stim.csv",Version25.csv,"Edge 107.0",Desktop,Win10,69.85.215.45
+J00718888_hal,tchj0l7zqu,2022-12-01T21:10:27+00:00,1,26,"Version 26",Output_Session1_J00718888_hal_tchj0l7zqu.csv,"updated stim.csv",Version26.csv,"Safari 16.0",Desktop,MacOSX,69.85.216.108
+J00709993_mgs,bob0462wcw,2022-12-01T22:40:51+00:00,1,27,"Version 27",Output_Session1_J00709993_mgs_bob0462wcw.csv,"updated stim.csv",Version27.csv,"Safari 15.5",Desktop,MacOSX,69.85.216.103
+J00716927AW,61ggwo58iu,2022-12-01T22:55:48+00:00,1,28,"Version 28",Output_Session1_J00716927AW_61ggwo58iu.csv,"updated stim.csv",Version28.csv,"Edge 107.0",Desktop,Win10,69.85.216.108
+J00692559_srt,51ia340gub,2022-12-01T23:19:15+00:00,1,29,"Version 29",Output_Session1_J00692559_srt_51ia340gub.csv,"updated stim.csv",Version29.csv,"Chrome 106.0",Desktop,MacOSX,207.229.101.185
+j00709656_end,ss6uv544vh,2022-12-01T23:55:04+00:00,1,30,"Version 30",Output_Session1_j00709656_end_ss6uv544vh.csv,"updated stim.csv",Version30.csv,"Safari 15.6.1",Desktop,MacOSX,69.85.216.103
+J00699453_GCM,zh8p2ee8vd,2022-12-02T00:41:47+00:00,1,31,"Version 31",Output_Session1_J00699453_GCM_zh8p2ee8vd.csv,"updated stim.csv",Version31.csv,"Chrome 107.0",Desktop,Win10,75.52.160.161
+J00697904_dst,5b2ho7v9vz,2022-12-02T01:51:40+00:00,1,32,"Version 32",Output_Session1_J00697904_dst_5b2ho7v9vz.csv,"updated stim.csv",Version32.csv,"Chrome 105.0",Desktop,MacOSX,69.85.215.73
+J00663767_RDH,p56qkvipiv,2022-12-02T04:53:06+00:00,1,33,"Version 33",Output_Session1_J00663767_RDH_p56qkvipiv.csv,"updated stim.csv",Version33.csv,"Chrome 103.0",Desktop,MacOSX,108.76.244.183
+J00692559_srt,g0ns6f4y36,2022-12-02T06:25:09+00:00,1,34,"Version 34",Output_Session1_J00692559_srt_g0ns6f4y36.csv,"updated stim.csv",Version34.csv,"Chrome 106.0",Desktop,MacOSX,207.229.101.185
+J00697658_KL,gkypdxrkjb,2022-12-02T06:45:13+00:00,1,35,"Version 35",Output_Session1_J00697658_KL_gkypdxrkjb.csv,"updated stim.csv",Version35.csv,"Chrome Generic",Desktop,Win10,73.42.37.134
+J00725431_DT,0sujg3s70r,2023-01-26T15:06:14+00:00,1,36,"Version 36",Output_Session1_J00725431_DT_0sujg3s70r.csv,"updated stim.csv",Version36.csv,"Chrome 109.0",Desktop,MacOSX,174.203.75.146
+Hcs071604HCS,jjei2wkj77,2023-01-26T18:41:18+00:00,1,37,"Version 37",Output_Session1_Hcs071604HCS_jjei2wkj77.csv,"updated stim.csv",Version37.csv,"Chrome 109.0",Desktop,MacOSX,69.85.216.103
+J00709222_rab,tzczz5er2g,2023-01-30T15:19:01+00:00,1,38,"Version 38",Output_Session1_J00709222_rab_tzczz5er2g.csv,"updated stim.csv",Version38.csv,"Chrome 108.0",Desktop,MacOSX,69.85.215.48
+J00670519_AMS,1ayfrdf79j,2023-01-30T23:25:07+00:00,1,39,"Version 39",Output_Session1_J00670519_AMS_1ayfrdf79j.csv,"updated stim.csv",Version39.csv,"Safari 16.0",Desktop,MacOSX,69.85.216.140
+j00267298_sai,wmdeffumpy,2023-01-30T23:43:31+00:00,1,40,"Version 40",Output_Session1_j00267298_sai_wmdeffumpy.csv,"updated stim.csv",Version40.csv,"Edge 109.0",Desktop,Win10,75.52.161.62
+J709783_ncb,hut555vyoi,2023-01-31T16:16:27+00:00,1,41,"Version 41",Output_Session1_J709783_ncb_hut555vyoi.csv,"updated stim.csv",Version41.csv,"Firefox 109.0",Desktop,MacOSX,69.85.215.41
+j00695175T.C,17y6c8hq1a,2023-01-31T21:38:42+00:00,1,42,"Version 42",Output_Session1_j00695175T.C_17y6c8hq1a.csv,"updated stim.csv",Version42.csv,"Mobile Safari 16.1","Mobile Phone",iOS,108.91.160.215
+J00711051AN,d4vr4xdqko,2023-01-31T23:44:10+00:00,1,43,"Version 43",Output_Session1_J00711051AN_d4vr4xdqko.csv,"updated stim.csv",Version43.csv,"Chrome 109.0",Desktop,MacOSX,174.203.74.28
+J00714780_krr,jq2jo2rasu,2023-02-03T15:16:09+00:00,1,44,"Version 44",Output_Session1_J00714780_krr_jq2jo2rasu.csv,"updated stim.csv",Version44.csv,"Chrome 99.0",Desktop,MacOSX,45.17.101.89
+J00698572,6blxg3vdul,2023-02-05T05:36:51+00:00,1,45,"Version 45",Output_Session1_J00698572_6blxg3vdul.csv,"updated stim.csv",Version45.csv,"Safari 16.2",Desktop,MacOSX,69.85.216.114
+J00698572,envxxuw4f5,2023-02-05T05:39:21+00:00,1,46,"Version 46",Output_Session1_J00698572_envxxuw4f5.csv,"updated stim.csv",Version46.csv,"Safari 16.2",Desktop,MacOSX,69.85.216.114
+J00718158CGA,g64bneuh3k,2023-02-07T16:09:54+00:00,1,47,"Version 47",Output_Session1_J00718158CGA_g64bneuh3k.csv,"updated stim.csv",Version47.csv,"Chrome 109.0",Desktop,MacOSX,69.85.215.54
+J00724298TJP,otsse5qjgk,2023-02-07T17:21:06+00:00,1,48,"Version 48",Output_Session1_J00724298TJP_otsse5qjgk.csv,"updated stim.csv",Version48.csv,"Chrome 109.0",Desktop,Win10,69.85.215.54
+J00729676_mo,hh2mha9d87,2023-02-08T20:21:45+00:00,1,49,"Version 49",Output_Session1_J00729676_mo_hh2mha9d87.csv,"updated stim.csv",Version49.csv,"Chrome 108.0",Desktop,MacOSX,69.85.215.41
+J00706891_rea,c7aqv3ycrw,2023-02-09T03:42:17+00:00,1,50,"Version 50",Output_Session1_J00706891_rea_c7aqv3ycrw.csv,"updated stim.csv",Version50.csv,"Safari 15.2",Desktop,MacOSX,69.85.216.103
+J00726870_Mrs,dz4b0qop25,2023-02-11T18:36:29+00:00,1,51,"Version 51",Output_Session1_J00726870_Mrs_dz4b0qop25.csv,"updated stim.csv",Version51.csv,DefaultProperties,unknown,unknown,173.22.197.90
+J00731591,gcv2q00a9n,2023-02-13T00:49:44+00:00,1,52,"Version 52",Output_Session1_J00731591_gcv2q00a9n.csv,"updated stim.csv",Version52.csv,"Safari Generic",Desktop,MacOSX,198.28.182.22
+J00705847_cen,mu5eav3uwm,2023-02-14T21:42:50+00:00,1,53,"Version 53",Output_Session1_J00705847_cen_mu5eav3uwm.csv,"updated stim.csv",Version53.csv,"Chrome 107.0",Desktop,MacOSX,69.85.215.45
+Joo267298s_si,7a9mhz9zae,2023-02-16T00:25:36+00:00,1,54,"Version 54",Output_Session1_Joo267298s_si_7a9mhz9zae.csv,"updated stim.csv",Version54.csv,"Edge 109.0",Desktop,Win10,75.52.161.62
+J00691895_ekm,lfo53i1z5e,2023-02-17T01:51:01+00:00,1,55,"Version 55",Output_Session1_J00691895_ekm_lfo53i1z5e.csv,"updated stim.csv",Version55.csv,"Chrome 109.0",Desktop,Win10,23.117.98.126
+J00709223lka,6ktcidsq7k,2023-02-17T15:36:51+00:00,1,56,"Version 56",Output_Session1_J00709223lka_6ktcidsq7k.csv,"updated stim.csv",Version56.csv,"Chrome 110.0",Desktop,Win10,69.85.216.103
+J00670539_JCB,4xfoyofel2,2023-02-19T04:54:56+00:00,1,57,"Version 57",Output_Session1_J00670539_JCB_4xfoyofel2.csv,"updated stim.csv",Version57.csv,"Chrome 110.0",Desktop,Win10,69.85.216.118
+J00709530_gcr,wrr1l4gnbz,2023-02-20T03:35:01+00:00,1,58,"Version 58",Output_Session1_J00709530_gcr_wrr1l4gnbz.csv,"updated stim.csv",Version58.csv,"Chrome 104.0",Desktop,MacOSX,69.85.216.120
+J00691676_AKG,k238z9cdos,2023-02-20T17:49:20+00:00,1,59,"Version 59",Output_Session1_J00691676_AKG_k238z9cdos.csv,"updated stim.csv",Version59.csv,"Chrome 110.0",Desktop,Win10,75.114.35.122
+J00736872LR,jw87zicsmz,2023-02-20T18:23:06+00:00,1,60,"Version 60",Output_Session1_J00736872LR_jw87zicsmz.csv,"updated stim.csv",Version60.csv,"Chrome 103.0",Desktop,MacOSX,162.238.90.65
+J00711133,1nq02elocm,2023-02-23T01:25:28+00:00,1,61,"Version 61",Output_Session1_J00711133_1nq02elocm.csv,"updated stim.csv",Version61.csv,"Chrome 110.0",Desktop,MacOSX,69.85.216.109
+J00706629_mab,8y45qn5e4k,2023-02-23T16:50:35+00:00,1,62,"Version 62",Output_Session1_J00706629_mab_8y45qn5e4k.csv,"updated stim.csv",Version62.csv,"Safari 16.2",Desktop,MacOSX,69.85.216.102
+J00691104_hbg,0w43l2ba7g,2023-02-23T20:04:40+00:00,1,63,"Version 63",Output_Session1_J00691104_hbg_0w43l2ba7g.csv,"updated stim.csv",Version63.csv,"Chrome 110.0",Desktop,Win10,99.36.24.182
+J00267298SI,3n15f6mhf3,2023-02-24T01:09:53+00:00,1,64,"Version 64",Output_Session1_J00267298SI_3n15f6mhf3.csv,"updated stim.csv",Version64.csv,"Edge 109.0",Desktop,Win10,75.52.161.62
+j00316490dl,zv0xovk36c,2023-02-24T03:02:53+00:00,1,65,"Version 65",Output_Session1_j00316490dl_zv0xovk36c.csv,"updated stim.csv",Version65.csv,"Mobile Safari Generic","Mobile Phone",iOS,50.86.55.25
+J00714892_kbf,rg2wpvvq8r,2023-02-24T18:32:43+00:00,1,66,"Version 66",Output_Session1_J00714892_kbf_rg2wpvvq8r.csv,"updated stim.csv",Version66.csv,"Safari 15.6.1",Desktop,MacOSX,69.85.215.25
+J0715102HP,ocucjfplcc,2023-02-24T22:05:28+00:00,1,67,"Version 67",Output_Session1_J0715102HP_ocucjfplcc.csv,"updated stim.csv",Version67.csv,"Chrome 110.0",Desktop,Win10,104.58.144.229
+slh,28dcjztuos,2023-02-25T19:55:04+00:00,1,68,"Version 68",Output_Session1_slh_28dcjztuos.csv,"updated stim.csv",Version68.csv,DefaultProperties,unknown,unknown,69.223.220.170
+J00687566_brc,nr61378lyw,2023-02-27T16:53:02+00:00,1,69,"Version 69",Output_Session1_J00687566_brc_nr61378lyw.csv,"updated stim.csv",Version69.csv,"Edge 110.0",Desktop,Win10,108.195.181.68
+j00724513mm,bx9v0sq5y0,2023-03-01T05:55:39+00:00,1,70,"Version 70",Output_Session1_j00724513mm_bx9v0sq5y0.csv,"updated stim.csv",Version70.csv,"Safari 16.1",Desktop,MacOSX,68.112.71.131
+J00706629MB,dlyvajm503,2023-03-01T15:42:23+00:00,1,71,"Version 71",Output_Session1_J00706629MB_dlyvajm503.csv,"updated stim.csv",Version71.csv,"Safari Generic",Desktop,MacOSX,69.85.215.48
+J00728442_ow,wwyfd9ferb,2023-03-02T06:05:43+00:00,1,72,"Version 72",Output_Session1_J00728442_ow_wwyfd9ferb.csv,"updated stim.csv",Version72.csv,DefaultProperties,unknown,unknown,69.85.216.140
+J00692242_IDR,a1h9jizdoo,2023-03-06T05:54:40+00:00,1,73,"Version 73",Output_Session1_J00692242_IDR_a1h9jizdoo.csv,"updated stim.csv",Version73.csv,"Chrome 110.0",Desktop,Win10,99.145.81.132
+J00669131CT,71rgjz4n83,2023-03-06T22:49:56+00:00,1,74,"Version 74",Output_Session1_J00669131CT_71rgjz4n83.csv,"updated stim.csv",Version74.csv,"Chrome 110.0",Desktop,Win10,173.21.113.137
+J00703746_cnb,dm169vw1gc,2023-03-07T03:10:40+00:00,1,75,"Version 75",Output_Session1_J00703746_cnb_dm169vw1gc.csv,"updated stim.csv",Version75.csv,"Safari Generic",Desktop,MacOSX,108.87.119.41
+J00725666_aod,sdx8xj7eem,2023-03-07T16:44:35+00:00,1,76,"Version 76",Output_Session1_J00725666_aod_sdx8xj7eem.csv,"updated stim.csv",Version76.csv,"Chrome 110.0",Desktop,Win10,69.85.235.224
+J00723262,2kxhkz8f2e,2023-03-13T00:45:57+00:00,1,77,"Version 77",Output_Session1_J00723262_2kxhkz8f2e.csv,"updated stim.csv",Version77.csv,"Edge 110.0",Desktop,Win10,104.51.99.232
+J00717362_mgl,t0jw8agotx,2023-03-13T03:46:17+00:00,1,78,"Version 78",Output_Session1_J00717362_mgl_t0jw8agotx.csv,"updated stim.csv",Version78.csv,"Edge 110.0",Desktop,Win10,172.59.105.54
+J00695012_MCB,3hoggpxc27,2023-03-13T16:30:36+00:00,1,79,"Version 79",Output_Session1_J00695012_MCB_3hoggpxc27.csv,"updated stim.csv",Version79.csv,"Safari 14.1",Desktop,MacOSX,69.85.215.48
+J00710514_apc,b4bdj8j2pw,2023-03-13T18:30:39+00:00,1,80,"Version 80",Output_Session1_J00710514_apc_b4bdj8j2pw.csv,"updated stim.csv",Version80.csv,"Chrome 105.0",Desktop,Win10,108.218.162.252
+J00710236JBB,qdkslv62g2,2023-03-13T18:37:20+00:00,1,81,"Version 81",Output_Session1_J00710236JBB_qdkslv62g2.csv,"updated stim.csv",Version81.csv,"Chrome 110.0",Desktop,MacOSX,69.85.215.25
+J00691599_AC,icai4qvote,2023-03-14T16:32:30+00:00,1,82,"Version 82",Output_Session1_J00691599_AC_icai4qvote.csv,"updated stim.csv",Version82.csv,"Edge 110.0",Desktop,Win10,69.85.215.54
+J00691599_AC,23128vcijt,2023-03-14T16:35:08+00:00,1,83,"Version 83",Output_Session1_J00691599_AC_23128vcijt.csv,"updated stim.csv",Version83.csv,"Edge 110.0",Desktop,Win10,69.85.215.54
+J00715698BT,h7prcislo4,2023-03-15T12:58:12+00:00,1,84,"Version 84",Output_Session1_J00715698BT_h7prcislo4.csv,"updated stim.csv",Version84.csv,"Edge 111.0",Desktop,Win10,69.85.215.25
+kmh2126KMH,f7v6dnt692,2023-03-15T16:07:57+00:00,1,85,"Version 85",Output_Session1_kmh2126KMH_f7v6dnt692.csv,"updated stim.csv",Version85.csv,"Chrome 111.0",Desktop,Win10,69.85.216.102
+J00694058ML,93cn5zz7mt,2023-03-15T17:16:45+00:00,1,86,"Version 86",Output_Session1_J00694058ML_93cn5zz7mt.csv,"updated stim.csv",Version86.csv,"Chrome 111.0",Desktop,Win10,68.234.165.6
+J00714892KBF,o4c55gmwwe,2023-03-16T21:22:04+00:00,1,87,"Version 87",Output_Session1_J00714892KBF_o4c55gmwwe.csv,"updated stim.csv",Version87.csv,"Safari 15.6.1",Desktop,MacOSX,73.118.68.59
+J00716045_jrj,3u98hoxkc8,2023-03-17T03:49:59+00:00,1,88,"Version 88",Output_Session1_J00716045_jrj_3u98hoxkc8.csv,"updated stim.csv",Version88.csv,"Chrome 109.0",Desktop,MacOSX,69.85.216.142
+J00739422_kmt,k92mc5dn9d,2023-03-17T17:20:16+00:00,1,89,"Version 89",Output_Session1_J00739422_kmt_k92mc5dn9d.csv,"updated stim.csv",Version89.csv,"Safari 16.2",Desktop,MacOSX,76.223.232.86
+J00653805,h669p3b0ov,2023-03-19T19:28:20+00:00,1,90,"Version 90",Output_Session1_J00653805_h669p3b0ov.csv,"updated stim.csv",Version90.csv,"Edge 110.0",Desktop,Win10,108.64.216.31
+J00720613AM,qidh8gcrg7,2023-03-19T21:48:52+00:00,1,91,"Version 91",Output_Session1_J00720613AM_qidh8gcrg7.csv,"updated stim.csv",Version91.csv,"Chrome 111.0",Desktop,Win10,69.85.216.102
+J00725880,pexqnr4wwf,2023-03-20T15:38:04+00:00,1,92,"Version 92",Output_Session1_J00725880_pexqnr4wwf.csv,"updated stim.csv",Version92.csv,"Chrome 97.0",Desktop,MacOSX,69.85.215.25
+J00721027DJO,bz463tlwdn,2023-03-20T18:18:49+00:00,1,93,"Version 93",Output_Session1_J00721027DJO_bz463tlwdn.csv,"updated stim.csv",Version93.csv,"Edge 111.0",Desktop,Win10,69.85.215.31
+J00710236,kgxmqun1yo,2023-03-20T21:32:46+00:00,1,94,"Version 94",Output_Session1_J00710236_kgxmqun1yo.csv,"updated stim.csv",Version94.csv,"Chrome 110.0",Desktop,MacOSX,69.85.216.134
+J00723200,pti6ivq3ns,2023-03-22T18:35:36+00:00,1,95,"Version 95",Output_Session1_J00723200_pti6ivq3ns.csv,"updated stim.csv",Version95.csv,DefaultProperties,unknown,unknown,69.85.235.49
+J00722351slc,dpvqkw8jkg,2023-03-22T21:17:39+00:00,1,96,"Version 96",Output_Session1_J00722351slc_dpvqkw8jkg.csv,"updated stim.csv",Version96.csv,"Chrome 110.0 for iOS",Tablet,iOS,12.173.70.186
+J00713410AEK,re3me5tkjn,2023-03-23T18:28:57+00:00,1,97,"Version 97",Output_Session1_J00713410AEK_re3me5tkjn.csv,"updated stim.csv",Version97.csv,"Chrome 111.0",Desktop,Win10,69.85.215.45
+J00689881_sbw,shst5rcvbz,2023-03-23T23:27:43+00:00,1,98,"Version 98",Output_Session1_J00689881_sbw_shst5rcvbz.csv,"updated stim.csv",Version98.csv,"Safari 16.1",Desktop,MacOSX,69.85.216.106
+J00671006_rbc,p6g2leuoki,2023-03-24T16:00:13+00:00,1,99,"Version 99",Output_Session1_J00671006_rbc_p6g2leuoki.csv,"updated stim.csv",Version99.csv,"Chrome 107.0",Desktop,Win10,69.85.215.29
+J00712732_jms,au56xq25wx,2023-03-24T16:38:30+00:00,1,100,"Version 100",Output_Session1_J00712732_jms_au56xq25wx.csv,"updated stim.csv",Version100.csv,"Chrome 111.0",Desktop,Win10,69.85.234.249
+j00705279_KH,02v0h0yici,2023-03-24T18:51:03+00:00,1,1,"Version 1",Output_Session1_j00705279_KH_02v0h0yici.csv,"updated stim.csv",Version1.csv,"Mobile Safari 16.1","Mobile Phone",iOS,173.18.112.102
+J00705279,884pwkqr2s,2023-03-24T18:52:45+00:00,1,2,"Version 2",Output_Session1_J00705279_884pwkqr2s.csv,"updated stim.csv",Version2.csv,"Mobile Safari 16.1","Mobile Phone",iOS,173.18.112.102
+J00724797_skh,k0yudjsju0,2023-03-25T03:11:19+00:00,1,3,"Version 3",Output_Session1_J00724797_skh_k0yudjsju0.csv,"updated stim.csv",Version3.csv,"Safari 15.6.1",Desktop,MacOSX,98.72.112.95
+J00689448reh,66rz6lobgc,2023-03-27T01:57:01+00:00,1,4,"Version 4",Output_Session1_J00689448reh_66rz6lobgc.csv,"updated stim.csv",Version4.csv,"Chrome 106.0",Desktop,MacOSX,71.229.17.205
+J00717362,xyhlz1trut,2023-03-27T16:23:32+00:00,1,5,"Version 5",Output_Session1_J00717362_xyhlz1trut.csv,"updated stim.csv",Version5.csv,"Edge 111.0",Desktop,Win10,69.85.215.45
+J00710173_kck,9i79n2dyjq,2023-03-27T17:25:57+00:00,1,6,"Version 6",Output_Session1_J00710173_kck_9i79n2dyjq.csv,"updated stim.csv",Version6.csv,"Chrome 111.0",Desktop,MacOSX,69.85.215.25
+J00727572KC,iays06glvz,2023-03-27T18:43:37+00:00,1,7,"Version 7",Output_Session1_J00727572KC_iays06glvz.csv,"updated stim.csv",Version7.csv,"Chrome 111.0",Desktop,Win10,69.85.235.224
+J00709957AEL,x3lo4h5hnf,2023-03-27T20:39:29+00:00,1,8,"Version 8",Output_Session1_J00709957AEL_x3lo4h5hnf.csv,"updated stim.csv",Version8.csv,"Chrome 108.0",Desktop,MacOSX,69.85.216.103
+J00706535_amc,j7l6fx3jy2,2023-03-28T05:24:22+00:00,1,9,"Version 9",Output_Session1_J00706535_amc_j7l6fx3jy2.csv,"updated stim.csv",Version9.csv,"Chrome 107.0",Desktop,MacOSX,69.85.216.102
+J00726864A.H,877aq1hbbk,2023-03-28T13:22:38+00:00,1,10,"Version 10",Output_Session1_J00726864A.H_877aq1hbbk.csv,"updated stim.csv",Version10.csv,"Safari 16.2",Desktop,MacOSX,86.38.32.142
+J00725666,4ff9ydusg7,2023-03-28T14:07:02+00:00,1,11,"Version 11",Output_Session1_J00725666_4ff9ydusg7.csv,"updated stim.csv",Version11.csv,"Chrome 111.0",Desktop,Win10,69.85.235.227
+j00711051,90wqs4jj4v,2023-03-28T22:52:43+00:00,1,12,"Version 12",Output_Session1_j00711051_90wqs4jj4v.csv,"updated stim.csv",Version12.csv,"Chrome 111.0",Desktop,MacOSX,24.119.229.178
+J00711540_gch,b5ibzspud5,2023-03-28T23:00:02+00:00,1,13,"Version 13",Output_Session1_J00711540_gch_b5ibzspud5.csv,"updated stim.csv",Version13.csv,"Safari Generic",Desktop,MacOSX,71.229.3.197
+J00710514,m82v0sb012,2023-03-29T13:18:07+00:00,1,14,"Version 14",Output_Session1_J00710514_m82v0sb012.csv,"updated stim.csv",Version14.csv,"Chrome 105.0",Desktop,Win10,69.85.215.41
+J00651755_eel,p9pa79eu6r,2023-03-29T16:33:50+00:00,1,15,"Version 15",Output_Session1_J00651755_eel_p9pa79eu6r.csv,"updated stim.csv",Version15.csv,"Chrome 111.0",Desktop,MacOSX,172.59.105.178
+J00715674_hel,pj0ekrx1oa,2023-03-29T17:46:38+00:00,1,16,"Version 16",Output_Session1_J00715674_hel_pj0ekrx1oa.csv,"updated stim.csv",Version16.csv,"Chrome 111.0",Desktop,MacOSX,69.85.215.44
+J00710173,5bg1wyeyx1,2023-03-29T19:59:29+00:00,1,17,"Version 17",Output_Session1_J00710173_5bg1wyeyx1.csv,"updated stim.csv",Version17.csv,"Chrome 111.0",Desktop,MacOSX,69.85.216.140
+J00705279_KMH,nep9mq0pl4,2023-03-29T20:49:55+00:00,1,18,"Version 18",Output_Session1_J00705279_KMH_nep9mq0pl4.csv,"updated stim.csv",Version18.csv,"Chrome 111.0",Desktop,Win10,173.17.45.12
+J00705279_KMH,hpkea7s0ef,2023-03-29T20:53:36+00:00,1,19,"Version 19",Output_Session1_J00705279_KMH_hpkea7s0ef.csv,"updated stim.csv",Version19.csv,"Chrome 111.0",Desktop,Win10,173.17.45.12
+J00711441,6miengw89w,2023-03-30T03:37:00+00:00,1,20,"Version 20",Output_Session1_J00711441_6miengw89w.csv,"updated stim.csv",Version20.csv,"Chrome 109.0",Desktop,MacOSX,69.85.216.134
+J00711133KA,7rt5u0evv1,2023-03-30T22:12:29+00:00,1,21,"Version 21",Output_Session1_J00711133KA_7rt5u0evv1.csv,"updated stim.csv",Version21.csv,"Chrome 111.0",Desktop,MacOSX,174.251.240.17
+J00723262_kms,6msjkk1tfb,2023-03-31T00:48:33+00:00,1,22,"Version 22",Output_Session1_J00723262_kms_6msjkk1tfb.csv,"updated stim.csv",Version22.csv,"Edge 111.0",Desktop,Win10,104.51.99.232
+J00645252_HD,2eya081qt5,2023-03-31T05:10:08+00:00,1,23,"Version 23",Output_Session1_J00645252_HD_2eya081qt5.csv,"updated stim.csv",Version23.csv,"Chrome 110.0",Desktop,Win10,23.115.188.140
+J00710566_dtp,6jmgq3qq02,2023-03-31T05:15:06+00:00,1,24,"Version 24",Output_Session1_J00710566_dtp_6jmgq3qq02.csv,"updated stim.csv",Version24.csv,"Chrome 108.0",Desktop,MacOSX,96.18.245.42
+J00689725_tkd,d585jkyxtd,2023-03-31T15:39:49+00:00,1,25,"Version 25",Output_Session1_J00689725_tkd_d585jkyxtd.csv,"updated stim.csv",Version25.csv,"Mobile Safari 15.4","Mobile Phone",iOS,174.203.64.243
+J00727863AT,on7ei5b7kl,2023-03-31T21:18:41+00:00,1,26,"Version 26",Output_Session1_J00727863AT_on7ei5b7kl.csv,"updated stim.csv",Version26.csv,"Safari Generic",Desktop,MacOSX,69.85.215.45
+J00715311,1szlpx6fg1,2023-03-31T22:05:31+00:00,1,27,"Version 27",Output_Session1_J00715311_1szlpx6fg1.csv,"updated stim.csv",Version27.csv,"Safari 15.6.1",Desktop,MacOSX,69.85.216.134
+J00720752BJ,vshpqh5rmo,2023-04-01T00:04:11+00:00,1,28,"Version 28",Output_Session1_J00720752BJ_vshpqh5rmo.csv,"updated stim.csv",Version28.csv,"Edge 111.0",Desktop,Win10,68.63.49.114
+J00720752BJ,sw74e9ucwa,2023-04-01T00:11:42+00:00,1,29,"Version 29",Output_Session1_J00720752BJ_sw74e9ucwa.csv,"updated stim.csv",Version29.csv,"Edge 111.0",Desktop,Win10,68.63.49.114
+J00708576_cag,r639rkdg0b,2023-04-01T03:18:59+00:00,1,30,"Version 30",Output_Session1_J00708576_cag_r639rkdg0b.csv,"updated stim.csv",Version30.csv,"Edge 111.0",Desktop,Win10,69.85.216.103
+J00710357,ujqjb3fbl3,2023-04-01T07:02:21+00:00,1,31,"Version 31",Output_Session1_J00710357_ujqjb3fbl3.csv,"updated stim.csv",Version31.csv,"Safari Generic",Desktop,MacOSX,45.17.101.142
+J00725031_HG,4kx3l5j5i0,2023-04-01T14:23:04+00:00,1,32,"Version 32",Output_Session1_J00725031_HG_4kx3l5j5i0.csv,"updated stim.csv",Version32.csv,"Safari 16.2",Desktop,MacOSX,69.85.216.103
+J00567780OT,hcz816wkiy,2023-04-03T00:07:18+00:00,1,33,"Version 33",Output_Session1_J00567780OT_hcz816wkiy.csv,"updated stim.csv",Version33.csv,"Mobile Safari 16.0","Mobile Phone",iOS,172.59.104.36
+J00716827_geg,48ffifmke9,2023-04-03T01:59:07+00:00,1,34,"Version 34",Output_Session1_J00716827_geg_48ffifmke9.csv,"updated stim.csv",Version34.csv,"Chrome 111.0",Desktop,MacOSX,69.85.216.108
+J00710723_mct,sq0wz193rp,2023-04-03T19:02:06+00:00,1,35,"Version 35",Output_Session1_J00710723_mct_sq0wz193rp.csv,"updated stim.csv",Version35.csv,"Safari 15.5",Desktop,MacOSX,69.85.215.48
+J00705847,4e9whe8b6r,2023-04-03T20:19:27+00:00,1,36,"Version 36",Output_Session1_J00705847_4e9whe8b6r.csv,"updated stim.csv",Version36.csv,"Chrome 109.0",Desktop,MacOSX,69.85.215.45
+J00686428_CMN,qx0wzgy5jh,2023-04-04T00:03:30+00:00,1,37,"Version 37",Output_Session1_J00686428_CMN_qx0wzgy5jh.csv,"updated stim.csv",Version37.csv,"Safari 15.5",Desktop,MacOSX,99.36.29.145
+J00712831_MM,2zxb29mmvx,2023-04-04T20:47:56+00:00,1,38,"Version 38",Output_Session1_J00712831_MM_2zxb29mmvx.csv,"updated stim.csv",Version38.csv,"Safari 14.0",Desktop,MacOSX,108.84.249.174
+J00707594_bmp,1rvrrxii6f,2023-04-04T21:47:31+00:00,1,39,"Version 39",Output_Session1_J00707594_bmp_1rvrrxii6f.csv,"updated stim.csv",Version39.csv,"Safari 14.1",Desktop,MacOSX,174.203.61.234
+j00691669_JEG,5e6nrkia06,2023-04-05T04:00:16+00:00,1,40,"Version 40",Output_Session1_j00691669_JEG_5e6nrkia06.csv,"updated stim.csv",Version40.csv,"Chrome 110.0",Desktop,MacOSX,69.243.232.21
+mb2033mb,obg9lm8s6x,2023-04-05T05:13:19+00:00,1,41,"Version 41",Output_Session1_mb2033mb_obg9lm8s6x.csv,"updated stim.csv",Version41.csv,"Safari 15.3",Desktop,MacOSX,153.33.98.31
+J00664612JH,jg0o2rb3ly,2023-04-05T13:48:38+00:00,1,42,"Version 42",Output_Session1_J00664612JH_jg0o2rb3ly.csv,"updated stim.csv",Version42.csv,"Chrome 111.0",Desktop,MacOSX,69.85.215.45
+J00714646_zgr,2ttjpgdvzz,2023-04-05T15:03:41+00:00,1,43,"Version 43",Output_Session1_J00714646_zgr_2ttjpgdvzz.csv,"updated stim.csv",Version43.csv,"Edge 111.0",Desktop,Win10,69.85.215.25
+J00690054,4ulojz8ks1,2023-04-05T15:45:46+00:00,1,44,"Version 44",Output_Session1_J00690054_4ulojz8ks1.csv,"updated stim.csv",Version44.csv,"Safari Generic",Desktop,MacOSX,69.85.216.140
+J00719323JW,hsumauskpt,2023-04-05T16:41:21+00:00,1,45,"Version 45",Output_Session1_J00719323JW_hsumauskpt.csv,"updated stim.csv",Version45.csv,"Safari Generic",Desktop,MacOSX,69.85.215.25
+J00371117_PSN,rlmf8sg7kv,2023-04-05T18:12:03+00:00,1,46,"Version 46",Output_Session1_J00371117_PSN_rlmf8sg7kv.csv,"updated stim.csv",Version46.csv,"Chrome 111.0 for Android",Tablet,Android,104.62.8.111
+J00709231_bcd,xssaw1abhu,2023-04-05T22:10:31+00:00,1,47,"Version 47",Output_Session1_J00709231_bcd_xssaw1abhu.csv,"updated stim.csv",Version47.csv,"Chrome 111.0",Desktop,Win10,104.51.99.42
+J00714788_kjs,b7qhn2exz4,2023-04-06T14:25:54+00:00,1,48,"Version 48",Output_Session1_J00714788_kjs_b7qhn2exz4.csv,"updated stim.csv",Version48.csv,"Chrome 111.0 for iOS",Tablet,iOS,69.85.215.45
+j00671386_kg,6kyzssyo4r,2023-04-06T16:36:42+00:00,1,49,"Version 49",Output_Session1_j00671386_kg_6kyzssyo4r.csv,"updated stim.csv",Version49.csv,"Chrome 111.0",Desktop,MacOSX,69.85.215.54
+j00671386_kg,2tvjdlxzd6,2023-04-06T16:47:41+00:00,1,50,"Version 50",Output_Session1_j00671386_kg_2tvjdlxzd6.csv,"updated stim.csv",Version50.csv,"Chrome 111.0",Desktop,MacOSX,69.85.215.54
+J00711090_LTS,qqydx5ualg,2023-04-06T20:44:41+00:00,1,51,"Version 51",Output_Session1_J00711090_LTS_qqydx5ualg.csv,"updated stim.csv",Version51.csv,"Chrome 111.0",Desktop,MacOSX,69.85.216.103
+J00713210_ajd,1p6x9stk2e,2023-04-06T21:27:41+00:00,1,52,"Version 52",Output_Session1_J00713210_ajd_1p6x9stk2e.csv,"updated stim.csv",Version52.csv,"Chrome 111.0",Desktop,Win10,69.85.215.31
+J00698572_bae,gcl82guf1t,2023-04-07T05:15:17+00:00,1,53,"Version 53",Output_Session1_J00698572_bae_gcl82guf1t.csv,"updated stim.csv",Version53.csv,"Safari Generic",Desktop,MacOSX,69.85.216.114
+j00697576_blw,5j5yty6moo,2023-04-07T14:54:11+00:00,1,54,"Version 54",Output_Session1_j00697576_blw_5j5yty6moo.csv,"updated stim.csv",Version54.csv,"Chrome 111.0",Desktop,Win10,69.85.216.113
+J00676300_jrd,89y9fogi8f,2023-04-08T00:42:17+00:00,1,55,"Version 55",Output_Session1_J00676300_jrd_89y9fogi8f.csv,"updated stim.csv",Version55.csv,"Chrome 111.0",Desktop,Win10,96.18.204.193
+J00707393_rgg,96533mus0m,2023-04-08T13:57:31+00:00,1,56,"Version 56",Output_Session1_J00707393_rgg_96533mus0m.csv,"updated stim.csv",Version56.csv,"Chrome 111.0",Desktop,MacOSX,73.48.111.97
+J00712764PW,wdmnbo7ejx,2023-04-08T19:12:21+00:00,1,57,"Version 57",Output_Session1_J00712764PW_wdmnbo7ejx.csv,"updated stim.csv",Version57.csv,"Safari Generic",Desktop,MacOSX,104.28.32.144
+J00654313_cme,hll08xqe08,2023-04-08T20:27:43+00:00,1,58,"Version 58",Output_Session1_J00654313_cme_hll08xqe08.csv,"updated stim.csv",Version58.csv,"Chrome 111.0",Desktop,Win10,69.85.216.105
+J00712620_pah,8gr85h2ain,2023-04-08T23:30:17+00:00,1,59,"Version 59",Output_Session1_J00712620_pah_8gr85h2ain.csv,"updated stim.csv",Version59.csv,"Chrome 105.0",Desktop,MacOSX,69.85.216.108
+J00669304_rcl,8jllgyn7sz,2023-04-09T03:37:11+00:00,1,60,"Version 60",Output_Session1_J00669304_rcl_8jllgyn7sz.csv,"updated stim.csv",Version60.csv,"Chrome 112.0",Desktop,MacOSX,69.85.216.107
+J00714030_MCH,vtu34bp28e,2023-04-09T05:32:13+00:00,1,61,"Version 61",Output_Session1_J00714030_MCH_vtu34bp28e.csv,"updated stim.csv",Version61.csv,"Safari Generic",Desktop,MacOSX,47.13.141.232
+J00687566BRC,d9xgnrih0r,2023-04-09T07:43:25+00:00,1,62,"Version 62",Output_Session1_J00687566BRC_d9xgnrih0r.csv,"updated stim.csv",Version62.csv,"Edge 112.0",Desktop,Win10,108.195.181.68
+J00708583,62k5if7w94,2023-04-09T17:27:12+00:00,1,63,"Version 63",Output_Session1_J00708583_62k5if7w94.csv,"updated stim.csv",Version63.csv,"Safari 15.5",Desktop,MacOSX,70.229.4.52
+J00711809MM,6mg0uq4qwc,2023-04-10T15:45:17+00:00,1,64,"Version 64",Output_Session1_J00711809MM_6mg0uq4qwc.csv,"updated stim.csv",Version64.csv,"Safari 14.1",Desktop,MacOSX,69.85.216.102
+J00720658HCS,5ksuqayant,2023-04-10T16:47:33+00:00,1,65,"Version 65",Output_Session1_J00720658HCS_5ksuqayant.csv,"updated stim.csv",Version65.csv,"Chrome 109.0",Desktop,MacOSX,69.85.216.103
+J00693363AM,nkx49o7r13,2023-04-10T17:36:36+00:00,1,66,"Version 66",Output_Session1_J00693363AM_nkx49o7r13.csv,"updated stim.csv",Version66.csv,"Safari 15.6.1",Desktop,MacOSX,170.249.189.194
+J00706630LB,varcu9bmb0,2023-04-10T23:45:52+00:00,1,67,"Version 67",Output_Session1_J00706630LB_varcu9bmb0.csv,"updated stim.csv",Version67.csv,"Firefox 111.0",Desktop,MacOSX,69.85.216.120
+J00721768,ijd4yr8vgd,2023-04-11T00:42:37+00:00,1,68,"Version 68",Output_Session1_J00721768_ijd4yr8vgd.csv,"updated stim.csv",Version68.csv,"Edge 112.0",Desktop,Win10,108.195.181.216
+joo721768,cpawtv1api,2023-04-11T00:54:32+00:00,1,69,"Version 69",Output_Session1_joo721768_cpawtv1api.csv,"updated stim.csv",Version69.csv,"Edge 112.0",Desktop,Win10,108.195.181.216
+J00719086,31qj0majyl,2023-04-11T03:51:48+00:00,1,70,"Version 70",Output_Session1_J00719086_31qj0majyl.csv,"updated stim.csv",Version70.csv,"Safari 14.1",Desktop,MacOSX,69.85.216.134
+J00652339DEW,qzcf0nij0m,2023-04-11T13:27:13+00:00,1,71,"Version 71",Output_Session1_J00652339DEW_qzcf0nij0m.csv,"updated stim.csv",Version71.csv,"Chrome 111.0",Desktop,Win10,69.85.215.49
+J00710126_ems,k9it46k9hh,2023-04-11T14:54:11+00:00,1,72,"Version 72",Output_Session1_J00710126_ems_k9it46k9hh.csv,"updated stim.csv",Version72.csv,"Chrome 109.0",Desktop,Win10,69.85.216.104
+j00706278_kc,w0743kru7i,2023-04-11T16:15:14+00:00,1,73,"Version 73",Output_Session1_j00706278_kc_w0743kru7i.csv,"updated stim.csv",Version73.csv,"Chrome 112.0",Desktop,MacOSX,69.85.215.54
+J00703992_RSG,0ughhfny6k,2023-04-11T21:32:38+00:00,1,74,"Version 74",Output_Session1_J00703992_RSG_0ughhfny6k.csv,"updated stim.csv",Version74.csv,"Chrome 112.0",Desktop,Win10,69.85.216.104
+J00716294_djj,ffzzkb83nl,2023-04-12T02:58:19+00:00,1,75,"Version 75",Output_Session1_J00716294_djj_ffzzkb83nl.csv,"updated stim.csv",Version75.csv,"Safari 16.2",Desktop,MacOSX,70.237.129.24
+J00664612_jh,6sk7qm5llt,2023-04-12T14:14:24+00:00,1,76,"Version 76",Output_Session1_J00664612_jh_6sk7qm5llt.csv,"updated stim.csv",Version76.csv,"Chrome 112.0",Desktop,MacOSX,69.85.215.45
+J00715174_AAM,xvvkvr397e,2023-04-12T17:48:33+00:00,1,77,"Version 77",Output_Session1_J00715174_AAM_xvvkvr397e.csv,"updated stim.csv",Version77.csv,"Chrome 111.0",Desktop,Win10,69.85.211.202
+j00689989,yc8hivp1rq,2023-04-12T18:25:45+00:00,1,78,"Version 78",Output_Session1_j00689989_yc8hivp1rq.csv,"updated stim.csv",Version78.csv,"Chrome 111.0",Desktop,MacOSX,107.120.35.116
+J00698515_PBD,hiktl50339,2023-04-12T19:48:53+00:00,1,79,"Version 79",Output_Session1_J00698515_PBD_hiktl50339.csv,"updated stim.csv",Version79.csv,"Edge 112.0",Desktop,Win10,73.42.58.254
+J00735027_mm,f0trg429md,2023-04-13T00:46:25+00:00,1,80,"Version 80",Output_Session1_J00735027_mm_f0trg429md.csv,"updated stim.csv",Version80.csv,"Chrome 112.0",Desktop,Win10,69.85.215.45
+jw2222jw,lq5rngvo23,2023-04-13T02:27:18+00:00,1,81,"Version 81",Output_Session1_jw2222jw_lq5rngvo23.csv,"updated stim.csv",Version81.csv,"Chrome 110.0",Desktop,Win10,69.85.216.103
+J00709111,yz6jdpania,2023-04-13T03:09:23+00:00,1,82,"Version 82",Output_Session1_J00709111_yz6jdpania.csv,"updated stim.csv",Version82.csv,"Chrome 111.0",Desktop,Win10,107.77.237.185
+J00666923_SLP,x8rtmpr1s4,2023-04-13T13:53:11+00:00,1,83,"Version 83",Output_Session1_J00666923_SLP_x8rtmpr1s4.csv,"updated stim.csv",Version83.csv,DefaultProperties,unknown,unknown,99.144.171.235
+J00690100ERF,in5ilzl9yv,2023-04-13T14:10:52+00:00,1,84,"Version 84",Output_Session1_J00690100ERF_in5ilzl9yv.csv,"updated stim.csv",Version84.csv,"Chrome 112.0",Desktop,Win10,69.85.215.47
+J00691895EKM,3gmfz5fnz3,2023-04-13T18:16:38+00:00,1,85,"Version 85",Output_Session1_J00691895EKM_3gmfz5fnz3.csv,"updated stim.csv",Version85.csv,"Chrome 111.0",Desktop,Win10,69.85.215.25
+J00709910_KAA,ewt2ckdm1y,2023-04-13T20:06:48+00:00,1,86,"Version 86",Output_Session1_J00709910_KAA_ewt2ckdm1y.csv,"updated stim.csv",Version86.csv,"Chrome 111.0",Desktop,Win10,69.85.215.45
+J00722470_kmd,l3xylz5znh,2023-04-13T20:43:23+00:00,1,87,"Version 87",Output_Session1_J00722470_kmd_l3xylz5znh.csv,"updated stim.csv",Version87.csv,"Edge 109.0",Desktop,Win10,69.85.216.109
+J00718924_rf,i1rc7l4mfs,2023-04-13T21:08:53+00:00,1,88,"Version 88",Output_Session1_J00718924_rf_i1rc7l4mfs.csv,"updated stim.csv",Version88.csv,"Chrome 112.0",Desktop,Win10,69.85.216.140
+tjchappelltc,2oor4k5758,2023-04-13T21:32:18+00:00,1,89,"Version 89",Output_Session1_tjchappelltc_2oor4k5758.csv,"updated stim.csv",Version89.csv,"Mobile Safari 16.1","Mobile Phone",iOS,108.91.160.215
+J00718078_JNZ,pj3f74qqon,2023-04-14T00:31:14+00:00,1,90,"Version 90",Output_Session1_J00718078_JNZ_pj3f74qqon.csv,"updated stim.csv",Version90.csv,"Safari 15.5",Desktop,MacOSX,107.77.233.27
+J00718078_JNZ,930pzyygya,2023-04-14T00:33:17+00:00,1,91,"Version 91",Output_Session1_J00718078_JNZ_930pzyygya.csv,"updated stim.csv",Version91.csv,"Safari 15.5",Desktop,MacOSX,107.77.233.27
+J00711549_gch,whmgg267m0,2023-04-14T16:28:47+00:00,1,92,"Version 92",Output_Session1_J00711549_gch_whmgg267m0.csv,"updated stim.csv",Version92.csv,"Safari Generic",Desktop,MacOSX,69.85.215.48
+J00715275,waas6ff246,2023-04-14T23:56:18+00:00,1,93,"Version 93",Output_Session1_J00715275_waas6ff246.csv,"updated stim.csv",Version93.csv,"Mobile Safari Generic","Mobile Phone",iOS,23.115.188.162
+J00715275,7dcyymw9h7,2023-04-14T23:56:27+00:00,1,94,"Version 94",Output_Session1_J00715275_7dcyymw9h7.csv,"updated stim.csv",Version94.csv,"Mobile Safari Generic","Mobile Phone",iOS,172.59.105.28
+J00709924_sahc,0jdqfkgyij,2023-04-16T03:53:26+00:00,1,95,"Version 95",Output_Session1_J00709924_sahc_0jdqfkgyij.csv,"updated stim.csv",Version95.csv,"Edge 112.0",Desktop,Win10,68.1.46.74
+J00697137_bch,43qdio4tlu,2023-04-16T16:36:19+00:00,1,96,"Version 96",Output_Session1_J00697137_bch_43qdio4tlu.csv,"updated stim.csv",Version96.csv,"Chrome 111.0",Desktop,Win10,99.180.91.114
+j00699336js,2p1d9ki1ki,2023-04-16T18:31:32+00:00,1,97,"Version 97",Output_Session1_j00699336js_2p1d9ki1ki.csv,"updated stim.csv",Version97.csv,"Chrome 112.0",Desktop,Win10,69.85.216.116
+J00705385_CXS,qbspf97mpk,2023-04-16T20:08:33+00:00,1,98,"Version 98",Output_Session1_J00705385_CXS_qbspf97mpk.csv,"updated stim.csv",Version98.csv,"Chrome 112.0",Desktop,Win10,3.145.205.69
+J00726843,6dy4159v04,2023-04-16T21:12:49+00:00,1,99,"Version 99",Output_Session1_J00726843_6dy4159v04.csv,"updated stim.csv",Version99.csv,DefaultProperties,unknown,unknown,173.22.193.182
+J00726843_knf,on61h9uwcc,2023-04-16T21:13:33+00:00,1,100,"Version 100",Output_Session1_J00726843_knf_on61h9uwcc.csv,"updated stim.csv",Version100.csv,DefaultProperties,unknown,unknown,173.22.193.182
+J00717981jll,r7ffxketw0,2023-04-17T17:38:53+00:00,1,1,"Version 1",Output_Session1_J00717981jll_r7ffxketw0.csv,"updated stim.csv",Version1.csv,DefaultProperties,unknown,unknown,69.85.216.103
+J00717981,4snz4oi8er,2023-04-17T21:09:56+00:00,1,2,"Version 2",Output_Session1_J00717981_4snz4oi8er.csv,"updated stim.csv",Version2.csv,DefaultProperties,unknown,unknown,69.85.216.103
+J00686027SW,y5gesdst15,2023-04-17T21:19:53+00:00,1,3,"Version 3",Output_Session1_J00686027SW_y5gesdst15.csv,"updated stim.csv",Version3.csv,"Chrome 111.0",Desktop,Win10,68.63.33.172
+J00714173_end,3s51d4n9yp,2023-04-18T00:15:40+00:00,1,4,"Version 4",Output_Session1_J00714173_end_3s51d4n9yp.csv,"updated stim.csv",Version4.csv,"Safari Generic",Desktop,MacOSX,69.85.216.102
+J00710763,8y04quwb2c,2023-04-18T01:54:58+00:00,1,5,"Version 5",Output_Session1_J00710763_8y04quwb2c.csv,"updated stim.csv",Version5.csv,"Safari 15.6",Desktop,MacOSX,69.85.216.134
+J00716201_tds,3ekafe9pzz,2023-04-18T15:32:56+00:00,1,6,"Version 6",Output_Session1_J00716201_tds_3ekafe9pzz.csv,"updated stim.csv",Version6.csv,"Chrome 111.0",Desktop,Win10,69.85.216.103
+J00708361_RMC,0w5cm1ds0p,2023-04-18T18:35:39+00:00,1,7,"Version 7",Output_Session1_J00708361_RMC_0w5cm1ds0p.csv,"updated stim.csv",Version7.csv,"Chrome 108.0",Desktop,MacOSX,69.85.216.102
+J00690100_erf,veobq0rx9k,2023-04-19T02:57:14+00:00,1,8,"Version 8",Output_Session1_J00690100_erf_veobq0rx9k.csv,"updated stim.csv",Version8.csv,"Chrome 112.0",Desktop,Win10,69.85.216.118
+J00095559_amp,053qfuv3eg,2023-04-19T13:44:58+00:00,1,9,"Version 9",Output_Session1_J00095559_amp_053qfuv3eg.csv,"updated stim.csv",Version9.csv,"Chrome 112.0",Desktop,Win10,73.118.3.176
+j00709988TR,uxjk99int7,2023-04-19T15:29:19+00:00,1,10,"Version 10",Output_Session1_j00709988TR_uxjk99int7.csv,"updated stim.csv",Version10.csv,"Chrome 110.0",Desktop,MacOSX,69.85.215.41
+J00686058,adzsrbkcxf,2023-04-19T17:42:18+00:00,1,11,"Version 11",Output_Session1_J00686058_adzsrbkcxf.csv,"updated stim.csv",Version11.csv,"Chrome 112.0",Desktop,Win10,207.193.245.201
+J00687233,vc0g6ohmvj,2023-04-19T20:16:32+00:00,1,12,"Version 12",Output_Session1_J00687233_vc0g6ohmvj.csv,"updated stim.csv",Version12.csv,"Chrome 111.0",Desktop,MacOSX,69.85.215.54
+J00688902MRB,0fdyudht5u,2023-04-20T03:52:25+00:00,1,13,"Version 13",Output_Session1_J00688902MRB_0fdyudht5u.csv,"updated stim.csv",Version13.csv,"Chrome 111.0",Desktop,Win10,153.33.98.28
+j00704581apa,ld6wfh56rs,2023-04-20T04:50:42+00:00,1,14,"Version 14",Output_Session1_j00704581apa_ld6wfh56rs.csv,"updated stim.csv",Version14.csv,"Chrome 112.0",Desktop,Win10,99.116.239.209
+J00654506_erh,nu97aeric1,2023-04-20T14:00:22+00:00,1,15,"Version 15",Output_Session1_J00654506_erh_nu97aeric1.csv,"updated stim.csv",Version15.csv,"Safari 14.1",Desktop,MacOSX,68.63.35.79
+J00703746,r2v0nnszt2,2023-04-21T14:36:54+00:00,1,16,"Version 16",Output_Session1_J00703746_r2v0nnszt2.csv,"updated stim.csv",Version16.csv,"Safari Generic",Desktop,MacOSX,108.87.119.41
+J00669131_ct,dxzmhfuzw8,2023-04-21T18:23:53+00:00,1,17,"Version 17",Output_Session1_J00669131_ct_dxzmhfuzw8.csv,"updated stim.csv",Version17.csv,"Chrome 112.0",Desktop,Win10,69.85.215.47
+J00697137,lubtfarks7,2023-04-21T20:08:33+00:00,1,18,"Version 18",Output_Session1_J00697137_lubtfarks7.csv,"updated stim.csv",Version18.csv,"Chrome 111.0",Desktop,Win10,99.180.91.114
+J00723714_OJG,vwdpoeefjp,2023-04-21T21:04:56+00:00,1,19,"Version 19",Output_Session1_J00723714_OJG_vwdpoeefjp.csv,"updated stim.csv",Version19.csv,"Mobile Safari Generic","Mobile Phone",iOS,71.229.1.48
+J00709783_ncb,5skz1d9vvc,2023-04-22T17:29:23+00:00,1,20,"Version 20",Output_Session1_J00709783_ncb_5skz1d9vvc.csv,"updated stim.csv",Version20.csv,"Firefox 111.0",Desktop,MacOSX,172.59.223.98
+J00709783_nbc,1fw6ehjmx9,2023-04-22T17:48:43+00:00,1,21,"Version 21",Output_Session1_J00709783_nbc_1fw6ehjmx9.csv,"updated stim.csv",Version21.csv,"Firefox 111.0",Desktop,MacOSX,172.59.223.98
+J00725425_EH,eal7xlcg2d,2023-04-23T05:21:33+00:00,1,22,"Version 22",Output_Session1_J00725425_EH_eal7xlcg2d.csv,"updated stim.csv",Version22.csv,"Mobile Safari 14.1","Mobile Phone",iOS,172.59.104.100
+J00725425_EHH,i69wzybhbx,2023-04-23T06:13:50+00:00,1,23,"Version 23",Output_Session1_J00725425_EHH_i69wzybhbx.csv,"updated stim.csv",Version23.csv,"Mobile Safari 14.1","Mobile Phone",iOS,172.59.104.100
+J00686027_SW,hoon1xu3ff,2023-04-23T21:48:53+00:00,1,24,"Version 24",Output_Session1_J00686027_SW_hoon1xu3ff.csv,"updated stim.csv",Version24.csv,"Chrome 112.0",Desktop,Win10,68.63.33.172
+j00723386jl,3085icclgs,2023-04-23T22:18:59+00:00,1,25,"Version 25",Output_Session1_j00723386jl_3085icclgs.csv,"updated stim.csv",Version25.csv,"Chrome 112.0",Desktop,Win10,69.246.150.26
+J00710380_BGB,c0of5snum9,2023-04-23T23:26:31+00:00,1,26,"Version 26",Output_Session1_J00710380_BGB_c0of5snum9.csv,"updated stim.csv",Version26.csv,"Chrome 112.0",Desktop,MacOSX,174.199.160.156
+J00723386J_JL,ihfjfmavrr,2023-04-24T02:43:25+00:00,1,27,"Version 27",Output_Session1_J00723386J_JL_ihfjfmavrr.csv,"updated stim.csv",Version27.csv,"Chrome 112.0",Desktop,Win10,69.246.150.26
+rab,86iffbox0a,2023-04-24T14:22:12+00:00,1,28,"Version 28",Output_Session1_rab_86iffbox0a.csv,"updated stim.csv",Version28.csv,"Chrome 112.0",Desktop,MacOSX,69.85.215.48
+j00713887_erl,6x80fs666t,2023-04-24T14:53:51+00:00,1,29,"Version 29",Output_Session1_j00713887_erl_6x80fs666t.csv,"updated stim.csv",Version29.csv,"Safari 16.0",Desktop,MacOSX,174.203.73.233
+J00727862acm,1tpg5rbiqe,2023-04-24T15:03:36+00:00,1,30,"Version 30",Output_Session1_J00727862acm_1tpg5rbiqe.csv,"updated stim.csv",Version30.csv,DefaultProperties,unknown,unknown,69.85.235.230
+j00722177ADR,pjz69vw15g,2023-04-24T15:34:12+00:00,1,31,"Version 31",Output_Session1_j00722177ADR_pjz69vw15g.csv,"updated stim.csv",Version31.csv,"Edge 112.0",Desktop,Win10,69.85.215.25
+J00722177_adr,5wq3h61q8c,2023-04-24T15:35:01+00:00,1,32,"Version 32",Output_Session1_J00722177_adr_5wq3h61q8c.csv,"updated stim.csv",Version32.csv,"Edge 112.0",Desktop,Win10,69.85.215.25
+J00716189_dl,9x8t8d0i51,2023-04-24T16:16:57+00:00,1,33,"Version 33",Output_Session1_J00716189_dl_9x8t8d0i51.csv,"updated stim.csv",Version33.csv,"Chrome 111.0",Desktop,MacOSX,69.85.215.45
+J00715804AMW,oltkk3t64h,2023-04-24T21:22:10+00:00,1,34,"Version 34",Output_Session1_J00715804AMW_oltkk3t64h.csv,"updated stim.csv",Version34.csv,"Chrome 111.0",Desktop,MacOSX,69.85.216.102

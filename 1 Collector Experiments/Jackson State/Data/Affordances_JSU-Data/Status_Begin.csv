@@ -1,0 +1,3 @@
+Username,ID,Date,Session,Condition_Number,Condition_Description,Output_File,Stimuli_File,Procedure_File,Browser,DeviceType,OS,IP
+JacobTest,u9ci2nt7xn,2023-04-04T16:19:40+00:00,1,1,"Version 26",Output_Session1_JacobTest_u9ci2nt7xn.csv,"updated stim.csv",Version26.csv,"Chrome Generic",Desktop,Win10,10.16.19.49
+j00737342ks,toyzgil5po,2023-04-04T17:00:10+00:00,1,2,"Version 27",Output_Session1_j00737342ks_toyzgil5po.csv,"updated stim.csv",Version27.csv,"Chrome Generic",Desktop,MacOSX,73.203.233.84

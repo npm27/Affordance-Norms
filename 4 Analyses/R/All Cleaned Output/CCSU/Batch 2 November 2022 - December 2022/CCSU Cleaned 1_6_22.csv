@@ -1,0 +1,2221 @@
+Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
+lozenge,help a sore throat,help,help,VERB,CCSU
+lozenge,help a sore throat,sore,sore,ADV,CCSU
+lozenge,help a sore throat,throat,throat,NOUN,CCSU
+lozenge,help coughing,help,help,VERB,CCSU
+lozenge,help coughing,coughing,cough,VERB,CCSU
+lozenge,eat as candy,eat,eat,VERB,CCSU
+lozenge,eat as candy,candy,candy,NOUN,CCSU
+spices,make something taste better,make,make,VERB,CCSU
+spices,make something taste better,something,something,PRON,CCSU
+spices,make something taste better,taste,taste,VERB,CCSU
+spices,make something taste better,better,better,ADJ,CCSU
+spices,make you sneeze,make,make,VERB,CCSU
+spices,make you sneeze,sneeze,sneeze,VERB,CCSU
+spices,make a spell,make,make,VERB,CCSU
+spices,make a spell,spell,spell,VERB,CCSU
+postcard,send a card,send,send,VERB,CCSU
+postcard,send a card,card,card,NOUN,CCSU
+postcard,use as spare paper,use,use,VERB,CCSU
+postcard,use as spare paper,spare,spare,VERB,CCSU
+postcard,use as spare paper,paper,paper,NOUN,CCSU
+postcard,get to know what someone else is doing ,get,get,VERB,CCSU
+postcard,get to know what someone else is doing ,know,know,VERB,CCSU
+postcard,get to know what someone else is doing ,someone,someone,PRON,CCSU
+postcard,get to know what someone else is doing ,else,else,ADJ,CCSU
+starch,make bread,make,make,VERB,CCSU
+starch,make bread,bread,bread,NOUN,CCSU
+robber,steal something,steal,steal,VERB,CCSU
+robber,steal something,something,something,PRON,CCSU
+robber,go to jail,go,go,VERB,CCSU
+robber,go to jail,jail,jail,NOUN,CCSU
+robber,break out of jail,break,break out,VERB,CCSU
+robber,break out of jail,jail,jail,NOUN,CCSU
+robber,break into a home,break,break into,VERB,CCSU
+robber,break into a home,home,home,ADV,CCSU
+robber,rob a bank ,rob,rob,VERB,CCSU
+robber,rob a bank ,bank,bank,NOUN,CCSU
+tulip,smell,smell,smell,VERB,CCSU
+tulip,plant,plant,plant,VERB,CCSU
+tulip,put in a vase,put,put,VERB,CCSU
+tulip,put in a vase,vase,vase,NOUN,CCSU
+tulip,dry,dry,dry,VERB,CCSU
+tulip,press,press,press,VERB,CCSU
+newsboy,sell newspaper,sell,sell,VERB,CCSU
+newsboy,sell newspaper,newspaper,newspaper,NOUN,CCSU
+newsboy,deliver newspaper ,deliver,deliver,VERB,CCSU
+newsboy,deliver newspaper ,newspaper,newspaper,NOUN,CCSU
+examiner,examine samples,examine,examine,VERB,CCSU
+examiner,examine samples,samples,sample,NOUN,CCSU
+examiner,examine dead bodies,examine,examine,VERB,CCSU
+examiner,examine dead bodies,dead,dead,ADJ,CCSU
+examiner,examine dead bodies,bodies,body,NOUN,CCSU
+examiner,preform experiments ,preform,preform,VERB,CCSU
+examiner,preform experiments ,experiments,experiment,VERB,CCSU
+sideburns,shave,shave,shave,VERB,CCSU
+sideburns,cut,cut,cut,VERB,CCSU
+sideburns,grow out,grow,grow,VERB,CCSU
+sideburns,wax ,wax,wax,VERB,CCSU
+hen,lay eggs,lay,lay,VERB,CCSU
+hen,lay eggs,eggs,lay egg,VERB,CCSU
+hen,have chicks,chicks,chick,NOUN,CCSU
+cleavage,show off,show,show,VERB,CCSU
+cleavage,hide ,hide,hide,VERB,CCSU
+receptionist,type,type,type,VERB,CCSU
+receptionist,make phone calls,make,make,VERB,CCSU
+receptionist,make phone calls,phone,phone,VERB,CCSU
+receptionist,make phone calls,calls,call,VERB,CCSU
+receptionist,make appointments,make,make,VERB,CCSU
+receptionist,make appointments,appointments,appointment,VERB,CCSU
+receptionist,do paperwork ,paperwork,paperwork,VERB,CCSU
+supervisor,do paperwork,paperwork,paperwork,VERB,CCSU
+supervisor,make sure things are getting done,make,make,VERB,CCSU
+supervisor,make sure things are getting done,sure,sure,ADJ,CCSU
+supervisor,make sure things are getting done,things,thing,NOUN,CCSU
+supervisor,make sure things are getting done,getting,get,VERB,CCSU
+supervisor,make sure things are getting done,done,done,VERB,CCSU
+supervisor,help people,help,help,VERB,CCSU
+supervisor,help people,people,people,NOUN,CCSU
+supervisor,pay people ,pay,pay,VERB,CCSU
+supervisor,pay people ,people,people,NOUN,CCSU
+tailor,make clothes fit,make,make,VERB,CCSU
+tailor,make clothes fit,clothes,clothes,NOUN,CCSU
+tailor,make clothes fit,fit,fit,VERB,CCSU
+tailor,fix clothes ,fix,fix,VERB,CCSU
+tailor,fix clothes ,clothes,clothes,NOUN,CCSU
+guitarist,play music,play,play,VERB,CCSU
+guitarist,play music,music,music,VERB,CCSU
+guitarist,fix strings,fix,fix,VERB,CCSU
+guitarist,fix strings,strings,string,NOUN,CCSU
+guitarist,tune guitar,tune,tune,VERB,CCSU
+guitarist,tune guitar,guitar,guitar,NOUN,CCSU
+guitarist,play in a band,play,play,VERB,CCSU
+guitarist,play in a band,band,band,NOUN,CCSU
+ground,walk on,walk,walk,VERB,CCSU
+ground,plant in,plant,plant,VERB,CCSU
+ground,build on,build,build,VERB,CCSU
+ground,lay on ,lay,lay,VERB,CCSU
+shoe,put on,put,put,VERB,CCSU
+shoe,take off,take,take,VERB,CCSU
+shoe,fix,fix,fix,VERB,CCSU
+shoe,buy,buy,buy,VERB,CCSU
+shoe,throw away ,throw,throw away,VERB,CCSU
+shoe,throw away ,away,throw away,VERB,CCSU
+crouton,put on salad,put,put,VERB,CCSU
+crouton,put on salad,salad,salad,NOUN,CCSU
+crouton,eat plain,eat,eat,VERB,CCSU
+crouton,eat plain,plain,plain,ADJ,CCSU
+crouton,make breadcrumbs ,make,make,VERB,CCSU
+crouton,make breadcrumbs ,breadcrumbs,breadcrumb,NOUN,CCSU
+tickler,tickle people ,tickle,tickle,VERB,CCSU
+tickler,tickle people ,people,people,NOUN,CCSU
+squeegee,wash car,wash,wash,VERB,CCSU
+squeegee,wash car,car,car,NOUN,CCSU
+squeegee,wash windows,wash,wash,VERB,CCSU
+squeegee,wash windows,windows,window,NOUN,CCSU
+squeegee,wash sink ,wash,wash,VERB,CCSU
+squeegee,wash sink ,sink,sink,NOUN,CCSU
+door,close,close,close,VERB,CCSU
+door,open,open,open,VERB,CCSU
+door,install,install,install,VERB,CCSU
+door,take off hinges,take,take,VERB,CCSU
+door,take off hinges,hinges,hinge,NOUN,CCSU
+door,fix,fix,fix,VERB,CCSU
+tampon,put in,put,put,VERB,CCSU
+tampon,take out,take,take,VERB,CCSU
+tampon,throw away,throw,throw,VERB,CCSU
+tampon,throw away,away,throw away,VERB,CCSU
+tampon,buy,buy,buy,VERB,CCSU
+tampon,stop nose bleed,stop,stop,VERB,CCSU
+tampon,stop nose bleed,nose,nose,PRON,CCSU
+tampon,stop nose bleed,bleed,bleed,VERB,CCSU
+mullet,cut,cut,cut,VERB,CCSU
+mullet,shave,shave,shave,VERB,CCSU
+mullet,wear,wear,wear,VERB,CCSU
+whisker,see,see,see,VERB,CCSU
+whisker,find,find,find,VERB,CCSU
+whisker,feel,feel,feel,VERB,CCSU
+tabloid,read,read,read,VERB,CCSU
+tabloid,write,write,write,VERB,CCSU
+sketch,make one,make,make,VERB,CCSU
+sketch,make one,one,one,NUM,CCSU
+sketch,buy one,buy,buy,VERB,CCSU
+sketch,buy one,one,one,NUM,CCSU
+sketch,commission one,commission,commission,NOUN,CCSU
+sketch,commission one,one,one,NUM,CCSU
+shutter,close,close,close,VERB,CCSU
+shutter,open,open,open,VERB,CCSU
+shutter,buy,buy,buy,VERB,CCSU
+shutter,install,install,install,VERB,CCSU
+shutter,replace ,replace,replace,VERB,CCSU
+jersey,wear,wear,wear,VERB,CCSU
+jersey,buy,buy,buy,VERB,CCSU
+jersey,make,make,make,VERB,CCSU
+jersey,play a sport in,play,play,VERB,CCSU
+jersey,play a sport in,sport,sport,NOUN,CCSU
+jersey,support favorite team,support,support,VERB,CCSU
+jersey,support favorite team,favorite,favorite,NOUN,CCSU
+jersey,support favorite team,team,team,NOUN,CCSU
+bulldozer,crush things,crush,crush,VERB,CCSU
+bulldozer,crush things,things,thing,NOUN,CCSU
+Wheelchair,help mobility,help,help,VERB,CCSU
+Wheelchair,help mobility,mobility,mobility,NOUN,CCSU
+Wheelchair,move person to surgery,move,move,VERB,CCSU
+Wheelchair,move person to surgery,person,person,NOUN,CCSU
+Wheelchair,move person to surgery,surgery,surgery,NOUN,CCSU
+Wheelchair,move people around hospital,move,move,VERB,CCSU
+Wheelchair,move people around hospital,people,people,NOUN,CCSU
+Wheelchair,move people around hospital,around,around,ADV,CCSU
+Wheelchair,move people around hospital,hospital,hospital,NOUN,CCSU
+grapefruit,fruit salad,fruit,fruit,NOUN,CCSU
+grapefruit,fruit salad,salad,salad,NOUN,CCSU
+grapefruit,eating,eating,eat,VERB,CCSU
+grapefruit,ball,ball,ball,NOUN,CCSU
+grapefruit,throw,throw,throw,VERB,CCSU
+grapefruit,cut up,cut,cut,VERB,CCSU
+grapefruit,swallow,swallow,swallow,VERB,CCSU
+weatherman,knowledge,knowledge,knowledge,NOUN,CCSU
+weatherman,befriend,befriend,befriend,VERB,CCSU
+weatherman,marry,marry,marry,VERB,CCSU
+bagpipe,filling,filling,fill,VERB,CCSU
+bagpipe,storage,storage,store,VERB,CCSU
+bagpipe,creativity,creativity,creativity,NOUN,CCSU
+spool,building block,building,build,VERB,CCSU
+spool,building block,block,block,NOUN,CCSU
+spool,storage,storage,store,VERB,CCSU
+buttonhook,weapon,weapon,weapon,VERB,CCSU
+cantaloupe,befriend,befriend,befriend,VERB,CCSU
+cantaloupe,draw,draw,dree,VERB,CCSU
+cantaloupe,photograph,photograph,photograph,VERB,CCSU
+turf,play set,play,play,VERB,CCSU
+turf,play set,set,set,VERB,CCSU
+turf,decoration,decoration,decorate,VERB,CCSU
+turf,concealing,concealing,conceal,VERB,CCSU
+forest,home,home,home,ADV,CCSU
+forest,walking,walking,walk,VERB,CCSU
+forest,hiking,hiking,hik,VERB,CCSU
+forest,running,running,run,VERB,CCSU
+forest,excercising,exercising,exercise,VERB,CCSU
+forest,playing,playing,play,VERB,CCSU
+moss,decoration,decoration,decorate,VERB,CCSU
+villager,befriend,befriend,befriend,VERB,CCSU
+villager,marry,marry,marry,VERB,CCSU
+spine,bend,bend,bend,VERB,CCSU
+spine,twist,twist,twist,VERB,CCSU
+spine,fold,fold,fold,VERB,CCSU
+spine,jump,jump,jump,VERB,CCSU
+spine,walk,walk,walk,VERB,CCSU
+spine,run,run,run,VERB,CCSU
+spine,balance,balance,balance,VERB,CCSU
+spine,range of motions,range,range,NOUN,CCSU
+spine,range of motions,motions,motion,VERB,CCSU
+sprayer,spray paint,spray,spray,VERB,CCSU
+sprayer,spray paint,paint,paint,VERB,CCSU
+sprayer,spray water,spray,spray,VERB,CCSU
+sprayer,spray water,water,water,VERB,CCSU
+sprayer,game,game,game,VERB,CCSU
+sprayer,weapon,weapon,weapon,VERB,CCSU
+photocopier,copy documents,copy,copy,VERB,CCSU
+photocopier,copy documents,documents,document,NOUN,CCSU
+photocopier,school work,school,school,NOUN,CCSU
+photocopier,school work,work,work,VERB,CCSU
+photocopier,job work,job,job,NOUN,CCSU
+photocopier,job work,work,work,VERB,CCSU
+photocopier,scan,scan,scan,VERB,CCSU
+mansion,reside in it,reside,reside,VERB,CCSU
+mansion,hide,hide,hide,VERB,CCSU
+mansion,sell,sell,sell,VERB,CCSU
+mansion,rent,rent,rent,VERB,CCSU
+mansion,burn,burn,burn,VERB,CCSU
+mansion,abandon,abandon,abandon,ADP,CCSU
+mansion,will it to someone,someone,someone,PRON,CCSU
+mansion,decorate it,decorate,decorate,VERB,CCSU
+mansion,paint it,paint,paint,VERB,CCSU
+hand,punch,punch,punch,VERB,CCSU
+hand,eat,eat,eat,VERB,CCSU
+hand,write,write,write,VERB,CCSU
+hand,draw,draw,dree,VERB,CCSU
+hand,clench,clench,clench,VERB,CCSU
+hand,drive,drive,drive,VERB,CCSU
+hand,catch,catch,catch,VERB,CCSU
+hand,throw,throw,throw,VERB,CCSU
+gym,excercise,exercise,exercise,VERB,CCSU
+gym,work out,work,workout,VERB,CCSU
+gym,stay fit,stay,stay,VERB,CCSU
+gym,stay fit,fit,fit,VERB,CCSU
+gym,lift weights,lift,lift,VERB,CCSU
+gym,lift weights,weights,weight,NOUN,CCSU
+gym,work,work,work,VERB,CCSU
+gym,personal trainer,personal,personal,ADJ,CCSU
+gym,personal trainer,trainer,trainer,NOUN,CCSU
+gym,lose weight,lose,lose,VERB,CCSU
+gym,lose weight,weight,weight,NOUN,CCSU
+gym,gain weight,gain,gain,VERB,CCSU
+gym,gain weight,weight,weight,NOUN,CCSU
+gym,gain muscle mass,gain,gain,VERB,CCSU
+gym,gain muscle mass,muscle,muscle,NOUN,CCSU
+gym,gain muscle mass,mass,mass,ADJ,CCSU
+chef,meals,meals,meal,NOUN,CCSU
+chef,befriend,befriend,befriend,VERB,CCSU
+chef,marry,marry,marry,VERB,CCSU
+chef,employer,employer,employer,NOUN,CCSU
+chef,employee,employee,employee,NOUN,CCSU
+chef,knowledge,knowledge,knowledge,NOUN,CCSU
+face,self esteem,self,self-esteem,VERB,CCSU
+face,makeup,makeup,makeup,NOUN,CCSU
+face,skin routine,skin,skin,NOUN,CCSU
+face,skin routine,routine,routine,NOUN,CCSU
+face,conceal,conceal,conceal,VERB,CCSU
+face,fit it,fit,fit,VERB,CCSU
+orgy,pleasure,pleasure,pleasure,VERB,CCSU
+orgy,drawing,drawing,drawe,VERB,CCSU
+orgy,painting,painting,paint,VERB,CCSU
+terrace,relaxation,relaxation,relax,VERB,CCSU
+terrace,view,view,view,VERB,CCSU
+terrace,nap,nap,nap,VERB,CCSU
+terrace,meal area,meal,meal,NOUN,CCSU
+terrace,meal area,area,area,NOUN,CCSU
+terrace,run away,run,run,VERB,CCSU
+terrace,run away,away,run away,VERB,CCSU
+terrace,entrance,entrance,enter,VERB,CCSU
+headmistress,help,help,help,VERB,CCSU
+headmistress,safety,safety,safety,NOUN,CCSU
+ballot,voting,voting,vote,VERB,CCSU
+ballot,competition,competition,compete,VERB,CCSU
+domino,game,game,game,VERB,CCSU
+domino,system,system,system,NOUN,CCSU
+anchovy,pizza,pizza,pizza,NOUN,CCSU
+anchovy,meal,meal,meal,VERB,CCSU
+poop,health condition,health,health,NOUN,CCSU
+poop,health condition,condition,condition,NOUN,CCSU
+poop,internal bleeding,internal,internal,ADJ,CCSU
+poop,internal bleeding,bleeding,bleed,VERB,CCSU
+cloak,make believe,make,make,VERB,CCSU
+cloak,make believe,believe,believe,VERB,CCSU
+cloak,roleplay harry potter,role,roleplay,VERB,CCSU
+cloak,roleplay harry potter,play,play,VERB,CCSU
+cloak,roleplay harry potter,harry,harry,INTJ,CCSU
+cloak,halloween costume,halloween,halloween,AUX,CCSU
+cloak,halloween costume,costume,costume,NOUN,CCSU
+cloak,outfit,outfit,outfit,VERB,CCSU
+cloak,drape over my shoulders,drape,drape,VERB,CCSU
+cloak,drape over my shoulders,shoulders,shoulder,NOUN,CCSU
+beggar,understand,understand,understand,VERB,CCSU
+beggar,help,help,help,VERB,CCSU
+timepiece,foresake,forsake,forake,VERB,CCSU
+timepiece,collector,collector,collect,VERB,CCSU
+flannel,outfit,outfit,outfit,VERB,CCSU
+flannel,sell,sell,sell,VERB,CCSU
+flannel,buy,buy,buy,VERB,CCSU
+flannel,donate,donate,donate,VERB,CCSU
+flannel,wash,wash,wash,VERB,CCSU
+flannel,wipe down,wipe,wipe,VERB,CCSU
+trophy,competitions,competitions,compete,VERB,CCSU
+trophy,collecting,collecting,collect,VERB,CCSU
+trophy,showcase,showcase,showcase,VERB,CCSU
+stencil,drawing,drawing,drawe,VERB,CCSU
+stencil,tattooing,tattooing,tattoo,VERB,CCSU
+stencil,any form of art,form,form,NOUN,CCSU
+stencil,any form of art,art,art,NOUN,CCSU
+windbreaker,stop the wind,stop,stop,VERB,CCSU
+windbreaker,stop the wind,wind,wind,NOUN,CCSU
+windbreaker,clothing,clothing,clothing,NOUN,CCSU
+windbreaker,blanket,blanket,blanket,NOUN,CCSU
+lilly,a stage for frogs/other organism,stage,stage,NOUN,CCSU
+lilly,a stage for frogs/other organism,frogs,frog,NOUN,CCSU
+lilly,a stage for frogs/other organism,organism,organism,NOUN,CCSU
+coffeepot,to make coffee,make,make,VERB,CCSU
+coffeepot,to make coffee,coffee,coffee,VERB,CCSU
+coffeepot,hot water,hot,hot,ADJ,CCSU
+coffeepot,hot water,water,water,NOUN,CCSU
+coffeepot,brew other substances,brew,brew,VERB,CCSU
+coffeepot,brew other substances,substances,substance,NOUN,CCSU
+coffeepot,use pot as a bowl,use,use,VERB,CCSU
+coffeepot,use pot as a bowl,pot,pot,NOUN,CCSU
+coffeepot,use pot as a bowl,bowl,bowl,NOUN,CCSU
+hatband,a rubberband,rubberband,rubberband,NOUN,CCSU
+hatband,a hat,hat,hat,NOUN,CCSU
+cranberry,cranberry drinks,cranberry,cranberry,NOUN,CCSU
+cranberry,cranberry drinks,drinks,drink,NOUN,CCSU
+cranberry,alchohol mixture,alcohol,alcohol,NOUN,CCSU
+cranberry,alchohol mixture,mixture,mixture,NOUN,CCSU
+cranberry,flushes out system,flushes,flush,VERB,CCSU
+cranberry,flushes out system,system,system,NOUN,CCSU
+plug,connected electrical sources,connected,connect,VERB,CCSU
+plug,connected electrical sources,electrical,electrical,ADJ,CCSU
+plug,connected electrical sources,sources,source,NOUN,CCSU
+videotape,recording,recording,record,VERB,CCSU
+videotape,recording over,recording,record,VERB,CCSU
+videotape,playing movies,playing,play,VERB,CCSU
+videotape,playing movies,movies,movie,NOUN,CCSU
+videotape,shows,shows,show,VERB,CCSU
+videotape,can be put in a bookcase,can,can,AUX,CCSU
+videotape,can be put in a bookcase,put,put,VERB,CCSU
+videotape,can be put in a bookcase,bookcase,bookcase,NOUN,CCSU
+dad,responsibility,responsibility,responsibility,NOUN,CCSU
+dad,father,father,father,NOUN,CCSU
+dad,support,support,support,VERB,CCSU
+dad,relationship,relationship,relationship,NOUN,CCSU
+ankle,break or sprain,break,break,VERB,CCSU
+ankle,break or sprain,sprain,sprain,VERB,CCSU
+ankle,moves foot,moves,move,VERB,CCSU
+ankle,moves foot,foot,foot,NOUN,CCSU
+ankle,helps us walk,helps,help,VERB,CCSU
+ankle,helps us walk,us,we,PRON,CCSU
+ankle,helps us walk,walk,walk,VERB,CCSU
+ankle,run,run,run,VERB,CCSU
+eyeglass,seeing,seeing,see,VERB,CCSU
+eyeglass,time,time,time,NOUN,CCSU
+eyeglass,magnify,magnify,magnify,VERB,CCSU
+eyeglass,using uv rays to burn things,using,use,VERB,CCSU
+eyeglass,using uv rays to burn things,uv,uv,X,CCSU
+eyeglass,using uv rays to burn things,rays,ray,NOUN,CCSU
+eyeglass,using uv rays to burn things,burn,burn,VERB,CCSU
+eyeglass,using uv rays to burn things,things,thing,NOUN,CCSU
+handball,throwing,throwing,throw,VERB,CCSU
+handball,hitting,hitting,hit,VERB,CCSU
+handball,catching,catching,catch,VERB,CCSU
+flamethrower,spin,spin,spin,VERB,CCSU
+flamethrower,fire spread,fire,fire,VERB,CCSU
+flamethrower,fire spread,spread,spread,VERB,CCSU
+pecan,used in food,used,use,VERB,CCSU
+pecan,used in food,food,food,NOUN,CCSU
+pecan,pies,pies,pie,VERB,CCSU
+pecan,trail mix,trail,trail mix,VERB,CCSU
+mushroom,food,food,food,NOUN,CCSU
+mushroom,science,science,science,NOUN,CCSU
+mushroom,psychedelics,psychedelics,psychedelic,NOUN,CCSU
+mushroom,ingredient,ingredient,ingredient,NOUN,CCSU
+icebox,keeps things cold,keeps,keep,VERB,CCSU
+icebox,keeps things cold,things,thing,NOUN,CCSU
+icebox,keeps things cold,cold,cold,ADJ,CCSU
+crayfish,you can eat them,can,can,AUX,CCSU
+crayfish,you can eat them,eat,eat,VERB,CCSU
+crayfish,catch them,catch,catch,VERB,CCSU
+crayfish,release them,release,release,VERB,CCSU
+ferryboat,you can ride it,can,can,AUX,CCSU
+ferryboat,you can ride it,ride,ride,VERB,CCSU
+ferryboat,travel,travel,travel,VERB,CCSU
+counselor,support,support,support,VERB,CCSU
+counselor,encourage,encourage,encourage,VERB,CCSU
+counselor,respect,respect,respect,VERB,CCSU
+thermostat,measure temperature of air,measure,measure,VERB,CCSU
+thermostat,measure temperature of air,temperature,temperature,NOUN,CCSU
+thermostat,measure temperature of air,air,air,NOUN,CCSU
+thermostat,food,food,food,NOUN,CCSU
+thermostat,vehicle,vehicle,vehicle,NOUN,CCSU
+thermostat,humidity,humidity,humidity,NOUN,CCSU
+hammer,build,build,build,VERB,CCSU
+hammer,hit,hit,hit,VERB,CCSU
+hammer,destroy,destroy,destroy,VERB,CCSU
+den,gathering place,gathering,gather,VERB,CCSU
+den,gathering place,place,place,NOUN,CCSU
+den,bear den,bear,bear,NOUN,CCSU
+den,bear den,den,den,ADV,CCSU
+groceries,eat,eat,eat,VERB,CCSU
+groceries,put away,put,put,VERB,CCSU
+groceries,put away,away,put away,VERB,CCSU
+groceries,bring in from your car,bring,bring,VERB,CCSU
+groceries,bring in from your car,car,car,NOUN,CCSU
+headboard,type of frame for bed,type,type,NOUN,CCSU
+headboard,type of frame for bed,frame,frame,NOUN,CCSU
+headboard,type of frame for bed,bed,bed,NOUN,CCSU
+headboard,interior design,interior,interior,ADJ,CCSU
+headboard,interior design,design,design,VERB,CCSU
+chin,looks,looks,look,VERB,CCSU
+chin,can have a dimple,can,can,AUX,CCSU
+chin,can have a dimple,dimple,dimple,NOUN,CCSU
+chin,can look different in a variety of ways,can,can,AUX,CCSU
+chin,can look different in a variety of ways,look,look,VERB,CCSU
+chin,can look different in a variety of ways,different,different,ADJ,CCSU
+chin,can look different in a variety of ways,variety,variety,NOUN,CCSU
+chin,can look different in a variety of ways,ways,way,NOUN,CCSU
+tapestry,hang on wall,hang,hang,VERB,CCSU
+tapestry,hang on wall,wall,wall,NOUN,CCSU
+tapestry,wear around you,wear,wear,VERB,CCSU
+tapestry,wear around you,around,around,VERB,CCSU
+diamond,wear,wear,wear,VERB,CCSU
+diamond,art,art,art,NOUN,CCSU
+diamond,presents,presents,present,VERB,CCSU
+diamond,marriage,marriage,marriage,NOUN,CCSU
+guy,worker,worker,worker,NOUN,CCSU
+guy,husband,husband,husband,NOUN,CCSU
+whistle,blow,blow,blow,VERB,CCSU
+whistle,to call someone ,call,call,NOUN,CCSU
+whistle,to call someone ,someone,someone,PRON,CCSU
+dorm,sleep,sleep,sleep,VERB,CCSU
+dorm,eat,eat,eat,VERB,CCSU
+dorm,relax,relax,relax,VERB,CCSU
+pig,food,food,food,NOUN,CCSU
+pig,pet,pet,pet,VERB,CCSU
+ottoman,sit,sit,sit,VERB,CCSU
+ottoman,lay,lay,lay,VERB,CCSU
+umbrella,cover,cover,cover,VERB,CCSU
+chisel,n,n,not,PART,CCSU
+slacks,wear,wear,wear,VERB,CCSU
+teaspoon,measure,measure,measure,VERB,CCSU
+toothbrush,clean,clean,clean,VERB,CCSU
+wiring,light,light,light,NOUN,CCSU
+questionnaire,data,data,data,NOUN,CCSU
+staircase,different levels,different,different,ADJ,CCSU
+staircase,different levels,levels,level,NOUN,CCSU
+businessman,work,work,work,NOUN,CCSU
+stoneware,houses,houses,house,NOUN,CCSU
+servant,cleaning ,cleaning,clean,VERB,CCSU
+zucchini,food,food,food,NOUN,CCSU
+bellman,door,door,door,NOUN,CCSU
+supper,food,food,food,NOUN,CCSU
+violinist,music,music,music,NOUN,CCSU
+chickenfeed,feed the chicken ,feed,feed,NOUN,CCSU
+chickenfeed,feed the chicken ,chicken,chicken,NOUN,CCSU
+shipman,control boat,control,control,VERB,CCSU
+shipman,control boat,boat,boat,NOUN,CCSU
+clerk,worker,worker,work,VERB,CCSU
+clerk,cash out,cash,cash out,VERB,CCSU
+clerk,helper,helper,help,VERB,CCSU
+leaflet,write,write,write,VERB,CCSU
+leaflet,read,read,read,VERB,CCSU
+pen,write,write,write,VERB,CCSU
+tunic,wear,wear,wear,VERB,CCSU
+tunic,sew,sew,sew,VERB,CCSU
+atlas,read,read,read,VERB,CCSU
+atlas,learn,learn,learn,VERB,CCSU
+atlas,research,research,research,VERB,CCSU
+pail,hold things,hold,hold,VERB,CCSU
+pail,hold things,things,thing,NOUN,CCSU
+pail,carry,carry,carry,VERB,CCSU
+jumper,wear,wear,wear,VERB,CCSU
+jumper,sew,sew,sew,VERB,CCSU
+lad,person,person,person,NOUN,CCSU
+lad,friend,friend,friend,NOUN,CCSU
+aquarium,research,research,research,VERB,CCSU
+aquarium,view,view,view,VERB,CCSU
+aquarium,have fun,fun,fun,NOUN,CCSU
+sesame,eat,eat,eat,VERB,CCSU
+sesame,cook,cook,cake,VERB,CCSU
+sesame,season,season,season,VERB,CCSU
+cornflakes,eat,eat,eat,VERB,CCSU
+cornflakes,cook,cook,cake,VERB,CCSU
+okra,eat,eat,eat,VERB,CCSU
+okra,cook,cook,cake,VERB,CCSU
+okra,farm,farm,farm,NOUN,CCSU
+licence,document,document,document,NOUN,CCSU
+licence,identification,identification,idenfity,VERB,CCSU
+licence,certified,certified,certify,VERB,CCSU
+clock,tell time,tell,tell,VERB,CCSU
+clock,tell time,time,time,VERB,CCSU
+clock,schedule,schedule,schedule,VERB,CCSU
+saucepan,cook,cook,cake,VERB,CCSU
+saucepan,hold,hold,hold,VERB,CCSU
+matchwood,fire,fire,fire,VERB,CCSU
+matchwood,build,build,build,VERB,CCSU
+stomach,hold food,hold,hold,VERB,CCSU
+stomach,hold food,food,food,NOUN,CCSU
+stomach,digest,digest,digest,VERB,CCSU
+equipment,build,build,build,VERB,CCSU
+equipment,use,use,use,VERB,CCSU
+equipment,experiment,experiment,experiment,VERB,CCSU
+dustbin,hold,hold,hold,VERB,CCSU
+dustbin,clean,clean,clean,VERB,CCSU
+dustbin,empty,empty,empty,VERB,CCSU
+scrapbook,information,information,inform,VERB,CCSU
+scrapbook,pictures,pictures,picture,NOUN,CCSU
+scrapbook,memories,memories,memory,VERB,CCSU
+scrapbook,read,read,read,VERB,CCSU
+scrapbook,write,write,write,VERB,CCSU
+awning,protect,protect,protect,VERB,CCSU
+awning,shade,shade,shade,VERB,CCSU
+educator,teacher,teacher,teach,VERB,CCSU
+educator,learn,learn,learn,VERB,CCSU
+educator,listen,listen,listen,VERB,CCSU
+backscratcher,scratch,scratch,scratch,VERB,CCSU
+honeycomb,eat,eat,eat,VERB,CCSU
+honeycomb,cook,cook,cake,VERB,CCSU
+honeycomb,farm,farm,farm,NOUN,CCSU
+stocking,hold,hold,hold,VERB,CCSU
+stocking,wear,wear,wear,VERB,CCSU
+stocking,warm,warm,warm,VERB,CCSU
+leather,wear,wear,wear,VERB,CCSU
+leather,make,make,make,VERB,CCSU
+leather,warmth,warmth,warm,VERB,CCSU
+sixpence,money,money,money,NOUN,CCSU
+sixpence,buy,buy,buy,VERB,CCSU
+walnut,eat,eat,eat,VERB,CCSU
+walnut,farm,farm,farm,NOUN,CCSU
+walnut,cook,cook,cake,VERB,CCSU
+pamphlet,read,read,read,VERB,CCSU
+pamphlet,write,write,write,VERB,CCSU
+pamphlet,inform,inform,inform,VERB,CCSU
+wristband,fashion,fashion,fashion,NOUN,CCSU
+mantel,hitting,hitting,hit,VERB,CCSU
+mantel,throwing,throwing,throw,VERB,CCSU
+mantel,destroying,destroying,destroie,VERB,CCSU
+museum,holding expensive and old artifacts,holding,hold,VERB,CCSU
+museum,holding expensive and old artifacts,expensive,expensive,ADJ,CCSU
+museum,holding expensive and old artifacts,old,old,ADJ,CCSU
+museum,holding expensive and old artifacts,artifacts,artifact,NOUN,CCSU
+museum,a perfect place for bandits to steal from,perfect,perfect,ADJ,CCSU
+museum,a perfect place for bandits to steal from,place,place,NOUN,CCSU
+museum,a perfect place for bandits to steal from,bandits,bandit,NOUN,CCSU
+museum,a perfect place for bandits to steal from,steal,steal from,VERB,CCSU
+beaker,science,science,science,VERB,CCSU
+beaker,holding liquids of all sorts,holding,hold,VERB,CCSU
+beaker,holding liquids of all sorts,liquids,liquid,NOUN,CCSU
+beaker,holding liquids of all sorts,sorts,sort,VERB,CCSU
+pedometer,tracking your steps,tracking,track,VERB,CCSU
+pedometer,tracking your steps,steps,step,NOUN,CCSU
+pedometer,can probably be useful for poilice if someone goes missing,can,can,AUX,CCSU
+pedometer,can probably be useful for poilice if someone goes missing,probably,probably,ADV,CCSU
+pedometer,can probably be useful for poilice if someone goes missing,useful,useful,ADJ,CCSU
+pedometer,can probably be useful for poilice if someone goes missing,police,police,NOUN,CCSU
+pedometer,can probably be useful for poilice if someone goes missing,someone,someone,PRON,CCSU
+pedometer,can probably be useful for poilice if someone goes missing,goes,go,VERB,CCSU
+pedometer,can probably be useful for poilice if someone goes missing,missing,miss,ADJ,CCSU
+rose,giving to someone to show affection,giving,give,VERB,CCSU
+rose,giving to someone to show affection,someone,someone,PRON,CCSU
+rose,giving to someone to show affection,show,show,VERB,CCSU
+rose,giving to someone to show affection,affection,affection,VERB,CCSU
+rose,present,present,present,VERB,CCSU
+rose,gift,gift,gift,VERB,CCSU
+rose,decoration,decoration,decorate,VERB,CCSU
+rose,symbol of love,symbol,symbol,NOUN,CCSU
+rose,symbol of love,love,love,VERB,CCSU
+hookers,sex workers deserving of respect,sex,sex,VERB,CCSU
+hookers,sex workers deserving of respect,workers,work,VERB,CCSU
+hookers,sex workers deserving of respect,deserving,deserve,VERB,CCSU
+hookers,sex workers deserving of respect,respect,respect,VERB,CCSU
+weaponry,literally nothing,literally,literally,ADV,CCSU
+weaponry,literally nothing,nothing,nothing,PRON,CCSU
+weaponry,except maybe pistols for self defence,except,except,ADP,CCSU
+weaponry,except maybe pistols for self defence,maybe,maybe,ADV,CCSU
+weaponry,except maybe pistols for self defence,pistols,pistol,NOUN,CCSU
+weaponry,except maybe pistols for self defence,self,self,NOUN,CCSU
+weaponry,except maybe pistols for self defence,defense,defense,VERB,CCSU
+tuna,killing people with their teeth,killing,kill,VERB,CCSU
+tuna,killing people with their teeth,people,people,NOUN,CCSU
+tuna,killing people with their teeth,teeth,tooth,NOUN,CCSU
+tuna,food,food,food,NOUN,CCSU
+tuna,make great canned birthday cakes for cats,make,make,VERB,CCSU
+tuna,make great canned birthday cakes for cats,great,great,ADJ,CCSU
+tuna,make great canned birthday cakes for cats,canned,can,VERB,CCSU
+tuna,make great canned birthday cakes for cats,birthday,birthday,NOUN,CCSU
+tuna,make great canned birthday cakes for cats,cakes,cake,NOUN,CCSU
+tuna,make great canned birthday cakes for cats,cats,cat,NOUN,CCSU
+crankshaft,literally just for its one use lol,literally,literally,ADV,CCSU
+crankshaft,literally just for its one use lol,just,just,ADV,CCSU
+crankshaft,literally just for its one use lol,one,one,NUM,CCSU
+crankshaft,literally just for its one use lol,use,use,VERB,CCSU
+bistro,eating,eating,eat,VERB,CCSU
+bistro,socializing,socializing,socialize,VERB,CCSU
+bistro,drinking,drinking,drink,VERB,CCSU
+bistro,meeting someone new ,meeting,meet,VERB,CCSU
+bistro,meeting someone new ,someone,someone,PRON,CCSU
+bistro,meeting someone new ,new,new,ADJ,CCSU
+antique,speculate the story behind it,speculate,speculate,VERB,CCSU
+antique,speculate the story behind it,story,story,NOUN,CCSU
+antique,speculate the story behind it,behind,behind,ADP,CCSU
+antique,historical object,historical,historical,ADJ,CCSU
+antique,historical object,object,object,ADV,CCSU
+antique,educational ,educational,educate,VERB,CCSU
+cleavers,ground coffee,ground,ground,NOUN,CCSU
+cleavers,ground coffee,coffee,coffee,NOUN,CCSU
+cleavers,food ,food,food,NOUN,CCSU
+lifebuoy,keeping people afloat,keeping,keep,VERB,CCSU
+lifebuoy,keeping people afloat,people,people,NOUN,CCSU
+lifebuoy,keeping people afloat,afloat,float,VERB,CCSU
+lifebuoy,throwing one at someone ,throwing,throw,VERB,CCSU
+lifebuoy,throwing one at someone ,one,one,NUM,CCSU
+lifebuoy,throwing one at someone ,someone,someone,PRON,CCSU
+fish,food for both people and aquatic life,food,food,NOUN,CCSU
+fish,food for both people and aquatic life,people,people,NOUN,CCSU
+fish,food for both people and aquatic life,aquatic,aquatic,ADJ,CCSU
+fish,food for both people and aquatic life,life,life,NOUN,CCSU
+fish,beneficial to the earth depending on the species of fish and their purposes,beneficial,beneficial,ADJ,CCSU
+fish,beneficial to the earth depending on the species of fish and their purposes,earth,earth,NOUN,CCSU
+fish,beneficial to the earth depending on the species of fish and their purposes,depending,depend,VERB,CCSU
+fish,beneficial to the earth depending on the species of fish and their purposes,species,species,NOUN,CCSU
+fish,beneficial to the earth depending on the species of fish and their purposes,fish,fish,NOUN,CCSU
+fish,beneficial to the earth depending on the species of fish and their purposes,purposes,purpose,NOUN,CCSU
+track,running,running,run,VERB,CCSU
+track,jogging,jogging,jogge,VERB,CCSU
+track,sprinting,sprinting,sprint,VERB,CCSU
+track,practicing,practicing,practice,VERB,CCSU
+dressmaker,making dresses..,making,make,NOUN,CCSU
+dressmaker,making dresses..,dresses,dress,VERB,CCSU
+coffee,energizer,energizer,energy,VERB,CCSU
+coffee,can cause severe burns,can,can,AUX,CCSU
+coffee,can cause severe burns,cause,cause,NOUN,CCSU
+coffee,can cause severe burns,severe,severe,ADJ,CCSU
+coffee,can cause severe burns,burns,burn,VERB,CCSU
+sweatband,slingshot,slingshot,slingshot,VERB,CCSU
+sweatband,soaking up sweat ,soaking,soak,VERB,CCSU
+sweatband,soaking up sweat ,sweat,sweat,X,CCSU
+burlap,potato sackss,potato,potato,NOUN,CCSU
+burlap,potato sackss,sacks,sack,NOUN,CCSU
+shopper,shopping,shopping,shop,VERB,CCSU
+tourniquet,stop life threatening bleeding,stop,stop,VERB,CCSU
+tourniquet,stop life threatening bleeding,life,life,NOUN,CCSU
+tourniquet,stop life threatening bleeding,threatening,threaten,VERB,CCSU
+tourniquet,stop life threatening bleeding,bleeding,bleed,VERB,CCSU
+heads,head butting,head,head,NOUN,CCSU
+heads,head butting,butting,but,VERB,CCSU
+heads,concussions,concussions,concussion,NOUN,CCSU
+heads,eating,eating,eat,VERB,CCSU
+heads,thinking,thinking,think,VERB,CCSU
+heads,talking,talking,talk,VERB,CCSU
+husk,layer or shell,layer,layer,NOUN,CCSU
+husk,layer or shell,shell,shell,NOUN,CCSU
+gingerbread,eating,eating,eat,VERB,CCSU
+gingerbread,baking,baking,bake,VERB,CCSU
+gingerbread,throwing at someone when its stale,throwing,throw,VERB,CCSU
+gingerbread,throwing at someone when its stale,someone,someone,PRON,CCSU
+gingerbread,throwing at someone when its stale,stale,stale,NOUN,CCSU
+scotch,alcohol,alcohol,alcohol,NOUN,CCSU
+tinderbox,getting messages on tinder,getting,get,VERB,CCSU
+rope,hitting someone,hitting,hit,VERB,CCSU
+rope,hitting someone,someone,someone,PRON,CCSU
+rope,tying something or someone,tying,tie,VERB,CCSU
+rope,tying something or someone,something,something,PRON,CCSU
+rope,tying something or someone,someone,someone,PRON,CCSU
+rope,pulling someone up,pulling,pull,VERB,CCSU
+rope,pulling someone up,someone,someone,PRON,CCSU
+rope,holding something together,holding,hold,VERB,CCSU
+rope,holding something together,something,something,PRON,CCSU
+rope,holding something together,together,together,ADV,CCSU
+shingle,a nasty disease,nasty,nasty,ADJ,CCSU
+shingle,a nasty disease,disease,disease,NOUN,CCSU
+dictionary,educating oneself on certain words and their definitions,educating,educate,VERB,CCSU
+dictionary,educating oneself on certain words and their definitions,oneself,oneself,PRON,CCSU
+dictionary,educating oneself on certain words and their definitions,certain,certain,ADJ,CCSU
+dictionary,educating oneself on certain words and their definitions,words,word,NOUN,CCSU
+dictionary,educating oneself on certain words and their definitions,definitions,define,VERB,CCSU
+booklet,keep track of things,keep,keep,VERB,CCSU
+booklet,keep track of things,track,track,VERB,CCSU
+booklet,keep track of things,things,thing,NOUN,CCSU
+blowgun,hunting,hunting,hunt,VERB,CCSU
+blowgun,target practice,target,target,VERB,CCSU
+blowgun,target practice,practice,practice,VERB,CCSU
+blowgun,pest control,pest,pest control,VERB,CCSU
+blowgun,pest control,control,control,VERB,CCSU
+blowgun,harm against others,harm,harm,VERB,CCSU
+blowgun,harm against others,others,other,NOUN,CCSU
+breadboard,cutting board,cutting,cut,VERB,CCSU
+breadboard,cutting board,board,board,NOUN,CCSU
+breadboard,protect surfaces from hot pots and pans,protect,protect,VERB,CCSU
+breadboard,protect surfaces from hot pots and pans,surfaces,surface,NOUN,CCSU
+breadboard,protect surfaces from hot pots and pans,hot,hot,ADJ,CCSU
+breadboard,protect surfaces from hot pots and pans,pots,pot,NOUN,CCSU
+breadboard,protect surfaces from hot pots and pans,pans,pans,NOUN,CCSU
+breadboard,appetizer board,appetizer,appetizer,NOUN,CCSU
+breadboard,appetizer board,board,board,NOUN,CCSU
+breadboard,serving food,serving,serive,VERB,CCSU
+breadboard,serving food,food,food,NOUN,CCSU
+breadboard,decoration,decoration,decorate,VERB,CCSU
+school,learning,learning,learn,VERB,CCSU
+school,teaching,teaching,teach,VERB,CCSU
+school,performances,performances,perform,VERB,CCSU
+school,concerts,concerts,concert,NOUN,CCSU
+school,graduations,graduations,graduate,VERB,CCSU
+school,ceremonies,ceremonies,ceremony,NOUN,CCSU
+school,disaster relief shelter,disaster,disaster,NOUN,CCSU
+school,disaster relief shelter,relief,relief,NOUN,CCSU
+school,disaster relief shelter,shelter,shelter,VERB,CCSU
+school,meeting place,meeting,meet,VERB,CCSU
+school,meeting place,place,place,NOUN,CCSU
+topaz,jewelry,jewelry,jewelry,NOUN,CCSU
+topaz,decoration,decoration,decorate,VERB,CCSU
+waist,hula hooping,hula,hula hoop,VERB,CCSU
+waist,hang tools from belt,hang,hang,VERB,CCSU
+waist,hang tools from belt,tools,tool,NOUN,CCSU
+waist,hang tools from belt,belt,belt,NOUN,CCSU
+waist,fashion,fashion,fashion,NOUN,CCSU
+debris,block flooding,block,block,VERB,CCSU
+debris,block flooding,flooding,flooding,NOUN,CCSU
+debris,throw it away,throw,throw,VERB,CCSU
+debris,throw it away,away,away,ADV,CCSU
+debris,clean it up,clean,clean,VERB,CCSU
+earplugs,block loud sounds,block,block,VERB,CCSU
+earplugs,block loud sounds,loud,loud,ADV,CCSU
+earplugs,block loud sounds,sounds,sound,NOUN,CCSU
+earplugs,protect hearing,protect,protect,VERB,CCSU
+earplugs,protect hearing,hearing,hear,NOUN,CCSU
+earplugs,block out annoying sounds,block,block,VERB,CCSU
+earplugs,block out annoying sounds,annoying,annoy,VERB,CCSU
+earplugs,block out annoying sounds,sounds,sound,NOUN,CCSU
+earplugs,use them during a test to help focus,use,use,VERB,CCSU
+earplugs,use them during a test to help focus,test,test,NOUN,CCSU
+earplugs,use them during a test to help focus,help,help,VERB,CCSU
+earplugs,use them during a test to help focus,focus,focus,VERB,CCSU
+respirator,protect respiratory system,protect,protect,VERB,CCSU
+respirator,protect respiratory system,respiratory,respirate,VERB,CCSU
+respirator,protect respiratory system,system,system,NOUN,CCSU
+respirator,filter out harmful particulates and bacteria,filter,filter,VERB,CCSU
+respirator,filter out harmful particulates and bacteria,harmful,harmful,ADJ,CCSU
+respirator,filter out harmful particulates and bacteria,particulates,particulate,NOUN,CCSU
+respirator,filter out harmful particulates and bacteria,bacteria,bacteria,NOUN,CCSU
+respirator,protect from harmful chemicals and gasses,protect,protect,VERB,CCSU
+respirator,protect from harmful chemicals and gasses,harmful,harmful,ADJ,CCSU
+respirator,protect from harmful chemicals and gasses,chemicals,chemical,NOUN,CCSU
+respirator,protect from harmful chemicals and gasses,gasses,gass,NOUN,CCSU
+respirator,part of a costume,part,part,NOUN,CCSU
+respirator,part of a costume,costume,costume,NOUN,CCSU
+dye,hair,hair,hair,NOUN,CCSU
+dye,food,food,food,NOUN,CCSU
+dye,clothing,clothing,clothing,NOUN,CCSU
+dye,paint,paint,paint,VERB,CCSU
+dye,ink,ink,ink,VERB,CCSU
+fieldstone,make into a house,make,make,VERB,CCSU
+fieldstone,make into a house,house,house,NOUN,CCSU
+fieldstone,chimney,chimney,chimney,NOUN,CCSU
+fieldstone,oven,oven,oven,VERB,CCSU
+fieldstone,hot rock cooking,hot,hot,ADJ,CCSU
+fieldstone,hot rock cooking,rock,rock,NOUN,CCSU
+fieldstone,hot rock cooking,cooking,cook,VERB,CCSU
+hound,hunting,hunting,hunt,VERB,CCSU
+hound,retrieve birds,retrieve,retrieve,VERB,CCSU
+hound,retrieve birds,birds,bird,NOUN,CCSU
+hound,flush out birds,flush,flush,VERB,CCSU
+hound,flush out birds,birds,bird,NOUN,CCSU
+hound,pet,pet,pet,NOUN,CCSU
+hound,support animal,support,support,VERB,CCSU
+hound,support animal,animal,animal,NOUN,CCSU
+hound,police animal,police,police,NOUN,CCSU
+hound,police animal,animal,animal,NOUN,CCSU
+hound,play with it,play,play,VERB,CCSU
+guardrail,prevent crashes from being worse,prevent,prevent,VERB,CCSU
+guardrail,prevent crashes from being worse,crashes,crashes,VERB,CCSU
+guardrail,prevent crashes from being worse,worse,worse,ADJ,CCSU
+guardrail,keep people from driving off a cliff,keep,keep,VERB,CCSU
+guardrail,keep people from driving off a cliff,people,people,NOUN,CCSU
+guardrail,keep people from driving off a cliff,driving,drive,VERB,CCSU
+guardrail,keep people from driving off a cliff,cliff,cliff,NOUN,CCSU
+guardrail,protect homes,protect,protect,VERB,CCSU
+guardrail,protect homes,homes,home,NOUN,CCSU
+knickers,wear them,wear,wear,VERB,CCSU
+knickers,advertising,advertising,advertise,VERB,CCSU
+knickers,comedy,comedy,comedy,NOUN,CCSU
+dish,serving food,serving,serive,VERB,CCSU
+dish,serving food,food,food,NOUN,CCSU
+dish,eat food off of it,eat,eat,VERB,CCSU
+dish,eat food off of it,food,food,NOUN,CCSU
+dish,prevent burns,prevent,prevent,VERB,CCSU
+dish,prevent burns,burns,burn,VERB,CCSU
+dish,smash it,smash,smash,VERB,CCSU
+brow,tattoos,tattoos,tattoo,VERB,CCSU
+centipede,scare people,scare,scare,VERB,CCSU
+centipede,scare people,people,people,NOUN,CCSU
+centipede,examine it,examine,examine,VERB,CCSU
+centipede,cook it,cook,cake,VERB,CCSU
+marketeer,advertising,advertising,advertise,VERB,CCSU
+marketeer,marketing,marketing,market,VERB,CCSU
+marketeer,cold calling,cold,cold,ADJ,CCSU
+marketeer,cold calling,calling,call,VERB,CCSU
+marketeer,public opinion survey,public,public,ADJ,CCSU
+marketeer,public opinion survey,opinion,opinion,NOUN,CCSU
+marketeer,public opinion survey,survey,survey,VERB,CCSU
+marketeer,product reviews,product,product,NOUN,CCSU
+marketeer,product reviews,reviews,review,VERB,CCSU
+wallboard,hang a to do list,hang,hang,VERB,CCSU
+wallboard,hang a to do list,list,list,VERB,CCSU
+wallboard,organization,organization,organize,VERB,CCSU
+wallboard,reminders,reminders,remind,VERB,CCSU
+wallboard,decoration,decoration,decorate,VERB,CCSU
+wrist,watch,watch,watch,VERB,CCSU
+wrist,self-defense,self,self,NOUN,CCSU
+wrist,self-defense,defense,defense,VERB,CCSU
+wrist,jewelry ,jewelry,jewelry,NOUN,CCSU
+badminton,game,game,game,NOUN,CCSU
+badminton,fun,fun,fun,NOUN,CCSU
+badminton,exercise,exercise,exercise,VERB,CCSU
+badminton,entertainment,entertainment,entertainment,NOUN,CCSU
+trampoline,games,games,game,NOUN,CCSU
+trampoline,exercise,exercise,exercise,VERB,CCSU
+trampoline,gymnastics,gymnastics,gymnastic,VERB,CCSU
+trampoline,bounce back balls,bounce,bounce,VERB,CCSU
+trampoline,bounce back balls,back,back,ADV,CCSU
+trampoline,bounce back balls,balls,ball,NOUN,CCSU
+trampoline,advertisement,advertisement,advertise,VERB,CCSU
+trampoline,fun,fun,fun,NOUN,CCSU
+pulley,move heavy things,move,move,VERB,CCSU
+pulley,move heavy things,heavy,heavy,ADJ,CCSU
+pulley,move heavy things,things,thing,NOUN,CCSU
+pulley,reduce amount of force needed to move things,reduce,reduce,NOUN,CCSU
+pulley,reduce amount of force needed to move things,amount,amount,NOUN,CCSU
+pulley,reduce amount of force needed to move things,force,force,VERB,CCSU
+pulley,reduce amount of force needed to move things,needed,need,VERB,CCSU
+pulley,reduce amount of force needed to move things,move,move,VERB,CCSU
+pulley,reduce amount of force needed to move things,things,thing,NOUN,CCSU
+pulley,exercise,exercise,exercise,VERB,CCSU
+pulley,resistance training,resistance,resistance,VERB,CCSU
+pulley,resistance training,training,train,VERB,CCSU
+pulley,belts in engines,belts,belts,NOUN,CCSU
+pulley,belts in engines,engines,engine,NOUN,CCSU
+Fern,produce oxygen,produce,produce,VERB,CCSU
+Fern,produce oxygen,oxygen,oxygen,NOUN,CCSU
+Fern,decoration,decoration,decorate,NOUN,CCSU
+Fern,food for wildlife,food,food,NOUN,CCSU
+Fern,food for wildlife,wildlife,wildlife,NOUN,CCSU
+Fern,shelter,shelter,shelter,VERB,CCSU
+Fern,fan,fan,fan,VERB,CCSU
+deck,parties,parties,party,VERB,CCSU
+deck,barbeques,barbecues,barbecue,NOUN,CCSU
+deck,dinners,dinners,dinner,NOUN,CCSU
+deck,gatherings,gatherings,gather,VERB,CCSU
+deck,entertainment,entertainment,entertain,VERB,CCSU
+deck,stage,stage,stage,VERB,CCSU
+bowling,team building,team,team,NOUN,CCSU
+bowling,team building,building,build,VERB,CCSU
+bowling,fun,fun,fun,NOUN,CCSU
+bowling,competition,competition,compete,VERB,CCSU
+bowling,exercise,exercise,exercise,NOUN,CCSU
+waffle,food,food,food,NOUN,CCSU
+waffle,family time,family,family,NOUN,CCSU
+waffle,family time,time,time,NOUN,CCSU
+waffle,activity,activity,activity,NOUN,CCSU
+greenhouse,grow flowers,grow,grow,VERB,CCSU
+greenhouse,grow flowers,flowers,flower,NOUN,CCSU
+greenhouse,grow food,grow,grow,VERB,CCSU
+greenhouse,grow food,food,food,NOUN,CCSU
+greenhouse,community garden,community,community,NOUN,CCSU
+greenhouse,community garden,garden,garden,NOUN,CCSU
+greenhouse,hydroponics,hydroponics,hydroponic,NOUN,CCSU
+limb,tree house,tree,tree,NOUN,CCSU
+limb,tree house,house,house,NOUN,CCSU
+limb,swing,swing,swing,VERB,CCSU
+limb,fire wood,fire,fire,NOUN,CCSU
+limb,fire wood,wood,wood,NOUN,CCSU
+limb,sculpture,sculpture,sculpt,VERB,CCSU
+limb,wood working,wood,wood,NOUN,CCSU
+limb,wood working,working,work,VERB,CCSU
+tee,golfing,golfing,golf,VERB,CCSU
+tee,block small holes,block,block,VERB,CCSU
+tee,block small holes,small,small,ADJ,CCSU
+tee,block small holes,holes,hole,NOUN,CCSU
+honeysuckle,eat,eat,eat,VERB,CCSU
+beautician,skincare,skincare,skincare,NOUN,CCSU
+beautician,facial,facial,facial,ADJ,CCSU
+beautician,eyebrows,eyebrows,eyebrow,NOUN,CCSU
+beautician,treatment,treatment,treat,VERB,CCSU
+beautician,eyelashes,eyelashes,eyelash,NOUN,CCSU
+beautician,hair,hair,hair,NOUN,CCSU
+knitting,repair,repair,repair,VERB,CCSU
+soccer,entertainment,entertainment,enetertain,VERB,CCSU
+soccer,play,play,play,VERB,CCSU
+soccer,competition,competition,compete,VERB,CCSU
+soccer,bonding,bonding,bond,VERB,CCSU
+stagecoach,carry,carry,carry,VERB,CCSU
+stagecoach,transport,transport,transport,VERB,CCSU
+stagecoach,travel,travel,travel,VERB,CCSU
+baggage,carry,carry,carry,VERB,CCSU
+baggage,travel,travel,travel,VERB,CCSU
+baggage,organize,organize,organize,VERB,CCSU
+eye,see,see,see,VERB,CCSU
+eye,perceive color,perceive,perceive,VERB,CCSU
+eye,perceive color,color,color,NOUN,CCSU
+eye,read,read,read,VERB,CCSU
+bullet,forensic evidence,forensic,forensic,ADJ,CCSU
+bullet,forensic evidence,evidence,evidence,VERB,CCSU
+bullet,kill,kill,kill,VERB,CCSU
+bullet,hunt,hunt,hunt,VERB,CCSU
+triceps,push-ups,push,push,VERB,CCSU
+triceps,push-ups,ups,push-up,VERB,CCSU
+triceps,lift,lift,lift,VERB,CCSU
+triceps,carry,carry,carry,VERB,CCSU
+triceps,stretch,stretch,stretch,VERB,CCSU
+electrocardiogram,measure heart activity,measure,measure,VERB,CCSU
+electrocardiogram,measure heart activity,heart,heart,NOUN,CCSU
+electrocardiogram,measure heart activity,activity,activity,NOUN,CCSU
+musician,read sheet music,read,read,VERB,CCSU
+musician,read sheet music,sheet,sheet,NOUN,CCSU
+musician,read sheet music,music,music,NOUN,CCSU
+musician,play instruments,play,play,VERB,CCSU
+musician,play instruments,instruments,instrument,NOUN,CCSU
+musician,sight-read,sight,sight-read,VERB,CCSU
+musician,sight-read,read,read,VERB,CCSU
+musician,sing,sing,se,VERB,CCSU
+whip,control animals,control,control,VERB,CCSU
+whip,control animals,animals,animal,NOUN,CCSU
+whip,weapon,weapon,weapon,VERB,CCSU
+midwife,birth assistance,birth,birth,VERB,CCSU
+midwife,birth assistance,assistance,assist,VERB,CCSU
+midwife,advice,advice,advice,VERB,CCSU
+shoehorn,put on shoes,put,put,VERB,CCSU
+shoehorn,put on shoes,shoes,shoe,VERB,CCSU
+shoehorn,pry things open,pry,pry,VERB,CCSU
+shoehorn,pry things open,things,thing,NOUN,CCSU
+shoehorn,pry things open,open,open,VERB,CCSU
+holder,hold things,hold,hold,VERB,CCSU
+holder,hold things,things,thing,NOUN,CCSU
+holder,organize,organize,organize,VERB,CCSU
+attire,wear,wear,wear,VERB,CCSU
+attire,style,style,style,NOUN,CCSU
+attire,accessorize,accessorize,accessorize,VERB,CCSU
+runner,decorate table,decorate,decorate,VERB,CCSU
+runner,decorate table,table,table,NOUN,CCSU
+belongings,wear,wear,wear,VERB,CCSU
+belongings,organize,organize,organize,VERB,CCSU
+belongings,read,read,read,VERB,CCSU
+belongings,give away,give,give,VERB,CCSU
+belongings,give away,away,away,ADV,CCSU
+belongings,share,share,share,NOUN,CCSU
+tile,decorate house,decorate,decorate,VERB,CCSU
+tile,decorate house,house,house,NOUN,CCSU
+tile,art,art,art,NOUN,CCSU
+tile,bath,bath,bath,NOUN,CCSU
+tile,floor,floor,floor,NOUN,CCSU
+tile,shower,shower,shower,NOUN,CCSU
+axes,cut firewood,cut,cut,VERB,CCSU
+axes,cut firewood,firewood,firewood,NOUN,CCSU
+axes,cut trees,cut,cut,VERB,CCSU
+axes,cut trees,trees,tree,NOUN,CCSU
+axes,kill,kill,kill,VERB,CCSU
+tenant,payment,payment,pay,VERB,CCSU
+softball,throw,throw,throw,VERB,CCSU
+softball,catch,catch,catch,VERB,CCSU
+softball,play,play,play,VERB,CCSU
+softball,hit,hit,hit,VERB,CCSU
+outhouse,bathroom,bathroom,bathroom,VERB,CCSU
+trolley,transport,transport,transport,VERB,CCSU
+trolley,travel,travel,travel,VERB,CCSU
+trolley,carry,carry,carry,VERB,CCSU
+surgeon,surgery,surgery,surgery,NOUN,CCSU
+diploma,job,job,job,NOUN,CCSU
+diploma,display,display,display,VERB,CCSU
+beret,wear,wear,wear,VERB,CCSU
+stirrer,stir,stir,stir,VERB,CCSU
+stirrer,cook,cook,cake,VERB,CCSU
+stirrer,mix,mix,mix,VERB,CCSU
+farmer,to grow food,grow,grow,VERB,CCSU
+farmer,to grow food,food,food,NOUN,CCSU
+custodian,to clean,clean,clean,VERB,CCSU
+lemon,for water,water,water,NOUN,CCSU
+lemon,to make lemonade,make,make,VERB,CCSU
+lemon,to make lemonade,lemonade,lemonade,NOUN,CCSU
+lemon,to eat,eat,eat,VERB,CCSU
+nightshirt,to wear,wear,wear,VERB,CCSU
+cardboard,to use for a project,use,use,VERB,CCSU
+cardboard,to use for a project,project,project,NOUN,CCSU
+cardboard,to build something,build,build,VERB,CCSU
+cardboard,to build something,something,something,PRON,CCSU
+cashier,to check out people,check,check,VERB,CCSU
+cashier,to check out people,people,people,NOUN,CCSU
+cashier,to put items away,put,put,VERB,CCSU
+cashier,to put items away,items,item,NOUN,CCSU
+cashier,to put items away,away,away,ADV,CCSU
+dinnerware,to serve food,serve,serve,VERB,CCSU
+dinnerware,to serve food,food,food,NOUN,CCSU
+nutmeg,to add flavor to food,add,add,VERB,CCSU
+nutmeg,to add flavor to food,flavor,flavor,VERB,CCSU
+nutmeg,to add flavor to food,food,food,NOUN,CCSU
+Taco,to eat,eat,eat,VERB,CCSU
+streets,to walk on,walk,walk,VERB,CCSU
+farm,to grow food,grow,grow,VERB,CCSU
+farm,to grow food,food,food,NOUN,CCSU
+pajamas,to wear when going to sleep,wear,wear,VERB,CCSU
+pajamas,to wear when going to sleep,going,go,VERB,CCSU
+pajamas,to wear when going to sleep,sleep,sleep,NOUN,CCSU
+cone,for ice cream,ice,ice cream,NOUN,CCSU
+water,drank,drank,drink,VERB,CCSU
+water,cooking,cooking,cook,VERB,CCSU
+water,baking,baking,bake,VERB,CCSU
+water,growing plants,growing,grow,VERB,CCSU
+water,growing plants,plants,plant,NOUN,CCSU
+water,shower,shower,shower,NOUN,CCSU
+water,boil,boil,boil,VERB,CCSU
+water,clean,clean,clean,VERB,CCSU
+golf,played,played,play,VERB,CCSU
+golf,hit,hit,hit,VERB,CCSU
+golf,thrown,thrown,throw,VERB,CCSU
+golf,kicked,kicked,kick,VERB,CCSU
+broomstick,sweep,sweep,sweep,VERB,CCSU
+broomstick,clean,clean,clean,VERB,CCSU
+thong,underwear,underwear,underwear,VERB,CCSU
+thong,prevent underwear lines,prevent,prevent,VERB,CCSU
+thong,prevent underwear lines,underwear,underwear,ADJ,CCSU
+thong,prevent underwear lines,lines,line,NOUN,CCSU
+thong,comfort,comfort,comfort,NOUN,CCSU
+thong,worn,worn,wear,VERB,CCSU
+thong,dressed,dressed,dress,VERB,CCSU
+thong,outfit,outfit,outfit,NOUN,CCSU
+baseboard,standing,standing,stand,VERB,CCSU
+baseboard,cleaning,cleaning,clean,VERB,CCSU
+baseboard,building,building,build,VERB,CCSU
+crap,project,project,project,NOUN,CCSU
+crap,thrown away,thrown,throw,VERB,CCSU
+crap,thrown away,away,throw away,VERB,CCSU
+driver,driving,driving,drive,VERB,CCSU
+driver,car,car,car,NOUN,CCSU
+driver,van,van,van,NOUN,CCSU
+driver,bus,bus,bus,NOUN,CCSU
+driver,transportation,transportation,transport,VERB,CCSU
+councilman,making decisions,making,make,NOUN,CCSU
+councilman,making decisions,decisions,decide,VERB,CCSU
+councilman,voting,voting,vote,VERB,CCSU
+councilman,create,create,create,VERB,CCSU
+diagram,visual,visual,visual,ADJ,CCSU
+diagram,research,research,research,VERB,CCSU
+diagram,data,data,data,VERB,CCSU
+diagram,presenting,presenting,present,VERB,CCSU
+clergyman,religion,religion,religion,NOUN,CCSU
+clergyman,religious information,religious,religious,ADJ,CCSU
+clergyman,religious information,information,inform,VERB,CCSU
+clergyman,spreading religion ,spreading,spread,VERB,CCSU
+clergyman,spreading religion ,religion,religion,NOUN,CCSU
+chocolate,eaten,eaten,eat,VERB,CCSU
+chocolate,baked,baked,bake,VERB,CCSU
+chocolate,mixed,mixed,mix,VERB,CCSU
+chocolate,gift,gift,gift,VERB,CCSU
+chow,eating,eating,eat,VERB,CCSU
+chow,cooking,cooking,cook,VERB,CCSU
+cervix,sex,sex,sex,VERB,CCSU
+cervix,exam,exam,examine,VERB,CCSU
+cervix,doctor,doctor,doctor,NOUN,CCSU
+rosewater,face mist,face,face,NOUN,CCSU
+rosewater,face mist,mist,mist,VERB,CCSU
+rosewater,drank,drank,drink,VERB,CCSU
+rosewater,skin treatment,skin,skin,NOUN,CCSU
+rosewater,skin treatment,treatment,treat,VERB,CCSU
+padlock,locking something,locking,lock,VERB,CCSU
+padlock,locking something,something,something,PRON,CCSU
+padlock,house,house,house,NOUN,CCSU
+padlock,protection,protection,protect,VERB,CCSU
+padlock,hiding,hiding,hi,VERB,CCSU
+blowpipe,war,war,war,VERB,CCSU
+blowpipe,pain,pain,pain,NOUN,CCSU
+loaf,baked,baked,bake,VERB,CCSU
+loaf,bread,bread,bread,NOUN,CCSU
+loaf,eaten,eaten,eat,VERB,CCSU
+manuscript,document,document,document,NOUN,CCSU
+manuscript,typed,typed,type,VERB,CCSU
+manuscript,written,written,write,VERB,CCSU
+manuscript,drawn,drawn,draw,VERB,CCSU
+chimney,heat,heat,heat,VERB,CCSU
+chimney,smoke,smoke,smoke,NOUN,CCSU
+chimney,fire,fire,fire,NOUN,CCSU
+chimney,warmth,warmth,warm,VERB,CCSU
+chimney,decoration ,decoration,decorate,VERB,CCSU
+planter,planting,planting,plan,VERB,CCSU
+planter,growing,growing,grow,VERB,CCSU
+planter,food,food,food,NOUN,CCSU
+planter,hobby,hobby,hobby,NOUN,CCSU
+scissors,cutting,cutting,cut,VERB,CCSU
+scissors,slicing,slicing,slice,VERB,CCSU
+scissors,opening,opening,open,VERB,CCSU
+hood,warmth,warmth,warm,VERB,CCSU
+hood,look,look,look,VERB,CCSU
+hood,protection,protection,protect,VERB,CCSU
+deodorant,smelling good,smelling,smell,VERB,CCSU
+deodorant,smelling good,good,good,ADJ,CCSU
+deodorant,staying fresh,staying,stay,VERB,CCSU
+deodorant,staying fresh,fresh,fresh,ADJ,CCSU
+deodorant,preventing sweat,preventing,prevent,VERB,CCSU
+deodorant,preventing sweat,sweat,sweat,X,CCSU
+deodorant,preventing odor ,preventing,prevent,VERB,CCSU
+deodorant,preventing odor ,odor,odor,NOUN,CCSU
+hardcover,book,book,book,NOUN,CCSU
+hardcover,protection,protection,protect,VERB,CCSU
+raspberry,eaten,eaten,eat,VERB,CCSU
+raspberry,grown,grown,grow,VERB,CCSU
+raspberry,collected,collected,collect,VERB,CCSU
+raspberry,sold,sold,sell,VERB,CCSU
+raspberry,bought,bought,buy,VERB,CCSU
+raspberry,business,business,business,NOUN,CCSU
+raspberry,farmed,farmed,far,VERB,CCSU
+freezer,keeping things cold,keeping,keep,VERB,CCSU
+freezer,keeping things cold,things,thing,NOUN,CCSU
+freezer,keeping things cold,cold,cold,VERB,CCSU
+freezer,ice,ice,ice,VERB,CCSU
+freezer,prevents melting,prevents,prevent,VERB,CCSU
+freezer,prevents melting,melting,not melt,VERB,CCSU
+freezer,keeps food fresh,keeps,keep,VERB,CCSU
+freezer,keeps food fresh,food,food,NOUN,CCSU
+freezer,keeps food fresh,fresh,fresh,ADJ,CCSU
+dominoes,played with,played,play,VERB,CCSU
+dominoes,game,game,game,VERB,CCSU
+dominoes,building,building,build,VERB,CCSU
+jawbreaker,eaten,eaten,eat,VERB,CCSU
+jawbreaker,licked,licked,lick,VERB,CCSU
+jawbreaker,chewed,chewed,chew,VERB,CCSU
+clothing,bought,bought,buy,VERB,CCSU
+clothing,cold,cold,cold,ADJ,CCSU
+clothing,worn,worn,wear,VERB,CCSU
+clothing,creative,creative,creative,ADJ,CCSU
+clothing,job,job,job,VERB,CCSU
+clothing,business,business,business,NOUN,CCSU
+potty,peeing,peeing,pee,VERB,CCSU
+potty,pooping,pooping,poop,VERB,CCSU
+potty,period,period,period,NOUN,CCSU
+cauldron,flipped,flipped,flip,VERB,CCSU
+cauldron,stepped in,stepped,step,VERB,CCSU
+cauldron,used to boil,used,use,VERB,CCSU
+cauldron,used to boil,boil,boil,VERB,CCSU
+cauldron,used to cook,used,use,VERB,CCSU
+cauldron,used to cook,cook,cake,VERB,CCSU
+cauldron,filled,filled,fill,VERB,CCSU
+nightclub,go to party,go,go,VERB,CCSU
+nightclub,go to party,party,party,VERB,CCSU
+nightclub,go to work,go,go,VERB,CCSU
+nightclub,go to work,work,work,VERB,CCSU
+nightclub,go to drink,go,go,VERB,CCSU
+nightclub,go to drink,drink,drink,VERB,CCSU
+nightclub,go to hang out,go,go,VERB,CCSU
+nightclub,go to hang out,hang,hang,VERB,CCSU
+nightclub,go to dance,go,go,VERB,CCSU
+nightclub,go to dance,dance,dance,VERB,CCSU
+medics,used to heal,used,use,VERB,CCSU
+medics,used to heal,heal,heal,VERB,CCSU
+medics,asked question,asked,ask,VERB,CCSU
+medics,asked question,question,question,VERB,CCSU
+medics,be friends,friends,friend,NOUN,CCSU
+grater,used to grate,used,use,VERB,CCSU
+grater,used to grate,grate,grate,NOUN,CCSU
+grater,thrown,thrown,throw,VERB,CCSU
+grater,flipped,flipped,flip,VERB,CCSU
+grater,swung,swung,swing,VERB,CCSU
+grater,hung,hung,hang,VERB,CCSU
+shopkeeper,ask question,ask,ask,VERB,CCSU
+shopkeeper,ask question,question,question,VERB,CCSU
+shopkeeper,purchase items from,purchase,purchase,VERB,CCSU
+shopkeeper,purchase items from,items,item,NOUN,CCSU
+shopkeeper,be a friend,friend,friend,NOUN,CCSU
+suds,used to clean,used,use,VERB,CCSU
+suds,used to clean,clean,clean,VERB,CCSU
+suds,rubbed,rubbed,rub,VERB,CCSU
+suds,lathered,lathered,lather,VERB,CCSU
+suds,thrown,thrown,throw,VERB,CCSU
+suds,dropped,dropped,drop,VERB,CCSU
+shoulder,used to cry on,used,use,VERB,CCSU
+shoulder,used to cry on,cry,cry,VERB,CCSU
+shoulder,used to lift,used,use,VERB,CCSU
+shoulder,used to lift,lift,lift,VERB,CCSU
+shoulder,used to hold something on,used,use,VERB,CCSU
+shoulder,used to hold something on,hold,hold,VERB,CCSU
+shoulder,used to hold something on,something,something,PRON,CCSU
+shoulder,dislocated,dislocated,dislocate,VERB,CCSU
+shoulder,punched,punched,punche,VERB,CCSU
+shoulder,rubbed,rubbed,rub,VERB,CCSU
+shoulder,kissed,kissed,kiss,VERB,CCSU
+peg,thrown,thrown,throw,VERB,CCSU
+peg,walked on,walked,walk,VERB,CCSU
+peg,stood on,stood,stand,VERB,CCSU
+peg,sat on,sat,sit,VERB,CCSU
+peg,grasped,grasped,grasp,VERB,CCSU
+peg,broken,broken,break,VERB,CCSU
+doorstop,used to stop door,used,use,VERB,CCSU
+doorstop,used to stop door,stop,stop,VERB,CCSU
+doorstop,used to stop door,door,door,NOUN,CCSU
+doorstop,thrown,thrown,throw,VERB,CCSU
+doorstop,bent,bent,bend,VERB,CCSU
+doorstop,broken,broken,break,VERB,CCSU
+doorstop,flipped,flipped,flip,VERB,CCSU
+catalogue,read,read,read,VERB,CCSU
+catalogue,written,written,write,VERB,CCSU
+catalogue,torn,torn,tear,VERB,CCSU
+catalogue,thrown,thrown,throw,VERB,CCSU
+catalogue,thrown away,thrown,throw,VERB,CCSU
+catalogue,thrown away,away,throw away,VERB,CCSU
+catalogue,cut,cut,cut,VERB,CCSU
+editor,asked for advice,asked,ask,VERB,CCSU
+editor,asked for advice,advice,advice,VERB,CCSU
+editor,used as a job,used,use,VERB,CCSU
+editor,used as a job,job,job,NOUN,CCSU
+editor,used to fix writing,used,use,VERB,CCSU
+editor,used to fix writing,fix,fix,VERB,CCSU
+editor,used to fix writing,writing,write,VERB,CCSU
+editor,used as a friend,used,use,VERB,CCSU
+editor,used as a friend,friend,friend,NOUN,CCSU
+skeleton,experimented on,experimented,experiment,VERB,CCSU
+skeleton,looked at,looked,look,VERB,CCSU
+skeleton,punched,punched,punche,VERB,CCSU
+skeleton,thrown,thrown,throw,VERB,CCSU
+skeleton,broken,broken,break,VERB,CCSU
+footwear,used to walk in,used,use,VERB,CCSU
+footwear,used to walk in,walk,walk,VERB,CCSU
+footwear,thrown,thrown,throw,VERB,CCSU
+footwear,bitten,bitten,bite,VERB,CCSU
+footwear,torn,torn,tear,VERB,CCSU
+footwear,used to hit,used,use,VERB,CCSU
+footwear,used to hit,hit,hit,VERB,CCSU
+footwear,used to drink out of,used,use,VERB,CCSU
+footwear,used to drink out of,drink,drink,VERB,CCSU
+spacesuit,worn in space,worn,wear,VERB,CCSU
+spacesuit,worn in space,space,space,NOUN,CCSU
+spacesuit,punctured,punctured,puncture,VERB,CCSU
+spacesuit,worn on earth,worn,wear,VERB,CCSU
+spacesuit,worn on earth,earth,earth,NOUN,CCSU
+spacesuit,used for oxygen,used,use,VERB,CCSU
+spacesuit,used for oxygen,oxygen,oxygen,VERB,CCSU
+spacesuit,used in movie,used,use,VERB,CCSU
+spacesuit,used in movie,movie,movie,NOUN,CCSU
+hairdo,worn on head,worn,wear,VERB,CCSU
+hairdo,worn on head,head,head,NOUN,CCSU
+hairdo,worn as wig,worn,wear,VERB,CCSU
+hairdo,worn as wig,wig,wig,X,CCSU
+hairdo,cut,cut,cut,VERB,CCSU
+hairdo,changed,changed,change,VERB,CCSU
+volleyball,thrown,thrown,throw,VERB,CCSU
+volleyball,hit,hit,hit,VERB,CCSU
+volleyball,bumped,bumped,bump,VERB,CCSU
+volleyball,checked,checked,check,VERB,CCSU
+volleyball,spiked,spiked,spike,VERB,CCSU
+volleyball,kicked,kicked,kick,VERB,CCSU
+volleyball,popped,popped,pop,VERB,CCSU
+pennant,flown,flown,flow,VERB,CCSU
+pennant,ripped,ripped,rip,VERB,CCSU
+pennant,hung,hung,hang,VERB,CCSU
+pennant,soaked,soaked,soak,VERB,CCSU
+pennant,chased,chased,chase,VERB,CCSU
+female,loved,loved,love,VERB,CCSU
+female,kissed,kissed,kiss,VERB,CCSU
+female,hugged,hugged,hug,VERB,CCSU
+female,befriended,befriended,befriend,VERB,CCSU
+female,talked to,talked,talk,VERB,CCSU
+female,asked questions,asked,ask,VERB,CCSU
+female,asked questions,questions,question,VERB,CCSU
+female,learned from,learned,learn,VERB,CCSU
+plexiglas,looked through,looked,look,VERB,CCSU
+plexiglas,broken,broken,break,VERB,CCSU
+plexiglas,listenend through,listened,listen,VERB,CCSU
+tableware,used to eat,used,use,VERB,CCSU
+tableware,used to eat,eat,eat,VERB,CCSU
+tableware,used as weapon,used,use,VERB,CCSU
+tableware,used as weapon,weapon,weapon,VERB,CCSU
+tableware,thrown,thrown,throw,VERB,CCSU
+tableware,bitten,bitten,bite,VERB,CCSU
+tableware,broken,broken,break,VERB,CCSU
+tartar,cleaned off,cleaned,clean,VERB,CCSU
+tartar,grown,grown,grow,VERB,CCSU
+tartar,scraped,scraped,scrape,VERB,CCSU
+crane,used for construction,used,use,VERB,CCSU
+crane,used for construction,construction,construction,NOUN,CCSU
+crane,climbed,climbed,climb,VERB,CCSU
+crane,driven,driven,drive,VERB,CCSU
+crane,operated,operated,operate,VERB,CCSU
+crane,suspended,suspended,suspend,VERB,CCSU
+magnolia,smelled,smelled,smell,VERB,CCSU
+magnolia,grown,grown,grow,VERB,CCSU
+magnolia,picked,picked,pick,VERB,CCSU
+magnolia,gifted,gifted,gift,VERB,CCSU
+magnolia,killed,killed,kill,VERB,CCSU
+leg,bent,bent,bend,VERB,CCSU
+leg,extended,extended,extend,VERB,CCSU
+leg,broken,broken,break,VERB,CCSU
+leg,kicked,kicked,kick,VERB,CCSU
+leg,punched,punched,punche,VERB,CCSU
+chauffeur,paid,paid,pay,VERB,CCSU
+chauffeur,used as job,used,use,VERB,CCSU
+chauffeur,used as job,job,job,NOUN,CCSU
+chauffeur,used to get somewhere,used,use,VERB,CCSU
+chauffeur,used to get somewhere,get,get,VERB,CCSU
+chauffeur,used to get somewhere,somewhere,somewhere,ADV,CCSU
+chauffeur,befriended,befriended,befriend,VERB,CCSU
+whiskey,used to drink,used,use,VERB,CCSU
+whiskey,used to drink,drink,drink,VERB,CCSU
+whiskey,used to clean wounds,used,use,VERB,CCSU
+whiskey,used to clean wounds,clean,clean,VERB,CCSU
+whiskey,used to clean wounds,wounds,wound,NOUN,CCSU
+whiskey,used to cook,used,use,VERB,CCSU
+whiskey,used to cook,cook,cake,VERB,CCSU
+road,driven on,driven,drive,VERB,CCSU
+road,layed on,slayed,slay,VERB,CCSU
+road,sat on,sat,sit,VERB,CCSU
+road,stood on,stood,stood,NOUN,CCSU
+road,walked on,walked,walk,VERB,CCSU
+road,paved,paved,pave,VERB,CCSU
+road,cracked,cracked,crack,VERB,CCSU
+pizza,eaten,eaten,eat,VERB,CCSU
+pizza,tossed,tossed,toss,VERB,CCSU
+pizza,thrown,thrown,throw,VERB,CCSU
+pizza,passed,passed,pass,VERB,CCSU
+pizza,cut,cut,cut,VERB,CCSU
+pizza,cooked,cooked,cook,VERB,CCSU
+milk,used to drink,used,use,VERB,CCSU
+milk,used to drink,drink,drink,VERB,CCSU
+milk,farmed,farmed,far,VERB,CCSU
+milk,used to bake,used,use,VERB,CCSU
+milk,used to bake,bake,bake,VERB,CCSU
+milk,used to cook,used,use,VERB,CCSU
+milk,used to cook,cook,cake,VERB,CCSU
+milk,used to blend,used,use,VERB,CCSU
+milk,used to blend,blend,blend,VERB,CCSU
+street,driven on,driven,drive,VERB,CCSU
+street,paved,paved,pave,VERB,CCSU
+street,walked on,walked,walk,VERB,CCSU
+street,sat on,sat,sit,VERB,CCSU
+street,laid on,laid,lay on,VERB,CCSU
+street,cracked,cracked,crack,VERB,CCSU
+doughnut,eat,eat,eat,VERB,CCSU
+doughnut,cook,cook,cake,VERB,CCSU
+doughnut,frost,frost,frost,ADJ,CCSU
+springboard,jump off of,jump,jump,VERB,CCSU
+plant,grow,grow,grow,VERB,CCSU
+plant,water,water,water,NOUN,CCSU
+plant,kill,kill,kill,VERB,CCSU
+plant,bring back to life,bring,bring,VERB,CCSU
+plant,bring back to life,back,back,ADV,CCSU
+plant,bring back to life,life,life,NOUN,CCSU
+rat,kill,kill,kill,VERB,CCSU
+rat,keep as pet,keep,keep,VERB,CCSU
+rat,keep as pet,pet,pet,NOUN,CCSU
+rat,pet,pet,pet,NOUN,CCSU
+rat,snake food,snake,snake,NOUN,CCSU
+rat,snake food,food,food,NOUN,CCSU
+horseradish,eat,eat,eat,VERB,CCSU
+horseradish,spread on sandwhich,spread,spread,VERB,CCSU
+horseradish,spread on sandwhich,sandwich,sandwich,NOUN,CCSU
+horseradish,dip veggies in ,dip,dip,VERB,CCSU
+horseradish,dip veggies in ,veggies,veggies,NOUN,CCSU
+stepfather,support,support,support,VERB,CCSU
+casebook,enter information into it,enter,enter,VERB,CCSU
+casebook,enter information into it,information,inform,VERB,CCSU
+stall,go to the bathroom,go,go,VERB,CCSU
+stall,go to the bathroom,bathroom,bathroom,NOUN,CCSU
+stall,change clothing,change,change,VERB,CCSU
+stall,change clothing,clothing,clothing,NOUN,CCSU
+calender,keep track of dates,keep,keep,VERB,CCSU
+calender,keep track of dates,track,track,VERB,CCSU
+calender,keep track of dates,dates,date,NOUN,CCSU
+calender,keep track of events,keep,keep,VERB,CCSU
+calender,keep track of events,track,track,VERB,CCSU
+calender,keep track of events,events,event,NOUN,CCSU
+builder,build furniture,build,build,VERB,CCSU
+builder,build furniture,furniture,furniture,NOUN,CCSU
+tar,pave roads,pave,pave,VERB,CCSU
+tar,pave roads,roads,roads,NOUN,CCSU
+vaseline,treat dry skin,treat,treat,VERB,CCSU
+vaseline,treat dry skin,dry,dry,ADJ,CCSU
+vaseline,treat dry skin,skin,skin,NOUN,CCSU
+vaseline,heal tattoos,heal,heal,VERB,CCSU
+vaseline,heal tattoos,tattoos,tattoo,NOUN,CCSU
+vaseline,fix dry lips,fix,fix,VERB,CCSU
+vaseline,fix dry lips,dry,dry,ADJ,CCSU
+vaseline,fix dry lips,lips,lip,NOUN,CCSU
+concert,sing,sing,se,VERB,CCSU
+concert,dance,dance,dance,VERB,CCSU
+concert,have fun,fun,fun,NOUN,CCSU
+mitt,baseball,baseball,baseball,NOUN,CCSU
+mitt,keep hands warm,keep,keep,VERB,CCSU
+mitt,keep hands warm,hands,hand,NOUN,CCSU
+mitt,keep hands warm,warm,warm,VERB,CCSU
+aunt,love,love,love,NOUN,CCSU
+aunt,talk to,talk,talk,VERB,CCSU
+aunt,care for,care,care,NOUN,CCSU
+horseman,ride horses,ride,ride,VERB,CCSU
+horseman,ride horses,horses,horse,NOUN,CCSU
+forefinger,grab things,grab,grab,VERB,CCSU
+forefinger,grab things,things,thing,NOUN,CCSU
+forefinger,finger scan id,finger,finger,NOUN,CCSU
+forefinger,finger scan id,scan,scan,VERB,CCSU
+forefinger,finger scan id,id,id,NOUN,CCSU
+thyme,cook with,cook,cake,VERB,CCSU
+armpit,smell,smell,smell,VERB,CCSU
+armpit,apply deoterant,apply,apply,VERB,CCSU
+armpit,apply deoterant,deodorant,deodorant,NOUN,CCSU
+armpit,sweat,sweat,sweat,X,CCSU
+toast,spread butter,spread,spread,VERB,CCSU
+toast,spread butter,butter,butter,NOUN,CCSU
+toast,spread jelly,spread,spread,VERB,CCSU
+toast,spread jelly,jelly,jelly,ADV,CCSU
+toast,eat,eat,eat,VERB,CCSU
+employer,work,work,work,NOUN,CCSU
+employer,fire,fire,fire,NOUN,CCSU
+actor,act in play,act,act,VERB,CCSU
+actor,act in play,play,play,VERB,CCSU
+actor,act in tv shows,act,act,VERB,CCSU
+actor,act in tv shows,tv,tv,X,CCSU
+actor,act in tv shows,shows,show,NOUN,CCSU
+actor,act in movies,act,act,VERB,CCSU
+actor,act in movies,movies,movie,NOUN,CCSU
+bomb,explode,explode,explode,VERB,CCSU
+bomb,kill someon,kill,kill,VERB,CCSU
+bomb,kill someon,someone,someone,PRON,CCSU
+building,live in ,live,live,VERB,CCSU
+cattle,take care of farm,take,take,VERB,CCSU
+cattle,take care of farm,care,care,VERB,CCSU
+cattle,take care of farm,farm,farm,NOUN,CCSU
+contraceptive,prevent pregnancy ,prevent,prevent,VERB,CCSU
+contraceptive,prevent pregnancy ,pregnancy,pregnancy,NOUN,CCSU
+garbage,throw away,throw,throw,VERB,CCSU
+garbage,throw away,away,away,ADV,CCSU
+river,swim,swim,swim,VERB,CCSU
+river,float,float,float,VERB,CCSU
+river,canoe ,canoe,canoe,NOUN,CCSU
+recorder,record voice,record,record,VERB,CCSU
+recorder,record voice,voice,voice,NOUN,CCSU
+flour,bake,bake,bake,VERB,CCSU
+flour,cook,cook,cake,VERB,CCSU
+shaving,looking good,looking,look,VERB,CCSU
+shaving,looking good,good,good,ADJ,CCSU
+shaving,look clean,look,look,VERB,CCSU
+shaving,look clean,clean,clean,VERB,CCSU
+shaving,cream,cream,cream,NOUN,CCSU
+shaving,razor,razor,razor,NOUN,CCSU
+stepson,helping him out,helping,help,VERB,CCSU
+stepson,him helping you out,helping,help,VERB,CCSU
+stepson,enjoying,enjoying,enjoy,VERB,CCSU
+stepson,help boredness,help,help,VERB,CCSU
+stepson,help boredness,redness,redness,NOUN,CCSU
+scapula,assisting medical physicians ,assisting,assist,VERB,CCSU
+scapula,assisting medical physicians ,medical,medical,ADJ,CCSU
+scapula,assisting medical physicians ,physicians,physician,NOUN,CCSU
+playwright,fantasy writing,fantasy,fantasy,NOUN,CCSU
+playwright,fantasy writing,writing,write,VERB,CCSU
+playwright,make believe,make,make,VERB,CCSU
+playwright,make believe,believe,believe,VERB,CCSU
+playwright,trial run,trial,trial,NOUN,CCSU
+playwright,trial run,run,run,NOUN,CCSU
+poet,author,author,author,NOUN,CCSU
+poet,artist,artist,artist,NOUN,CCSU
+poet,friend,friend,friend,NOUN,CCSU
+poet,father,father,father,NOUN,CCSU
+poet,mother,mother,mother,NOUN,CCSU
+poet,grandmother,grandmother,grandmother,NOUN,CCSU
+poet,grandfather,grandfather,grandfather,NOUN,CCSU
+poet,son,son,son,NOUN,CCSU
+banjo,making people happy,making,make,NOUN,CCSU
+banjo,making people happy,people,people,NOUN,CCSU
+banjo,making people happy,happy,happiness,VERB,CCSU
+banjo,relaxing,relaxing,relax,VERB,CCSU
+banjo,career,career,career,NOUN,CCSU
+banjo,enjoyment,enjoyment,enjoy,VERB,CCSU
+onion,cry,cry,cry,VERB,CCSU
+onion,food,food,food,NOUN,CCSU
+onion,make hands smell bad,make,make,VERB,CCSU
+onion,make hands smell bad,hands,hand,NOUN,CCSU
+onion,make hands smell bad,smell,smell,VERB,CCSU
+onion,make hands smell bad,bad,bad,ADJ,CCSU
+onion,get rid of vampires,get,get,VERB,CCSU
+onion,get rid of vampires,rid,rid,VERB,CCSU
+onion,get rid of vampires,vampires,vampire,NOUN,CCSU
+featherbed,n/a,n,not,PART,CCSU
+blackboard,help with school,help,help,VERB,CCSU
+blackboard,help with school,school,school,NOUN,CCSU
+blackboard,grades,grades,grade,NOUN,CCSU
+blackboard,write on,write,write,VERB,CCSU
+blackboard,see schedule for school,see,see,VERB,CCSU
+blackboard,see schedule for school,schedule,schedule,NOUN,CCSU
+blackboard,see schedule for school,school,school,NOUN,CCSU
+wheelbarrow,gather material,gather,gather,VERB,CCSU
+wheelbarrow,gather material,material,material,NOUN,CCSU
+wheelbarrow,ride in,ride,ride,VERB,CCSU
+wheelbarrow,take apart and use for something else ,take,take,VERB,CCSU
+wheelbarrow,take apart and use for something else ,apart,apart,ADV,CCSU
+wheelbarrow,take apart and use for something else ,use,use,VERB,CCSU
+wheelbarrow,take apart and use for something else ,something,something,PRON,CCSU
+wheelbarrow,take apart and use for something else ,else,else,ADJ,CCSU
+muffin,food,food,food,NOUN,CCSU
+muffin,throwing,throwing,throw,VERB,CCSU
+muffin,weapon,weapon,weapon,VERB,CCSU
+muffin,allergy,allergy,allergy,NOUN,CCSU
+cabdriver,helper,helper,help,VERB,CCSU
+cabdriver,friend,friend,friend,NOUN,CCSU
+cabdriver,occupation,occupation,occupation,NOUN,CCSU
+cabdriver,side hustle,side,side hustle,VERB,CCSU
+cabdriver,entertainment,entertainment,entertain,VERB,CCSU
+deliverer,helper,helper,helper,NOUN,CCSU
+deliverer,friend,friend,friend,NOUN,CCSU
+deliverer,occupation,occupation,occupation,NOUN,CCSU
+deliverer,makes people happy,makes,make,VERB,CCSU
+deliverer,makes people happy,people,people,NOUN,CCSU
+deliverer,makes people happy,happy,happiness,VERB,CCSU
+xylophone,music,music,music,NOUN,CCSU
+xylophone,weapon,weapon,weapon,VERB,CCSU
+proprietor,n/a,n,not,PART,CCSU
+sapphire,making someone happy,making,make,NOUN,CCSU
+sapphire,making someone happy,someone,someone,PRON,CCSU
+sapphire,making someone happy,happy,happiness,VERB,CCSU
+sapphire,jewelry,jewelry,jewelry,NOUN,CCSU
+sapphire,expensive,expensive,expensive,ADJ,CCSU
+sofa,sleep,sleep,sleep,VERB,CCSU
+sofa,sex,sex,sex,VERB,CCSU
+sofa,relaxing,relaxing,relax,VERB,CCSU
+sofa,moving,moving,move,VERB,CCSU
+sofa,home item ,home,home,ADV,CCSU
+sofa,home item ,item,item,NOUN,CCSU
+candle,light,light,light,VERB,CCSU
+candle,smelling,smelling,smell,VERB,CCSU
+candle,decoration,decoration,decorate,VERB,CCSU
+key,get into somewhere,get,get,VERB,CCSU
+key,get into somewhere,somewhere,somewhere,ADV,CCSU
+key,weapon,weapon,weapon,VERB,CCSU
+key,get buried treasure,get,get,VERB,CCSU
+key,get buried treasure,buried,bury,VERB,CCSU
+key,get buried treasure,treasure,treasure,VERB,CCSU
+staple,staple papers,staple,staple,NOUN,CCSU
+staple,staple papers,papers,papers,NOUN,CCSU
+staple,tooth pic,tooth,tooth pick,NOUN,CCSU
+staple,weapon,weapon,weapon,VERB,CCSU
+urinal,bathroom,bathroom,bathroom,NOUN,CCSU
+urinal,spit into,spit,spit,VERB,CCSU
+policeman,protection,protection,protect,VERB,CCSU
+policeman,integrity,integrity,integrity,NOUN,CCSU
+policeman,friend,friend,friend,NOUN,CCSU
+policeman,father/mother,father,father,NOUN,CCSU
+policeman,father/mother,mother,mother,NOUN,CCSU
+policeman,son/daughter,son,son,NOUN,CCSU
+policeman,son/daughter,daughter,daughter,NOUN,CCSU
+policeman,helping community,helping,help,VERB,CCSU
+policeman,helping community,community,community,NOUN,CCSU
+chili,food,food,food,NOUN,CCSU
+chili,makes you poop,makes,make,VERB,CCSU
+chili,makes you poop,poop,poop,VERB,CCSU
+chili,name,name,name,NOUN,CCSU
+chili,topping,topping,topping,VERB,CCSU
+mayo,topping,topping,topping,VERB,CCSU
+mayo,food,food,food,NOUN,CCSU
+mayo,pranking someone,pranking,prank,VERB,CCSU
+mayo,pranking someone,someone,someone,PRON,CCSU
+mayo,throw,throw,throw,VERB,CCSU
+mayo,eat,eat,eat,VERB,CCSU
+glass,weapon if broken,weapon,weapon,VERB,CCSU
+glass,weapon if broken,broken,break,VERB,CCSU
+glass,mirror,mirror,mirror,NOUN,CCSU
+glass,drinking,drinking,drink,VERB,CCSU
+glass,making objects,making,make,NOUN,CCSU
+glass,making objects,objects,object,VERB,CCSU
+glass,windows ,windows,window,NOUN,CCSU
+cider,mix with apples,mix,mix,VERB,CCSU
+cider,mix with apples,apples,apple,NOUN,CCSU
+cider,drinking,drinking,drink,VERB,CCSU
+cider,topping,topping,topping,VERB,CCSU
+girdle,protection,protection,protect,VERB,CCSU
+girdle,decoration/looks,decoration,decorate,VERB,CCSU
+girdle,decoration/looks,looks,look,VERB,CCSU
+babe,girlfriend/boyfriend,girlfriend,girlfriend,NOUN,CCSU
+babe,girlfriend/boyfriend,boyfriend,boyfriend,NOUN,CCSU
+babe,wife/husband,wife,wife,NOUN,CCSU
+babe,wife/husband,husband,husband,NOUN,CCSU
+babe,name for a personal relationship,name,name,NOUN,CCSU
+babe,name for a personal relationship,personal,personal,ADJ,CCSU
+babe,name for a personal relationship,relationship,relationship,NOUN,CCSU
+infant,baby,baby,baby,NOUN,CCSU
+infant,for closure,closure,closure,VERB,CCSU
+infant,get attention,get,get,VERB,CCSU
+infant,get attention,attention,attention,VERB,CCSU
+yarn,cat toys,cat,cat,NOUN,CCSU
+yarn,cat toys,toys,toy,NOUN,CCSU
+yarn,fake hair,fake,fake,ADJ,CCSU
+yarn,fake hair,hair,hair,NOUN,CCSU
+yarn,use for knitting,use,use,VERB,CCSU
+yarn,use for knitting,knitting,knitt,VERB,CCSU
+dormitory,science,science,science,NOUN,CCSU
+godfather,an important person,important,important,ADJ,CCSU
+godfather,an important person,person,person,NOUN,CCSU
+megaphone,singing,singing,singe,VERB,CCSU
+larvae,trap,trap,trap,VERB,CCSU
+footboard,art work,art,art,NOUN,CCSU
+footboard,art work,work,work,NOUN,CCSU
+butterscotch,food,food,food,NOUN,CCSU
+liquor,drinking,drinking,drink,VERB,CCSU
+tool,building,building,build,VERB,CCSU
+sideboard,wood,wood,wood,NOUN,CCSU
+ambulance,help people,help,help,VERB,CCSU
+ambulance,help people,people,people,NOUN,CCSU
+cafeteria,for eating,eating,eat,VERB,CCSU
+strings,combine,combine,combine,VERB,CCSU
+hairline,the part of the hair where it has a straight line,straight,straight,ADV,CCSU
+cat,pet,pet,pet,VERB,CCSU
+backdoor,other way out,way,way,NOUN,CCSU
+riverbank,take money,take,take,VERB,CCSU
+riverbank,take money,money,money,NOUN,CCSU
+lime,food,food,food,VERB,CCSU
+hotel,sleep,sleep,sleep,VERB,CCSU
+garlic,food,food,food,NOUN,CCSU
+asphalt,something,something,something,PRON,CCSU
+taillight,car,car,car,NOUN,CCSU
+guardhouse,bodyguard,bodyguard,bodyguard,NOUN,CCSU
+catapult,weapon,weapon,weapon,VERB,CCSU
+hostel,sleep,sleep,sleep,VERB,CCSU
+hostel,stay,stay,stay,VERB,CCSU
+hostel,read,read,read,VERB,CCSU
+lens,look through,look,look,VERB,CCSU
+lens,clean,clean,clean,VERB,CCSU
+document,read,read,read,VERB,CCSU
+document,write,write,write,VERB,CCSU
+document,delete,delete,delete,VERB,CCSU
+document,save,save,save,VERB,CCSU
+document,rip,rip,rip,VERB,CCSU
+document,shred,shred,shr,VERB,CCSU
+tutu,wear,wear,wear,VERB,CCSU
+tutu,take off,take,take,VERB,CCSU
+tutu,dance in,dance,dance,VERB,CCSU
+wrestler,wrestle,wrestle,wrestle,VERB,CCSU
+wrestler,throw,throw,throw,VERB,CCSU
+wrestler,get thrown,get,get,VERB,CCSU
+wrestler,get thrown,thrown,throw,VERB,CCSU
+wrestler,run away from,away,run away,ADV,CCSU
+gynecologist,go to,go,go,VERB,CCSU
+gynecologist,ask questions,ask,ask,VERB,CCSU
+gynecologist,ask questions,questions,question,VERB,CCSU
+gynecologist,get diagnos,get,get,VERB,CCSU
+gynecologist,get diagnos,diagnose,diagnose,VERB,CCSU
+schoolwork,forget about it,forget,forget,VERB,CCSU
+schoolwork,spend all day doing it,spend,spend time,VERB,CCSU
+pinball,play,play,play,VERB,CCSU
+pinball,get mad about it,get,get,VERB,CCSU
+pinball,get mad about it,mad,mad,ADJ,CCSU
+pinball,beat high score,beat,beat,VERB,CCSU
+pinball,beat high score,high,high,VERB,CCSU
+pinball,beat high score,score,score,VERB,CCSU
+pinball,lose,lose,lose,VERB,CCSU
+clothes,wear,wear,wear,VERB,CCSU
+clothes,take off,take,take,VERB,CCSU
+clothes,wash,wash,wash,VERB,CCSU
+clothes,rip,rip,rip,VERB,CCSU
+clothes,buy,buy,buy,VERB,CCSU
+clothes,sell,sell,sell,VERB,CCSU
+cowhide,leather,leather,leather,NOUN,CCSU
+cowhide,make clothes,make,make,VERB,CCSU
+cowhide,make clothes,clothes,clothes,NOUN,CCSU
+cowhide,make wearable accessories ,make,make,VERB,CCSU
+cowhide,make wearable accessories ,wearable,wear,VERB,CCSU
+cowhide,make wearable accessories ,accessories,accessory,NOUN,CCSU
+kale,eat,eat,eat,VERB,CCSU
+kale,cook,cook,cake,VERB,CCSU
+kale,grow,grow,grow,VERB,CCSU
+busman,greet,greet,greet,VERB,CCSU
+busman,respect,respect,respect,VERB,CCSU
+busman,thank,thank,thank,VERB,CCSU
+harness,connect,connect,connect,VERB,CCSU
+harness,disconnect,disconnect,disconnect,VERB,CCSU
+harness,rely on,rely,rely,ADV,CCSU
+noose,secure animals,secure,secure,VERB,CCSU
+noose,secure animals,animals,animal,NOUN,CCSU
+noose,suicide,suicide,suicide,VERB,CCSU
+noose,connect to objects,connect,connect,VERB,CCSU
+noose,connect to objects,objects,object,VERB,CCSU
+noose,towing,towing,tow,VERB,CCSU
+buttercup,eat,eat,eat,VERB,CCSU
+buttercup,cook,cook,cake,VERB,CCSU
+buttercup,smell,smell,smell,VERB,CCSU
+buttercup,throw out,throw,throw away,VERB,CCSU
+fender,wash,wash,wash,VERB,CCSU
+fender,fix,fix,fix,VERB,CCSU
+fender,dent,dent,dent,VERB,CCSU
+fender,scratch,scratch,scratch,VERB,CCSU
+gun,shoot,shoot,shoot,VERB,CCSU
+gun,clean,clean,clean,VERB,CCSU
+gun,take apart,take,take,VERB,CCSU
+gun,take apart,apart,apart,ADV,CCSU
+plaque,hangup,hangup,hang,VERB,CCSU
+plaque,clean,clean,clean,VERB,CCSU
+plaque,show off,show,show,VERB,CCSU
+sand,make sand castle,make,make,VERB,CCSU
+sand,make sand castle,sand,sandcastle,VERB,CCSU
+sand,dig hole,dig,dig,VERB,CCSU
+sand,dig hole,hole,hole,NOUN,CCSU
+sand,plants,plants,plant,NOUN,CCSU
+meteorologist,study,study,study,NOUN,CCSU
+meteorologist,ask questions,ask,ask,VERB,CCSU
+meteorologist,ask questions,questions,question,VERB,CCSU
+meteorologist,keep earth safe,keep,keep,VERB,CCSU
+meteorologist,keep earth safe,earth,earth,NOUN,CCSU
+meteorologist,keep earth safe,safe,safe,ADJ,CCSU
+magnet,hang paper on fridge,hang,hang,VERB,CCSU
+magnet,hang paper on fridge,paper,paper,NOUN,CCSU
+magnet,hang paper on fridge,fridge,fridge,NOUN,CCSU
+magnet,heat pan,heat,heat,VERB,CCSU
+magnet,heat pan,pan,pan,NOUN,CCSU
+magnet,charge phone,charge,charge,VERB,CCSU
+magnet,charge phone,phone,phone,NOUN,CCSU
+magnet,move metal,move,move,VERB,CCSU
+magnet,move metal,metal,metal,NOUN,CCSU
+magnet,connect metal,connect,connect,VERB,CCSU
+magnet,connect metal,metal,metal,NOUN,CCSU
+nipple,suck,suck,suck,VERB,CCSU
+nipple,lick,lick,lick,VERB,CCSU
+nipple,pump,pump,pump,VERB,CCSU
+scallop,eat,eat,eat,VERB,CCSU
+scallop,cook,cook,cake,VERB,CCSU
+scallop,catch,catch,catch,VERB,CCSU
+scallop,find,find,find,VERB,CCSU
+knot,tie,tie,tie,VERB,CCSU
+knot,untie,untie,untie,VERB,CCSU
+knot,get angry,get,get,VERB,CCSU
+knot,get angry,angry,anger,VERB,CCSU
+hiker,find trail,find,find,VERB,CCSU
+hiker,find trail,trail,trail,NOUN,CCSU
+hiker,give water,give,give,VERB,CCSU
+hiker,give water,water,water,NOUN,CCSU
+quarterback,snap ball,snap,snap,VERB,CCSU
+quarterback,snap ball,ball,ball,NOUN,CCSU
+quarterback,throw ball,throw,throw,VERB,CCSU
+quarterback,throw ball,ball,ball,NOUN,CCSU
+quarterback,choose play,choose,choose,NOUN,CCSU
+quarterback,choose play,play,play,VERB,CCSU
+townspeople,greet,greet,greet,VERB,CCSU
+aluminum,forge,forge,forge,VERB,CCSU
+aluminum,melt,melt,melt,VERB,CCSU
+aluminum,bend,bend,bend,VERB,CCSU
+aluminum,sculpt,sculpt,sculpt,VERB,CCSU
+aluminum,build,build,build,VERB,CCSU
+companion,tell secrets,tell,tell,VERB,CCSU
+companion,tell secrets,secrets,secret,NOUN,CCSU
+companion,spend time with,spend,spend,VERB,CCSU
+companion,spend time with,time,time,NOUN,CCSU
+companion,love,love,love,VERB,CCSU
+astronaut,go to space,go,go,VERB,CCSU
+astronaut,go to space,space,space,NOUN,CCSU
+astronaut,ask questions,ask,ask,VERB,CCSU
+astronaut,ask questions,questions,question,NOUN,CCSU
+sledgehammer,hammer nails,hammer,hammer,VERB,CCSU
+sledgehammer,hammer nails,nails,nails,NOUN,CCSU
+sledgehammer,workouts,workouts,workout,VERB,CCSU
+pilot,fly a plane ,fly,fly,VERB,CCSU
+pilot,fly a plane ,plane,plane,NOUN,CCSU
+wench,car,car,car,NOUN,CCSU
+wineglass,hold alcohol,hold,hold,VERB,CCSU
+wineglass,hold alcohol,alcohol,alcohol,NOUN,CCSU
+headlight,lightup pathway,light,light,VERB,CCSU
+headlight,lightup pathway,pathway,pathway,NOUN,CCSU
+noodle,cooking,cooking,cook,VERB,CCSU
+noodle,food ,food,food,NOUN,CCSU
+fiancee,hugging ,hugging,hug,VERB,CCSU
+pepperoni,on pizza,pizza,pizza,NOUN,CCSU
+pepperoni,snadwiches,sandwiches,sandwich,NOUN,CCSU
+pepperoni,snacks,snacks,snack,VERB,CCSU
+dough,cookies,cookies,cookie,NOUN,CCSU
+dough,pie,pie,pie,VERB,CCSU
+dough,bread,bread,bread,VERB,CCSU
+page,books,books,book,NOUN,CCSU
+page,notes,notes,note,NOUN,CCSU
+page,reference,reference,reference,VERB,CCSU
+storybook,reference,reference,reference,VERB,CCSU
+storybook,entertainement ,entertainment,entertain,VERB,CCSU
+parent,knowledge,knowledge,knowledge,VERB,CCSU
+headpiece,music,music,music,VERB,CCSU
+headpiece,games,games,game,VERB,CCSU
+calculator,math,math,math,VERB,CCSU
+sheepdog,food,food,food,VERB,CCSU
+hamper,sleeping,sleeping,sleep,VERB,CCSU
+hamper,clothes,clothes,clothes,NOUN,CCSU
+scarecrow,scare birds,scare,scare,VERB,CCSU
+scarecrow,scare birds,birds,bird,NOUN,CCSU
+dandelion,decorations,decorations,decorate,VERB,CCSU
+dandelion,planting,planting,plan,VERB,CCSU
+grandnephew,laughter,laughter,laugh,VERB,CCSU
+underclothes,comfort,comfort,comfort,VERB,CCSU
+firearm,emergencies,emergencies,emergency,NOUN,CCSU
+firearm,pranks,pranks,prank,VERB,CCSU
+hardwood,decorations,decorations,decorate,VERB,CCSU
+hardwood,contruction,construction,construction,VERB,CCSU
+hardwood,woodmaking,woodmaking,woodmak,VERB,CCSU
+chevy,driving,driving,drive,VERB,CCSU
+chevy,transportation,transportation,transport,VERB,CCSU
+margarine,cooking,cooking,cook,VERB,CCSU
+margarine,pies,pies,pies,NOUN,CCSU
+margarine,cookies,cookies,cookie,NOUN,CCSU
+cauliflower,food,food,food,NOUN,CCSU
+cauliflower,cooking ,cooking,cook,VERB,CCSU
+him,buddies,buddies,buddy,NOUN,CCSU
+flag,decoration,decoration,decorate,VERB,CCSU
+trainee,massage,massage,massage,VERB,CCSU
+trainee,taping ,taping,tape,VERB,CCSU
+vomit,lesson,lesson,lesson,VERB,CCSU
+pebble,throw,throw,throw,VERB,CCSU
+cheek,sit,sit,sit,VERB,CCSU
+cheek,kiss,kiss,kiss,VERB,CCSU
+flaxseed,milkshake,milkshake,milkshake,NOUN,CCSU
+flaxseed,gel,gel,gel,NOUN,CCSU
+flaxseed,salad,salad,salad,NOUN,CCSU
+gasket,car,car,car,NOUN,CCSU
+gasket,truck,truck,truck,NOUN,CCSU
+gasket,van,van,van,NOUN,CCSU
+medal,futbol,soccer,soccer,NOUN,CCSU
+medal,olympics,olympics,olympic,NOUN,CCSU
+medal,track ,track,track,NOUN,CCSU
+electrician,light,light,light,VERB,CCSU
+eyewash,eyes,eyes,eyes,NOUN,CCSU
+percolator,coffee,coffee,coffee,NOUN,CCSU
+percolator,tea,tea,tea,NOUN,CCSU
+percolator,water,water,water,NOUN,CCSU
+stepbrother,friend,friend,friend,NOUN,CCSU
+props,decoration,decoration,decorate,VERB,CCSU
+rowboat,water,water,water,NOUN,CCSU
+stem,eat,eat,eat,VERB,CCSU
+shank,move,move,move,VERB,CCSU
+shank,eat,eat,eat,VERB,CCSU
+shank,cook,cook,cake,VERB,CCSU
+shank,season,season,season,NOUN,CCSU
+abacus,count,count,count,VERB,CCSU
+abacus,shake,shake,shake,VERB,CCSU
+worksheet,calculation,calculation,calculate,VERB,CCSU
+worksheet,bills,bills,bills,NOUN,CCSU
+worksheet,savings,savings,savings,NOUN,CCSU
+teacher,learn,learn,learn,VERB,CCSU
+teacher,ask,ask,ask,VERB,CCSU
+teacher,educator,educator,educate,VERB,CCSU
+stage,dance,dance,dance,VERB,CCSU
+stage,perform,perform,perform,VERB,CCSU
+lunchroom,eat,eat,eat,VERB,CCSU
+lunchroom,talk,talk,talk,VERB,CCSU
+lunchroom,walk,walk,walk,VERB,CCSU
+lunchroom,stand,stand,stand,VERB,CCSU
+lunchroom,sit,sit,sit,VERB,CCSU
+tangerine,eat,eat,eat,VERB,CCSU
+tangerine,juice,juice,juice,VERB,CCSU
+tangerine,powder,powder,powder,NOUN,CCSU
+trench,water,water,water,VERB,CCSU
+trench,pipe,pipe,pipe,NOUN,CCSU
+trench,electric,electric,electric,ADJ,CCSU
+trench,cables,cables,cable,NOUN,CCSU
+thumbtack,hold,hold,hold,VERB,CCSU
+parchment,order,order,order,VERB,CCSU
+parchment,claim,claim,claim,VERB,CCSU
+parchment,manage,manage,manage,NOUN,CCSU
+parchment,write,write,write,VERB,CCSU
+watchband,wear,wear,wear,VERB,CCSU
+watchband,rip,rip,rip,VERB,CCSU
+duster,clean,clean,clean,VERB,CCSU
+coaster,glass,glass,glass,NOUN,CCSU
+lunch,eat,eat,eat,VERB,CCSU
+engineer,math,math,math,NOUN,CCSU
+engineer,fix,fix,fix,VERB,CCSU
+salamander,pet,pet,pet,VERB,CCSU
+ruler,draw,draw,dree,VERB,CCSU
+ruler,bend,bend,bend,VERB,CCSU
+ruler,break,break,break,VERB,CCSU
+underclothing,warmth,warmth,warm,VERB,CCSU
+underclothing,wear,wear,wear,VERB,CCSU
+underclothing,wash,wash,wash,VERB,CCSU
+tablecloth,wash,wash,wash,VERB,CCSU
+tablecloth,eat,eat,eat,VERB,CCSU
+tablecloth,cut,cut,cut,VERB,CCSU
+washbasin,puke,puke,puke,VERB,CCSU
+washbasin,bodily functions,bodily,bodily,ADV,CCSU
+washbasin,bodily functions,functions,function,NOUN,CCSU
+washbasin,wash linens,wash,wash,VERB,CCSU
+washbasin,wash linens,linens,linen,NOUN,CCSU
+washbasin,hold liquids,hold,hold,VERB,CCSU
+washbasin,hold liquids,liquids,liquid,NOUN,CCSU
+washbasin,hold solid objects,hold,hold,VERB,CCSU
+washbasin,hold solid objects,solid,solid,ADJ,CCSU
+washbasin,hold solid objects,objects,object,VERB,CCSU
+bike,wheels,wheels,wheels,NOUN,CCSU
+bike,jump,jump,jump,VERB,CCSU
+bike,tricks,tricks,trick,NOUN,CCSU
+bike,race,race,race,VERB,CCSU
+bike,obstacle,obstacle,obstacle,NOUN,CCSU
+bike,modification,modification,modify,VERB,CCSU
+bike,search,search,search,VERB,CCSU
+bike,escape,escape,escape,VERB,CCSU
+bike,exercise ,exercise,exercise,VERB,CCSU
+seamstress,sew linen,sew,sew,VERB,CCSU
+seamstress,sew linen,linen,linen,NOUN,CCSU
+seamstress,create,create,create,VERB,CCSU
+mace,spray in eyes,spray,spray,VERB,CCSU
+mace,spray in eyes,eyes,eyes,NOUN,CCSU
+mace,put on food,put,put,VERB,CCSU
+mace,put on food,food,food,NOUN,CCSU
+mace,deterrent,deterrent,deterrent,ADJ,CCSU
+mace,cologne,cologne,cologne,NOUN,CCSU
+bookkeeper,librarian,librarian,librarian,ADJ,CCSU
+bookkeeper,keeper of secrets,keeper,keeper,NOUN,CCSU
+bookkeeper,keeper of secrets,secrets,secret,NOUN,CCSU
+bookkeeper,increased education and exposure to children,increased,increase,VERB,CCSU
+bookkeeper,increased education and exposure to children,education,educate,VERB,CCSU
+bookkeeper,increased education and exposure to children,exposure,exposure,VERB,CCSU
+bookkeeper,increased education and exposure to children,children,child,NOUN,CCSU
+bookkeeper,progressive learning,progressive,progressive,ADJ,CCSU
+bookkeeper,progressive learning,learning,learn,VERB,CCSU
+bookkeeper,informative,informative,inform,VERB,CCSU
+bookkeeper,assistance,assistance,assist,VERB,CCSU
+rifle,shoot,shoot,shoot,VERB,CCSU
+rifle,weird fetishes,weird,weird,ADJ,CCSU
+rifle,weird fetishes,fetishes,fetish,VERB,CCSU
+rifle,look through,look,look,VERB,CCSU
+copilot,cohort,cohort,cohort,NOUN,CCSU
+copilot,safety,safety,safety,NOUN,CCSU
+copilot,driver,driver,driver,NOUN,CCSU
+copilot,house shelter,house,house,NOUN,CCSU
+copilot,house shelter,shelter,shelter,NOUN,CCSU
+copilot,technology,technology,technology,NOUN,CCSU
+shampoo,wash,wash,wash,VERB,CCSU
+shampoo,clean,clean,clean,VERB,CCSU
+shampoo,slip n slide,slip,slip,VERB,CCSU
+shampoo,slip n slide,n,not,PART,CCSU
+shampoo,slip n slide,slide,slide,VERB,CCSU
+shampoo,bubble bath,bubble,bubble,NOUN,CCSU
+shampoo,bubble bath,bath,bath,NOUN,CCSU
+shampoo,bubble blower,bubble,bubble,NOUN,CCSU
+shampoo,bubble blower,blower,blow,VERB,CCSU
+shampoo,hygeine,hygiene,hygiene,NOUN,CCSU
+olive,eat,eat,eat,VERB,CCSU
+olive,grow,grow,grow,VERB,CCSU
+olive,seasoning,seasoning,season,VERB,CCSU
+olive,slingshot,slingshot,slingshot,PART,CCSU
+olive,moisturize,moisturize,moisturize,VERB,CCSU
+olive,bake,bake,bake,VERB,CCSU
+olive,juice,juice,juice,VERB,CCSU
+ax,cut,cut,cut,VERB,CCSU
+ax,protect,protect,protect,VERB,CCSU
+ax,hunt,hunt,hunt,VERB,CCSU
+ax,balance,balance,balance,VERB,CCSU
+mallard,duck,duck,duck,NOUN,CCSU
+mallard,quack,quack,quack,VERB,CCSU
+mallard,fly,fly,fly,VERB,CCSU
+mallard,hunt,hunt,hunt,VERB,CCSU
+mallard,food,food,food,VERB,CCSU
+ceramics,hold food,hold,hold,VERB,CCSU
+ceramics,hold food,food,food,NOUN,CCSU
+ceramics,decor,decor,decorate,VERB,CCSU
+ceramics,cookware,cookware,cookware,NOUN,CCSU
+ceramics,hold food and or liquid,hold,hold,VERB,CCSU
+ceramics,hold food and or liquid,food,food,NOUN,CCSU
+ceramics,hold food and or liquid,liquid,liquid,AUX,CCSU
+ceramics,tell a story,tell,tell,VERB,CCSU
+ceramics,tell a story,story,story,NOUN,CCSU
+apparel,clothing,clothing,clothing,NOUN,CCSU
+apparel,shelter,shelter,shelter,VERB,CCSU
+apparel,use it for first aid,use,use,VERB,CCSU
+apparel,use it for first aid,first,first,ADV,CCSU
+apparel,use it for first aid,aid,aid,VERB,CCSU
+apparel,flag,flag,flag,NOUN,CCSU
+apparel,upholstery,upholstery,upholster,VERB,CCSU
+apparel,memory gifts,memory,memory,VERB,CCSU
+apparel,memory gifts,gifts,gift,VERB,CCSU
+badge,swipe,swipe,swipe,VERB,CCSU
+badge,identification,identification,identify,VERB,CCSU
+badge,access,access,access,NOUN,CCSU
+badge,upgrade,upgrade,upgrade,VERB,CCSU
+knuckles,crack,crack,crack,VERB,CCSU
+knuckles,bend,bend,bend,VERB,CCSU
+knuckles,pull,pull,pull,VERB,CCSU
+knuckles,twist,twist,twist,VERB,CCSU
+knuckles,break,break,break,VERB,CCSU
+knuckles,ice,ice,ice,NOUN,CCSU
+knuckles,cover with gloves,cover,cover,VERB,CCSU
+knuckles,cover with gloves,gloves,glove,NOUN,CCSU
+knuckles,punch,punch,punch,VERB,CCSU
+knuckles,block,block,block,VERB,CCSU
+container,hold objects and or liquid,hold,hold,VERB,CCSU
+container,hold objects and or liquid,objects,object,VERB,CCSU
+container,hold objects and or liquid,liquid,liquid,AUX,CCSU
+container,organize,organize,organize,VERB,CCSU
+cab,transportation,transportation,transport,VERB,CCSU
+cab,guide,guide,guide,VERB,CCSU
+cab,speed,speed,speed,NOUN,CCSU
+cab,assist,assist,assist,VERB,CCSU
+cab,safety,safety,safety,NOUN,CCSU
+casket,holds a corpse,holds,hold,NOUN,CCSU
+casket,holds a corpse,corpse,corpse,NOUN,CCSU
+casket,shelter,shelter,shelter,VERB,CCSU
+casket,memorial,memorial,memorial,ADJ,CCSU
+castle,hogwarts,hogwarts,hogwart,NOUN,CCSU
+castle,power,power,power,VERB,CCSU
+castle,hierarchy ,hierarchy,hierarchy,ADJ,CCSU
+bandage,first aid,first,first,ADV,CCSU
+bandage,first aid,aid,aid,VERB,CCSU
+bandage,sticker,sticker,sticker,VERB,CCSU
+bandage,tape,tape,tape,VERB,CCSU
+bandage,adhesive,adhesive,adhesive,VERB,CCSU
+bandage,secure,secure,secure,VERB,CCSU
+bandage,wax,wax,wax,VERB,CCSU
+motorcyclist,driver,driver,drive,VERB,CCSU
+motorcyclist,stunts,stunts,stunt,VERB,CCSU
+motorcyclist,accident,accident,accident,NOUN,CCSU
+dollhouse,imagination,imagination,imagine,VERB,CCSU
+dollhouse,therapy session,therapy,therapy,VERB,CCSU
+dollhouse,therapy session,session,session,NOUN,CCSU
+dollhouse,kids to play,kids,kid,NOUN,CCSU
+dollhouse,kids to play,play,play,VERB,CCSU
+dollhouse,tell a story,tell,tell,VERB,CCSU
+dollhouse,tell a story,story,story,NOUN,CCSU
+dollhouse,hold toys,hold,hold,VERB,CCSU
+dollhouse,hold toys,toys,toy,NOUN,CCSU
+dollhouse,prevent mess,prevent,prevent,VERB,CCSU
+dollhouse,prevent mess,mess,mess,NOUN,CCSU
+cooler,hold iced objects,hold,hold,VERB,CCSU
+cooler,hold iced objects,iced,ic,VERB,CCSU
+cooler,hold iced objects,objects,object,VERB,CCSU
+cooler,cool drinks,cool,cool,VERB,CCSU
+cooler,cool drinks,drinks,drink,VERB,CCSU
+cooler,freshness,freshness,freshness,NOUN,CCSU
+saddlebag,prevent person from falling off horse,prevent,prevent,VERB,CCSU
+saddlebag,prevent person from falling off horse,person,person,NOUN,CCSU
+saddlebag,prevent person from falling off horse,falling,not fall,VERB,CCSU
+saddlebag,prevent person from falling off horse,horse,horse,NOUN,CCSU
+saddlebag,protects ,protects,protect,VERB,CCSU
+veranda,holds plants,holds,hold,VERB,CCSU
+veranda,holds plants,plants,plant,NOUN,CCSU
+veranda,shelter from sun,shelter,shelter,VERB,CCSU
+veranda,shelter from sun,sun,sun,NOUN,CCSU
+veranda,entertain ,entertain,entertain,VERB,CCSU
+pillow,lay on,lay,lay,VERB,CCSU
+pillow,smack it,smack,smack,VERB,CCSU
+pillow,comfort,comfort,comfort,VERB,CCSU
+pillow,butt pillow,butt,butt,NOUN,CCSU
+pillow,butt pillow,pillow,pillow,NOUN,CCSU
+pillow,baby pillow,baby,baby,NOUN,CCSU
+pillow,baby pillow,pillow,pillow,NOUN,CCSU
+pillow,cushion ,cushion,cushion,VERB,CCSU
+festival,entertainment,entertainment,entertainment,NOUN,CCSU
+festival,making friends,making,make,NOUN,CCSU
+festival,making friends,friends,friend,NOUN,CCSU
+festival,network,network,network,VERB,CCSU
+grave,dig,dig,dig,VERB,CCSU
+grave,shallow,shallow,shallow,ADJ,CCSU
+grave,hole,hole,hole,NOUN,CCSU
+grave,bury bodies,bury,bury,VERB,CCSU
+grave,bury bodies,bodies,body,NOUN,CCSU
+grave,houses corpse,houses,house,NOUN,CCSU
+grave,houses corpse,corpse,corpse,NOUN,CCSU
+grave,feeds insects,feeds,feed,VERB,CCSU
+grave,feeds insects,insects,insects,NOUN,CCSU
+grave,circle of life ,circle,circle,NOUN,CCSU
+grave,circle of life ,life,life,NOUN,CCSU
+bluefish,to feed animals/ humans,feed,feed,VERB,CCSU
+bluefish,to feed animals/ humans,animals,animal,NOUN,CCSU
+bluefish,to feed animals/ humans,humans,human,NOUN,CCSU
+bluefish,ecosystems,ecosystems,ecosystem,NOUN,CCSU
+clove,season food,season,season,VERB,CCSU
+clove,season food,food,food,NOUN,CCSU
+clove,wish,wish,wish,VERB,CCSU
+clove,cut,cut,cut,VERB,CCSU
+clove,grow,grow,grow,VERB,CCSU
+panties,wear,wear,wear,VERB,CCSU
+panties,clean,clean,clean,VERB,CCSU
+panties,take off,take,take,VERB,CCSU
+panties,eat,eat,eat,VERB,CCSU
+panties,fold,fold,fold,VERB,CCSU
+basketball,bounce,bounce,bounce,VERB,CCSU
+basketball,throw,throw,throw,VERB,CCSU
+basketball,dribble,dribble,dribble,VERB,CCSU
+basketball,kick,kick,kick,VERB,CCSU
+basketball,play with,play,play,VERB,CCSU
+basketball,spin,spin,spin,VERB,CCSU
+frosting,eat,eat,eat,VERB,CCSU
+frosting,smear,smear,smear,VERB,CCSU
+frosting,apply,apply,apply,VERB,CCSU
+frosting,lick,lick,lick,VERB,CCSU
+cannabis,smoke,smoke,smoke,VERB,CCSU
+cannabis,eat,eat,eat,VERB,CCSU
+cannabis,infuse,infuse,infuse,VERB,CCSU
+cannabis,grow,grow,grow,VERB,CCSU
+speedboat,drive,drive,drive,VERB,CCSU
+speedboat,speed,speed,speed,NOUN,CCSU
+speedboat,boat,boat,boat,NOUN,CCSU
+speedboat,ride,ride,ride,VERB,CCSU
+bowl,fill,fill,fill,VERB,CCSU
+bowl,clean,clean,clean,VERB,CCSU
+bowl,empty,empty,empty,VERB,CCSU
+bowl,use,use,use,VERB,CCSU
+vanilla,smell,smell,smell,VERB,CCSU
+vanilla,extract,extract,extract,VERB,CCSU
+vanilla,cook,cook,cake,VERB,CCSU
+vanilla,flavor,flavor,flavor,VERB,CCSU
+collarbone,break,break,break,VERB,CCSU
+collarbone,shatter,shatter,shatter,VERB,CCSU
+collarbone,look at,look,look,VERB,CCSU
+collarbone,touch,touch,touch,VERB,CCSU
+plate,clean,clean,clean,VERB,CCSU
+plate,scrape,scrape,scrape,VERB,CCSU
+plate,scratch,scratch,scratch,VERB,CCSU
+plate,eat off,eat,eat,VERB,CCSU
+plate,fill,fill,fill,VERB,CCSU
+plate,wash,wash,wash,VERB,CCSU
+mustache,wax,wax,wax,VERB,CCSU
+mustache,shave,shave,shave,VERB,CCSU
+mustache,groom,groom,groom,VERB,CCSU
+mustache,grow out,grow,grow,VERB,CCSU
+mustache,style,style,style,VERB,CCSU
+mustache,brush,brush,brush,VERB,CCSU
+almond,eat,eat,eat,VERB,CCSU
+almond,break,break,break,VERB,CCSU
+almond,chew,chew,chew,VERB,CCSU
+almond,spit,spit,spit,VERB,CCSU
+gooseberry,eat,eat,eat,VERB,CCSU
+gooseberry,chew,chew,chew,VERB,CCSU
+throne,sit on,sit,sit,VERB,CCSU
+throne,polish,polish,polish,VERB,CCSU
+throne,place,place,place,VERB,CCSU
+fishpond,fish,fish,fish,VERB,CCSU
+fishpond,skate,skate,skate,VERB,CCSU
+fishpond,drain,drain,drain,VERB,CCSU
+fishpond,swim,swim,swim,VERB,CCSU
+fishpond,drink ,drink,drink,VERB,CCSU
+knob,turn,turn,turn,VERB,CCSU
+knob,clean,clean,clean,VERB,CCSU
+knob,install,install,install,VERB,CCSU
+cornflower,cook with,cook,cake,VERB,CCSU
+cornflower,eat,eat,eat,VERB,CCSU
+blowtorch,burn,burn,burn,VERB,CCSU
+blowtorch,ignite,ignite,ignite,VERB,CCSU
+blowtorch,throw out,throw,throw,INTJ,CCSU
+blowtorch,buy,buy,buy,VERB,CCSU
+banknote,sign,sign,sign,VERB,CCSU
+banknote,shred,shred,shr,VERB,CCSU
+knapsack,pack,pack,pack,VERB,CCSU
+knapsack,wear,wear,wear,VERB,CCSU
+knapsack,lift,lift,lift,VERB,CCSU
+knapsack,wash,wash,wash,VERB,CCSU
+orchid,smell,smell,smell,VERB,CCSU
+orchid,plant,plant,plant,VERB,CCSU
+projector,look at,look,look,VERB,CCSU
+lubricant,lube,lube,lube,VERB,CCSU
+lubricant,engine,engine,engine,NOUN,CCSU
+lubricant,adventuring,adventuring,adventure,NOUN,CCSU
+Platform,stand on,stand,stand,VERB,CCSU
+marbles,roll,roll,roll,VERB,CCSU
+marbles,swallow,swallow,swallow,VERB,CCSU
+marbles,play with,play,play,VERB,CCSU
+clamshell,open,open,open,VERB,CCSU
+clamshell,close,close,close,VERB,CCSU
+mascot,wear,wear,wear,VERB,CCSU
+mascot,promote,promote,promote,VERB,CCSU
+mascot,excite ,excite,excite,VERB,CCSU
+newsreader,read,read,read,VERB,CCSU
+corsage,wear,wear,wear,VERB,CCSU
+corsage,smell,smell,smell,VERB,CCSU
+corsage,arrange ,arrange,arrange,VERB,CCSU
+cosmetics,wear,wear,wear,VERB,CCSU
+cosmetics,create,create,create,VERB,CCSU
+cosmetics,clean,clean,clean,VERB,CCSU
+cosmetics,apply,apply,apply,VERB,CCSU
+potpourri,smell,smell,smell,VERB,CCSU
+potpourri,decorate,decorate,decorate,VERB,CCSU
+grenade,throw,throw,throw,VERB,CCSU
+brush,hair,hair,hair,NOUN,CCSU
+brush,pet,pet,pet,VERB,CCSU
+candy,eat,eat,eat,VERB,CCSU
+candy,throw out,throw,throw,VERB,CCSU
+concrete,break,break,break,VERB,CCSU
+birdbath,wash birds,wash,wash,VERB,CCSU
+birdbath,wash birds,birds,bird,NOUN,CCSU
+handclap,clap,clap,clap,VERB,CCSU
+bath,take bath,take,take,VERB,CCSU
+bath,take bath,bath,bathe,VERB,CCSU
+sunroof,open,open,open,VERB,CCSU
+sunroof,close,close,close,VERB,CCSU
+hug,someone,someone,someone,PRON,CCSU
+mathematician,do math,math,math,VERB,CCSU
+passerby,look at,look,look,VERB,CCSU
+calves,work out,work,work,VERB,CCSU
+airman,fly,fly,fly,VERB,CCSU
+keg,drink,drink,drink,VERB,CCSU
+keg,fill,fill,fill,VERB,CCSU
+athlete,play,play,play,VERB,CCSU
+athlete,score,score,score,VERB,CCSU
+athlete,defend,defend,defend,VERB,CCSU
+athlete,run,run,run,VERB,CCSU
+athlete,jump,jump,jump,VERB,CCSU
+workroom,work,work,work,NOUN,CCSU
+package,put stuff in,put,put,VERB,CCSU
+package,put stuff in,stuff,stuff,NOUN,CCSU
+package,take stuff out,take,take,VERB,CCSU
+package,take stuff out,stuff,stuff,NOUN,CCSU
+truck,drive,drive,drive,VERB,CCSU
+truck,park,park,park,VERB,CCSU
+truck,backup,backup,backup,NOUN,CCSU
+truck,fill up ,fill,fill,VERB,CCSU
+noodles,eat ,eat,eat,VERB,CCSU
+clips,make videos,make,make,VERB,CCSU
+clips,make videos,videos,video,VERB,CCSU
+voter,vote,vote,vote,VERB,CCSU
+manure,throw out,throw,throw,VERB,CCSU
+manure,use for fertilizer,use,use,VERB,CCSU
+manure,use for fertilizer,fertilizer,fertilize,VERB,CCSU
+walrus,put in zoo,put,put,VERB,CCSU
+walrus,put in zoo,zoo,zoo,NOUN,CCSU
+walrus,eat fish,eat,eat,VERB,CCSU
+walrus,eat fish,fish,fish,NOUN,CCSU

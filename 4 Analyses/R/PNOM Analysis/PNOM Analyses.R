@@ -4,6 +4,9 @@ library(reshape)
 library(psych)
 library(dplyr)
 
+##turn off scientific notation
+options(scipen = 999)
+
 ##read in data
 boi = read.csv("Data/Pexman BOI Norms.csv")
 aff = read.csv("Data/Affordance Norms.csv")
@@ -19,7 +22,7 @@ colnames(boi)[1] = "cue"
 
 combined = merge(aff2, boi[ , -2], by = "cue")
 
-corr.test(combined$AFSS, combined$Mean)
+cor.test(combined$AFSS, combined$Mean)
 
 plot(combined$AFSS, combined$Mean)
 
@@ -28,8 +31,7 @@ colnames(con)[1] = "cue"
 
 combined2 = merge(aff2, con, by = "cue")
 
-corr.test(combined2$AFSS, combined2$Conc.M) #concreteness
+cor.test(combined2$AFSS, combined2$Conc.M) #concreteness
 
 plot(combined2$AFSS, combined2$Conc.M)
-
 

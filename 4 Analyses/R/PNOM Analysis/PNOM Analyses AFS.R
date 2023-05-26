@@ -47,6 +47,7 @@ combined = merge(aff2, boi[ , -2], by = "cue")
 cor.test(combined$AFS, combined$Mean) #again, a weak correlation
 
 ####What about association strength?####
+##Looking at the subset
 colnames(combined)[1:2] = c("CUE", "TARGET")
 
 combined$CUE = toupper(combined$CUE)
@@ -54,4 +55,18 @@ combined$TARGET = toupper(combined$TARGET)
 
 combined2 = merge(combined, fsg, by = c("CUE", "TARGET"))
 
-cor.test(combined2$AFS, combined2$FSG) #.20
+cor.test(combined2$AFS, combined2$FSG) #.19
+
+##Looking at the full AFS dataset
+aff$cue = toupper(aff$cue)
+aff$response = toupper(aff$response)
+
+colnames(aff)[1:2] = c("CUE", "TARGET")
+
+combined3 = merge(aff, fsg, by = c("CUE", "TARGET"))
+
+cor.test(combined3$AFS, combined3$FSG)
+
+mean(combined3$AFSS)
+mean(combined3$QSS)
+

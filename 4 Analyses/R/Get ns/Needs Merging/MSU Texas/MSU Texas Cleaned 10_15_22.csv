@@ -1,0 +1,2775 @@
+CUE,RESPONSE,RESPONSE.TOKEN,RESPONSE.LEMMA,POS,Source
+excavator,move things,move,move,VERB,MSU-TEXAS
+excavator,move things,things,thing,NOUN,MSU-TEXAS
+excavator,create holes,create,create,VERB,MSU-TEXAS
+excavator,create holes,holes,hole,NOUN,MSU-TEXAS
+excavator,dig,dig,dig,VERB,MSU-TEXAS
+excavator,ride in,ride,ride,VERB,MSU-TEXAS
+excavator,drive ,drive,drive,VERB,MSU-TEXAS
+strongbox,store personal items,store,store,VERB,MSU-TEXAS
+strongbox,store personal items,personal,personal,ADJ,MSU-TEXAS
+strongbox,store personal items,items,item,NOUN,MSU-TEXAS
+strongbox,sit on,sit,sit,VERB,MSU-TEXAS
+strongbox,kick,kick,kick,VERB,MSU-TEXAS
+strongbox,carry,carry,carry,VERB,MSU-TEXAS
+paperback,tear,tear,tear,VERB,MSU-TEXAS
+paperback,bend,bend,bend,VERB,MSU-TEXAS
+paperback,write on,write,write,VERB,MSU-TEXAS
+paperback,sit on,sit,sit,VERB,MSU-TEXAS
+paperback,throw,throw,throw,VERB,MSU-TEXAS
+paperback,read,read,read,VERB,MSU-TEXAS
+paperback,rip,rip,rip,VERB,MSU-TEXAS
+paperback,brand,brand,brand,ADV,MSU-TEXAS
+paperback,set on fire,set,set,VERB,MSU-TEXAS
+paperback,set on fire,fire,fire,NOUN,MSU-TEXAS
+plum,eat,eat,eat,VERB,MSU-TEXAS
+plum,slice,slice,slice,VERB,MSU-TEXAS
+plum,dice,dice,dice,VERB,MSU-TEXAS
+plum,crush,crush,crush,VERB,MSU-TEXAS
+plum,hit,hit,hit,VERB,MSU-TEXAS
+plum,dehydrate,dehydrate,dehydrate,VERB,MSU-TEXAS
+plum,bake,bake,bake,VERB,MSU-TEXAS
+plum,pick,pick,pick,VERB,MSU-TEXAS
+plum,eat,eat,eat,VERB,MSU-TEXAS
+body,run,run,run,VERB,MSU-TEXAS
+body,jump,jump,jump,VERB,MSU-TEXAS
+body,sit,sit,sit,VERB,MSU-TEXAS
+body,walk,walk,walk,VERB,MSU-TEXAS
+body,move,move,move,VERB,MSU-TEXAS
+body,twist,twist,twist,VERB,MSU-TEXAS
+body,bend,bend,bend,VERB,MSU-TEXAS
+body,break,break,break,VERB,MSU-TEXAS
+body,nourish,nourish,nourish,VERB,MSU-TEXAS
+body,feed,feed,feed,VERB,MSU-TEXAS
+body,love,love,love,VERB,MSU-TEXAS
+body,to have sex,sex,sex,VERB,MSU-TEXAS
+body,give hugs,give,give,VERB,MSU-TEXAS
+body,give hugs,hugs,hug,NOUN,MSU-TEXAS
+body,pump up,pump,pump,VERB,MSU-TEXAS
+body,excite ,excite,excite,VERB,MSU-TEXAS
+tailcoat,sew,sew,sew,VERB,MSU-TEXAS
+tailcoat,cut,cut,cut,VERB,MSU-TEXAS
+tailcoat,rip,rip,rip,VERB,MSU-TEXAS
+tailcoat,tuck,tuck,tuck,VERB,MSU-TEXAS
+tailcoat,squeeze,squeeze,squeeze,VERB,MSU-TEXAS
+tailcoat,stitch,stitch,stitch,VERB,MSU-TEXAS
+tailcoat,dye,dye,dye,VERB,MSU-TEXAS
+motel,sleep,sleep,sleep,VERB,MSU-TEXAS
+motel,eat,eat,eat,VERB,MSU-TEXAS
+motel,relax,relax,relax,VERB,MSU-TEXAS
+motel,drink,drink,drink,VERB,MSU-TEXAS
+motel,party,party,party,VERB,MSU-TEXAS
+motel,sex,sex,sex,VERB,MSU-TEXAS
+motel,shelter,shelter,shelter,VERB,MSU-TEXAS
+motel,home,home,home,ADV,MSU-TEXAS
+motel,swim,swim,swim,VERB,MSU-TEXAS
+seating,sit,sit,sit,VERB,MSU-TEXAS
+seating,stand on,stand,stand,VERB,MSU-TEXAS
+seating,spill on,spill,spill,VERB,MSU-TEXAS
+seating,organize,organize,organize,VERB,MSU-TEXAS
+seating,separate,separate,separate,ADJ,MSU-TEXAS
+seating,divide,divide,divide,VERB,MSU-TEXAS
+torchlight,see,see,see,VERB,MSU-TEXAS
+torchlight,light things on fire,light,light,VERB,MSU-TEXAS
+torchlight,light things on fire,things,thing,NOUN,MSU-TEXAS
+torchlight,light things on fire,fire,fire,NOUN,MSU-TEXAS
+torchlight,ambiance,ambiance,ambiance,NOUN,MSU-TEXAS
+torchlight,illuminate,illuminate,illuminate,VERB,MSU-TEXAS
+torchlight,keep mosquitoes away,keep,keep,VERB,MSU-TEXAS
+torchlight,keep mosquitoes away,mosquitoes,mosquitoe,NOUN,MSU-TEXAS
+torchlight,keep mosquitoes away,away,away,ADV,MSU-TEXAS
+ashcan,sit on,sit,sit,VERB,MSU-TEXAS
+ashcan,put ashes in,put,put,VERB,MSU-TEXAS
+ashcan,put ashes in,ashes,ash,NOUN,MSU-TEXAS
+ashcan,clean,clean,clean,ADJ,MSU-TEXAS
+ashcan,throw,throw,throw,VERB,MSU-TEXAS
+ashcan,hit,hit,hit,VERB,MSU-TEXAS
+ashcan,kick,kick,kick,VERB,MSU-TEXAS
+ashcan,store items,store,store,VERB,MSU-TEXAS
+ashcan,store items,items,item,NOUN,MSU-TEXAS
+ashcan,planter,planter,planter,NOUN,MSU-TEXAS
+ashcan,light on fire,light,light,VERB,MSU-TEXAS
+ashcan,light on fire,fire,fire,NOUN,MSU-TEXAS
+ashcan,use as a toilet,use,use,VERB,MSU-TEXAS
+ashcan,use as a toilet,toilet,toilet,NOUN,MSU-TEXAS
+ashcan,pee in,pee,pee,VERB,MSU-TEXAS
+client,be their friend,friend,friend,NOUN,MSU-TEXAS
+client,help them,help,help,VERB,MSU-TEXAS
+client,love them,love,love,VERB,MSU-TEXAS
+client,hate them,hate,hate,VERB,MSU-TEXAS
+client,create more relationships,create,create,VERB,MSU-TEXAS
+client,create more relationships,relationships,relationship,NOUN,MSU-TEXAS
+client,have sex with them,sex,sex,VERB,MSU-TEXAS
+client,hit them,hit,hit,VERB,MSU-TEXAS
+client,advise them,advise,advise,VERB,MSU-TEXAS
+client,spend time with them,spend,spend,VERB,MSU-TEXAS
+client,spend time with them,time,time,NOUN,MSU-TEXAS
+client,kiss them,kiss,kiss,VERB,MSU-TEXAS
+client,engage them,engage,engage,VERB,MSU-TEXAS
+phalanges,hold things,hold,hold,VERB,MSU-TEXAS
+phalanges,hold things,things,thing,NOUN,MSU-TEXAS
+phalanges,touch,touch,touch,VERB,MSU-TEXAS
+phalanges,lick them,lick,lick,VERB,MSU-TEXAS
+phalanges,to caress,caress,caress,VERB,MSU-TEXAS
+phalanges,give someone the bird,give,give,VERB,MSU-TEXAS
+phalanges,give someone the bird,someone,someone,PRON,MSU-TEXAS
+phalanges,give someone the bird,bird,bird,NOUN,MSU-TEXAS
+phalanges,cross them,cross,cross,VERB,MSU-TEXAS
+phalanges,put rings on them,put,put,VERB,MSU-TEXAS
+phalanges,put rings on them,rings,ring,NOUN,MSU-TEXAS
+phalanges,stroke,stroke,stroke,VERB,MSU-TEXAS
+phalanges,pet an animal,pet,pet,VERB,MSU-TEXAS
+phalanges,pet an animal,animal,animal,NOUN,MSU-TEXAS
+phalanges,flush the toilet,flush,flush,VERB,MSU-TEXAS
+phalanges,flush the toilet,toilet,toilet,NOUN,MSU-TEXAS
+phalanges,drive,drive,drive,VERB,MSU-TEXAS
+phalanges,eating,eating,eat,VERB,MSU-TEXAS
+phalanges,throwing a football,throwing,throw,VERB,MSU-TEXAS
+phalanges,throwing a football,football,football,NOUN,MSU-TEXAS
+phalanges,using a key to open the door,using,use,VERB,MSU-TEXAS
+phalanges,using a key to open the door,key,key,ADJ,MSU-TEXAS
+phalanges,using a key to open the door,open,open,VERB,MSU-TEXAS
+phalanges,using a key to open the door,door,door,NOUN,MSU-TEXAS
+phalanges,break,break,break,VERB,MSU-TEXAS
+phalanges,sprain,sprain,sprain,VERB,MSU-TEXAS
+creek,swim in,swim,swim,VERB,MSU-TEXAS
+creek,eat from,eat,eat,VERB,MSU-TEXAS
+creek,drinking water,drinking,drink,VERB,MSU-TEXAS
+creek,drinking water,water,water,NOUN,MSU-TEXAS
+creek,skip rocks,skip,skip,VERB,MSU-TEXAS
+creek,skip rocks,rocks,rock,NOUN,MSU-TEXAS
+creek,sit in,sit,sit,VERB,MSU-TEXAS
+creek,cross,cross,cross,VERB,MSU-TEXAS
+creek,boat,boat,boat,NOUN,MSU-TEXAS
+creek,kayak,kayak,kayak,VERB,MSU-TEXAS
+eggplant,eat,eat,eat,VERB,MSU-TEXAS
+eggplant,grow,grow,grow,VERB,MSU-TEXAS
+eggplant,feed,feed,feed,NOUN,MSU-TEXAS
+eggplant,pick,pick,pick,VERB,MSU-TEXAS
+eggplant,cook,cook,cake,VERB,MSU-TEXAS
+eggplant,steam,steam,steam,VERB,MSU-TEXAS
+eggplant,grill,grill,grill,VERB,MSU-TEXAS
+eggplant,slice,slice,slice,VERB,MSU-TEXAS
+eggplant,dice,dice,dice,VERB,MSU-TEXAS
+eggplant,chop ,chop,chop,VERB,MSU-TEXAS
+hoe,scrap,scrap,scrap,VERB,MSU-TEXAS
+hoe,clean,clean,clean,VERB,MSU-TEXAS
+hoe,loosen,loosen,loosen,VERB,MSU-TEXAS
+hoe,chop,chop,chop,VERB,MSU-TEXAS
+hoe,dig,dig,dig,VERB,MSU-TEXAS
+hoe,create,create,create,VERB,MSU-TEXAS
+hoe,sit,sit,sit,VERB,MSU-TEXAS
+hoe,move,move,move,VERB,MSU-TEXAS
+hoe,hold,hold,hold,VERB,MSU-TEXAS
+hoe,touch,touch,touch,VERB,MSU-TEXAS
+hoe,hit with,hit,hit,VERB,MSU-TEXAS
+hoe,store,store,store,VERB,MSU-TEXAS
+pantry,store food in,store,store,VERB,MSU-TEXAS
+pantry,store food in,food,food,NOUN,MSU-TEXAS
+pantry,walk in,walk,walk,VERB,MSU-TEXAS
+pantry,paint,paint,paint,VERB,MSU-TEXAS
+pantry,put trash in it,put,put,VERB,MSU-TEXAS
+pantry,put trash in it,trash,trash,INTJ,MSU-TEXAS
+pantry,hide in it ,hide,hide,NOUN,MSU-TEXAS
+fruit,eat,eat,eat,VERB,MSU-TEXAS
+fruit,cut,cut,cut,VERB,MSU-TEXAS
+fruit,bake,bake,bake,VERB,MSU-TEXAS
+fruit,decorate,decorate,decorate,VERB,MSU-TEXAS
+fruit,throw,throw,throw,VERB,MSU-TEXAS
+fruit,smash,smash,smash,VERB,MSU-TEXAS
+fruit,grow,grow,grow,VERB,MSU-TEXAS
+fruit,water,water,water,NOUN,MSU-TEXAS
+fruit,peel,peel,peel,VERB,MSU-TEXAS
+fruit,cut,cut,cut,VERB,MSU-TEXAS
+fruit,in a salad,salad,salad,NOUN,MSU-TEXAS
+fruit,pack it,pack,pack,NOUN,MSU-TEXAS
+fruit,sell it,sell,sell,VERB,MSU-TEXAS
+matter,eat,eat,eat,VERB,MSU-TEXAS
+matter,crush,crush,crush,VERB,MSU-TEXAS
+matter,bite,bite,bite,VERB,MSU-TEXAS
+matter,hit,hit,hit,VERB,MSU-TEXAS
+matter,kick,kick,kick,VERB,MSU-TEXAS
+matter,pull,pull,pull,VERB,MSU-TEXAS
+matter,push,push,push,VERB,MSU-TEXAS
+matter,sit on,sit,sit,VERB,MSU-TEXAS
+matter,lay on,lay,lay,VERB,MSU-TEXAS
+matter,feel,feel,feel,VERB,MSU-TEXAS
+matter,smell,smell,smell,VERB,MSU-TEXAS
+matter,see,see,see,VERB,MSU-TEXAS
+matter,squeeze,squeeze,squeeze,VERB,MSU-TEXAS
+matter,cut,cut,cut,VERB,MSU-TEXAS
+matter,open,open,open,ADJ,MSU-TEXAS
+matter,kiss,kiss,kiss,VERB,MSU-TEXAS
+matter,hug,hug,hug,VERB,MSU-TEXAS
+matter,run on,run,run,VERB,MSU-TEXAS
+matter,walk on,walk,walk,VERB,MSU-TEXAS
+matter,lift,lift,lift,VERB,MSU-TEXAS
+matter,water,water,water,NOUN,MSU-TEXAS
+matter,turn on,turn,turn,VERB,MSU-TEXAS
+matter,turn off,turn,turn,VERB,MSU-TEXAS
+matter,spray,spray,spray,VERB,MSU-TEXAS
+matter,open,open,open,ADJ,MSU-TEXAS
+matter,close it,close,close,ADJ,MSU-TEXAS
+matter,bake,bake,bake,VERB,MSU-TEXAS
+matter,grill,grill,grill,VERB,MSU-TEXAS
+matter,pinch,pinch,pinch,VERB,MSU-TEXAS
+matter,taste,taste,taste,VERB,MSU-TEXAS
+accordion,move,move,move,VERB,MSU-TEXAS
+accordion,squeeze,squeeze,squeeze,VERB,MSU-TEXAS
+accordion,close,close,close,ADJ,MSU-TEXAS
+accordion,open,open,open,ADJ,MSU-TEXAS
+accordion,listen,listen,listen,VERB,MSU-TEXAS
+accordion,practice on,practice,practice,VERB,MSU-TEXAS
+accordion,enjoy,enjoy,enjoy,VERB,MSU-TEXAS
+accordion,break,break,break,VERB,MSU-TEXAS
+accordion,step on,step,step,VERB,MSU-TEXAS
+accordion,cut,cut,cut,VERB,MSU-TEXAS
+accordion,draw on,draw,dree,VERB,MSU-TEXAS
+accordion,put away,put,put,VERB,MSU-TEXAS
+accordion,put away,away,away,ADV,MSU-TEXAS
+accordion,play,play,play,VERB,MSU-TEXAS
+beef,eat,eat,eat,VERB,MSU-TEXAS
+beef,cut,cut,cut,VERB,MSU-TEXAS
+beef,store,store,store,VERB,MSU-TEXAS
+beef,wrap,wrap,wrap,VERB,MSU-TEXAS
+beef,grill,grill,grill,VERB,MSU-TEXAS
+beef,seer,seer,seer,VERB,MSU-TEXAS
+beef,dice,dice,dice,VERB,MSU-TEXAS
+beef,chop,chop,chop,VERB,MSU-TEXAS
+beef,bake,bake,bake,VERB,MSU-TEXAS
+beef,fry,fry,fry,VERB,MSU-TEXAS
+beef,throw,throw,throw,VERB,MSU-TEXAS
+beef,store,store,store,VERB,MSU-TEXAS
+beef,touch,touch,touch,VERB,MSU-TEXAS
+shelter,safety,safety,safety,NOUN,MSU-TEXAS
+shelter,live in,live,live,VERB,MSU-TEXAS
+shelter,hide,hide,hide,VERB,MSU-TEXAS
+shelter,keep warm,keep,keep,VERB,MSU-TEXAS
+shelter,keep warm,warm,warm,ADJ,MSU-TEXAS
+shelter,eat,eat,eat,VERB,MSU-TEXAS
+shelter,play,play,play,VERB,MSU-TEXAS
+shelter,love,love,love,VERB,MSU-TEXAS
+shelter,renovate,renovate,renovate,VERB,MSU-TEXAS
+shelter,clean,clean,clean,VERB,MSU-TEXAS
+shelter,shower,shower,shower,VERB,MSU-TEXAS
+shelter,build,build,build,VERB,MSU-TEXAS
+case,solve,solve,solve,VERB,MSU-TEXAS
+case,store,store,store,NOUN,MSU-TEXAS
+case,keep safe,keep,keep,VERB,MSU-TEXAS
+case,keep safe,safe,safe,ADJ,MSU-TEXAS
+case,touch,touch,touch,NOUN,MSU-TEXAS
+case,carry,carry,carry,VERB,MSU-TEXAS
+case,break,break,break,NOUN,MSU-TEXAS
+case,sit on,sit,sit,VERB,MSU-TEXAS
+case,buy,buy,buy,VERB,MSU-TEXAS
+case,sell,sell,sell,VERB,MSU-TEXAS
+avocado,eat,eat,eat,VERB,MSU-TEXAS
+avocado,slice,slice,slice,VERB,MSU-TEXAS
+avocado,dice,dice,dice,VERB,MSU-TEXAS
+avocado,cut,cut,cut,VERB,MSU-TEXAS
+avocado,smash,smash,smash,VERB,MSU-TEXAS
+avocado,peel,peel,peel,VERB,MSU-TEXAS
+avocado,salt,salt,salt,NOUN,MSU-TEXAS
+avocado,grow,grow,grow,VERB,MSU-TEXAS
+avocado,sell,sell,sell,VERB,MSU-TEXAS
+avocado,stack,stack,stack,VERB,MSU-TEXAS
+arrow,throw,throw,throw,VERB,MSU-TEXAS
+arrow,shoot,shoot,shoot,VERB,MSU-TEXAS
+arrow,cut,cut,cut,VERB,MSU-TEXAS
+arrow,break,break,break,NOUN,MSU-TEXAS
+arrow,combine with others,combine,combine,VERB,MSU-TEXAS
+arrow,combine with others,others,other,NOUN,MSU-TEXAS
+arrow,point,point,point,VERB,MSU-TEXAS
+arrow,slice,slice,slice,VERB,MSU-TEXAS
+arrow,dice,dice,dice,VERB,MSU-TEXAS
+arrow,stick,stick,stick,VERB,MSU-TEXAS
+groundsman,take care of,take,take,VERB,MSU-TEXAS
+groundsman,take care of,care,care,NOUN,MSU-TEXAS
+groundsman,water,water,water,NOUN,MSU-TEXAS
+groundsman,fix things,fix,fix,VERB,MSU-TEXAS
+groundsman,fix things,things,thing,NOUN,MSU-TEXAS
+groundsman,walk,walk,walk,VERB,MSU-TEXAS
+groundsman,sit,sit,sit,VERB,MSU-TEXAS
+groundsman,plant,plant,plant,NOUN,MSU-TEXAS
+groundsman,run,run,run,VERB,MSU-TEXAS
+groundsman,plan,plan,plan,NOUN,MSU-TEXAS
+groundsman,grow,grow,grow,VERB,MSU-TEXAS
+stick,poke,poke,poke,VERB,MSU-TEXAS
+stick,break,break,break,VERB,MSU-TEXAS
+stick,whittle,whittle,whitle,NOUN,MSU-TEXAS
+stick,carve,carve,carve,VERB,MSU-TEXAS
+stick,cut,cut,cut,VERB,MSU-TEXAS
+stick,saw,saw,see,VERB,MSU-TEXAS
+stick,shave,shave,shave,VERB,MSU-TEXAS
+stick,build houses,build,build,VERB,MSU-TEXAS
+stick,build houses,houses,house,NOUN,MSU-TEXAS
+stick,puncture,puncture,puncture,VERB,MSU-TEXAS
+stick,snap,snap,snap,VERB,MSU-TEXAS
+stick,carry,carry,carry,VERB,MSU-TEXAS
+stick,step on,step,step,VERB,MSU-TEXAS
+stick,store ,store,store,NOUN,MSU-TEXAS
+drug,use,use,use,VERB,MSU-TEXAS
+drug,sell,sell,sell,VERB,MSU-TEXAS
+drug,promote,promote,promote,VERB,MSU-TEXAS
+drug,orally,orally,orally,ADV,MSU-TEXAS
+drug,injection-able,injection,inject,VERB,MSU-TEXAS
+drug,injection-able,able,able,ADJ,MSU-TEXAS
+drug,snort,snort,snort,VERB,MSU-TEXAS
+drug,educate,educate,educate,VERB,MSU-TEXAS
+drug,heal,heal,heal,VERB,MSU-TEXAS
+drug,take,take,take,VERB,MSU-TEXAS
+drug,eat,eat,eat,VERB,MSU-TEXAS
+drug,inhale ,inhale,inhale,VERB,MSU-TEXAS
+linoleum,lay,lay,lay,VERB,MSU-TEXAS
+linoleum,glue,glue,glue,VERB,MSU-TEXAS
+linoleum,step on,step,step,VERB,MSU-TEXAS
+linoleum,break,break,break,VERB,MSU-TEXAS
+linoleum,sell,sell,sell,VERB,MSU-TEXAS
+linoleum,return,return,return,NOUN,MSU-TEXAS
+linoleum,clean,clean,clean,VERB,MSU-TEXAS
+illustrator,promote,promote,promote,VERB,MSU-TEXAS
+illustrator,create,create,create,VERB,MSU-TEXAS
+fleece,clothing,clothing,clothing,NOUN,MSU-TEXAS
+fleece,fire starter,fire,fire,NOUN,MSU-TEXAS
+fleece,fire starter,starter,starter,NOUN,MSU-TEXAS
+fleece,picking up liquid,picking,pick,VERB,MSU-TEXAS
+fleece,picking up liquid,liquid,liquid,AUX,MSU-TEXAS
+scalpel,weapon,weapon,weapon,NOUN,MSU-TEXAS
+scalpel,surgery tool,surgery,surgery,NOUN,MSU-TEXAS
+scalpel,surgery tool,tool,tool,NOUN,MSU-TEXAS
+scalpel,art tool,art,art,NOUN,MSU-TEXAS
+scalpel,art tool,tool,tool,NOUN,MSU-TEXAS
+scalpel,redirect sun rays,redirect,redirect,VERB,MSU-TEXAS
+scalpel,redirect sun rays,sun,sun,NOUN,MSU-TEXAS
+scalpel,redirect sun rays,rays,ray,NOUN,MSU-TEXAS
+scalpel,write on hard surfaces,write,write,VERB,MSU-TEXAS
+scalpel,write on hard surfaces,hard,hard,ADJ,MSU-TEXAS
+scalpel,write on hard surfaces,surfaces,surface,NOUN,MSU-TEXAS
+scalpel,cooking tool,cooking,cook,VERB,MSU-TEXAS
+scalpel,cooking tool,tool,tool,NOUN,MSU-TEXAS
+windowsill,keep window stable,keep,keep,VERB,MSU-TEXAS
+windowsill,keep window stable,window,window,NOUN,MSU-TEXAS
+windowsill,keep window stable,stable,stable,ADJ,MSU-TEXAS
+windowsill,anchoring point for climbing equipment,anchoring,anchor,VERB,MSU-TEXAS
+windowsill,anchoring point for climbing equipment,point,point,NOUN,MSU-TEXAS
+windowsill,anchoring point for climbing equipment,climbing,climb,VERB,MSU-TEXAS
+windowsill,anchoring point for climbing equipment,equipment,equipment,NOUN,MSU-TEXAS
+nephew,household work,household,household,NOUN,MSU-TEXAS
+nephew,household work,work,work,NOUN,MSU-TEXAS
+nephew,counseling,counseling,counsel,VERB,MSU-TEXAS
+nephew,teaching,teaching,teach,NOUN,MSU-TEXAS
+nephew,moving,moving,move,VERB,MSU-TEXAS
+nephew,babysitting,babysitting,babysit,NOUN,MSU-TEXAS
+nephew,communicating to others,communicating,communicate,VERB,MSU-TEXAS
+nephew,communicating to others,others,other,NOUN,MSU-TEXAS
+yam,food,food,food,NOUN,MSU-TEXAS
+yam,blunt force throwing object,blunt,blunt,NOUN,MSU-TEXAS
+yam,blunt force throwing object,force,force,NOUN,MSU-TEXAS
+yam,blunt force throwing object,throwing,throw,VERB,MSU-TEXAS
+yam,blunt force throwing object,object,object,ADV,MSU-TEXAS
+cable,weapon,weapon,weapon,NOUN,MSU-TEXAS
+cable,signal converter,signal,signal,NOUN,MSU-TEXAS
+cable,signal converter,converter,converter,NOUN,MSU-TEXAS
+cable,rope for hoisting or arresting,rope,rope,NOUN,MSU-TEXAS
+cable,rope for hoisting or arresting,hoisting,hoist,VERB,MSU-TEXAS
+cable,rope for hoisting or arresting,arresting,arrest,NOUN,MSU-TEXAS
+valet,parking a car,parking,park,VERB,MSU-TEXAS
+valet,parking a car,car,car,NOUN,MSU-TEXAS
+valet,getting general info of the area,getting,get,VERB,MSU-TEXAS
+valet,getting general info of the area,general,general,ADJ,MSU-TEXAS
+valet,getting general info of the area,info,info,NOUN,MSU-TEXAS
+valet,getting general info of the area,area,area,NOUN,MSU-TEXAS
+step,get mud off of a boot,get,get,VERB,MSU-TEXAS
+step,get mud off of a boot,mud,mud,NOUN,MSU-TEXAS
+step,get mud off of a boot,boot,boot,NOUN,MSU-TEXAS
+step,elevator,elevator,elevator,NOUN,MSU-TEXAS
+step,leverage for breaking a stick,leverage,leverage,NOUN,MSU-TEXAS
+step,leverage for breaking a stick,breaking,break,NOUN,MSU-TEXAS
+step,leverage for breaking a stick,stick,stick,NOUN,MSU-TEXAS
+kissing,showing affinity,showing,show,VERB,MSU-TEXAS
+kissing,showing affinity,affinity,affinity,NOUN,MSU-TEXAS
+blazer,clothing,clothing,clothing,NOUN,MSU-TEXAS
+blazer,fire kindling,fire,fire,NOUN,MSU-TEXAS
+blazer,fire kindling,kindling,kindling,NOUN,MSU-TEXAS
+blazer,storage of small items,storage,store,VERB,MSU-TEXAS
+blazer,storage of small items,small,small,ADJ,MSU-TEXAS
+blazer,storage of small items,items,item,NOUN,MSU-TEXAS
+blazer,statement maker,statement,statement,NOUN,MSU-TEXAS
+blazer,statement maker,maker,maker,NOUN,MSU-TEXAS
+blazer,rope,rope,rope,NOUN,MSU-TEXAS
+sock,clothing,clothing,clothing,NOUN,MSU-TEXAS
+sock,small item holder,small,small,ADJ,MSU-TEXAS
+sock,small item holder,item,item,NOUN,MSU-TEXAS
+sock,small item holder,holder,hold,VERB,MSU-TEXAS
+sock,fire kindling,fire,fire,NOUN,MSU-TEXAS
+sock,fire kindling,kindling,kindling,NOUN,MSU-TEXAS
+sock,mask,mask,mask,NOUN,MSU-TEXAS
+sock,cleaning scrub,cleaning,cleaning,NOUN,MSU-TEXAS
+sock,cleaning scrub,scrub,scrub,VERB,MSU-TEXAS
+sock,liquid cleaning,liquid,liquid,AUX,MSU-TEXAS
+sock,liquid cleaning,cleaning,cleaning,NOUN,MSU-TEXAS
+chalice,small item holder,small,small,ADJ,MSU-TEXAS
+chalice,small item holder,item,item,NOUN,MSU-TEXAS
+chalice,small item holder,holder,holder,NOUN,MSU-TEXAS
+chalice,drink receptacle,drink,drink,NOUN,MSU-TEXAS
+chalice,drink receptacle,receptacle,receptacle,NOUN,MSU-TEXAS
+chalice,fire holder,fire,fire,NOUN,MSU-TEXAS
+chalice,fire holder,holder,holder,NOUN,MSU-TEXAS
+chalice,cookie cutter,cookie,cookie,NOUN,MSU-TEXAS
+chalice,cookie cutter,cutter,cutter,NOUN,MSU-TEXAS
+chalice,weapon,weapon,weapon,NOUN,MSU-TEXAS
+chalice,step,step,step,VERB,MSU-TEXAS
+blouse,rope,rope,rope,NOUN,MSU-TEXAS
+blouse,clothing,clothing,clothing,NOUN,MSU-TEXAS
+blouse,fire kindling,fire,fire,NOUN,MSU-TEXAS
+blouse,fire kindling,kindling,kindling,NOUN,MSU-TEXAS
+blouse,floatation device,flotation,flotation,NOUN,MSU-TEXAS
+blouse,floatation device,device,device,NOUN,MSU-TEXAS
+pool,water holder,water,water,NOUN,MSU-TEXAS
+pool,water holder,holder,holder,NOUN,MSU-TEXAS
+pool,exercise,exercise,exercise,NOUN,MSU-TEXAS
+pool,weapon,weapon,weapon,NOUN,MSU-TEXAS
+pool,blinding potential,blinding,blind,NOUN,MSU-TEXAS
+pool,blinding potential,potential,potential,ADJ,MSU-TEXAS
+cube,step,step,step,VERB,MSU-TEXAS
+cube,fill in a hole,fill,fill,NOUN,MSU-TEXAS
+cube,fill in a hole,hole,hole,NOUN,MSU-TEXAS
+cube,canvas for art,canvas,canvas,NOUN,MSU-TEXAS
+cube,canvas for art,art,art,NOUN,MSU-TEXAS
+cube,throwing object,throwing,throw,VERB,MSU-TEXAS
+cube,throwing object,object,object,ADV,MSU-TEXAS
+drumstick,food,food,food,NOUN,MSU-TEXAS
+drumstick,stabbing weapon potential,stabbing,stab,VERB,MSU-TEXAS
+drumstick,stabbing weapon potential,weapon,weapon,NOUN,MSU-TEXAS
+drumstick,stabbing weapon potential,potential,potential,ADJ,MSU-TEXAS
+drumstick,music maker,music,music,NOUN,MSU-TEXAS
+drumstick,music maker,maker,maker,NOUN,MSU-TEXAS
+stove,storage,storage,storage,NOUN,MSU-TEXAS
+stove,cooking,cooking,cook,NOUN,MSU-TEXAS
+stove,heat source,heat,heat,NOUN,MSU-TEXAS
+stove,heat source,source,source,NOUN,MSU-TEXAS
+stove,weapon,weapon,weapon,NOUN,MSU-TEXAS
+calf,working animal,working,work,VERB,MSU-TEXAS
+calf,working animal,animal,animal,NOUN,MSU-TEXAS
+calf,food,food,food,NOUN,MSU-TEXAS
+calf,transportation of goods,transportation,transport,VERB,MSU-TEXAS
+calf,transportation of goods,goods,goods,NOUN,MSU-TEXAS
+housecoat,clothing,clothing,clothing,NOUN,MSU-TEXAS
+housecoat,storage,storage,storage,NOUN,MSU-TEXAS
+housecoat,fire kindling,fire,fire,NOUN,MSU-TEXAS
+housecoat,fire kindling,kindling,kindling,NOUN,MSU-TEXAS
+housecoat,statement maker,statement,statement,NOUN,MSU-TEXAS
+housecoat,statement maker,maker,maker,NOUN,MSU-TEXAS
+housecoat,rope,rope,rope,NOUN,MSU-TEXAS
+grits,food,food,food,NOUN,MSU-TEXAS
+grits,slipping agent,slipping,slip,VERB,MSU-TEXAS
+grits,slipping agent,agent,agent,NOUN,MSU-TEXAS
+ashtray,throwing object,throwing,throw,VERB,MSU-TEXAS
+ashtray,throwing object,object,object,ADV,MSU-TEXAS
+ashtray,holding fire or ash,holding,hold,NOUN,MSU-TEXAS
+ashtray,holding fire or ash,fire,fire,NOUN,MSU-TEXAS
+ashtray,holding fire or ash,ash,ash,INTJ,MSU-TEXAS
+ashtray,holding food or small objects,holding,hold,NOUN,MSU-TEXAS
+ashtray,holding food or small objects,food,food,NOUN,MSU-TEXAS
+ashtray,holding food or small objects,small,small,ADJ,MSU-TEXAS
+ashtray,holding food or small objects,objects,object,VERB,MSU-TEXAS
+chessboard,weapon,weapon,weapon,NOUN,MSU-TEXAS
+chessboard,math device,math,math,NOUN,MSU-TEXAS
+chessboard,math device,device,device,NOUN,MSU-TEXAS
+chessboard,food plate,food,food,NOUN,MSU-TEXAS
+chessboard,food plate,plate,plate,NOUN,MSU-TEXAS
+hippie,find good drugs,find,find,VERB,MSU-TEXAS
+hippie,find good drugs,good,good,ADJ,MSU-TEXAS
+hippie,find good drugs,drugs,drug,NOUN,MSU-TEXAS
+hippie,use as a distraction,use,use,VERB,MSU-TEXAS
+hippie,use as a distraction,distraction,distraction,NOUN,MSU-TEXAS
+hippie,gain life experience,gain,gain,VERB,MSU-TEXAS
+hippie,gain life experience,life,life,NOUN,MSU-TEXAS
+hippie,gain life experience,experience,experience,NOUN,MSU-TEXAS
+Robot,household chores,household,household,NOUN,MSU-TEXAS
+Robot,household chores,chores,chore,NOUN,MSU-TEXAS
+Robot,warfare,warfare,warfare,NOUN,MSU-TEXAS
+Robot,companionship,companionship,companionship,NOUN,MSU-TEXAS
+pacifier,calm a baby,calm,calm,VERB,MSU-TEXAS
+pacifier,calm a baby,baby,baby,NOUN,MSU-TEXAS
+pacifier,anxiety soother,anxiety,anxiety,NOUN,MSU-TEXAS
+pacifier,anxiety soother,soother,sooth,VERB,MSU-TEXAS
+pacifier,a poor fashion statement,poor,poor,ADJ,MSU-TEXAS
+pacifier,a poor fashion statement,fashion,fashion,NOUN,MSU-TEXAS
+pacifier,a poor fashion statement,statement,statement,NOUN,MSU-TEXAS
+cadillac,driven,driven,drive,VERB,MSU-TEXAS
+cadillac,cleaned,cleaned,clean,VERB,MSU-TEXAS
+cadillac,shown off,shown,show,VERB,MSU-TEXAS
+cadillac,running something over,running,run,VERB,MSU-TEXAS
+cadillac,running something over,something,something,PRON,MSU-TEXAS
+can,thrown away,thrown,throw,VERB,MSU-TEXAS
+can,thrown away,away,away,ADV,MSU-TEXAS
+can,punched,punched,punche,VERB,MSU-TEXAS
+can,stepped on,stepped,step,VERB,MSU-TEXAS
+can,opened,opened,open,VERB,MSU-TEXAS
+can,kicked,kicked,kick,VERB,MSU-TEXAS
+snowshoe,worn,worn,wear,VERB,MSU-TEXAS
+snowshoe,cleaned,cleaned,clean,VERB,MSU-TEXAS
+snowshoe,tied,tied,tie,VERB,MSU-TEXAS
+steroids,increase strength,increase,increase,VERB,MSU-TEXAS
+steroids,increase strength,strength,strength,NOUN,MSU-TEXAS
+frog,entertainment,entertainment,entertainment,NOUN,MSU-TEXAS
+frog,as food,food,food,NOUN,MSU-TEXAS
+sunflower,grow,grow,grow,VERB,MSU-TEXAS
+sunflower,cut,cut,cut,VERB,MSU-TEXAS
+sunflower,present,present,present,ADJ,MSU-TEXAS
+schoolhouse,learn,learn,learn,VERB,MSU-TEXAS
+organ,live,live,live,VERB,MSU-TEXAS
+piano,play,play,play,VERB,MSU-TEXAS
+piano,push,push,push,VERB,MSU-TEXAS
+piano,exercise,exercise,exercise,NOUN,MSU-TEXAS
+piano,decorate ,decorate,decorate,VERB,MSU-TEXAS
+toiletry,wipe,wipe,wipe,VERB,MSU-TEXAS
+toiletry,keep clean,keep,keep,VERB,MSU-TEXAS
+toiletry,keep clean,clean,clean,ADJ,MSU-TEXAS
+lizard,pet,pet,pet,NOUN,MSU-TEXAS
+lizard,feed,feed,feed,NOUN,MSU-TEXAS
+seaweed,eat,eat,eat,VERB,MSU-TEXAS
+seaweed,grab,grab,grab,VERB,MSU-TEXAS
+seaweed,feel,feel,feel,VERB,MSU-TEXAS
+condominium,live in,live,live,VERB,MSU-TEXAS
+condominium,party in,party,party,NOUN,MSU-TEXAS
+condominium,sleep in,sleep,sleep,VERB,MSU-TEXAS
+splint,fix fractured bones,fix,fix,VERB,MSU-TEXAS
+splint,fix fractured bones,fractured,fracture,VERB,MSU-TEXAS
+splint,fix fractured bones,bones,bone,NOUN,MSU-TEXAS
+checkerboard,play,play,play,VERB,MSU-TEXAS
+checkerboard,entertained,entertained,entertain,VERB,MSU-TEXAS
+checkerboard,learn ,learn,learn,VERB,MSU-TEXAS
+bell,ring,ring,ring,VERB,MSU-TEXAS
+bell,listen to ,listen,listen,VERB,MSU-TEXAS
+washroom,clean up,clean,clean,VERB,MSU-TEXAS
+washroom,cry,cry,cry,VERB,MSU-TEXAS
+washroom,shower,shower,shower,NOUN,MSU-TEXAS
+washroom,hide,hide,hide,NOUN,MSU-TEXAS
+placenta,health,health,health,NOUN,MSU-TEXAS
+placenta,eat,eat,eat,VERB,MSU-TEXAS
+placenta,save ,save,save,VERB,MSU-TEXAS
+gangster,arrest,arrest,arrest,VERB,MSU-TEXAS
+gumdrop,chew,chew,chew,VERB,MSU-TEXAS
+gumdrop,spit out,spit,spit,VERB,MSU-TEXAS
+gumdrop,step on,step,step,VERB,MSU-TEXAS
+gumdrop,swallow,swallow,swallow,VERB,MSU-TEXAS
+gumdrop,share ,share,share,VERB,MSU-TEXAS
+ammo,reload,reload,reload,VERB,MSU-TEXAS
+ammo,shoot,shoot,shoot,VERB,MSU-TEXAS
+muffler,car part,car,car,NOUN,MSU-TEXAS
+muffler,car part,part,part,NOUN,MSU-TEXAS
+ring,wear,wear,wear,VERB,MSU-TEXAS
+ring,engage,engage,engage,NOUN,MSU-TEXAS
+ring,admire ,admire,admire,VERB,MSU-TEXAS
+spinach,eat,eat,eat,VERB,MSU-TEXAS
+spinach,throw away,throw,throw,VERB,MSU-TEXAS
+spinach,throw away,away,away,ADV,MSU-TEXAS
+spinach,add to salad ,add,add,VERB,MSU-TEXAS
+spinach,add to salad ,salad,salad,NOUN,MSU-TEXAS
+cutlery,cut,cut,cut,VERB,MSU-TEXAS
+cutlery,prepare food,prepare,prepare,VERB,MSU-TEXAS
+cutlery,prepare food,food,food,NOUN,MSU-TEXAS
+iguana,pet,pet,pet,NOUN,MSU-TEXAS
+iguana,touch,touch,touch,NOUN,MSU-TEXAS
+iguana,feed,feed,feed,NOUN,MSU-TEXAS
+iguana,record,record,record,VERB,MSU-TEXAS
+whore,sell,sell,sell,VERB,MSU-TEXAS
+whore,sleep around,sleep,sleep,VERB,MSU-TEXAS
+whore,sleep around,around,around,ADV,MSU-TEXAS
+whore,give diseases ,give,give,VERB,MSU-TEXAS
+whore,give diseases ,diseases,disease,NOUN,MSU-TEXAS
+guesthouse,party,party,party,NOUN,MSU-TEXAS
+guesthouse,have fun,fun,fun,NOUN,MSU-TEXAS
+guesthouse,rent out,rent,rent,VERB,MSU-TEXAS
+panhandler,beg,beg,beg,NOUN,MSU-TEXAS
+panhandler,get money,get,get,VERB,MSU-TEXAS
+panhandler,get money,money,money,NOUN,MSU-TEXAS
+glycerine,moisturize,moisturize,moisturize,VERB,MSU-TEXAS
+glycerine,in medicine,medicine,medicine,NOUN,MSU-TEXAS
+glycerine,skin care,skin,skin,NOUN,MSU-TEXAS
+glycerine,skin care,care,care,NOUN,MSU-TEXAS
+vein,draw blood,draw,dree,VERB,MSU-TEXAS
+vein,draw blood,blood,blood,NOUN,MSU-TEXAS
+vein,insert iv,insert,insert,VERB,MSU-TEXAS
+vein,insert iv,iv,iv,X,MSU-TEXAS
+vein,blood flow,blood,blood,NOUN,MSU-TEXAS
+vein,blood flow,flow,flow,VERB,MSU-TEXAS
+amulet,wear,wear,wear,VERB,MSU-TEXAS
+amulet,pass down through generations,pass,pass,VERB,MSU-TEXAS
+amulet,pass down through generations,generations,generation,NOUN,MSU-TEXAS
+amulet,pawn,pawn,pawn,NOUN,MSU-TEXAS
+pharmacist,fill prescriptions,fill,fill,NOUN,MSU-TEXAS
+pharmacist,fill prescriptions,prescriptions,prescription,NOUN,MSU-TEXAS
+pharmacist,give shots,give,give,VERB,MSU-TEXAS
+pharmacist,give shots,shots,shot,NOUN,MSU-TEXAS
+pharmacist,bill insurance,bill,bill,VERB,MSU-TEXAS
+pharmacist,bill insurance,insurance,insurance,NOUN,MSU-TEXAS
+spareribs,eat,eat,eat,VERB,MSU-TEXAS
+spareribs,cook,cook,cake,VERB,MSU-TEXAS
+spareribs,season,season,season,NOUN,MSU-TEXAS
+liqueur,drink,drink,drink,VERB,MSU-TEXAS
+liqueur,cook,cook,cake,VERB,MSU-TEXAS
+liqueur,use as flavoring,use,use,VERB,MSU-TEXAS
+liqueur,use as flavoring,flavoring,flavor,NOUN,MSU-TEXAS
+squirrel,hunt,hunt,hunt,NOUN,MSU-TEXAS
+squirrel,eat,eat,eat,VERB,MSU-TEXAS
+rake,pile up leaves,pile,pile,VERB,MSU-TEXAS
+rake,pile up leaves,leaves,leave,VERB,MSU-TEXAS
+rake,level grounds,level,level,NOUN,MSU-TEXAS
+rake,level grounds,grounds,grounds,NOUN,MSU-TEXAS
+rake,break up soil,break,break,NOUN,MSU-TEXAS
+rake,break up soil,soil,soil,NOUN,MSU-TEXAS
+kitty,pet,pet,pet,VERB,MSU-TEXAS
+kitty,hunt mice,hunt,hunt,NOUN,MSU-TEXAS
+kitty,hunt mice,mice,mouse,NOUN,MSU-TEXAS
+cabinet,store dishes,store,store,VERB,MSU-TEXAS
+cabinet,store dishes,dishes,dish,NOUN,MSU-TEXAS
+cabinet,put medicine in,put,put,VERB,MSU-TEXAS
+cabinet,put medicine in,medicine,medicine,NOUN,MSU-TEXAS
+trinket,use as decoration,use,use,VERB,MSU-TEXAS
+trinket,use as decoration,decoration,decoration,NOUN,MSU-TEXAS
+trinket,collect,collect,collect,NOUN,MSU-TEXAS
+oxtail,make stock,make,make,VERB,MSU-TEXAS
+oxtail,make stock,stock,stock,NOUN,MSU-TEXAS
+oxtail,cook,cook,cake,VERB,MSU-TEXAS
+menu,look at meal option,look,look,VERB,MSU-TEXAS
+menu,look at meal option,meal,meal,NOUN,MSU-TEXAS
+menu,look at meal option,option,option,NOUN,MSU-TEXAS
+menu,determine prices,determine,determine,VERB,MSU-TEXAS
+menu,determine prices,prices,price,NOUN,MSU-TEXAS
+menu,display available choices,display,display,NOUN,MSU-TEXAS
+menu,display available choices,available,available,ADJ,MSU-TEXAS
+menu,display available choices,choices,choice,NOUN,MSU-TEXAS
+testes,produce testosterone,produce,produce,VERB,MSU-TEXAS
+testes,produce testosterone,testosterone,testosterone,NOUN,MSU-TEXAS
+testes,produce sperm,produce,produce,VERB,MSU-TEXAS
+testes,produce sperm,sperm,sperm,NOUN,MSU-TEXAS
+jogger, pace yourself,pace,pace,NOUN,MSU-TEXAS
+vine,decoration,decoration,decoration,NOUN,MSU-TEXAS
+vine,grow grapes,grow,grow,VERB,MSU-TEXAS
+vine,grow grapes,grapes,grape,NOUN,MSU-TEXAS
+blackberry,make jam,make,make,VERB,MSU-TEXAS
+blackberry,make jam,jam,jam,NOUN,MSU-TEXAS
+blackberry,make pies,make,make,VERB,MSU-TEXAS
+blackberry,make pies,pies,pies,NOUN,MSU-TEXAS
+blackberry,make reduction,make,make,VERB,MSU-TEXAS
+blackberry,make reduction,reduction,reduction,NOUN,MSU-TEXAS
+blackberry,eat,eat,eat,VERB,MSU-TEXAS
+blackberry,pick,pick,pick,VERB,MSU-TEXAS
+soil,plant flowers,plant,plant,NOUN,MSU-TEXAS
+soil,plant flowers,flowers,flower,NOUN,MSU-TEXAS
+cotton,make clothes,make,make,VERB,MSU-TEXAS
+cotton,make clothes,clothes,clothes,NOUN,MSU-TEXAS
+cotton,cotton balls,cotton,cotton,NOUN,MSU-TEXAS
+cotton,cotton balls,balls,ball,NOUN,MSU-TEXAS
+cotton,decoration,decoration,decoration,NOUN,MSU-TEXAS
+vest,wear,wear,wear,VERB,MSU-TEXAS
+vest,use as safety gear,use,use,VERB,MSU-TEXAS
+vest,use as safety gear,safety,safety,NOUN,MSU-TEXAS
+vest,use as safety gear,gear,gear,NOUN,MSU-TEXAS
+vest,protection ,protection,protect,VERB,MSU-TEXAS
+wagon,pull things,pull,pull,VERB,MSU-TEXAS
+wagon,pull things,things,thing,NOUN,MSU-TEXAS
+wagon,farming,farming,far,NOUN,MSU-TEXAS
+addict,use as an example,use,use,VERB,MSU-TEXAS
+addict,use as an example,example,example,NOUN,MSU-TEXAS
+addict,help in recovery,help,help,VERB,MSU-TEXAS
+addict,help in recovery,recovery,recovery,NOUN,MSU-TEXAS
+playroom,store toys,store,store,VERB,MSU-TEXAS
+playroom,store toys,toys,toy,NOUN,MSU-TEXAS
+eraser,erase things,erase,erase,VERB,MSU-TEXAS
+eraser,erase things,things,thing,NOUN,MSU-TEXAS
+eraser,chew on,chew,chew,VERB,MSU-TEXAS
+copybook,help with handwriting,help,help,VERB,MSU-TEXAS
+copybook,help with handwriting,handwriting,handwriting,NOUN,MSU-TEXAS
+crawfish,crawfish boil,crayfish,crayfish,NOUN,MSU-TEXAS
+crawfish,crawfish boil,boil,boil,NOUN,MSU-TEXAS
+crawfish,eat,eat,eat,VERB,MSU-TEXAS
+crawfish,catch,catch,catch,VERB,MSU-TEXAS
+topsoil,grow grass,grow,grow,VERB,MSU-TEXAS
+topsoil,grow grass,grass,grass,NOUN,MSU-TEXAS
+dress,wearing,wearing,wear,VERB,MSU-TEXAS
+dress,warming,warming,war,NOUN,MSU-TEXAS
+dress,covering,covering,cover,VERB,MSU-TEXAS
+dress,flowing,flowing,flow,VERB,MSU-TEXAS
+dress,burning,burning,burn,VERB,MSU-TEXAS
+dress,cutting,cutting,cut,VERB,MSU-TEXAS
+dress,layering,layering,layer,VERB,MSU-TEXAS
+clipper,clipping,clipping,clip,VERB,MSU-TEXAS
+clipper,cutting,cutting,cut,VERB,MSU-TEXAS
+clipper,hitting,hitting,hit,VERB,MSU-TEXAS
+clipper,throwing,throwing,throw,VERB,MSU-TEXAS
+clipper,breaking,breaking,break,VERB,MSU-TEXAS
+clipper,trimming,trimming,trimm,VERB,MSU-TEXAS
+pumpernickel,cooking,cooking,cook,VERB,MSU-TEXAS
+pumpernickel,slicing,slicing,slice,VERB,MSU-TEXAS
+pumpernickel,eating,eating,eat,VERB,MSU-TEXAS
+pumpernickel,baking,baking,bake,VERB,MSU-TEXAS
+pumpernickel,kneeding,kneed,knee,VERB,MSU-TEXAS
+pumpernickel,sandwiching,sandwiching,sandwich,NOUN,MSU-TEXAS
+nightstick,hitting,hitting,hit,VERB,MSU-TEXAS
+nightstick,breaking,breaking,break,VERB,MSU-TEXAS
+nightstick,beating,beating,beat,VERB,MSU-TEXAS
+nightstick,defending,defending,defend,VERB,MSU-TEXAS
+nightstick,throwing,throwing,throw,VERB,MSU-TEXAS
+nightstick,swinging,swinging,swing,VERB,MSU-TEXAS
+nightstick,defensive,defensive,defend,VERB,MSU-TEXAS
+nightstick,weapon,weapon,weapon,NOUN,MSU-TEXAS
+boat,carrying,carrying,carry,VERB,MSU-TEXAS
+boat,traveling,traveling,travel,VERB,MSU-TEXAS
+boat,sinking,sinking,sink,VERB,MSU-TEXAS
+boat,floating,floating,float,VERB,MSU-TEXAS
+boat,boarding,boarding,board,NOUN,MSU-TEXAS
+boat,sailing,sailing,sail,VERB,MSU-TEXAS
+boat,steering,steering,steer,VERB,MSU-TEXAS
+shed,shelter,shelter,shelter,NOUN,MSU-TEXAS
+shed,storage,storage,store,VERB,MSU-TEXAS
+shed,hiding,hiding,hi,VERB,MSU-TEXAS
+shed,escape,escape,escape,NOUN,MSU-TEXAS
+rabbit,petting,petting,pet,VERB,MSU-TEXAS
+rabbit,chasing,chasing,chase,VERB,MSU-TEXAS
+rabbit,eat,eat,eat,VERB,MSU-TEXAS
+rabbit,breed,breed,breed,VERB,MSU-TEXAS
+rabbit,sell,sell,sell,VERB,MSU-TEXAS
+rabbit,show,show,show,VERB,MSU-TEXAS
+peephole,looking,looking,look,VERB,MSU-TEXAS
+peephole,stalking,stalking,stalk,VERB,MSU-TEXAS
+peephole,eyeing,eyeing,eyeing,VERB,MSU-TEXAS
+peephole,avoiding,avoiding,avoid,VERB,MSU-TEXAS
+peephole,see outside,see,see,VERB,MSU-TEXAS
+peephole,see outside,outside,outside,ADV,MSU-TEXAS
+stool,sitting,sitting,sit,VERB,MSU-TEXAS
+stool,throwing,throwing,throw,VERB,MSU-TEXAS
+stool,breaking,breaking,break,VERB,MSU-TEXAS
+stool,resting,resting,rest,VERB,MSU-TEXAS
+stool,burning,burning,burn,VERB,MSU-TEXAS
+stool,painting,painting,paint,VERB,MSU-TEXAS
+stool,support,support,support,VERB,MSU-TEXAS
+carport,cover,cover,cover,VERB,MSU-TEXAS
+carport,parking,parking,park,VERB,MSU-TEXAS
+carport,storage,storage,store,VERB,MSU-TEXAS
+carport,protection,protection,protect,VERB,MSU-TEXAS
+junk,hording,hording,hord,VERB,MSU-TEXAS
+junk,throw,throw,throw,VERB,MSU-TEXAS
+junk,burn,burn,burn,VERB,MSU-TEXAS
+junk,discard,discard,discard,NOUN,MSU-TEXAS
+junk,clutter,clutter,clutter,NOUN,MSU-TEXAS
+buckwheat,food,food,food,NOUN,MSU-TEXAS
+buckwheat,baking,baking,bake,VERB,MSU-TEXAS
+buckwheat,medicine,medicine,medicine,NOUN,MSU-TEXAS
+buckwheat,cooking,cooking,cook,VERB,MSU-TEXAS
+buckwheat,eating,eating,eat,VERB,MSU-TEXAS
+parachute,resistance,resistance,resistance,NOUN,MSU-TEXAS
+parachute,protecting,protecting,protect,VERB,MSU-TEXAS
+parachute,blanket,blanket,blanket,NOUN,MSU-TEXAS
+parachute,coverage,coverage,coverage,NOUN,MSU-TEXAS
+parachute,life support,life,life,NOUN,MSU-TEXAS
+parachute,life support,support,support,NOUN,MSU-TEXAS
+parachute,flying,flying,flie,VERB,MSU-TEXAS
+shield,protection,protection,protection,NOUN,MSU-TEXAS
+shield,hitting,hitting,hit,VERB,MSU-TEXAS
+shield,cover,cover,cover,NOUN,MSU-TEXAS
+shield,barricade,barricade,barricade,NOUN,MSU-TEXAS
+shield,block,block,block,NOUN,MSU-TEXAS
+shield,sitting,sitting,sit,VERB,MSU-TEXAS
+shield,support ,support,support,VERB,MSU-TEXAS
+stockbroker,investing,investing,invest,VERB,MSU-TEXAS
+stockbroker,finances,finances,finances,NOUN,MSU-TEXAS
+stockbroker,money,money,money,NOUN,MSU-TEXAS
+stockbroker,guide,guide,guide,VERB,MSU-TEXAS
+stockbroker,helper,helper,helper,NOUN,MSU-TEXAS
+drone,spying,spying,spy,VERB,MSU-TEXAS
+drone,recording,recording,record,VERB,MSU-TEXAS
+drone,listening,listening,listen,VERB,MSU-TEXAS
+drone,flying,flying,flie,VERB,MSU-TEXAS
+drone,lifting,lifting,lift,VERB,MSU-TEXAS
+drone,carrying,carrying,carry,VERB,MSU-TEXAS
+drone,dropping,dropping,drop,VERB,MSU-TEXAS
+drone,capturing ,capturing,capture,VERB,MSU-TEXAS
+television,watching,watching,watch,VERB,MSU-TEXAS
+television,listening,listening,listen,VERB,MSU-TEXAS
+television,entainment,entertainment,entertain,VERB,MSU-TEXAS
+television,distraction,distraction,distraction,VERB,MSU-TEXAS
+television,background noise,background,background,NOUN,MSU-TEXAS
+television,background noise,noise,noise,NOUN,MSU-TEXAS
+television,binding,binding,bind,VERB,MSU-TEXAS
+boomerang,throwing,throwing,throw,VERB,MSU-TEXAS
+boomerang,cutting,cutting,cut,VERB,MSU-TEXAS
+boomerang,hitting,hitting,hit,VERB,MSU-TEXAS
+boomerang,weapon,weapon,weapon,NOUN,MSU-TEXAS
+artist,painting,painting,paint,VERB,MSU-TEXAS
+artist,drawing,drawing,drawe,VERB,MSU-TEXAS
+artist,creating,creating,create,VERB,MSU-TEXAS
+artist,making,making,make,VERB,MSU-TEXAS
+artist,sculpting,sculpting,sculpt,VERB,MSU-TEXAS
+diaphragm,breathing,breathing,breathe,VERB,MSU-TEXAS
+diaphragm,support,support,support,VERB,MSU-TEXAS
+wigmaker,creator,creator,create,VERB,MSU-TEXAS
+wigmaker,buying,buying,buy,VERB,MSU-TEXAS
+puddle,stomping,stomping,stomp,VERB,MSU-TEXAS
+puddle,splashing,splashing,splash,VERB,MSU-TEXAS
+puddle,kicking,kicking,kick,VERB,MSU-TEXAS
+rosebush,gardening,gardening,garde,VERB,MSU-TEXAS
+rosebush,hiding,hiding,hi,VERB,MSU-TEXAS
+rosebush,cutting,cutting,cut,VERB,MSU-TEXAS
+rosebush,planting,planting,plan,VERB,MSU-TEXAS
+tutor,help,help,help,VERB,MSU-TEXAS
+tutor,mentor,mentor,mentor,NOUN,MSU-TEXAS
+tutor,homework,homework,homework,NOUN,MSU-TEXAS
+tutor,answers,answers,answer,NOUN,MSU-TEXAS
+tutor,support,support,support,VERB,MSU-TEXAS
+tutor,teacher,teacher,teacher,NOUN,MSU-TEXAS
+tutor,information ,information,information,NOUN,MSU-TEXAS
+needlepoint,sewing,sewing,sew,VERB,MSU-TEXAS
+needlepoint,making,making,make,VERB,MSU-TEXAS
+needlepoint,crafting,crafting,craft,VERB,MSU-TEXAS
+needlepoint,crochet,crochet,crochet,NOUN,MSU-TEXAS
+clam,eating,eating,eat,VERB,MSU-TEXAS
+clam,steamed,steamed,steam,VERB,MSU-TEXAS
+clam,baked,baked,bake,VERB,MSU-TEXAS
+clam,fried,fried,fry,VERB,MSU-TEXAS
+clam,boiled,boiled,boil,VERB,MSU-TEXAS
+trunk,storage,storage,store,VERB,MSU-TEXAS
+trunk,carrying,carrying,carry,VERB,MSU-TEXAS
+trunk,holding,holding,hold,VERB,MSU-TEXAS
+trunk,transferring,transferring,transfer,VERB,MSU-TEXAS
+beach,vacation,vacation,vacation,NOUN,MSU-TEXAS
+beach,swimming,swimming,swimm,VERB,MSU-TEXAS
+beach,tanning,tanning,tanning,VERB,MSU-TEXAS
+beach,sand castles,sand,sand,NOUN,MSU-TEXAS
+beach,sand castles,castles,castle,NOUN,MSU-TEXAS
+beach,snorkeling,snorkeling,snorkel,VERB,MSU-TEXAS
+beach,diving ,diving,dive,VERB,MSU-TEXAS
+seawater,drinking,drinking,drink,VERB,MSU-TEXAS
+seawater,swimming,swimming,swimm,VERB,MSU-TEXAS
+seawater,boating,boating,boate,VERB,MSU-TEXAS
+seawater,fishing,fishing,fish,VERB,MSU-TEXAS
+mountainside,climbing,climbing,climb,VERB,MSU-TEXAS
+mountainside,hiking,hiking,hik,VERB,MSU-TEXAS
+mountainside,exploring,exploring,explore,VERB,MSU-TEXAS
+lodge,live,live,live,VERB,MSU-TEXAS
+lodge,sleep,sleep,sleep,VERB,MSU-TEXAS
+lodge,visit,visit,visit,VERB,MSU-TEXAS
+woodcraft,build,build,build,VERB,MSU-TEXAS
+pill,swallow,swallow,swallow,VERB,MSU-TEXAS
+pill,throw,throw,throw,VERB,MSU-TEXAS
+pill,spit,spit,spit,VERB,MSU-TEXAS
+shovel,dig,dig,dig,VERB,MSU-TEXAS
+shovel,fill up ,fill,fill,VERB,MSU-TEXAS
+suture,wound,wound,wound,NOUN,MSU-TEXAS
+suture,sew ,sew,sew,VERB,MSU-TEXAS
+suture,tool,tool,tool,NOUN,MSU-TEXAS
+flowerbed,smell,smell,smell,VERB,MSU-TEXAS
+Shirt,wear,wear,wear,VERB,MSU-TEXAS
+Shirt,cut,cut,cut,VERB,MSU-TEXAS
+Shirt,throw ,throw,throw,VERB,MSU-TEXAS
+Shirt,donate,donate,donate,ADJ,MSU-TEXAS
+ice,eat,eat,eat,VERB,MSU-TEXAS
+ice,melt,melt,melt,VERB,MSU-TEXAS
+ice,throw,throw,throw,VERB,MSU-TEXAS
+actress,to sing,sing,se,VERB,MSU-TEXAS
+actress,play a trick,play,play,VERB,MSU-TEXAS
+actress,play a trick,trick,trick,NOUN,MSU-TEXAS
+actress,act ,act,act,NOUN,MSU-TEXAS
+journal,write,write,write,VERB,MSU-TEXAS
+journal,read,read,read,VERB,MSU-TEXAS
+journal,draw,draw,dree,VERB,MSU-TEXAS
+journal,paint ,paint,paint,VERB,MSU-TEXAS
+journal,throw ,throw,throw,VERB,MSU-TEXAS
+pantaloons,underwear,underwear,underwear,ADJ,MSU-TEXAS
+pantaloons,bottoms,bottoms,bottom,NOUN,MSU-TEXAS
+slide,play,play,play,VERB,MSU-TEXAS
+brick,throw,throw,throw,VERB,MSU-TEXAS
+brick,build,build,build,NOUN,MSU-TEXAS
+honeydew,eat,eat,eat,VERB,MSU-TEXAS
+lasso,rope animals,rope,rope,NOUN,MSU-TEXAS
+lasso,rope animals,animals,animal,NOUN,MSU-TEXAS
+lasso,rope people,rope,rope,NOUN,MSU-TEXAS
+lasso,rope people,people,people,NOUN,MSU-TEXAS
+lasso,grab beer ,grab,grab,VERB,MSU-TEXAS
+lasso,grab beer ,beer,beer,NOUN,MSU-TEXAS
+earplug,block noise,block,block,NOUN,MSU-TEXAS
+earplug,block noise,noise,noise,NOUN,MSU-TEXAS
+bucket,put ice in,put,put,VERB,MSU-TEXAS
+bucket,put ice in,ice,ice,NOUN,MSU-TEXAS
+bucket,put clothes in ,put,put,VERB,MSU-TEXAS
+bucket,put clothes in ,clothes,clothes,NOUN,MSU-TEXAS
+bucket,put food in,put,put,VERB,MSU-TEXAS
+bucket,put food in,food,food,NOUN,MSU-TEXAS
+bucket,shovel snow,shovel,shovel,NOUN,MSU-TEXAS
+bucket,shovel snow,snow,snow,NOUN,MSU-TEXAS
+auditorium,listen to music,listen,listen,VERB,MSU-TEXAS
+auditorium,listen to music,music,music,NOUN,MSU-TEXAS
+auditorium,watch a play,watch,watch,VERB,MSU-TEXAS
+auditorium,watch a play,play,play,VERB,MSU-TEXAS
+auditorium,take a test ,take,take,VERB,MSU-TEXAS
+auditorium,take a test ,test,test,NOUN,MSU-TEXAS
+shaker,put seasoning in ,put,put,VERB,MSU-TEXAS
+shaker,put seasoning in ,seasoning,season,VERB,MSU-TEXAS
+heroin,smoke,smoke,smoke,VERB,MSU-TEXAS
+heroin,cook ,cook,cake,VERB,MSU-TEXAS
+heroin,sale ,sale,sale,NOUN,MSU-TEXAS
+box,storage ,storage,storage,NOUN,MSU-TEXAS
+prize,a reward,reward,reward,VERB,MSU-TEXAS
+prize,a gift ,gift,gift,NOUN,MSU-TEXAS
+child,to ask for something,ask,ask,VERB,MSU-TEXAS
+child,to ask for something,something,something,PRON,MSU-TEXAS
+child,play with,play,play,VERB,MSU-TEXAS
+breadbasket,sale,sale,sale,NOUN,MSU-TEXAS
+breadbasket,give away ,give,give,VERB,MSU-TEXAS
+breadbasket,give away ,away,away,ADV,MSU-TEXAS
+breadbasket,eat,eat,eat,VERB,MSU-TEXAS
+crown,wear,wear,wear,VERB,MSU-TEXAS
+crown,melt,melt,melt,VERB,MSU-TEXAS
+crown,give away ,give,give,VERB,MSU-TEXAS
+crown,give away ,away,away,ADV,MSU-TEXAS
+diaper,change,change,change,VERB,MSU-TEXAS
+diaper,put on a baby,put,put,VERB,MSU-TEXAS
+diaper,put on a baby,baby,baby,NOUN,MSU-TEXAS
+diaper,put on old person,put,put,VERB,MSU-TEXAS
+diaper,put on old person,old,old,ADJ,MSU-TEXAS
+diaper,put on old person,person,person,NOUN,MSU-TEXAS
+diaper,throw in trash ,throw,throw,VERB,MSU-TEXAS
+diaper,throw in trash ,trash,trash,INTJ,MSU-TEXAS
+stapler,put papers together,put,put,VERB,MSU-TEXAS
+stapler,put papers together,papers,paper,NOUN,MSU-TEXAS
+stapler,put papers together,together,together,ADV,MSU-TEXAS
+stapler,throw ,throw,throw,VERB,MSU-TEXAS
+stapler,give to friend ,give,give,VERB,MSU-TEXAS
+stapler,give to friend ,friend,friend,NOUN,MSU-TEXAS
+turtleneck,wear,wear,wear,VERB,MSU-TEXAS
+turtleneck,make a hairtie,make,make,VERB,MSU-TEXAS
+turtleneck,make a hairtie,hair,hair,NOUN,MSU-TEXAS
+turtleneck,make a hairtie,tie,tie,VERB,MSU-TEXAS
+bifocals,to see,see,see,VERB,MSU-TEXAS
+bifocals,maginfy glass,magnify,magnify,VERB,MSU-TEXAS
+bifocals,maginfy glass,glass,glass,NOUN,MSU-TEXAS
+businesswoman,not an object ,object,object,ADV,MSU-TEXAS
+rink,to rollerskate,roller,roller,NOUN,MSU-TEXAS
+rink,to rollerskate,skate,skate,NOUN,MSU-TEXAS
+rink,ice skating,ice,ice,NOUN,MSU-TEXAS
+rink,ice skating,skating,skat,VERB,MSU-TEXAS
+rink,rollerblading,rollerblading,rollerblade,VERB,MSU-TEXAS
+rack,to keep sauces,keep,keep,VERB,MSU-TEXAS
+rack,to keep sauces,sauces,sauce,NOUN,MSU-TEXAS
+rack,place condiments,place,place,NOUN,MSU-TEXAS
+rack,place condiments,condiments,condiment,NOUN,MSU-TEXAS
+rack,place dishes,place,place,NOUN,MSU-TEXAS
+rack,place dishes,dishes,dish,NOUN,MSU-TEXAS
+rack,hold clothes,hold,hold,VERB,MSU-TEXAS
+rack,hold clothes,clothes,clothes,NOUN,MSU-TEXAS
+rack,hold towels,hold,hold,VERB,MSU-TEXAS
+rack,hold towels,towels,towel,NOUN,MSU-TEXAS
+rack,hold bikes,hold,hold,VERB,MSU-TEXAS
+rack,hold bikes,bikes,bike,NOUN,MSU-TEXAS
+dogcatcher,catch dogs,catch,catch,VERB,MSU-TEXAS
+dogcatcher,catch dogs,dogs,dog,NOUN,MSU-TEXAS
+dogcatcher,catch cats,catch,catch,VERB,MSU-TEXAS
+dogcatcher,catch cats,cats,cat,NOUN,MSU-TEXAS
+fastener,tighten clothes,tighten,tighten,VERB,MSU-TEXAS
+fastener,tighten clothes,clothes,clothes,NOUN,MSU-TEXAS
+fastener,loosen clothes,loosen,loosen,VERB,MSU-TEXAS
+fastener,loosen clothes,clothes,clothes,NOUN,MSU-TEXAS
+fastener,tighten bags,tighten,tighten,VERB,MSU-TEXAS
+fastener,tighten bags,bags,bag,NOUN,MSU-TEXAS
+fastener,loosen bags,loosen,loosen,VERB,MSU-TEXAS
+fastener,loosen bags,bags,bag,NOUN,MSU-TEXAS
+fastener,strap things together,strap,strap,VERB,MSU-TEXAS
+fastener,strap things together,things,thing,NOUN,MSU-TEXAS
+fastener,strap things together,together,together,ADV,MSU-TEXAS
+fastener,loosen seatbelts,loosen,loosen,VERB,MSU-TEXAS
+fastener,loosen seatbelts,seatbelt,seatbelt,NOUN,MSU-TEXAS
+fastener,tighten seatbelts,tighten,tighten,VERB,MSU-TEXAS
+fastener,tighten seatbelts,seatbelt,seatbelt,NOUN,MSU-TEXAS
+stake,hunting,hunting,hunt,VERB,MSU-TEXAS
+stake,make fires,make,make,VERB,MSU-TEXAS
+stake,make fires,fires,fire,NOUN,MSU-TEXAS
+stake,protection ,protection,protection,NOUN,MSU-TEXAS
+curtain,block out sun,block,block,VERB,MSU-TEXAS
+curtain,block out sun,sun,sun,NOUN,MSU-TEXAS
+curtain,block out light,block,block,VERB,MSU-TEXAS
+curtain,block out light,light,light,NOUN,MSU-TEXAS
+curtain,allow privacy,allow,allow,VERB,MSU-TEXAS
+curtain,allow privacy,privacy,privacy,NOUN,MSU-TEXAS
+curtain,close,close,close,ADJ,MSU-TEXAS
+curtain,open ,open,open,VERB,MSU-TEXAS
+curtain,decoration,decoration,decorate,VERB,MSU-TEXAS
+curtain,aesthetic ,aesthetic,aesthetic,ADJ,MSU-TEXAS
+sash,birthdays,birthdays,birthday,NOUN,MSU-TEXAS
+sash,homecoming,homecoming,homecom,VERB,MSU-TEXAS
+sash,prom,prom,prom,X,MSU-TEXAS
+sash,pageants,pageants,pageant,NOUN,MSU-TEXAS
+sash,style,style,style,NOUN,MSU-TEXAS
+overcoat,to keep warm,keep,keep,VERB,MSU-TEXAS
+overcoat,to keep warm,warm,warm,ADJ,MSU-TEXAS
+overcoat,to pair with outfit,pair,pair,NOUN,MSU-TEXAS
+overcoat,to pair with outfit,outfit,outfit,NOUN,MSU-TEXAS
+overcoat,to keep clean,keep,keep,VERB,MSU-TEXAS
+overcoat,to keep clean,clean,clean,VERB,MSU-TEXAS
+overcoat,to protect from rain,protect,protect,VERB,MSU-TEXAS
+overcoat,to protect from rain,rain,rain,NOUN,MSU-TEXAS
+overcoat,to protect from snow,protect,protect,VERB,MSU-TEXAS
+overcoat,to protect from snow,snow,snow,NOUN,MSU-TEXAS
+stone,start fire,start,start,VERB,MSU-TEXAS
+stone,start fire,fire,fire,NOUN,MSU-TEXAS
+stone,skip across water,skip,skip,VERB,MSU-TEXAS
+stone,skip across water,across,across,ADP,MSU-TEXAS
+stone,skip across water,water,water,NOUN,MSU-TEXAS
+stone,shape into objects,shape,shape,VERB,MSU-TEXAS
+stone,shape into objects,objects,object,VERB,MSU-TEXAS
+stone,collect,collect,collect,NOUN,MSU-TEXAS
+perfume,can be sprayed,can,can,AUX,MSU-TEXAS
+perfume,can be sprayed,sprayed,spray,VERB,MSU-TEXAS
+perfume,can be poured,can,can,AUX,MSU-TEXAS
+perfume,can be poured,poured,pour,VERB,MSU-TEXAS
+perfume,to smell good,smell,smell,VERB,MSU-TEXAS
+perfume,to smell good,good,good,ADJ,MSU-TEXAS
+perfume,to mask other smells ,mask,mask,VERB,MSU-TEXAS
+perfume,to mask other smells ,smells,smell,VERB,MSU-TEXAS
+perfume,to feel good ,feel,feel,VERB,MSU-TEXAS
+perfume,to feel good ,good,good,ADJ,MSU-TEXAS
+lilac,placed in a bouquet,placed,place,VERB,MSU-TEXAS
+lilac,placed in a bouquet,bouquet,bouquet,NOUN,MSU-TEXAS
+lilac,planted ,planted,plan,VERB,MSU-TEXAS
+lilac,grown,grown,grow,VERB,MSU-TEXAS
+lilac,nurtured ,nurtured,nurture,VERB,MSU-TEXAS
+plastics,used for water bottles,used,use,VERB,MSU-TEXAS
+plastics,used for water bottles,water,water,NOUN,MSU-TEXAS
+plastics,used for water bottles,bottles,bottle,NOUN,MSU-TEXAS
+plastics,made into bags,made,make,VERB,MSU-TEXAS
+plastics,made into bags,bags,bag,NOUN,MSU-TEXAS
+plastics,made into containers ,made,make,VERB,MSU-TEXAS
+plastics,made into containers ,containers,container,NOUN,MSU-TEXAS
+plastics,used in clothes,used,use,VERB,MSU-TEXAS
+plastics,used in clothes,clothes,clothes,NOUN,MSU-TEXAS
+plastics,used in shoes,used,use,VERB,MSU-TEXAS
+plastics,used in shoes,shoes,shoe,VERB,MSU-TEXAS
+plastics,made into toys,made,make,VERB,MSU-TEXAS
+plastics,made into toys,toys,toy,NOUN,MSU-TEXAS
+plastics,used in video games,used,use,VERB,MSU-TEXAS
+plastics,used in video games,video,video,NOUN,MSU-TEXAS
+plastics,used in video games,games,game,NOUN,MSU-TEXAS
+postmaster,send mail,send,send,VERB,MSU-TEXAS
+postmaster,send mail,mail,mail,NOUN,MSU-TEXAS
+postmaster,receive mail,receive,receive,VERB,MSU-TEXAS
+postmaster,receive mail,mail,mail,NOUN,MSU-TEXAS
+cart,for shopping,shopping,shop,VERB,MSU-TEXAS
+cart,for moving,moving,move,VERB,MSU-TEXAS
+cart,for holding items,holding,hold,VERB,MSU-TEXAS
+cart,for holding items,items,item,NOUN,MSU-TEXAS
+cart,to be rolled ,rolled,roll,VERB,MSU-TEXAS
+footplate,to place feet on,place,place,NOUN,MSU-TEXAS
+footplate,to place feet on,feet,foot,NOUN,MSU-TEXAS
+sportswriter,to cover sports news,cover,cover,NOUN,MSU-TEXAS
+sportswriter,to cover sports news,sports,sport,NOUN,MSU-TEXAS
+sportswriter,to cover sports news,news,news,NOUN,MSU-TEXAS
+sportswriter,publish articles,publish,publish,VERB,MSU-TEXAS
+sportswriter,publish articles,articles,article,NOUN,MSU-TEXAS
+sportswriter,write blogs,write,write,VERB,MSU-TEXAS
+sportswriter,write blogs,blogs,blog,NOUN,MSU-TEXAS
+sportswriter,be a sports anchor,sports,sport,NOUN,MSU-TEXAS
+sportswriter,be a sports anchor,anchor,anchor,NOUN,MSU-TEXAS
+limestone,used to make jewelry,used,use,VERB,MSU-TEXAS
+limestone,used to make jewelry,make,make,VERB,MSU-TEXAS
+limestone,used to make jewelry,jewelry,jewelry,NOUN,MSU-TEXAS
+postage,used to send packages,used,use,VERB,MSU-TEXAS
+postage,used to send packages,send,send,VERB,MSU-TEXAS
+postage,used to send packages,packages,packages,NOUN,MSU-TEXAS
+lumber,can be chopped down,can,can,AUX,MSU-TEXAS
+lumber,can be chopped down,chopped,chop,VERB,MSU-TEXAS
+lumber,may be sold,may,may,AUX,MSU-TEXAS
+lumber,may be sold,sold,sell,VERB,MSU-TEXAS
+lumber,placed in lumber yards,placed,place,VERB,MSU-TEXAS
+lumber,placed in lumber yards,lumber,lumber,NOUN,MSU-TEXAS
+lumber,placed in lumber yards,yards,yard,NOUN,MSU-TEXAS
+lumber,used for firewood,used,use,VERB,MSU-TEXAS
+lumber,used for firewood,firewood,firewood,NOUN,MSU-TEXAS
+lumber,used to build shelter,used,use,VERB,MSU-TEXAS
+lumber,used to build shelter,build,build,VERB,MSU-TEXAS
+lumber,used to build shelter,shelter,shelter,NOUN,MSU-TEXAS
+plow,used to plow trees,used,use,VERB,MSU-TEXAS
+plow,used to plow trees,plow,plow,VERB,MSU-TEXAS
+plow,used to plow trees,trees,tree,NOUN,MSU-TEXAS
+plow,used in farming,used,use,VERB,MSU-TEXAS
+plow,used in farming,farming,far,NOUN,MSU-TEXAS
+tights,to keep warm,keep,keep,VERB,MSU-TEXAS
+tights,to keep warm,warm,warm,ADJ,MSU-TEXAS
+tights,give an extra layer,give,give,VERB,MSU-TEXAS
+tights,give an extra layer,extra,extra,ADJ,MSU-TEXAS
+tights,give an extra layer,layer,layer,NOUN,MSU-TEXAS
+tights,keep covered,keep,keep,VERB,MSU-TEXAS
+tights,keep covered,covered,cover,VERB,MSU-TEXAS
+tights,helps with compression ,helps,help,VERB,MSU-TEXAS
+tights,helps with compression ,compression,compression,NOUN,MSU-TEXAS
+crumb,can be eaten,can,can,AUX,MSU-TEXAS
+crumb,can be eaten,eaten,eat,VERB,MSU-TEXAS
+crumb,cleaned,cleaned,clean,VERB,MSU-TEXAS
+crumb,thrown away,thrown,throw,VERB,MSU-TEXAS
+crumb,thrown away,away,away,ADV,MSU-TEXAS
+crumb,used in meals,used,use,VERB,MSU-TEXAS
+crumb,used in meals,meals,meal,NOUN,MSU-TEXAS
+litter,for cats to go to restroom,cats,cat,NOUN,MSU-TEXAS
+litter,for cats to go to restroom,go,go,VERB,MSU-TEXAS
+litter,for cats to go to restroom,restroom,restroom,NOUN,MSU-TEXAS
+litter,may be sold,may,may,AUX,MSU-TEXAS
+litter,may be sold,sold,sell,VERB,MSU-TEXAS
+litter,can be cleaned,can,can,AUX,MSU-TEXAS
+litter,can be cleaned,cleaned,clean,VERB,MSU-TEXAS
+spit,spit out,spit,spit,VERB,MSU-TEXAS
+spit,keep mouth not dry,keep,keep,VERB,MSU-TEXAS
+spit,keep mouth not dry,mouth,mouth,NOUN,MSU-TEXAS
+spit,keep mouth not dry,dry,dry,ADJ,MSU-TEXAS
+spit,keep lips not dry,keep,keep,VERB,MSU-TEXAS
+spit,keep lips not dry,lips,lip,NOUN,MSU-TEXAS
+spit,keep lips not dry,dry,dry,ADJ,MSU-TEXAS
+spit,used for breaking down foods,used,use,VERB,MSU-TEXAS
+spit,used for breaking down foods,breaking,break,VERB,MSU-TEXAS
+spit,used for breaking down foods,foods,food,NOUN,MSU-TEXAS
+spit,mastication,mastication,masticate,VERB,MSU-TEXAS
+police,keep people safe,keep,keep,VERB,MSU-TEXAS
+police,keep people safe,people,people,NOUN,MSU-TEXAS
+police,keep people safe,safe,safe,ADJ,MSU-TEXAS
+police,respond to emergency,respond,respond,VERB,MSU-TEXAS
+police,respond to emergency,emergency,emergency,NOUN,MSU-TEXAS
+police,jumpstart car,jumpstart,jumpstart,VERB,MSU-TEXAS
+police,jumpstart car,car,car,NOUN,MSU-TEXAS
+pinecone,may be eaten,may,may,AUX,MSU-TEXAS
+pinecone,may be eaten,eaten,eat,VERB,MSU-TEXAS
+pinecone,used for scent,used,use,VERB,MSU-TEXAS
+pinecone,used for scent,scent,scent,NOUN,MSU-TEXAS
+stuff,used for anything,used,use,VERB,MSU-TEXAS
+stuff,used for anything,anything,anything,PRON,MSU-TEXAS
+stuff,cleaned,cleaned,clean,VERB,MSU-TEXAS
+stuff,hoarded,hoarded,hoard,VERB,MSU-TEXAS
+stuff,thrown away,thrown,throw,VERB,MSU-TEXAS
+stuff,thrown away,away,away,ADV,MSU-TEXAS
+stuff,gifted,gifted,gift,VERB,MSU-TEXAS
+backbone,to support you back,support,support,NOUN,MSU-TEXAS
+backbone,to support you back,back,back,ADV,MSU-TEXAS
+backbone,hold body upright,hold,hold,VERB,MSU-TEXAS
+backbone,hold body upright,body,body,NOUN,MSU-TEXAS
+backbone,hold body upright,upright,upright,VERB,MSU-TEXAS
+backbone,posture,posture,posture,NOUN,MSU-TEXAS
+earring,jewelry,jewelry,jewelry,NOUN,MSU-TEXAS
+earring,accessory,accessory,accessory,INTJ,MSU-TEXAS
+earring,piercing,piercing,piercing,NOUN,MSU-TEXAS
+flannels,wear,wear,wear,VERB,MSU-TEXAS
+flannels,keep warm,keep,keep,VERB,MSU-TEXAS
+flannels,keep warm,warm,warm,VERB,MSU-TEXAS
+flannels,style,style,style,NOUN,MSU-TEXAS
+flannels,for fall,fall,fall,NOUN,MSU-TEXAS
+brassiere,support,support,support,NOUN,MSU-TEXAS
+brassiere,wear,wear,wear,VERB,MSU-TEXAS
+brassiere,cover,cover,cover,VERB,MSU-TEXAS
+brassiere,comfortable,comfortable,comfortable,ADJ,MSU-TEXAS
+hairpin,accessories,accessories,accessory,NOUN,MSU-TEXAS
+hairpin,get hair out of the way,get,get,VERB,MSU-TEXAS
+hairpin,get hair out of the way,hair,hair,NOUN,MSU-TEXAS
+hairpin,get hair out of the way,way,way,NOUN,MSU-TEXAS
+vagina,pee,pee,pee,VERB,MSU-TEXAS
+vagina,bleed,bleed,bleed,VERB,MSU-TEXAS
+vagina,to have children,children,child,NOUN,MSU-TEXAS
+vagina,hygiene ,hygiene,hygiene,NOUN,MSU-TEXAS
+driftwood,make a fire,make,make,VERB,MSU-TEXAS
+driftwood,make a fire,fire,fire,NOUN,MSU-TEXAS
+driftwood,burn,burn,burn,VERB,MSU-TEXAS
+driftwood,shelter,shelter,shelter,NOUN,MSU-TEXAS
+cord,charger,charger,charger,NOUN,MSU-TEXAS
+cord,hair straightener,hair,hair,NOUN,MSU-TEXAS
+cord,hair straightener,straightener,straightener,NOUN,MSU-TEXAS
+cord,computer charger,computer,computer,NOUN,MSU-TEXAS
+cord,computer charger,charger,charger,NOUN,MSU-TEXAS
+cord,lights,lights,light,NOUN,MSU-TEXAS
+cord,fans,fans,fan,NOUN,MSU-TEXAS
+tuba,play music,play,play,VERB,MSU-TEXAS
+tuba,play music,music,music,NOUN,MSU-TEXAS
+tuba,make money,make,make,VERB,MSU-TEXAS
+tuba,make money,money,money,NOUN,MSU-TEXAS
+tuba,be in a band,band,band,NOUN,MSU-TEXAS
+booth,take pictures,take,take,VERB,MSU-TEXAS
+booth,take pictures,pictures,picture,NOUN,MSU-TEXAS
+booth,sell food,sell,sell,VERB,MSU-TEXAS
+booth,sell food,food,food,NOUN,MSU-TEXAS
+booth,sell drinks,sell,sell,VERB,MSU-TEXAS
+booth,sell drinks,drinks,drink,NOUN,MSU-TEXAS
+booth,sell prizes,sell,sell,VERB,MSU-TEXAS
+booth,sell prizes,prizes,prize,NOUN,MSU-TEXAS
+fisherman,catch fish,catch,catch,VERB,MSU-TEXAS
+fisherman,catch fish,fish,fish,NOUN,MSU-TEXAS
+fisherman,make money,make,make,VERB,MSU-TEXAS
+fisherman,make money,money,money,NOUN,MSU-TEXAS
+Cheeseburger,eat,eat,eat,VERB,MSU-TEXAS
+Cheeseburger,sell,sell,sell,VERB,MSU-TEXAS
+Cheeseburger,throw away,throw,throw,VERB,MSU-TEXAS
+Cheeseburger,throw away,away,away,ADV,MSU-TEXAS
+Cheeseburger,draw,draw,dree,VERB,MSU-TEXAS
+hamstring,muscle,muscle,muscle,NOUN,MSU-TEXAS
+hamstring,pulled muscle,pulled,pull,VERB,MSU-TEXAS
+hamstring,pulled muscle,muscle,muscle,NOUN,MSU-TEXAS
+hamstring,human muscle,human,human,ADJ,MSU-TEXAS
+hamstring,human muscle,muscle,muscle,NOUN,MSU-TEXAS
+granddaughter,help with cooking,help,help,VERB,MSU-TEXAS
+granddaughter,help with cooking,cooking,cook,NOUN,MSU-TEXAS
+granddaughter,buy gifts,buy,buy,VERB,MSU-TEXAS
+granddaughter,buy gifts,gifts,gift,NOUN,MSU-TEXAS
+granddaughter,spoil,spoil,spoil,VERB,MSU-TEXAS
+granddaughter,take on vacations,take,take,VERB,MSU-TEXAS
+granddaughter,take on vacations,vacations,vacations,NOUN,MSU-TEXAS
+seasoning,season food,season,season,NOUN,MSU-TEXAS
+seasoning,season food,food,food,NOUN,MSU-TEXAS
+seasoning,measure,measure,measure,NOUN,MSU-TEXAS
+seasoning,cook,cook,cake,VERB,MSU-TEXAS
+doorstep,walk to the door,walk,walk,VERB,MSU-TEXAS
+doorstep,walk to the door,door,door,NOUN,MSU-TEXAS
+doorstep,decorate,decorate,decorate,VERB,MSU-TEXAS
+doorstep,clean,clean,clean,VERB,MSU-TEXAS
+suede,used for blanket,used,use,VERB,MSU-TEXAS
+suede,used for blanket,blanket,blanket,NOUN,MSU-TEXAS
+suede,shirts,shirts,shirt,NOUN,MSU-TEXAS
+suede,shorts,shorts,short,NOUN,MSU-TEXAS
+suede,pants,pants,pants,NOUN,MSU-TEXAS
+suede,socks,socks,sock,NOUN,MSU-TEXAS
+suede,pillows,pillows,pillow,NOUN,MSU-TEXAS
+suede,jackets,jackets,jacket,NOUN,MSU-TEXAS
+hutch,serve food,serve,serve,VERB,MSU-TEXAS
+hutch,serve food,food,food,NOUN,MSU-TEXAS
+hutch,serve drinks,serve,serve,VERB,MSU-TEXAS
+hutch,serve drinks,drinks,drink,NOUN,MSU-TEXAS
+hutch,display,display,display,VERB,MSU-TEXAS
+clip,hold hair,hold,hold,VERB,MSU-TEXAS
+clip,hold hair,hair,hair,NOUN,MSU-TEXAS
+clip,hold papers,hold,hold,VERB,MSU-TEXAS
+clip,hold papers,papers,papers,NOUN,MSU-TEXAS
+turnip,to eat,eat,eat,VERB,MSU-TEXAS
+turnip,make smoothies,make,make,VERB,MSU-TEXAS
+turnip,make smoothies,smoothies,smoothie,NOUN,MSU-TEXAS
+turnip,make meals,make,make,VERB,MSU-TEXAS
+turnip,make meals,meals,meal,NOUN,MSU-TEXAS
+pedestal,support a statue,support,support,VERB,MSU-TEXAS
+pedestal,support a statue,statue,statue,NOUN,MSU-TEXAS
+pedestal,place laundry detergent,place,place,VERB,MSU-TEXAS
+pedestal,place laundry detergent,laundry,laundry,NOUN,MSU-TEXAS
+pedestal,place laundry detergent,detergent,detergent,NOUN,MSU-TEXAS
+crayon,to color,color,color,NOUN,MSU-TEXAS
+crayon,to trace,trace,trace,NOUN,MSU-TEXAS
+crayon,to write,write,write,VERB,MSU-TEXAS
+crayon,to learn,learn,learn,VERB,MSU-TEXAS
+broker,trading,trading,trade,VERB,MSU-TEXAS
+broker,sell orders,sell,sell,VERB,MSU-TEXAS
+broker,sell orders,orders,order,NOUN,MSU-TEXAS
+cocktail,to drink,drink,drink,VERB,MSU-TEXAS
+cocktail,spend time with friends,spend,spend,NOUN,MSU-TEXAS
+cocktail,spend time with friends,time,time,NOUN,MSU-TEXAS
+cocktail,spend time with friends,friends,friend,NOUN,MSU-TEXAS
+cocktail,to make,make,make,VERB,MSU-TEXAS
+milkshake,to drink,drink,drink,VERB,MSU-TEXAS
+milkshake,to make,make,make,VERB,MSU-TEXAS
+milkshake,add different flavors ,add,add,VERB,MSU-TEXAS
+milkshake,add different flavors ,different,different,ADJ,MSU-TEXAS
+milkshake,add different flavors ,flavors,flavor,NOUN,MSU-TEXAS
+paperhanger,decorate,decorate,decorate,VERB,MSU-TEXAS
+paperhanger,hang stuff on the wall ,hang,hang,VERB,MSU-TEXAS
+paperhanger,hang stuff on the wall ,stuff,stuff,NOUN,MSU-TEXAS
+paperhanger,hang stuff on the wall ,wall,wall,NOUN,MSU-TEXAS
+pellet,cooking,cooking,cook,VERB,MSU-TEXAS
+pellet,fuel,fuel,fuel,NOUN,MSU-TEXAS
+pellet,soak of water,soak,soak,NOUN,MSU-TEXAS
+pellet,soak of water,water,water,NOUN,MSU-TEXAS
+pellet,for fires,fires,fire,NOUN,MSU-TEXAS
+tonic,drinking,drinking,drink,VERB,MSU-TEXAS
+tonic,treatment,treatment,treatment,NOUN,MSU-TEXAS
+tonic,cleaning,cleaning,clean,VERB,MSU-TEXAS
+cleat,shoes,shoes,shoe,VERB,MSU-TEXAS
+cleat,play baseball,play,play,VERB,MSU-TEXAS
+cleat,play baseball,baseball,baseball,NOUN,MSU-TEXAS
+cleat,play football,play,play,VERB,MSU-TEXAS
+cleat,play football,football,football,NOUN,MSU-TEXAS
+cleat,play soccer,play,play,VERB,MSU-TEXAS
+cleat,play soccer,soccer,soccer,NOUN,MSU-TEXAS
+author,writes books,writes,write,VERB,MSU-TEXAS
+author,writes books,books,book,NOUN,MSU-TEXAS
+author,writes letters,writes,write,VERB,MSU-TEXAS
+author,writes letters,letters,letter,NOUN,MSU-TEXAS
+author,writes essays,writes,write,VERB,MSU-TEXAS
+author,writes essays,essays,essays,NOUN,MSU-TEXAS
+author,writes in journals,writes,write,VERB,MSU-TEXAS
+author,writes in journals,journals,journals,NOUN,MSU-TEXAS
+author,reads,reads,read,VERB,MSU-TEXAS
+author,sells books,sells,sell,NOUN,MSU-TEXAS
+author,sells books,books,book,NOUN,MSU-TEXAS
+doctor,goes to school,goes,go,VERB,MSU-TEXAS
+doctor,goes to school,school,school,NOUN,MSU-TEXAS
+doctor,helps patients,helps,help,VERB,MSU-TEXAS
+doctor,helps patients,patients,patient,NOUN,MSU-TEXAS
+doctor,does surgery,surgery,surgery,NOUN,MSU-TEXAS
+roach,eat it,eat,eat,VERB,MSU-TEXAS
+roach,cook it,cook,cake,VERB,MSU-TEXAS
+roach,kill it,kill,kill,VERB,MSU-TEXAS
+roach,burn it,burn,burn,VERB,MSU-TEXAS
+stewardess,ask for help,ask,ask,VERB,MSU-TEXAS
+stewardess,ask for help,help,help,VERB,MSU-TEXAS
+stewardess,i can communicate,can,can,AUX,MSU-TEXAS
+stewardess,i can communicate,communicate,communicate,VERB,MSU-TEXAS
+pickle,eat it,eat,eat,VERB,MSU-TEXAS
+pickle,cook it,cook,cake,VERB,MSU-TEXAS
+pickle,baked it,baked,bake,VERB,MSU-TEXAS
+pickle,drink it,drink,drink,VERB,MSU-TEXAS
+battleship,drive it,drive,drive,VERB,MSU-TEXAS
+battleship,launch missiles,launch,launch,VERB,MSU-TEXAS
+battleship,launch missiles,missiles,missile,NOUN,MSU-TEXAS
+bun,eat it,eat,eat,VERB,MSU-TEXAS
+bun,cook it,cook,cake,VERB,MSU-TEXAS
+bun,baked it,baked,bake,VERB,MSU-TEXAS
+scrubber,cut it,cut,cut,VERB,MSU-TEXAS
+scrubber,scrub objects,scrub,scrub,VERB,MSU-TEXAS
+scrubber,scrub objects,objects,object,VERB,MSU-TEXAS
+biscuit,eat it,eat,eat,VERB,MSU-TEXAS
+biscuit,baked it,baked,bake,VERB,MSU-TEXAS
+biscuit,cook it,cook,cake,VERB,MSU-TEXAS
+wine,drink it,drink,drink,VERB,MSU-TEXAS
+wine,throw it,throw,throw,VERB,MSU-TEXAS
+plywood,cut it,cut,cut,VERB,MSU-TEXAS
+plywood,burn it,burn,burn,VERB,MSU-TEXAS
+plywood,build it,build,build,NOUN,MSU-TEXAS
+locker,put items in a locker,put,put,VERB,MSU-TEXAS
+locker,put items in a locker,items,item,NOUN,MSU-TEXAS
+locker,put items in a locker,locker,locker,NOUN,MSU-TEXAS
+locker,you can lock it with a code,can,can,AUX,MSU-TEXAS
+locker,you can lock it with a code,lock,lock,NOUN,MSU-TEXAS
+locker,you can lock it with a code,code,code,NOUN,MSU-TEXAS
+snowdrift,eat it,eat,eat,VERB,MSU-TEXAS
+snowdrift,store it,store,store,NOUN,MSU-TEXAS
+blood,drink it,drink,drink,VERB,MSU-TEXAS
+blood,store it,store,store,VERB,MSU-TEXAS
+horsewhip,spank horses,spank,spank,VERB,MSU-TEXAS
+horsewhip,spank horses,horses,horse,NOUN,MSU-TEXAS
+horsewhip,tie it ,tie,tie,VERB,MSU-TEXAS
+newsagent,selling newspapers,selling,sell,VERB,MSU-TEXAS
+newsagent,selling newspapers,newspapers,newspaper,NOUN,MSU-TEXAS
+newsagent,selling magazines,selling,sell,VERB,MSU-TEXAS
+newsagent,selling magazines,magazines,magazine,NOUN,MSU-TEXAS
+handsaw,cut wood,cut,cut,VERB,MSU-TEXAS
+handsaw,cut wood,wood,wood,NOUN,MSU-TEXAS
+handsaw,cut fruits,cut,cut,VERB,MSU-TEXAS
+handsaw,cut fruits,fruits,fruit,NOUN,MSU-TEXAS
+dagger,slice fruits,slice,slice,VERB,MSU-TEXAS
+dagger,slice fruits,fruits,fruit,NOUN,MSU-TEXAS
+dagger,slice vegatables,slice,slice,VERB,MSU-TEXAS
+dagger,slice vegatables,vegetables,vegetables,NOUN,MSU-TEXAS
+cheesecake,eat it,eat,eat,VERB,MSU-TEXAS
+cheesecake,bake it,bake,bake,VERB,MSU-TEXAS
+attorney,be a judge,judge,judge,NOUN,MSU-TEXAS
+attorney,communicate,communicate,communicate,VERB,MSU-TEXAS
+accessory,wear it,wear,wear,VERB,MSU-TEXAS
+accessory,burn it,burn,burn,VERB,MSU-TEXAS
+ferret,kill it,kill,kill,VERB,MSU-TEXAS
+ferret,feed it,feed,feed,NOUN,MSU-TEXAS
+propeller,break it,break,break,VERB,MSU-TEXAS
+propeller,burn it,burn,burn,VERB,MSU-TEXAS
+rhubarb,eat it,eat,eat,VERB,MSU-TEXAS
+rhubarb,cook it,cook,cake,VERB,MSU-TEXAS
+nostril,flex your nostril,flex,flex,VERB,MSU-TEXAS
+nostril,flex your nostril,nostril,nostril,NOUN,MSU-TEXAS
+nostril,fill it with tissue,fill,fill,NOUN,MSU-TEXAS
+nostril,fill it with tissue,tissue,tissue,NOUN,MSU-TEXAS
+herbivore,eat it,eat,eat,VERB,MSU-TEXAS
+herbivore,cook it,cook,cake,VERB,MSU-TEXAS
+brochure,eat it,eat,eat,VERB,MSU-TEXAS
+brochure,cook it,cook,cake,VERB,MSU-TEXAS
+teeth,grind your teeth,grind,grind,VERB,MSU-TEXAS
+teeth,grind your teeth,teeth,tooth,NOUN,MSU-TEXAS
+teeth,chew gum,chew,chew,VERB,MSU-TEXAS
+teeth,chew gum,gum,gum,NOUN,MSU-TEXAS
+book,read it,read,read,VERB,MSU-TEXAS
+book,burn it,burn,burn,VERB,MSU-TEXAS
+skate,brake it,brake,brake,VERB,MSU-TEXAS
+skate,cut it,cut,cut,VERB,MSU-TEXAS
+rind,eat it,eat,eat,VERB,MSU-TEXAS
+rind,cook it,cook,cake,VERB,MSU-TEXAS
+armband,wear it,wear,wear,VERB,MSU-TEXAS
+armband,flex it,flex,flex,VERB,MSU-TEXAS
+elbow,to straighten arm,straighten,straighten,VERB,MSU-TEXAS
+elbow,to straighten arm,arm,arm,X,MSU-TEXAS
+elbow,to bend arm,bend,bend,NOUN,MSU-TEXAS
+elbow,to bend arm,arm,arm,X,MSU-TEXAS
+elbow,to elbow an individual,elbow,elbow,ADV,MSU-TEXAS
+elbow,to elbow an individual,individual,individual,ADJ,MSU-TEXAS
+elbow,to connect forearm to bicep.,connect,connect,NOUN,MSU-TEXAS
+elbow,to connect forearm to bicep.,forearm,forearm,NOUN,MSU-TEXAS
+elbow,to connect forearm to bicep.,bicep,bicep,NOUN,MSU-TEXAS
+cane,to walk,walk,walk,VERB,MSU-TEXAS
+bench,to sit,sit,sit,VERB,MSU-TEXAS
+bench,to lay down,lay,lay,VERB,MSU-TEXAS
+rancher,feed animals,feed,feed,NOUN,MSU-TEXAS
+rancher,feed animals,animals,animal,NOUN,MSU-TEXAS
+rancher,grow crops,grow,grow,VERB,MSU-TEXAS
+rancher,grow crops,crops,crop,NOUN,MSU-TEXAS
+rancher,raise animals,raise,raise,VERB,MSU-TEXAS
+rancher,raise animals,animals,animal,NOUN,MSU-TEXAS
+clay,soil,soil,soil,NOUN,MSU-TEXAS
+clay,to make pottery,make,make,VERB,MSU-TEXAS
+clay,to make pottery,pottery,pottery,NOUN,MSU-TEXAS
+clay,to mold objects,mold,mold,VERB,MSU-TEXAS
+clay,to mold objects,objects,object,VERB,MSU-TEXAS
+suit,wedding,wedding,wedding,NOUN,MSU-TEXAS
+suit,funeral,funeral,funeral,NOUN,MSU-TEXAS
+suit,work,work,work,NOUN,MSU-TEXAS
+suit,fancy dinner,fancy,fancy,ADJ,MSU-TEXAS
+suit,fancy dinner,dinner,dinner,NOUN,MSU-TEXAS
+vessel,hold liquid,hold,hold,VERB,MSU-TEXAS
+vessel,hold liquid,liquid,liquid,AUX,MSU-TEXAS
+vessel,a boat to hold people,boat,boat,NOUN,MSU-TEXAS
+vessel,a boat to hold people,hold,hold,VERB,MSU-TEXAS
+vessel,a boat to hold people,people,people,NOUN,MSU-TEXAS
+orchard,grow apples,grow,grow,VERB,MSU-TEXAS
+orchard,grow apples,apples,apple,NOUN,MSU-TEXAS
+asparagus,eat,eat,eat,VERB,MSU-TEXAS
+asparagus,cook,cook,cake,VERB,MSU-TEXAS
+belly,to store nutrients,store,store,NOUN,MSU-TEXAS
+belly,to store nutrients,nutrients,nutrient,NOUN,MSU-TEXAS
+coleslaw,to eat,eat,eat,VERB,MSU-TEXAS
+hardware,pulls for kitchen cabinets,pulls,pull,NOUN,MSU-TEXAS
+hardware,pulls for kitchen cabinets,kitchen,kitchen,NOUN,MSU-TEXAS
+hardware,pulls for kitchen cabinets,cabinets,cabinet,NOUN,MSU-TEXAS
+hardware,drawers,drawers,drawer,NOUN,MSU-TEXAS
+wrapper,keep debris off food,keep,keep,VERB,MSU-TEXAS
+wrapper,keep debris off food,debris,debris,NOUN,MSU-TEXAS
+wrapper,keep debris off food,food,food,NOUN,MSU-TEXAS
+block,build,build,build,NOUN,MSU-TEXAS
+block,keep away,keep,keep,VERB,MSU-TEXAS
+block,keep away,away,away,ADV,MSU-TEXAS
+strainer,used in cooking,used,use,VERB,MSU-TEXAS
+strainer,used in cooking,cooking,cook,VERB,MSU-TEXAS
+strainer,draining water,draining,drain,VERB,MSU-TEXAS
+strainer,draining water,water,water,NOUN,MSU-TEXAS
+strainer,separate large from tiny particles,separate,separate,VERB,MSU-TEXAS
+strainer,separate large from tiny particles,large,large,ADJ,MSU-TEXAS
+strainer,separate large from tiny particles,tiny,tiny,ADJ,MSU-TEXAS
+strainer,separate large from tiny particles,particles,particle,NOUN,MSU-TEXAS
+altarpiece,decoration,decoration,decorate,VERB,MSU-TEXAS
+saleslady,work,work,work,NOUN,MSU-TEXAS
+saleslady,make revenue,make,make,VERB,MSU-TEXAS
+saleslady,make revenue,revenue,revenue,NOUN,MSU-TEXAS
+goblet,to hold liquid,hold,hold,VERB,MSU-TEXAS
+goblet,to hold liquid,liquid,liquid,AUX,MSU-TEXAS
+goblet,to drink out of,drink,drink,NOUN,MSU-TEXAS
+mayor,to govern a town/city,govern,govern,NOUN,MSU-TEXAS
+mayor,to govern a town/city,town,town,NOUN,MSU-TEXAS
+mayor,to govern a town/city,city,city,NOUN,MSU-TEXAS
+tube,swimming,swimming,swimm,VERB,MSU-TEXAS
+tube,fishing,fishing,fishing,VERB,MSU-TEXAS
+tube,medical supplies/like a feeding tube to receive nutrients,medical,medical,ADJ,MSU-TEXAS
+tube,medical supplies/like a feeding tube to receive nutrients,supplies,supplies,NOUN,MSU-TEXAS
+tube,medical supplies/like a feeding tube to receive nutrients,like,like,INTJ,MSU-TEXAS
+tube,medical supplies/like a feeding tube to receive nutrients,feeding,feeding,NOUN,MSU-TEXAS
+tube,medical supplies/like a feeding tube to receive nutrients,tube,tube,NOUN,MSU-TEXAS
+tube,medical supplies/like a feeding tube to receive nutrients,receive,receive,VERB,MSU-TEXAS
+tube,medical supplies/like a feeding tube to receive nutrients,nutrients,nutrient,NOUN,MSU-TEXAS
+duck,to look at,look,look,VERB,MSU-TEXAS
+duck,to have as a pet,pet,pet,VERB,MSU-TEXAS
+purse,hold essentials like money/chapstick etc.,hold,hold,VERB,MSU-TEXAS
+purse,hold essentials like money/chapstick etc.,essentials,essential,NOUN,MSU-TEXAS
+purse,hold essentials like money/chapstick etc.,like,like,INTJ,MSU-TEXAS
+purse,hold essentials like money/chapstick etc.,money,money,NOUN,MSU-TEXAS
+purse,hold essentials like money/chapstick etc.,chapstick,chapstick,NOUN,MSU-TEXAS
+purse,hold essentials like money/chapstick etc.,etc,etc,X,MSU-TEXAS
+platter,present food,present,present,ADJ,MSU-TEXAS
+platter,present food,food,food,NOUN,MSU-TEXAS
+veal,eat,eat,eat,VERB,MSU-TEXAS
+landscape,make house look nice,make,make,VERB,MSU-TEXAS
+landscape,make house look nice,house,house,NOUN,MSU-TEXAS
+landscape,make house look nice,look,look,VERB,MSU-TEXAS
+landscape,make house look nice,nice,nice,ADJ,MSU-TEXAS
+landscape,work,work,work,NOUN,MSU-TEXAS
+token,arcade,arcade,arcade,NOUN,MSU-TEXAS
+wound,nurses treat wounds so give jobs,nurses,nurse,NOUN,MSU-TEXAS
+wound,nurses treat wounds so give jobs,treat,treat,VERB,MSU-TEXAS
+wound,nurses treat wounds so give jobs,wounds,wound,NOUN,MSU-TEXAS
+wound,nurses treat wounds so give jobs,give,give,VERB,MSU-TEXAS
+wound,nurses treat wounds so give jobs,jobs,job,NOUN,MSU-TEXAS
+shell,protection,protection,protection,NOUN,MSU-TEXAS
+chemicals,to make substances,make,make,VERB,MSU-TEXAS
+chemicals,to make substances,substances,substance,NOUN,MSU-TEXAS
+harp,play,play,play,VERB,MSU-TEXAS
+harp,sooth,sooth,sooth,VERB,MSU-TEXAS
+harp,in a band,band,band,NOUN,MSU-TEXAS
+harp,get a job,get,get,VERB,MSU-TEXAS
+harp,get a job,job,job,NOUN,MSU-TEXAS
+harp,replicate,replicate,replicate,VERB,MSU-TEXAS
+harp,burn,burn,burn,VERB,MSU-TEXAS
+wildlife,watch,watch,watch,VERB,MSU-TEXAS
+wildlife,admire,admire,admire,NOUN,MSU-TEXAS
+wildlife,sooth self,sooth,sooth,VERB,MSU-TEXAS
+wildlife,sooth self,self,self,NOUN,MSU-TEXAS
+wildlife,meditate,meditate,meditate,NOUN,MSU-TEXAS
+wildlife,fishing,fishing,fishing,NOUN,MSU-TEXAS
+wildlife,hunting,hunting,hunt,VERB,MSU-TEXAS
+wildlife,camping,camping,camp,VERB,MSU-TEXAS
+wildlife,firecamp,fire,fire,NOUN,MSU-TEXAS
+wildlife,marshmellow,marshmallow,marshmallow,NOUN,MSU-TEXAS
+wildlife,snow,snow,snow,NOUN,MSU-TEXAS
+wildlife,mountain climbing,mountain,mountain,NOUN,MSU-TEXAS
+wildlife,mountain climbing,climbing,climb,VERB,MSU-TEXAS
+wildlife,snowmobiling,snowmobiling,snowmobiling,NOUN,MSU-TEXAS
+wildlife,hunting,hunting,hunt,VERB,MSU-TEXAS
+wildlife,food,food,food,NOUN,MSU-TEXAS
+wildlife,wood,wood,wood,NOUN,MSU-TEXAS
+wildlife,building.,building,building,NOUN,MSU-TEXAS
+nightlight,saftey,safety,safety,NOUN,MSU-TEXAS
+nightlight,security,security,security,NOUN,MSU-TEXAS
+nightlight,light,light,light,NOUN,MSU-TEXAS
+nightlight,romance,romance,romance,NOUN,MSU-TEXAS
+nightlight,soothing,soothing,soothe,VERB,MSU-TEXAS
+fir,fiber,fiber,fiber,NOUN,MSU-TEXAS
+fir,fire,fire,fire,NOUN,MSU-TEXAS
+fir,planting,planting,plan,VERB,MSU-TEXAS
+rock,build,build,build,NOUN,MSU-TEXAS
+rock,break,break,break,VERB,MSU-TEXAS
+rock,fire,fire,fire,NOUN,MSU-TEXAS
+rock,split,split,split,VERB,MSU-TEXAS
+rock,craft,craft,craft,VERB,MSU-TEXAS
+rock,study,study,study,NOUN,MSU-TEXAS
+rock,cook,cook,cake,VERB,MSU-TEXAS
+hibiscus,smell,smell,smell,VERB,MSU-TEXAS
+hibiscus,sooth,sooth,sooth,VERB,MSU-TEXAS
+hibiscus,serinade,serenade,serenade,NOUN,MSU-TEXAS
+hibiscus,plant,plant,plant,NOUN,MSU-TEXAS
+hibiscus,grow,grow,grow,VERB,MSU-TEXAS
+bong,high,high,high,INTJ,MSU-TEXAS
+quarters,reside,reside,reside,NOUN,MSU-TEXAS
+quarters,live,live,live,VERB,MSU-TEXAS
+quarters,love,love,love,NOUN,MSU-TEXAS
+quarters,home,home,home,ADV,MSU-TEXAS
+quarters,family,family,family,NOUN,MSU-TEXAS
+quarters,growth,growth,growth,NOUN,MSU-TEXAS
+breast,romance,romance,romance,NOUN,MSU-TEXAS
+breast,grab,grab,grab,VERB,MSU-TEXAS
+breast,babys,baby,baby,NOUN,MSU-TEXAS
+sugar,food,food,food,NOUN,MSU-TEXAS
+sugar,sweetening,sweetening,sweeten,VERB,MSU-TEXAS
+sugar,happyness,happiness,happiness,NOUN,MSU-TEXAS
+sugar,reward,reward,reward,VERB,MSU-TEXAS
+leotard,circus,circus,circus,NOUN,MSU-TEXAS
+woodpecker,annoy world,annoy,annoy,VERB,MSU-TEXAS
+woodpecker,annoy world,world,world,NOUN,MSU-TEXAS
+woodpecker,alarm,alarm,alarm,VERB,MSU-TEXAS
+woodpecker,bugs,bugs,bug,NOUN,MSU-TEXAS
+woodpecker,nature,nature,nature,NOUN,MSU-TEXAS
+blueberry,eat,eat,eat,VERB,MSU-TEXAS
+blueberry,color,color,color,NOUN,MSU-TEXAS
+blueberry,paint,paint,paint,VERB,MSU-TEXAS
+blueberry,dye,dye,dye,VERB,MSU-TEXAS
+blueberry,nutrition,nutrition,nutrition,NOUN,MSU-TEXAS
+giblets,turkey,turkey,turkey,NOUN,MSU-TEXAS
+shin,walk,walk,walk,VERB,MSU-TEXAS
+shin,kick,kick,kick,VERB,MSU-TEXAS
+shin,support,support,support,VERB,MSU-TEXAS
+shin,stand,stand,stand,VERB,MSU-TEXAS
+shin,sit,sit,sit,VERB,MSU-TEXAS
+shin,brace,brace,brace,VERB,MSU-TEXAS
+shin,jump,jump,jump,VERB,MSU-TEXAS
+shin,fall,fall,fall,NOUN,MSU-TEXAS
+bosom,romance,romance,romance,NOUN,MSU-TEXAS
+bosom,bouncy,bouncy,bounce,VERB,MSU-TEXAS
+bosom,babys,baby,baby,NOUN,MSU-TEXAS
+bosom,attraction,attraction,attraction,NOUN,MSU-TEXAS
+artichoke,throw away!,throw,throw,VERB,MSU-TEXAS
+artichoke,throw away!,away,away,ADV,MSU-TEXAS
+cricket,chirp,chirp,chirp,NOUN,MSU-TEXAS
+cricket,fishing,fishing,fish,VERB,MSU-TEXAS
+cricket,soothing,soothing,soothe,VERB,MSU-TEXAS
+cricket,nighttime,nighttime,nighttime,NOUN,MSU-TEXAS
+lampshade,light,light,light,NOUN,MSU-TEXAS
+charcoal,cook,cook,cake,VERB,MSU-TEXAS
+charcoal,burn,burn,burn,VERB,MSU-TEXAS
+charcoal,paint,paint,paint,VERB,MSU-TEXAS
+parcel,mail,mail,mail,NOUN,MSU-TEXAS
+parcel,package,package,package,NOUN,MSU-TEXAS
+smuggler,steal,steal,steal,VERB,MSU-TEXAS
+smuggler,sneak,sneak,sneak,VERB,MSU-TEXAS
+gymnasium,workout,workout,workout,VERB,MSU-TEXAS
+gymnasium,growth,growth,growth,NOUN,MSU-TEXAS
+gymnasium,strength,strength,strength,NOUN,MSU-TEXAS
+gymnasium,resolve,resolve,resolve,VERB,MSU-TEXAS
+gymnasium,intuition,intuition,intuition,NOUN,MSU-TEXAS
+puck,hit,hit,hit,VERB,MSU-TEXAS
+puck,hockey,hockey,hockey,NOUN,MSU-TEXAS
+floor,stand,stand,stand,VERB,MSU-TEXAS
+floor,build,build,build,VERB,MSU-TEXAS
+floor,base,base,base,NOUN,MSU-TEXAS
+floor,fall,fall,fall,NOUN,MSU-TEXAS
+floor,gravity,gravity,gravity,NOUN,MSU-TEXAS
+countrywoman,farm,farm,farm,NOUN,MSU-TEXAS
+countrywoman,grow,grow,grow,VERB,MSU-TEXAS
+countrywoman,marry,marry,marry,VERB,MSU-TEXAS
+countrywoman,learn,learn,learn,VERB,MSU-TEXAS
+herb,grow,grow,grow,VERB,MSU-TEXAS
+herb,heal,heal,heal,NOUN,MSU-TEXAS
+herb,eat,eat,eat,VERB,MSU-TEXAS
+herb,cook,cook,cake,VERB,MSU-TEXAS
+herb,plant,plant,plant,VERB,MSU-TEXAS
+enemy,fight,fight,fight,NOUN,MSU-TEXAS
+enemy,kill,kill,kill,VERB,MSU-TEXAS
+enemy,stop,stop,stop,VERB,MSU-TEXAS
+enemy,peace,peace,peace,NOUN,MSU-TEXAS
+cactus,pain,pain,pain,NOUN,MSU-TEXAS
+cactus,growth,growth,grow,VERB,MSU-TEXAS
+cactus,flowers,flowers,flower,NOUN,MSU-TEXAS
+cactus,pranks,pranks,prank,VERB,MSU-TEXAS
+easel,use to pain,use,use,VERB,MSU-TEXAS
+easel,use to pain,pain,pain,NOUN,MSU-TEXAS
+easel,hold pictures,hold,hold,VERB,MSU-TEXAS
+easel,hold pictures,pictures,picture,NOUN,MSU-TEXAS
+easel,hold clothes,hold,hold,VERB,MSU-TEXAS
+easel,hold clothes,clothes,clothes,NOUN,MSU-TEXAS
+easel,use as an organizer,use,use,VERB,MSU-TEXAS
+easel,use as an organizer,organizer,organizer,NOUN,MSU-TEXAS
+lip,bite,bite,bite,VERB,MSU-TEXAS
+lip,lick,lick,lick,VERB,MSU-TEXAS
+lip,suck,suck,suck,VERB,MSU-TEXAS
+thigh,rub,rub,rub,VERB,MSU-TEXAS
+thigh,stretch,stretch,stretch,VERB,MSU-TEXAS
+satin,hair,hair,hair,NOUN,MSU-TEXAS
+satin,bed,bed,bed,NOUN,MSU-TEXAS
+satin,clothes,clothes,clothes,NOUN,MSU-TEXAS
+soap,wash clothes,wash,wash,VERB,MSU-TEXAS
+soap,wash clothes,clothes,clothes,NOUN,MSU-TEXAS
+soap,wash hair,wash,wash,VERB,MSU-TEXAS
+soap,wash hair,hair,hair,NOUN,MSU-TEXAS
+soap,wash body,wash,wash,VERB,MSU-TEXAS
+soap,wash body,body,body,NOUN,MSU-TEXAS
+soap,use as cleaning supply,use,use,VERB,MSU-TEXAS
+soap,use as cleaning supply,cleaning,clean,VERB,MSU-TEXAS
+soap,use as cleaning supply,supply,supply,NOUN,MSU-TEXAS
+checklist,use for groceries,use,use,VERB,MSU-TEXAS
+checklist,use for groceries,groceries,grocery,NOUN,MSU-TEXAS
+checklist,buying clothes,buying,buy,VERB,MSU-TEXAS
+checklist,buying clothes,clothes,clothes,NOUN,MSU-TEXAS
+checklist,buying christmas gifts,buying,buy,VERB,MSU-TEXAS
+checklist,buying christmas gifts,christmas,christmas,PROPN,MSU-TEXAS
+checklist,buying christmas gifts,gifts,gift,NOUN,MSU-TEXAS
+linen,bed,bed,bed,NOUN,MSU-TEXAS
+linen,towels,towels,towel,NOUN,MSU-TEXAS
+linen,clothes,clothes,clothes,NOUN,MSU-TEXAS
+collar,restrictions,restrictions,restriction,NOUN,MSU-TEXAS
+collar,ownership,ownership,ownership,NOUN,MSU-TEXAS
+cellar,jail,jail,jail,NOUN,MSU-TEXAS
+cellar,keep wine,keep,keep,VERB,MSU-TEXAS
+cellar,keep wine,wine,wine,NOUN,MSU-TEXAS
+cellar,keep extra foods,keep,keep,VERB,MSU-TEXAS
+cellar,keep extra foods,extra,extra,ADJ,MSU-TEXAS
+cellar,keep extra foods,foods,food,NOUN,MSU-TEXAS
+pole,fence,fence,fence,NOUN,MSU-TEXAS
+pole,space limit possession,space,space,NOUN,MSU-TEXAS
+pole,space limit possession,limit,limit,NOUN,MSU-TEXAS
+pole,space limit possession,possession,possession,NOUN,MSU-TEXAS
+rupee,money,money,money,NOUN,MSU-TEXAS
+rupee,paper,paper,paper,NOUN,MSU-TEXAS
+genital,body part,body,body,NOUN,MSU-TEXAS
+genital,body part,part,part,NOUN,MSU-TEXAS
+stoop,stair,stair,stair,NOUN,MSU-TEXAS
+note,study,study,study,NOUN,MSU-TEXAS
+note,remember things,remember,remember,VERB,MSU-TEXAS
+note,remember things,things,thing,NOUN,MSU-TEXAS
+bayonet,weapon,weapon,weapon,NOUN,MSU-TEXAS
+bayonet,to shoot someone,shoot,shoot,VERB,MSU-TEXAS
+bayonet,to shoot someone,someone,someone,PRON,MSU-TEXAS
+bayonet,to kill someone ,kill,kill,VERB,MSU-TEXAS
+bayonet,to kill someone ,someone,someone,PRON,MSU-TEXAS
+bayonet,to protect people,protect,protect,VERB,MSU-TEXAS
+bayonet,to protect people,people,people,NOUN,MSU-TEXAS
+apprentice,to learning things,learning,learn,VERB,MSU-TEXAS
+apprentice,to learning things,things,thing,NOUN,MSU-TEXAS
+apprentice,to be a assistant ,assistant,assistant,NOUN,MSU-TEXAS
+lake,to swim,swim,swim,VERB,MSU-TEXAS
+lake,to fish,fish,fish,NOUN,MSU-TEXAS
+lake,to tube,tube,tube,NOUN,MSU-TEXAS
+lake,to study,study,study,NOUN,MSU-TEXAS
+paraphernalia,to inject things into the body,inject,inject,NOUN,MSU-TEXAS
+paraphernalia,to inject things into the body,things,thing,NOUN,MSU-TEXAS
+paraphernalia,to inject things into the body,body,body,NOUN,MSU-TEXAS
+paraphernalia,for medicine,medicine,medicine,NOUN,MSU-TEXAS
+paraphernalia,for drugs,drugs,drug,NOUN,MSU-TEXAS
+jean,to wear,wear,wear,VERB,MSU-TEXAS
+jean,to paint,paint,paint,VERB,MSU-TEXAS
+sardine,to eat,eat,eat,VERB,MSU-TEXAS
+sardine,to study,study,study,NOUN,MSU-TEXAS
+sardine,to fish,fish,fish,VERB,MSU-TEXAS
+mortician,a job,job,job,NOUN,MSU-TEXAS
+raindrop,to get wet,get,get,VERB,MSU-TEXAS
+raindrop,to get wet,wet,wet,ADJ,MSU-TEXAS
+raindrop,to make preidictions,make,make,VERB,MSU-TEXAS
+raindrop,to make preidictions,predictions,prediction,NOUN,MSU-TEXAS
+spatula,to cook,cook,cake,VERB,MSU-TEXAS
+spatula,to flip things,flip,flip,VERB,MSU-TEXAS
+spatula,to flip things,things,thing,NOUN,MSU-TEXAS
+spatula,to hold stuff on,hold,hold,VERB,MSU-TEXAS
+spatula,to hold stuff on,stuff,stuff,NOUN,MSU-TEXAS
+scientist,to learn,learn,learn,VERB,MSU-TEXAS
+scientist,to research to study,research,research,VERB,MSU-TEXAS
+scientist,to research to study,study,study,NOUN,MSU-TEXAS
+nickel,to buy things,buy,buy,VERB,MSU-TEXAS
+nickel,to buy things,things,thing,NOUN,MSU-TEXAS
+policewoman,a job ,job,job,NOUN,MSU-TEXAS
+coal,to cook,cook,cake,VERB,MSU-TEXAS
+mutton,to eat,eat,eat,VERB,MSU-TEXAS
+mutton,to raise,raise,raise,VERB,MSU-TEXAS
+mutton,to get fur,get,get,VERB,MSU-TEXAS
+mutton,to get fur,fur,fur,NOUN,MSU-TEXAS
+belt,lifting weights,lifting,lift,VERB,MSU-TEXAS
+belt,lifting weights,weights,weight,NOUN,MSU-TEXAS
+belt,holding ones pants up,holding,hold,VERB,MSU-TEXAS
+belt,holding ones pants up,ones,one,NOUN,MSU-TEXAS
+belt,holding ones pants up,pants,pants,NOUN,MSU-TEXAS
+trigger,guns,guns,gun,NOUN,MSU-TEXAS
+trigger,firing a bullet,firing,fi,VERB,MSU-TEXAS
+trigger,firing a bullet,bullet,bullet,NOUN,MSU-TEXAS
+dirt,gardens,gardens,garden,NOUN,MSU-TEXAS
+dirt,filling in holes,filling,fill,NOUN,MSU-TEXAS
+dirt,filling in holes,holes,hole,NOUN,MSU-TEXAS
+flatiron,hair,hair,hair,NOUN,MSU-TEXAS
+kettledrum,noise,noise,noise,NOUN,MSU-TEXAS
+kettledrum,band,band,band,NOUN,MSU-TEXAS
+kettledrum,music,music,music,NOUN,MSU-TEXAS
+stepdaughter,working,working,work,VERB,MSU-TEXAS
+stepdaughter,babysitting,babysitting,babysitt,NOUN,MSU-TEXAS
+parakeet,company,company,company,NOUN,MSU-TEXAS
+parakeet,talking,talking,talk,VERB,MSU-TEXAS
+mongoose,eating,eating,eat,VERB,MSU-TEXAS
+mongoose,pet,pet,pet,VERB,MSU-TEXAS
+hibachi,food,food,food,NOUN,MSU-TEXAS
+hibachi,eating,eating,eat,VERB,MSU-TEXAS
+hibachi,smell,smell,smell,VERB,MSU-TEXAS
+furnace,house,house,house,NOUN,MSU-TEXAS
+furnace,office,office,office,NOUN,MSU-TEXAS
+furnace,cool,cool,cool,ADJ,MSU-TEXAS
+furnace,heat,heat,heat,NOUN,MSU-TEXAS
+taffy,eating,eating,eat,VERB,MSU-TEXAS
+taffy,candy ,candy,candy,NOUN,MSU-TEXAS
+billiards,game,game,game,NOUN,MSU-TEXAS
+billiards,playing,playing,play,VERB,MSU-TEXAS
+pan,cooking,cooking,cook,NOUN,MSU-TEXAS
+pan,storing ,storing,storing,NOUN,MSU-TEXAS
+device,games,games,game,NOUN,MSU-TEXAS
+device,calling,calling,call,VERB,MSU-TEXAS
+device,texting,texting,text,VERB,MSU-TEXAS
+device,information,information,information,NOUN,MSU-TEXAS
+teaspoonful,measuring,measuring,measure,VERB,MSU-TEXAS
+teaspoonful,cooking,cooking,cook,VERB,MSU-TEXAS
+bondsman,crimes,crimes,crime,NOUN,MSU-TEXAS
+bondsman,court,court,court,NOUN,MSU-TEXAS
+bondsman,money,money,money,NOUN,MSU-TEXAS
+crust,cooking,cooking,cook,VERB,MSU-TEXAS
+crust,layering,layering,layer,VERB,MSU-TEXAS
+grandchild,company,company,company,NOUN,MSU-TEXAS
+grandchild,working,working,work,VERB,MSU-TEXAS
+casserole,food,food,food,NOUN,MSU-TEXAS
+casserole,eating,eating,eat,VERB,MSU-TEXAS
+molasses,spicing,spicing,spicing,NOUN,MSU-TEXAS
+molasses,cooking,cooking,cook,VERB,MSU-TEXAS
+raincoat,weather,weather,weather,NOUN,MSU-TEXAS
+raincoat,warmth,warmth,warmth,NOUN,MSU-TEXAS
+butt,cushion,cushion,cushion,NOUN,MSU-TEXAS
+butt,body,body,body,NOUN,MSU-TEXAS
+mullets,hair,hair,hair,NOUN,MSU-TEXAS
+mullets,ponytail,ponytail,ponytail,NOUN,MSU-TEXAS
+village,living,living,live,VERB,MSU-TEXAS
+village,house,house,house,NOUN,MSU-TEXAS
+corn,eating,eating,eat,VERB,MSU-TEXAS
+corn,planting,planting,plan,VERB,MSU-TEXAS
+corn,deer,deer,deer,NOUN,MSU-TEXAS
+nut,animals,animals,animal,NOUN,MSU-TEXAS
+nut,growing,growing,grow,VERB,MSU-TEXAS
+nut,eating,eating,eat,VERB,MSU-TEXAS
+rectum,storing,storing,store,VERB,MSU-TEXAS
+rectum,bowel movement,bowel,bowel,NOUN,MSU-TEXAS
+rectum,bowel movement,movement,movement,NOUN,MSU-TEXAS
+acupuncture,chemicals,chemicals,chemical,NOUN,MSU-TEXAS
+acupuncture,body,body,body,NOUN,MSU-TEXAS
+flowerpot,stores,stores,store,NOUN,MSU-TEXAS
+flowerpot,looks,looks,look,VERB,MSU-TEXAS
+apartments,living,living,live,NOUN,MSU-TEXAS
+apartments,money,money,money,NOUN,MSU-TEXAS
+woodwork,build a house,build,build,NOUN,MSU-TEXAS
+woodwork,build a house,house,house,NOUN,MSU-TEXAS
+woodwork,study,study,study,NOUN,MSU-TEXAS
+worker,make money,make,make,VERB,MSU-TEXAS
+worker,make money,money,money,NOUN,MSU-TEXAS
+worker,make them do laborious tasks,make,make,VERB,MSU-TEXAS
+worker,make them do laborious tasks,laborious,laborious,ADJ,MSU-TEXAS
+worker,make them do laborious tasks,tasks,task,NOUN,MSU-TEXAS
+worker,compensate for their work,compensate,compensate,VERB,MSU-TEXAS
+worker,compensate for their work,work,work,NOUN,MSU-TEXAS
+worker,make more things efficient,make,make,VERB,MSU-TEXAS
+worker,make more things efficient,things,thing,NOUN,MSU-TEXAS
+worker,make more things efficient,efficient,efficient,ADJ,MSU-TEXAS
+worker,make things run smoothly,make,make,VERB,MSU-TEXAS
+worker,make things run smoothly,things,thing,NOUN,MSU-TEXAS
+worker,make things run smoothly,run,run,NOUN,MSU-TEXAS
+worker,make things run smoothly,smoothly,smoothly,ADV,MSU-TEXAS
+wristlet,fashion,fashion,fashion,NOUN,MSU-TEXAS
+wristlet,protection,protection,protect,VERB,MSU-TEXAS
+wristlet,security,security,security,NOUN,MSU-TEXAS
+wristlet,identification,identification,identification,NOUN,MSU-TEXAS
+antiques,decoration,decoration,decoration,NOUN,MSU-TEXAS
+antiques,memory,memory,memory,NOUN,MSU-TEXAS
+antiques,breaking it,breaking,break,VERB,MSU-TEXAS
+paprika,add flavor,add,add,VERB,MSU-TEXAS
+paprika,add flavor,flavor,flavor,NOUN,MSU-TEXAS
+paprika,used as a weapon,used,use,VERB,MSU-TEXAS
+paprika,used as a weapon,weapon,weapon,NOUN,MSU-TEXAS
+paprika,punishment,punishment,punishment,NOUN,MSU-TEXAS
+paprika,games,games,game,NOUN,MSU-TEXAS
+laryngoscope,check for diseases,check,check,VERB,MSU-TEXAS
+laryngoscope,check for diseases,diseases,disease,NOUN,MSU-TEXAS
+laryngoscope,easily look at throat,easily,easily,ADV,MSU-TEXAS
+laryngoscope,easily look at throat,look,look,VERB,MSU-TEXAS
+laryngoscope,easily look at throat,throat,throat,NOUN,MSU-TEXAS
+pedal,drive a car,drive,drive,VERB,MSU-TEXAS
+pedal,drive a car,car,car,NOUN,MSU-TEXAS
+pedal,ride a bike,ride,ride,VERB,MSU-TEXAS
+pedal,ride a bike,bike,bike,NOUN,MSU-TEXAS
+postman,deliveries,deliveries,delivery,NOUN,MSU-TEXAS
+postman,make more efficient,make,make,VERB,MSU-TEXAS
+postman,make more efficient,efficient,efficient,ADJ,MSU-TEXAS
+postman,work laborious tasks,work,work,NOUN,MSU-TEXAS
+postman,work laborious tasks,laborious,laborious,ADJ,MSU-TEXAS
+postman,work laborious tasks,tasks,task,NOUN,MSU-TEXAS
+postman,make money,make,make,VERB,MSU-TEXAS
+postman,make money,money,money,NOUN,MSU-TEXAS
+postman,compensate for work done,compensate,compensate,VERB,MSU-TEXAS
+postman,compensate for work done,work,work,NOUN,MSU-TEXAS
+postman,compensate for work done,done,done,VERB,MSU-TEXAS
+cabbage,cook,cook,cake,VERB,MSU-TEXAS
+cabbage,eat,eat,eat,VERB,MSU-TEXAS
+cabbage,throw away,throw,throw,VERB,MSU-TEXAS
+cabbage,throw away,away,away,ADV,MSU-TEXAS
+cabbage,give to someone else,give,give,VERB,MSU-TEXAS
+cabbage,give to someone else,someone,someone,PRON,MSU-TEXAS
+cabbage,give to someone else,else,else,ADJ,MSU-TEXAS
+cabbage,use as a weapon,use,use,VERB,MSU-TEXAS
+cabbage,use as a weapon,weapon,weapon,NOUN,MSU-TEXAS
+figurine,decoration,decoration,decoration,NOUN,MSU-TEXAS
+figurine,painting,painting,paint,NOUN,MSU-TEXAS
+figurine,breaking,breaking,break,NOUN,MSU-TEXAS
+tranquilizers,use as a weapon,use,use,VERB,MSU-TEXAS
+tranquilizers,use as a weapon,weapon,weapon,NOUN,MSU-TEXAS
+tranquilizers,calm someone down,calm,calm,VERB,MSU-TEXAS
+tranquilizers,calm someone down,someone,someone,PRON,MSU-TEXAS
+tranquilizers,catch a wild animal,catch,catch,VERB,MSU-TEXAS
+tranquilizers,catch a wild animal,wild,wild,ADJ,MSU-TEXAS
+tranquilizers,catch a wild animal,animal,animal,NOUN,MSU-TEXAS
+tranquilizers,safety,safety,safety,NOUN,MSU-TEXAS
+playsuit,fashion,fashion,fashion,NOUN,MSU-TEXAS
+playsuit,safety,safety,safety,NOUN,MSU-TEXAS
+powderpuff,recreational activity,recreational,recreational,ADJ,MSU-TEXAS
+powderpuff,recreational activity,activity,activity,NOUN,MSU-TEXAS
+powderpuff,bonding,bonding,bond,NOUN,MSU-TEXAS
+powderpuff,exercise,exercise,exercise,NOUN,MSU-TEXAS
+eyepiece,observation,observation,observation,NOUN,MSU-TEXAS
+eyepiece,analysis,analysis,analysis,NOUN,MSU-TEXAS
+eyepiece,focusing on a small object,focusing,focus,VERB,MSU-TEXAS
+eyepiece,focusing on a small object,small,small,ADJ,MSU-TEXAS
+eyepiece,focusing on a small object,object,object,ADV,MSU-TEXAS
+sandbank,play,play,play,VERB,MSU-TEXAS
+sandbank,observe,observe,observe,VERB,MSU-TEXAS
+sandbank,take a picture,take,take,VERB,MSU-TEXAS
+sandbank,take a picture,picture,picture,NOUN,MSU-TEXAS
+sandbank,experiment,experiment,experiment,NOUN,MSU-TEXAS
+watercress,eat,eat,eat,VERB,MSU-TEXAS
+watercress,cook,cook,cake,VERB,MSU-TEXAS
+watercress,give to someone,give,give,VERB,MSU-TEXAS
+watercress,give to someone,someone,someone,PRON,MSU-TEXAS
+watercress,throw away,throw,throw,VERB,MSU-TEXAS
+watercress,throw away,away,away,ADV,MSU-TEXAS
+keyhole,lock,lock,lock,NOUN,MSU-TEXAS
+keyhole,open,open,open,VERB,MSU-TEXAS
+keyhole,secure,secure,secure,VERB,MSU-TEXAS
+pomegranate,eat,eat,eat,VERB,MSU-TEXAS
+pomegranate,cook,cook,cake,VERB,MSU-TEXAS
+pomegranate,give to someone,give,give,VERB,MSU-TEXAS
+pomegranate,give to someone,someone,someone,PRON,MSU-TEXAS
+pomegranate,throw away,throw,throw,VERB,MSU-TEXAS
+pomegranate,throw away,away,away,ADV,MSU-TEXAS
+medication,eat,eat,eat,VERB,MSU-TEXAS
+medication,drink,drink,drink,VERB,MSU-TEXAS
+medication,throw away,throw,throw,VERB,MSU-TEXAS
+medication,throw away,away,away,ADV,MSU-TEXAS
+stableman,cleaning,cleaning,clean,VERB,MSU-TEXAS
+stableman,compensation for work,compensation,compensation,NOUN,MSU-TEXAS
+stableman,compensation for work,work,work,NOUN,MSU-TEXAS
+stableman,doing laborious tasks,laborious,laborious,ADJ,MSU-TEXAS
+stableman,doing laborious tasks,tasks,task,NOUN,MSU-TEXAS
+stableman,efficiency,efficiency,efficiency,NOUN,MSU-TEXAS
+sheepskin,fashion,fashion,fashion,NOUN,MSU-TEXAS
+sheepskin,eat,eat,eat,VERB,MSU-TEXAS
+sheepskin,cook,cook,cake,VERB,MSU-TEXAS
+sheepskin,decoration,decoration,decorate,VERB,MSU-TEXAS
+sheepskin,give to someone,give,give,VERB,MSU-TEXAS
+sheepskin,give to someone,someone,someone,PRON,MSU-TEXAS
+Picture Frame,decoration,decoration,decorate,VERB,MSU-TEXAS
+Picture Frame,painting,painting,paint,VERB,MSU-TEXAS
+Picture Frame,put up pictures,put,put,VERB,MSU-TEXAS
+Picture Frame,put up pictures,pictures,picture,NOUN,MSU-TEXAS
+Picture Frame,memory,memory,memory,NOUN,MSU-TEXAS
+prosecutor,observation,observation,observe,VERB,MSU-TEXAS
+prosecutor,prosecute someone,prosecute,prosecute,VERB,MSU-TEXAS
+prosecutor,prosecute someone,someone,someone,PRON,MSU-TEXAS
+prosecutor,defend,defend,defend,VERB,MSU-TEXAS
+bazooka,use as a weapon,use,use,VERB,MSU-TEXAS
+bazooka,use as a weapon,weapon,weapon,NOUN,MSU-TEXAS
+bazooka,security,security,security,NOUN,MSU-TEXAS
+bazooka,sell,sell,sell,VERB,MSU-TEXAS
+hoop,play,play,play,VERB,MSU-TEXAS
+hoop,throw around,throw,throw,VERB,MSU-TEXAS
+hoop,throw around,around,around,ADV,MSU-TEXAS
+hoop,give to someone,give,give,VERB,MSU-TEXAS
+hoop,give to someone,someone,someone,PRON,MSU-TEXAS
+cedar,build,build,build,VERB,MSU-TEXAS
+waste,throw away,throw,throw,VERB,MSU-TEXAS
+waste,throw away,away,away,ADV,MSU-TEXAS
+waste,use as a weapon,use,use,VERB,MSU-TEXAS
+waste,use as a weapon,weapon,weapon,NOUN,MSU-TEXAS
+copper,make currency,make,make,VERB,MSU-TEXAS
+copper,make currency,currency,currency,NOUN,MSU-TEXAS
+copper,make objects,make,make,VERB,MSU-TEXAS
+copper,make objects,objects,object,VERB,MSU-TEXAS
+crutch,assist in walking,assist,assist,VERB,MSU-TEXAS
+crutch,assist in walking,walking,walk,NOUN,MSU-TEXAS
+doll,play,play,play,VERB,MSU-TEXAS
+doll,give to someone,give,give,VERB,MSU-TEXAS
+doll,give to someone,someone,someone,PRON,MSU-TEXAS
+doll,share,share,share,VERB,MSU-TEXAS
+doll,dress up,dress,dress,VERB,MSU-TEXAS
+smock,dress,dress,dress,NOUN,MSU-TEXAS
+smock,blouse,blouse,blouse,NOUN,MSU-TEXAS
+smock,baking,baking,baking,NOUN,MSU-TEXAS
+smock,buttons ,buttons,button,NOUN,MSU-TEXAS
+dinner,food,food,food,NOUN,MSU-TEXAS
+dinner,plate,plate,plate,NOUN,MSU-TEXAS
+dinner,restaurant ,restaurant,restaurant,NOUN,MSU-TEXAS
+obstetrician,babies,babies,baby,NOUN,MSU-TEXAS
+obstetrician,cervix,cervix,cervix,SYM,MSU-TEXAS
+obstetrician,womb,womb,womb,NOUN,MSU-TEXAS
+obstetrician,pregnancy,pregnancy,pregnancy,NOUN,MSU-TEXAS
+obstetrician,childbirth ,childbirth,childbirth,NOUN,MSU-TEXAS
+gem,diamond,diamond,diamond,NOUN,MSU-TEXAS
+gem,rich,rich,rich,ADJ,MSU-TEXAS
+gem,bright silver,bright,bright,ADJ,MSU-TEXAS
+gem,bright silver,silver,silver,NOUN,MSU-TEXAS
+poinsettia,decorations,decorations,decorate,VERB,MSU-TEXAS
+poinsettia,christmas,christmas,christmas,PROPN,MSU-TEXAS
+poinsettia,plant ,plant,plant,NOUN,MSU-TEXAS
+sedan,transportation,transportation,transport,VERB,MSU-TEXAS
+shack,cabin,cabin,cabin,NOUN,MSU-TEXAS
+shack,house,house,house,NOUN,MSU-TEXAS
+shack,somewhere where you can live ,somewhere,somewhere,ADV,MSU-TEXAS
+shack,somewhere where you can live ,can,can,AUX,MSU-TEXAS
+shack,somewhere where you can live ,live,live,VERB,MSU-TEXAS
+tambourine,music,music,music,NOUN,MSU-TEXAS
+tambourine,dancing,dancing,dancing,NOUN,MSU-TEXAS
+tambourine,singing,singing,singe,VERB,MSU-TEXAS
+tambourine,learn how to use it ,learn,learn,VERB,MSU-TEXAS
+tambourine,learn how to use it ,use,use,VERB,MSU-TEXAS
+skittle,eat it,eat,eat,VERB,MSU-TEXAS
+skittle,play with it,play,play,VERB,MSU-TEXAS
+skittle,organize it,organize,organize,VERB,MSU-TEXAS
+skittle,do activities,activities,activity,NOUN,MSU-TEXAS
+skittle,experiments ,experiments,experiment,NOUN,MSU-TEXAS
+rodent,experiments,experiments,experiment,NOUN,MSU-TEXAS
+rodent,cages,cages,cage,NOUN,MSU-TEXAS
+rodent,pets,pets,pets,NOUN,MSU-TEXAS
+rodent,chesse,chess,chess,NOUN,MSU-TEXAS
+cocoa,chocolate ,chocolate,chocolate,NOUN,MSU-TEXAS
+hashish,oil,oil,oil,NOUN,MSU-TEXAS
+hashish,drug,drug,drug,NOUN,MSU-TEXAS
+seedling,planting,planting,plan,VERB,MSU-TEXAS
+seedling,dirt ,dirt,dirt,NOUN,MSU-TEXAS
+instructor,teacher,teacher,teacher,NOUN,MSU-TEXAS
+instructor,professor,professor,professor,NOUN,MSU-TEXAS
+instructor,knows the information ,knows,know,VERB,MSU-TEXAS
+instructor,knows the information ,information,information,NOUN,MSU-TEXAS
+jam,peanut butter and jelly,peanut,peanut,NOUN,MSU-TEXAS
+jam,peanut butter and jelly,butter,butter,NOUN,MSU-TEXAS
+jam,peanut butter and jelly,jelly,jelly,ADV,MSU-TEXAS
+jam,bread,bread,bread,NOUN,MSU-TEXAS
+jam,deserts ,deserts,desert,NOUN,MSU-TEXAS
+theatergoer,excitement,excitement,excitement,NOUN,MSU-TEXAS
+theatergoer,fun,fun,fun,NOUN,MSU-TEXAS
+theatergoer,entertaining ,entertaining,entertaine,VERB,MSU-TEXAS
+antennae,watch tv,watch,watch,VERB,MSU-TEXAS
+antennae,watch tv,tv,tv,X,MSU-TEXAS
+antennae,listen to music,listen,listen,VERB,MSU-TEXAS
+antennae,listen to music,music,music,NOUN,MSU-TEXAS
+antennae,have signal,signal,signal,NOUN,MSU-TEXAS
+antennae,have electricity ,electricity,electricity,NOUN,MSU-TEXAS
+garage,store cars,store,store,NOUN,MSU-TEXAS
+garage,store cars,cars,cars,NOUN,MSU-TEXAS
+garage,store mechanic tools,store,store,NOUN,MSU-TEXAS
+garage,store mechanic tools,mechanic,mechanic,NOUN,MSU-TEXAS
+garage,store mechanic tools,tools,tool,NOUN,MSU-TEXAS
+garage,have parties ,parties,party,NOUN,MSU-TEXAS
+sketchbook,to draw,draw,dree,VERB,MSU-TEXAS
+sketchbook,color,color,color,NOUN,MSU-TEXAS
+sketchbook,pencil ,pencil,pencil,NOUN,MSU-TEXAS
+pastry,dough,dough,dough,NOUN,MSU-TEXAS
+pastry,baked,baked,bake,VERB,MSU-TEXAS
+pastry,oven,oven,oven,ADV,MSU-TEXAS
+pastry,eat ,eat,eat,VERB,MSU-TEXAS
+oilcloth,cotton,cotton,cotton,NOUN,MSU-TEXAS
+oilcloth,decorations,decorations,decoration,NOUN,MSU-TEXAS
+buddy,friend,friend,friend,NOUN,MSU-TEXAS
+buddy,someone to hang out with,someone,someone,PRON,MSU-TEXAS
+buddy,someone to hang out with,hang,hang,VERB,MSU-TEXAS
+buddy,someone to talk to ,someone,someone,PRON,MSU-TEXAS
+buddy,someone to talk to ,talk,talk,VERB,MSU-TEXAS
+craftsman,builder,builder,builder,NOUN,MSU-TEXAS
+craftsman,drill,drill,drill,NOUN,MSU-TEXAS
+craftsman,fixer,fixer,fixer,NOUN,MSU-TEXAS
+breasts,feed babies,feed,feed,NOUN,MSU-TEXAS
+breasts,feed babies,babies,baby,NOUN,MSU-TEXAS
+breasts,hold items,hold,hold,VERB,MSU-TEXAS
+breasts,hold items,items,item,NOUN,MSU-TEXAS
+crosswalk,to walk,walk,walk,VERB,MSU-TEXAS
+crosswalk,bikers,bikers,biker,NOUN,MSU-TEXAS
+crosswalk,safe road to walk,safe,safe,ADJ,MSU-TEXAS
+crosswalk,safe road to walk,road,road,NOUN,MSU-TEXAS
+crosswalk,safe road to walk,walk,walk,VERB,MSU-TEXAS
+crosswalk,run,run,run,NOUN,MSU-TEXAS
+crosswalk,exercise,exercise,exercise,VERB,MSU-TEXAS
+crosswalk,chalk,chalk,chalk,NOUN,MSU-TEXAS
+stepladder,to get higher,get,get,VERB,MSU-TEXAS
+stepladder,to get higher,higher,higher,ADJ,MSU-TEXAS
+stepladder,to paint,paint,paint,VERB,MSU-TEXAS
+stepladder,to get in the roof,get,get,VERB,MSU-TEXAS
+stepladder,to get in the roof,roof,roof,NOUN,MSU-TEXAS
+stepladder,to grab an item ,grab,grab,VERB,MSU-TEXAS
+stepladder,to grab an item ,item,item,NOUN,MSU-TEXAS
+novel,read,read,read,VERB,MSU-TEXAS
+novel,entertainment,entertainment,entertainment,NOUN,MSU-TEXAS
+novel,have knowledge,knowledge,knowledge,NOUN,MSU-TEXAS
+flapjack,snack,snack,snack,VERB,MSU-TEXAS
+flapjack,oven,oven,oven,ADV,MSU-TEXAS
+flapjack,desert,desert,desert,NOUN,MSU-TEXAS
+flapjack,eat it ,eat,eat,VERB,MSU-TEXAS
+neurologist,brain,brain,brain,NOUN,MSU-TEXAS
+neurologist,memory,memory,memory,NOUN,MSU-TEXAS
+neurologist,information,information,information,NOUN,MSU-TEXAS
+neurologist,surgery,surgery,surgery,NOUN,MSU-TEXAS
+firewood,warm you up,warm,warm,VERB,MSU-TEXAS
+firewood,smell,smell,smell,VERB,MSU-TEXAS
+crepe,eat,eat,eat,VERB,MSU-TEXAS
+crepe,roll,roll,roll,VERB,MSU-TEXAS
+crepe,cook,cook,cake,VERB,MSU-TEXAS
+crepe,store,store,store,VERB,MSU-TEXAS
+crepe,share,share,share,VERB,MSU-TEXAS
+crepe,break,break,break,VERB,MSU-TEXAS
+crepe,throw,throw,throw,VERB,MSU-TEXAS
+crepe,hold,hold,hold,VERB,MSU-TEXAS
+crepe,trash,trash,trash,INTJ,MSU-TEXAS
+crepe,break,break,break,VERB,MSU-TEXAS
+steelworker,to make a company,make,make,VERB,MSU-TEXAS
+steelworker,to make a company,company,company,NOUN,MSU-TEXAS
+steelworker,to learn from them,learn,learn,VERB,MSU-TEXAS
+steelworker,to build things,build,build,VERB,MSU-TEXAS
+steelworker,to build things,things,thing,NOUN,MSU-TEXAS
+steelworker,to form a team,form,form,NOUN,MSU-TEXAS
+steelworker,to form a team,team,team,NOUN,MSU-TEXAS
+thumbscrew,to hold things together,hold,hold,VERB,MSU-TEXAS
+thumbscrew,to hold things together,things,thing,NOUN,MSU-TEXAS
+thumbscrew,to hold things together,together,together,ADV,MSU-TEXAS
+thumbscrew,to take things apart,take,take,VERB,MSU-TEXAS
+thumbscrew,to take things apart,things,thing,NOUN,MSU-TEXAS
+thumbscrew,to take things apart,apart,apart,ADV,MSU-TEXAS
+thumbscrew,to hold things up,hold,hold,VERB,MSU-TEXAS
+thumbscrew,to hold things up,things,thing,NOUN,MSU-TEXAS
+citrus,to cook with,cook,cake,VERB,MSU-TEXAS
+citrus,to share,share,share,VERB,MSU-TEXAS
+citrus,to eat,eat,eat,VERB,MSU-TEXAS
+citrus,to smell,smell,smell,VERB,MSU-TEXAS
+citrus,to store,store,store,VERB,MSU-TEXAS
+citrus,to preserve,preserve,preserve,VERB,MSU-TEXAS
+citrus,to create chemical reactions,create,create,VERB,MSU-TEXAS
+citrus,to create chemical reactions,chemical,chemical,ADJ,MSU-TEXAS
+citrus,to create chemical reactions,reactions,reaction,NOUN,MSU-TEXAS
+mat,to step on,step,step,VERB,MSU-TEXAS
+mat,to preserve floors,preserve,preserve,VERB,MSU-TEXAS
+mat,to preserve floors,floors,floor,NOUN,MSU-TEXAS
+mat,to decorate,decorate,decorate,VERB,MSU-TEXAS
+mat,to clean,clean,clean,VERB,MSU-TEXAS
+mat,to roll,roll,roll,VERB,MSU-TEXAS
+mat,to clean feat,clean,clean,VERB,MSU-TEXAS
+mat,to clean feat,feat,feet,NOUN,MSU-TEXAS
+mat,to store shoes,store,store,VERB,MSU-TEXAS
+mat,to store shoes,shoes,shoe,VERB,MSU-TEXAS
+mat,to protect flooring,protect,protect,VERB,MSU-TEXAS
+mat,to protect flooring,flooring,flooring,NOUN,MSU-TEXAS
+mat,to exercise on,exercise,exercise,VERB,MSU-TEXAS
+pal,to talk with,talk,talk,VERB,MSU-TEXAS
+pal,to share things with,share,share,NOUN,MSU-TEXAS
+pal,to share things with,things,thing,NOUN,MSU-TEXAS
+pal,to spend time with,spend,spend,NOUN,MSU-TEXAS
+pal,to spend time with,time,time,NOUN,MSU-TEXAS
+pal,to help,help,help,VERB,MSU-TEXAS
+pal,to love,love,love,VERB,MSU-TEXAS
+pal,to hate,hate,hate,VERB,MSU-TEXAS
+pal,to date,date,date,VERB,MSU-TEXAS
+pal,to help,help,help,VERB,MSU-TEXAS
+beverage,to drink,drink,drink,VERB,MSU-TEXAS
+beverage,to eat,eat,eat,VERB,MSU-TEXAS
+beverage,to smell,smell,smell,VERB,MSU-TEXAS
+beverage,to store,store,store,VERB,MSU-TEXAS
+beverage,to shake,shake,shake,VERB,MSU-TEXAS
+beverage,to share,share,share,VERB,MSU-TEXAS
+caretaker,employed,employed,employ,VERB,MSU-TEXAS
+caretaker,paid,paid,pay,VERB,MSU-TEXAS
+caretaker,spend time with,spend,spend,NOUN,MSU-TEXAS
+caretaker,spend time with,time,time,NOUN,MSU-TEXAS
+caretaker,watch something important,watch,watch,VERB,MSU-TEXAS
+caretaker,watch something important,something,something,PRON,MSU-TEXAS
+caretaker,watch something important,important,important,ADJ,MSU-TEXAS
+revolver,store,store,store,VERB,MSU-TEXAS
+revolver,shoot ,shoot,shoot,VERB,MSU-TEXAS
+mistletoe,decorate,decorate,decorate,VERB,MSU-TEXAS
+mistletoe,share,share,share,NOUN,MSU-TEXAS
+mistletoe,smell,smell,smell,VERB,MSU-TEXAS
+tracksuit,use to work out,use,use,VERB,MSU-TEXAS
+tracksuit,use to work out,work,work,VERB,MSU-TEXAS
+tracksuit,wear for fashion,wear,wear,VERB,MSU-TEXAS
+tracksuit,wear for fashion,fashion,fashion,NOUN,MSU-TEXAS
+tracksuit,hang up,hang,hang,VERB,MSU-TEXAS
+tracksuit,clean,clean,clean,VERB,MSU-TEXAS
+tracksuit,dry,dry,dry,VERB,MSU-TEXAS
+weapon,store,store,store,VERB,MSU-TEXAS
+weapon,hurt someone,hurt,hurt,VERB,MSU-TEXAS
+weapon,hurt someone,someone,someone,PRON,MSU-TEXAS
+wallet,store money,store,store,VERB,MSU-TEXAS
+wallet,store money,money,money,NOUN,MSU-TEXAS
+wallet,store pictures,store,store,VERB,MSU-TEXAS
+wallet,store pictures,pictures,picture,NOUN,MSU-TEXAS
+wallet,store cards,store,store,VERB,MSU-TEXAS
+wallet,store cards,cards,card,NOUN,MSU-TEXAS
+wallet,store pictures,store,store,VERB,MSU-TEXAS
+wallet,store pictures,pictures,picture,NOUN,MSU-TEXAS
+sauce,cook,cook,cake,VERB,MSU-TEXAS
+sauce,store,store,store,VERB,MSU-TEXAS
+sauce,eat,eat,eat,VERB,MSU-TEXAS
+sauce,share,share,share,VERB,MSU-TEXAS
+sauce,dip,dip,dip,VERB,MSU-TEXAS
+head,think,think,think,VERB,MSU-TEXAS
+head,see,see,see,VERB,MSU-TEXAS
+head,hear,hear,hear,VERB,MSU-TEXAS
+head,smell,smell,smell,VERB,MSU-TEXAS
+head,eat,eat,eat,VERB,MSU-TEXAS
+head,talk,talk,talk,VERB,MSU-TEXAS
+hatchet,chop wood,chop,chop,VERB,MSU-TEXAS
+hatchet,chop wood,wood,wood,NOUN,MSU-TEXAS
+hatchet,store,store,store,VERB,MSU-TEXAS
+hatchet,decorate,decorate,decorate,VERB,MSU-TEXAS
+hatchet,hunt,hunt,hunt,VERB,MSU-TEXAS
+prisoner,spend time with,spend,spend,NOUN,MSU-TEXAS
+prisoner,spend time with,time,time,NOUN,MSU-TEXAS
+prisoner,labor,labor,labor,NOUN,MSU-TEXAS
+paratrooper,to help allies,help,help,VERB,MSU-TEXAS
+paratrooper,to help allies,allies,ally,NOUN,MSU-TEXAS
+rucksack,to hold things,hold,hold,VERB,MSU-TEXAS
+rucksack,to hold things,things,thing,NOUN,MSU-TEXAS
+rucksack,to hike,hike,hike,VERB,MSU-TEXAS
+rucksack,to move with,move,move,VERB,MSU-TEXAS
+insect,to eat,eat,eat,VERB,MSU-TEXAS
+insect,to study,study,study,NOUN,MSU-TEXAS
+insect,to measure,measure,measure,NOUN,MSU-TEXAS
+insect,to play,play,play,VERB,MSU-TEXAS
+insect,to keep as a pet,keep,keep,VERB,MSU-TEXAS
+insect,to keep as a pet,pet,pet,NOUN,MSU-TEXAS
+poster,to store,store,store,VERB,MSU-TEXAS
+poster,share,share,share,VERB,MSU-TEXAS
+poster,to decorate room,decorate,decorate,VERB,MSU-TEXAS
+poster,to decorate room,room,room,NOUN,MSU-TEXAS
+magazine,to read,read,read,VERB,MSU-TEXAS
+magazine,to hit stuff,hit,hit,VERB,MSU-TEXAS
+magazine,to hit stuff,stuff,stuff,NOUN,MSU-TEXAS
+magazine,to decorate,decorate,decorate,VERB,MSU-TEXAS
+slug,to eat,eat,eat,VERB,MSU-TEXAS
+slug,to keep an environment healthy,keep,keep,VERB,MSU-TEXAS
+slug,to keep an environment healthy,environment,environment,NOUN,MSU-TEXAS
+slug,to keep an environment healthy,healthy,healthy,ADJ,MSU-TEXAS
+slug,pet food,pet,pet,NOUN,MSU-TEXAS
+slug,pet food,food,food,NOUN,MSU-TEXAS
+marble,to build,build,build,NOUN,MSU-TEXAS
+marble,to insulate,insulate,insulate,VERB,MSU-TEXAS
+snot,to keep nasal cavities moisturized,keep,keep,VERB,MSU-TEXAS
+snot,to keep nasal cavities moisturized,nasal,nasal,ADJ,MSU-TEXAS
+snot,to keep nasal cavities moisturized,cavities,cavity,NOUN,MSU-TEXAS
+snot,to keep nasal cavities moisturized,moisturized,moisturize,VERB,MSU-TEXAS
+pincushion,to hold pins,hold,hold,VERB,MSU-TEXAS
+pincushion,to hold pins,pins,pin,NOUN,MSU-TEXAS
+lamb,to grow,grow,grow,VERB,MSU-TEXAS
+lamb,to feed,feed,feed,NOUN,MSU-TEXAS
+lamb,to spend time with,spend,spend,NOUN,MSU-TEXAS
+lamb,to spend time with,time,time,NOUN,MSU-TEXAS
+lamb,to eat,eat,eat,VERB,MSU-TEXAS
+powder,many kinds of power can be used in chemical reactions,many,many,ADJ,MSU-TEXAS
+powder,many kinds of power can be used in chemical reactions,kinds,kind,NOUN,MSU-TEXAS
+powder,many kinds of power can be used in chemical reactions,power,power,NOUN,MSU-TEXAS
+powder,many kinds of power can be used in chemical reactions,can,can,AUX,MSU-TEXAS
+powder,many kinds of power can be used in chemical reactions,used,use,VERB,MSU-TEXAS
+powder,many kinds of power can be used in chemical reactions,chemical,chemical,ADJ,MSU-TEXAS
+powder,many kinds of power can be used in chemical reactions,reactions,reaction,NOUN,MSU-TEXAS
+powder,can also be used as a good way to store things,can,can,AUX,MSU-TEXAS
+powder,can also be used as a good way to store things,also,also,ADV,MSU-TEXAS
+powder,can also be used as a good way to store things,used,use,VERB,MSU-TEXAS
+powder,can also be used as a good way to store things,good,good,ADJ,MSU-TEXAS
+powder,can also be used as a good way to store things,way,way,NOUN,MSU-TEXAS
+powder,can also be used as a good way to store things,store,store,VERB,MSU-TEXAS
+powder,can also be used as a good way to store things,things,thing,NOUN,MSU-TEXAS
+powder,some powders can also be used as seasoning in food,powders,powder,NOUN,MSU-TEXAS
+powder,some powders can also be used as seasoning in food,can,can,AUX,MSU-TEXAS
+powder,some powders can also be used as seasoning in food,also,also,ADV,MSU-TEXAS
+powder,some powders can also be used as seasoning in food,used,use,VERB,MSU-TEXAS
+powder,some powders can also be used as seasoning in food,seasoning,season,VERB,MSU-TEXAS
+powder,some powders can also be used as seasoning in food,food,food,NOUN,MSU-TEXAS
+roast,eat,eat,eat,VERB,MSU-TEXAS
+roast,store,store,store,NOUN,MSU-TEXAS
+roast,share,share,share,NOUN,MSU-TEXAS
+merchantman,buy things off of,buy,buy,VERB,MSU-TEXAS
+merchantman,buy things off of,things,thing,NOUN,MSU-TEXAS
+merchantman,sell things to,sell,sell,VERB,MSU-TEXAS
+merchantman,sell things to,things,thing,NOUN,MSU-TEXAS
+merchantman,use in a comany,use,use,VERB,MSU-TEXAS
+merchantman,use in a comany,company,company,NOUN,MSU-TEXAS
+grandniece,play,play,play,VERB,MSU-TEXAS
+grandniece,watch movies with them,watch,watch,VERB,MSU-TEXAS
+grandniece,watch movies with them,movies,movie,NOUN,MSU-TEXAS
+grandniece,cook with them,cook,cake,VERB,MSU-TEXAS
+suspender,hold pants up,hold,hold,VERB,MSU-TEXAS
+suspender,hold pants up,pants,pants,NOUN,MSU-TEXAS
+radish,eat,eat,eat,VERB,MSU-TEXAS
+radish,cook,cook,cake,VERB,MSU-TEXAS
+radish,boil,boil,boil,VERB,MSU-TEXAS
+radish,bake,bake,bake,VERB,MSU-TEXAS
+radish,light on fire,light,light,NOUN,MSU-TEXAS
+radish,light on fire,fire,fire,NOUN,MSU-TEXAS
+radish,throw,throw,throw,VERB,MSU-TEXAS
+silk,make fabrics,make,make,VERB,MSU-TEXAS
+silk,make fabrics,fabrics,fabric,NOUN,MSU-TEXAS
+silk,feel,feel,feel,VERB,MSU-TEXAS
+silk,lay on,lay,lay,VERB,MSU-TEXAS
+silk,cool down,cool,cool,ADJ,MSU-TEXAS
+pad,protect body,protect,protect,VERB,MSU-TEXAS
+pad,protect body,body,body,NOUN,MSU-TEXAS
+pad,prevent bleeding,prevent,prevent,VERB,MSU-TEXAS
+pad,prevent bleeding,bleeding,bleed,NOUN,MSU-TEXAS
+pad,throw,throw,throw,VERB,MSU-TEXAS
+store,buy,buy,buy,VERB,MSU-TEXAS
+store,sell,sell,sell,VERB,MSU-TEXAS
+store,walk,walk,walk,VERB,MSU-TEXAS
+store,touch,touch,touch,VERB,MSU-TEXAS
+store,explore,explore,explore,VERB,MSU-TEXAS
+person,hit,hit,hit,VERB,MSU-TEXAS
+person,play,play,play,VERB,MSU-TEXAS
+person,have fun,fun,fun,NOUN,MSU-TEXAS
+person,talk,talk,talk,VERB,MSU-TEXAS
+person,love,love,love,VERB,MSU-TEXAS
+person,care,care,care,VERB,MSU-TEXAS
+cushion,protect,protect,protect,VERB,MSU-TEXAS
+cushion,feel,feel,feel,VERB,MSU-TEXAS
+cushion,lay on,lay,lay,VERB,MSU-TEXAS
+storeroom,store,store,store,VERB,MSU-TEXAS
+storeroom,find items,find,find,VERB,MSU-TEXAS
+storeroom,find items,items,item,NOUN,MSU-TEXAS
+storeroom,hide,hide,hide,NOUN,MSU-TEXAS
+mucous,blow out,blow,blow,VERB,MSU-TEXAS
+mucous,sneeze,sneeze,sneeze,VERB,MSU-TEXAS
+mucous,sniff back up,sniff,sniff,VERB,MSU-TEXAS
+mucous,sniff back up,back,back,ADV,MSU-TEXAS
+goldfish,swim with,swim,swim,VERB,MSU-TEXAS
+goldfish,feed,feed,feed,VERB,MSU-TEXAS
+goldfish,hold,hold,hold,VERB,MSU-TEXAS
+goldfish,eat,eat,eat,VERB,MSU-TEXAS
+goldfish,play,play,play,VERB,MSU-TEXAS
+tent,sleep in,sleep,sleep,VERB,MSU-TEXAS
+grapevine,holds grape,holds,hold,NOUN,MSU-TEXAS
+grapevine,holds grape,grape,grape,NOUN,MSU-TEXAS
+controller,play game,play,play,VERB,MSU-TEXAS
+controller,play game,game,game,NOUN,MSU-TEXAS
+controller,throw,throw,throw,VERB,MSU-TEXAS
+controller,hit,hit,hit,VERB,MSU-TEXAS
+cheese,eat,eat,eat,VERB,MSU-TEXAS
+cheese,display,display,display,VERB,MSU-TEXAS
+conductor,lead,lead,lead,VERB,MSU-TEXAS
+banquet,host people,host,host,NOUN,MSU-TEXAS
+banquet,host people,people,people,NOUN,MSU-TEXAS
+banquet,talk,talk,talk,VERB,MSU-TEXAS
+banquet,walk,walk,walk,VERB,MSU-TEXAS
+banquet,eat,eat,eat,VERB,MSU-TEXAS
+banquet,drink,drink,drink,VERB,MSU-TEXAS
+motorboat,ride in water,ride,ride,VERB,MSU-TEXAS
+motorboat,ride in water,water,water,NOUN,MSU-TEXAS
+Guitar,play music,play,play,VERB,MSU-TEXAS
+Guitar,play music,music,music,NOUN,MSU-TEXAS
+Guitar,smash,smash,smash,VERB,MSU-TEXAS
+eyebath,wash eyes,wash,wash,VERB,MSU-TEXAS
+eyebath,wash eyes,eyes,eyes,NOUN,MSU-TEXAS
+funnel,poor from large item into small hole,poor,poor,ADJ,MSU-TEXAS
+funnel,poor from large item into small hole,large,large,ADJ,MSU-TEXAS
+funnel,poor from large item into small hole,item,item,NOUN,MSU-TEXAS
+funnel,poor from large item into small hole,small,small,ADJ,MSU-TEXAS
+funnel,poor from large item into small hole,hole,hole,NOUN,MSU-TEXAS
+pine,help cold and stuffy nose,help,help,VERB,MSU-TEXAS
+pine,help cold and stuffy nose,cold,cold,ADJ,MSU-TEXAS
+pine,help cold and stuffy nose,stuffy,stuffy,NOUN,MSU-TEXAS
+pine,help cold and stuffy nose,nose,nose,PRON,MSU-TEXAS
+mulch,retain soil,retain,retain,VERB,MSU-TEXAS
+mulch,retain soil,soil,soil,NOUN,MSU-TEXAS
+peanut,eat,eat,eat,VERB,MSU-TEXAS
+daddy,call for father,call,call,NOUN,MSU-TEXAS
+daddy,call for father,father,father,NOUN,MSU-TEXAS
+medic,help care for injury,help,help,VERB,MSU-TEXAS
+medic,help care for injury,care,care,NOUN,MSU-TEXAS
+medic,help care for injury,injury,injury,NOUN,MSU-TEXAS
+medic,move patient,move,move,VERB,MSU-TEXAS
+medic,move patient,patient,patient,NOUN,MSU-TEXAS
+medic,identify problems,identify,identify,VERB,MSU-TEXAS
+medic,identify problems,problems,problem,NOUN,MSU-TEXAS
+kilt,to wear,wear,wear,VERB,MSU-TEXAS
+salesman,to sell items,sell,sell,VERB,MSU-TEXAS
+salesman,to sell items,items,item,NOUN,MSU-TEXAS
+salesman,negotiate prices,negotiate,negotiate,NOUN,MSU-TEXAS
+salesman,negotiate prices,prices,price,NOUN,MSU-TEXAS
+people,talk,talk,talk,VERB,MSU-TEXAS
+people,work,work,work,NOUN,MSU-TEXAS
+people,reproduce,reproduce,reproduce,VERB,MSU-TEXAS
+eyelid,keep eye open,keep,keep,VERB,MSU-TEXAS
+eyelid,keep eye open,eye,eye,NOUN,MSU-TEXAS
+eyelid,keep eye open,open,open,VERB,MSU-TEXAS
+eyelid,keep eye close,keep,keep,VERB,MSU-TEXAS
+eyelid,keep eye close,eye,eye,NOUN,MSU-TEXAS
+eyelid,keep eye close,close,close,VERB,MSU-TEXAS
+eyelid,protect it from debre,protect,protect,VERB,MSU-TEXAS
+eyelid,protect it from debre,debris,debris,NOUN,MSU-TEXAS
+steak,food,food,food,NOUN,MSU-TEXAS
+steak,meat,meat,meat,NOUN,MSU-TEXAS
+steak,cow,cow,cow,NOUN,MSU-TEXAS
+lantern,light,light,light,NOUN,MSU-TEXAS
+lantern,decoration ,decoration,decorate,VERB,MSU-TEXAS
+letterbox,holds,holds,hold,VERB,MSU-TEXAS
+raft,float,float,float,VERB,MSU-TEXAS
+raft,boat,boat,boat,NOUN,MSU-TEXAS
+tray,carrying,carrying,carry,VERB,MSU-TEXAS
+tray,food ,food,food,NOUN,MSU-TEXAS
+godparent,extra,extra,extra,ADJ,MSU-TEXAS
+godparent,helpful,helpful,help,VERB,MSU-TEXAS
+backpack,school,school,school,NOUN,MSU-TEXAS
+backpack,books ,books,book,NOUN,MSU-TEXAS
+couch,laying down,laying,lay,VERB,MSU-TEXAS
+couch,tv,tv,tv,X,MSU-TEXAS
+couch,sleep ,sleep,sleep,VERB,MSU-TEXAS
+enamel,teeth,teeth,tooth,NOUN,MSU-TEXAS
+treadmill,working out,working,work,VERB,MSU-TEXAS
+treadmill,sweat,sweat,sweat,VERB,MSU-TEXAS
+treadmill,running ,running,run,VERB,MSU-TEXAS
+cage,closed ,closed,close,ADJ,MSU-TEXAS
+saltwater,salty,salty,salty,ADJ,MSU-TEXAS
+saltwater,beach,beach,beach,NOUN,MSU-TEXAS
+tear,rip,rip,rip,NOUN,MSU-TEXAS
+kitchen,food,food,food,NOUN,MSU-TEXAS
+kitchen,prep,prep,prep,VERB,MSU-TEXAS
+goggles,eyes,eyes,eyes,NOUN,MSU-TEXAS
+goose,animal,animal,animal,NOUN,MSU-TEXAS
+woodcutter,cut,cut,cut,VERB,MSU-TEXAS
+plaster,formation,formation,formation,NOUN,MSU-TEXAS
+toe,foot,foot,foot,NOUN,MSU-TEXAS
+bagpipes,loud,loud,loud,ADV,MSU-TEXAS
+bagpipes,music,music,music,NOUN,MSU-TEXAS
+switchblade,knife,knife,knife,NOUN,MSU-TEXAS
+barley,wheat,wheat,wheat,X,MSU-TEXAS
+splinter,wood,wood,wood,NOUN,MSU-TEXAS
+cookie,sweets,sweets,sweet,NOUN,MSU-TEXAS
+cookie,food,food,food,NOUN,MSU-TEXAS
+yardstick,long,long,long,ADV,MSU-TEXAS
+yardstick,messier ,messier,messier,NOUN,MSU-TEXAS
+silkworm,sliky,silky,silky,INTJ,MSU-TEXAS
+burger,eat,eat,eat,VERB,MSU-TEXAS
+keyboard,type,type,type,NOUN,MSU-TEXAS
+keyboard,game,game,game,NOUN,MSU-TEXAS
+keyboard,code,code,code,NOUN,MSU-TEXAS
+keyboard,typing noise satisfaction,typing,type,NOUN,MSU-TEXAS
+keyboard,typing noise satisfaction,noise,noise,NOUN,MSU-TEXAS
+keyboard,typing noise satisfaction,satisfaction,satisfaction,NOUN,MSU-TEXAS
+keyboard,input data into the computer,input,input,VERB,MSU-TEXAS
+keyboard,input data into the computer,data,data,NOUN,MSU-TEXAS
+keyboard,input data into the computer,computer,computer,NOUN,MSU-TEXAS
+investigator,secret,secret,secret,X,MSU-TEXAS
+investigator,detective,detective,detective,NOUN,MSU-TEXAS
+investigator,spy,spy,spy,VERB,MSU-TEXAS
+investigator,police,police,police,NOUN,MSU-TEXAS
+cake,eat,eat,eat,VERB,MSU-TEXAS
+cake,bake,bake,bake,VERB,MSU-TEXAS
+cake,make,make,make,VERB,MSU-TEXAS
+cake,design,design,design,NOUN,MSU-TEXAS
+essay,write,write,write,VERB,MSU-TEXAS
+essay,explain,explain,explain,VERB,MSU-TEXAS
+essay,summary,summary,summary,NOUN,MSU-TEXAS
+cap,wear,wear,wear,VERB,MSU-TEXAS
+cap,fashion,fashion,fashion,NOUN,MSU-TEXAS
+newlyweds,happy,happy,happy,ADJ,MSU-TEXAS
+newlyweds,love,love,love,NOUN,MSU-TEXAS
+storekeeper,work,work,work,NOUN,MSU-TEXAS
+storekeeper,manager,manager,manager,NOUN,MSU-TEXAS
+parachutist,adventurer,adventurer,adventurer,NOUN,MSU-TEXAS
+parachutist,risk taker,risk,risk,NOUN,MSU-TEXAS
+parachutist,risk taker,taker,taker,NOUN,MSU-TEXAS
+parachutist,fun,fun,fun,NOUN,MSU-TEXAS
+claw,hurts,hurts,hurts,NOUN,MSU-TEXAS
+claw,dangerous,dangerous,dangerous,ADJ,MSU-TEXAS
+claw,cats,cats,cat,NOUN,MSU-TEXAS
+claw,bears,bears,bear,NOUN,MSU-TEXAS
+claw,animals,animals,animal,NOUN,MSU-TEXAS
+sundeck,fun,fun,fun,NOUN,MSU-TEXAS
+sundeck,enjoyable,enjoyable,enjoyable,ADJ,MSU-TEXAS
+sundeck,luxury,luxury,luxury,NOUN,MSU-TEXAS
+trapeze,circus,circus,circus,NOUN,MSU-TEXAS
+sibling,family,family,family,NOUN,MSU-TEXAS
+rod,equipment,equipment,equipment,NOUN,MSU-TEXAS
+lifeboat,lifesaver,lifesaver,lifesaver,NOUN,MSU-TEXAS
+newsstand,news,news,news,NOUN,MSU-TEXAS
+thermometer,temperature,temperature,temperature,NOUN,MSU-TEXAS
+thermometer,body temperature,body,body,NOUN,MSU-TEXAS
+thermometer,body temperature,temperature,temperature,NOUN,MSU-TEXAS
+racket,badminton,badminton,badminton,NOUN,MSU-TEXAS
+racket,tennis,tennis,tennis,NOUN,MSU-TEXAS
+racket,table tennis,table,table,NOUN,MSU-TEXAS
+racket,table tennis,tennis,tennis,NOUN,MSU-TEXAS
+oceanographer,photographer,photographer,photographer,NOUN,MSU-TEXAS
+refrigerator,cold,cold,cold,ADJ,MSU-TEXAS
+refrigerator,food,food,food,NOUN,MSU-TEXAS
+refrigerator,storage,storage,storage,NOUN,MSU-TEXAS
+pooch,cute,cute,cute,ADJ,MSU-TEXAS
+pooch,adorable,adorable,adorable,ADJ,MSU-TEXAS
+pooch,dog,dog,dog,NOUN,MSU-TEXAS
+pooch,play,play,play,VERB,MSU-TEXAS
+teapot,tea,tea,tea,NOUN,MSU-TEXAS
+teapot,hot,hot,hot,ADJ,MSU-TEXAS
+teapot,steam,steam,steam,VERB,MSU-TEXAS
+restaurant,food,food,food,NOUN,MSU-TEXAS
+restaurant,busy,busy,busy,ADJ,MSU-TEXAS
+restaurant,plates,plates,plate,NOUN,MSU-TEXAS
+restaurant,utensils,utensils,utensil,NOUN,MSU-TEXAS
+restaurant,crowded,crowded,crowd,ADJ,MSU-TEXAS
+money,luxury,luxury,luxury,NOUN,MSU-TEXAS
+money,happiness,happiness,happiness,NOUN,MSU-TEXAS
+money,success,success,success,NOUN,MSU-TEXAS
+money,satisfaction,satisfaction,satisfaction,NOUN,MSU-TEXAS
+money,freedom,freedom,freedom,NOUN,MSU-TEXAS
+apartment,house,house,house,NOUN,MSU-TEXAS
+tongs,baking,baking,bake,VERB,MSU-TEXAS
+tongs,utensils,utensils,utensil,NOUN,MSU-TEXAS
+snowfall,snowball,snowball,snowball,NOUN,MSU-TEXAS
+snowfall,ice cream,ice,ice,NOUN,MSU-TEXAS
+snowfall,ice cream,cream,cream,NOUN,MSU-TEXAS
+snowfall,snowman,snowman,snowman,NOUN,MSU-TEXAS
+family,a shoulder to cry on,shoulder,shoulder,NOUN,MSU-TEXAS
+family,a shoulder to cry on,cry,cry,VERB,MSU-TEXAS
+family,hugs,hugs,hug,NOUN,MSU-TEXAS
+family,christmas,christmas,christmas,PROPN,MSU-TEXAS
+family,thanksgiving ,thanksgiving,thanksgive,VERB,MSU-TEXAS
+bathe,wash your body,wash,wash,VERB,MSU-TEXAS
+bathe,wash your body,body,body,NOUN,MSU-TEXAS
+bathe,relax ,relax,relax,NOUN,MSU-TEXAS
+van,delivery,delivery,delivery,NOUN,MSU-TEXAS
+van,transportation,transportation,transportation,NOUN,MSU-TEXAS
+balcony,sunset watching,sunset,sunset,NOUN,MSU-TEXAS
+balcony,sunset watching,watching,watch,VERB,MSU-TEXAS
+balcony,relaxing,relaxing,relax,VERB,MSU-TEXAS
+balcony,morning coffee,morning,morning,NOUN,MSU-TEXAS
+balcony,morning coffee,coffee,coffee,NOUN,MSU-TEXAS
+footballer,sports,sports,sport,NOUN,MSU-TEXAS
+footballer,kicking,kicking,kick,VERB,MSU-TEXAS
+footballer,trowing ,trowing,trow,VERB,MSU-TEXAS
+berry,eating,eating,eat,VERB,MSU-TEXAS
+berry,wine,wine,wine,NOUN,MSU-TEXAS
+desert,a place for cactus to grow,place,place,NOUN,MSU-TEXAS
+desert,a place for cactus to grow,cactus,cactus,NOUN,MSU-TEXAS
+desert,a place for cactus to grow,grow,grow,VERB,MSU-TEXAS
+desert,empty,empty,empty,ADJ,MSU-TEXAS
+scale,weighing things,weighing,weigh,VERB,MSU-TEXAS
+scale,weighing things,things,thing,NOUN,MSU-TEXAS
+scale,measuring things,measuring,measure,VERB,MSU-TEXAS
+scale,measuring things,things,thing,NOUN,MSU-TEXAS
+blindfold,cover a persons eyes,cover,cover,NOUN,MSU-TEXAS
+blindfold,cover a persons eyes,persons,person,NOUN,MSU-TEXAS
+blindfold,cover a persons eyes,eyes,eyes,NOUN,MSU-TEXAS
+parsnip,eat,eat,eat,VERB,MSU-TEXAS
+tofu,eat,eat,eat,VERB,MSU-TEXAS
+tofu,replace meat,replace,replace,VERB,MSU-TEXAS
+tofu,replace meat,meat,meat,NOUN,MSU-TEXAS
+myself,hard work,hard,hard,ADJ,MSU-TEXAS
+myself,hard work,work,work,NOUN,MSU-TEXAS
+myself,dedication,dedication,dedicate,VERB,MSU-TEXAS
+myself,good at math,good,good,ADJ,MSU-TEXAS
+myself,good at math,math,math,NOUN,MSU-TEXAS
+chronograph,tell time,tell,tell,VERB,MSU-TEXAS
+chronograph,tell time,time,time,NOUN,MSU-TEXAS
+ticket,admissions,admissions,admission,NOUN,MSU-TEXAS
+ticket,raffle,raffle,raffle,VERB,MSU-TEXAS
+canvass,secure votes,secure,secure,VERB,MSU-TEXAS
+canvass,secure votes,votes,vote,NOUN,MSU-TEXAS
+bicep,lift things,lift,lift,VERB,MSU-TEXAS
+bicep,lift things,things,thing,NOUN,MSU-TEXAS
+bicep,workout,workout,workout,NOUN,MSU-TEXAS
+ginger,food,food,food,NOUN,MSU-TEXAS
+ginger,beneficial for your body,beneficial,beneficial,ADJ,MSU-TEXAS
+ginger,beneficial for your body,body,body,NOUN,MSU-TEXAS
+negligee,clothing,clothing,clothing,NOUN,MSU-TEXAS
+bird,mail deliver,mail,mail,NOUN,MSU-TEXAS
+bird,mail deliver,deliver,deliver,VERB,MSU-TEXAS
+bird,companion ,companion,companion,NOUN,MSU-TEXAS
+harvest,food for family,food,food,NOUN,MSU-TEXAS
+harvest,food for family,family,family,NOUN,MSU-TEXAS
+harvest,profit for family,profit,profit,NOUN,MSU-TEXAS
+harvest,profit for family,family,family,NOUN,MSU-TEXAS
+tabasco,make food spicy,make,make,VERB,MSU-TEXAS
+tabasco,make food spicy,food,food,NOUN,MSU-TEXAS
+tabasco,make food spicy,spicy,spicy,ADJ,MSU-TEXAS
+tabasco,make food,make,make,VERB,MSU-TEXAS
+tabasco,make food,food,food,NOUN,MSU-TEXAS
+screw,hold things together,hold,hold,VERB,MSU-TEXAS
+screw,hold things together,things,thing,NOUN,MSU-TEXAS
+screw,hold things together,together,together,ADV,MSU-TEXAS
+screw,hang things on walls,hang,hang,VERB,MSU-TEXAS
+screw,hang things on walls,things,thing,NOUN,MSU-TEXAS
+screw,hang things on walls,walls,wall,NOUN,MSU-TEXAS
+wand,reaching,reaching,reach,VERB,MSU-TEXAS
+wand,pointing ,pointing,point,VERB,MSU-TEXAS
+physician,medical help,medical,medical,ADJ,MSU-TEXAS
+physician,medical help,help,help,VERB,MSU-TEXAS
+physician,medical check ups,medical,medical,ADJ,MSU-TEXAS
+physician,medical check ups,check,check,VERB,MSU-TEXAS
+physician,medical check ups,ups,up,ADJ,MSU-TEXAS
+whisky,alcoholic beverage,alcoholic,alcoholic,X,MSU-TEXAS
+whisky,alcoholic beverage,beverage,beverage,PROPN,MSU-TEXAS
+whisky,cooking,cooking,cook,NOUN,MSU-TEXAS
+whisky,weight loss,weight,weight,NOUN,MSU-TEXAS
+whisky,weight loss,loss,loss,NOUN,MSU-TEXAS
+chinaware,display,display,display,NOUN,MSU-TEXAS
+chinaware,eating on,eating,eat,VERB,MSU-TEXAS
+pilaf,food,food,food,NOUN,MSU-TEXAS
+crystal,create good things around you,create,create,VERB,MSU-TEXAS
+crystal,create good things around you,good,good,ADJ,MSU-TEXAS
+crystal,create good things around you,things,thing,NOUN,MSU-TEXAS
+crystal,create good things around you,around,around,ADV,MSU-TEXAS
+crystal,a lamp,lamp,lamp,NOUN,MSU-TEXAS
+tinfoil,cover food,cover,cover,NOUN,MSU-TEXAS
+tinfoil,cover food,food,food,NOUN,MSU-TEXAS
+tinfoil,cook with,cook,cake,VERB,MSU-TEXAS
+boxer,fighting,fighting,fight,VERB,MSU-TEXAS
+boxer,dog,dog,dog,NOUN,MSU-TEXAS
+boxer,entertanment,entertainment,entertainment,NOUN,MSU-TEXAS
+snowflake,christmas,christmas,christmas,PROPN,MSU-TEXAS
+snowflake,frozen,frozen,freeze,VERB,MSU-TEXAS
+snowflake,can eat,can,can,AUX,MSU-TEXAS
+snowflake,can eat,eat,eat,VERB,MSU-TEXAS
+snowflake,cold to the touch,cold,cold,ADJ,MSU-TEXAS
+snowflake,cold to the touch,touch,touch,NOUN,MSU-TEXAS
+spike,volleyball,volleyball,volleyball,NOUN,MSU-TEXAS
+spike,to but up a tent,tent,tent,NOUN,MSU-TEXAS
+carpet,on the ground,ground,ground,NOUN,MSU-TEXAS
+carpet,on the walls,walls,wall,NOUN,MSU-TEXAS
+turntable,serving food,serving,serive,VERB,MSU-TEXAS
+turntable,serving food,food,food,NOUN,MSU-TEXAS
+turntable,games,games,game,NOUN,MSU-TEXAS
+turntable,spinning,spinning,spinning,VERB,MSU-TEXAS
+housemaid,cleaning,cleaning,clean,VERB,MSU-TEXAS
+housemaid,slave,slave,slave,ADJ,MSU-TEXAS
+housemaid,worker,worker,worker,NOUN,MSU-TEXAS
+housemaid,job,job,job,NOUN,MSU-TEXAS
+grape,food,food,food,NOUN,MSU-TEXAS
+grape,desert,desert,desert,NOUN,MSU-TEXAS
+grape,throwing object,throwing,throw,VERB,MSU-TEXAS
+grape,throwing object,object,object,ADV,MSU-TEXAS
+pickaxe,chopping,chopping,chop,VERB,MSU-TEXAS
+pickaxe,tool,tool,tool,NOUN,MSU-TEXAS
+pickaxe,skinning,skinning,skin,VERB,MSU-TEXAS
+drunkard,someone drunk,someone,someone,PRON,MSU-TEXAS
+drunkard,someone drunk,drunk,drunk,ADJ,MSU-TEXAS
+drunkard,party,party,party,NOUN,MSU-TEXAS
+drunkard,crazy,crazy,crazy,ADJ,MSU-TEXAS
+baton,nightstick,nightstick,nightstick,NOUN,MSU-TEXAS
+baton,blocking,blocking,block,VERB,MSU-TEXAS
+baton,hitting,hitting,hit,VERB,MSU-TEXAS
+sandcastle,beach,beach,beach,NOUN,MSU-TEXAS
+sandcastle,sand,sand,sand,NOUN,MSU-TEXAS
+sandcastle,messy,messy,messy,ADJ,MSU-TEXAS
+sandcastle,wet,wet,wet,ADJ,MSU-TEXAS
+sandcastle,water,water,water,NOUN,MSU-TEXAS
+cod,fish,fish,fish,NOUN,MSU-TEXAS
+cod,food,food,food,NOUN,MSU-TEXAS
+cod,game,game,game,NOUN,MSU-TEXAS
+capes,superhero,superhero,superhero,ADV,MSU-TEXAS
+capes,dress up,dress,dress,NOUN,MSU-TEXAS
+capes,halloween,halloween,halloween,AUX,MSU-TEXAS
+painkiller,relief,relief,relief,NOUN,MSU-TEXAS
+painkiller,numbing,numbing,numb,VERB,MSU-TEXAS
+painkiller,injurie,injury,injury,NOUN,MSU-TEXAS
+microphone,concert,concert,concert,NOUN,MSU-TEXAS
+microphone,assembly,assembly,assembly,ADV,MSU-TEXAS
+microphone,load,load,load,NOUN,MSU-TEXAS
+dice,game,game,game,NOUN,MSU-TEXAS
+dice,gambal,gamble,gamble,VERB,MSU-TEXAS
+dice,fun,fun,fun,NOUN,MSU-TEXAS
+salmon,fish,fish,fish,NOUN,MSU-TEXAS
+salmon,sushi,sushi,sushi,NOUN,MSU-TEXAS
+salmon,slimy,slimy,slimy,ADJ,MSU-TEXAS
+sandbag,heavy,heavy,heavy,ADJ,MSU-TEXAS
+sandbag,storms,storms,storm,NOUN,MSU-TEXAS
+sandbag,rain,rain,rain,NOUN,MSU-TEXAS
+sandbag,messy,messy,messy,ADJ,MSU-TEXAS
+perspiration,sweating,sweating,sweat,VERB,MSU-TEXAS
+perspiration,gross,gross,gross,ADJ,MSU-TEXAS
+perspiration,wet,wet,wet,ADJ,MSU-TEXAS
+lock,staying in,staying,stay,VERB,MSU-TEXAS
+lock,trapped,trapped,trap,VERB,MSU-TEXAS
+lock,secure,secure,secure,VERB,MSU-TEXAS
+kindling,candles,candles,candle,NOUN,MSU-TEXAS
+kindling,light,light,light,NOUN,MSU-TEXAS
+kindling,smells,smells,smell,NOUN,MSU-TEXAS
+sheep,animal,animal,animal,NOUN,MSU-TEXAS
+sheep,fluffy,fluffy,fluffy,ADJ,MSU-TEXAS
+sheep,soft,soft,soft,ADJ,MSU-TEXAS
+sheep,white,white,white,ADJ,MSU-TEXAS
+sheep,hurbivour,herbivorous,herbivorous,ADJ,MSU-TEXAS
+polyester,shirt,shirt,shirt,NOUN,MSU-TEXAS
+polyester,ichy,itchy,itchy,ADJ,MSU-TEXAS
+polyester,fabric,fabric,fabric,NOUN,MSU-TEXAS
+cornstarch,cooking,cooking,cook,NOUN,MSU-TEXAS
+cornstarch,slime,slime,slime,NOUN,MSU-TEXAS
+cornstarch,white,white,white,ADJ,MSU-TEXAS
+cornstarch,powdery,powdery,powdery,NOUN,MSU-TEXAS
+toupee,fake hair,fake,fake,ADJ,MSU-TEXAS
+toupee,fake hair,hair,hair,NOUN,MSU-TEXAS
+toupee,men,men,men,NOUN,MSU-TEXAS
+toupee,trump,trump,trump,NOUN,MSU-TEXAS
+seam,clothing,clothing,clothing,NOUN,MSU-TEXAS
+seam,held together,held,hold,VERB,MSU-TEXAS
+seam,held together,together,together,ADV,MSU-TEXAS
+dryer,clean,clean,clean,ADJ,MSU-TEXAS
+dryer,dry,dry,dry,ADJ,MSU-TEXAS
+dryer,clothes,clothes,clothes,NOUN,MSU-TEXAS
+dryer,last step,last,last,ADJ,MSU-TEXAS
+dryer,last step,step,step,NOUN,MSU-TEXAS
+dude,boy,boy,boy,NOUN,MSU-TEXAS
+dude,friend,friend,friend,NOUN,MSU-TEXAS
+railroad,train,train,train,NOUN,MSU-TEXAS
+railroad,job,job,job,NOUN,MSU-TEXAS
+railroad,scary,scary,scary,ADJ,MSU-TEXAS
+railroad,loud,loud,loud,ADV,MSU-TEXAS
+railroad,heavy,heavy,heavy,ADJ,MSU-TEXAS
+railroad,time consuming ,time,time,NOUN,MSU-TEXAS
+railroad,time consuming ,consuming,consume,VERB,MSU-TEXAS
+cutlet,chicken,chicken,chicken,NOUN,MSU-TEXAS
+cutlet,food,food,food,NOUN,MSU-TEXAS
+cutlet,cut,cut,cut,VERB,MSU-TEXAS
+croissant,ate,ate,eat,VERB,MSU-TEXAS
+croissant,tossed,tossed,toss,VERB,MSU-TEXAS
+croissant,dropped,dropped,drop,VERB,MSU-TEXAS
+croissant,ripped,ripped,rip,VERB,MSU-TEXAS
+croissant,torn apart,torn,tear,VERB,MSU-TEXAS
+croissant,torn apart,apart,apart,ADV,MSU-TEXAS
+coupon,torn,torn,tear,VERB,MSU-TEXAS
+coupon,used,used,use,VERB,MSU-TEXAS
+coupon,sold,sold,sell,VERB,MSU-TEXAS
+croquet,played,played,play,VERB,MSU-TEXAS
+croquet,kicked,kicked,kick,VERB,MSU-TEXAS
+croquet,hit,hit,hit,VERB,MSU-TEXAS
+croquet,thrown,thrown,throw,VERB,MSU-TEXAS
+upholstery,pleated,pleated,pleate,VERB,MSU-TEXAS
+upholstery,stapled,stapled,stapl,VERB,MSU-TEXAS
+upholstery,glued,glued,glue,VERB,MSU-TEXAS
+upholstery,set on,set,set,VERB,MSU-TEXAS
+cosmetician,job,job,job,NOUN,MSU-TEXAS
+cosmetician,makeup,makeup,makeup,NOUN,MSU-TEXAS
+cosmetician,hair,hair,hair,NOUN,MSU-TEXAS
+cosmetician,nails,nails,nails,NOUN,MSU-TEXAS
+appetizer,ate,ate,eat,VERB,MSU-TEXAS
+appetizer,spilled,spilled,spill,VERB,MSU-TEXAS
+appetizer,thrown,thrown,throw,VERB,MSU-TEXAS
+semen,used,used,use,VERB,MSU-TEXAS
+semen,wiped,wiped,wip,VERB,MSU-TEXAS
+semen,bought,bought,buy,NOUN,MSU-TEXAS
+semen,ate,ate,eat,VERB,MSU-TEXAS
+semen,injected ,injected,inject,VERB,MSU-TEXAS
+tenderloin,cooked,cooked,cook,VERB,MSU-TEXAS
+tenderloin,ate,ate,eat,VERB,MSU-TEXAS
+tenderloin,thrown,thrown,throw,VERB,MSU-TEXAS
+dishwasher,cleaning,cleaning,clean,VERB,MSU-TEXAS
+programmer,computers,computers,computers,NOUN,MSU-TEXAS
+programmer,phones,phones,phone,NOUN,MSU-TEXAS
+programmer,ipads,ipad,ipad,NOUN,MSU-TEXAS
+programmer,find people,find,find,VERB,MSU-TEXAS
+programmer,find people,people,people,NOUN,MSU-TEXAS
+programmer,news ,news,news,NOUN,MSU-TEXAS
+packaging,storage,storage,store,VERB,MSU-TEXAS
+packaging,trips,trips,trip,VERB,MSU-TEXAS
+packaging,clothes,clothes,clothes,NOUN,MSU-TEXAS
+adapter,charging,charging,charge,VERB,MSU-TEXAS
+adapter,plugging things in,plugging,plugge,VERB,MSU-TEXAS
+adapter,plugging things in,things,thing,NOUN,MSU-TEXAS
+capacitor,storing energy ,storing,storing,NOUN,MSU-TEXAS
+capacitor,storing energy ,energy,energy,NOUN,MSU-TEXAS
+sweater,keep warm,keep,keep,VERB,MSU-TEXAS
+sweater,keep warm,warm,warm,ADJ,MSU-TEXAS
+sweater,wear,wear,wear,VERB,MSU-TEXAS
+sweater,folded,folded,fold,VERB,MSU-TEXAS
+sweater,tossed,tossed,toss,VERB,MSU-TEXAS
+sweater,hung up,hung,hang,VERB,MSU-TEXAS
+armor, protector,protector,protector,NOUN,MSU-TEXAS
+armor,worn,worn,wear,VERB,MSU-TEXAS
+armor,hung up,hung,hang,VERB,MSU-TEXAS
+girlfriend,getting food,getting,get,VERB,MSU-TEXAS
+girlfriend,getting food,food,food,NOUN,MSU-TEXAS
+girlfriend,compliments,compliments,compliment,NOUN,MSU-TEXAS
+girlfriend,advice,advice,advice,NOUN,MSU-TEXAS
+bellboy,food,food,food,NOUN,MSU-TEXAS
+bellboy,laundry,laundry,laundry,NOUN,MSU-TEXAS
+bellboy,towels,towels,towel,NOUN,MSU-TEXAS
+bellboy,errands ,errands,errand,NOUN,MSU-TEXAS
+guard,protect,protect,protect,VERB,MSU-TEXAS
+guard,keep people out,keep,keep,VERB,MSU-TEXAS
+guard,keep people out,people,people,NOUN,MSU-TEXAS
+guard,let people in ,let,let,VERB,MSU-TEXAS
+guard,let people in ,people,people,NOUN,MSU-TEXAS
+breastplate,hold boob ,hold,hold,VERB,MSU-TEXAS
+breastplate,hold boob ,boob,boob,NOUN,MSU-TEXAS
+eyeball,looking,looking,look,VERB,MSU-TEXAS
+eyeball,watering,watering,wate,VERB,MSU-TEXAS
+eyeball,seeing color,seeing,see,VERB,MSU-TEXAS
+eyeball,seeing color,color,color,NOUN,MSU-TEXAS
+eyeball,good eyesight ,good,good,ADJ,MSU-TEXAS
+eyeball,good eyesight ,eyesight,eyesight,NOUN,MSU-TEXAS
+thread,sown,sown,sown,NOUN,MSU-TEXAS
+thread,thrown,thrown,throw,VERB,MSU-TEXAS
+thread,unraveled ,unraveled,unraveled,ADJ,MSU-TEXAS
+leopard,worn,worn,wear,VERB,MSU-TEXAS
+leopard,decor,decor,decorate,VERB,MSU-TEXAS
+leopard,animal ,animal,animal,NOUN,MSU-TEXAS
+chimpanzee,worn,worn,wear,VERB,MSU-TEXAS
+chimpanzee,blanket,blanket,blanket,NOUN,MSU-TEXAS
+Elevator,travel,travel,travel,NOUN,MSU-TEXAS
+Elevator,fast,fast,fast,ADJ,MSU-TEXAS
+espresso,energy,energy,energy,NOUN,MSU-TEXAS
+inventor,smart,smart,smart,ADJ,MSU-TEXAS
+inventor,new ideas,new,new,ADJ,MSU-TEXAS
+inventor,new ideas,ideas,idea,NOUN,MSU-TEXAS
+skewer,eat food ,eat,eat,VERB,MSU-TEXAS
+skewer,eat food ,food,food,NOUN,MSU-TEXAS
+basin,washing laundry ,washing,wash,VERB,MSU-TEXAS
+basin,washing laundry ,laundry,laundry,NOUN,MSU-TEXAS
+boy,get things,get,get,VERB,MSU-TEXAS
+boy,get things,things,thing,NOUN,MSU-TEXAS
+boy,steal there clothes ,steal,steal,VERB,MSU-TEXAS
+boy,steal there clothes ,clothes,clothes,NOUN,MSU-TEXAS
+orphan,finding a home ,finding,find,NOUN,MSU-TEXAS
+orphan,finding a home ,home,home,ADV,MSU-TEXAS

@@ -206,4 +206,4 @@ combined$lemma[combined$lemma == "smoothy"] = "smoothie"
 #might be a good idea to open this up in excel and spot check
 
 ##Write to .csv
-#write.csv(combined, file = "USA Cleaned 12_30_22.csv", row.names = F)
+#write.csv(combined, file = "USA Cleaned 12_30_22_2.csv", row.names = F)

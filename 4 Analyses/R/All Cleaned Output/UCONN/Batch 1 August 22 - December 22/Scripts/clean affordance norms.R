@@ -189,7 +189,7 @@ temp = data.frame(table(no_stop$word))
 lemmatized = udpipe(no_stop$word, "english")
 
 #If lemmatized and no_stop don't match up perfectly, can use the code below to see where the differences are
-#lemmatized$token[!lemmatized$token %in% no_stop$affordance_corrected] #Then just tweak the character removal process above as needed
+lemmatized$token[!lemmatized$token %in% no_stop$word] #Then just tweak the character removal process above as needed
 
 ##Combine datasets and add in second set of Lemmas, part of speech info
 temp = no_stop$word

@@ -24,7 +24,7 @@ library(udpipe)
 library(stopwords)
 
 ##read in data
-master = read.csv("0-Data/combined_data_3_16_22.csv", stringsAsFactors = F)
+master = read.csv("0-Data/combined_data_5_24_22.csv", stringsAsFactors = F)
 
 ##only keep the columns we need
 dat = master[ , c(1, 5, 11, 13, 19, 33, 35)]
@@ -175,19 +175,23 @@ no_stop = no_stop %>%
 ####Lemmatize w/ R####
 ##Having some issues w/ this, using Python instead. Code is included though in case I ever get this working.
 #Lemmatize! (This gives a second set of lemmas using a different algorithm. Also provides part of speech info)
-#lemmatized = udpipe(no_stop$affordance_corrected, "english")
+no_stop$affordance_corrected[no_stop$affordance_corrected == "topayyou"] = "pay"
+
+lemmatized = udpipe(no_stop$affordance_corrected, "english")
 
 #If lemmatized and no_stop don't match up perfectly, can use the code below to see where the differences are
 lemmatized$token[!lemmatized$token %in% no_stop$affordance_corrected] #Then just tweak the character removal process above as needed
+
+
 
 ##Combine datasets and add in second set of Lemmas, part of speech info
 combined = cbind(no_stop, lemmatized[ , c(10:11, 13)])
 
 #Give useful column names
-colnames(combined)[14:16] = c("Lemma_1", "Lemma_2", "POS")
+colnames(combined)[11] = c("POS")
 
 #Drop unused columns
-combined = combined[ , -c(3, 7:8)]
+combined = combined[ , -c(3, 12)]
 
 #Do Lemmas match?
 combined$Lemma_match = combined$Lemma_1 == combined$Lemma_2
@@ -207,4 +211,4 @@ combined$Lemma_1[combined$Lemma_1 == "spin-dry"] = "dry"
 combined = combined[ , -c(12, 15)]
 
 ##Write to .csv
-write.csv(combined, file = "Cleaned_5_14_21.csv", row.names = F)
+write.csv(combined, file = "Cleaned_5_14_22_2.csv", row.names = F)

@@ -173,9 +173,9 @@ no_stop = no_stop %>%
 #write.csv(no_stop, file = "cleaned_9_19_21.csv", row.names = F)
 
 ####Lemmatize w/ R####
-##Having some issues w/ this, using Python instead. Code is included though in case I ever get this working.
+##Having some issues w/ this, using Python instead. Code is included though in case I ever get this working. 
 #Lemmatize! (This gives a second set of lemmas using a different algorithm. Also provides part of speech info)
-#lemmatized = udpipe(no_stop$affordance_corrected, "english")
+lemmatized = udpipe(no_stop$affordance_corrected, "english")
 
 #If lemmatized and no_stop don't match up perfectly, can use the code below to see where the differences are
 lemmatized$token[!lemmatized$token %in% no_stop$affordance_corrected] #Then just tweak the character removal process above as needed
@@ -207,4 +207,4 @@ combined$Lemma_1[combined$Lemma_1 == "spin-dry"] = "dry"
 combined = combined[ , -c(12, 15)]
 
 ##Write to .csv
-write.csv(combined, file = "Cleaned_5_14_21.csv", row.names = F)
+#write.csv(combined, file = "Cleaned_3_16_22_2.csv", row.names = F)

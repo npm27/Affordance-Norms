@@ -3,21 +3,27 @@
 #Start w/ cleaned data
 dat = read.csv("All_responses.csv")
 
-setwd("..")
+options(scipen = 999)
+
+library(memisc)
+
+percent(dat$POS)
+
+#setwd("..")
 
 #Now do the pre-cleaning (this is to pull subIDs)
-setwd("./All Raw Data Sets")
+#setwd("./All Raw Data Sets")
 
-files = list.files(pattern = "*.csv")
+#files = list.files(pattern = "*.csv")
 
 #read everything in and merge into one dataframe.
-dat2 = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FALSE)))
+#dat2 = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FALSE)))
 
-setwd("..")
+#setwd("..")
 
 ####Descriptives####
 ##Number of subjects
-length(unique(dat2$ID)) #796
+#length(unique(dat2$ID)) #796
 
 ##How many times has each word been normed in the final data set?
 

@@ -85,3 +85,47 @@ cor.test(combined$AFS, combined$BOI) #.10 #BOI
 cor.test(combined$AFS, combined$Concrete) #.07 #CONCRETE
 cor.test(combined$AFS, combined$SUBTLEX) #-.11 #SUBTLEX
 cor.test(combined$AFS, combined$AoA) #.01 #AOA #Non-sig
+
+mean(combined$AFS); sd(combined$AFS)
+mean(combined$AFS); sd(combined$AFS)
+
+####Regressions####
+###AFSS
+##going to try w/ AOA and SUBLTEX First
+#main effects only
+model1 = lm(scale(AFSS) ~ scale(SUBTLEX) + scale(AoA), data = combined)
+
+summary(model1)
+
+#interaction
+model2 = lm(scale(AFSS) ~ scale(SUBTLEX) * scale(AoA), data = combined)
+
+summary(model2) #no interaction (not really surprising)
+
+#what about BOI?
+model3 = lm(scale(AFSS) ~ scale(BOI), data = combined)
+summary(model3) #signficant, but a very small effect
+
+#throw all of the variables in the soup and see what happens
+model4 = lm(scale(AFSS) ~ scale(SUBTLEX) + scale(AoA) + scale(Concrete) + scale(BOI), data = combined)
+summary(model4) #SUTBLEX & AoA again are sig... BOI also comes out
+
+#Any BOI interactions?
+model5 = lm(scale(AFSS) ~ scale(SUBTLEX) * scale(AoA) * scale(BOI), data = combined) #No interactions w/ BOI
+summary(model5) 
+
+###AFS
+##FSG
+model6 = lm(AFS ~ FSG, data = fsg)
+summary(model6) #significant, but very small. Likely because of sample size?
+
+model7 = lm(AFS ~ FSG, data = fsg2)
+summary(model7) #again, tiny effect
+
+##COS
+model8 = lm(AFS ~ COS, data = cos)
+summary(model8)
+
+model9 = lm(AFS ~ COS, data = cos2) #tiny effect
+summary(model9) #non-sig
+

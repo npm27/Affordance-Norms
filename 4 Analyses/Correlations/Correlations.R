@@ -107,7 +107,7 @@ model3 = lm(scale(AFSS) ~ scale(BOI), data = combined)
 summary(model3) #signficant, but a very small effect
 
 #throw all of the variables in the soup and see what happens
-model4 = lm(scale(AFSS) ~ scale(SUBTLEX) + scale(AoA) + scale(Concrete) + scale(BOI), data = combined)
+model4 = lm(scale(AFS) ~ scale(SUBTLEX) + scale(AoA) + scale(Concrete) * scale(BOI), data = combined)
 summary(model4) #SUTBLEX & AoA again are sig... BOI also comes out
 
 #Any BOI interactions?

@@ -1,5 +1,4 @@
 ##Start by gathering all of the data
-#JOLs and frequency
 setwd("C:/Users/nickm/OneDrive/Documents/GitHub/BOI-Norms/4 Analyses/R/Get ns/Good data")
 
 files = list.files(pattern = "*.csv")

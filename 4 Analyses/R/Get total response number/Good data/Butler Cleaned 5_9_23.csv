@@ -1,0 +1,622 @@
+Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
+brhall1@butler.edu,frog,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,frog,pet,pet,pet,NOUN,Butler
+brhall1@butler.edu,frog,jump,jump,jump,VERB,Butler
+brhall1@butler.edu,frog,swim,swim,swim,NOUN,Butler
+brhall1@butler.edu,placenta,nourish,nourish,nourish,INTJ,Butler
+brhall1@butler.edu,placenta,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,placenta,safety,safety,safety,NOUN,Butler
+brhall1@butler.edu,guesthouse,sleep,sleep,sleep,NOUN,Butler
+brhall1@butler.edu,guesthouse,lay,lay,lay,VERB,Butler
+brhall1@butler.edu,guesthouse,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,guesthouse,rest,rest,rest,VERB,Butler
+brhall1@butler.edu,ammo,shoot,shoot,shoot,NOUN,Butler
+brhall1@butler.edu,ammo,reload,reload,reload,NOUN,Butler
+brhall1@butler.edu,ammo,aim,aim,aim,NOUN,Butler
+brhall1@butler.edu,washroom,wash,wash,wash,INTJ,Butler
+brhall1@butler.edu,washroom,shower,shower,shower,NOUN,Butler
+brhall1@butler.edu,washroom,clean ,clean,clean,ADJ,Butler
+brhall1@butler.edu,snowshoe,walk,walk,walk,VERB,Butler
+brhall1@butler.edu,snowshoe,step,step,step,NOUN,Butler
+brhall1@butler.edu,snowshoe,wear,wear,wear,VERB,Butler
+brhall1@butler.edu,checkerboard,checkers,checkers,checker,NOUN,Butler
+brhall1@butler.edu,checkerboard,play,play,play,VERB,Butler
+brhall1@butler.edu,organ,play,play,play,VERB,Butler
+brhall1@butler.edu,organ,music,music,music,NOUN,Butler
+brhall1@butler.edu,organ,health,health,health,NOUN,Butler
+brhall1@butler.edu,bugle,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,bugle,pet,pet,pet,NOUN,Butler
+brhall1@butler.edu,spinach,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,spinach,farm,farm,farm,NOUN,Butler
+brhall1@butler.edu,spinach,plant,plant,plant,NOUN,Butler
+brhall1@butler.edu,cutlery,cut,cut,cut,VERB,Butler
+brhall1@butler.edu,cutlery,use,use,use,VERB,Butler
+brhall1@butler.edu,toiletry,wash,wash,wash,INTJ,Butler
+brhall1@butler.edu,toiletry,clean,clean,clean,ADJ,Butler
+brhall1@butler.edu,steroids,consume,consume,consume,NOUN,Butler
+brhall1@butler.edu,steroids,inject,inject,inject,NOUN,Butler
+brhall1@butler.edu,bell,ring,ring,ring,NOUN,Butler
+brhall1@butler.edu,bell,ding,ding,d,NOUN,Butler
+brhall1@butler.edu,bell,music,music,music,NOUN,Butler
+brhall1@butler.edu,sunflower,plant,plant,plant,NOUN,Butler
+brhall1@butler.edu,sunflower,grow,grow,grow,VERB,Butler
+brhall1@butler.edu,sunflower,consume,consume,consume,NOUN,Butler
+brhall1@butler.edu,sunflower,dye,dye,dye,INTJ,Butler
+brhall1@butler.edu,cadillac,drive,drive,drive,VERB,Butler
+brhall1@butler.edu,cadillac,ride,ride,ride,NOUN,Butler
+brhall1@butler.edu,cadillac,race,race,race,NOUN,Butler
+brhall1@butler.edu,muffler,noise,noise,noise,NOUN,Butler
+brhall1@butler.edu,splint,brace,brace,brace,NOUN,Butler
+brhall1@butler.edu,splint,heal,heal,heal,NOUN,Butler
+brhall1@butler.edu,gumdrop,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,gumdrop,chew,chew,chew,NOUN,Butler
+brhall1@butler.edu,schoolhouse,learn,learn,learn,VERB,Butler
+brhall1@butler.edu,schoolhouse,play,play,play,VERB,Butler
+brhall1@butler.edu,schoolhouse,study,study,study,NOUN,Butler
+brhall1@butler.edu,schoolhouse,practice,practice,practice,NOUN,Butler
+brhall1@butler.edu,iguana,pet,pet,pet,NOUN,Butler
+brhall1@butler.edu,iguana,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,can,drink,drink,drink,NOUN,Butler
+brhall1@butler.edu,can,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,seaweed,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,quill,write,write,write,X,Butler
+brhall1@butler.edu,quill,draw,draw,dree,VERB,Butler
+brhall1@butler.edu,lizard,eat,eat,eat,VERB,Butler
+brhall1@butler.edu,lizard,pet,pet,pet,NOUN,Butler
+brhall1@butler.edu,lizard,play,play,play,VERB,Butler
+brhall1@butler.edu,ring,wear,wear,wear,VERB,Butler
+brhall1@butler.edu,piano,play,play,play,VERB,Butler
+brhall1@butler.edu,piano,music,music,music,NOUN,Butler
+brhall1@butler.edu,piano,practice,practice,practice,NOUN,Butler
+brhall1@butler.edu,condominium,sleep,sleep,sleep,NOUN,Butler
+brhall1@butler.edu,condominium,live,live,live,VERB,Butler
+brhall1@butler.edu,condominium,rest,rest,rest,VERB,Butler
+brhall1@butler.edu,gangster,steal,steal,steal,NOUN,Butler
+bweick@butler.edu,adapter,plugging in,plugging,plugge,VERB,Butler
+bweick@butler.edu,adapter,charging,charging,charge,NOUN,Butler
+bweick@butler.edu,basin,holding liquid,holding,hold,NOUN,Butler
+bweick@butler.edu,basin,holding liquid,liquid,liquid,AUX,Butler
+bweick@butler.edu,coupon,buying,buying,buy,VERB,Butler
+bweick@butler.edu,coupon,discounting,discounting,discount,NOUN,Butler
+bweick@butler.edu,breastplate,protecting,protecting,protect,VERB,Butler
+bweick@butler.edu,breastplate,supporting,supporting,support,VERB,Butler
+bweick@butler.edu,semen,producing life,producing,produce,VERB,Butler
+bweick@butler.edu,semen,producing life,life,life,NOUN,Butler
+bweick@butler.edu,chimpanzee,attacking,attacking,attack,VERB,Butler
+bweick@butler.edu,chimpanzee,climbing,climbing,climb,VERB,Butler
+bweick@butler.edu,chimpanzee,running,running,run,VERB,Butler
+bweick@butler.edu,chimpanzee,crawling,crawling,crawl,NOUN,Butler
+bweick@butler.edu,chimpanzee,throwing,throwing,throw,VERB,Butler
+bweick@butler.edu,chimpanzee,jumping ,jumping,jump,VERB,Butler
+bweick@butler.edu,girlfriend,loving,loving,love,ADJ,Butler
+bweick@butler.edu,girlfriend,kissing,kissing,kiss,NOUN,Butler
+bweick@butler.edu,guard,protecting,protecting,protect,VERB,Butler
+bweick@butler.edu,dishwasher,washing,washing,washe,NOUN,Butler
+bweick@butler.edu,dishwasher,cleaning,cleaning,cleaning,NOUN,Butler
+bweick@butler.edu,dishwasher,drying,drying,dry,NOUN,Butler
+bweick@butler.edu,dishwasher,cleansing,cleansing,cleanse,NOUN,Butler
+bweick@butler.edu,espresso,caffeinating,decaffeinating,decaffeinat,VERB,Butler
+bweick@butler.edu,espresso,hydrating,hydrating,hydrat,X,Butler
+bweick@butler.edu,espresso,sustaining,sustaining,sustain,VERB,Butler
+bweick@butler.edu,tenderloin,sustaining,sustaining,sustain,VERB,Butler
+bweick@butler.edu,tenderloin,eating,eating,eat,VERB,Butler
+bweick@butler.edu,appetizer,eating,eating,eat,VERB,Butler
+bweick@butler.edu,appetizer,starting,starting,start,VERB,Butler
+bweick@butler.edu,appetizer,sustaining,sustaining,sustain,VERB,Butler
+bweick@butler.edu,inventor,inventing,inventing,invent,VERB,Butler
+bweick@butler.edu,inventor,designing,designing,designe,VERB,Butler
+bweick@butler.edu,inventor,constructing,constructing,construct,VERB,Butler
+bweick@butler.edu,inventor,patenting ,patenting,patent,NOUN,Butler
+bweick@butler.edu,Elevator,elevating,elevating,elevate,VERB,Butler
+bweick@butler.edu,Elevator,descending,descending,descend,VERB,Butler
+bweick@butler.edu,Elevator,transporting ,transporting,transport,VERB,Butler
+bweick@butler.edu,skewer,poking,poking,pok,VERB,Butler
+bweick@butler.edu,skewer,holding food,holding,hold,NOUN,Butler
+bweick@butler.edu,skewer,holding food,food,food,NOUN,Butler
+bweick@butler.edu,cosmetician,fixing bodily issues,fixing,fix,NOUN,Butler
+bweick@butler.edu,cosmetician,fixing bodily issues,bodily,bodily,ADV,Butler
+bweick@butler.edu,cosmetician,fixing bodily issues,issues,issue,NOUN,Butler
+bweick@butler.edu,cosmetician,enhancing,enhancing,enhance,VERB,Butler
+bweick@butler.edu,bellboy,assisting,assisting,assist,VERB,Butler
+bweick@butler.edu,bellboy,carrying luggage,carrying,carry,VERB,Butler
+bweick@butler.edu,bellboy,carrying luggage,luggage,luggage,NOUN,Butler
+bweick@butler.edu,packaging,holding objects,holding,hold,NOUN,Butler
+bweick@butler.edu,packaging,holding objects,objects,object,VERB,Butler
+bweick@butler.edu,packaging,securing,securing,secure,VERB,Butler
+bweick@butler.edu,packaging,transporting ,transporting,transport,VERB,Butler
+bweick@butler.edu,armor,protecting,protecting,protect,VERB,Butler
+bweick@butler.edu,croissant,eating,eating,eat,VERB,Butler
+bweick@butler.edu,croissant,sustaining,sustaining,sustain,VERB,Butler
+bweick@butler.edu,leopard,running,running,run,VERB,Butler
+bweick@butler.edu,leopard,jumping,jumping,jump,VERB,Butler
+bweick@butler.edu,leopard,attacking,attacking,attack,VERB,Butler
+bweick@butler.edu,leopard,hunting ,hunting,hunt,VERB,Butler
+bweick@butler.edu,eyeball,seeing,seeing,see,VERB,Butler
+bweick@butler.edu,eyeball,moving,moving,move,VERB,Butler
+bweick@butler.edu,eyeball,tracking,tracking,track,VERB,Butler
+bweick@butler.edu,eyeball,twitching,twitching,twitch,VERB,Butler
+bweick@butler.edu,sweater,warming,warming,war,NOUN,Butler
+bweick@butler.edu,sweater,wearing,wearing,wear,VERB,Butler
+bweick@butler.edu,thread,sewing,sewing,sew,VERB,Butler
+bweick@butler.edu,thread,constructing,constructing,construct,VERB,Butler
+bweick@butler.edu,thread,designing,designing,designe,VERB,Butler
+bweick@butler.edu,programmer,designing,designing,designe,VERB,Butler
+bweick@butler.edu,programmer,problem solving,problem,problem,NOUN,Butler
+bweick@butler.edu,programmer,problem solving,solving,solve,NOUN,Butler
+bweick@butler.edu,programmer,engineering ,engineering,engineer,NOUN,Butler
+gkarutz@butler.edu,silkworm,eat,eat,eat,VERB,Butler
+gkarutz@butler.edu,silkworm,interact with,interact,interact,NOUN,Butler
+gkarutz@butler.edu,silkworm,carry,carry,carry,VERB,Butler
+gkarutz@butler.edu,silkworm,throw,throw,throw,INTJ,Butler
+gkarutz@butler.edu,silkworm,squash,squash,squash,INTJ,Butler
+gkarutz@butler.edu,silkworm,feed to animal,feed,feed,NOUN,Butler
+gkarutz@butler.edu,silkworm,feed to animal,animal,animal,NOUN,Butler
+gkarutz@butler.edu,silkworm,pet,pet,pet,NOUN,Butler
+gkarutz@butler.edu,godparent,talk to,talk,talk,VERB,Butler
+gkarutz@butler.edu,godparent,punch,punch,punch,NOUN,Butler
+gkarutz@butler.edu,godparent,hug,hug,hug,X,Butler
+gkarutz@butler.edu,godparent,kiss,kiss,kiss,NOUN,Butler
+gkarutz@butler.edu,godparent,kill,kill,kill,VERB,Butler
+gkarutz@butler.edu,raft,rafting,rafting,raft,NOUN,Butler
+gkarutz@butler.edu,raft,bed to sleep on,bed,bed,NOUN,Butler
+gkarutz@butler.edu,raft,bed to sleep on,sleep,sleep,NOUN,Butler
+gkarutz@butler.edu,raft,rug,rug,rug,NOUN,Butler
+gkarutz@butler.edu,raft,door mat,door,door,NOUN,Butler
+gkarutz@butler.edu,raft,door mat,mat,mat,NOUN,Butler
+gkarutz@butler.edu,raft,wall decor,wall,wall,NOUN,Butler
+gkarutz@butler.edu,raft,wall decor,decor,decor,NOUN,Butler
+gkarutz@butler.edu,goose,cook,cook,cake,VERB,Butler
+gkarutz@butler.edu,goose,eat,eat,eat,VERB,Butler
+gkarutz@butler.edu,goose,pet,pet,pet,NOUN,Butler
+gkarutz@butler.edu,goose,chase,chase,chase,NOUN,Butler
+gkarutz@butler.edu,goose,kill,kill,kill,VERB,Butler
+gkarutz@butler.edu,barley,eat,eat,eat,VERB,Butler
+gkarutz@butler.edu,barley,smush,smoosh,smoosh,INTJ,Butler
+gkarutz@butler.edu,barley,cook/bake,cook,cake,VERB,Butler
+gkarutz@butler.edu,barley,cook/bake,bake,bake,VERB,Butler
+gkarutz@butler.edu,barley,blend,blend,blend,NOUN,Butler
+gkarutz@butler.edu,barley,cut,cut,cut,VERB,Butler
+gkarutz@butler.edu,barley,feed,feed,feed,NOUN,Butler
+gkarutz@butler.edu,tear,collect in jar,collect,collect,NOUN,Butler
+gkarutz@butler.edu,tear,collect in jar,jar,jar,NOUN,Butler
+gkarutz@butler.edu,tear,wipe away,wipe,wipe,INTJ,Butler
+gkarutz@butler.edu,tear,wipe away,away,away,ADV,Butler
+gkarutz@butler.edu,bagpipes,play,play,play,VERB,Butler
+gkarutz@butler.edu,bagpipes,wall decor,wall,wall,NOUN,Butler
+gkarutz@butler.edu,bagpipes,wall decor,decor,decor,NOUN,Butler
+gkarutz@butler.edu,bagpipes,wear,wear,wear,VERB,Butler
+gkarutz@butler.edu,bagpipes,use as weapon,use,use,VERB,Butler
+gkarutz@butler.edu,bagpipes,use as weapon,weapon,weapon,NOUN,Butler
+gkarutz@butler.edu,couch,sleep,sleep,sleep,NOUN,Butler
+gkarutz@butler.edu,couch,sit,sit,sit,VERB,Butler
+gkarutz@butler.edu,couch,for socialization,socialization,socialization,NOUN,Butler
+gkarutz@butler.edu,toe,walk,walk,walk,VERB,Butler
+gkarutz@butler.edu,toe,run,run,run,NOUN,Butler
+gkarutz@butler.edu,lantern,light,light,light,NOUN,Butler
+gkarutz@butler.edu,lantern,decor,decor,decor,NOUN,Butler
+gkarutz@butler.edu,lantern,break,break,break,NOUN,Butler
+gkarutz@butler.edu,lantern,guide,guide,guide,NOUN,Butler
+gkarutz@butler.edu,steak,eat,eat,eat,VERB,Butler
+gkarutz@butler.edu,steak,feed,feed,feed,NOUN,Butler
+gkarutz@butler.edu,steak,cook,cook,cake,VERB,Butler
+gkarutz@butler.edu,steak,bake,bake,bake,VERB,Butler
+gkarutz@butler.edu,letterbox,send,send,send,VERB,Butler
+gkarutz@butler.edu,letterbox,receive,receive,receive,VERB,Butler
+gkarutz@butler.edu,letterbox,contact,contact,contact,NOUN,Butler
+gkarutz@butler.edu,letterbox,collect,collect,collect,NOUN,Butler
+gkarutz@butler.edu,goggles,see,see,see,VERB,Butler
+gkarutz@butler.edu,goggles,protection,protection,protection,NOUN,Butler
+gkarutz@butler.edu,goggles,fashion,fashion,fashion,NOUN,Butler
+gkarutz@butler.edu,goggles,confidence,confidence,confidence,NOUN,Butler
+gkarutz@butler.edu,lubrication,safety,safety,safety,NOUN,Butler
+gkarutz@butler.edu,lubrication,sex,sex,sex,NOUN,Butler
+gkarutz@butler.edu,lubrication,to feel comfortable,feel,feel,VERB,Butler
+gkarutz@butler.edu,lubrication,to feel comfortable,comfortable,comfortable,ADJ,Butler
+gkarutz@butler.edu,lubrication,running,running,run,VERB,Butler
+gkarutz@butler.edu,lubrication,cleaning,cleaning,cleaning,NOUN,Butler
+gkarutz@butler.edu,saltwater,fish tank,fish,fish,NOUN,Butler
+gkarutz@butler.edu,saltwater,fish tank,tank,tank,NOUN,Butler
+gkarutz@butler.edu,saltwater,pond,pond,pond,NOUN,Butler
+gkarutz@butler.edu,saltwater,drink,drink,drink,NOUN,Butler
+gkarutz@butler.edu,saltwater,clean,clean,clean,ADJ,Butler
+gkarutz@butler.edu,woodcutter,making toy,making,make,NOUN,Butler
+gkarutz@butler.edu,woodcutter,making toy,toy,toy,NOUN,Butler
+gkarutz@butler.edu,woodcutter,craft,craft,craft,NOUN,Butler
+gkarutz@butler.edu,woodcutter,weapon,weapon,weapon,NOUN,Butler
+gkarutz@butler.edu,switchblade,kill,kill,kill,VERB,Butler
+gkarutz@butler.edu,switchblade,cut,cut,cut,VERB,Butler
+gkarutz@butler.edu,switchblade,destroy,destroy,destroy,VERB,Butler
+gkarutz@butler.edu,switchblade,threaten,threaten,threaten,NOUN,Butler
+gkarutz@butler.edu,tray,carry,carry,carry,VERB,Butler
+gkarutz@butler.edu,tray,transport,transport,transport,NOUN,Butler
+gkarutz@butler.edu,tray,move,move,move,VERB,Butler
+gkarutz@butler.edu,tray,eat,eat,eat,VERB,Butler
+gkarutz@butler.edu,cage,transport,transport,transport,NOUN,Butler
+gkarutz@butler.edu,cage,examine,examine,examine,NOUN,Butler
+gkarutz@butler.edu,cage,hold,hold,hold,INTJ,Butler
+gkarutz@butler.edu,treadmill,run,run,run,NOUN,Butler
+gkarutz@butler.edu,treadmill,walk,walk,walk,VERB,Butler
+gkarutz@butler.edu,treadmill,challenge,challenge,challenge,NOUN,Butler
+gkarutz@butler.edu,treadmill,room decor,room,room,NOUN,Butler
+gkarutz@butler.edu,treadmill,room decor,decor,decor,NOUN,Butler
+gkarutz@butler.edu,kitchen,cook,cook,cake,VERB,Butler
+gkarutz@butler.edu,kitchen,clean,clean,clean,ADJ,Butler
+gkarutz@butler.edu,kitchen,party,party,party,NOUN,Butler
+gkarutz@butler.edu,yardstick,measure,measure,measure,NOUN,Butler
+gkarutz@butler.edu,yardstick,design,design,design,NOUN,Butler
+gkarutz@butler.edu,yardstick,build,build,build,NOUN,Butler
+gkarutz@butler.edu,splinter,puncture,puncture,puncture,NOUN,Butler
+gkarutz@butler.edu,splinter,weapon,weapon,weapon,NOUN,Butler
+gkarutz@butler.edu,splinter,protect,protect,protect,VERB,Butler
+gkarutz@butler.edu,backpack,fashion,fashion,fashion,NOUN,Butler
+gkarutz@butler.edu,backpack,transportation,transportation,transportation,NOUN,Butler
+gkarutz@butler.edu,backpack,schoolwork,schoolwork,schoolwork,NOUN,Butler
+gkarutz@butler.edu,backpack,container,container,container,NOUN,Butler
+gkarutz@butler.edu,cookie,eat,eat,eat,VERB,Butler
+gkarutz@butler.edu,cookie,gift,gift,gift,NOUN,Butler
+gkarutz@butler.edu,cookie,share,share,share,NOUN,Butler
+gkarutz@butler.edu,cookie,throw away,throw,throw,INTJ,Butler
+gkarutz@butler.edu,cookie,throw away,away,away,ADV,Butler
+kculbertson@butler.edu,oilcloth,wipe,wipe,wipe,INTJ,Butler
+kculbertson@butler.edu,oilcloth,clean,clean,clean,ADJ,Butler
+kculbertson@butler.edu,oilcloth,use,use,use,VERB,Butler
+kculbertson@butler.edu,oilcloth,wash,wash,wash,INTJ,Butler
+kculbertson@butler.edu,oilcloth,tidy,tidy,tidy,INTJ,Butler
+kculbertson@butler.edu,skittle,eat,eat,eat,VERB,Butler
+kculbertson@butler.edu,skittle,give,give,give,VERB,Butler
+kculbertson@butler.edu,skittle,throw,throw,throw,INTJ,Butler
+kculbertson@butler.edu,skittle,play,play,play,VERB,Butler
+kculbertson@butler.edu,skittle,ingest,ingest,ingest,ADJ,Butler
+kculbertson@butler.edu,tambourine,play,play,play,VERB,Butler
+kculbertson@butler.edu,tambourine,hit,hit,hit,VERB,Butler
+kculbertson@butler.edu,tambourine,use,use,use,VERB,Butler
+kculbertson@butler.edu,tambourine,give,give,give,VERB,Butler
+kculbertson@butler.edu,tambourine,smack,smack,smack,ADV,Butler
+kculbertson@butler.edu,jam,eat,eat,eat,VERB,Butler
+kculbertson@butler.edu,jam,play,play,play,VERB,Butler
+kculbertson@butler.edu,jam,spread,spread,spread,NOUN,Butler
+kculbertson@butler.edu,jam,give,give,give,VERB,Butler
+kculbertson@butler.edu,jam,make,make,make,VERB,Butler
+kculbertson@butler.edu,jam,eat,eat,eat,VERB,Butler
+kculbertson@butler.edu,antennae,fix,fix,fix,VERB,Butler
+kculbertson@butler.edu,antennae,move,move,move,VERB,Butler
+kculbertson@butler.edu,antennae,relocate,relocate,relocate,NOUN,Butler
+kculbertson@butler.edu,antennae,adjust,adjust,adjust,VERB,Butler
+kculbertson@butler.edu,antennae,point,point,point,NOUN,Butler
+kculbertson@butler.edu,seedling,plant,plant,plant,NOUN,Butler
+kculbertson@butler.edu,seedling,water,water,water,NOUN,Butler
+kculbertson@butler.edu,seedling,cover,cover,cover,NOUN,Butler
+kculbertson@butler.edu,seedling,spread,spread,spread,NOUN,Butler
+kculbertson@butler.edu,seedling,take care of,take,take,VERB,Butler
+kculbertson@butler.edu,seedling,take care of,care,care,NOUN,Butler
+kculbertson@butler.edu,instructor,use,use,use,VERB,Butler
+kculbertson@butler.edu,instructor,ask,ask,ask,VERB,Butler
+kculbertson@butler.edu,instructor,learn,learn,learn,VERB,Butler
+kculbertson@butler.edu,instructor,help,help,help,VERB,Butler
+kculbertson@butler.edu,instructor,assess,assess,assess,NOUN,Butler
+kculbertson@butler.edu,stepladder,step,step,step,NOUN,Butler
+kculbertson@butler.edu,stepladder,climb,climb,climb,VERB,Butler
+kculbertson@butler.edu,stepladder,jump,jump,jump,VERB,Butler
+kculbertson@butler.edu,stepladder,paint,paint,paint,VERB,Butler
+kculbertson@butler.edu,stepladder,reach,reach,reach,NOUN,Butler
+kculbertson@butler.edu,stepladder,decorate,decorate,decorate,VERB,Butler
+kculbertson@butler.edu,firewood,burn,burn,burn,VERB,Butler
+kculbertson@butler.edu,firewood,place,place,place,NOUN,Butler
+kculbertson@butler.edu,firewood,light,light,light,NOUN,Butler
+kculbertson@butler.edu,firewood,throw,throw,throw,INTJ,Butler
+kculbertson@butler.edu,firewood,heat your house,heat,heat,NOUN,Butler
+kculbertson@butler.edu,firewood,heat your house,house,house,NOUN,Butler
+kculbertson@butler.edu,craftsman,build,build,build,NOUN,Butler
+kculbertson@butler.edu,craftsman,create,create,create,VERB,Butler
+kculbertson@butler.edu,craftsman,ask for instruction,ask,ask,VERB,Butler
+kculbertson@butler.edu,craftsman,ask for instruction,instruction,instruction,NOUN,Butler
+kculbertson@butler.edu,dinner,discuss,discuss,discuss,VERB,Butler
+kculbertson@butler.edu,dinner,eat,eat,eat,VERB,Butler
+kculbertson@butler.edu,dinner,gather,gather,gather,NOUN,Butler
+kculbertson@butler.edu,dinner,commune,commune,commune,NOUN,Butler
+kculbertson@butler.edu,dinner,drink,drink,drink,NOUN,Butler
+kculbertson@butler.edu,pastry,eat,eat,eat,VERB,Butler
+kculbertson@butler.edu,pastry,make,make,make,VERB,Butler
+kculbertson@butler.edu,pastry,consume,consume,consume,NOUN,Butler
+kculbertson@butler.edu,pastry,sell,sell,sell,VERB,Butler
+kculbertson@butler.edu,pastry,give,give,give,VERB,Butler
+kculbertson@butler.edu,neurologist,ask,ask,ask,VERB,Butler
+kculbertson@butler.edu,neurologist,assess,assess,assess,NOUN,Butler
+kculbertson@butler.edu,neurologist,help,help,help,VERB,Butler
+kculbertson@butler.edu,shack,reside in,reside,reside,NOUN,Butler
+kculbertson@butler.edu,shack,store things,store,store,NOUN,Butler
+kculbertson@butler.edu,shack,store things,things,thing,NOUN,Butler
+kculbertson@butler.edu,shack,hang out,hang,hang,VERB,Butler
+kculbertson@butler.edu,sedan,drive,drive,drive,VERB,Butler
+kculbertson@butler.edu,sedan,get from one place to another,get,get,VERB,Butler
+kculbertson@butler.edu,sedan,get from one place to another,one,one,NUM,Butler
+kculbertson@butler.edu,sedan,get from one place to another,place,place,NOUN,Butler
+kculbertson@butler.edu,sedan,get from one place to another,another,another,DET,Butler
+kculbertson@butler.edu,sedan,parts,parts,part,NOUN,Butler
+kculbertson@butler.edu,poinsettia,give,give,give,VERB,Butler
+kculbertson@butler.edu,poinsettia,plant,plant,plant,NOUN,Butler
+kculbertson@butler.edu,poinsettia,decorate,decorate,decorate,VERB,Butler
+kculbertson@butler.edu,rodent,train,train,train,NOUN,Butler
+kculbertson@butler.edu,rodent,experiment,experiment,experiment,NOUN,Butler
+kculbertson@butler.edu,rodent,get rid of,get,get,VERB,Butler
+kculbertson@butler.edu,rodent,get rid of,rid,rid,ADJ,Butler
+kculbertson@butler.edu,theatergoer,hang out,hang,hang,VERB,Butler
+kculbertson@butler.edu,theatergoer,discuss,discuss,discuss,VERB,Butler
+kculbertson@butler.edu,sketchbook,draw,draw,dree,VERB,Butler
+kculbertson@butler.edu,sketchbook,sketch,sketch,sketch,NOUN,Butler
+kculbertson@butler.edu,sketchbook,look,look,look,VERB,Butler
+kculbertson@butler.edu,sketchbook,paint,paint,paint,VERB,Butler
+kculbertson@butler.edu,sketchbook,assess,assess,assess,NOUN,Butler
+kculbertson@butler.edu,sketchbook,give,give,give,VERB,Butler
+kculbertson@butler.edu,gem,make something,make,make,VERB,Butler
+kculbertson@butler.edu,gem,make something,something,something,PRON,Butler
+kculbertson@butler.edu,gem,give,give,give,VERB,Butler
+kculbertson@butler.edu,gem,share,share,share,NOUN,Butler
+kculbertson@butler.edu,gem,hold,hold,hold,INTJ,Butler
+kculbertson@butler.edu,gem,look,look,look,VERB,Butler
+kculbertson@butler.edu,crosswalk,cross,cross,cross,NOUN,Butler
+kculbertson@butler.edu,crosswalk,walk,walk,walk,VERB,Butler
+kculbertson@butler.edu,crosswalk,run,run,run,NOUN,Butler
+kculbertson@butler.edu,crosswalk,skip,skip,skip,VERB,Butler
+kculbertson@butler.edu,crosswalk,not get hit by a car,get,get,VERB,Butler
+kculbertson@butler.edu,crosswalk,not get hit by a car,hit,hit,VERB,Butler
+kculbertson@butler.edu,crosswalk,not get hit by a car,car,car,NOUN,Butler
+kculbertson@butler.edu,buddy,help,help,help,VERB,Butler
+kculbertson@butler.edu,buddy,ask for advice,ask,ask,VERB,Butler
+kculbertson@butler.edu,buddy,ask for advice,advice,advice,NOUN,Butler
+kculbertson@butler.edu,buddy,hang out,hang,hang,VERB,Butler
+kculbertson@butler.edu,cocoa,make,make,make,VERB,Butler
+kculbertson@butler.edu,cocoa,use,use,use,VERB,Butler
+kculbertson@butler.edu,cocoa,cook,cook,cake,VERB,Butler
+kculbertson@butler.edu,cocoa,bake,bake,bake,VERB,Butler
+kculbertson@butler.edu,garage,store,store,store,NOUN,Butler
+kculbertson@butler.edu,garage,store car,store,store,NOUN,Butler
+kculbertson@butler.edu,garage,store car,car,car,NOUN,Butler
+kculbertson@butler.edu,garage,clean,clean,clean,ADJ,Butler
+kculbertson@butler.edu,novel,read,read,read,VERB,Butler
+kculbertson@butler.edu,novel,assess,assess,assess,NOUN,Butler
+kculbertson@butler.edu,novel,discuss,discuss,discuss,VERB,Butler
+kculbertson@butler.edu,novel,sell,sell,sell,VERB,Butler
+kculbertson@butler.edu,novel,write,write,write,X,Butler
+kculbertson@butler.edu,flapjack,cook,cook,cake,VERB,Butler
+kculbertson@butler.edu,flapjack,eat,eat,eat,VERB,Butler
+kculbertson@butler.edu,flapjack,flip,flip,flip,VERB,Butler
+kculbertson@butler.edu,flapjack,consume,consume,consume,NOUN,Butler
+kculbertson@butler.edu,flapjack,give,give,give,VERB,Butler
+lczirjak@butler.edu,citrus,eat,eat,eat,VERB,Butler
+lczirjak@butler.edu,citrus,season,season,season,NOUN,Butler
+lczirjak@butler.edu,citrus,squeeeze,squeeze,squeeze,NOUN,Butler
+lczirjak@butler.edu,prisoner,captive,captive,captive,ADJ,Butler
+lczirjak@butler.edu,crepe,eat,eat,eat,VERB,Butler
+lczirjak@butler.edu,crepe,cook,cook,cake,VERB,Butler
+lczirjak@butler.edu,poster,hang,hang,hang,VERB,Butler
+lczirjak@butler.edu,poster,decorate,decorate,decorate,VERB,Butler
+lczirjak@butler.edu,poster,display ,display,display,NOUN,Butler
+lczirjak@butler.edu,mistletoe,hang,hang,hang,VERB,Butler
+lczirjak@butler.edu,mistletoe,smell,smell,smell,INTJ,Butler
+lczirjak@butler.edu,wallet,holder,holder,holder,NOUN,Butler
+lczirjak@butler.edu,snot,clear sinus,clear,clear,ADJ,Butler
+lczirjak@butler.edu,snot,clear sinus,sinus,sinus,X,Butler
+lczirjak@butler.edu,caretaker,take care of people,take,take,VERB,Butler
+lczirjak@butler.edu,caretaker,take care of people,care,care,NOUN,Butler
+lczirjak@butler.edu,caretaker,take care of people,people,people,NOUN,Butler
+lczirjak@butler.edu,merchantman,sell things ,sell,sell,VERB,Butler
+lczirjak@butler.edu,merchantman,sell things ,things,thing,NOUN,Butler
+lczirjak@butler.edu,magazine,advertise,advertise,advertise,NOUN,Butler
+lczirjak@butler.edu,magazine,display,display,display,NOUN,Butler
+lczirjak@butler.edu,magazine,model,model,model,NOUN,Butler
+lczirjak@butler.edu,steelworker,get steel,get,get,VERB,Butler
+lczirjak@butler.edu,steelworker,get steel,steel,steel,NOUN,Butler
+lczirjak@butler.edu,head,hold brain ,hold,hold,INTJ,Butler
+lczirjak@butler.edu,head,hold brain ,brain,brain,NOUN,Butler
+lczirjak@butler.edu,powder,baking,baking,baking,NOUN,Butler
+lczirjak@butler.edu,powder,snow,snow,snow,NOUN,Butler
+lczirjak@butler.edu,weapon,kill,kill,kill,VERB,Butler
+lczirjak@butler.edu,weapon,hurt,hurt,hurt,VERB,Butler
+lczirjak@butler.edu,weapon,defense,defense,defense,NOUN,Butler
+lczirjak@butler.edu,slug,bug,bug,bug,NOUN,Butler
+lczirjak@butler.edu,roast,cooking or baking ,cooking,cook,NOUN,Butler
+lczirjak@butler.edu,roast,cooking or baking ,baking,baking,NOUN,Butler
+lczirjak@butler.edu,sauce,condiment,condiment,condiment,NOUN,Butler
+lczirjak@butler.edu,sauce,season,season,season,NOUN,Butler
+lczirjak@butler.edu,sauce,taste,taste,taste,VERB,Butler
+lczirjak@butler.edu,insect,crawl,crawl,crawl,NOUN,Butler
+lczirjak@butler.edu,insect,eat bugs,eat,eat,VERB,Butler
+lczirjak@butler.edu,insect,eat bugs,bugs,bug,NOUN,Butler
+lczirjak@butler.edu,pal,friend,friend,friend,NOUN,Butler
+lczirjak@butler.edu,lamb,animal on farm,animal,animal,NOUN,Butler
+lczirjak@butler.edu,lamb,animal on farm,farm,farm,NOUN,Butler
+lczirjak@butler.edu,lamb,cook,cook,cake,VERB,Butler
+lczirjak@butler.edu,lamb,eat,eat,eat,VERB,Butler
+lczirjak@butler.edu,tracksuit,wear,wear,wear,VERB,Butler
+lczirjak@butler.edu,mat,set on,set,set,VERB,Butler
+lmagiera@butler.edu,ice,cube,cube,cube,NOUN,Butler
+lmagiera@butler.edu,ice,storm,storm,storm,NOUN,Butler
+lmagiera@butler.edu,ice,ball,ball,ball,NOUN,Butler
+lmagiera@butler.edu,lodge,home,home,home,ADV,Butler
+lmagiera@butler.edu,lodge,sleep,sleep,sleep,NOUN,Butler
+lmagiera@butler.edu,lodge,protect,protect,protect,VERB,Butler
+lmagiera@butler.edu,breadbasket,eat,eat,eat,VERB,Butler
+lmagiera@butler.edu,breadbasket,gift,gift,gift,NOUN,Butler
+lmagiera@butler.edu,breadbasket,serve,serve,serve,VERB,Butler
+lmagiera@butler.edu,breadbasket,feed,feed,feed,NOUN,Butler
+lmagiera@butler.edu,honeydew,eat,eat,eat,VERB,Butler
+lmagiera@butler.edu,honeydew,chop,chop,chop,NOUN,Butler
+lmagiera@butler.edu,honeydew,grow,grow,grow,VERB,Butler
+lmagiera@butler.edu,box,smash,smash,smash,INTJ,Butler
+lmagiera@butler.edu,box,build,build,build,NOUN,Butler
+lmagiera@butler.edu,box,gift,gift,gift,NOUN,Butler
+lmagiera@butler.edu,box,ship,ship,ship,NOUN,Butler
+lmagiera@butler.edu,box,bring,bring,bring,VERB,Butler
+lmagiera@butler.edu,turtleneck,wear,wear,wear,VERB,Butler
+lmagiera@butler.edu,turtleneck,protect,protect,protect,VERB,Butler
+lmagiera@butler.edu,woodcraft,carve,carve,carve,NOUN,Butler
+lmagiera@butler.edu,woodcraft,make new things,make,make,VERB,Butler
+lmagiera@butler.edu,woodcraft,make new things,new,new,ADJ,Butler
+lmagiera@butler.edu,woodcraft,make new things,things,thing,NOUN,Butler
+lmagiera@butler.edu,woodcraft,design,design,design,NOUN,Butler
+lmagiera@butler.edu,woodcraft,gift,gift,gift,NOUN,Butler
+lmagiera@butler.edu,slide,go down,go,go,VERB,Butler
+lmagiera@butler.edu,slide,around,around,around,ADV,Butler
+lmagiera@butler.edu,slide,play ,play,play,VERB,Butler
+lmagiera@butler.edu,journal,write,write,write,X,Butler
+lmagiera@butler.edu,journal,discuss,discuss,discuss,VERB,Butler
+lmagiera@butler.edu,journal,debrief,debrief,debrief,NOUN,Butler
+lmagiera@butler.edu,journal,communicate,communicate,communicate,ADJ,Butler
+lmagiera@butler.edu,auditorium,watch,watch,watch,VERB,Butler
+lmagiera@butler.edu,Shirt,wear,wear,wear,VERB,Butler
+lmagiera@butler.edu,Shirt,protect,protect,protect,VERB,Butler
+lmagiera@butler.edu,Shirt,give,give,give,VERB,Butler
+lmagiera@butler.edu,stapler,hang,hang,hang,VERB,Butler
+lmagiera@butler.edu,stapler,bind,bind,bind,INTJ,Butler
+lmagiera@butler.edu,stapler,connect,connect,connect,NOUN,Butler
+lmagiera@butler.edu,suture,heal,heal,heal,NOUN,Butler
+lmagiera@butler.edu,suture,bind,bind,bind,INTJ,Butler
+lmagiera@butler.edu,suture,protect,protect,protect,VERB,Butler
+lmagiera@butler.edu,pill,take,take,take,VERB,Butler
+lmagiera@butler.edu,pill,dissolve,dissolve,dissolve,NOUN,Butler
+lmagiera@butler.edu,pill,smash,smash,smash,INTJ,Butler
+lmagiera@butler.edu,shovel,dig,dig,dig,X,Butler
+lmagiera@butler.edu,shovel,find,find,find,VERB,Butler
+lmagiera@butler.edu,shaker,disperse,disperse,disperse,NOUN,Butler
+lmagiera@butler.edu,shaker,provide,provide,provide,VERB,Butler
+lmagiera@butler.edu,earplug,tune out,tune,tune,NOUN,Butler
+lmagiera@butler.edu,earplug,ignore,ignore,ignore,NOUN,Butler
+lmagiera@butler.edu,flowerbed,plant,plant,plant,NOUN,Butler
+lmagiera@butler.edu,flowerbed,beautiful,beautiful,beautiful,ADJ,Butler
+lmagiera@butler.edu,flowerbed,grow life,grow,grow,VERB,Butler
+lmagiera@butler.edu,flowerbed,grow life,life,life,NOUN,Butler
+lmagiera@butler.edu,child,retrieve,retrieve,retrieve,VERB,Butler
+lmagiera@butler.edu,child,new,new,new,ADJ,Butler
+lmagiera@butler.edu,crown,on head,head,head,NOUN,Butler
+lmagiera@butler.edu,crown,assert dominance,assert,assert,NOUN,Butler
+lmagiera@butler.edu,crown,assert dominance,dominance,dominance,NOUN,Butler
+lmagiera@butler.edu,prize,gift,gift,gift,NOUN,Butler
+lmagiera@butler.edu,prize,win,win,win,VERB,Butler
+lmagiera@butler.edu,prize,boast,boast,boast,NOUN,Butler
+lmagiera@butler.edu,bucket,fill,fill,fill,NOUN,Butler
+lmagiera@butler.edu,bucket,dump,dump,dump,NOUN,Butler
+lmagiera@butler.edu,bucket,pass,pass,pass,VERB,Butler
+lmagiera@butler.edu,brick,throw,throw,throw,INTJ,Butler
+lmagiera@butler.edu,brick,build,build,build,NOUN,Butler
+lmagiera@butler.edu,brick,design,design,design,NOUN,Butler
+lmagiera@butler.edu,diaper,protect,protect,protect,VERB,Butler
+lmagiera@butler.edu,diaper,hold,hold,hold,INTJ,Butler
+lmagiera@butler.edu,diaper,catch,catch,catch,VERB,Butler
+lmagiera@butler.edu,lasso,catch,catch,catch,VERB,Butler
+lmagiera@butler.edu,lasso,protect,protect,protect,VERB,Butler
+ppbutler@butler.edu,junk,donate,donate,donate,ADJ,Butler
+ppbutler@butler.edu,junk,throw away,throw,throw,INTJ,Butler
+ppbutler@butler.edu,junk,throw away,away,away,ADV,Butler
+ppbutler@butler.edu,junk,store,store,store,NOUN,Butler
+ppbutler@butler.edu,trunk,pack,pack,pack,NOUN,Butler
+ppbutler@butler.edu,trunk,sit on,sit,sit,VERB,Butler
+ppbutler@butler.edu,trunk,lift,lift,lift,VERB,Butler
+ppbutler@butler.edu,diaphragm,collapse,collapse,collapse,NOUN,Butler
+ppbutler@butler.edu,parachute,open,open,open,ADJ,Butler
+ppbutler@butler.edu,parachute,pack,pack,pack,NOUN,Butler
+ppbutler@butler.edu,parachute,attach,attach,attach,VERB,Butler
+ppbutler@butler.edu,rosebush,pick,pick,pick,VERB,Butler
+ppbutler@butler.edu,rosebush,admire,admire,admire,NOUN,Butler
+ppbutler@butler.edu,rosebush,garden,garden,garden,NOUN,Butler
+ppbutler@butler.edu,nightstick,hit,hit,hit,VERB,Butler
+ppbutler@butler.edu,nightstick,throw,throw,throw,INTJ,Butler
+ppbutler@butler.edu,nightstick,wield,wield,wield,NOUN,Butler
+ppbutler@butler.edu,nightstick,hold,hold,hold,INTJ,Butler
+ppbutler@butler.edu,drone,fly,fly,fly,VERB,Butler
+ppbutler@butler.edu,drone,drive,drive,drive,VERB,Butler
+ppbutler@butler.edu,drone,operate,operate,operate,NOUN,Butler
+ppbutler@butler.edu,drone,spy,spy,spy,NOUN,Butler
+ppbutler@butler.edu,dress,wear,wear,wear,VERB,Butler
+ppbutler@butler.edu,dress,gift,gift,gift,NOUN,Butler
+ppbutler@butler.edu,dress,wash,wash,wash,INTJ,Butler
+ppbutler@butler.edu,dress,iron,iron,iron,ADJ,Butler
+ppbutler@butler.edu,dress,fold,fold,fold,VERB,Butler
+ppbutler@butler.edu,mountainside,hike,hike,hike,INTJ,Butler
+ppbutler@butler.edu,mountainside,climb,climb,climb,VERB,Butler
+ppbutler@butler.edu,mountainside,camp,camp,camp,NOUN,Butler
+ppbutler@butler.edu,mountainside,view,view,view,NOUN,Butler
+ppbutler@butler.edu,mountainside,admire,admire,admire,NOUN,Butler
+ppbutler@butler.edu,mountainside,explore,explore,explore,VERB,Butler
+ppbutler@butler.edu,beach,swim,swim,swim,NOUN,Butler
+ppbutler@butler.edu,beach,run,run,run,NOUN,Butler
+ppbutler@butler.edu,beach,walk,walk,walk,VERB,Butler
+ppbutler@butler.edu,beach,bike,bike,bike,NOUN,Butler
+ppbutler@butler.edu,beach,lounge,lounge,lounge,NOUN,Butler
+ppbutler@butler.edu,shed,store,store,store,NOUN,Butler
+ppbutler@butler.edu,shed,build,build,build,NOUN,Butler
+ppbutler@butler.edu,shed,clean,clean,clean,ADJ,Butler
+ppbutler@butler.edu,shed,open,open,open,ADJ,Butler
+ppbutler@butler.edu,boat,boat,boat,boat,NOUN,Butler
+ppbutler@butler.edu,boat,swim,swim,swim,NOUN,Butler
+ppbutler@butler.edu,boat,lounge,lounge,lounge,NOUN,Butler
+ppbutler@butler.edu,boat,relax,relax,relax,NOUN,Butler
+ppbutler@butler.edu,boat,enjoy,enjoy,enjoy,VERB,Butler
+ppbutler@butler.edu,boat,nap,nap,nap,NOUN,Butler
+ppbutler@butler.edu,boat,lunch,lunch,lunch,NOUN,Butler
+ppbutler@butler.edu,buckwheat,eat,eat,eat,VERB,Butler
+ppbutler@butler.edu,wigmaker,pay,pay,pay,VERB,Butler
+ppbutler@butler.edu,peephole,look through,look,look,VERB,Butler
+ppbutler@butler.edu,peephole,view,view,view,NOUN,Butler
+ppbutler@butler.edu,peephole,spy,spy,spy,NOUN,Butler
+ppbutler@butler.edu,needlepoint,poke,poke,poke,INTJ,Butler
+ppbutler@butler.edu,needlepoint,hurt,hurt,hurt,VERB,Butler
+ppbutler@butler.edu,needlepoint,stitch,stitch,stitch,NOUN,Butler
+ppbutler@butler.edu,needlepoint,sew,sew,sew,NOUN,Butler
+ppbutler@butler.edu,rabbit,hunt,hunt,hunt,NOUN,Butler
+ppbutler@butler.edu,rabbit,eat,eat,eat,VERB,Butler
+ppbutler@butler.edu,rabbit,chase,chase,chase,NOUN,Butler
+ppbutler@butler.edu,rabbit,catch,catch,catch,VERB,Butler
+ppbutler@butler.edu,rabbit,play with,play,play,VERB,Butler
+ppbutler@butler.edu,rabbit,feed,feed,feed,NOUN,Butler
+ppbutler@butler.edu,artist,pay,pay,pay,VERB,Butler
+ppbutler@butler.edu,artist,commission,commission,commission,NOUN,Butler
+ppbutler@butler.edu,artist,admire,admire,admire,NOUN,Butler
+ppbutler@butler.edu,artist,appreciate,appreciate,appreciate,NOUN,Butler
+ppbutler@butler.edu,stockbroker,commission,commission,commission,NOUN,Butler
+ppbutler@butler.edu,stockbroker,trade,trade,trade,NOUN,Butler
+ppbutler@butler.edu,stockbroker,call,call,call,NOUN,Butler
+ppbutler@butler.edu,stockbroker,email,email,email,NOUN,Butler
+ppbutler@butler.edu,carport,park,park,park,NOUN,Butler
+ppbutler@butler.edu,carport,hide underneath,hide,hide,NOUN,Butler
+ppbutler@butler.edu,carport,hide underneath,underneath,underneath,ADV,Butler
+ppbutler@butler.edu,carport,shelter,shelter,shelter,NOUN,Butler
+ppbutler@butler.edu,carport,store,store,store,NOUN,Butler
+ppbutler@butler.edu,shield,protect,protect,protect,VERB,Butler
+ppbutler@butler.edu,shield,wield,wield,wield,NOUN,Butler
+ppbutler@butler.edu,shield,guard,guard,guard,NOUN,Butler
+ppbutler@butler.edu,stool,sit on,sit,sit,VERB,Butler
+ppbutler@butler.edu,stool,spin around,spin,spin,NOUN,Butler
+ppbutler@butler.edu,stool,spin around,around,around,ADV,Butler
+ppbutler@butler.edu,stool,move,move,move,VERB,Butler
+ppbutler@butler.edu,seawater,drink,drink,drink,NOUN,Butler
+ppbutler@butler.edu,seawater,swim,swim,swim,NOUN,Butler
+ppbutler@butler.edu,seawater,fish,fish,fish,NOUN,Butler
+ppbutler@butler.edu,pumpernickel,bake,bake,bake,VERB,Butler
+ppbutler@butler.edu,pumpernickel,eat,eat,eat,VERB,Butler
+ppbutler@butler.edu,pumpernickel,toss out,toss,toss,NOUN,Butler
+ppbutler@butler.edu,boomerang,throw,throw,throw,INTJ,Butler
+ppbutler@butler.edu,boomerang,catch,catch,catch,VERB,Butler
+ppbutler@butler.edu,boomerang,drop,drop,drop,VERB,Butler
+ppbutler@butler.edu,puddle,splash in,splash,splash,NOUN,Butler
+ppbutler@butler.edu,puddle,jump in,jump,jump,VERB,Butler
+ppbutler@butler.edu,puddle,jump over,jump,jump,VERB,Butler
+ppbutler@butler.edu,puddle,walk around,walk,walk,VERB,Butler
+ppbutler@butler.edu,puddle,walk around,around,around,ADV,Butler
+ppbutler@butler.edu,puddle,enjoy,enjoy,enjoy,VERB,Butler
+ppbutler@butler.edu,tutor,pay,pay,pay,VERB,Butler
+ppbutler@butler.edu,tutor,talk to,talk,talk,VERB,Butler
+ppbutler@butler.edu,tutor,question,question,question,NOUN,Butler
+ppbutler@butler.edu,tutor,learn from,learn,learn,VERB,Butler
+ppbutler@butler.edu,clam,eat,eat,eat,VERB,Butler
+ppbutler@butler.edu,clam,prepare,prepare,prepare,VERB,Butler
+ppbutler@butler.edu,clam,hunt for,hunt,hunt,NOUN,Butler
+ppbutler@butler.edu,clam,catch,catch,catch,VERB,Butler
+ppbutler@butler.edu,clam,open,open,open,ADJ,Butler
+ppbutler@butler.edu,clam,break,break,break,NOUN,Butler
+ppbutler@butler.edu,television,watch,watch,watch,VERB,Butler
+ppbutler@butler.edu,television,turn on,turn,turn,VERB,Butler
+ppbutler@butler.edu,television,turn off,turn,turn,VERB,Butler
+ppbutler@butler.edu,television,record,record,record,NOUN,Butler
+ppbutler@butler.edu,television,enjoy,enjoy,enjoy,VERB,Butler
+ppbutler@butler.edu,television,avoid,avoid,avoid,VERB,Butler

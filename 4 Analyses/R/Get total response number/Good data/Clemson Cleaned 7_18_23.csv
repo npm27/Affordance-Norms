@@ -1,0 +1,445 @@
+Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
+ClairePigeon,pole,dance,dance,dance,VERB,Clemson
+ClairePigeon,pole,hang,hang,hang,VERB,Clemson
+ClairePigeon,pole,drill,drill,drill,VERB,Clemson
+ClairePigeon,policewoman,arrest,arrest,arrest,VERB,Clemson
+ClairePigeon,policewoman,check,check,check,VERB,Clemson
+ClairePigeon,policewoman,protect,protect,protect,VERB,Clemson
+ClairePigeon,policewoman,testify,testify,testify,VERB,Clemson
+ClairePigeon,policewoman,kill,kill,kill,VERB,Clemson
+ClairePigeon,paintbox,draw,draw,draw,VERB,Clemson
+ClairePigeon,paintbox,create,create,create,VERB,Clemson
+ClairePigeon,paintbox,mix,mix,mix,VERB,Clemson
+ClairePigeon,lake,swim,swim,swim,VERB,Clemson
+ClairePigeon,lake,tube,tube,tube,VERB,Clemson
+ClairePigeon,lake,ski,ski,ski,VERB,Clemson
+ClairePigeon,lake,fish,fish,fish,VERB,Clemson
+ClairePigeon,cocaine,snort,snort,snort,VERB,Clemson
+ClairePigeon,cocaine,ingest,ingest,ingest,VERB,Clemson
+ClairePigeon,cocaine,smoke,smoke,smoke,VERB,Clemson
+ClairePigeon,bayonet,stab,stab,stab,VERB,Clemson
+ClairePigeon,bayonet,kill,kill,kill,VERB,Clemson
+ClairePigeon,bayonet,defend,defend,defense,VERB,Clemson
+ClairePigeon,rupee,pay,pay,pay,VERB,Clemson
+ClairePigeon,rupee,invest,invest,invest,VERB,Clemson
+ClairePigeon,rupee,trade,trade,trade,VERB,Clemson
+ClairePigeon,apprentice,follow,follow,follow,VERB,Clemson
+ClairePigeon,apprentice,learn,learn,learn,VERB,Clemson
+ClairePigeon,apprentice,train,train,train,VERB,Clemson
+ClairePigeon,checklist,check off,check,check,VERB,Clemson
+ClairePigeon,checklist,complete,complete,complete,VERB,Clemson
+ClairePigeon,checklist,finish,finish,finish,VERB,Clemson
+ClairePigeon,checklist,create,create,create,VERB,Clemson
+ClairePigeon,raindrop,fall,fall,fall,VERB,Clemson
+ClairePigeon,raindrop,precipitate,precipitate,precipitate,VERB,Clemson
+ClairePigeon,raindrop,replenish,replenish,replenish,VERB,Clemson
+ClairePigeon,raindrop,fill,fill,fill,VERB,Clemson
+ClairePigeon,genital,procreate,procreate,procreate,VERB,Clemson
+ClairePigeon,collar,design,design,design,VERB,Clemson
+ClairePigeon,collar,wear,wear,wear,VERB,Clemson
+ClairePigeon,collar,sell,sell,sell,VERB,Clemson
+ClairePigeon,linen,sew,sew,sew,VERB,Clemson
+ClairePigeon,linen,decorate,decorate,decorate,VERB,Clemson
+ClairePigeon,linen,sleep,sleep,sleep,VERB,Clemson
+ClairePigeon,linen,wear,wear,wear,VERB,Clemson
+ClairePigeon,mutton,eat,eat,eat,VERB,Clemson
+ClairePigeon,mutton,cook,cook,cook,VERB,Clemson
+ClairePigeon,mutton,consume,consume,consume,NOUN,Clemson
+ClairePigeon,mutton,digest,digest,digest,VERB,Clemson
+ClairePigeon,coal,burn,burn,burn,VERB,Clemson
+ClairePigeon,coal,mine,mine,mine,VERB,Clemson
+ClairePigeon,coal,clean,clean,clean,VERB,Clemson
+ClairePigeon,note,write,write,write,VERB,Clemson
+ClairePigeon,note,send,send,send,VERB,Clemson
+ClairePigeon,note,receive,receive,receive,VERB,Clemson
+ClairePigeon,note,remind,remind,remind,VERB,Clemson
+ClairePigeon,satin,wear,wear,wear,VERB,Clemson
+ClairePigeon,satin,buy,buy,buy,VERB,Clemson
+ClairePigeon,satin,sleep,sleep,sleep,NOUN,Clemson
+ClairePigeon,satin,design,design,design,NOUN,Clemson
+ClairePigeon,spatula,serve,serve,serve,VERB,Clemson
+ClairePigeon,spatula,flip,flip,flip,VERB,Clemson
+ClairePigeon,spatula,separate,separate,separate,VERB,Clemson
+ClairePigeon,soap,clean,clean,clean,VERB,Clemson
+ClairePigeon,soap,wash,wash,wash,INTJ,Clemson
+ClairePigeon,soap,rinse,rinse,rinse,VERB,Clemson
+ClairePigeon,jean,wear,wear,wear,VERB,Clemson
+ClairePigeon,jean,sell,sell,sell,VERB,Clemson
+ClairePigeon,jean,washed,washed,wash,VERB,Clemson
+ClairePigeon,nickel,sell,sell,sell,VERB,Clemson
+ClairePigeon,nickel,trade,trade,trade,VERB,Clemson
+ClairePigeon,nickel,invest,invest,invest,VERB,Clemson
+ClairePigeon,stoop,sit,sit,sit,VERB,Clemson
+ClairePigeon,stoop,stand,stand,stand,VERB,Clemson
+ClairePigeon,stoop,decorate,decorate,decorate,VERB,Clemson
+ClairePigeon,stoop,walk,walk,walk,VERB,Clemson
+ClairePigeon,easel,paint,paint,paint,VERB,Clemson
+ClairePigeon,easel,create,create,create,VERB,Clemson
+ClairePigeon,easel,hold,hold,hold,VERB,Clemson
+ClairePigeon,easel,prop,prop,prop,VERB,Clemson
+ClairePigeon,sardine,eat,eat,eat,VERB,Clemson
+ClairePigeon,sardine,digest,digest,digest,VERB,Clemson
+ClairePigeon,sardine,cook,cook,cook,VERB,Clemson
+ClairePigeon,paraphernalia,decorate,decorate,decorate,VERB,Clemson
+ClairePigeon,paraphernalia,sell,sell,sell,VERB,Clemson
+ClairePigeon,paraphernalia,trade,trade,trade,VERB,Clemson
+ClairePigeon,paraphernalia,keep,keep,keep,VERB,Clemson
+ClairePigeon,lip,bite,bite,bite,VERB,Clemson
+ClairePigeon,lip,chew,chew,chew,VERB,Clemson
+ClairePigeon,lip,kiss,kiss,kiss,VERB,Clemson
+ClairePigeon,mortician,keep,keep,keep,VERB,Clemson
+ClairePigeon,mortician,care for,care,care,VERB,Clemson
+ClairePigeon,mortician,investigate,investigate,investigate,VERB,Clemson
+ClairePigeon,thigh,touch,touch,touch,VERB,Clemson
+ClairePigeon,thigh,stretch,stretch,stretch,VERB,Clemson
+ClairePigeon,thigh,work out,work,workout,VERB,Clemson
+ClairePigeon,scientist,create,create,create,VERB,Clemson
+ClairePigeon,scientist,invent,invent,invent,VERB,Clemson
+ClairePigeon,scientist,research,research,research,VERB,Clemson
+ClairePigeon,scientist,experiment,experiment,experiment,VERB,Clemson
+ClairePigeon,cellar,store,store,store,VERB,Clemson
+ClairePigeon,cellar,hide,hide,hide,VERB,Clemson
+MaryKahler,bellboy,ring the bell,ring,ring,VERB,Clemson
+MaryKahler,bellboy,ring the bell,bell,bell,INTJ,Clemson
+MaryKahler,bellboy,alert,alert,alert,VERB,Clemson
+MaryKahler,bellboy,acknowledge,acknowledge,acknowledge,VERB,Clemson
+MaryKahler,inventor,create,create,create,VERB,Clemson
+MaryKahler,inventor,make,make,make,VERB,Clemson
+MaryKahler,inventor,inspire,inspire,inspire,VERB,Clemson
+MaryKahler,chimpanzee,monkey,monkey,monkey,NOUN,Clemson
+MaryKahler,chimpanzee,play,play,play,VERB,Clemson
+MaryKahler,chimpanzee,eat,eat,eat,VERB,Clemson
+MaryKahler,croissant,eat,eat,eat,VERB,Clemson
+MaryKahler,croissant,throw,throw,throw,VERB,Clemson
+MaryKahler,cosmetician,do make up ,make,makeup,NOUN,Clemson
+MaryKahler,packaging,to send,send,send,VERB,Clemson
+MaryKahler,packaging,mail,mail,mail,VERB,Clemson
+MaryKahler,packaging,protect,protect,protect,VERB,Clemson
+MaryKahler,croquet,to knit,knit,knit,VERB,Clemson
+MaryKahler,croquet,keep warm,keep,keep,VERB,Clemson
+MaryKahler,croquet,keep warm,warm,warm,VERB,Clemson
+MaryKahler,croquet,entertain ,entertain,entertain,VERB,Clemson
+MaryKahler,adapter,power source,power,power,VERB,Clemson
+MaryKahler,adapter,power source,source,source,NOUN,Clemson
+MaryKahler,adapter,charger,charger,charge,VERB,Clemson
+MaryKahler,adapter,someone who is able to change,someone,someone,PRON,Clemson
+MaryKahler,adapter,someone who is able to change,able,able,ADJ,Clemson
+MaryKahler,adapter,someone who is able to change,change,change,NOUN,Clemson
+MaryKahler,armor,to protect,protect,protect,VERB,Clemson
+MaryKahler,armor,to wear,wear,wear,VERB,Clemson
+MaryKahler,guard,protect,protect,protect,VERB,Clemson
+MaryKahler,guard,keep safe,keep,keep,AUX,Clemson
+MaryKahler,guard,keep safe,safe,safety,VERB,Clemson
+MaryKahler,guard,a person who stands out ,person,person,NOUN,Clemson
+MaryKahler,guard,a person who stands out ,stands,stand,VERB,Clemson
+MaryKahler,boy,to play,play,play,VERB,Clemson
+MaryKahler,boy,protect,protect,protect,VERB,Clemson
+MaryKahler,boy,eat,eat,eat,VERB,Clemson
+MaryKahler,boy,hang out,hang,hang out,VERB,Clemson
+MaryKahler,boy,work,work,work,VERB,Clemson
+MaryKahler,capacitor,breathing ,breathing,breathe,VERB,Clemson
+MaryKahler,sweater,to wear,wear,wear,VERB,Clemson
+MaryKahler,sweater,to keep warm,keep,keep,AUX,Clemson
+MaryKahler,sweater,to keep warm,warm,warm,VERB,Clemson
+MaryKahler,sweater,knit,knit,knit,VERB,Clemson
+MaryKahler,espresso,to drink,drink,drink,VERB,Clemson
+MaryKahler,espresso,make coffee,make,make,AUX,Clemson
+MaryKahler,espresso,make coffee,coffee,coffee,NOUN,Clemson
+MaryKahler,espresso,keep awake,keep,keep,AUX,Clemson
+MaryKahler,espresso,keep awake,awake,wake,VERB,Clemson
+MaryKahler,dishwasher,to clean your dishes ,clean,clean,VERB,Clemson
+MaryKahler,dishwasher,to clean your dishes ,dishes,dish,NOUN,Clemson
+MaryKahler,upholstery,to sit on,sit,sit,VERB,Clemson
+MaryKahler,upholstery,to furnish,furnish,furnish,VERB,Clemson
+MaryKahler,upholstery,to look nice ,look,look,AUX,Clemson
+MaryKahler,upholstery,to look nice ,nice,nice,ADJ,Clemson
+MaryKahler,appetizer,to eat,eat,eat,VERB,Clemson
+MaryKahler,appetizer,to start the meal ,start,start,AUX,Clemson
+MaryKahler,appetizer,to start the meal ,meal,meal,NOUN,Clemson
+MaryKahler,basin,to wash,wash,wash,INTJ,Clemson
+MaryKahler,basin,to put things in,put,put,AUX,Clemson
+MaryKahler,basin,to put things in,things,thing,NOUN,Clemson
+MaryKahler,basin,to hold,hold,hold,VERB,Clemson
+MaryKahler,girlfriend,to have fun with,fun,fun,VERB,Clemson
+MaryKahler,girlfriend,to date,date,date,VERB,Clemson
+MaryKahler,girlfriend,to kiss,kiss,kiss,VERB,Clemson
+MaryKahler,tenderloin,to eat a piece of meat ,eat,eat,VERB,Clemson
+MaryKahler,tenderloin,to eat a piece of meat ,piece,piece,NOUN,Clemson
+MaryKahler,tenderloin,to eat a piece of meat ,meat,meat,NOUN,Clemson
+MaryKahler,Elevator,to go up or down,go,go,AUX,Clemson
+MaryKahler,Elevator,to move ,move,move,VERB,Clemson
+MaryKahler,skewer,to stab,stab,stab,VERB,Clemson
+MaryKahler,skewer,to hold something,hold,hold,VERB,Clemson
+MaryKahler,skewer,to hold something,something,something,PRON,Clemson
+MaryKahler,orphan,to love,love,love,VERB,Clemson
+MaryKahler,orphan,to adpot,adopt,adopt,VERB,Clemson
+MaryKahler,orphan,to bring,bring,bring,VERB,Clemson
+MaryKahler,breastplate,to protect,protect,protect,VERB,Clemson
+MaryKahler,breastplate,to wear,wear,wear,VERB,Clemson
+MaryKahler,eyeball,to see,see,see,VERB,Clemson
+MaryKahler,coupon,to get money off,get,get,AUX,Clemson
+MaryKahler,coupon,to get money off,money,money,NOUN,Clemson
+MaryKahler,coupon,to save money,save,save,VERB,Clemson
+MaryKahler,coupon,to save money,money,money,NOUN,Clemson
+MaryKahler,coupon,to cut out ,cut,cut,VERB,Clemson
+MaryKahler,programmer,to code,code,code,VERB,Clemson
+MaryKahler,programmer,to make something,make,make,AUX,Clemson
+MaryKahler,programmer,to make something,something,something,PRON,Clemson
+MaryKahler,programmer,computers,computers,computers,NOUN,Clemson
+MaryKahler,thread,to sow,sow,sew,VERB,Clemson
+MaryKahler,thread,to keep together,keep,keep,AUX,Clemson
+MaryKahler,thread,to keep together,together,together,ADV,Clemson
+MaryKahler,thread,to use in clothes,use,use,AUX,Clemson
+MaryKahler,thread,to use in clothes,clothes,clothes,NOUN,Clemson
+MaryKahler,leopard,to hunt,hunt,hunt,VERB,Clemson
+MaryKahler,leopard,to kill,kill,kill,VERB,Clemson
+MaryKahler,leopard,to eat ,eat,eat,VERB,Clemson
+MaryKahler,semen,to fertilize ,fertilize,fertilize,VERB,Clemson
+MatthewPitts,steak,eat,eat,eat,VERB,Clemson
+MatthewPitts,steak,cook,cook,cook,VERB,Clemson
+MatthewPitts,steak,feed animals,feed,feed,NOUN,Clemson
+MatthewPitts,steak,feed animals,animals,animal,NOUN,Clemson
+MatthewPitts,steak,ice pack,ice,ice pack,NOUN,Clemson
+MatthewPitts,woodcutter,make fire wood,make,make,AUX,Clemson
+MatthewPitts,woodcutter,make fire wood,fire,fire,VERB,Clemson
+MatthewPitts,woodcutter,make fire wood,wood,wood,NOUN,Clemson
+MatthewPitts,woodcutter,cut branches,cut,cut,VERB,Clemson
+MatthewPitts,woodcutter,cut branches,branches,branch,NOUN,Clemson
+MatthewPitts,woodcutter,make mulch,make,make,AUX,Clemson
+MatthewPitts,woodcutter,make mulch,mulch,mulch,VERB,Clemson
+MatthewPitts,woodcutter,cut trees,cut,cut,VERB,Clemson
+MatthewPitts,woodcutter,cut trees,trees,tree,NOUN,Clemson
+MatthewPitts,silkworm,clothes,clothes,clothes,NOUN,Clemson
+MatthewPitts,silkworm,make silk,make,make,AUX,Clemson
+MatthewPitts,silkworm,make silk,silk,silk,VERB,Clemson
+MatthewPitts,goose,eat,eat,eat,VERB,Clemson
+MatthewPitts,goose,shoot,shoot,shoot,VERB,Clemson
+MatthewPitts,goose,feed,feed,feed,VERB,Clemson
+MatthewPitts,goose,play with,play,play,VERB,Clemson
+MatthewPitts,goose,hold,hold,hold,INTJ,Clemson
+MatthewPitts,goose,kick a goose,kick,kick,VERB,Clemson
+MatthewPitts,goose,kick a goose,goose,goose,VERB,Clemson
+MatthewPitts,raft,float,float,float,VERB,Clemson
+MatthewPitts,lubrication,sex,sex,sex,VERB,Clemson
+MatthewPitts,lubrication,slip and slide,slip,slip,VERB,Clemson
+MatthewPitts,lubrication,slip and slide,slide,slide,VERB,Clemson
+MatthewPitts,lubrication,remove things that are stuck,remove,remove,VERB,Clemson
+MatthewPitts,lubrication,remove things that are stuck,things,thing,NOUN,Clemson
+MatthewPitts,lubrication,remove things that are stuck,stuck,stuck,ADJ,Clemson
+MatthewPitts,lubrication,reduce friction,reduce,reduce,VERB,Clemson
+MatthewPitts,lubrication,reduce friction,friction,friction,NOUN,Clemson
+MatthewPitts,treadmill,run on,run,run,VERB,Clemson
+MatthewPitts,splinter,throw out,throw,throw away,VERB,Clemson
+MatthewPitts,splinter,pick out of hand,pick,pick,VERB,Clemson
+MatthewPitts,splinter,pick out of hand,hand,hand,NOUN,Clemson
+MatthewPitts,vulva,sex,sex,sex,VERB,Clemson
+MatthewPitts,toe,walk,walk,walk,VERB,Clemson
+MatthewPitts,toe,stand,stand,stand,VERB,Clemson
+MatthewPitts,toe,run,run,run,VERB,Clemson
+MatthewPitts,toe,play sports,play,play,VERB,Clemson
+MatthewPitts,toe,play sports,sports,sport,NOUN,Clemson
+MatthewPitts,toe,balance on,balance,balance,VERB,Clemson
+MatthewPitts,plaster,fix walls,fix,fix,VERB,Clemson
+MatthewPitts,plaster,fix walls,walls,wall,NOUN,Clemson
+MatthewPitts,plaster,build structures,build,build,VERB,Clemson
+MatthewPitts,plaster,build structures,structures,structure,NOUN,Clemson
+MatthewPitts,plaster,art,art,art,VERB,Clemson
+MatthewPitts,switchblade,cut boxes,cut,cut,VERB,Clemson
+MatthewPitts,switchblade,cut boxes,boxes,box,NOUN,Clemson
+MatthewPitts,switchblade,carve wood,carve,carve,VERB,Clemson
+MatthewPitts,switchblade,carve wood,wood,wood,NOUN,Clemson
+MatthewPitts,switchblade,cut rope,cut,cut,VERB,Clemson
+MatthewPitts,switchblade,cut rope,rope,rope,NOUN,Clemson
+MatthewPitts,switchblade,open packages,open,open,VERB,Clemson
+MatthewPitts,switchblade,open packages,packages,packages,NOUN,Clemson
+MatthewPitts,switchblade,open bottles,open,open,VERB,Clemson
+MatthewPitts,switchblade,open bottles,bottles,bottle,NOUN,Clemson
+MatthewPitts,switchblade,shave,shave,shave,VERB,Clemson
+MatthewPitts,goggles,swim,swim,swim,VERB,Clemson
+MatthewPitts,goggles,laboratory experiments,laboratory,laboratory,NOUN,Clemson
+MatthewPitts,goggles,laboratory experiments,experiments,experiment,NOUN,Clemson
+MatthewPitts,backpack,carry things in,carry,carry,VERB,Clemson
+MatthewPitts,backpack,carry things in,things,thing,NOUN,Clemson
+MatthewPitts,backpack,school,school,school,NOUN,Clemson
+MatthewPitts,backpack,pack clothes,pack,pack,VERB,Clemson
+MatthewPitts,backpack,pack clothes,clothes,clothes,NOUN,Clemson
+MatthewPitts,backpack,style,style,style,NOUN,Clemson
+MatthewPitts,backpack,hide things,hide,hide,VERB,Clemson
+MatthewPitts,backpack,hide things,things,thing,NOUN,Clemson
+MatthewPitts,letterbox,put mail in,put,put,AUX,Clemson
+MatthewPitts,letterbox,put mail in,mail,mail,VERB,Clemson
+MatthewPitts,letterbox,sit on,sit,sit,VERB,Clemson
+MatthewPitts,kitchen,cook,cook,cook,VERB,Clemson
+MatthewPitts,kitchen,hang out,hang,hang,VERB,Clemson
+MatthewPitts,kitchen,throw parties,throw,throw,INTJ,Clemson
+MatthewPitts,kitchen,throw parties,parties,party,VERB,Clemson
+MatthewPitts,kitchen,clean,clean,clean,VERB,Clemson
+MatthewPitts,kitchen,rebuild,rebuild,rebuild,VERB,Clemson
+MatthewPitts,kitchen,decorate,decorate,decorate,VERB,Clemson
+MatthewPitts,kitchen,eat,eat,eat,VERB,Clemson
+MatthewPitts,kitchen,drink,drink,drink,VERB,Clemson
+MatthewPitts,kitchen,storage,storage,store,VERB,Clemson
+MatthewPitts,yardstick,measure things,measure,measure,VERB,Clemson
+MatthewPitts,yardstick,measure things,things,thing,NOUN,Clemson
+MatthewPitts,yardstick,use like a sword for fun,use,use,AUX,Clemson
+MatthewPitts,yardstick,use like a sword for fun,like,like,INTJ,Clemson
+MatthewPitts,yardstick,use like a sword for fun,sword,sword,VERB,Clemson
+MatthewPitts,yardstick,use like a sword for fun,fun,fun,NOUN,Clemson
+MatthewPitts,yardstick,to help draw straight lines,help,help,AUX,Clemson
+MatthewPitts,yardstick,to help draw straight lines,draw,draw,VERB,Clemson
+MatthewPitts,yardstick,to help draw straight lines,straight,straight,ADV,Clemson
+MatthewPitts,yardstick,to help draw straight lines,lines,line,NOUN,Clemson
+MatthewPitts,lantern,light rooms,light,light,VERB,Clemson
+MatthewPitts,lantern,light rooms,rooms,room,NOUN,Clemson
+MatthewPitts,lantern,use while camping,use,use,AUX,Clemson
+MatthewPitts,lantern,use while camping,camping,camp,VERB,Clemson
+MatthewPitts,lantern,hang,hang,hang,VERB,Clemson
+MatthewPitts,lantern,hold,hold,hold,VERB,Clemson
+MatthewPitts,cage,put animals in,put,put in,VERB,Clemson
+MatthewPitts,cage,put animals in,animals,animal,NOUN,Clemson
+MatthewPitts,cage,create distance from danger,create,create,VERB,Clemson
+MatthewPitts,cage,create distance from danger,distance,distance,NOUN,Clemson
+MatthewPitts,cage,create distance from danger,danger,danger,NOUN,Clemson
+MatthewPitts,cage,cage fighting,cage,cage,NOUN,Clemson
+MatthewPitts,cage,cage fighting,fighting,fight,VERB,Clemson
+MatthewPitts,cage,house pets training,house,house,NOUN,Clemson
+MatthewPitts,cage,house pets training,pets,pets,NOUN,Clemson
+MatthewPitts,cage,house pets training,training,training,NOUN,Clemson
+MatthewPitts,kerchief,blow nose,blow,blow,VERB,Clemson
+MatthewPitts,kerchief,blow nose,nose,nose,PRON,Clemson
+MatthewPitts,kerchief,wipe tears,wipe,wipe,VERB,Clemson
+MatthewPitts,kerchief,wipe tears,tears,tear,NOUN,Clemson
+MatthewPitts,kerchief,clean things,clean,clean,VERB,Clemson
+MatthewPitts,kerchief,clean things,things,thing,NOUN,Clemson
+MatthewPitts,kerchief,magic tricks,magic,magic,NOUN,Clemson
+MatthewPitts,kerchief,magic tricks,tricks,trick,VERB,Clemson
+MatthewPitts,saltwater,help toothaches,help,help,VERB,Clemson
+MatthewPitts,saltwater,help toothaches,toothaches,toothach,NOUN,Clemson
+MatthewPitts,saltwater,swim in,swim,swim,VERB,Clemson
+MatthewPitts,saltwater,helps hydration,helps,help,AUX,Clemson
+MatthewPitts,saltwater,helps hydration,hydration,hydrate,VERB,Clemson
+MatthewPitts,couch,sit on,sit,sit,VERB,Clemson
+MatthewPitts,couch,sleep on,sleep,sleep,NOUN,Clemson
+MatthewPitts,couch,jump on,jump,jump,VERB,Clemson
+MatthewPitts,couch,store things on,store,store,VERB,Clemson
+MatthewPitts,couch,store things on,things,thing,NOUN,Clemson
+MatthewPitts,godparent,carpool,carpool,carpool,NOUN,Clemson
+MatthewPitts,godparent,teach life skills,teach,teach,VERB,Clemson
+MatthewPitts,godparent,teach life skills,life,life,NOUN,Clemson
+MatthewPitts,godparent,teach life skills,skills,skill,NOUN,Clemson
+MatthewPitts,godparent,play games with,play,play,VERB,Clemson
+MatthewPitts,godparent,play games with,games,game,NOUN,Clemson
+MatthewPitts,godparent,travel with,travel,travel,VERB,Clemson
+MatthewPitts,godparent,play sports with,play,play,VERB,Clemson
+MatthewPitts,godparent,play sports with,sports,sport,NOUN,Clemson
+MatthewPitts,tray,put food on,put,put,AUX,Clemson
+MatthewPitts,tray,put food on,food,food,NOUN,Clemson
+MatthewPitts,tray,put medical devices on,put,put,AUX,Clemson
+MatthewPitts,tray,put medical devices on,medical,medical,ADJ,Clemson
+MatthewPitts,tray,put medical devices on,devices,device,NOUN,Clemson
+MatthewPitts,tray,carry things,carry,carry,VERB,Clemson
+MatthewPitts,tray,carry things,things,thing,NOUN,Clemson
+MatthewPitts,tray,organization tool,organization,organize,VERB,Clemson
+MatthewPitts,tray,organization tool,tool,tool,NOUN,Clemson
+MatthewPitts,tear,wipe away,wipe,wipe,VERB,Clemson
+MatthewPitts,tear,wipe away,away,away,ADV,Clemson
+MatthewPitts,tear,cry tears,cry,cry,VERB,Clemson
+MatthewPitts,tear,cry tears,tears,tear,NOUN,Clemson
+MatthewPitts,cookie,eat,eat,eat,VERB,Clemson
+MatthewPitts,cookie,throw,throw,throw,VERB,Clemson
+MatthewPitts,cookie,bake,bake,bake,VERB,Clemson
+MatthewPitts,cookie,decorate,decorate,decorate,VERB,Clemson
+MatthewPitts,cookie,show off,show,show,VERB,Clemson
+MatthewPitts,cookie,crush,crush,crush,NOUN,Clemson
+MatthewPitts,cookie,bargaining tool,bargaining,bargain,VERB,Clemson
+MatthewPitts,cookie,bargaining tool,tool,tool,NOUN,Clemson
+MatthewPitts,bagpipes,play music,play,play,VERB,Clemson
+MatthewPitts,bagpipes,play music,music,music,NOUN,Clemson
+SarahHouk,doorknob,turning,turning,turn,VERB,Clemson
+SarahHouk,doorknob,opening,opening,open,VERB,Clemson
+SarahHouk,bookseller,buying,buying,buy,VERB,Clemson
+SarahHouk,bookseller,talking,talking,talk,VERB,Clemson
+SarahHouk,bookseller,recommending,recommending,recommend,VERB,Clemson
+SarahHouk,bookseller,guidance,guidance,guide,VERB,Clemson
+SarahHouk,drill,screwing,screwing,screw,VERB,Clemson
+SarahHouk,drill,drilling,drilling,drill,VERB,Clemson
+SarahHouk,drill,building,building,build,VERB,Clemson
+SarahHouk,wastebasket,gathering trash,gathering,gather,VERB,Clemson
+SarahHouk,wastebasket,gathering trash,trash,trash,INTJ,Clemson
+SarahHouk,wastebasket,storage,storage,store,VERB,Clemson
+SarahHouk,headphones,listening,listening,listen,VERB,Clemson
+SarahHouk,headphones,muffling,muffling,muffle,VERB,Clemson
+SarahHouk,headphones,plugging,plugging,plug,VERB,Clemson
+SarahHouk,parka,wearing,wearing,wear,VERB,Clemson
+SarahHouk,parka,blanketing,blanketing,blanket,VERB,Clemson
+SarahHouk,chapel,sitting,sitting,sit,VERB,Clemson
+SarahHouk,chapel,singing,singing,sing,VERB,Clemson
+SarahHouk,chapel,standing,standing,stand,VERB,Clemson
+SarahHouk,chapel,walking,walking,walk,NOUN,Clemson
+SarahHouk,kitten,petting,petting,pet,VERB,Clemson
+SarahHouk,kitten,feeding,feeding,feed,VERB,Clemson
+SarahHouk,kitten,brushing,brushing,brush,VERB,Clemson
+SarahHouk,kitten,bathing,bathing,bathe,VERB,Clemson
+SarahHouk,mincemeat,feeding,feeding,feed,VERB,Clemson
+SarahHouk,mincemeat,baiting,baiting,bait,VERB,Clemson
+SarahHouk,wart,costuming,costuming,costume,VERB,Clemson
+SarahHouk,bubble,blowing,blowing,blow,VERB,Clemson
+SarahHouk,bubble,poking,poking,poke,VERB,Clemson
+SarahHouk,bubble,popping,popping,pop,VERB,Clemson
+SarahHouk,sleigh,skiing,skiing,ski,VERB,Clemson
+SarahHouk,sleigh,riding,riding,ride,VERB,Clemson
+SarahHouk,sleigh,travelling,traveling,travel,VERB,Clemson
+SarahHouk,washerwoman,washing,washing,wash,VERB,Clemson
+SarahHouk,washerwoman,scrubbing,scrubbing,scrub,VERB,Clemson
+SarahHouk,washerwoman,rinsing,rinsing,rinse,VERB,Clemson
+SarahHouk,kid,playing,playing,play,VERB,Clemson
+SarahHouk,kid,feeding,feeding,feed,VERB,Clemson
+SarahHouk,kid,caregiving,care,care,VERB,Clemson
+SarahHouk,gingersnap,eating,eating,eat,VERB,Clemson
+SarahHouk,gingersnap,gifting,gifting,gift,VERB,Clemson
+SarahHouk,gingersnap,tasting,tasting,taste,VERB,Clemson
+SarahHouk,memorabilia,collecting,collecting,collect,VERB,Clemson
+SarahHouk,memorabilia,selling,selling,sell,VERB,Clemson
+SarahHouk,gearbox,reducing,reducing,reduce,VERB,Clemson
+SarahHouk,gearbox,increasing,increasing,increase,VERB,Clemson
+SarahHouk,gearbox,speeding,speeding,speed,NOUN,Clemson
+SarahHouk,gearbox,driving,driving,drive,VERB,Clemson
+SarahHouk,colander,sifting,sifting,sift,VERB,Clemson
+SarahHouk,colander,cooking,cooking,cook,VERB,Clemson
+SarahHouk,colander,straining,straining,strain,VERB,Clemson
+SarahHouk,leech,sucking,sucking,suck,VERB,Clemson
+SarahHouk,leech,attaching,attaching,attach,VERB,Clemson
+SarahHouk,spice,tasting,tasting,taste,VERB,Clemson
+SarahHouk,spice,seasoning,seasoning,season,VERB,Clemson
+SarahHouk,spice,cooking,cooking,cook,VERB,Clemson
+SarahHouk,fingerboard,flipping,flipping,flip,VERB,Clemson
+SarahHouk,fingerboard,tricking,tricking,trick,VERB,Clemson
+SarahHouk,fingerboard,entertaining,entertaining,entertain,VERB,Clemson
+SarahHouk,fingerboard,playing,playing,play,VERB,Clemson
+SarahHouk,nutshell,protecting,protecting,protect,VERB,Clemson
+SarahHouk,nutshell,casing,casing,case,VERB,Clemson
+SarahHouk,nutshell,grinding,grinding,grind,VERB,Clemson
+SarahHouk,handbook,following,following,follow,VERB,Clemson
+SarahHouk,handbook,guidance,guidance,guide,VERB,Clemson
+SarahHouk,handbook,advice,advice,advice,VERB,Clemson
+SarahHouk,feline,jumping,jumping,jump,VERB,Clemson
+SarahHouk,feline,hiding,hiding,hide,VERB,Clemson
+SarahHouk,feline,clawing,clawing,claw,VERB,Clemson
+SarahHouk,feline,meowing,meowing,meow,VERB,Clemson
+SarahHouk,feline,hissing,hissing,hiss,VERB,Clemson
+SarahHouk,frame,guiding,guiding,guide,VERB,Clemson
+SarahHouk,frame,stabilizing,stabilizing,stabilize,VERB,Clemson
+SarahHouk,groom,marrying,marrying,marry,VERB,Clemson
+SarahHouk,groom,washing,washing,wash,VERB,Clemson
+SarahHouk,groom,cutting,cutting,cut,VERB,Clemson
+SarahHouk,rum,drinking,drinking,drink,VERB,Clemson
+SarahHouk,rum,aging,aging,age,VERB,Clemson
+SarahHouk,rum,cooking,cooking,cook,VERB,Clemson
+SarahHouk,aftershave,grooming,grooming,groom,VERB,Clemson
+SarahHouk,aftershave,washing,washing,wash,VERB,Clemson
+SarahHouk,aftershave,shaving,shaving,shave,VERB,Clemson
+SarahHouk,caddy,holding,holding,hold,VERB,Clemson
+SarahHouk,caddy,organizing,organizing,organize,VERB,Clemson
+SarahHouk,jacket,wearing,wearing,wear,VERB,Clemson
+SarahHouk,jacket,warmth,warmth,warm,VERB,Clemson
+SarahHouk,jacket,fashion,fashion,fashion,NOUN,Clemson

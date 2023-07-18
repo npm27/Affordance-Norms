@@ -1,0 +1,35 @@
+##Start by gathering all of the data
+#JOLs and frequency
+setwd("C:/Users/nickm/OneDrive/Documents/GitHub/BOI-Norms/4 Analyses/R/Get ns/Good data")
+
+files = list.files(pattern = "*.csv")
+
+#Put them in one dataframe. First apply read.csv, then rbind
+dat = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FALSE)))
+
+#get the number of participants
+length(unique(dat$Username))
+
+####Write a loop?####
+##subset by cue, get each n?
+cuelist = unique(dat$Stimuli.Cue)
+
+dat = dat[order(dat$Stimuli.Cue), ]
+
+temp = data.frame()
+
+for(i in cuelist){
+  
+  temp2 = subset(dat,
+                 dat$Stimuli.Cue == i)
+  
+ x = length(unique(temp2$Username))
+ 
+ temp3 = data.frame(i, x)
+ colnames(temp3)[1:2] = c("Cue", "n")
+ 
+ temp = rbind(temp3, temp)
+  
+}
+
+#write.csv(temp, file = "affordance ns.csv", row.names = F)

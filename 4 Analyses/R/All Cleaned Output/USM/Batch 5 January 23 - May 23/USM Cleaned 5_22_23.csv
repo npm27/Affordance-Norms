@@ -92,7 +92,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 10019758GW,dandelion,makes people happy,happy,happiness,VERB,USM
 10019758GW,dough,pizza,pizza,pizza,NOUN,USM
 10019758GW,dough,bread,bread,bread,NOUN,USM
-10019758GW,dough,cook,cook,cake,VERB,USM
+10019758GW,dough,cook,cook,cook,VERB,USM
 10019758GW,dough,bake,bake,bake,VERB,USM
 10019758GW,wineglass,drinking,drinking,drink,VERB,USM
 10019758GW,wineglass,sipping,sipping,sip,VERB,USM
@@ -187,7 +187,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 10064738KL,stepchild,care,care,care,VERB,USM
 10064738KL,saffron,spice,spice,spice,VERB,USM
 10064738KL,saffron,season,season,season,VERB,USM
-10064738KL,saffron,cook,cook,cake,VERB,USM
+10064738KL,saffron,cook,cook,cook,VERB,USM
 10064738KL,saffron,smell,smell,smell,VERB,USM
 10064738KL,seaplane,fly,fly,fly,VERB,USM
 10064738KL,seaplane,ride,ride,ride,VERB,USM
@@ -315,7 +315,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 1006869SJ,thigh,chicken,chicken,chicken,NOUN,USM
 1006869SJ,satin,pillows,pillows,pillow,NOUN,USM
 1006869SJ,raindrop,water,water,water,NOUN,USM
-1006869SJ,spatula,cook,cook,cake,VERB,USM
+1006869SJ,spatula,cook,cook,cook,VERB,USM
 1006869SJ,spatula,stir,stir,stir,VERB,USM
 1006869SJ,collar,dog,dog,dog,NOUN,USM
 1006869SJ,collar,id,id,identify,VERB,USM
@@ -339,7 +339,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 1006869SJ,paraphernalia,substance,substance,substance,NOUN,USM
 10109717DF,goggle,safety,safety,safety,VERB,USM
 10109717DF,goggle,diving,diving,dive,NOUN,USM
-10109717DF,goggle,swimming,swimming,swimm,VERB,USM
+10109717DF,goggle,swimming,swimming,swim,VERB,USM
 10109717DF,clamp,hold things together,hold,hold,VERB,USM
 10109717DF,clamp,hold things together,things,thing,NOUN,USM
 10109717DF,clamp,hold things together,together,together,ADV,USM
@@ -577,7 +577,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 10112107jf,sundeck,talk with people,people,people,NOUN,USM
 10112107jf,sundeck,enjoy coffee,enjoy,enjoy,VERB,USM
 10112107jf,sundeck,enjoy coffee,coffee,coffee,NOUN,USM
-10125281KT,creek,swimming,swimming,swimm,VERB,USM
+10125281KT,creek,swimming,swimming,swim,VERB,USM
 10125281KT,phalanges,counting,counting,count,VERB,USM
 10125281KT,groundsman,cleaning,cleaning,clean,VERB,USM
 10125281KT,groundsman,organizing,organizing,organize,VERB,USM
@@ -591,7 +591,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 10125281KT,stick,throwing,throwing,throw,VERB,USM
 10125281KT,stick,sticking,sticking,sticke,VERB,USM
 10125281KT,beef,eat,eat,eat,VERB,USM
-10125281KT,beef,cook,cook,cake,VERB,USM
+10125281KT,beef,cook,cook,cook,VERB,USM
 10125281KT,linoleum,object,object,object,ADV,USM
 10125281KT,hoe,gardening,gardening,garde,VERB,USM
 10125281KT,accordion,coming together,coming,come,VERB,USM
@@ -859,7 +859,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 10140669KDL,glitter,consume,consume,consume,VERB,USM
 10140669KDL,fillet,consume,consume,consume,VERB,USM
 10140669KDL,fillet,cut,cut,cut,VERB,USM
-10140669KDL,fillet,cook,cook,cake,VERB,USM
+10140669KDL,fillet,cook,cook,cook,VERB,USM
 10140669KDL,football,watch,watch,watch,VERB,USM
 10140669KDL,football,play,play,play,VERB,USM
 10140669KDL,football,understand,understand,understand,VERB,USM
@@ -884,7 +884,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 10140669KDL,wax,candle,candle,candle,NOUN,USM
 10140669KDL,wax,smell,smell,smell,VERB,USM
 10140669KDL,tapioca,consume,consume,consume,VERB,USM
-10140669KDL,tapioca,cook,cook,cake,VERB,USM
+10140669KDL,tapioca,cook,cook,cook,VERB,USM
 10140669KDL,forearm,muscle,muscle,muscle,NOUN,USM
 10140669KDL,forearm,lift,lift,lift,VERB,USM
 10140669KDL,forearm,strength,strength,strength,NOUN,USM
@@ -940,7 +940,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 10141343JLH,furnace,store,store,store,VERB,USM
 10141343JLH,casserole,eat,eat,eat,VERB,USM
 10141343JLH,casserole,burn,burn,burn,VERB,USM
-10141343JLH,casserole,cook,cook,cake,VERB,USM
+10141343JLH,casserole,cook,cook,cook,VERB,USM
 10141343JLH,casserole,assemble.,assemble,assemble,VERB,USM
 10141343JLH,flatiron,steam,steam,steam,VERB,USM
 10141343JLH,flatiron,heat,heat,heat,VERB,USM
@@ -958,13 +958,13 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 10141343JLH,corn,grow,grow,grow,VERB,USM
 10141343JLH,corn,sow,sow,sow,VERB,USM
 10141343JLH,corn,burn,burn,burn,VERB,USM
-10141343JLH,corn,cook,cook,cake,VERB,USM
+10141343JLH,corn,cook,cook,cook,VERB,USM
 10141343JLH,raincoat,wear,wear,wear,VERB,USM
 10141343JLH,raincoat,cover,cover,cover,VERB,USM
 10141343JLH,stepdaughter,love,love,love,VERB,USM
 10141343JLH,stepdaughter,protect,protect,protect,VERB,USM
 10141343JLH,stepdaughter,cultivate,cultivate,cultivate,VERB,USM
-10141343JLH,pan,cook,cook,cake,VERB,USM
+10141343JLH,pan,cook,cook,cook,VERB,USM
 10141343JLH,pan,smash,smash,smash,VERB,USM
 10141343JLH,pan,throw,throw,throw,VERB,USM
 10141343JLH,pan,hurl,hurl,hurl,VERB,USM
@@ -1189,7 +1189,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Source
 10161832jc,cocaine,anesthetic,anesthetic,anesthetic,ADJ,USM
 10161832jc,policewoman,protect,protect,protect,VERB,USM
 10161832jc,policewoman,serve ,serve,serve,VERB,USM
-10161832jc,spatula,cook,cook,cake,VERB,USM
+10161832jc,spatula,cook,cook,cook,VERB,USM
 10161832jc,apprentice,learn,learn,learn,VERB,USM
 BAB,copybook,paste,paste,paste,VERB,USM
 BAB,copybook,scan,scan,scan,VERB,USM
@@ -1210,7 +1210,7 @@ JDR,flannels,make it ,make,make,VERB,USM
 JDR,flannels,sell it ,sell,sell,VERB,USM
 JDR,flannels,wash it ,wash,wash,VERB,USM
 JDR,flannels,dry it ,dry,dry,VERB,USM
-JDR,turnip,cook it ,cook,cake,VERB,USM
+JDR,turnip,cook it ,cook,cook,VERB,USM
 JDR,turnip,eat it ,eat,eat,VERB,USM
 JDR,turnip,grow it ,grow,grow,VERB,USM
 JDR,turnip,season it ,season,season,VERB,USM
@@ -1227,7 +1227,7 @@ JDR,milkshake,drink it ,drink,drink,VERB,USM
 JDR,milkshake,make it ,make,make,VERB,USM
 JDR,milkshake,spill it ,spill,spill,VERB,USM
 JDR,Cheeseburger,eat it ,eat,eat,VERB,USM
-JDR,Cheeseburger,cook it ,cook,cake,VERB,USM
+JDR,Cheeseburger,cook it ,cook,cook,VERB,USM
 JDR,Cheeseburger,sell it ,sell,sell,VERB,USM
 JDR,brassiere,wear it ,wear,wear,VERB,USM
 JDR,brassiere,make it ,make,make,VERB,USM
@@ -1343,7 +1343,7 @@ MakaylaTemple,mantle,sit things on it,sit,sit,VERB,USM
 MakaylaTemple,mantle,sit things on it,things,thing,NOUN,USM
 MakaylaTemple,detonator,blow up,blow,blow,VERB,USM
 MakaylaTemple,pasta,eat,eat,eat,VERB,USM
-MakaylaTemple,pasta,cook,cook,cake,VERB,USM
+MakaylaTemple,pasta,cook,cook,cook,VERB,USM
 MakaylaTemple,pasta,boil,boil,boil,VERB,USM
 MakaylaTemple,douche,name calling,name,name,NOUN,USM
 MakaylaTemple,douche,name calling,calling,call,VERB,USM
@@ -1362,7 +1362,7 @@ MakaylaTemple,conditioner,makes hair smoother,hair,hair,NOUN,USM
 MakaylaTemple,conditioner,makes hair smoother,smoother,smoothen,VERB,USM
 MakaylaTemple,wolfhound,fetch,fetch,fetch,VERB,USM
 MakaylaTemple,omelette,eat,eat,eat,VERB,USM
-MakaylaTemple,omelette,cook,cook,cake,VERB,USM
+MakaylaTemple,omelette,cook,cook,cook,VERB,USM
 MakaylaTemple,beard,brush,brush,brush,VERB,USM
 MakaylaTemple,beard,groom,groom,groom,VERB,USM
 MakaylaTemple,beard,trim,trim,trim,VERB,USM
@@ -1394,7 +1394,7 @@ W10033523_hfp,captain,boating,boating,boate,VERB,USM
 W10033523_hfp,daggers,throw,throw,throw,VERB,USM
 W10033523_hfp,daggers,stab,stab,stab,VERB,USM
 W10033523_hfp,paddle,row,row,row,VERB,USM
-W10033523_hfp,skullcap,swimming,swimming,swimm,VERB,USM
+W10033523_hfp,skullcap,swimming,swimming,swim,VERB,USM
 W10033523_hfp,wall,paint,paint,paint,VERB,USM
 W10033523_hfp,wall,draw,draw,dree,VERB,USM
 W10033523_hfp,wall,build,build,build,VERB,USM
@@ -1473,7 +1473,7 @@ w10034926_GARC,mucous,test,test,test,VERB,USM
 w10034926_GARC,banquet,serve,serve,serve,VERB,USM
 w10034926_GARC,banquet,gather,gather,gather,VERB,USM
 w10034926_GARC,banquet,commune,commune,commune,VERB,USM
-w10034926_GARC,radish,cook,cook,cake,VERB,USM
+w10034926_GARC,radish,cook,cook,cook,VERB,USM
 w10034926_GARC,pad,protect,protect,protect,VERB,USM
 w10034926_GARC,peanut,eat,eat,eat,VERB,USM
 w10034926_GARC,peanut,boil,boil,boil,VERB,USM
@@ -1537,8 +1537,8 @@ w10038135km,lampshade,hold ,hold,hold,VERB,USM
 w10038135km,artichoke,dip,dip,dip,VERB,USM
 w10038135km,artichoke,eat,eat,eat,VERB,USM
 w10038135km,artichoke,hold,hold,hold,VERB,USM
-w10038135km,artichoke,cook ,cook,cake,VERB,USM
-w10038135km,herb,cook,cook,cake,VERB,USM
+w10038135km,artichoke,cook ,cook,cook,VERB,USM
+w10038135km,herb,cook,cook,cook,VERB,USM
 w10038135km,herb,hold,hold,hold,VERB,USM
 w10038135km,herb,throw ,throw,throw,VERB,USM
 w10038135km,herb,eat ,eat,eat,VERB,USM
@@ -1546,11 +1546,11 @@ w10038135km,fir,hold,hold,hold,VERB,USM
 w10038135km,nightlight,touch,touch,touch,VERB,USM
 w10038135km,nightlight,fix ,fix,fix,VERB,USM
 w10038135km,blueberry,eat,eat,eat,VERB,USM
-w10038135km,blueberry,cook,cook,cake,VERB,USM
+w10038135km,blueberry,cook,cook,cook,VERB,USM
 w10038135km,blueberry,hold,hold,hold,VERB,USM
 w10038135km,blueberry,throw ,throw,throw,VERB,USM
 w10038135km,cactus,touch,touch,touch,VERB,USM
-w10038135km,charcoal,cook,cook,cake,VERB,USM
+w10038135km,charcoal,cook,cook,cook,VERB,USM
 w10038135km,charcoal,burn,burn,burn,VERB,USM
 w10038135km,charcoal,hold,hold,hold,VERB,USM
 w10038135km,charcoal,throw ,throw,throw,VERB,USM
@@ -1577,7 +1577,7 @@ w10041242_mlg,leggings,wear,wear,wear,VERB,USM
 w10041242_mlg,torch,keep warm ,keep,keep,VERB,USM
 w10041242_mlg,torch,keep warm ,warm,warm,VERB,USM
 w10041242_mlg,barbecue,eat,eat,eat,VERB,USM
-w10041242_mlg,barbecue,cook,cook,cake,VERB,USM
+w10041242_mlg,barbecue,cook,cook,cook,VERB,USM
 w10041242_mlg,hedgehog,pet,pet,pet,VERB,USM
 w10041242_mlg,cheesecloth,make cheese,make,make,VERB,USM
 w10041242_mlg,cheesecloth,make cheese,cheese,cheese,NOUN,USM
@@ -1803,7 +1803,7 @@ W10043530_kap,bowling,score points,points,point,NOUN,USM
 W10043530_kap,bowling,win it,win,win,VERB,USM
 W10043530_kap,bowling,lose it,lose,lose,VERB,USM
 W10043530_kap,bowling,wear bowling shoes,wear,wear,VERB,USM
-W10043530_kap,bowling,wear bowling shoes,shoes,shoe,VERB,USM
+W10043530_kap,bowling,wear bowling shoes,shoes,shoe,NOUN,USM
 W10043530_kap,bowling,play on a team,play,play,VERB,USM
 W10043530_kap,bowling,play on a team,team,team,NOUN,USM
 W10043530_kap,bowling,play alone,play,play,VERB,USM
@@ -1958,7 +1958,7 @@ W10043530_kap,hound,pet it,pet,pet,VERB,USM
 W10043530_kap,hound,clean it,clean,clean,VERB,USM
 W10043530_kap,hound,dry it,dry,dry,VERB,USM
 W10043530_kap,waffle,eat it,eat,eat,VERB,USM
-W10043530_kap,waffle,cook it,cook,cake,VERB,USM
+W10043530_kap,waffle,cook it,cook,cook,VERB,USM
 W10043530_kap,waffle,burn it,burn,burn,VERB,USM
 W10043530_kap,waffle,throw it,throw,throw,VERB,USM
 W10043530_kap,waffle,flip it,flip,flip,VERB,USM
@@ -2049,7 +2049,7 @@ W10045969_BMR,men,partner,partner,partner,VERB,USM
 W10045969_BMR,virgin,person,person,person,NOUN,USM
 W10045969_BMR,hatchback,car,car,car,NOUN,USM
 W10045969_BMR,insole,shoe,shoe,shoe,NOUN,USM
-W10045969_BMR,grocery,cook,cook,cake,VERB,USM
+W10045969_BMR,grocery,cook,cook,cook,VERB,USM
 W10045969_BMR,grocery,bake,bake,bake,VERB,USM
 W10045969_BMR,grocery,spend money,spend,spend,VERB,USM
 W10045969_BMR,grocery,spend money,money,money,NOUN,USM
@@ -2117,7 +2117,7 @@ w10048508zh,carp,use,use,use,VERB,USM
 w10048508zh,tranquilizer,use,use,use,VERB,USM
 w10048508zh,sirloin,eat,eat,eat,VERB,USM
 w10048508zh,sirloin,cut,cut,cut,VERB,USM
-w10048508zh,sirloin,cook,cook,cake,VERB,USM
+w10048508zh,sirloin,cook,cook,cook,VERB,USM
 w10048508zh,waistband,wear,wear,wear,VERB,USM
 w10048508zh,waistband,use,use,use,VERB,USM
 w10048508zh,privates,use,use,use,VERB,USM
@@ -2136,7 +2136,7 @@ w10048508zh,spectroscope,use,use,use,VERB,USM
 w10048508zh,matchbox,use,use,use,VERB,USM
 w10048508zh,fauna,use,use,use,VERB,USM
 w10048508zh,husky,describe,describe,describe,VERB,USM
-w10048508zh,kettle,cook,cook,cake,VERB,USM
+w10048508zh,kettle,cook,cook,cook,VERB,USM
 w10048508zh,kettle,eat,eat,eat,VERB,USM
 w10048534_slb,plexiglas,installed,installed,install,VERB,USM
 w10048534_slb,plexiglas,broken,broken,break,VERB,USM
@@ -2215,7 +2215,7 @@ w10048534_slb,shoulder,push,push,push,VERB,USM
 w10048534_slb,shoulder,hold on to ,hold,hold,VERB,USM
 w10048534_slb,tableware,eat,eat,eat,VERB,USM
 w10048534_slb,tableware,clean,clean,clean,VERB,USM
-w10048534_slb,tableware,cook,cook,cake,VERB,USM
+w10048534_slb,tableware,cook,cook,cook,VERB,USM
 w10048534_slb,tableware,set up,set,set,VERB,USM
 w10048534_slb,tableware,arrange,arrange,arrange,VERB,USM
 w10048534_slb,tartar,eat,eat,eat,VERB,USM
@@ -2332,7 +2332,7 @@ w10051017_dg,beaker,cool,cool,cool,VERB,USM
 w10051017_dg,beaker,pour,pour,pour,VERB,USM
 w10051017_dg,tuna,eat,eat,eat,VERB,USM
 w10051017_dg,tuna,serve,serve,serve,VERB,USM
-w10051017_dg,tuna,cook,cook,cake,VERB,USM
+w10051017_dg,tuna,cook,cook,cook,VERB,USM
 w10051017_dg,tuna,bake,bake,bake,VERB,USM
 w10051017_dg,tuna,season,season,season,VERB,USM
 w10051017_dg,tuna,buy,buy,buy,VERB,USM
@@ -2562,7 +2562,7 @@ w10054556_jpl,recorder,annoy,annoy,annoy,VERB,USM
 w10054556_jpl,recorder,pirate,pirate,pirate,NOUN,USM
 w10054556_jpl,toast,bathe,bathe,bathe,VERB,USM
 w10054556_jpl,toast,burn,burn,burn,VERB,USM
-w10054556_jpl,toast,cook,cook,cake,VERB,USM
+w10054556_jpl,toast,cook,cook,cook,VERB,USM
 w10054556_jpl,toast,eat,eat,eat,VERB,USM
 w10054556_jpl,toast,butter,butter,butter,NOUN,USM
 w10054556_jpl,toast,jam,jam,jam,NOUN,USM
@@ -2588,7 +2588,7 @@ w10054556_jpl,building,paint,paint,paint,VERB,USM
 w10054556_jpl,building,build,build,build,VERB,USM
 w10054556_jpl,building,climb,climb,climb,VERB,USM
 w10054556_jpl,flour,bake,bake,bake,VERB,USM
-w10054556_jpl,flour,cook,cook,cake,VERB,USM
+w10054556_jpl,flour,cook,cook,cook,VERB,USM
 w10054556_jpl,flour,make,make,make,VERB,USM
 w10054556_jpl,flour,snort,snort,snort,VERB,USM
 w10054556_jpl,flour,eat,eat,eat,VERB,USM
@@ -2596,7 +2596,7 @@ w10054556_jpl,flour,blow in someone's face,blow,blow,VERB,USM
 w10054556_jpl,flour,blow in someone's face,face,face,NOUN,USM
 w10054556_jpl,flour,throw,throw,throw,VERB,USM
 w10054556_jpl,flour,rub,rub,rub,VERB,USM
-w10054556_jpl,thyme,cook,cook,cake,VERB,USM
+w10054556_jpl,thyme,cook,cook,cook,VERB,USM
 w10054556_jpl,thyme,eat,eat,eat,VERB,USM
 w10054556_jpl,thyme,smell,smell,smell,VERB,USM
 w10054556_jpl,thyme,hold,hold,hold,VERB,USM
@@ -2709,7 +2709,7 @@ w10057641NS,motorbike,to rife,rife,ride,VERB,USM
 w10057641NS,wig,to wear,wear,wear,VERB,USM
 w10057641NS,fudge,to eat ,eat,eat,VERB,USM
 w10057641NS,shinbone,to feel ,feel,feel,VERB,USM
-w10057641NS,ingredients,to cook,cook,cake,VERB,USM
+w10057641NS,ingredients,to cook,cook,cook,VERB,USM
 w10057641NS,quiche,to drink,drink,drink,VERB,USM
 w10057641NS,moth,to feel,feel,feel,VERB,USM
 w10057641NS,shotgun,to shot ,shot,shoot,VERB,USM
@@ -2721,10 +2721,10 @@ w10057641NS,waxwork,to use,use,use,VERB,USM
 w10057641NS,rattle,to feel,feel,feel,VERB,USM
 w10057641NS,washboard,to use,use,use,VERB,USM
 w10057641NS,metalworker,to work ,work,work,VERB,USM
-w10057641NS,whisk,to cook,cook,cake,VERB,USM
+w10057641NS,whisk,to cook,cook,cook,VERB,USM
 w10057641NS,mousetrap,to use,use,use,VERB,USM
 w10057641NS,vehicle,to drive,drive,drive,VERB,USM
-w10057641NS,cookhouse,to cook,cook,cake,VERB,USM
+w10057641NS,cookhouse,to cook,cook,cook,VERB,USM
 w10057641NS,laundry,to use,use,use,VERB,USM
 w10057641NS,pottery,to use,use,use,VERB,USM
 w10057641NS,substance,to use,use,use,VERB,USM
@@ -2788,7 +2788,7 @@ w10058144_CR,snowfall,hot chocolate,hot,hot,ADJ,USM
 w10058144_CR,snowfall,hot chocolate,chocolate,chocolate,NOUN,USM
 w10058144_CR,snowfall,watch movies,watch,watch,VERB,USM
 w10058144_CR,snowfall,watch movies,movies,movie,NOUN,USM
-w10058144_CR,ginger,cook with,cook,cake,VERB,USM
+w10058144_CR,ginger,cook with,cook,cook,VERB,USM
 w10058144_CR,blindfold,challenges/games,challenges,challenge,NOUN,USM
 w10058144_CR,blindfold,challenges/games,games,game,NOUN,USM
 w10058144_CR,blindfold,pin the tail on the donkey,pin,pin,VERB,USM
@@ -2963,7 +2963,7 @@ W10064528_NE,sunflower,muse for art,art,art,NOUN,USM
 W10064528_NE,iguana,observe,observe,observe,VERB,USM
 W10064528_NE,iguana,catch,catch,catch,VERB,USM
 W10064528_NE,spinach,eat,eat,eat,VERB,USM
-W10064528_NE,spinach,cook,cook,cake,VERB,USM
+W10064528_NE,spinach,cook,cook,cook,VERB,USM
 W10064528_NE,spinach,blend into smoothie,blend,blend,NOUN,USM
 W10064528_NE,spinach,blend into smoothie,smoothie,smoothie,NOUN,USM
 W10064528_NE,spinach,grow,grow,grow,VERB,USM
@@ -2998,7 +2998,7 @@ W10064528_NE,can,open,open,open,VERB,USM
 W10064528_NE,can,throw away,throw,throw away,VERB,USM
 W10064528_NE,can,throw away,away,away,ADV,USM
 W10064528_NE,can,recycle,recycle,recycle,VERB,USM
-W10064528_NE,can,cook with,cook,cake,VERB,USM
+W10064528_NE,can,cook with,cook,cook,VERB,USM
 W10064528_NE,snowshoe,put on,put,put,VERB,USM
 W10064528_NE,snowshoe,wear,wear,wear,VERB,USM
 W10064528_NE,snowshoe,take off,take,take,VERB,USM
@@ -3051,7 +3051,7 @@ w10065084sw,cob,eating ,eating,eat,VERB,USM
 w10065084sw,ladybug,holding,holding,hold,VERB,USM
 w10065084sw,tractor,riding,riding,ride,VERB,USM
 w10065084sw,tractor,following,following,follow,VERB,USM
-w10065084sw,ocean,swimming,swimming,swimm,VERB,USM
+w10065084sw,ocean,swimming,swimming,swim,VERB,USM
 w10065084sw,ocean,surfing,surfing,surf,VERB,USM
 w10065084sw,ocean,snorkeling,snorkeling,snorkel,VERB,USM
 w10065084sw,carpenter,working,working,work,VERB,USM
@@ -3313,7 +3313,7 @@ W10068057_BVW,needle,fix,fix,fix,VERB,USM
 W10068057_BVW,needle,patch,patch,patch,NOUN,USM
 W10068057_BVW,needle,burn it,burn,burn,VERB,USM
 W10068057_BVW,potato,grow,grow,grow,VERB,USM
-W10068057_BVW,potato,cook,cook,cake,VERB,USM
+W10068057_BVW,potato,cook,cook,cook,VERB,USM
 W10068057_BVW,potato,bake,bake,bake,VERB,USM
 W10068057_BVW,potato,boil,boil,boil,VERB,USM
 W10068057_BVW,potato,smash,smash,smash,VERB,USM
@@ -3330,7 +3330,7 @@ W10068057_BVW,muzzle,place,place,place,VERB,USM
 W10068057_BVW,muzzle,tighten,tighten,tighten,VERB,USM
 W10068057_BVW,muzzle,loosen,loosen,loosen,VERB,USM
 W10068057_BVW,pineapple,eat,eat,eat,VERB,USM
-W10068057_BVW,pineapple,cook,cook,cake,VERB,USM
+W10068057_BVW,pineapple,cook,cook,cook,VERB,USM
 W10068057_BVW,pineapple,grill,grill,grill,VERB,USM
 W10068057_BVW,pineapple,throw,throw,throw,VERB,USM
 W10068057_BVW,pineapple,roll,roll,roll,VERB,USM
@@ -3347,7 +3347,7 @@ W10068057_BVW,metal,heat,heat,heat,VERB,USM
 W10068057_BVW,metal,cool,cool,cool,VERB,USM
 W10068057_BVW,metal,hit,hit,hit,VERB,USM
 W10068057_BVW,metal,slice,slice,slice,VERB,USM
-W10068057_BVW,shallot,cook,cook,cake,VERB,USM
+W10068057_BVW,shallot,cook,cook,cook,VERB,USM
 W10068057_BVW,shallot,dice,dice,dice,VERB,USM
 W10068057_BVW,shallot,slice,slice,slice,VERB,USM
 W10068057_BVW,shallot,bake,bake,bake,VERB,USM
@@ -3404,7 +3404,7 @@ W10068057_BVW,nanny,pay,pay,pay,VERB,USM
 W10068057_BVW,nanny,hit,hit,hit,VERB,USM
 W10068057_BVW,nanny,hug,hug,hug,VERB,USM
 w10070122_LMT,anchovy,eat,eat,eat,VERB,USM
-w10070122_LMT,anchovy,cook,cook,cake,VERB,USM
+w10070122_LMT,anchovy,cook,cook,cook,VERB,USM
 w10070122_LMT,anchovy,catch,catch,catch,VERB,USM
 w10070122_LMT,poop,flush,flush,flush,VERB,USM
 w10070122_LMT,poop,test,test,test,VERB,USM
@@ -3493,7 +3493,7 @@ w10070122_LMT,villager,talk to,talk,talk,VERB,USM
 w10070122_LMT,spool,throw,throw,throw,VERB,USM
 w10070122_LMT,spool,unravel,unravel,unravel,VERB,USM
 w10070122_LMT,spool,sew,sew,sew,VERB,USM
-w10070122_LMT,chef,cook with,cook,cake,VERB,USM
+w10070122_LMT,chef,cook with,cook,cook,VERB,USM
 w10070122_LMT,mansion,live in,live,live,VERB,USM
 w10070122_LMT,mansion,admire,admire,admire,VERB,USM
 w10070122_LMT,mansion,destroy,destroy,destroy,VERB,USM
@@ -3619,7 +3619,7 @@ w10078147WW,chowder,pour on someone,pour,pour,VERB,USM
 w10078147WW,chowder,pour on someone,someone,someone,PRON,USM
 w10078147WW,chowder,throw at someone,throw,throw,VERB,USM
 w10078147WW,chowder,throw at someone,someone,someone,PRON,USM
-w10078147WW,chowder,cook,cook,cake,VERB,USM
+w10078147WW,chowder,cook,cook,cook,VERB,USM
 w10078147WW,chowder,smell,smell,smell,VERB,USM
 w10078147WW,chowder,taste,taste,taste,VERB,USM
 w10078147WW,rook,play chess with,play,play,VERB,USM
@@ -3640,14 +3640,14 @@ w10078147WW,colt,train,train,train,VERB,USM
 w10078147WW,colt,feed,feed,feed,VERB,USM
 w10078147WW,colt,play with,play,play,VERB,USM
 w10078147WW,chicken,eat,eat,eat,VERB,USM
-w10078147WW,chicken,cook with,cook,cake,VERB,USM
+w10078147WW,chicken,cook with,cook,cook,VERB,USM
 w10078147WW,chicken,get eggs from,get,get,VERB,USM
 w10078147WW,chicken,get eggs from,eggs,egg,NOUN,USM
 w10078147WW,chicken,butcher,butcher,butcher,NOUN,USM
 w10078147WW,chicken,mess with,mess,mess,NOUN,USM
 w10078147WW,chicken,chase it,chase,chase,VERB,USM
 w10078147WW,frankfurter,eat,eat,eat,VERB,USM
-w10078147WW,frankfurter,cook with,cook,cake,VERB,USM
+w10078147WW,frankfurter,cook with,cook,cook,VERB,USM
 w10078147WW,pearl,buy,buy,buy,VERB,USM
 w10078147WW,pearl,sell,sell,sell,VERB,USM
 w10078147WW,pearl,turn it into jewelry,turn,turn,VERB,USM
@@ -4026,7 +4026,7 @@ w10083877_dzw,pantry,store general things,store,store,VERB,USM
 w10083877_dzw,pantry,store general things,general,general,ADJ,USM
 w10083877_dzw,pantry,store general things,things,thing,NOUN,USM
 w10083877_dzw,beef,eat,eat,eat,VERB,USM
-w10083877_dzw,beef,cook,cook,cake,VERB,USM
+w10083877_dzw,beef,cook,cook,cook,VERB,USM
 w10083877_dzw,beef,grill,grill,grill,VERB,USM
 w10083877_dzw,beef,prepare,prepare,prepare,VERB,USM
 w10083877_dzw,matter,anything,anything,anything,PRON,USM
@@ -4192,7 +4192,7 @@ W10085218_KGC,beverage,sip,sip,sip,VERB,USM
 W10085218_KGC,insect,smush,smoosh,smoosh,VERB,USM
 W10085218_KGC,insect,remove,remove,remove,VERB,USM
 W10085218_KGC,insect,kill,kill,kill,VERB,USM
-W10085218_KGC,roast,cook,cook,cake,VERB,USM
+W10085218_KGC,roast,cook,cook,cook,VERB,USM
 W10085218_KGC,roast,bake,bake,bake,VERB,USM
 W10085218_KGC,roast,eat,eat,eat,VERB,USM
 W10085218_KGC,roast,prepare,prepare,prepare,VERB,USM
@@ -4232,7 +4232,7 @@ W10085218_KGC,merchantman,sell,sell,sell,VERB,USM
 W10085218_KGC,merchantman,tender,tender,tender,NOUN,USM
 W10085218_KGC,slug,crawl,crawl,crawl,VERB,USM
 W10085218_KGC,crepe,eat,eat,eat,VERB,USM
-W10085218_KGC,crepe,cook,cook,cake,VERB,USM
+W10085218_KGC,crepe,cook,cook,cook,VERB,USM
 W10085218_KGC,crepe,prepare,prepare,prepare,VERB,USM
 W10085218_KGC,crepe,season,season,season,VERB,USM
 W10085218_KGC,marble,roll,roll,roll,VERB,USM
@@ -4397,20 +4397,20 @@ w10087337KN,retriever,dog,dog,dog,NOUN,USM
 w10087337KN,retriever,fetch,fetch,fetch,VERB,USM
 w10087337KN,retriever,treasure,treasure,treasure,NOUN,USM
 w10087337KN,kernel,popcorn,popcorn,popcorn,NOUN,USM
-w10087337KN,kernel,cook,cook,cake,VERB,USM
+w10087337KN,kernel,cook,cook,cook,VERB,USM
 w10087337KN,kernel,pop,pop,pop,VERB,USM
 w10087337KN,aircraft,fly,fly,fly,VERB,USM
 w10087337KN,aircraft,ride,ride,ride,VERB,USM
 w10087337KN,aircraft,transportation ,transportation,transport,VERB,USM
 w10087337KN,girl,babies,babies,baby,NOUN,USM
-w10087337KN,girl,cook,cook,cake,VERB,USM
+w10087337KN,girl,cook,cook,cook,VERB,USM
 w10087337KN,girl,clean,clean,clean,VERB,USM
 w10087337KN,dispenser,germ-x,germ,germ-x,NOUN,USM
 w10087337KN,dispenser,soap,soap,soap,NOUN,USM
 w10087337KN,cheerleader,spirit,spirit,spirit,NOUN,USM
 w10087337KN,cheerleader,pompoms,pompoms,pompom,NOUN,USM
 w10087337KN,cheerleader,white shoes,white,white,ADJ,USM
-w10087337KN,cheerleader,white shoes,shoes,shoe,VERB,USM
+w10087337KN,cheerleader,white shoes,shoes,shoe,NOUN,USM
 w10087337KN,fag,smoke,smoke,smoke,VERB,USM
 w10087337KN,sax,phone,phone,phone,NOUN,USM
 w10087337KN,jeep,mountain car,mountain,mountain,NOUN,USM
@@ -4612,7 +4612,7 @@ W10090639_amw,wife,compliment,compliment,compliment,VERB,USM
 W10090639_amw,swing,play,play,play,VERB,USM
 W10090639_amw,teahouse,drink,drink,drink,VERB,USM
 W10090639_amw,teahouse,build,build,build,VERB,USM
-W10090639_amw,basil,cook,cook,cake,VERB,USM
+W10090639_amw,basil,cook,cook,cook,VERB,USM
 W10090639_amw,basil,grow,grow,grow,VERB,USM
 W10090639_amw,wreath,decorate,decorate,decorate,VERB,USM
 W10090639_amw,screen,watch,watch,watch,VERB,USM
@@ -4693,12 +4693,12 @@ W10094449_IA,handhold,support/guide,guide,guide,VERB,USM
 W10094449_IA,strawberry,eat,eat,eat,VERB,USM
 W10094449_IA,strawberry,grow,grow,grow,VERB,USM
 W10094449_IA,strawberry,buy,buy,buy,VERB,USM
-W10094449_IA,strawberry,cook,cook,cake,VERB,USM
+W10094449_IA,strawberry,cook,cook,cook,VERB,USM
 W10094449_IA,strawberry,bake,bake,bake,VERB,USM
 W10094449_IA,shellfish,eat,eat,eat,VERB,USM
 W10094449_IA,shellfish,search ,search,search,VERB,USM
 W10094449_IA,macaroni,eat,eat,eat,VERB,USM
-W10094449_IA,macaroni,cook,cook,cake,VERB,USM
+W10094449_IA,macaroni,cook,cook,cook,VERB,USM
 W10094449_IA,macaroni,bake,bake,bake,VERB,USM
 W10094449_IA,macaroni,serve,serve,serve,VERB,USM
 W10094449_IA,almanac,find stuff,find,find,VERB,USM
@@ -4717,7 +4717,7 @@ W10094449_IA,helicopter,make,make,make,VERB,USM
 W10094449_IA,helicopter,steal,steal,steal,VERB,USM
 W10094449_IA,soup,eat,eat,eat,VERB,USM
 W10094449_IA,soup,make,make,make,VERB,USM
-W10094449_IA,soup,cook,cook,cake,VERB,USM
+W10094449_IA,soup,cook,cook,cook,VERB,USM
 W10094449_IA,soup,serve,serve,serve,VERB,USM
 W10094449_IA,soup,test take,test,test,VERB,USM
 W10094449_IA,soup,test take,take,take,VERB,USM
@@ -4976,7 +4976,7 @@ w10098434SRM,spokesman,talk,talk,talk,VERB,USM
 w10098434SRM,spokesman,learn,learn,learn,VERB,USM
 w10099139_ANB,sage,cleanse,cleanse,cleanse,VERB,USM
 w10099139_ANB,sage,grow,grow,grow,VERB,USM
-w10099139_ANB,sage,cook,cook,cake,VERB,USM
+w10099139_ANB,sage,cook,cook,cook,VERB,USM
 w10099139_ANB,sage,plant,plant,plant,VERB,USM
 w10099139_ANB,washcloth,clean body,clean,clean,VERB,USM
 w10099139_ANB,washcloth,clean body,body,body,NOUN,USM
@@ -5014,7 +5014,7 @@ w10099139_ANB,mango,eat,eat,eat,VERB,USM
 w10099139_ANB,mango,plant,plant,plant,VERB,USM
 w10099139_ANB,mango,grow,grow,grow,VERB,USM
 w10099139_ANB,mango,blend,blend,blend,VERB,USM
-w10099139_ANB,mango,cook with,cook,cake,VERB,USM
+w10099139_ANB,mango,cook with,cook,cook,VERB,USM
 w10099139_ANB,mango,bake with,bake,bake,VERB,USM
 w10099139_ANB,bonbon,eat,eat,eat,VERB,USM
 w10099139_ANB,bonbon,bake with,bake,bake,VERB,USM
@@ -5117,13 +5117,13 @@ W10099533_jah,sod,makes spaces look nice,makes,make,VERB,USM
 W10099533_jah,sod,makes spaces look nice,spaces,space,NOUN,USM
 W10099533_jah,sod,makes spaces look nice,look,look,VERB,USM
 W10099533_jah,sod,makes spaces look nice,nice,nice,ADJ,USM
-W10099533_jah,rice,cook,cook,cake,VERB,USM
+W10099533_jah,rice,cook,cook,cook,VERB,USM
 W10099533_jah,rice,eat,eat,eat,VERB,USM
 W10099533_jah,rice,serve,serve,serve,VERB,USM
 W10099533_jah,rice,make art,make,make,VERB,USM
 W10099533_jah,rice,make art,art,art,NOUN,USM
 W10099533_jah,wheat,bake,bake,bake,VERB,USM
-W10099533_jah,wheat,cook,cook,cake,VERB,USM
+W10099533_jah,wheat,cook,cook,cook,VERB,USM
 W10099533_jah,wheat,eat,eat,eat,VERB,USM
 W10099533_jah,wheat,feed animals,feed,feed,NOUN,USM
 W10099533_jah,wheat,feed animals,animals,animal,NOUN,USM
@@ -5134,7 +5134,7 @@ W10099533_jah,coachman,drives vehicle,vehicle,vehicle,NOUN,USM
 W10099533_jah,coachman,take to destinations,take,take,VERB,USM
 W10099533_jah,coachman,take to destinations,destinations,destination,NOUN,USM
 W10099533_jah,cucumber,eat,eat,eat,VERB,USM
-W10099533_jah,cucumber,cook,cook,cake,VERB,USM
+W10099533_jah,cucumber,cook,cook,cook,VERB,USM
 W10099533_jah,cucumber,serve,serve,serve,VERB,USM
 W10099533_jah,cucumber,used in spas,used,use,VERB,USM
 W10099533_jah,cucumber,used in spas,spas,spa,NOUN,USM
@@ -5145,9 +5145,9 @@ W10099533_jah,protester,bring about change,bring,bring,VERB,USM
 W10099533_jah,protester,bring about change,change,change,VERB,USM
 W10099533_jah,protester,voice concerns,voice,voice,NOUN,USM
 W10099533_jah,protester,voice concerns,concerns,concerns,NOUN,USM
-W10099533_jah,ingredient,cook with,cook,cake,VERB,USM
+W10099533_jah,ingredient,cook with,cook,cook,VERB,USM
 W10099533_jah,tomato,harvest,harvest,harvest,VERB,USM
-W10099533_jah,tomato,cook,cook,cake,VERB,USM
+W10099533_jah,tomato,cook,cook,cook,VERB,USM
 W10099533_jah,tomato,eat,eat,eat,VERB,USM
 W10099533_jah,tomato,blend,blend,blend,VERB,USM
 W10099533_jah,stationmaster,watch over railroad,watch,watch,VERB,USM
@@ -5502,11 +5502,11 @@ W10103417_VRS,hair,donating it,donating,donate,VERB,USM
 W10103417_VRS,hair,twirling it,twirling,twirl,VERB,USM
 W10103417_VRS,hair,losing it,losing,lose,VERB,USM
 W10103417_VRS,hair,dyeing it,dyeing,dyee,VERB,USM
-w10105013MadisonUlmer,pimento,cook,cook,cake,VERB,USM
+w10105013MadisonUlmer,pimento,cook,cook,cook,VERB,USM
 w10105013MadisonUlmer,pimento,cut,cut,cut,VERB,USM
 w10105013MadisonUlmer,pimento,bake,bake,bake,VERB,USM
 w10105013MadisonUlmer,scallion,freeze,freeze,freeze,VERB,USM
-w10105013MadisonUlmer,scallion,cook,cook,cake,VERB,USM
+w10105013MadisonUlmer,scallion,cook,cook,cook,VERB,USM
 w10105013MadisonUlmer,scallion,eat,eat,eat,VERB,USM
 w10105013MadisonUlmer,foodstuff,feed,feed,feed,VERB,USM
 w10105013MadisonUlmer,foodstuff,give away,give,give,VERB,USM
@@ -5956,7 +5956,7 @@ W10113249_maw,stationary,write,write,write,VERB,USM
 W10113249_maw,stationary,place down,place,place,VERB,USM
 W10113249_maw,bloomers,wash them,wash,wash,VERB,USM
 W10113249_maw,bloomers,put them on,put,put,VERB,USM
-W10113249_maw,tablespoon,cook with,cook,cake,VERB,USM
+W10113249_maw,tablespoon,cook with,cook,cook,VERB,USM
 W10113249_maw,tablespoon,bake with,bake,bake,VERB,USM
 W10113249_maw,tit,feed the bird,feed,feed,VERB,USM
 W10113249_maw,tit,feed the bird,bird,bird,NOUN,USM
@@ -6038,7 +6038,7 @@ w10114035_CB,baby,to teach about how to parent better,teach,teach,VERB,USM
 w10114035_CB,baby,to teach about how to parent better,parent,parent,NOUN,USM
 w10114035_CB,baby,to teach about how to parent better,better,better,ADJ,USM
 w10114035_CB,brisket,to eat,eat,eat,VERB,USM
-w10114035_CB,brisket,to cook with other meals,cook,cake,VERB,USM
+w10114035_CB,brisket,to cook with other meals,cook,cook,VERB,USM
 w10114035_CB,brisket,to cook with other meals,meals,meal,NOUN,USM
 w10114035_CB,clergy,for guidance,guidance,guide,VERB,USM
 w10114035_CB,clergy,for community,community,community,NOUN,USM
@@ -6229,7 +6229,7 @@ w10114694_AGW,servant,hit,hit,hit,VERB,USM
 w10114694_AGW,violinist,listen,listen,listen,VERB,USM
 w10114694_AGW,shipman,drive ship,drive,drive,VERB,USM
 w10114694_AGW,shipman,drive ship,ship,ship,VERB,USM
-w10114694_AGW,stoneware,cook with,cook,cake,VERB,USM
+w10114694_AGW,stoneware,cook with,cook,cook,VERB,USM
 w10114694_AGW,stoneware,as a weapon,weapon,weapon,VERB,USM
 w10114694_AGW,stoneware,throw,throw,throw,VERB,USM
 w10114694_AGW,stoneware,step on,step,step on,VERB,USM
@@ -6270,7 +6270,7 @@ w10114694_AGW,teaspoon,throw,throw,throw,VERB,USM
 w10114694_AGW,teaspoon,drink off of,drink,drink,VERB,USM
 w10114694_AGW,teaspoon,eat off of,eat,eat,VERB,USM
 w10114694_AGW,zucchini,eat,eat,eat,VERB,USM
-w10114694_AGW,zucchini,cook,cook,cake,VERB,USM
+w10114694_AGW,zucchini,cook,cook,cook,VERB,USM
 w10114694_AGW,zucchini,throw,throw,throw,VERB,USM
 w10114694_AGW,zucchini,grow,grow,grow,VERB,USM
 w10114694_AGW,zucchini,slice,slice,slice,VERB,USM
@@ -6343,7 +6343,7 @@ w10114694_AGW,guy,eat,eat,eat,VERB,USM
 w10114694_AGW,chickenfeed,feed chicken,feed,feed,VERB,USM
 w10114694_AGW,chickenfeed,feed chicken,chicken,chicken,NOUN,USM
 w10114694_AGW,chickenfeed,make,make,make,VERB,USM
-w10114694_AGW,chickenfeed,cook,cook,cake,VERB,USM
+w10114694_AGW,chickenfeed,cook,cook,cook,VERB,USM
 w10114694_AGW,chickenfeed,throw,throw,throw,VERB,USM
 w10114694_AGW,chickenfeed,buy,buy,buy,VERB,USM
 w10114694_AGW,chickenfeed,sell,sell,sell,VERB,USM
@@ -6383,7 +6383,7 @@ w10114694_AGW,slipknot,loosen,loosen,loosen,VERB,USM
 w10114694_AGW,slipknot,cut,cut,cut,VERB,USM
 w10114694_AGW,supper,eat,eat,eat,VERB,USM
 w10114694_AGW,supper,serve,serve,serve,VERB,USM
-w10114694_AGW,supper,cook,cook,cake,VERB,USM
+w10114694_AGW,supper,cook,cook,cook,VERB,USM
 w10114694_AGW,supper,feed,feed,feed,VERB,USM
 w10114694_AGW,supper,prepare,prepare,prepare,VERB,USM
 w10115375AG,belly,eating,eating,eat,VERB,USM
@@ -6433,7 +6433,7 @@ w10115375AG,wrapper,isolating,isolating,isolate,VERB,USM
 w10115375AG,wrapper,decoration,decoration,decorate,VERB,USM
 w10115375AG,wrapper,advertising,advertising,advertise,VERB,USM
 w10115375AG,duck,quacking,quacking,quack,VERB,USM
-w10115375AG,duck,swimming,swimming,swimm,VERB,USM
+w10115375AG,duck,swimming,swimming,swim,VERB,USM
 w10115375AG,duck,eating,eating,eat,VERB,USM
 w10115375AG,duck,feeding,feeding,feed,VERB,USM
 w10115375AG,tyke,raising,raising,raise,VERB,USM
@@ -6646,7 +6646,7 @@ w10118390Eh,pickle,make,make,make,VERB,USM
 w10118390Eh,locker,open,open,open,VERB,USM
 w10118390Eh,locker,close,close,close,VERB,USM
 w10118390Eh,locker,lock,lock,lock,VERB,USM
-w10121776DC,shellfish,cook,cook,cake,VERB,USM
+w10121776DC,shellfish,cook,cook,cook,VERB,USM
 w10121776DC,shellfish,decorate,decorate,decorate,VERB,USM
 w10121776DC,shellfish,sort,sort,sort,ADV,USM
 w10121776DC,shellfish,play,play,play,VERB,USM
@@ -6729,7 +6729,7 @@ w10121776DC,strawberry,buy,buy,buy,VERB,USM
 w10121776DC,automotive,drive!,drive,drive,VERB,USM
 w10121776DC,macaroni,eat,eat,eat,VERB,USM
 w10121776DC,macaroni,buy,buy,buy,VERB,USM
-w10121776DC,macaroni,cook,cook,cake,VERB,USM
+w10121776DC,macaroni,cook,cook,cook,VERB,USM
 w10126426_alk,blowtorch,lighter,lighter,lighter,VERB,USM
 w10126426_alk,mustache,face,face,face,NOUN,USM
 w10126426_alk,mustache,experiment,experiment,experiment,VERB,USM
@@ -6750,7 +6750,7 @@ w10126426_alk,throne,king,king,king,NOUN,USM
 w10126426_alk,orchid,plant,plant,plant,VERB,USM
 w10126426_alk,plate,food,food,food,NOUN,USM
 w10126426_alk,plate,eat,eat,eat,VERB,USM
-w10126426_alk,frosting,cake,cake,cake,NOUN,USM
+w10126426_alk,frosting,cake,cake,cook,NOUN,USM
 w10126426_alk,cosmetics,makeup,makeup,makeup,NOUN,USM
 w10126426_alk,potpourri,pot,pot,pot,NOUN,USM
 w10126426_alk,mascot,game,game,game,NOUN,USM
@@ -6812,7 +6812,7 @@ w10126626SG,clock,tell time,tell,tell,VERB,USM
 w10126626SG,clock,tell time,time,time,NOUN,USM
 w10126626SG,aquarium,teach about animals,teach,teach,VERB,USM
 w10126626SG,aquarium,teach about animals,animals,animal,NOUN,USM
-w10126626SG,walnut,cook,cook,cake,VERB,USM
+w10126626SG,walnut,cook,cook,cook,VERB,USM
 w10126626SG,walnut,bake,bake,bake,VERB,USM
 w10126626SG,walnut,eat,eat,eat,VERB,USM
 w10126626SG,walnut,crush,crush,crush,VERB,USM
@@ -7269,7 +7269,7 @@ w10131475MNC,stationary,to write reminders,reminders,reminder,NOUN,USM
 w10131475MNC,pin,to put something on your clothes,put,put,VERB,USM
 w10131475MNC,pin,to put something on your clothes,something,something,PRON,USM
 w10131475MNC,pin,to put something on your clothes,clothes,clothes,NOUN,USM
-w10131475MNC,grease,to cook,cook,cake,VERB,USM
+w10131475MNC,grease,to cook,cook,cook,VERB,USM
 w10131475MNC,bloomers,to wear under dresses,wear,wear,VERB,USM
 w10131475MNC,bloomers,to wear under dresses,dresses,dress,NOUN,USM
 w10131475MNC,boa,to wear around your neck,wear,wear,VERB,USM
@@ -7282,7 +7282,7 @@ w10131475MNC,handrail,to keep oneself from falling,oneself,oneself,PRON,USM
 w10131475MNC,handrail,to keep oneself from falling,falling,not fall,VERB,USM
 w10131475MNC,wishbone,to make a wish,make,make,VERB,USM
 w10131475MNC,wishbone,to make a wish,wish,wish,VERB,USM
-w10131475MNC,mint,to cook with,cook,cake,VERB,USM
+w10131475MNC,mint,to cook with,cook,cook,VERB,USM
 w10131475MNC,mint,to relax,relax,relax,VERB,USM
 w10131475MNC,lanyard,to hold keys,hold,hold,VERB,USM
 w10131475MNC,lanyard,to hold keys,keys,key,NOUN,USM
@@ -7589,7 +7589,7 @@ w10132763akp,girl,kiss,kiss,kiss,VERB,USM
 w10132763akp,girl,take care of,take,take,VERB,USM
 w10132763akp,girl,take care of,care,care,VERB,USM
 w10132763akp,girl,befriend,befriend,befriend,VERB,USM
-w10132763akp,omelet,cook,cook,cake,VERB,USM
+w10132763akp,omelet,cook,cook,cook,VERB,USM
 w10132763akp,omelet,make,make,make,VERB,USM
 w10132763akp,omelet,eat,eat,eat,VERB,USM
 w10132763akp,cafe,visit,visit,visit,VERB,USM
@@ -7607,7 +7607,7 @@ w10132763akp,catnip,give,give,give,VERB,USM
 w10132763akp,oyster,pearl,pearl,pearl,NOUN,USM
 w10132763akp,oyster,color,color,color,NOUN,USM
 w10132763akp,oyster,eat,eat,eat,VERB,USM
-w10132763akp,oyster,cook,cook,cake,VERB,USM
+w10132763akp,oyster,cook,cook,cook,VERB,USM
 w10132763akp,oyster,catch,catch,catch,VERB,USM
 w10132763akp,oyster,collect,collect,collect,VERB,USM
 w10132763akp,nutcrackers,ballet,ballet,ballet,NOUN,USM
@@ -7666,7 +7666,7 @@ w10132867_LAA,woods,hunting,hunting,hunt,VERB,USM
 w10132867_LAA,woods,cuting trees,cut,cut,VERB,USM
 w10132867_LAA,woods,cuting trees,trees,tree,NOUN,USM
 w10132867_LAA,carp,eat,eat,eat,VERB,USM
-w10132867_LAA,carp,cook,cook,cake,VERB,USM
+w10132867_LAA,carp,cook,cook,cook,VERB,USM
 w10132867_LAA,carp,fishing,fishing,fish,VERB,USM
 w10132867_LAA,jewel,wear,wear,wear,VERB,USM
 w10132867_LAA,jewel,sell,sell,sell,VERB,USM
@@ -7676,11 +7676,11 @@ w10132867_LAA,escalator,bulid,build,build,VERB,USM
 w10132867_LAA,apple,eat,eat,eat,VERB,USM
 w10132867_LAA,apple,grow,grow,grow,VERB,USM
 w10132867_LAA,apple,sell,sell,sell,VERB,USM
-w10132867_LAA,apple,cook,cook,cake,VERB,USM
+w10132867_LAA,apple,cook,cook,cook,VERB,USM
 w10132867_LAA,hanger,hang clothes ,hang,hang,VERB,USM
 w10132867_LAA,hanger,hang clothes ,clothes,clothes,NOUN,USM
 w10132867_LAA,sirloin,eat,eat,eat,VERB,USM
-w10132867_LAA,sirloin,cook,cook,cake,VERB,USM
+w10132867_LAA,sirloin,cook,cook,cook,VERB,USM
 w10132867_LAA,sirloin,serve,serve,serve,VERB,USM
 w10132867_LAA,sirloin,buy,buy,buy,VERB,USM
 w10132867_LAA,passenger,ride,ride,ride,VERB,USM
@@ -7981,7 +7981,7 @@ w10133134_lpc,coffee,caffine to keep awake,awake,awake,NOUN,USM
 w10133524ACB,Leaf,torch,torch,torch,VERB,USM
 w10133524ACB,Leaf,firepit,firepit,firepit,NOUN,USM
 w10133524ACB,Leaf,boat,boat,boat,VERB,USM
-w10133524ACB,Leaf,shoes,shoes,shoe,VERB,USM
+w10133524ACB,Leaf,shoes,shoes,shoe,NOUN,USM
 w10133524ACB,Leaf,clothing,clothing,clothing,NOUN,USM
 w10133524ACB,Leaf,roofing,roofing,roofing,VERB,USM
 w10133524ACB,Leaf,bedding,bedding,bedding,VERB,USM
@@ -8002,7 +8002,7 @@ w10133524ACB,washstand,gather water,gather,gather,VERB,USM
 w10133524ACB,washstand,gather water,water,water,NOUN,USM
 w10133524ACB,washstand,fill containers,fill,fill,VERB,USM
 w10133524ACB,washstand,fill containers,containers,container,NOUN,USM
-w10133524ACB,soles,shoes,shoes,shoe,VERB,USM
+w10133524ACB,soles,shoes,shoes,shoe,NOUN,USM
 w10133524ACB,soles,feet,feet,foot,NOUN,USM
 w10133524ACB,maple,syrup,syrup,syrup,NOUN,USM
 w10133524ACB,maple,tree,tree,tree,NOUN,USM
@@ -8033,7 +8033,7 @@ w10133524ACB,lobe,how the brain is divided,divided,divide,VERB,USM
 w10133524ACB,lobe,to aid in hearing,aid,aid,NOUN,USM
 w10133524ACB,lobe,to aid in hearing,hearing,hear,VERB,USM
 w10133524ACB,icing,on top of cakes,top,top,ADJ,USM
-w10133524ACB,icing,on top of cakes,cakes,cake,NOUN,USM
+w10133524ACB,icing,on top of cakes,cakes,cook,NOUN,USM
 w10133524ACB,icing,on top of cookies,top,top,ADJ,USM
 w10133524ACB,icing,on top of cookies,cookies,cookie,NOUN,USM
 w10133524ACB,icing,ginger bread houses,ginger,ginger,NOUN,USM
@@ -8268,7 +8268,7 @@ w10134003_tp,bourbon,drink,drink,drink,VERB,USM
 w10134003_tp,bourbon,have fun,fun,fun,VERB,USM
 w10134003_tp,strings,tie,tie,tie,VERB,USM
 w10134003_tp,butterscotch,flavour,flavor,flavor,VERB,USM
-w10134003_tp,broiler,cook,cook,cake,VERB,USM
+w10134003_tp,broiler,cook,cook,cook,VERB,USM
 w10134003_tp,sideboard,use,use,use,VERB,USM
 w10134003_tp,cat,pet,pet,pet,NOUN,USM
 w10134003_tp,lime,juice,juice,juice,VERB,USM
@@ -8325,7 +8325,7 @@ W10134011_ars,wristwatch,check time,time,time,NOUN,USM
 W10134011_ars,teacup,drink out of,drink,drink,VERB,USM
 W10134011_ars,teacup,decorations,decorations,decorate,VERB,USM
 W10134011_ars,liverwurst,eat,eat,eat,VERB,USM
-W10134011_ars,liverwurst,cook,cook,cake,VERB,USM
+W10134011_ars,liverwurst,cook,cook,cook,VERB,USM
 W10134011_ars,orthodontist,check teeth,check,check,VERB,USM
 W10134011_ars,orthodontist,check teeth,teeth,tooth,NOUN,USM
 W10134011_ars,orthodontist,cavities,cavities,cavity,NOUN,USM
@@ -8350,7 +8350,7 @@ W10134011_ars,root,grow,grow,grow,VERB,USM
 W10134011_ars,root,remove,remove,remove,VERB,USM
 W10134011_ars,yolk,eat,eat,eat,VERB,USM
 W10134011_ars,yolk,separate,separate,separate,ADJ,USM
-W10134011_ars,yolk,cook,cook,cake,VERB,USM
+W10134011_ars,yolk,cook,cook,cook,VERB,USM
 W10134011_ars,turtle,watch,watch,watch,VERB,USM
 W10134011_ars,turtle,play with,play,play,VERB,USM
 W10134011_ars,turtle,love,love,love,VERB,USM
@@ -8469,7 +8469,7 @@ w10134188andCC,leg,walking,walking,walk,VERB,USM
 w10134188andCC,leg,running,running,run,VERB,USM
 w10134188andCC,leg,riding a bike,riding,ride,VERB,USM
 w10134188andCC,leg,riding a bike,bike,bike,NOUN,USM
-w10134188andCC,leg,swimming,swimming,swimm,VERB,USM
+w10134188andCC,leg,swimming,swimming,swim,VERB,USM
 w10134188andCC,medics,helping people,helping,help,VERB,USM
 w10134188andCC,medics,helping people,people,people,NOUN,USM
 w10134188andCC,hairdo,styling hair,styling,style,VERB,USM
@@ -8511,7 +8511,7 @@ W10135452_SB,blazer,wearing,wearing,wear,VERB,USM
 W10135452_SB,chalice,drinking,drinking,drink,VERB,USM
 W10135452_SB,chalice,toasting,toasting,toast,VERB,USM
 W10135452_SB,yam,eating,eating,eat,VERB,USM
-W10135452_SB,pool,swimming,swimming,swimm,VERB,USM
+W10135452_SB,pool,swimming,swimming,swim,VERB,USM
 W10135452_SB,daybed,laying,laying,lay,VERB,USM
 W10135452_SB,daybed,sleeping,sleeping,sleep,VERB,USM
 W10135452_SB,pacifier,sucking,sucking,suck,VERB,USM
@@ -8543,7 +8543,7 @@ w10137063_IGT,potty,potty training,potty,potty train,VERB,USM
 w10137063_IGT,potty,bowel movements,bowel,bowel movement,VERB,USM
 w10137063_IGT,potty,urinating,urinating,urinate,VERB,USM
 w10137063_IGT,potty,throwing up ,throwing,throw,VERB,USM
-w10137063_IGT,water,swimming,swimming,swimm,VERB,USM
+w10137063_IGT,water,swimming,swimming,swim,VERB,USM
 w10137063_IGT,water,fishing,fishing,fish,VERB,USM
 w10137063_IGT,water,bathing,bathing,bathe,VERB,USM
 w10137063_IGT,water,drinking,drinking,drink,VERB,USM
@@ -8734,11 +8734,11 @@ W10137783_ppl,belt,to tie around someone,tie,tie,NOUN,USM
 W10137783_ppl,belt,to tie around someone,around,around,ADV,USM
 W10137783_ppl,belt,to tie around someone,someone,someone,PRON,USM
 W10137783_ppl,pan,to bake in,bake,bake,VERB,USM
-W10137783_ppl,pan,to cook food in,cook,cake,VERB,USM
+W10137783_ppl,pan,to cook food in,cook,cook,VERB,USM
 W10137783_ppl,pan,to cook food in,food,food,NOUN,USM
 W10137783_ppl,stepdaughter,to have as family,family,family,NOUN,USM
 W10137783_ppl,crust,have in pies/cakes,pies,pies,NOUN,USM
-W10137783_ppl,crust,have in pies/cakes,cakes,cake,NOUN,USM
+W10137783_ppl,crust,have in pies/cakes,cakes,cook,NOUN,USM
 W10137783_ppl,dirt,to plant in,plant,plant,VERB,USM
 W10137783_ppl,dirt,to surround lawns,surround,surround,VERB,USM
 W10137783_ppl,dirt,to surround lawns,lawns,lawn,NOUN,USM
@@ -8876,11 +8876,11 @@ w10138758RD,pen,write,write,write,VERB,USM
 w10138758RD,pen,draw,draw,dree,VERB,USM
 w10138758RD,pen,take notes,take,take,VERB,USM
 w10138758RD,pen,take notes,notes,note,VERB,USM
-w10138758RD,saucepan,cook pasta,cook,cake,VERB,USM
+w10138758RD,saucepan,cook pasta,cook,cook,VERB,USM
 w10138758RD,saucepan,cook pasta,pasta,pasta,NOUN,USM
-w10138758RD,saucepan,cook sauce,cook,cake,VERB,USM
+w10138758RD,saucepan,cook sauce,cook,cook,VERB,USM
 w10138758RD,saucepan,cook sauce,sauce,sauce,NOUN,USM
-w10138758RD,saucepan,cook meat,cook,cake,VERB,USM
+w10138758RD,saucepan,cook meat,cook,cook,VERB,USM
 w10138758RD,saucepan,cook meat,meat,meat,NOUN,USM
 w10138758RD,saucepan,boil things,boil,boil,VERB,USM
 w10138758RD,saucepan,boil things,things,thing,NOUN,USM
@@ -8902,7 +8902,7 @@ w10138758RD,aquarium,hold pets,hold,hold,VERB,USM
 w10138758RD,aquarium,hold pets,pets,pet,VERB,USM
 w10138758RD,lad,talk to,talk,talk,VERB,USM
 w10138758RD,lad,work with,work,work,VERB,USM
-w10138758RD,sesame,cook food,cook,cake,VERB,USM
+w10138758RD,sesame,cook food,cook,cook,VERB,USM
 w10138758RD,sesame,cook food,food,food,NOUN,USM
 w10138758RD,sesame,season food,season,season,VERB,USM
 w10138758RD,sesame,season food,food,food,NOUN,USM
@@ -8962,7 +8962,7 @@ w10138758RD,sixpence,buy things,buy,buy,VERB,USM
 w10138758RD,sixpence,buy things,things,thing,NOUN,USM
 w10138758RD,okra,eat,eat,eat,VERB,USM
 w10138758RD,okra,boil,boil,boil,VERB,USM
-w10138758RD,okra,cook,cook,cake,VERB,USM
+w10138758RD,okra,cook,cook,cook,VERB,USM
 w10138758RD,okra,fry them,fry,fry,VERB,USM
 w10138758RD,okra,grow them,grow,grow,VERB,USM
 w10138758RD,okra,season them,season,season,VERB,USM
@@ -9107,7 +9107,7 @@ w10139706PM,pasta,bake,bake,bake,VERB,USM
 w10139706PM,mantle,cover,cover,cover,VERB,USM
 w10139706PM,spreader,clean,clean,clean,VERB,USM
 w10139706PM,spreader,spread,spread,spread,VERB,USM
-w10139706PM,spreader,cook,cook,cake,VERB,USM
+w10139706PM,spreader,cook,cook,cook,VERB,USM
 w10139706PM,leaves,fall,fall,fall,NOUN,USM
 w10139706PM,leaves,blow,blow,blow,VERB,USM
 w10139706PM,leaves,create,create,create,VERB,USM
@@ -9245,7 +9245,7 @@ w10140480_cb,soccer,play,play,play,VERB,USM
 w10140814DO,chocolate,for cooking,cooking,cook,VERB,USM
 w10140814DO,chocolate,for eating,eating,eat,VERB,USM
 w10140814DO,chocolate,for decorating a cake,decorating,decorate,VERB,USM
-w10140814DO,chocolate,for decorating a cake,cake,cake,NOUN,USM
+w10140814DO,chocolate,for decorating a cake,cake,cook,NOUN,USM
 w10140814DO,chocolate,for dipping a strawberry into,dipping,dip,VERB,USM
 w10140814DO,chocolate,for dipping a strawberry into,strawberry,strawberry,NOUN,USM
 w10140814DO,potty,to use the bathroom,use,use,VERB,USM
@@ -9273,7 +9273,7 @@ w10140814DO,broomstick,to hit an attacker,hit,hit,VERB,USM
 w10140814DO,broomstick,to hit an attacker,attacker,attacker,NOUN,USM
 w10140814DO,water,to drink,drink,drink,VERB,USM
 w10140814DO,water,to swim in,swim,swim,VERB,USM
-w10140814DO,water,to cook with,cook,cake,VERB,USM
+w10140814DO,water,to cook with,cook,cook,VERB,USM
 w10140814DO,water,to put a fire out,put,put,VERB,USM
 w10140814DO,water,to put a fire out,fire,fire,VERB,USM
 w10140814DO,water,to wash yourself,wash,wash,VERB,USM
@@ -9493,7 +9493,7 @@ w10141631,scarecrow,to scare people away,away,away,ADV,USM
 w10141631,dough,to make pizza,make,make,VERB,USM
 w10141631,dough,to make pizza,pizza,pizza,NOUN,USM
 w10141631,dough,pies,pies,pies,NOUN,USM
-w10141631,dough,cakes,cakes,cake,NOUN,USM
+w10141631,dough,cakes,cakes,cook,NOUN,USM
 w10141631,dough,bread,bread,bread,NOUN,USM
 w10141631,him,when referring to a man,referring,refer,VERB,USM
 w10141631,him,when referring to a man,man,man,NOUN,USM
@@ -9576,7 +9576,7 @@ w10141933,home,live,live,live,VERB,USM
 w10141933,home,decorate,decorate,decorate,VERB,USM
 w10141933,home,sleep,sleep,sleep,VERB,USM
 w10141933,home,eat,eat,eat,VERB,USM
-w10141933,home,cook,cook,cake,VERB,USM
+w10141933,home,cook,cook,cook,VERB,USM
 w10141933,home,socialize,socialize,socialize,VERB,USM
 w10141933,snack,eat,eat,eat,VERB,USM
 w10141933,snack,chew,chew,chew,VERB,USM
@@ -9597,7 +9597,7 @@ w10141933,phone,talk,talk,talk,VERB,USM
 w10141933,phone,touch,touch,touch,VERB,USM
 w10141933,phone,swipe,swipe,swipe,VERB,USM
 w10141933,farmhouse,live,live,live,VERB,USM
-w10141933,farmhouse,cook,cook,cake,VERB,USM
+w10141933,farmhouse,cook,cook,cook,VERB,USM
 w10141933,farmhouse,sleep,sleep,sleep,VERB,USM
 w10141933,farmhouse,walk,walk,walk,VERB,USM
 w10141933,masseur,massage,massage,massage,VERB,USM
@@ -10540,7 +10540,7 @@ W10148866_ZT,attorney,law,law,law,NOUN,USM
 W10148866_ZT,attorney,judge,judge,judge,NOUN,USM
 W10148866_ZT,attorney,court,court,court,NOUN,USM
 W10148866_ZT,locker,games,games,game,NOUN,USM
-W10148866_ZT,locker,shoes,shoes,shoe,VERB,USM
+W10148866_ZT,locker,shoes,shoes,shoe,NOUN,USM
 W10148866_ZT,locker,personal belongings,personal,personal,ADJ,USM
 W10148866_ZT,locker,personal belongings,belongings,belonging,NOUN,USM
 W10148866_ZT,scrubber,clean tub,clean,clean,VERB,USM
@@ -10613,7 +10613,7 @@ w10156002KD,lobbyist,manipulate,manipulate,manipulate,VERB,USM
 w10156002KD,lobbyist,coerce,coerce,coerce,VERB,USM
 w10156002KD,lobbyist,change policy,change,change,VERB,USM
 w10156002KD,lobbyist,change policy,policy,policy,NOUN,USM
-w10156002KD,griddle,cook,cook,cake,VERB,USM
+w10156002KD,griddle,cook,cook,cook,VERB,USM
 w10156002KD,griddle,saute,saute,saute,VERB,USM
 w10156002KD,griddle,prepare,prepare,prepare,VERB,USM
 w10156002KD,griddle,clean,clean,clean,ADJ,USM
@@ -10811,7 +10811,7 @@ w10157282_HBR,pineapple,picked,picked,pick,VERB,USM
 w10157282_HBR,pineapple,cut,cut,cut,VERB,USM
 w10157282_HBR,pineapple,core,core,core,VERB,USM
 w10157282_HBR,pineapple,blend,blend,blend,VERB,USM
-w10157282_HBR,pineapple,cook,cook,cake,VERB,USM
+w10157282_HBR,pineapple,cook,cook,cook,VERB,USM
 w10157282_HBR,coin,spend,spend,spend,VERB,USM
 w10157282_HBR,coin,save,save,save,VERB,USM
 w10157282_HBR,coin,collect,collect,collect,VERB,USM
@@ -10900,7 +10900,7 @@ W10161566_TEN,adult,hug,hug,hug,VERB,USM
 W10161566_TEN,adult,kiss,kiss,kiss,VERB,USM
 W10161566_TEN,weed,smoke,smoke,smoke,VERB,USM
 W10161566_TEN,weed,eat,eat,eat,VERB,USM
-W10161566_TEN,meat,cook,cook,cake,VERB,USM
+W10161566_TEN,meat,cook,cook,cook,VERB,USM
 W10161566_TEN,meat,eat,eat,eat,VERB,USM
 W10161566_TEN,meat,tenderize,tenderize,tenderize,VERB,USM
 W10161566_TEN,thesaurus,read,read,read,VERB,USM
@@ -11128,7 +11128,7 @@ W10168496_hah,sifter,sift things,things,thing,NOUN,USM
 W10168496_hah,beet,eat,eat,eat,VERB,USM
 W10168496_hah,beet,chop,chop,chop,VERB,USM
 W10168496_hah,beet,cut,cut,cut,VERB,USM
-W10168496_hah,beet,cook with,cook,cake,VERB,USM
+W10168496_hah,beet,cook with,cook,cook,VERB,USM
 W10168496_hah,beet,boil,boil,boil,VERB,USM
 W10168496_hah,dock,stand on,stand,stand,VERB,USM
 W10168496_hah,dock,jump off of,jump,jump,VERB,USM
@@ -11264,7 +11264,7 @@ W10168496_hah,fungus,take pictures of,pictures,photograph,VERB,USM
 W10168496_hah,fungus,make hats (it's a thing),make,make,VERB,USM
 W10168496_hah,fungus,make hats (it's a thing),hats,hat,NOUN,USM
 W10168496_hah,fungus,make hats (it's a thing),thing,thing,NOUN,USM
-W10168496_hah,fungus,cook with,cook,cake,VERB,USM
+W10168496_hah,fungus,cook with,cook,cook,VERB,USM
 W10168496_hah,fungus,step on,step,step on,VERB,USM
 W10168496_hah,fungus,get poisoned ,get,get,VERB,USM
 W10168496_hah,fungus,get poisoned ,poisoned,poisone,VERB,USM
@@ -11291,7 +11291,7 @@ W10168870_ams,house,bathe,bathe,bathe,NOUN,USM
 W10168870_ams,genitals,hold,hold,hold,VERB,USM
 W10168870_ams,genitals,clean,clean,clean,VERB,USM
 W10168870_ams,buttermilk,drink,drink,drink,VERB,USM
-W10168870_ams,buttermilk,cook,cook,cake,VERB,USM
+W10168870_ams,buttermilk,cook,cook,cook,VERB,USM
 W10168870_ams,buttermilk,mix,mix,mix,VERB,USM
 W10168870_ams,poncho,wear it,wear,wear,VERB,USM
 W10168870_ams,poncho,fold it,fold,fold,VERB,USM
@@ -11386,7 +11386,7 @@ W695191_tns,mouthpiece,wear,wear,wear,VERB,USM
 W695191_tns,mouthpiece,protection,protection,protect,VERB,USM
 W695191_tns,chihuahua,pet,pet,pet,VERB,USM
 W695191_tns,nettle,plant,plant,plant,VERB,USM
-W695191_tns,moccasin,shoes ,shoes,shoe,VERB,USM
+W695191_tns,moccasin,shoes ,shoes,shoe,NOUN,USM
 W695191_tns,potboiler,hold items,hold,hold,VERB,USM
 W695191_tns,potboiler,hold items,items,item,NOUN,USM
 W695191_tns,pond,swim ,swim,swim,VERB,USM
@@ -11453,7 +11453,7 @@ w821455_ag,wristlet,money,money,money,NOUN,USM
 w821455_ag,wristlet,card keeper,card,card,NOUN,USM
 w821455_ag,wristlet,card keeper,keeper,keeper,NOUN,USM
 w821455_ag,paprika,eggs,eggs,egg,NOUN,USM
-w821455_ag,paprika,cook,cook,cake,VERB,USM
+w821455_ag,paprika,cook,cook,cook,VERB,USM
 w821455_ag,paprika,season,season,season,VERB,USM
 w821455_ag,copper,build,build,build,NOUN,USM
 w821455_ag,copper,buy,buy,buy,VERB,USM
@@ -11461,11 +11461,11 @@ w821455_ag,copper,create,create,create,VERB,USM
 w821455_ag,copper,piping,piping,piping,NOUN,USM
 w821455_ag,pomegranate,eat,eat,eat,VERB,USM
 w821455_ag,pomegranate,juice,juice,juice,VERB,USM
-w821455_ag,pomegranate,cook,cook,cake,VERB,USM
+w821455_ag,pomegranate,cook,cook,cook,VERB,USM
 w821455_ag,laryngoscope,see,see,see,VERB,USM
 w821455_ag,laryngoscope,look,look,look,VERB,USM
 w821455_ag,laryngoscope,investigate,investigate,investigate,VERB,USM
-w821455_ag,cabbage,cook,cook,cake,VERB,USM
+w821455_ag,cabbage,cook,cook,cook,VERB,USM
 w821455_ag,cabbage,eat,eat,eat,VERB,USM
 w821455_ag,cabbage,grow,grow,grow,VERB,USM
 w821455_ag,cabbage,buy,buy,buy,VERB,USM
@@ -11571,7 +11571,7 @@ w879554_rb,summerhouse,rent,rent,rent,VERB,USM
 w879554_rb,summerhouse,sell,sell,sell,VERB,USM
 w879554_rb,summerhouse,buy,buy,buy,VERB,USM
 w879554_rb,pumice,detox,detox,detox,VERB,USM
-w879554_rb,skillet,cook with,cook,cake,VERB,USM
+w879554_rb,skillet,cook with,cook,cook,VERB,USM
 w879554_rb,skillet,clean on,clean,clean,VERB,USM
 w879554_rb,dessert,eat ,eat,eat,VERB,USM
 w879554_rb,trousers,wear,wear,wear,VERB,USM
@@ -11629,9 +11629,9 @@ W909000_ebm,ballerina,dance,dance,dance,VERB,USM
 W909000_ebm,ballerina,formal,formal,formal,ADJ,USM
 W909000_ebm,ballerina,tutu,tutu,tutu,X,USM
 W909000_ebm,ballerina,step shoes,step,step,VERB,USM
-W909000_ebm,ballerina,step shoes,shoes,shoe,VERB,USM
+W909000_ebm,ballerina,step shoes,shoes,shoe,NOUN,USM
 W909000_ebm,ballerina,tap shoes,tap,tap,VERB,USM
-W909000_ebm,ballerina,tap shoes,shoes,shoe,VERB,USM
+W909000_ebm,ballerina,tap shoes,shoes,shoe,NOUN,USM
 W909000_ebm,ballerina,stockings,stockings,stocking,NOUN,USM
 W909000_ebm,ballerina,elegant,elegant,elegant,ADJ,USM
 W909000_ebm,ballerina,balance,balance,balance,VERB,USM
@@ -11670,7 +11670,7 @@ W909000_ebm,azalea,growth,growth,grow,VERB,USM
 W909000_ebm,azalea,nature,nature,nature,NOUN,USM
 W909000_ebm,egg,chicken,chicken,chicken,NOUN,USM
 W909000_ebm,egg,quail,quail,quail,NOUN,USM
-W909000_ebm,egg,cook,cook,cake,VERB,USM
+W909000_ebm,egg,cook,cook,cook,VERB,USM
 W909000_ebm,egg,eat,eat,eat,VERB,USM
 W909000_ebm,egg,serve,serve,serve,VERB,USM
 W909000_ebm,egg,dine,dine,dine,NOUN,USM
@@ -11769,7 +11769,7 @@ W909000_ebm,biologist,study,study,study,VERB,USM
 W909000_ebm,biologist,science,science,science,VERB,USM
 W909000_ebm,biologist,life,life,life,NOUN,USM
 W909000_ebm,fryer,food,food,food,NOUN,USM
-W909000_ebm,fryer,cook,cook,cake,VERB,USM
+W909000_ebm,fryer,cook,cook,cook,VERB,USM
 W909000_ebm,fryer,heat,heat,heat,VERB,USM
 W909000_ebm,fryer,serve,serve,serve,VERB,USM
 W909000_ebm,veil,hidden,hidden,hide,VERB,USM
@@ -11785,7 +11785,7 @@ W917941DV,vine,to pick berries from,berries,berry,NOUN,USM
 W917941DV,rake,for leaves,leaves,leave,VERB,USM
 W917941DV,rake,get up money ,get,get,VERB,USM
 W917941DV,rake,get up money ,money,money,NOUN,USM
-W917941DV,crawfish,to cook,cook,cake,VERB,USM
+W917941DV,crawfish,to cook,cook,cook,VERB,USM
 W917941DV,crawfish,eat,eat,eat,VERB,USM
 W917941DV,crawfish,catch,catch,catch,VERB,USM
 W917941DV,cotton,to pick,pick,pick,VERB,USM
@@ -11793,7 +11793,7 @@ W917941DV,cotton,to remove nail polish ,remove,remove,VERB,USM
 W917941DV,cotton,to remove nail polish ,nail,nail polish,NOUN,USM
 W917941DV,copybook,to create ,create,create,VERB,USM
 W917941DV,oxtail,to eat,eat,eat,VERB,USM
-W917941DV,oxtail,cook,cook,cake,VERB,USM
+W917941DV,oxtail,cook,cook,cook,VERB,USM
 W917941DV,kitty,pet,pet,pet,VERB,USM
 W917941DV,panhandler,someone who begs,someone,someone,PRON,USM
 W917941DV,panhandler,someone who begs,begs,beg,NOUN,USM
@@ -11896,7 +11896,7 @@ w952976,mask,protection,protection,protect,VERB,USM
 w952976,mask,decoration,decoration,decorate,VERB,USM
 w952976,mask,enslavement ,enslavement,enslave,VERB,USM
 w952976,bacon,eat,eat,eat,VERB,USM
-w952976,bacon,cook,cook,cake,VERB,USM
+w952976,bacon,cook,cook,cook,VERB,USM
 w952976,bacon,store,store,store,VERB,USM
 w952976,bacon,garnish a dish,garnish,garnish,INTJ,USM
 w952976,bacon,garnish a dish,dish,dish,NOUN,USM
@@ -11945,13 +11945,13 @@ W963035ME,shinbone,break,break,break,VERB,USM
 W963035ME,shinbone,sit,sit,sit,VERB,USM
 W963035ME,shinbone,run,run,run,VERB,USM
 W963035ME,shinbone,walk,walk,walk,VERB,USM
-W963035ME,whisk,cook,cook,cake,VERB,USM
+W963035ME,whisk,cook,cook,cook,VERB,USM
 W963035ME,quiche,eat,eat,eat,VERB,USM
 W963035ME,quiche,play,play,play,VERB,USM
 W963035ME,denim,wear,wear,wear,VERB,USM
 W963035ME,denim,make,make,make,VERB,USM
 W963035ME,denim,trash,trash,trash,INTJ,USM
-W963035ME,ingredients,cook,cook,cake,VERB,USM
+W963035ME,ingredients,cook,cook,cook,VERB,USM
 W963035ME,ingredients,mix,mix,mix,VERB,USM
 W963035ME,ingredients,trash,trash,trash,INTJ,USM
 W963035ME,ingredients,add,add,add,VERB,USM
@@ -11968,7 +11968,7 @@ W963035ME,laundry,get dirty,get,get,VERB,USM
 W963035ME,laundry,get dirty,dirty,dirty,ADJ,USM
 W963035ME,substance,experiment,experiment,experiment,VERB,USM
 W963035ME,substance,mix ,mix,mix,VERB,USM
-W963035ME,cookhouse,cook,cook,cake,VERB,USM
+W963035ME,cookhouse,cook,cook,cook,VERB,USM
 W963035ME,cookhouse,clean,clean,clean,VERB,USM
 W963035ME,cookhouse,dirty,dirty,dirty,ADJ,USM
 W963035ME,shotgun,kill,kill,kill,VERB,USM
@@ -11981,7 +11981,7 @@ W963035ME,washboard,wash,wash,wash,VERB,USM
 W963035ME,washboard,clean,clean,clean,VERB,USM
 W963035ME,primate,allow,allow,allow,VERB,USM
 W963035ME,fudge,eat,eat,eat,VERB,USM
-W963035ME,fudge,cook,cook,cake,VERB,USM
+W963035ME,fudge,cook,cook,cook,VERB,USM
 W963035ME,fudge,trash,trash,trash,INTJ,USM
 W963035ME,metalworker,make,make,make,VERB,USM
 W963035ME,metalworker,hot,hot,hot,ADJ,USM
@@ -12000,8 +12000,8 @@ W963035ME,motorbike,clean,clean,clean,VERB,USM
 W963035ME,doornail,hammer,hammer,hammer,VERB,USM
 W963035ME,doornail,fix,fix,fix,VERB,USM
 W963035ME,model,walk,walk,walk,VERB,USM
-W963035ME,waxwork,cook,cook,cake,VERB,USM
-W963035ME,cheddar,cook,cook,cake,VERB,USM
+W963035ME,waxwork,cook,cook,cook,VERB,USM
+W963035ME,cheddar,cook,cook,cook,VERB,USM
 W963035ME,cheddar,bake,bake,bake,VERB,USM
 W963035ME,cheddar,shred ,shred,shr,VERB,USM
 W963035ME,anchor,stop,stop,stop,VERB,USM
@@ -12092,7 +12092,7 @@ W968289_BC,grape,juicey,juice,juice,VERB,USM
 W968289_BC,salmon,fish,fish,fish,NOUN,USM
 W968289_BC,salmon,bear,bear,bear,NOUN,USM
 W968289_BC,salmon,food,food,food,VERB,USM
-W968289_BC,salmon,swimming upstream,swimming,swimm,VERB,USM
+W968289_BC,salmon,swimming upstream,swimming,swim,VERB,USM
 W968289_BC,salmon,swimming upstream,upstream,upstream,X,USM
 W968289_BC,cornstarch,cooking aid,cooking,cook,VERB,USM
 W968289_BC,cornstarch,cooking aid,aid,aid,NOUN,USM
@@ -12153,7 +12153,7 @@ W993635_KG,tray,food,food,food,NOUN,USM
 W993635_KG,tray,paper,paper,paper,NOUN,USM
 W993635_KG,tray,books,books,book,NOUN,USM
 W993635_KG,tray,coffee,coffee,coffee,NOUN,USM
-W993635_KG,kitchen,cook,cook,cake,VERB,USM
+W993635_KG,kitchen,cook,cook,cook,VERB,USM
 W993635_KG,kitchen,have coffee,coffee,coffee,NOUN,USM
 W993635_KG,kitchen,sit,sit,sit,VERB,USM
 W993635_KG,cookie,chocolate chip,chocolate,chocolate,NOUN,USM
@@ -12200,14 +12200,14 @@ W993635_KG,couch,eat,eat,eat,VERB,USM
 W993635_KG,godparent,hangout,hangout,hangout,VERB,USM
 W993635_KG,godparent,talk,talk,talk,VERB,USM
 W993635_KG,lantern,hang it,hang,hang,VERB,USM
-W993635_KG,letterbox,put letters in it,put,put,VERB,USM
+W993635_KG,letterbox,put letters in it,put,put,AUX,USM
 W993635_KG,letterbox,put letters in it,letters,letter,NOUN,USM
-W993635_KG,barley,cook with it,cook,cake,VERB,USM
+W993635_KG,barley,cook with it,cook,cook,VERB,USM
 W993635_KG,barley,use it for medicine,use,use,VERB,USM
 W993635_KG,barley,use it for medicine,medicine,medicine,NOUN,USM
-W993635_KG,goggles,swimming,swimming,swimm,VERB,USM
+W993635_KG,goggles,swimming,swimming,swim,VERB,USM
 W993635_KG,goggles,in a lab,lab,lab,NOUN,USM
-W993635_KG,splinter,get it out your finger,get,get,VERB,USM
+W993635_KG,splinter,get it out your finger,get,get,AUX,USM
 W993635_KG,splinter,get it out your finger,finger,finger,NOUN,USM
 W993635_KG,bagpipes,blow on them,blow,blow,VERB,USM
 W993635_KG,derriere,walk with it,walk,walk,VERB,USM

@@ -4,7 +4,7 @@
 library(reshape)
 
 #read in data
-dat = read.csv("All_responses.csv")
+dat = read.csv("All_responses_FINAL.csv")
 
 ##Need to sum each unique response to a cue then divide by all cues
 ##Will only want to look at verb responses

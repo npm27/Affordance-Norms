@@ -31,4 +31,58 @@ for(i in cuelist){
   
 }
 
-#write.csv(temp, file = "affordance ns.csv", row.names = F)
+####What about verb only?####
+verb = subset(dat,
+              dat$POS == "VERB")
+
+verb = verb[order(verb$Stimuli.Cue), ]
+
+temp4 = data.frame()
+
+for(i in cuelist){
+  
+  temp5 = subset(verb,
+                 verb$Stimuli.Cue == i)
+  
+  x = length(unique(temp5$Username))
+  
+  temp6 = data.frame(i, x)
+  colnames(temp6)[1:2] = c("Cue", "n")
+  
+  temp4 = rbind(temp6, temp4)
+  
+}
+
+colnames(temp4)[2] = "n__affordance"
+
+combined = data.frame(cbind(temp, temp4))
+
+combined2 = combined[ , -3]
+
+colnames(combined2)[2] = "n_participant"
+
+####Now get the total number of responses from each participant
+temp7 = data.frame()
+
+for(i in cuelist){
+  
+  temp8 = subset(verb,
+                 verb$Stimuli.Cue == i)
+  
+  x = length(temp8$Username)
+  
+  temp9 = data.frame(i, x)
+  colnames(temp9)[1:2] = c("Cue", "n_all")
+  
+  temp7 = rbind(temp9, temp7)
+  
+}
+
+combined3 = cbind(combined2, temp7)
+
+combined3 = data.frame(combined3)
+combined4 = combined3[ , -4]
+
+colnames(combined4)[2:4] = c("n unique", "n unique affordance", "total affordance")
+
+#write.csv(combined4, file = "affordance ns.csv", row.names = F)

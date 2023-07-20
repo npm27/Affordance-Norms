@@ -2,7 +2,7 @@ CUE,RESPONSE,RESPONSE TOKEN,RESPONSE LEMMA,POS
 accessory,useful,useful,useful,ADJ
 accordion,musical tone,musical,musical,ADJ
 accordion,musical tone,tone,tone,NOUN
-accountant,advisor,advisor,advisor,NOUN
+accountant,advisor,advisor,advisor,VERB
 accountant,banker,banker,banker,NOUN
 acrobat,watched,watched,watch,VERB
 actor,for acting,acting,act,VERB
@@ -19,12 +19,12 @@ acupuncture,effect chi flow,flow,flow,NOUN
 acupuncture,quit smoking,quit,quit,VERB
 acupuncture,quit smoking,smoking,smoke,NOUN
 adapter,charging,charging,charge,VERB
-addict,use them as an experiment to help,use,use,VERB
-addict,use them as an experiment to help,experiment,experiment,NOUN
-addict,use them as an experiment to help,help,help,VERB
+addict,use them as an experiment to help,use,use,AUX
+addict,use them as an experiment to help,experiment,experiment,VERB
+addict,use them as an experiment to help,help,help,AUX
 adult,pay bills,pay,pay,VERB
 adult,pay bills,bills,bill,NOUN
-aircraft,transportation,transportation,transportation,NOUN
+aircraft,transportation,transportation,transport,VERB
 airplane,fly,fly,fly,VERB
 airplane,hijack,hijack,hijack,VERB
 alcohol,giving out to people,giving,give,VERB
@@ -36,34 +36,34 @@ altarpiece,depict a subject,depict,depict,VERB
 altarpiece,depict a subject,subject,subject,NOUN
 aluminum,wrap,wrap,wrap,VERB
 aluminum,science experiments,science,science,NOUN
-aluminum,science experiments,experiments,experiment,NOUN
+aluminum,science experiments,experiments,experiment,VERB
 ammo,for a gun,gun,gun,NOUN
 ammo,shooting a target,shooting,shoot,VERB
 ammo,shooting a target,target,target,NOUN
 ammo,harming someone,harming,harm,VERB
-amulet,use it to bring you good luck,use,use,VERB
-amulet,use it to bring you good luck,bring,bring,VERB
+amulet,use it to bring you good luck,use,use,AUX
+amulet,use it to bring you good luck,bring,bring,AUX
 amulet,use it to bring you good luck,good,good,ADJ
-amulet,use it to bring you good luck,luck,luck,NOUN
+amulet,use it to bring you good luck,luck,luck,VERB
 announcer,broadcast,broadcast,broadcast,VERB
 ant,bug,bug,bug,NOUN
 antennae,sensory,sensory,sensory,ADJ
-antennae,motion,motion,motion,NOUN
-antennae,heat,heat,heat,NOUN
+antennae,motion,motion,motion,VERB
+antennae,heat,heat,heat,VERB
 antennae,vibration,vibration,vibrate,VERB
 antennae,tv channels,tv,tv,NOUN
 antennae,tv channels,channels,channel,NOUN
 antennae,radio,radio,radio,NOUN
 antennae,wifi,wifi,wifi,NOUN
 antibiotics,medicine,medicine,medicine,NOUN
-antibiotics,make you feel better,make,make,VERB
+antibiotics,make you feel better,make,make,AUX
 antibiotics,make you feel better,feel,feel,VERB
 antibiotics,make you feel better,better,better,ADJ
 antibiotics,avoid infection,avoid,avoid,VERB
 antibiotics,avoid infection,infection,infection,NOUN
 antiques,to sell,sell,sell,VERB
 antiques,old,old,old,ADJ
-anus,you use it to dispose of waste,use,use,VERB
+anus,you use it to dispose of waste,use,use,AUX
 anus,you use it to dispose of waste,dispose,dispose,VERB
 anus,you use it to dispose of waste,waste,waste,NOUN
 apartment,rent,rent,rent,VERB
@@ -83,15 +83,15 @@ armpit,to smell,smell,smell,VERB
 armpit,to connect your arm to your body,connect,connect,VERB
 armpit,to connect your arm to your body,arm,arm,NOUN
 armpit,to connect your arm to your body,body,body,NOUN
-arrow,sling,sling,sling,NOUN
-arrowhead,making arrows,making,make,VERB
+arrow,sling,sling,sling,VERB
+arrowhead,making arrows,making,make,AUX
 arrowhead,making arrows,arrows,arrow,NOUN
 artichoke,spinach,spinach,spinach,NOUN
 artist,drawing,drawing,draw,VERB
 artist,painting,painting,paint,VERB
 artist,pottery,pottery,pottery,NOUN
 artist,paint,paint,paint,VERB
-artist,color,color,color,NOUN
+artist,color,color,color,VERB
 artist,sculpt,sculpt,sculpt,VERB
 artist,chisel,chisel,chisel,VERB
 artist,knit,knit,knit,VERB
@@ -103,18 +103,18 @@ ashcan,putting out cigarettes,cigarettes,cigarette,NOUN
 ashcan,throw cigarette buds,throw,throw,VERB
 ashcan,throw cigarette buds,cigarette,cigarette,NOUN
 ashcan,throw cigarette buds,buds,bud,NOUN
-ashtray,use to spit tobacco,use,use,VERB
+ashtray,use to spit tobacco,use,use,AUX
 ashtray,use to spit tobacco,spit,spit,VERB
 ashtray,use to spit tobacco,tobacco,tobacco,NOUN
 ashtray,kill a cigarette butt,kill,kill,VERB
 ashtray,kill a cigarette butt,cigarette,cigarette,NOUN
 ashtray,kill a cigarette butt,butt,butt,NOUN
-ashtray,keep trash,keep,keep,VERB
+ashtray,keep trash,keep,keep,AUX
 ashtray,keep trash,trash,trash,NOUN
-ashtray,empty out,empty,empty,ADJ
+ashtray,empty out,empty,empty,VERB
 ashtray,empty out,out,out,NOUN
 ashtray,rinse periodically,rinse,rinse,VERB
-ashtray,holding ashes,holding,hold,NOUN
+ashtray,holding ashes,holding,hold,VERB
 ashtray,holding ashes,ashes,ash,NOUN
 asparagus,nutritious,nutritious,nutritious,ADJ
 asparagus,reduce health risks,reduce,reduce,VERB
@@ -125,9 +125,8 @@ assemblyman,to assemble,assemble,assemble,VERB
 assemblyman,to great,great,great,ADJ
 assemblyman,to create,create,create,VERB
 assemblyman,to befriend,befriend,befriend,VERB
-assemblyman,get things in order,order,order,NOUN
+assemblyman,get things in order,order,order,VERB
 asshole,mean,mean,mean,VERB
-asshole,bitch,bitch,bitch,NOUN
 astronaut,space knowledge,space,space,NOUN
 astronaut,space knowledge,knowledge,knowledge,NOUN
 athlete,healthy,healthy,healthy,ADJ
@@ -178,8 +177,8 @@ banister,rub your hand on it,hand,hand,NOUN
 banister,slide down it,slide,slide,VERB
 bank,savings,savings,savings,NOUN
 bank,checking,checking,check,NOUN
-bank,safe deposit boxes,safe,safe,ADJ
-bank,safe deposit boxes,deposit,deposit,NOUN
+bank,safe deposit boxes,safe,safety,VERB
+bank,safe deposit boxes,deposit,deposit,VERB
 bank,safe deposit boxes,boxes,box,NOUN
 bank,cash checks,cash,cash,VERB
 bank,cash checks,checks,check,NOUN
@@ -189,20 +188,20 @@ bank,college account,college,college,NOUN
 bank,college account,account,account,NOUN
 bank,mortgage,mortgage,mortgage,NOUN
 bank,loans,loans,loan,VERB
-banquet,award,award,award,NOUN
-banquet,speech,speech,speech,NOUN
+banquet,award,award,award,VERB
+banquet,speech,speech,speech,VERB
 barbecue,tasted,tasted,taste,VERB
 barbecue,talked about,talked,talk,VERB
-barn,keeping animals safe,keeping,keep,VERB
+barn,keeping animals safe,keeping,keep,AUX
 barn,keeping animals safe,animals,animal,NOUN
-barn,keeping animals safe,safe,safe,ADJ
+barn,keeping animals safe,safe,safety,VERB
 barn,warming,warming,warm,VERB
 barn,feeding place,feeding,feed,VERB
 barn,feeding place,place,place,NOUN
 barrette,clip,clip,clip,VERB
-barrette,keeps hair back,keeps,keep,VERB
+barrette,keeps hair back,keeps,keep,AUX
 barrette,keeps hair back,hair,hair,NOUN
-barrette,lock pick,lock,lock,NOUN
+barrette,lock pick,lock,lock pick,VERB
 barrette,lock pick,pick,pick,VERB
 bartender,tip,tip,tip,VERB
 bartender,ask,ask,ask,VERB
@@ -227,7 +226,7 @@ bathtub,bathe in it,bathe,bathe,VERB
 bathtub,wash laundry,wash,wash,VERB
 bathtub,wash laundry,laundry,laundry,NOUN
 bathtub,take it out,take,take,VERB
-bathtub,use it for decoration,use,use,VERB
+bathtub,use it for decoration,use,use,AUX
 bathtub,use it for decoration,decoration,decorate,VERB
 baton,hit,hit,hit,VERB
 battleship,shoot ships,shoot,shoot,VERB
@@ -247,7 +246,7 @@ beach,dig holes,dig,dig,VERB
 beach,dig holes,holes,holes,NOUN
 beach,picnic,picnic,picnic,NOUN
 beach,volleyball,volleyball,volleyball,NOUN
-beef,cook,cook,cake,VERB
+beef,cook,cook,cook,VERB
 beef,tacos,tacos,taco,NOUN
 beef,hamburgers,hamburgers,hamburger,NOUN
 beefsteak,searing,searing,sear,VERB
@@ -256,10 +255,10 @@ beefsteak,serving,serving,serve,VERB
 beet,grow,grow,grow,VERB
 bell,announce something,announce,announce,VERB
 bell,gain attention,gain,gain,VERB
-bell,gain attention,attention,attention,NOUN
+bell,gain attention,attention,attention,VERB
 bell,playing a game,playing,play,VERB
 bell,playing a game,game,game,NOUN
-belly,holds vital organs,hold,hold,NOUN
+belly,holds vital organs,hold,hold,VERB
 belly,holds vital organs,vital,vital,ADJ
 belly,holds vital organs,organs,organ,NOUN
 belly,has correlation to delivery process of baby,correlation,correlation,NOUN
@@ -268,7 +267,7 @@ belly,has correlation to delivery process of baby,process,process,NOUN
 belly,has correlation to delivery process of baby,baby,baby,NOUN
 belly,connecting body,connecting,connect,VERB
 belly,connecting body,body,body,NOUN
-belt,keep pants from falling,keep,keep,VERB
+belt,keep pants from falling,keep,keep,AUX
 belt,keep pants from falling,pants,pants,NOUN
 belt,keep pants from falling,falling,fall,VERB
 belt,woop,woop,whip,VERB
@@ -283,7 +282,7 @@ berry,to color,color,color,NOUN
 berry,to kill,kill,kill,VERB
 berry,cook a meal with it,cook,cook,VERB
 berry,cook a meal with it,meal,meal,NOUN
-berry,make a drink from it,make,make,VERB
+berry,make a drink from it,make,make,AUX
 berry,make a drink from it,drink,drink,NOUN
 berry,you can decorate with it,decorate,decorate,VERB
 bicep,flex it,flex,flex,VERB
@@ -320,7 +319,7 @@ blazer,wear over button up or nice t-shirt for a professional look,professional,
 blazer,wear over button up or nice t-shirt for a professional look,look,look,NOUN
 blazer,wash when finished using,wash,wash,VERB
 blazer,wash when finished using,finished,finish,X
-blazer,wash when finished using,using,use,VERB
+blazer,wash when finished using,using,use,AUX
 blazer,hang to dry so it does not wrinkle,hang,hang,VERB
 blazer,hang to dry so it does not wrinkle,dry,dry,VERB
 blazer,hang to dry so it does not wrinkle,wrinkle,wrinkle,VERB
@@ -416,13 +415,13 @@ bottle,drink out of,drink,drink,VERB
 bottle,store liquids in,store,store,VERB
 bottle,store liquids in,liquids,liquid,NOUN
 boutique,shopping,shopping,shop,VERB
-boutique,making clothes,making,make,VERB
+boutique,making clothes,making,make,AUX
 boutique,making clothes,clothes,clothes,NOUN
 boutique,browsing,browsing,browse,VERB
 bowling,roll a ball,roll,roll,VERB
 bowling,roll a ball,ball,ball,NOUN
-bowling,strike,strike,strike,NOUN
-bowling,spare,spare,spare,NOUN
+bowling,strike,strike,strike,VERB
+bowling,spare,spare,spare,VERB
 bowling,win,win,win,VERB
 bowling,lose,lose,lose,VERB
 box,move,move,move,VERB
@@ -437,7 +436,7 @@ boy,actor,actor,actor,NOUN
 brassiere,sling shot,sling,slingshot,NOUN
 bread,sandwich,sandwich,sandwich,NOUN
 bread,toast,toast,toast,VERB
-bread,making money,making,make,VERB
+bread,making money,making,make,AUX
 bread,making money,money,money,NOUN
 breadbasket,store,store,store,VERB
 breadbasket,hang,hang,hang,VERB
@@ -450,7 +449,7 @@ breast,milk,milk,milk,NOUN
 breastbone,sternum,sternum,sternum,NOUN
 breasts,eating chicken breast,eating,eat,VERB
 breasts,eating chicken breast,chicken,chicken,NOUN
-breasts,milk for babies,milk,milk,NOUN
+breasts,milk for babies,milk,milk,VERB
 breasts,milk for babies,babies,baby,NOUN
 brick,build,build,build,VERB
 brick,lay,lay,lay,VERB
@@ -469,8 +468,8 @@ briefcase,hold pens pencils,pens,pens,NOUN
 briefcase,hold pens pencils,pencils,pencil,NOUN
 briefcase,carry things,carry,carry,VERB
 briefs,help keep warm,help,help,VERB
-briefs,help keep warm,keep,keep,VERB
-briefs,help keep warm,warm,warm,ADJ
+briefs,help keep warm,keep,keep,AUX
+briefs,help keep warm,warm,warm,VERB
 brisket,burritos,burritos,burrito,NOUN
 brisket,nachos,nachos,nacho,NOUN
 brisket,quesadillas,quesadillas,quesadilla,NOUN
@@ -490,7 +489,7 @@ brooch,break it,break,break,VERB
 brooch,lose it,lose,lose,VERB
 brother,stressor,stressor,stress,NOUN
 brow,pluck,pluck,pluck,VERB
-brow,keep out bacteria from eyes,keep,keep,VERB
+brow,keep out bacteria from eyes,keep,keep,AUX
 brow,keep out bacteria from eyes,bacteria,bacteria,NOUN
 brow,keep out bacteria from eyes,eyes,eye,NOUN
 brush,comb,comb,comb,VERB
@@ -532,11 +531,11 @@ bun,holds hair,hair,hair,NOUN
 bun,bread,bread,bread,NOUN
 bun,holds condiment,holds,hold,VERB
 bun,holds condiment,condiment,condiment,NOUN
-bunny,pets,pets,pets,NOUN
+bunny,pets,pets,pet,VERB
 burger,assemble,assemble,assemble,VERB
 businesswoman,work,work,work,VERB
 businesswoman,dress as,dress,dress,VERB
-businesswoman,taxes,taxes,tax,NOUN
+businesswoman,taxes,taxes,tax,VERB
 businesswoman,lawyer,lawyer,lawyer,NOUN
 businesswoman,hire,hire,hire,VERB
 busman,transporter ],transporter,transport,VERB
@@ -581,7 +580,7 @@ cadillac,type of car,car,car,NOUN
 cadillac,photo prop,photo,photo,NOUN
 cadillac,photo prop,prop,prop,NOUN
 cafe,hang out,hang,hang,VERB
-cage,keep animals lock up,keep,keep,VERB
+cage,keep animals lock up,keep,keep,AUX
 cage,keep animals lock up,animals,animal,NOUN
 cage,keep animals lock up,lock,lock,VERB
 cage,kidnap,kidnap,kidnap,VERB
@@ -590,7 +589,7 @@ cake,birthday,birthday,birthday,NOUN
 cake,good,good,good,ADJ
 calender,to schedule things,schedule,schedule,VERB
 calender,to stay organized,stay,stay,VERB
-calender,to stay organized,organized,organized,ADJ
+calender,to stay organized,organized,organize,VERB
 calender,to mark things down,mark,mark,VERB
 calf,worked,worked,work,VERB
 calf,stretched,stretched,stretch,VERB
@@ -610,7 +609,7 @@ can,muffle sounds,muffle,muffle,ADJ
 can,muffle sounds,sounds,sound,NOUN
 can,preserve food,preserve,preserve,VERB
 can,preserve food,food,food,NOUN
-cane,help walk,help,help,NOUN
+cane,help walk,help,help,AUX
 cane,help walk,walk,walk,VERB
 cane,stylish,stylish,stylish,NOUN
 cane,crutch to lean on,crutch,crutch,VERB
@@ -632,7 +631,7 @@ capes,letting the cape fly,letting,let,VERB
 capes,letting the cape fly,fly,fly,VERB
 capes,decorating the cape,decorating,decorate,VERB
 capes,for kid,kid,kid,NOUN
-caramel,make caramel apples,make,make,VERB
+caramel,make caramel apples,make,make,AUX
 caramel,make caramel apples,caramel,caramel,NOUN
 caramel,make caramel apples,apples,apple,NOUN
 card,identification,identification,identify,VERB
@@ -642,9 +641,9 @@ card,special occasions,occasions,occasion,NOUN
 card,letters,letters,letter,NOUN
 cardboard,package things,package,package,NOUN
 cardboard,tear open,tear,tear,VERB
-cardboard,tear open,open,open,ADJ
-cardboard,use as cover,use,use,VERB
-cardboard,use as cover,cover,cover,NOUN
+cardboard,tear open,open,open,VERB
+cardboard,use as cover,use,use,AUX
+cardboard,use as cover,cover,cover,VERB
 carpet,walk on,walk,walk,VERB
 carpet,to pad objects,pad,pad,VERB
 carpet,to pad objects,objects,object,VERB
@@ -679,7 +678,7 @@ cashier,exchange objects for money,money,money,NOUN
 castle,living in it,living,live,VERB
 castle,looking at it,looking,look,VERB
 castle,taking pictures of it,taking,take,VERB
-castle,taking pictures of it,pictures,picture,NOUN
+castle,taking pictures of it,pictures,photograph,VERB
 catnip,give to cats,give,give,VERB
 catnip,give to cats,cats,cat,NOUN
 catsup,served,served,serve,VERB
@@ -703,7 +702,7 @@ cellar,save food and drink,food,food,NOUN
 cellar,save food and drink,drink,drink,NOUN
 cellar,to store,store,store,VERB
 cellar,to hide,hide,hide,VERB
-cellar,used for wine,used,use,VERB
+cellar,used for wine,used,use,AUX
 cellar,used for wine,wine,wine,NOUN
 cellar,servant,servant,servant,NOUN
 cellist,play music,play,play,VERB
@@ -712,7 +711,7 @@ cellist,applaud,applaud,applaud,VERB
 cellist,domination,domination,dominate,VERB
 cello,performed with,performed,perform,VERB
 centipede,take a picture of,take,take,VERB
-centipede,take a picture of,picture,picture,NOUN
+centipede,take a picture of,picture,photograph,VERB
 cereal,spat at,spat,spit,VERB
 certificate,earn,earn,earn,VERB
 certificate,burn,burn,burn,VERB
@@ -749,9 +748,9 @@ checklist,achieve,achieve,achieve,VERB
 checklist,grocery shopping,grocery,grocery,NOUN
 checklist,grocery shopping,shopping,shop,VERB
 checklist,monitor,monitor,monitor,NOUN
-cheerleader,cheer,cheer,cheer,NOUN
+cheerleader,cheer,cheer,cheer,VERB
 cheerleader,dance with,dance,dance,VERB
-Cheeseburger,microwave,microwave,microwave,NOUN
+Cheeseburger,microwave,microwave,microwave,VERB
 Cheeseburger,refrigerate,refrigerate,refrigerate,VERB
 cheesecake,prepare,prepare,prepare,VERB
 chemicals,prevent or diminish something,prevent,prevent,VERB
@@ -766,7 +765,7 @@ chessboard,displaying,displaying,display,VERB
 chessboard,competing,competing,compete,VERB
 chestnut,crack,crack,crack,VERB
 chestnut,bite,bite,bite,VERB
-chestnut,blend,blend,blend,NOUN
+chestnut,blend,blend,blend,VERB
 child,play,play,play,VERB
 child,talk,talk,talk,VERB
 child,teach,teach,teach,VERB
@@ -794,7 +793,7 @@ chronograph,infer,infer,infer,VERB
 cigarette,smoked,smoked,smoke,VERB
 clam,pearls,pearls,pearl,NOUN
 clam,shuck,shuck,shuck,VERB
-clam,decorate shell,decorate,decorate,ADJ
+clam,decorate shell,decorate,decorate,VERB
 clam,decorate shell,shell,shell,NOUN
 clam,harvest pearls,harvest,harvest,VERB
 clam,harvest pearls,pearls,pearl,NOUN
@@ -837,7 +836,7 @@ clothesline,hang clothes,hang,hang,VERB
 clothesline,hang clothes,clothes,clothes,NOUN
 clothesline,hang shoes,hang,hang,VERB
 clothesline,hang shoes,shoes,shoe,VERB
-clothesline,use as rope,use,use,VERB
+clothesline,use as rope,use,use,AUX
 clothesline,use as rope,rope,rope,NOUN
 clothesline,hang paintings,hang,hang,VERB
 clothesline,hang paintings,paintings,painting,NOUN
@@ -853,9 +852,9 @@ clothespin,holding lab slides,lab,lab,NOUN
 clothespin,holding lab slides,slides,slide,NOUN
 clothespin,crafting,crafting,craft,VERB
 coal,ignite,ignite,ignite,VERB
-coal,bbq,bbq,bbq,NOUN
-coal,used in mining,used,use,VERB
-coal,used in mining,mining,mining,NOUN
+coal,bbq,bbq,barbecue,VERB
+coal,used in mining,used,use,AUX
+coal,used in mining,mining,mine,VERB
 cobweb,for spiders,spiders,spider,NOUN
 cocaine,report,report,report,VERB
 cocaine,drug use,drug,drug,NOUN
@@ -863,8 +862,8 @@ cocaine,drug use,use,use,NOUN
 cocoa,food,food,food,NOUN
 cocoa,infections,infections,infection,NOUN
 cocoa,congestion,congestion,congestion,NOUN
-cocoa,remedy,remedy,remedy,NOUN
-cocoa,make chocolate,make,make,VERB
+cocoa,remedy,remedy,remedy,VERB
+cocoa,make chocolate,make,make,AUX
 cocoa,make chocolate,chocolate,chocolate,NOUN
 cocoa,hot chocolate,hot,hot,ADJ
 cocoa,hot chocolate,chocolate,chocolate,NOUN
@@ -912,9 +911,9 @@ condominium,living space,living,live,VERB
 condominium,living space,space,space,NOUN
 condominium,storage space,storage,store,VERB
 condominium,storage space,space,space,NOUN
-condominium,photo setting,photo,photo,NOUN
+condominium,photo setting,photo,photograph,VERB
 condominium,photo setting,setting,set,NOUN
-condominium,film setting,film,film,NOUN
+condominium,film setting,film,film,VERB
 condominium,film setting,setting,setting,NOUN
 condominium,tour it,tour,tour,VERB
 cone,ice cream holder,ice,ice cream,NOUN
@@ -927,10 +926,10 @@ contraceptive,to prevent the spread of std,prevent,prevent,VERB
 contraceptive,to prevent the spread of std,spread,spread,NOUN
 contraceptive,to prevent the spread of std,std,std,NOUN
 copper,burn it,burn,burn,VERB
-copper,make pennies,make,make,VERB
+copper,make pennies,make,make,AUX
 copper,make pennies,pennies,penny,NOUN
 copper,to bend,bend,bend,VERB
-copper,to make penny,make,make,VERB
+copper,to make penny,make,make,AUX
 copper,to make penny,penny,penny,NOUN
 copybook,to read,read,read,VERB
 cord,coil,coil,coil,VERB
@@ -943,7 +942,7 @@ corkscrew,puncturing something,puncturing,puncture,VERB
 corn,fry it,fry,fry,VERB
 corn,grill it,grill,grill,VERB
 corn,boil it,boil,boil,VERB
-corn,make food,make,make,VERB
+corn,make food,make,make,AUX
 corn,make food,food,food,NOUN
 corn,feed to animals,feed,feed,VERB
 corn,feed to animals,animals,animal,NOUN
@@ -963,9 +962,9 @@ costumer,tv show,show,show,NOUN
 costumer,fashion show,fashion,fashion,NOUN
 costumer,fashion show,show,show,NOUN
 cotton,for clothes,clothes,clothes,NOUN
-cotton,to keep you warm,keep,keep,VERB
-cotton,to keep you warm,warm,warm,ADJ
-cotton,use the seeds inside of it to grow more,use,use,VERB
+cotton,to keep you warm,keep,keep,AUX
+cotton,to keep you warm,warm,warm,VERB
+cotton,use the seeds inside of it to grow more,use,use,AUX
 cotton,use the seeds inside of it to grow more,seeds,seed,NOUN
 cotton,use the seeds inside of it to grow more,grow,grow,VERB
 cotton,use the seeds inside of it to grow more,more,more,ADJ
@@ -988,12 +987,12 @@ coupon,note taker,taker,taker,NOUN
 coupon,paper,paper,paper,NOUN
 courtyard,gather,gather,gather,VERB
 courtyard,have a party,party,party,NOUN
-coverall,used in workplace,used,use,VERB
+coverall,used in workplace,used,use,AUX
 coverall,used in workplace,workplace,workplace,NOUN
-coverall,used for fashion,used,use,VERB
+coverall,used for fashion,used,use,AUX
 coverall,used for fashion,fashion,fashion,NOUN
 cowhide,to discipline cow,cow,cow,NOUN
-Crab,use as bait,use,use,VERB
+Crab,use as bait,use,use,AUX
 Crab,use as bait,bait,bait,VERB
 Crab,hunt,hunt,hunt,VERB
 crackers,eat them,eat,eat,VERB
@@ -1007,7 +1006,7 @@ crackers,compost them,compost,compost,VERB
 crackers,give them to homeless shelters,give,give,VERB
 crackers,give them to homeless shelters,homeless,homeless,ADJ
 crackers,give them to homeless shelters,shelters,shelter,NOUN
-crackers,make a charcuterie board,make,make,VERB
+crackers,make a charcuterie board,make,make,AUX
 crackers,make a charcuterie board,charcuterie,charcuterie,NOUN
 crackers,make a charcuterie board,board,board,NOUN
 crackers,scoop dips with them,scoop,scoop,VERB
@@ -1022,7 +1021,7 @@ craftsman,new,new,new,ADJ
 craftsman,building,building,build,VERB
 craftsman,build stuff,build,build,VERB
 craftsman,fixing home,fixing,fix,VERB
-craftsman,fixing pipes,fixing,fix,NOUN
+craftsman,fixing pipes,fixing,fix,VERB
 craftsman,fixing pipes,pipes,pipe,NOUN
 crate,moving\,moving,move,VERB
 crayon,scribble,scribble,scribble,VERB
@@ -1036,7 +1035,7 @@ creek,jump in,jump,jump,VERB
 crib,baby,baby,baby,NOUN
 cricket,chirp,chirp,chirp,VERB
 cricket,animal,animal,animal,NOUN
-crop,picture,picture,picture,NOUN
+crop,picture,picture,photograph,VERB
 croquette,play it,play,play,VERB
 cross,jesus,jesus,jesus,X
 crossbow,sport,sport,sport,NOUN
@@ -1056,14 +1055,14 @@ crown,mouth,mouth,mouth,NOUN
 crumb,toss,toss,toss,VERB
 crust,add crunch,add,add,VERB
 crust,add crunch,crunch,crunch,VERB
-crust,dip boat,dip,dip,NOUN
+crust,dip boat,dip,dip,VERB
 crust,dip boat,boat,boat,NOUN
 crust,feed to animal,feed,feed,VERB
 crust,feed to animal,animal,animal,NOUN
 crutch,step,step,step,VERB
 crutch,to lean on,lean,lean,VERB
 crutch,to heal,heal,heal,VERB
-cryptographer,surveillance,surveillance,surveillance,NOUN
+cryptographer,surveillance,surveillance,surveillance,VERB
 cryptographer,identifying,identifying,identify,VERB
 crystal,look at it,look,look,VERB
 cube,frozen,frozen,freeze,VERB
@@ -1071,13 +1070,13 @@ cube,ate,ate,eat,VERB
 cube,dropped,dropped,drop,VERB
 cube,melted,melted,melt,VERB
 cube,if it is frozen use it to cool drink,frozen,freeze,VERB
-cube,if it is frozen use it to cool drink,use,use,VERB
+cube,if it is frozen use it to cool drink,use,use,AUX
 cube,if it is frozen use it to cool drink,cool,cool,ADJ
 cube,if it is frozen use it to cool drink,drink,drink,NOUN
 cube,if it is wooden play with like block,wooden,wooden,VERB
 cube,if it is wooden play with like block,play,play,VERB
 cube,if it is wooden play with like block,block,block,NOUN
-cube,if it is made of cement use to build a house,made,make,VERB
+cube,if it is made of cement use to build a house,made,make,AUX
 cube,if it is made of cement use to build a house,cement,cement,NOUN
 cube,if it is made of cement use to build a house,use,use,NOUN
 cube,if it is made of cement use to build a house,build,build,VERB
@@ -1088,20 +1087,20 @@ cube,if it is a part of a linking cube set then use it to teach addition and sub
 cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,linking,link,VERB
 cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,cube,cube,NOUN
 cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,set,set,VERB
-cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,use,use,VERB
+cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,use,use,AUX
 cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,teach,teach,NOUN
 cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,addition,addition,NOUN
 cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,subtraction,subtraction,NOUN
 cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,grade,grade,NOUN
 cube,if it is a part of a linking cube set then use it to teach addition and subtraction to grade schooler,schooler,schooler,NOUN
 cube,geometry,geometry,geometry,NOUN
-cupboard,use it for storage,use,use,VERB
+cupboard,use it for storage,use,use,AUX
 cupboard,use it for storage,storage,store,VERB
 cupboard,organize things in it,organize,organize,VERB
 cupboard,sand it,sand,sand,VERB
-cupboard,make it bigger,make,make,VERB
+cupboard,make it bigger,make,make,AUX
 cupboard,make it bigger,bigger,bigger,ADJ
-cupboard,make it smaller,make,make,VERB
+cupboard,make it smaller,make,make,AUX
 cupboard,make it smaller,smaller,smaller,ADJ
 cupboard,buy it,buy,buy,VERB
 cupboard,refurbish it,refurbish,refurbish,VERB
@@ -1129,7 +1128,7 @@ cutlery,picking up food,food,food,NOUN
 cutlet,steak,steak,steak,NOUN
 cymbal,crash,crash,crash,VERB
 dachshund,protector,protector,protect,VERB
-daffodil,symbol of affection,symbol,symbol,NOUN
+daffodil,symbol of affection,symbol,symbol,VERB
 daffodil,symbol of affection,affection,affection,NOUN
 dairy,read,read,read,VERB
 dairy,to write in,write,write,VERB
@@ -1155,7 +1154,7 @@ deliverer,order,order,order,VERB
 deodorant,odor,odor,odor,NOUN
 dermatologist,seen,seen,see,VERB
 dermatologist,met,met,meet,VERB
-derriere,use bathroom,use,use,VERB
+derriere,use bathroom,use,use,AUX
 derriere,use bathroom,bathroom,bathroom,NOUN
 desert,gather sand,gather,gather,VERB
 desert,gather sand,sand,sand,NOUN
@@ -1183,9 +1182,9 @@ dinner,time,time,time,NOUN
 dinner,hanging out with friends,hanging,hangout,VERB
 dinner,hanging out with friends,friends,friend,NOUN
 dinner,socializing,socializing,socialize,VERB
-dinnerware,used to eat with,used,use,VERB
+dinnerware,used to eat with,used,use,AUX
 dinnerware,used to eat with,eat,eat,VERB
-dinnerware,used for cooking,used,use,VERB
+dinnerware,used for cooking,used,use,AUX
 dinnerware,used for cooking,cooking,cook,VERB
 dirt,till,till,till,VERB
 dirt,hoe,hoe,hoe,VERB
@@ -1223,7 +1222,7 @@ doorman,greet,greet,greet,VERB
 doorstep,step one,step,step,VERB
 doorstep,step over,step,step,VERB
 doorstep,trip over,trip,trip,VERB
-doughnut,to use as a reward,use,use,VERB
+doughnut,to use as a reward,use,use,AUX
 doughnut,to use as a reward,reward,reward,NOUN
 dove,flying,flying,fly,VERB
 dove,pecking,pecking,peck,VERB
@@ -1240,10 +1239,10 @@ drill,bore,bore,bore,VERB
 drink,chilled,chilled,chill,VERB
 drink,consumed,consumed,consume,VERB
 drone,mail,mail,mail,VERB
-drone,video,video,video,NOUN
+drone,video,video,video,VERB
 drone,explore,explore,explore,VERB
 drone,make deliveries,deliveries,deliver,VERB
-drone,race,race,race,NOUN
+drone,race,race,race,VERB
 drone,do tricks,tricks,trick,VERB
 drug,take drugs,take,take,VERB
 drug,take drugs,drugs,drug,NOUN
@@ -1255,9 +1254,9 @@ drumstick,play drum,play,play,VERB
 drumstick,play drum,drum,drum,NOUN
 drumstick,play cymbals,play,play,VERB
 drumstick,play cymbals,cymbals,cymbal,NOUN
-drumstick,keep beat,keep,keep,VERB
+drumstick,keep beat,keep,keep,AUX
 drumstick,keep beat,beat,beat,NOUN
-drumstick,making music,making,make,VERB
+drumstick,making music,making,make,AUX
 drumstick,making music,music,music,NOUN
 drumstick,breaking,breaking,break,VERB
 drunkard,arrest,arrest,arrest,VERB
@@ -1291,17 +1290,17 @@ dwarf,love it,love,love,VERB
 dwarf,hate it,hate,hate,VERB
 dwarf,hang out with it,hang,hang,VERB
 dwarf,go on walks,go,go,VERB
-dwarf,go on walks,walks,walk,NOUN
+dwarf,go on walks,walks,walk,VERB
 dwarf,fight with it,fight,fight,VERB
 dwarf,hug it,hug,hug,VERB
 dwarf,pick it up,pick,pick,VERB
-dwelling,reside,reside,reside,NOUN
-dye,use on hair,use,use,VERB
+dwelling,reside,reside,reside,VERB
+dye,use on hair,use,use,AUX
 dye,use on hair,hair,hair,NOUN
 dye,fabric,fabric,fabric,NOUN
 dye,leather,leather,leather,NOUN
 dynamite,to destroy,destroy,destroy,VERB
-dynamite,to make way,make,make,VERB
+dynamite,to make way,make,make,AUX
 dynamite,to make way,way,way,NOUN
 earplug,block sound,block,block,NOUN
 earplug,block sound,sound,sound,NOUN
@@ -1323,7 +1322,7 @@ elbow,bend arm,bend,bend,VERB
 elbow,bend arm,arm,arm,NOUN
 elbow,extending,extending,extend,VERB
 elbow,supporting,supporting,support,VERB
-emerald,making jewelry,making,make,VERB
+emerald,making jewelry,making,make,AUX
 emerald,making jewelry,jewelry,jewelry,NOUN
 emerald,color matching,color,color,NOUN
 emerald,color matching,matching,match,NOUN
@@ -1345,7 +1344,7 @@ environmentalist,spreading awareness,spreading,spread,VERB
 environmentalist,spreading awareness,awareness,awareness,NOUN
 environmentalist,activism,activism,activism,NOUN
 environmentalist,education,education,educate,VERB
-eraser,use it to take away mistakes,use,use,VERB
+eraser,use it to take away mistakes,use,use,AUX
 eraser,use it to take away mistakes,take,take,VERB
 eraser,use it to take away mistakes,mistakes,mistake,NOUN
 eraser,start over,start,start,VERB
@@ -1379,7 +1378,7 @@ farmer,tends to animals,tends,tend,VERB
 farmer,tends to animals,animals,animal,NOUN
 farmer,tends to plants,tends,tend,VERB
 farmer,tends to plants,plants,plant,NOUN
-farmer,used to buy fresh produce,used,use,VERB
+farmer,used to buy fresh produce,used,use,AUX
 farmer,used to buy fresh produce,buy,buy,VERB
 farmer,used to buy fresh produce,fresh,fresh,ADJ
 farmer,used to buy fresh produce,produce,produce,NOUN
@@ -1411,15 +1410,15 @@ firebox,roasting marshmallows,marshmallows,marshmallow,NOUN
 firebox,burning things,burning,burn,VERB
 fireplace,lit,lit,light,VERB
 fireplace,build a fire,build,build,VERB
-fireplace,build a fire,fire,fire,NOUN
+fireplace,build a fire,fire,fire,VERB
 fireplace,clean out ashes,clean,clean,VERB
 fireplace,clean out ashes,ashes,ash,NOUN
-fireplace,use to destroy burnable evidence,use,use,VERB
+fireplace,use to destroy burnable evidence,use,use,AUX
 fireplace,use to destroy burnable evidence,destroy,destroy,VERB
-fireplace,use to destroy burnable evidence,burnable,burnable,ADJ
+fireplace,use to destroy burnable evidence,burnable,burn,VERB
 fireplace,use to destroy burnable evidence,evidence,evidence,NOUN
-fireplace,keeping warm,keeping,keep,VERB
-fireplace,keeping warm,warm,warm,ADJ
+fireplace,keeping warm,keeping,keep,AUX
+fireplace,keeping warm,warm,warm,VERB
 fireplace,to look fancy,look,look,VERB
 fireplace,to look fancy,fancy,fancy,ADJ
 firewood,heating,heating,heat,VERB
@@ -1427,7 +1426,7 @@ firewood,engines,engines,engine,NOUN
 firewood,electricity,electricity,electric,ADJ
 firewood,fireplace,fireplace,fireplace,NOUN
 firewood,building a fire,building,build,VERB
-firewood,building a fire,fire,fire,NOUN
+firewood,building a fire,fire,fire,VERB
 fishbone,take out of fish,take,take,VERB
 fishbone,take out of fish,fish,fish,NOUN
 fisherman,fish with,fish,fish,VERB
@@ -1439,7 +1438,7 @@ flatiron,curl,curl,curl,VERB
 flatiron,press,press,press,VERB
 fleece,sleep beneath,sleep,sleep,VERB
 fleece,sleep beneath,beneath,beneath,NOUN
-fleece,use as stuffing,use,use,VERB
+fleece,use as stuffing,use,use,AUX
 fleece,blankets,blankets,blanket,NOUN
 floor,ran,ran,run,VERB
 floor,mop,mop,mop,VERB
@@ -1493,7 +1492,7 @@ fungus,antibiotics,antibiotics,antibiotic,NOUN
 funnel,distribute liquid,distribute,distribute,VERB
 funnel,distribute liquid,liquid,liquid,NOUN
 furnace,replace,replace,replace,VERB
-gadget,use for medical,use,use,VERB
+gadget,use for medical,use,use,AUX
 gadget,use for medical,medical,medical,ADJ
 gadget,athletic,athletic,athletic,ADJ
 gadget,stress reliever,stress,stress,NOUN
@@ -1512,7 +1511,7 @@ garb,hang it up,hang,hang,VERB
 garb,fold it,fold,fold,VERB
 garb,pack it,pack,pack,VERB
 garb,sell it,sell,sell,VERB
-garbage,to make something new,make,make,VERB
+garbage,to make something new,make,make,AUX
 garbage,to make something new,new,new,ADJ
 garbage,for an art project,art,art,NOUN
 garbage,for an art project,project,project,NOUN
@@ -1524,7 +1523,7 @@ gearbox,essentials,essentials,essential,NOUN
 gem,promote beauty,promote,promote,VERB
 gem,promote beauty,beauty,beauty,NOUN
 gem,jewelry,jewelry,jewelry,NOUN
-gem,make jewelry,make,make,VERB
+gem,make jewelry,make,make,AUX
 gem,make jewelry,jewelry,jewelry,NOUN
 gem,museum,museum,museum,NOUN
 genital,reproduction,reproduction,reproduce,VERB
@@ -1533,8 +1532,8 @@ genital,pee,pee,pee,VERB
 gentleman,woman,woman,woman,NOUN
 gin,drank,drank,drink,VERB
 gin,party,party,party,NOUN
-ginger,cook with it,cook,cake,VERB
-ginger,use it to stay healthy,use,use,VERB
+ginger,cook with it,cook,cook,VERB
+ginger,use it to stay healthy,use,use,AUX
 ginger,use it to stay healthy,stay,stay,VERB
 ginger,use it to stay healthy,healthy,healthy,ADJ
 gingerbread,family fun,family,family,NOUN
@@ -1557,7 +1556,7 @@ globe,locating places,locating,locate,VERB
 globe,locating places,places,place,NOUN
 globe,visualizing the world,visualizing,visualize,VERB
 globe,visualizing the world,world,world,NOUN
-goalpost,used in sports,used,use,VERB
+goalpost,used in sports,used,use,AUX
 goalpost,used in sports,sports,sport,NOUN
 godmother,fairytale,fairytale,fairytale,NOUN
 godmother,religious,religious,religious,ADJ
@@ -1573,21 +1572,21 @@ goggles,swimming,swimming,swim,VERB
 goggles,washing hair,washing,wash,VERB
 goggles,washing hair,hair,hair,NOUN
 goggles,disinfect,disinfect,disinfect,VERB
-golfer,helpful,helpful,helpful,ADJ
-golfer,defender,defender,defend,VERB
-gondola,fun amusement park,fun,fun,ADJ
+golfer,helpful,helpful,help,VERB
+golfer,defender,defender,defense,VERB
+gondola,fun amusement park,fun,fun,VERB
 gondola,fun amusement park,amusement,amusement,NOUN
 gondola,fun amusement park,park,park,NOUN
 goose,send messages,send,send,VERB
-goose,send messages,messages,message,NOUN
+goose,send messages,messages,message,VERB
 goose,honk,honk,honk,VERB
 gramophone,record playing,record,record,NOUN
 gramophone,record playing,playing,play,VERB
 gramophone,listening to music,listening,listen,VERB
 gramophone,listening to music,music,music,NOUN
 gramophone,entertaining,entertaining,entertain,VERB
-grandchild,keep legacy alive,keep,keep,VERB
-grandchild,keep legacy alive,legacy,legacy,NOUN
+grandchild,keep legacy alive,keep,keep,AUX
+grandchild,keep legacy alive,legacy,legacy,VERB
 grandchild,keep legacy alive,alive,alive,NOUN
 grandchild,pay for,pay,pay,VERB
 granddaughter,spoil,spoil,spoil,VERB
@@ -1613,16 +1612,16 @@ groundsman,cut grass,cut,cut,VERB
 groundsman,cut grass,grass,grass,NOUN
 groundsman,keeping of the grounds,keeping,keep,NOUN
 groundsman,keeping of the grounds,grounds,grounds,NOUN
-guard,security,security,security,NOUN
+guard,security,security,security,VERB
 guard,football,football,football,NOUN
 guardrail,stop from falling,stop,stop,VERB
 guardrail,stop from falling,falling,fall,VERB
-guardrail,keep people out of places,keep,keep,VERB
+guardrail,keep people out of places,keep,keep,AUX
 guardrail,keep people out of places,people,people,NOUN
 guardrail,keep people out of places,places,place,NOUN
-guardrail,keep children safe,keep,keep,VERB
+guardrail,keep children safe,keep,keep,AUX
 guardrail,keep children safe,children,child,NOUN
-guardrail,keep children safe,safe,safe,ADJ
+guardrail,keep children safe,safe,safety,VERB
 guardsman,protects,protects,protect,VERB
 guesthouse,where guests sleep,guests,guest,NOUN
 guesthouse,where guests sleep,sleep,sleep,VERB
@@ -1637,11 +1636,11 @@ guestroom,sleep in it,sleep,sleep,VERB
 guestroom,stand in it,stand,stand,VERB
 guestroom,store things,store,store,VERB
 guestroom,furnish it,furnish,furnish,VERB
-guestroom,make it empty,make,make,VERB
-guestroom,make it empty,empty,empty,ADJ
+guestroom,make it empty,make,make,AUX
+guestroom,make it empty,empty,empty,VERB
 guestroom,put it on air bnb,put,put,VERB
 guestroom,rent it out,rent,rent,VERB
-guidebook,organized on bookshelf,organized,organize,ADJ
+guidebook,organized on bookshelf,organized,organize,VERB
 guidebook,organized on bookshelf,bookshelf,bookshelf,NOUN
 guidebook,placemat,placemat,placemat,NOUN
 Guitar,concert,concert,concert,NOUN
@@ -1655,7 +1654,7 @@ gumdrop,jaw exercise,jaw,jaw,NOUN
 gumdrop,jaw exercise,exercise,exercise,VERB
 gun,gun range,gun,gun,NOUN
 gun,gun range,range,range,NOUN
-gunpowder,make things go boom,make,make,VERB
+gunpowder,make things go boom,make,make,AUX
 gunpowder,make things go boom,go,go,VERB
 gunpowder,make things go boom,boom,boom,NOUN
 gymnasium,programs,programs,program,NOUN
@@ -1745,7 +1744,7 @@ herbivore,pest control,control,control,NOUN
 herbivore,bugs,bugs,bug,NOUN
 heroin,abuse,abuse,abuse,VERB
 heroin,smoke,smoke,smoke,VERB
-heroin,use,use,use,VERB
+heroin,use,use,use,AUX
 heroin,snort,snort,snort,VERB
 heroin,drugs,drugs,drug,NOUN
 heroin,awake,awake,awake,NOUN
@@ -1778,7 +1777,7 @@ hoop,to throw a ball through,throw,throw,VERB
 hoop,to throw a ball through,ball,ball,NOUN
 horseman,to ride a horse,ride,ride,VERB
 horseman,to ride a horse,horse,horse,NOUN
-horseradish,to make wasabi,make,make,VERB
+horseradish,to make wasabi,make,make,AUX
 horseradish,to make wasabi,wasabi,wasabi,NOUN
 horseradish,put it on a sandwich,put,put,VERB
 horseradish,put it on a sandwich,sandwich,sandwich,NOUN
@@ -1800,7 +1799,7 @@ hostess,to welcome,welcome,welcome,INTJ
 hostess,to run food,run,run,VERB
 hostess,to run food,food,food,NOUN
 hostess,to wish farewell,wish,wish,VERB
-hotplate,used to heat things up,used,use,VERB
+hotplate,used to heat things up,used,use,AUX
 hotplate,used to heat things up,heat,heat,VERB
 hotplate,science experiment,science,science,NOUN
 hotplate,science experiment,experiment,experiment,NOUN
@@ -1845,14 +1844,14 @@ husband,laugh at,laugh,laugh,VERB
 hutch,take apart,take,take,VERB
 ice,freeze,freeze,freeze,VERB
 ice,ice cream,ice,ice cream,NOUN
-ice,melt,melt,melt,NOUN
+ice,melt,melt,melt,VERB
 ice,cooler,cooler,cooler,NOUN
 ice,chill,chill,chill,VERB
 icepick,stab someone,stab,stab,VERB
 icepick,pick ice,pick,pick,VERB
 icepick,pick ice,ice,ice,NOUN
 icepick,twirl it,twirl,twirl,VERB
-icepick,use it as a wand,use,use,VERB
+icepick,use it as a wand,use,use,AUX
 icepick,use it as a wand,wand,wand,NOUN
 icepick,stab something,stab,stab,VERB
 iguana,eating bugs,eating,eat,VERB
@@ -1879,7 +1878,7 @@ instructor,grade test,test,test,NOUN
 insulin,taken,taken,take,VERB
 insulin,created,created,create,VERB
 insulin,distributed,distributed,distribute,VERB
-inventor,creative,creative,creative,ADJ
+inventor,creative,creative,create,VERB
 investigator,follow,follow,follow,VERB
 investigator,stakeout,stakeout,stakeout,VERB
 investigator,chase,chase,chase,VERB
@@ -1898,7 +1897,7 @@ iron,nutrition supplement,nutrition,nutrition,NOUN
 iron,nutrition supplement,supplement,supplement,NOUN
 iron,smooth out a problem,smooth,smooth,VERB
 iron,smooth out a problem,problem,problem,NOUN
-jacket,keep arm,keep,keep,VERB
+jacket,keep arm,keep,keep,AUX
 jacket,keep arm,arm,arm,NOUN
 jacket,blanket,blanket,blanket,NOUN
 jacket,cushion,cushion,cushion,NOUN
@@ -1915,9 +1914,9 @@ jam,put on bread,bread,bread,NOUN
 jam,dipping,dipping,dip,VERB
 jar,store ingredients,store,store,VERB
 jar,store ingredients,ingredients,ingredient,NOUN
-jar,use it as a cup,use,use,VERB
+jar,use it as a cup,use,use,AUX
 jar,use it as a cup,cup,cup,NOUN
-jar,use it for storing small objects like buttons,use,use,VERB
+jar,use it for storing small objects like buttons,use,use,AUX
 jar,use it for storing small objects like buttons,storing,store,VERB
 jar,use it for storing small objects like buttons,small,small,ADJ
 jar,use it for storing small objects like buttons,objects,object,NOUN
@@ -1940,7 +1939,7 @@ jelly,pastries,pastries,pastry,NOUN
 jeweler,shine,shine,shine,VERB
 jeweler,repair,repair,repair,VERB
 jewelry,manufacture,manufacture,manufacture,VERB
-jogger,use them to help motivate you as you run,use,use,VERB
+jogger,use them to help motivate you as you run,use,use,AUX
 jogger,use them to help motivate you as you run,help,help,VERB
 jogger,use them to help motivate you as you run,motivate,motivate,VERB
 jogger,use them to help motivate you as you run,run,run,VERB
@@ -1952,27 +1951,27 @@ journal,write,write,write,VERB
 journal,express,express,express,VERB
 journal,vent,vent,vent,VERB
 journal,draw,draw,draw,VERB
-junk,make tools,make,make,VERB
+junk,make tools,make,make,AUX
 junk,make tools,tools,tool,NOUN
 junk,throw in trash,throw,throw,VERB
 junk,throw in trash,trash,trash,NOUN
 junk,burn.,burn,burn,VERB
-jurist,make decisions,make,make,VERB
-jurist,make decisions,decisions,decision,NOUN
+jurist,make decisions,make,make,AUX
+jurist,make decisions,decisions,decide,VERB
 jurist,ruling over a court,ruling,rule,VERB
 jurist,ruling over a court,court,court,NOUN
 kale,eat with a meal,eat,eat,VERB
 kale,eat with a meal,meal,meal,NOUN
 kale,going vegan,going,go,VERB
 kale,going vegan,vegan,vegan,ADJ
-kazoo,make music,make,make,VERB
+kazoo,make music,make,make,AUX
 kazoo,make music,music,music,NOUN
 kelp,to eat,eat,eat,VERB
 kerchief,pull hair back,pull,pull,VERB
 kerchief,pull hair back,hair,hair,NOUN
 kerchief,sway,sway,sway,VERB
 kerchief,crumble,crumble,crumble,VERB
-kernel,make popcorn,make,make,VERB
+kernel,make popcorn,make,make,AUX
 kernel,make popcorn,popcorn,popcorn,NOUN
 ketchup,hot dogs,hot,hot,ADJ
 ketchup,hot dogs,dogs,dog,NOUN
@@ -1994,14 +1993,14 @@ keyhole,to put a key in,put,put,VERB
 keyhole,to put a key in,key,key,ADJ
 kid,child,child,child,NOUN
 kindling,to start a fire,start,start,VERB
-kindling,to start a fire,fire,fire,NOUN
+kindling,to start a fire,fire,fire,VERB
 kiss,couple,couple,couple,NOUN
-kissing,use to show affection,use,use,VERB
+kissing,use to show affection,use,use,AUX
 kissing,use to show affection,show,show,VERB
 kissing,use to show affection,affection,affection,NOUN
-kissing,use to anger,use,use,VERB
+kissing,use to anger,use,use,AUX
 kissing,use to anger,anger,anger,VERB
-kissing,use to betray jesus,use,use,VERB
+kissing,use to betray jesus,use,use,AUX
 kissing,use to betray jesus,betray,betray,VERB
 kissing,use to betray jesus,jesus,jesus,X
 kissing,spreading diseases,spreading,spread,VERB
@@ -2009,12 +2008,12 @@ kissing,spreading diseases,diseases,disease,NOUN
 kissing,showing affection,showing,show,VERB
 kissing,showing affection,affection,affection,NOUN
 kit,medical kit,medical,medical,ADJ
-kitchen,to cook,cook,cake,VERB
-kitten,make posters,make,make,VERB
+kitchen,to cook,cook,cook,VERB
+kitten,make posters,make,make,AUX
 kitten,make posters,posters,poster,NOUN
 kitten,write books,write,write,VERB
 kitten,write books,books,book,NOUN
-kitty,use it as a pet,use,use,VERB
+kitty,use it as a pet,use,use,AUX
 kitty,use it as a pet,pet,pet,NOUN
 knapsack,backpack,backpack,backpack,NOUN
 knee,buckle,buckle,buckle,VERB
@@ -2027,11 +2026,11 @@ knuckle,kneading,kneading,knead,VERB
 knuckle,massaging,massaging,massage,VERB
 laboratory,test,test,test,VERB
 laboratory,walked in,walked,walk,VERB
-lace,use it for clothing,use,use,VERB
+lace,use it for clothing,use,use,AUX
 lace,use it for clothing,clothing,clothes,NOUN
 lace,feel it,feel,feel,VERB
 lace,sew it,sew,sow,VERB
-lace,make it,make,make,VERB
+lace,make it,make,make,AUX
 lace,run around with it in the wind,run,run,VERB
 lace,run around with it in the wind,wind,wind,NOUN
 lace,frame it,frame,frame,VERB
@@ -2066,7 +2065,7 @@ laryngoscope,to view to the larynx,larynx,larynx,NOUN
 laryngoscope,to stick down a throat,stick,stick,VERB
 laryngoscope,to stick down a throat,throat,throat,NOUN
 laryngoscope,laryngoscopy,laryngoscopy,laryngoscopy,VERB
-lasso,rope,rope,rope,NOUN
+lasso,rope,rope,rope,VERB
 lasso,capture,capture,capture,VERB
 lasso,catch,catch,catch,VERB
 lasso,cows,cows,cow,NOUN
@@ -2095,7 +2094,7 @@ lettuce,grow in garden,garden,garden,NOUN
 lettuce,feed bunnies,feed,feed,NOUN
 lettuce,feed bunnies,bunnies,bunny,NOUN
 lifeboat,rescue,rescue,rescue,VERB
-lifeboat,sunken ship,sunken,sunken,ADJ
+lifeboat,sunken ship,sunken,sink,VERB
 lifeboat,sunken ship,ship,ship,NOUN
 lifeboat,saving a life,saving,save,VERB
 lifeboat,saving a life,life,life,NOUN
@@ -2103,7 +2102,7 @@ lighthouse,look at boats,look,look,VERB
 lighthouse,look at boats,boats,boat,NOUN
 lighthouse,look at ocean,look,look,VERB
 lighthouse,look at ocean,ocean,ocean,NOUN
-lighthouse,make a path,make,make,VERB
+lighthouse,make a path,make,make,AUX
 lighthouse,make a path,path,path,NOUN
 lilac,crush,crush,crush,VERB
 lilac,flatten,flatten,flatten,VERB
@@ -2116,7 +2115,7 @@ limestone,sit on,sit,sit,VERB
 linen,measurement,measurement,measure,VERB
 linen,in laundry,laundry,laundry,NOUN
 linen,spread out,spread,spread,VERB
-linoleum,wrap food,wrap,wrap,ADJ
+linoleum,wrap food,wrap,wrap,VERB
 linoleum,wrap food,food,food,NOUN
 lip,gloss,gloss,gloss,NOUN
 lip,spit,spit,spit,VERB
@@ -2145,7 +2144,7 @@ lock,putting the lock on a gate,putting,put,VERB
 lock,putting the lock on a gate,gate,gate,NOUN
 lock,diary,diary,diary,INTJ
 lock,house,house,house,NOUN
-lock,safe,safe,safe,ADJ
+lock,safe,safe,safety,VERB
 locker,lock,lock,lock,VERB
 locker,shut,shut,shut,VERB
 locker,hold things,hold,hold,VERB
@@ -2172,7 +2171,7 @@ lovebird,symbol of love,symbol,symbol,NOUN
 lovebird,symbol of love,love,love,NOUN
 lozenge,to relieve,relieve,relieve,VERB
 lozenge,to taste,taste,taste,VERB
-lozenge,to make someone be quiet,make,make,VERB
+lozenge,to make someone be quiet,make,make,AUX
 lozenge,to make someone be quiet,quiet,quiet,ADJ
 lozenge,to soothe,soothe,soothe,VERB
 lubrication,help things move easier,help,help,VERB
@@ -2195,7 +2194,7 @@ machine,any form of assistance to aid humans,form,form,NOUN
 machine,any form of assistance to aid humans,assistance,assist,VERB
 machine,any form of assistance to aid humans,aid,aid,VERB
 machine,any form of assistance to aid humans,humans,human,NOUN
-magnet,collect change,collect,collect,ADJ
+magnet,collect change,collect,collect,VERB
 magnet,collect change,change,change,NOUN
 magnet,pick up unwanted metal,pick,pick,VERB
 magnet,pick up unwanted metal,unwanted,unwanted,ADJ
@@ -2230,7 +2229,7 @@ matter,mass,mass,mass,ADJ
 matter,weight,weight,weight,NOUN
 mayonnaise,sped,sped,spread,VERB
 mayonnaise,taste,taste,taste,VERB
-mayonnaise,make potato salad,make,make,VERB
+mayonnaise,make potato salad,make,make,AUX
 mayonnaise,make potato salad,potato,potato,NOUN
 mayonnaise,make potato salad,salad,salad,NOUN
 mayonnaise,turkey burger,turkey,turkey,NOUN
@@ -2260,8 +2259,8 @@ menu,find what you want to order,find,find,VERB
 menu,find what you want to order,want,want,VERB
 menu,find what you want to order,order,order,VERB
 menu,fan you off,fan,fan,VERB
-merchandise,to use,use,use,VERB
-merchandise,sale,sale,sale,NOUN
+merchandise,to use,use,use,AUX
+merchandise,sale,sale,sell,VERB
 merchandise,redo,redo,redo,VERB
 meteorologist,weather,weather,weather,NOUN
 mice,rodents,rodents,rodent,NOUN
@@ -2269,8 +2268,8 @@ mice,experimental objects,experimental,experiment,VERB
 mice,experimental objects,objects,object,NOUN
 microphone,sing,sing,sing,VERB
 microphone,rap,rap,rap,VERB
-microphone,use as a weapon,use,use,VERB
-microphone,use as a weapon,weapon,weapon,NOUN
+microphone,use as a weapon,use,use,AUX
+microphone,use as a weapon,weapon,weapon,VERB
 midshipman,appointed,appointed,appoint,VERB
 midshipman,communicate,communicate,communicate,VERB
 mincemeat,meal,meal,meal,NOUN
@@ -2282,9 +2281,9 @@ mitt,to catch a baseball,catch,catch,VERB
 mitt,to catch a baseball,baseball,baseball,NOUN
 mitt,to protect from heat,protect,protect,VERB
 mitt,to protect from heat,heat,heat,NOUN
-mitt,to keep your hands warm,keep,keep,VERB
+mitt,to keep your hands warm,keep,keep,AUX
 mitt,to keep your hands warm,hands,hand,NOUN
-mitt,to keep your hands warm,warm,warm,ADJ
+mitt,to keep your hands warm,warm,warm,VERB
 molasses,sweeten food,sweeten,sweeten,VERB
 molasses,sweeten food,food,food,NOUN
 molasses,gingerbread,gingerbread,gingerbread,NOUN
@@ -2328,14 +2327,14 @@ mountainside,view,view,view,VERB
 mountainside,snowboard,snowboard,snowboard,VERB
 mountainside,ski,ski,ski,VERB
 mouse,trap it,trap,trap,VERB
-mouse,use to navigate a computer,use,use,VERB
+mouse,use to navigate a computer,use,use,AUX
 mouse,use to navigate a computer,navigate,navigate,VERB
 mouse,use to navigate a computer,computer,computer,NOUN
 mousse,style,style,style,NOUN
 moustache,sexual,sexual,sexual,ADJ
 moustache,man,man,man,NOUN
 mouth,clean it,clean,clean,VERB
-mouthwash,fresh breath,fresh,fresh,ADJ
+mouthwash,fresh breath,fresh,freshen,VERB
 mouthwash,fresh breath,breath,breath,NOUN
 mud,stomp,stomp,stomp,VERB
 muffler,car,car,car,NOUN
@@ -2374,10 +2373,10 @@ mum,call her,call,call,VERB
 mum,visit her,visit,visit,VERB
 mum,take her out for the day,take,take,VERB
 mum,take her out for the day,day,day,NOUN
-munitions,used to fire guns,used,use,VERB
+munitions,used to fire guns,used,use,AUX
 munitions,used to fire guns,fire,fire,VERB
 munitions,used to fire guns,guns,gun,NOUN
-munitions,used as a display or decoration,used,use,VERB
+munitions,used as a display or decoration,used,use,AUX
 munitions,used as a display or decoration,display,display,VERB
 munitions,used as a display or decoration,decoration,decorate,VERB
 muscle,body builder,body,body,NOUN
@@ -2413,7 +2412,7 @@ nameplate,front door,front door,front door,VERB
 navel,standing,standing,stand,VERB
 necklace,sell,sell,sell,VERB
 necklace,to look pretty,look,look,VERB
-necklace,a gift,gift,gift,NOUN
+necklace,a gift,gift,gift,VERB
 needlepoint,dexterity,dexterity,dexterity,NOUN
 needlepoint,amusement,amusement,amuse,VERB
 needlepoint,time pass,time,time,NOUN
@@ -2421,9 +2420,9 @@ needlepoint,time pass,pass,pass,VERB
 needlepoint,project,project,project,NOUN
 needles,shots vaccines,shots,shot,NOUN
 needles,shots vaccines,vaccines,vaccine,NOUN
-needles,tattoos,tattoos,tattoo,NOUN
-needles,acupuncture,acupuncture,acupuncture,NOUN
-needles,making crafts,making,make,VERB
+needles,tattoos,tattoos,tattoo,VERB
+needles,acupuncture,acupuncture,acupuncture,VERB
+needles,making crafts,making,make,AUX
 needles,making crafts,crafts,craft,NOUN
 needlework,career,career,career,NOUN
 needlework,education purposes,education,educate,VERB
@@ -2434,9 +2433,8 @@ nephew,name,name,name,NOUN
 nephew,give advice,give,give,ADJ
 nephew,give advice,advice,advice,NOUN
 nephew,swinging,swinging,swing,VERB
-nephew,loving,loving,love,ADJ
-nephew,birth control,birth,birth,NOUN
-nephew,birth control,control,control,NOUN
+nephew,loving,loving,love,VERB
+nephew,birth control,birth,birth control,NOUN
 net,holding,holding,hold,VERB
 nettle,scrape,scrape,scrape,VERB
 nettle,roll,roll,roll,VERB
@@ -2449,8 +2447,8 @@ neurologist,brain damage help,help,help,VERB
 newlyweds,honeymoon,honeymoon,honeymoon,NOUN
 newlyweds,family,family,family,NOUN
 newlyweds,insurance,insurance,insurance,NOUN
-newlyweds,satisfaction,satisfaction,satisfaction,NOUN
-newscaster,report news,report,report,NOUN
+newlyweds,satisfaction,satisfaction,satisfy,VERB
+newscaster,report news,report,report,VERB
 newscaster,report news,news,news,NOUN
 newsprint,print,print,print,VERB
 newsprint,wipe down,wipe,wipe,VERB
@@ -2461,7 +2459,7 @@ newsstand,buying newspapers,buying,buy,VERB
 newsstand,buying newspapers,newspapers,newspaper,NOUN
 newsstand,talking,talking,talk,VERB
 nickel,count,count,count,VERB
-nickel,use for change,use,use,VERB
+nickel,use for change,use,use,AUX
 nickel,use for change,change,change,NOUN
 nightdress,nightgown,nightgown,nightgown,NOUN
 nightgown,pajamas,pajamas,pajama,NOUN
@@ -2474,7 +2472,7 @@ nightstick,to see,see,see,VERB
 nightstick,hit someone,hit,hit,VERB
 nightstick,twirl,twirl,twirl,VERB
 nipple,breast milk,breast,breast,NOUN
-nipple,breast milk,milk,milk,NOUN
+nipple,breast milk,milk,milk,VERB
 nipple,to nourish,nourish,nourish,VERB
 noodles,boiling it,boiling,boil,VERB
 noodles,cooking it,cooking,cooke,VERB
@@ -2489,15 +2487,15 @@ note,message,message,message,VERB
 note,rip,rip,rip,VERB
 note,shred,shred,shred,VERB
 note,mental,mental,mental,ADJ
-notepaper,notes,notes,note,NOUN
+notepaper,notes,notes,note,VERB
 novel,concentration,concentration,concentrate,VERB
 novel,to inspire,inspire,inspire,VERB
 novel,to understand,understand,understand,VERB
 novel,enjoy,enjoy,enjoy,VERB
 nun,counsel,counsel,counsel,VERB
-nut,topping,topping,topping,NOUN
+nut,topping,topping,topping,VERB
 nut,snacking,snacking,snack,VERB
-nut,use in baking and cooking,use,use,VERB
+nut,use in baking and cooking,use,use,AUX
 nut,use in baking and cooking,baking,bake,VERB
 nut,use in baking and cooking,cooking,cook,VERB
 nut,feed to squirrel,feed,feed,VERB
@@ -2506,10 +2504,10 @@ nutmeg,to pour,pour,pour,VERB
 nutmeg,to splash on others,splash,splash,VERB
 nutshell,outside surface,outside,outside,ADJ
 nutshell,outside surface,surface,surface,NOUN
-nutshell,shell,shell,shell,NOUN
+nutshell,shell,shell,shell,VERB
 nylon,underwear,underwear,underwear,ADJ
 obstetrician,guidance,guidance,guide,VERB
-obstetrician,delivery,delivery,delivery,NOUN
+obstetrician,delivery,delivery,deliver,VERB
 obstetrician,birth,birth,birth,NOUN
 obstetrician,treatment,treatment,treatment,NOUN
 obstetrician,go to doctor,go,go,VERB
@@ -2526,14 +2524,14 @@ oceanographer,study ocean animals,study,study,VERB
 oceanographer,study ocean animals,ocean,ocean,ADJ
 oceanographer,study ocean animals,animals,animal,NOUN
 oilcloth,coverage,coverage,cover,VERB
-oilcloth,prints,prints,print,NOUN
+oilcloth,prints,prints,print,VERB
 oilcloth,luggage,luggage,luggage,NOUN
 oilcloth,removing makeup,removing,remove,VERB
-oilcloth,removing makeup,makeup,makeup,NOUN
+oilcloth,removing makeup,makeup,makeup,AUX
 oilcloth,removing oil on skin,removing,remove,VERB
 oilcloth,removing oil on skin,oil,oil,NOUN
 oilcloth,removing oil on skin,skin,skin,NOUN
-opal,to make beautiful,make,make,VERB
+opal,to make beautiful,make,make,AUX
 opal,to make beautiful,beautiful,beautiful,ADJ
 opium,scent,scent,scent,NOUN
 orangutan,monkey,monkey,monkey,NOUN
@@ -2558,8 +2556,8 @@ outhouse,bathroom,bathroom,bathroom,NOUN
 outhouse,brush,brush,brush,VERB
 overcoat,dry,dry,dry,VERB
 pacifier,sucked,sucked,suck,VERB
-pacifier,chew on,chew,chew,NOUN
-pacifier,use to plug hole,use,use,VERB
+pacifier,chew on,chew,chew,VERB
+pacifier,use to plug hole,use,use,AUX
 pacifier,use to plug hole,plug,plug,VERB
 pacifier,use to plug hole,hole,hole,NOUN
 pacifier,loosen a tooth,loosen,loosen,VERB
@@ -2583,13 +2581,13 @@ paintbox,tools,tools,tool,NOUN
 paintbox,for painting,painting,paint,VERB
 paintbox,carry painting equipment,carry,carry,VERB
 paintbox,carry painting equipment,equipment,equipment,NOUN
-pajamas,use to sleep,use,use,VERB
+pajamas,use to sleep,use,use,AUX
 pajamas,use to sleep,sleep,sleep,VERB
 pajamas,tie something with,tie,tie,VERB
 pan,weapon,weapon,weapon,NOUN
 panhandler,money,money,money,NOUN
 panhandler,job,job,job,NOUN
-panhandler,use them to get money,use,use,VERB
+panhandler,use them to get money,use,use,AUX
 panhandler,use them to get money,money,money,NOUN
 pantaloons,buy,buy,buy,VERB
 pantry,store food,store,store,VERB
@@ -2614,10 +2612,10 @@ parachute,parasailing,parasailing,parasailing,VERB
 parachute,jumping out a plane,jumping,jump,VERB
 parachute,jumping out a plane,plane,plane,NOUN
 parachutist,assist,assist,assist,VERB
-parachutist,parachute,parachute,parachute,NOUN
+parachutist,parachute,parachute,parachute,VERB
 parachutist,jumping,jumping,jump,VERB
 parakeet,companion,companion,companion,NOUN
-paraphernalia,fetish,fetish,fetish,NOUN
+paraphernalia,fetish,fetish,fetish,VERB
 parcel,ship,ship,ship,VERB
 parka,coat,coat,coat,NOUN
 parka,cold weather,cold,cold,ADJ
@@ -2687,7 +2685,7 @@ phalanges,to touch,touch,touch,VERB
 pharmacist,give you pills medicine,give,give,VERB
 pharmacist,give you pills medicine,pills,pill,NOUN
 pharmacist,give you pills medicine,medicine,medicine,NOUN
-pharmacist,use them as a resource of knowledge,use,use,VERB
+pharmacist,use them as a resource of knowledge,use,use,AUX
 pharmacist,use them as a resource of knowledge,resource,resource,NOUN
 pharmacist,use them as a resource of knowledge,knowledge,knowledge,NOUN
 photograph,scrapbook,scrapbook,scrapbook,NOUN
@@ -2699,7 +2697,7 @@ photograph,document conditions,conditions,condition,NOUN
 physician,to take care of a sickness,take,take,VERB
 physician,to take care of a sickness,care,care,NOUN
 physician,to take care of a sickness,sickness,sickness,NOUN
-physician,to keep a person in good health,keep,keep,VERB
+physician,to keep a person in good health,keep,keep,AUX
 physician,to keep a person in good health,person,person,NOUN
 physician,to keep a person in good health,good,good,ADJ
 physician,to keep a person in good health,health,health,NOUN
@@ -2743,9 +2741,9 @@ pimple,popping,popping,pop,VERB
 pimple,squeezing,squeezing,squeeze,VERB
 pimple,picking,picking,pick,VERB
 pin,board,board,board,NOUN
-pin,blame,blame,blame,NOUN
+pin,blame,blame,blame,VERB
 pin,clip something,clip,clip,VERB
-pinecone,art,art,art,NOUN
+pinecone,art,art,art,VERB
 pinecone,crafts,crafts,craft,NOUN
 pinkie,promise,promise,promise,VERB
 pinkie,to pick up things,pick,pick,VERB
@@ -2763,7 +2761,7 @@ pitchfork,stabbing,stabbing,stab,VERB
 pitchfork,picks things up,picks,pick,VERB
 placard,playing cards,playing,play,VERB
 placard,playing cards,cards,card,NOUN
-placenta,keeps a fetus alive,keeps,keep,VERB
+placenta,keeps a fetus alive,keeps,keep,AUX
 placenta,keeps a fetus alive,fetus,fetus,ADJ
 placenta,keeps a fetus alive,alive,alive,NOUN
 placenta,gain nutrients,gain,gain,VERB
@@ -2842,7 +2840,7 @@ policewoman,law,law,law,NOUN
 policewoman,interrogate,interrogate,interrogate,VERB
 policewoman,employ,employ,employ,NOUN
 policewoman,spokesperson,spokesperson,spokesperson,NOUN
-politician,to make political decisions,make,make,VERB
+politician,to make political decisions,make,make,AUX
 politician,to make political decisions,political,political,ADJ
 politician,to make political decisions,decisions,decide,VERB
 politician,to aid the common people,aid,aid,VERB
@@ -2855,7 +2853,7 @@ polyester,sheets,sheets,sheet,NOUN
 pomegranate,throw it away,throw,throw away,VERB
 pomegranate,to crush,crush,crush,VERB
 pomegranate,juice,juice,juice,VERB
-pony,keep as pet,keep,keep,VERB
+pony,keep as pet,keep,keep,AUX
 pony,keep as pet,pet,pet,NOUN
 pooch,dog,dog,dog,NOUN
 pool,flow,flow,flow,VERB
@@ -2892,9 +2890,9 @@ preschooler,play games with,play,play,VERB
 preschooler,play games with,games,game,NOUN
 preschooler,ensure they get proper nap,ensure,ensure,VERB
 preschooler,ensure they get proper nap,proper,proper,ADJ
-preschooler,ensure they get proper nap,nap,nap,NOUN
+preschooler,ensure they get proper nap,nap,nap,VERB
 preschooler,disciplining,disciplining,discipline,VERB
-present,used,used,use,VERB
+present,used,used,use,AUX
 present,cooked,cooked,cook,VERB
 pretzel,held,held,hold,VERB
 priest,spoken to,spoken,speak,VERB
@@ -2931,7 +2929,7 @@ purse,carry money,money,money,NOUN
 putty,sad,sad,sad,ADJ
 puzzle,clue,clue,clue,NOUN
 puzzle,game,game,game,NOUN
-puzzle,relaxer,relaxer,relaxer,NOUN
+puzzle,relaxer,relaxer,relax,VERB
 puzzle,throw it,throw,throw,VERB
 quarterback,running the ball,running,run,VERB
 quarterback,running the ball,ball,ball,NOUN
@@ -2965,7 +2963,7 @@ raft,save,save,save,VERB
 raft,emergency,emergency,emergency,NOUN
 raft,sail,sail,sail,VERB
 rail,swing from it,swing,swing,VERB
-rail,use it to build,use,use,VERB
+rail,use it to build,use,use,AUX
 rail,use it to build,build,build,VERB
 rail,hit it,hit,hit,VERB
 rail,weld it,weld,weld,VERB
@@ -2980,12 +2978,12 @@ raincoat,protect from rain,protect,protect,VERB
 raincoat,protect from rain,rain,rain,NOUN
 raincoat,designer,designer,designer,NOUN
 raincoat,stay dry,stay,stay,VERB
-raincoat,stay dry,dry,dry,NOUN
+raincoat,stay dry,dry,dry,VERB
 raincoat,get wet,wet,wet,ADJ
 raincoat,not wear,wear,wear,VERB
 rainfall,catching in a bottle,catching,catch,VERB
 rainfall,catching in a bottle,bottle,bottle,NOUN
-rainwater,used to water flowers,used,use,VERB
+rainwater,used to water flowers,used,use,AUX
 rainwater,used to water flowers,water,water,NOUN
 rainwater,used to water flowers,flowers,flower,NOUN
 rainwater,water crops,water,water,VERB
@@ -3005,7 +3003,7 @@ rancher,deals with cattle or horses,deals,deal,VERB
 rancher,deals with cattle or horses,cattle,cattle,NOUN
 rancher,deals with cattle or horses,horses,horse,NOUN
 rancher,worker,worker,worker,NOUN
-rancher,keeping animals,keeping,keep,VERB
+rancher,keeping animals,keeping,keep,AUX
 rancher,keeping animals,animals,animal,NOUN
 rancher,take care of farm animals,care,care,VERB
 rancher,take care of farm animals,farm,farm,NOUN
@@ -3020,13 +3018,13 @@ rawhide,lick,lick,lick,VERB
 rawhide,rub,rub,rub,VERB
 rawhide,create items,create,create,VERB
 rawhide,create items,items,item,NOUN
-rawhide,make clothing,make,make,VERB
+rawhide,make clothing,make,make,AUX
 rawhide,make clothing,clothing,clothing,NOUN
-rawhide,make belt,make,make,VERB
+rawhide,make belt,make,make,AUX
 rawhide,make belt,belt,belt,NOUN
-rawhide,make rug,make,make,VERB
+rawhide,make rug,make,make,AUX
 rawhide,make rug,rug,rug,NOUN
-rawhide,mag curtains,make,make,VERB
+rawhide,mag curtains,make,make,AUX
 rawhide,mag curtains,curtains,curtain,NOUN
 record,visual,visual,visual,ADJ
 recorder,to record something,record,record,VERB
@@ -3045,10 +3043,10 @@ refrigerator,open,open,open,VERB
 refrigerator,close,close,close,VERB
 refrigerator,freeze food,freeze,freeze,VERB
 refrigerator,freeze food,food,food,NOUN
-refrigerator,keep items cold,keep,keep,VERB
+refrigerator,keep items cold,keep,keep,AUX
 refrigerator,keep items cold,items,item,NOUN
-refrigerator,keep items cold,cold,cold,ADJ
-refrigerator,cool,cool,cool,ADJ
+refrigerator,keep items cold,cold,cold,VERB
+refrigerator,cool,cool,cool,VERB
 reptile,to pet,pet,pet,VERB
 respirator,breathe,breathe,breato,VERB
 respirator,clear airway,clear,clear,ADJ
@@ -3083,8 +3081,8 @@ roach,lay eggs,lay,lay,VERB
 roach,lay eggs,eggs,egg,NOUN
 roach,squish,squish,squish,VERB
 robe,to cover,cover,cover,VERB
-robe,keep warm,keep,keep,VERB
-robe,keep warm,warm,warm,ADJ
+robe,keep warm,keep,keep,AUX
+robe,keep warm,warm,warm,VERB
 Robot,program to carry out specific functions,program,program,VERB
 Robot,program to carry out specific functions,carry,carry out,VERB
 Robot,program to carry out specific functions,specific,specific,ADJ
@@ -3094,17 +3092,17 @@ Robot,ensure proper battery care,ensure,ensure,VERB
 Robot,ensure proper battery care,proper,proper,ADJ
 Robot,ensure proper battery care,battery,battery,NOUN
 Robot,ensure proper battery care,care,care,VERB
-Robot,do not give too much information or power,give,give,VERB
+Robot,do not give too much information or power,give,give,AUX
 Robot,do not give too much information or power,much,much,ADJ
 Robot,do not give too much information or power,information,information,NOUN
 Robot,do not give too much information or power,power,power,VERB
-rock,pile,pile,pile,NOUN
-rock,smooth,smooth,smooth,ADJ
-rocker,rock in it,rock,rock,NOUN
+rock,pile,pile,pile,VERB
+rock,smooth,smooth,smooth,VERB
+rocker,rock in it,rock,rock,VERB
 rocker,put a baby in it,put,put,VERB
 rocker,put a baby in it,baby,baby,NOUN
 rocker,sit in it,sit,sit,VERB
-rocker,use it to decorate a baby room,use,use,VERB
+rocker,use it to decorate a baby room,use,use,AUX
 rocker,use it to decorate a baby room,decorate,decorate,VERB
 rocker,use it to decorate a baby room,baby,baby,NOUN
 rocker,use it to decorate a baby room,room,room,NOUN
@@ -3118,17 +3116,17 @@ rodent,food source for predators,food,food,NOUN
 rodent,food source for predators,source,source,NOUN
 rodent,food source for predators,predators,predator,NOUN
 rodent,set traps,set,set,VERB
-rodent,set traps,traps,trap,NOUN
+rodent,set traps,traps,trap,VERB
 roll,kick,kick,kick,VERB
 roll,dip,dip,dip,VERB
 roll,physical movement,physical,physical,ADJ
 roll,physical movement,movement,move,VERB
 roosters,loud noise,loud,loud,ADJ
-roosters,loud noise,noise,noise,NOUN
+roosters,loud noise,noise,noise,VERB
 root,uprooted,uprooted,uproot,VERB
 root,colored,colored,color,VERB
 rosebush,gardening,gardening,garden,VERB
-rosebush,flourishing,flourishing,flourish,NOUN
+rosebush,flourishing,flourishing,flourish,VERB
 rosebush,pick,pick,pick,VERB
 rosebush,pick roses,pick,pick,VERB
 rosebush,pick roses,roses,rose,NOUN
@@ -3146,9 +3144,9 @@ sack,carry stuff,carry,carry,VERB
 sack,purse,purse,purse,NOUN
 sackcloth,carry food,carry,carry,VERB
 sackcloth,carry food,food,food,NOUN
-sackcloth,make clothes,make,make,VERB
+sackcloth,make clothes,make,make,AUX
 sackcloth,make clothes,clothes,clothes,NOUN
-sackcloth,make shoes,make,make,VERB
+sackcloth,make shoes,make,make,AUX
 sackcloth,make shoes,shoes,shoe,VERB
 saddlebag,horse,horse,horse,NOUN
 saddlebag,supplies,supplies,supplies,NOUN
@@ -3169,14 +3167,14 @@ salmon,seasoning,seasoning,season,VERB
 salmon,cleaning,cleaning,clean,VERB
 salmon,swimming salmon,swimming,swim,VERB
 Saloon,lagoon,lagoon,lagoon,NOUN
-saloonkeeper,organized,organized,organize,ADJ
+saloonkeeper,organized,organized,organize,VERB
 saloonkeeper,polite,polite,polite,NOUN
-saltwater,use for tooth loss,use,use,VERB
+saltwater,use for tooth loss,use,use,AUX
 saltwater,use for tooth loss,tooth,tooth,NOUN
 saltwater,use for tooth loss,loss,loss,NOUN
 saltwater,tank,tank,tank,NOUN
 salve,lotion,lotion,lotion,NOUN
-salve,balm,balm,balm,NOUN
+salve,balm,balm,balm,VERB
 salve,moisturizer,moisturizer,moisturize,VERB
 sand,play in,play,play,VERB
 sandalwood,moved,moved,move,VERB
@@ -3196,7 +3194,7 @@ sandcastle,protect turtle eggs,turtle,turtle,NOUN
 sandcastle,protect turtle eggs,eggs,egg,NOUN
 sandpaper,rough,rough,rough,ADJ
 sandpaper,walls,walls,wall,NOUN
-sandpaper,smooth things,smooth,smooth,ADJ
+sandpaper,smooth things,smooth,smooth,VERB
 sangria,spill,spill,spill,VERB
 sangria,boil,boil,boil,VERB
 sapling,growing,growing,grow,VERB
@@ -3205,7 +3203,7 @@ sapphire,ring,ring,ring,NOUN
 sardine,season,season,season,VERB
 sash,present,present,present,ADJ
 sash,give,give,give,VERB
-satchel,used to hold things,used,use,VERB
+satchel,used to hold things,used,use,AUX
 satchel,used to hold things,hold,hold,VERB
 satin,language,language,language,NOUN
 satin,handwriting,handwriting,handwriting,NOUN
@@ -3235,7 +3233,7 @@ scalpel,body modification,body,body,NOUN
 scalpel,body modification,modification,modify,VERB
 scarecrow,straw,straw,straw,NOUN
 school,socialize,socialize,socialize,VERB
-school,make friends,make,make,VERB
+school,make friends,make,make,AUX
 school,make friends,friends,friend,NOUN
 schoolhouse,meeting place,meeting,meet,VERB
 schoolhouse,meeting place,place,place,NOUN
@@ -3244,7 +3242,7 @@ scientist,disease,disease,disease,NOUN
 scientist,dissection,dissection,dissect,VERB
 scientist,discover something,discover,discover,VERB
 screen,look at,look,look,VERB
-screw,to keep an item together,keep,keep,VERB
+screw,to keep an item together,keep,keep,AUX
 screw,to keep an item together,item,item,NOUN
 screwdriver,nail,nail,nail,NOUN
 scrubber,scrubs,scrubs,scrub,VERB
@@ -3256,7 +3254,7 @@ sea,walk in,walk,walk,VERB
 sea,drive on,drive,drive,VERB
 sea,catch fish,catch,catch,VERB
 sea,catch fish,fish,fish,NOUN
-seam,sew the seam,sew,sow,VERB
+seam,sew the seam,sew,sew,VERB
 seam,break the seam,break,break,VERB
 seam,break the seam,seam,seam,NOUN
 searchlight,searching,searching,search,NOUN
@@ -3276,8 +3274,8 @@ seasoning,sprinkle,sprinkle,sprinkle,VERB
 seating,sit,sit,sit,VERB
 seating,sitting down,sitting,sit,VERB
 seating,sit personnel,sit,sit,VERB
-seawater,make clean water,make,make,VERB
-seawater,make clean water,clean,clean,ADJ
+seawater,make clean water,make,make,AUX
+seawater,make clean water,clean,clean,VERB
 seawater,make clean water,water,water,NOUN
 seawater,fish enclosures,fish,fish,ADJ
 seawater,fish enclosures,enclosures,enclosure,NOUN
@@ -3309,7 +3307,7 @@ shaker,salt food,food,food,NOUN
 shaker,mix things,mix,mix,VERB
 shaker,mix drinks,mix,mix,VERB
 shaker,mix drinks,drinks,drink,NOUN
-shawl,use it,use,use,VERB
+shawl,use it,use,use,AUX
 shed,extra bedroom,extra,extra,ADJ
 shed,extra bedroom,bedroom,bedroom,NOUN
 sheep,counting sheep,counting,count,VERB
@@ -3326,7 +3324,7 @@ sheep,remove hair,remove,remove,VERB
 sheep,remove hair,hair,hair,NOUN
 sheepskin,sewn,sewn,sew,VERB
 sheepskin,to collect,collect,collect,VERB
-sheepskin,to make clothes,make,make,VERB
+sheepskin,to make clothes,make,make,AUX
 sheepskin,to make clothes,clothes,clothes,NOUN
 sheet,put on bed,put,put,VERB
 sheet,put on bed,bed,bed,NOUN
@@ -3340,7 +3338,7 @@ shelter,house animals or people,animals,animal,NOUN
 shelter,house animals or people,people,people,NOUN
 shelving,holding things,holding,hold,NOUN
 shelving,organizing,organizing,organize,VERB
-shield,defense,defense,defense,NOUN
+shield,defense,defense,defense,VERB
 shield,smash with,smash,smash,VERB
 shield,sled,sled,sled,VERB
 shield,plate?,plate,plate,VERB
@@ -3357,10 +3355,10 @@ Shirt,wear,wear,wear,VERB
 Shirt,tear,tear,tear,VERB
 Shirt,wash,wash,wash,VERB
 Shirt,fold,fold,fold,VERB
-Shirt,warm,warm,warm,ADJ
+Shirt,warm,warm,warm,VERB
 Shirt,warm up,warm,warm,VERB
 Shirt,cover up,cover,cover,VERB
-shot,to make you feel better,make,make,VERB
+shot,to make you feel better,make,make,AUX
 shot,to make you feel better,feel,feel,VERB
 shot,to make you feel better,better,better,ADJ
 shot,help you growth,help,help,VERB
@@ -3380,7 +3378,7 @@ shrine,rituals,rituals,ritual,NOUN
 shrine,religion,religion,religion,NOUN
 shrine,honor,honor,honor,VERB
 sibling,hate,hate,hate,VERB
-sibling,defend,defend,defend,VERB
+sibling,defend,defend,defense,VERB
 sibling,tease,tease,tease,VERB
 silkworm,silk,silk,silk,NOUN
 silkworm,cloth,cloth,cloth,NOUN
@@ -3396,7 +3394,7 @@ sketchbook,journal,journal,journal,NOUN
 sketchbook,sketching,sketching,sketch,VERB
 skittle,patterns,patterns,pattern,NOUN
 skittles,count with,count,count,VERB
-skittles,make fun deserts,make,make,VERB
+skittles,make fun deserts,make,make,AUX
 skittles,make fun deserts,fun,fun,NOUN
 skittles,make fun deserts,deserts,desert,NOUN
 slaw,put on plate,put,put,VERB
@@ -3411,7 +3409,7 @@ sling,shot,shot,shoot,VERB
 slingshot,launch stuff,launch,launch,VERB
 slingshot,take down goliath,take,take,VERB
 slingshot,take down goliath,goliath,goliath,NOUN
-slut,sex,sex,sex,NOUN
+slut,sex,sex,sex,VERB
 slut,male,male,male,NOUN
 slut,female,female,female,ADJ
 slut,derogatory phrase,derogatory,derogatory,NOUN
@@ -3436,7 +3434,7 @@ snowdrift,clear snow,clear,clear,VERB
 snowdrift,clear snow,snow,snow,NOUN
 snowfall,lay in it,lay,lay,VERB
 snowfall,catch it,catch,catch,VERB
-snowfall,make design in it or with it,make,make,VERB
+snowfall,make design in it or with it,make,make,AUX
 snowfall,make design in it or with it,design,design,NOUN
 snowfall,to freeze,freeze,freeze,VERB
 snowflake,playing with snowflakes,playing,play,VERB
@@ -3463,7 +3461,7 @@ sock,remove from foot,remove,remove,VERB
 sock,remove from foot,foot,foot,NOUN
 sock,add googly eyes and make a puppet,add,add,VERB
 sock,add googly eyes and make a puppet,eyes,eye,NOUN
-sock,add googly eyes and make a puppet,make,make,VERB
+sock,add googly eyes and make a puppet,make,make,AUX
 sock,add googly eyes and make a puppet,puppet,puppet,NOUN
 soda,avoided,avoided,avoid,VERB
 soil,vegetables,vegetables,vegetable,NOUN
@@ -3483,7 +3481,7 @@ spear,fishing,fishing,fish,VERB
 speedboat,riding,riding,ride,VERB
 speedboat,fixing,fixing,fix,VERB
 speedboat,sitting,sitting,sit,VERB
-spice,to make sweet or spicy,make,make,VERB
+spice,to make sweet or spicy,make,make,AUX
 spice,to make sweet or spicy,sweet,sweet,ADJ
 spice,to make sweet or spicy,spicy,spicy,ADJ
 spider,stepped on,stepped,step,VERB
@@ -3515,10 +3513,10 @@ squash,baked,baked,bake,VERB
 squash,seared,seared,sear,VERB
 squash,grilled,grilled,grill,VERB
 squash,pureed,pureed,pure,VERB
-squirrel,use it to find acorns,use,use,VERB
+squirrel,use it to find acorns,use,use,AUX
 squirrel,use it to find acorns,find,find,VERB
 squirrel,use it to find acorns,acorns,acorn,NOUN
-stableman,to keep stable,keep,keep,VERB
+stableman,to keep stable,keep,keep,AUX
 stableman,to keep stable,stable,stable,ADJ
 stableman,to be a man,man,man,NOUN
 stair,slide,slide,slide,VERB
@@ -3535,7 +3533,7 @@ stapler,connect,connect,connect,VERB
 stapler,papers,papers,papers,NOUN
 stapler,paperweight,paperweight,paperweight,NOUN
 steak,saute,saute,saute,VERB
-step,use to reach a higher location,use,use,VERB
+step,use to reach a higher location,use,use,AUX
 step,use to reach a higher location,reach,reach,VERB
 step,use to reach a higher location,higher,higher,ADJ
 step,use to reach a higher location,location,location,NOUN
@@ -3550,7 +3548,7 @@ stepfather,as a father figure,father,father,NOUN
 stepfather,as a father figure,figure,figure,NOUN
 stepfather,to get money from,money,money,NOUN
 stepladder,extend reach,extend,extend,VERB
-stepladder,extend reach,reach,reach,NOUN
+stepladder,extend reach,reach,reach,VERB
 stepladder,height,height,height,NOUN
 stepladder,getting on the roof,roof,roof,NOUN
 stepladder,hanging lights,hanging,hang,VERB
@@ -3600,7 +3598,7 @@ stockings,to look good for women,women,woman,NOUN
 stone,skip,skip,skip,VERB
 stool,get to higher place,higher,higher,ADJ
 stool,get to higher place,place,place,NOUN
-stool,use as a toy,use,use,VERB
+stool,use as a toy,use,use,AUX
 stool,use as a toy,toy,toy,NOUN
 stool,leaning,leaning,lean,VERB
 stool,holding a plant,holding,hold,VERB
@@ -3609,7 +3607,7 @@ stoop,equal,equal,equal,ADJ
 stoop,crouch,crouch,crouch,VERB
 store,buy groceries,buy,buy,VERB
 store,buy groceries,groceries,grocery,NOUN
-store,make money,make,make,VERB
+store,make money,make,make,AUX
 store,make money,money,money,NOUN
 storekeeper,take care of,take,take,VERB
 storekeeper,take care of,care,care,NOUN
@@ -3628,7 +3626,7 @@ storeroom,knock knacks,knick-knacks,knick-knacks,NOUN
 stove,broil bell peppers,broil,broil,VERB
 stove,broil bell peppers,bell,bell,NOUN
 stove,broil bell peppers,peppers,pepper,NOUN
-stove,cook food,cook,cake,VERB
+stove,cook food,cook,cook,VERB
 stove,cook food,food,food,NOUN
 stove,boil water,boil,boil,VERB
 stove,boil water,water,water,NOUN
@@ -3648,14 +3646,14 @@ street,meet,meet,meet,VERB
 streets,allow cars to drive on,allow,allow,VERB
 streets,allow cars to drive on,cars,car,NOUN
 streets,allow cars to drive on,drive,drive,VERB
-streets,keep things organize,keep,keep,VERB
-streets,keep things organize,organize,organize,NOUN
+streets,keep things organize,keep,keep,AUX
+streets,keep things organize,organize,organize,VERB
 streets,get to destinations,destinations,destination,NOUN
 streets,path,path,path,NOUN
 String,bind,bind,bind,VERB
 String,hang objects,hang,hang,VERB
 String,hang objects,objects,object,NOUN
-String,fishing poles,fishing,fishing,NOUN
+String,fishing poles,fishing,fish,VERB
 String,fishing poles,poles,pole,NOUN
 stuff,keep,keep,keep,VERB
 submarine,biology,biology,biology,NOUN
@@ -3669,7 +3667,7 @@ suit,special occasion,occasion,occasion,NOUN
 suit,formal but casual events,formal,formal,ADJ
 suit,formal but casual events,casual,casual,ADJ
 suit,formal but casual events,events,event,NOUN
-sundeck,party on,party,party,NOUN
+sundeck,party on,party,party,VERB
 sundeck,sunbathe,sunbathe,sunbathe,VERB
 sundeck,family time,family,family,NOUN
 sundeck,family time,time,time,NOUN
@@ -3679,17 +3677,17 @@ sundeck,tanning,tanning,tanning,VERB
 sundeck,gathering,gathering,gather,VERB
 sunflower,smelling,smelling,smell,VERB
 sunflower,cutting,cutting,cut,VERB
-sunflower,drying,drying,dry,NOUN
+sunflower,drying,drying,dry,VERB
 sunflower,cracking,cracking,crack,VERB
 sunflower,happy,happy,happy,ADJ
 sunflower,smell it,smell,smell,VERB
 sunflower,put it in a vase,put,put,VERB
 sunflower,put it in a vase,vase,vase,NOUN
 sunflower,pick it,pick,pick,VERB
-sunflower,use the petals for decor,use,use,VERB
+sunflower,use the petals for decor,use,use,AUX
 sunflower,use the petals for decor,petals,petal,NOUN
-sunflower,use the petals for decor,decor,decor,NOUN
-sunglasses,made,made,make,VERB
+sunflower,use the petals for decor,decor,decorate,VERB
+sunglasses,made,made,make,AUX
 sunglasses,sold,sold,sell,VERB
 sunglasses,broken,broken,break,VERB
 sunglasses,stolen,stolen,steal,VERB
@@ -3710,7 +3708,7 @@ sweatshirt,paint it,paint,paint,VERB
 swimsuit,take off,take,take,VERB
 swimsuit,swim in,swim,swim,VERB
 swing,swing on,swing,swing,VERB
-swing,launch,launch,launch,NOUN
+swing,launch,launch,launch,VERB
 switchblade,open packages,open,open,VERB
 switchblade,open packages,packages,packages,NOUN
 switchblade,slice,slice,slice,VERB
@@ -3722,7 +3720,7 @@ tablespoon,measuring,measuring,measure,VERB
 tablet,internet capabilities,internet,internet,NOUN
 tablet,internet capabilities,capabilities,capability,NOUN
 taffy,experiment,experiment,experiment,VERB
-taffy,make models,make,make,VERB
+taffy,make models,make,make,AUX
 taffy,make models,models,model,NOUN
 tambourine,slap,slap,slap,VERB
 tambourine,clap,clap,clap,VERB
@@ -3739,9 +3737,9 @@ taxpayer,paying,paying,pay,VERB
 taxpayer,collecting,collecting,collect,VERB
 tea,iced,iced,ice,NOUN
 tea,sweetened,sweetened,sweeten,VERB
-teabag,used in tea,used,use,VERB
+teabag,used in tea,used,use,AUX
 teabag,used in tea,tea,tea,NOUN
-teabag,used for facial care,used,use,VERB
+teabag,used for facial care,used,use,AUX
 teabag,used for facial care,facial,facial,ADJ
 teabag,used for facial care,care,care,NOUN
 teahouse,drink tea,drink,drink,VERB
@@ -3758,10 +3756,10 @@ tear,remove dirt,remove,remove,VERB
 tear,remove dirt,dirt,dirt,NOUN
 tear,cry,cry,cry,VERB
 tear,wipe,wipe,wipe,VERB
-teaspoonful,measure,measure,measure,NOUN
+teaspoonful,measure,measure,measure,VERB
 teaspoonful,eat with,eat,eat,VERB
 teaspoonful,add,add,add,VERB
-teaspoonful,subtract,subtract,subtract,NOUN
+teaspoonful,subtract,subtract,subtract,VERB
 technician,harass,harass,harass,VERB
 technician,seduce,seduce,seduce,VERB
 teeth,chew,chew,chew,VERB
@@ -3785,10 +3783,10 @@ testes,stress relieve,stress,stress,NOUN
 testes,stress relieve,relieve,relieve,VERB
 testicle,touched,touched,touch,VERB
 testicle,shaved,shaved,shave,VERB
-textile,something to keep warm,keep,keep,VERB
-textile,something to keep warm,warm,warm,ADJ
-theatergoer,comfort,comfort,comfort,NOUN
-theatergoer,fun,fun,fun,NOUN
+textile,something to keep warm,keep,keep,AUX
+textile,something to keep warm,warm,warm,VERB
+theatergoer,comfort,comfort,comfort,VERB
+theatergoer,fun,fun,fun,VERB
 theatergoer,watch shows,watch,watch,VERB
 theatergoer,watch shows,shows,show,NOUN
 theatergoer,enjoy a show,enjoy,enjoy,VERB
@@ -3802,14 +3800,14 @@ thermometer,humans,humans,human,NOUN
 thermometer,animals,animals,animal,NOUN
 thermometer,check temperature,check,check,VERB
 thermometer,check temperature,temperature,temperature,NOUN
-thermometer,cold,cold,cold,ADJ
+thermometer,cold,cold,cold,VERB
 thermometer,fever,fever,fever,NOUN
 thermos,temperature,temperature,temperature,NOUN
 thigh,lifting,lifting,lift,VERB
 thumbnail,image,image,image,NOUN
 thumbtack,pierce,pierce,pierce,VERB
 thyme,to cook with,cook,cook,VERB
-ticket,have a seat saved,seat,seat,NOUN
+ticket,have a seat saved,seat,sit,VERB
 ticket,have a seat saved,saved,save,VERB
 ticket,you could pay it off,pay,pay,VERB
 tinfoil,preserve a meal,preserve,preserve,VERB
@@ -3829,14 +3827,14 @@ tissue,dry surfaces,dry,dry,VERB
 tissue,dry surfaces,surfaces,surface,NOUN
 tissue,dampen,dampen,dampen,VERB
 tit,breastfeed,breastfeed,breastfeed,VERB
-tit,pleasure,pleasure,pleasure,NOUN
-toast,to make food,make,make,VERB
+tit,pleasure,pleasure,pleasure,VERB
+toast,to make food,make,make,AUX
 toast,to make food,food,food,NOUN
 toddler,love,love,love,VERB
 toddler,cherish,cherish,cherish,VERB
 toddler,to learn,learn,learn,VERB
-toe,keep balance,keep,keep,VERB
-toe,keep balance,balance,balance,NOUN
+toe,keep balance,keep,keep,AUX
+toe,keep balance,balance,balance,VERB
 toe,stub,stub,stub,VERB
 toe,amputate,amputate,amputate,VERB
 toe,fracture,fracture,fracture,VERB
@@ -3861,7 +3859,7 @@ topsoil,grow grass,grass,grass,NOUN
 torch,ran over,ran,run over,VERB
 torchlight,light,light,light,VERB
 torchlight,lighting,lighting,lighting,VERB
-torchlight,flashlight,flashlight,flashlight,NOUN
+torchlight,flashlight,flashlight,light,VERB
 torchlight,provide light,provide,provide,VERB
 torchlight,provide light,light,light,NOUN
 torchlight,light a candle,light,light,VERB
@@ -3872,17 +3870,17 @@ toupee,rip off head,rip,rip,VERB
 toupee,rip off head,head,head,NOUN
 toupee,cover baldness,cover,cover,VERB
 toupee,cover baldness,baldness,baldness,NOUN
-toupee,use for a bird nest,use,use,VERB
+toupee,use for a bird nest,use,use,AUX
 toupee,use for a bird nest,bird,bird,NOUN
 toupee,use for a bird nest,nest,nest,NOUN
-tourist,traveler,traveler,traveler,NOUN
+tourist,traveler,traveler,travel,VERB
 tourist,adventure,adventure,adventure,NOUN
 tourist,exploring,exploring,explore,VERB
 townspeople,here about town news,town,town,NOUN
 townspeople,here about town news,news,news,NOUN
 townspeople,companions,companions,companion,NOUN
 townspeople,workers,workers,worker,NOUN
-townspeople,defenders,defenders,defend,VERB
+townspeople,defenders,defenders,defense,VERB
 toy,receive,receive,receive,VERB
 tradesman,working,working,work,VERB
 tradesman,fixing things,fixing,fix,VERB
@@ -3894,9 +3892,9 @@ tranquilizers,pull out,pull,pull,VERB
 tranquilizers,to sleep,sleep,sleep,VERB
 tranquilizers,to shoot,shoot,shoot,VERB
 trap,stuck,stuck,stuck,VERB
-trap,used on people,used,use,VERB
+trap,used on people,used,use,AUX
 trap,used on people,people,people,NOUN
-trap,used on animals,used,use,VERB
+trap,used on animals,used,use,AUX
 trap,used on animals,animals,animal,NOUN
 trapeze,circus,circus,circus,NOUN
 trapeze,show,show,show,VERB
@@ -3921,8 +3919,8 @@ treasure,selling,selling,sell,VERB
 treasure,buying,buying,buy,VERB
 treasure,trading,trading,trade,VERB
 treasure,pirate,pirate,pirate,NOUN
-trigger,to keep from acting on,keep,keep,VERB
-trigger,squirt,squirt,squirt,NOUN
+trigger,to keep from acting on,keep,keep,AUX
+trigger,squirt,squirt,squirt,VERB
 trigger,elevate,elevate,elevate,VERB
 trigger,combust,combust,combust,VERB
 tripod,hold camera,hold,hold,VERB
@@ -3937,7 +3935,7 @@ trunk,groceries,groceries,grocery,NOUN
 trunk,tree,tree,tree,NOUN
 trunk,hiding place,hiding,hide,VERB
 trunk,hiding place,place,place,NOUN
-trunk,make a fort,make,make,VERB
+trunk,make a fort,make,make,AUX
 trunk,make a fort,fort,fort,NOUN
 tuba,blow into,blow,blow,VERB
 tube,feeding,feeding,feed,VERB
@@ -3973,14 +3971,14 @@ tutor,understanding material,understanding,understand,VERB
 tutor,understanding material,material,material,NOUN
 tutor,help you learn,help,help,VERB
 tutor,help you learn,learn,learn,VERB
-tyke,playful,playful,playful,INTJ
+tyke,playful,playful,play,VERB
 tyke,clumsy,clumsy,clumsy,NOUN
 tyke,immature,immature,immature,INTJ
 typewriter,type,type,type,VERB
 uncle,familial love,familial,familial,ADJ
-uncle,familial love,love,love,NOUN
-uncle,memories,memories,memories,NOUN
-undercoat,warm layer,warm,warm,ADJ
+uncle,familial love,love,love,VERB
+uncle,memories,memories,memory,VERB
+undercoat,warm layer,warm,warm,VERB
 undercoat,warm layer,layer,layer,NOUN
 undergarment,to hold things in place,hold,hold,VERB
 undergarment,to hold things in place,place,place,NOUN
@@ -3994,10 +3992,10 @@ vacuum,suck,suck,suck,VERB
 vacuum,play with,play,play,VERB
 vagina,wax,wax,wax,VERB
 valet,direct to help with personal belongings,direct,direct,VERB
-valet,direct to help with personal belongings,help,help,VERB
+valet,direct to help with personal belongings,help,help,AUX
 valet,direct to help with personal belongings,personal,personal,ADJ
 valet,direct to help with personal belongings,belongings,belonging,NOUN
-valet,take out to lunch,take,take,VERB
+valet,take out to lunch,take,take,AUX
 valet,take out to lunch,lunch,lunch,NOUN
 valet,tipping,tipping,tip,VERB
 van,drive it,drive,drive,VERB
@@ -4007,9 +4005,9 @@ vaseline,as cream,cream,cream,NOUN
 vaseline,as lip balm,lip,lip,NOUN
 vaseline,as lip balm,balm,balm,NOUN
 veal,produced,produced,produce,VERB
-vegetation,made into products,made,make,VERB
+vegetation,made into products,made,make,AUX
 vegetation,made into products,products,product,NOUN
-vein,use them to get blood,use,use,VERB
+vein,use them to get blood,use,use,AUX
 vein,use them to get blood,blood,blood,NOUN
 velvet,walked on,walked,walk,VERB
 ventilator,assistance,assistance,assist,VERB
@@ -4024,20 +4022,20 @@ vessel,body system,body,body,NOUN
 vessel,body system,system,system,NOUN
 vest,wear it to an event,wear,wear,VERB
 vest,wear it to an event,event,event,NOUN
-vest,keep you warm,keep,keep,VERB
+vest,keep you warm,keep,keep,AUX
 vest,keep you warm,warm,warm,VERB
 village,life needs,life,life,NOUN
 village,life needs,needs,need,VERB
-vine,use it to swing,use,use,VERB
+vine,use it to swing,use,use,AUX
 vine,use it to swing,swing,swing,VERB
-vine,use it to pull you out of mud,use,use,VERB
+vine,use it to pull you out of mud,use,use,AUX
 vine,use it to pull you out of mud,pull,pull,VERB
 vine,use it to pull you out of mud,mud,mud,NOUN
 vine,hold on to so you don't fall,hold,hold,VERB
 vine,hold on to so you don't fall,fall,fall,VERB
-voter,vote,vote,vote,NOUN
+voter,vote,vote,vote,VERB
 voter,decision maker,decision,decide,VERB
-voter,decision maker,maker,maker,NOUN
+voter,decision maker,maker,maker,AUX
 vulva,protect organs,protect,protect,ADJ
 vulva,protect organs,organs,organ,NOUN
 vulva,miss,miss,miss,NOUN
@@ -4064,12 +4062,12 @@ wallboard,take picture of,picture,picture,NOUN
 wallboard,draw on,draw,draw,VERB
 wand,cast a spell,cast,cast,VERB
 wand,cast a spell,spell,spell,NOUN
-wand,use with a costume,use,use,VERB
+wand,use with a costume,use,use,AUX
 wand,use with a costume,costume,costume,NOUN
-wand,magic,magic,magic,NOUN
+wand,magic,magic,magic,VERB
 wand,submit from,submit,submit,VERB
 wart,skin infection,skin,skin,NOUN
-wart,skin infection,infection,infection,NOUN
+wart,skin infection,infection,infect,VERB
 wart,foot,foot,foot,NOUN
 wart,body,body,body,NOUN
 washerwoman,maid,maid,maid,AUX
@@ -4084,7 +4082,7 @@ waste,to throw away,throw,throw away,VERB
 waste,to discard,discard,discard,VERB
 waste,items,items,item,NOUN
 wastebasket,trash,trash,trash,NOUN
-watercress,to use water,use,use,VERB
+watercress,to use water,use,use,AUX
 watercress,to use water,water,water,NOUN
 watercress,watercress,watercress,watercress,NOUN
 wax,burning,burning,burn,VERB
@@ -4107,25 +4105,25 @@ wife,court,court,court,VERB
 wife,care for,care,care,VERB
 wife,eat food with,eat,eat,VERB
 wife,eat food with,food,food,NOUN
-wigmaker,make wig,make,make,VERB
+wigmaker,make wig,make,make,AUX
 wigmaker,make wig,wig,wig,NOUN
-wigmaker,make wigs?,make,make,VERB
+wigmaker,make wigs?,make,make,AUX
 wigmaker,make wigs?,wigs,wig,NOUN
-wigmaker,cosplay,cosplay,cosplay,NOUN
+wigmaker,cosplay,cosplay,cosplay,VERB
 wigmaker,hair loss,hair,hair,NOUN
 wigmaker,hair loss,loss,loss,NOUN
 wigmaker,wanting a different hairstyle,wanting,want,VERB
 wigmaker,wanting a different hairstyle,different,different,ADJ
 wigmaker,wanting a different hairstyle,hairstyle,hairstyle,NOUN
 wildlife,tigers,tigers,tiger,NOUN
-wildlife,graze,graze,graze,NOUN
+wildlife,graze,graze,graze,VERB
 wildlife,aggressive,aggressive,aggressive,ADJ
 window,clear,clear,clear,ADJ
 window,glass,glass,glass,NOUN
-windowpane,keep out rain,keep,keep,VERB
+windowpane,keep out rain,keep,keep,AUX
 windowpane,keep out rain,rain,rain,NOUN
 windowpane,wall,wall,wall,NOUN
-windowsill,use to hold items,use,use,VERB
+windowsill,use to hold items,use,use,AUX
 windowsill,use to hold items,hold,hold,VERB
 windowsill,use to hold items,items,item,NOUN
 windowsill,dust,dust,dust,VERB
@@ -4140,9 +4138,9 @@ windowsill,knick knack holder,holder,hold,VERB
 windowsill,knick knack holder,knick knack,knick-knack,NOUN
 wishbone,bets,bets,bet,VERB
 wishbone,luck,luck,luck,NOUN
-wishbone,make a wish,make,make,VERB
+wishbone,make a wish,make,make,AUX
 wishbone,make a wish,wish,wish,NOUN
-woodcarver,making art,making,make,VERB
+woodcarver,making art,making,make,AUX
 woodcarver,making art,art,art,NOUN
 woodcraft,construct,construct,construct,VERB
 woodcraft,design,design,design,VERB
@@ -4151,14 +4149,14 @@ woodcutter,cut wood,cut,cut,VERB
 woodcutter,cut wood,wood,wood,NOUN
 woodpecker,bird,bird,bird,NOUN
 woodpecker,annoying,annoying,annoy,VERB
-woodpecker,peck wood,peck,peck,NOUN
+woodpecker,peck wood,peck,peck,VERB
 woodpecker,peck wood,wood,wood,NOUN
-woodpecker,make noise,make,make,VERB
-woodpecker,make noise,noise,noise,NOUN
+woodpecker,make noise,make,make,AUX
+woodpecker,make noise,noise,noise,VERB
 woodwork,looked at,looked,look,VERB
 woodwork,thrown,thrown,throw,VERB
 woodwork,carved,carved,carve,VERB
-woodwork,to make houses,make,make,VERB
+woodwork,to make houses,make,make,AUX
 woodwork,to make houses,houses,house,NOUN
 woodwork,to build,build,build,VERB
 woodwork,to construct,construct,construct,VERB
@@ -4180,13 +4178,13 @@ wrapper,preserve,preserve,preserve,VERB
 wreath,hang up,hang,hang,VERB
 wreath,drop,drop,drop,VERB
 wrestler,practice wrestling,practice,practice,NOUN
-wrestler,practice wrestling,wrestling,wrestling,NOUN
+wrestler,practice wrestling,wrestling,wrestle,VERB
 wrestler,strengthening yourself,strengthening,strengthen,VERB
 wristlet,to wear,wear,wear,VERB
 wristlet,to carry money,carry,carry,VERB
 wristlet,to carry money,money,money,NOUN
 wristlet,wrist,wrist,wrist,NOUN
-yachtsman,drives boat,drives,drive,NOUN
+yachtsman,drives boat,drives,drive,VERB
 yachtsman,drives boat,boat,boat,NOUN
 yam,blend in smoothie,blend,blend,VERB
 yam,blend in smoothie,smoothie,smoothie,NOUN

@@ -194,7 +194,7 @@ colnames(combined)[11] = c("POS")
 combined = combined[ , -c(3, 12)]
 
 #Do Lemmas match?
-combined$Lemma_match = combined$Lemma_1 == combined$Lemma_2
+#combined$Lemma_match = combined$Lemma_1 == combined$Lemma_2
 
 table(combined$Lemma_match) #Mostly matches but got about 1600 mismatches. Let's see what's up with that!
 
@@ -211,4 +211,4 @@ combined$Lemma_1[combined$Lemma_1 == "spin-dry"] = "dry"
 combined = combined[ , -c(12, 15)]
 
 ##Write to .csv
-write.csv(combined, file = "Cleaned_5_14_22_2.csv", row.names = F)
+#write.csv(combined, file = "Cleaned_5_14_22_2.csv", row.names = F)

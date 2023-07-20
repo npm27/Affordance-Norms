@@ -1,6 +1,6 @@
 ####Read in Data####
-dat1 = read.csv("USM/Affordances 3_17.csv")
-dat2 = read.csv("USM/Lemmatized 3_18_22.csv")
+dat1 = read.csv("USM/USM Cleaned 5_14_22.csv")
+dat2 = read.csv("USM/USM Cleaned 5_14_22_2.csv")
 
 ##library
 library(dplyr)
@@ -9,17 +9,17 @@ library(dplyr)
 
 colnames(dat1)[1:4] = c("Stimuli.Cue", "affordance_parsed", "word", "lemma")
 
-dat2 = dat2[ , c(1, 4, 7:9)]
+dat2 = dat2[ , c(1, 3, 6:9)]
 
 ##merge
 combined = merge(dat2, dat1[, c("Stimuli.Cue","affordance_parsed", "word", "lemma", "POS")],
-      by = c("Stimuli.Cue","affordance_parsed", "word", "lemma"))
+      by = c("Stimuli.Cue","affordance_parsed"))
 
 #combined = cbind(dat2, dat1[ , 1])
 
 #combined = combined[ c(7, 1:5)]
 
 ##restructure the data
-combined = combined[ , c(5, 1, 2, 3, 4, 9)]
+combined = combined[ , c(3, 1, 2, 7:9)]
 
-#write.csv(combined, file = "USM 12_31_22 Cleaned.csv", row.names = F)
+#write.csv(combined, file = "USM Batch 2 Cleaned.csv", row.names = F)

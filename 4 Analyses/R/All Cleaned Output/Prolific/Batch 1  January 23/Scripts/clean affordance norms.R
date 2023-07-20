@@ -24,10 +24,10 @@ library(udpipe)
 library(stopwords)
 
 ##read in data
-master = read.csv("0-Data/Merged_Prolific_Batch1.csv", stringsAsFactors = F)
+master = read.csv("0-Data/combined_data_3_16_22.csv", stringsAsFactors = F)
 
 ##only keep the columns we need
-dat = master[ , c(1, 5, 11, 13, 20, 34)]
+dat = master[ , c(1, 5, 11, 13, 19, 33, 35)]
 
 #useful column names
 colnames(dat)[6] = "affordance_response"
@@ -42,15 +42,51 @@ dat$affordance_response = tolower(dat$affordance_response)
 source("Scripts/remove idk.R")
 
 #remove other weirdness
-dat$affordance_response[dat$affordance_response == "what is that"] = NA
-dat$affordance_response[dat$affordance_response == "can be used to do anything depending on what it is"] = NA
-dat$affordance_response[dat$affordance_response == "you don't use orphans"] = NA
-dat$affordance_response[dat$affordance_response == "\"divorcee\" is not an object"] = NA
-dat$affordance_response[dat$affordance_response == "\"braid\" is not an object"] = NA
-dat$affordance_response[dat$affordance_response == "\"braid\" is not an object"] = NA
-dat$affordance_response[dat$affordance_response == "\"porch\" isn't an object that can be used"] = NA
-dat$affordance_response[dat$affordance_response == "a \"newsman\" isn't an object"] = NA
-dat$affordance_response[dat$affordance_response == "dunno"] = NA
+dat$affordance_response[dat$affordance_response == "i don't know"] = NA
+dat$affordance_response[dat$affordance_response == "my nono spot"] = NA
+dat$affordance_response[dat$affordance_response == "you don't use a cervix it just exists"] = NA
+dat$affordance_response[dat$affordance_response == "i think it's a feminine hygiene product but i don't know how to use it."] = NA
+dat$affordance_response[dat$affordance_response == "what"] = NA
+dat$affordance_response[dat$affordance_response == "what "] = NA
+dat$affordance_response[dat$affordance_response == "i do not know what this is"] = NA
+dat$affordance_response[dat$affordance_response == "what is a tickler, "] = NA
+dat$affordance_response[dat$affordance_response == "i do not know what this is "] = NA
+dat$affordance_response[dat$affordance_response == "what is a knapsack?"] = NA
+dat$affordance_response[dat$affordance_response == "do what"] = NA
+dat$affordance_response[dat$affordance_response == "what?"] = NA
+dat$affordance_response[dat$affordance_response == "what type of drink?"] = NA
+dat$affordance_response[dat$affordance_response == "i do not know what a physiologist is. "] = NA
+dat$affordance_response[dat$affordance_response == "to be honest i do not know what this is"] = NA
+dat$affordance_response[dat$affordance_response == "???"] = NA
+dat$affordance_response[dat$affordance_response == "the monkey?? "] = NA
+dat$affordance_response[dat$affordance_response == "not nice"] = NA
+dat$affordance_response[dat$affordance_response == "do not know"] = NA
+dat$affordance_response[dat$affordance_response == "woman are not objects"] = NA
+dat$affordance_response[dat$affordance_response == "should not be used, is not an object unless in doll form or a picture..."] = NA
+dat$affordance_response[dat$affordance_response == "unknown"] = NA
+dat$affordance_response[dat$affordance_response == "unsure"] = NA
+dat$affordance_response[dat$affordance_response == "call of duty?"] = NA
+dat$affordance_response[dat$affordance_response == "how do you use a tourist?"] = NA
+dat$affordance_response[dat$affordance_response == "huh?"] = NA
+dat$affordance_response[dat$affordance_response == "surigical procedure?"] = NA
+dat$affordance_response[dat$affordance_response == "not an object, lay eggs"] = NA
+dat$affordance_response[dat$affordance_response == "this is not an object"] = NA
+dat$affordance_response[dat$affordance_response == "not an object"] = NA
+dat$affordance_response[dat$affordance_response == "not an object, this is an action"] = NA
+dat$affordance_response[dat$affordance_response == "not applicable"] = NA
+dat$affordance_response[dat$affordance_response == "this is not an object, person who examines things"] = NA
+dat$affordance_response[dat$affordance_response == "this is not an object, the guitarist plays a guitar"] = NA
+dat$affordance_response[dat$affordance_response == "in a sentence, im not an object"] = NA
+dat$affordance_response[dat$affordance_response == "a female is a person, not an object"] = NA
+dat$affordance_response[dat$affordance_response == "does not have much use"] = NA
+dat$affordance_response[dat$affordance_response == "not used... but is a term to describe someone who has a career helping others carry their items to their destination"] = NA
+dat$affordance_response[dat$affordance_response == "definitely do not recommend to use orphans..., this is a term to describe someone under the age of 18 who does not have any legal gaurdians to look after them"] = NA
+dat$affordance_response[dat$affordance_response == " not sure"] = NA
+dat$affordance_response[dat$affordance_response == "again, one should not use animals or people, but this is a term for a cat-like mammal that is pretty but dangerous, the term is also used for a type of animal print that many peope enjoy on numerous objects such as on their person or in their homes and other belongings"] = NA
+dat$affordance_response[dat$affordance_response == "something i want to do, i do not know how to do it"] = NA
+dat$affordance_response[dat$affordance_response == "a term used to describe a person who refers to themselves as female who may or may not be partaking in intercourse with said person but is their intimate friend"] = NA
+dat$affordance_response[dat$affordance_response == "what someone calls their significant other once they are engaged but not married hyet"] = NA
+dat$affordance_response[dat$affordance_response == "can be found anywhere"] = NA
 
 #Check for NAs
 table(is.na(dat$affordance_response))
@@ -201,7 +237,7 @@ combined = cbind(no_stop, lemmatized[ , c(10:11, 13)])
 colnames(combined)[9] = c("POS")
 
 #Drop unused columns
-combined = combined[ , -c(2, 10)]
+combined = combined[ , -c(6, 11)]
 
 #don't know why it keeps changing dry to spin-dry though. Going to manually fix that.
 combined$lemma[combined$lemma == "spin-dry"] = "dry"
@@ -210,4 +246,4 @@ combined$lemma[combined$lemma == "smoothy"] = "smoothie"
 #might be a good idea to open this up in excel and spot check
 
 ##Write to .csv
-#write.csv(combined, file = "Prolific Batch 1 Cleaned_2.csv", row.names = F)
+#write.csv(combined, file = "USM Batch 1 Cleaned.csv", row.names = F)

@@ -86,3 +86,22 @@ combined4 = combined3[ , -4]
 colnames(combined4)[2:4] = c("n unique", "n unique affordance", "total affordance")
 
 #write.csv(combined4, file = "affordance ns.csv", row.names = F)
+
+####How many participants per source?
+grouplist = unique(dat$Group)
+
+group1 = data.frame()
+
+for(z in grouplist){
+  
+  group2 = subset(dat,
+                 dat$Group == z)
+  
+  x = length(unique(group2$Username))
+  
+  group3 = data.frame(z, x)
+  colnames(group3)[1:2] = c("Group", "n")
+  
+  group1 = rbind(group3, group1)
+  
+}

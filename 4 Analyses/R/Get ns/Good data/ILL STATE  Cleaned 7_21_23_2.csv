@@ -1,112 +1,112 @@
 Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
-LH7376,stretcher,carrying,carrying,carry,VERB,ILL_State
-LH7376,stretcher,transporting,transporting,transport,VERB,ILL_State
-LH7376,bead,makingintojewelry,making,make,NOUN,ILL_State
-LH7376,bead,makingintojewelry,jewelry,jewelry,NOUN,ILL_State
-LH7376,pocketknife,stabbing,stabbing,stab,VERB,ILL_State
-LH7376,pocketknife,cutting,cutting,cut,VERB,ILL_State
-LH7376,pocketknife,slicing,slicing,slice,VERB,ILL_State
-LH7376,machinery,building,building,build,NOUN,ILL_State
-LH7376,machinery,repairing,repairing,repair,VERB,ILL_State
-LH7376,machinery,destroying,destroying,destroy,VERB,ILL_State
-LH7376,machinery,creating,creating,create,VERB,ILL_State
-LH7376,machinery,lifting,lifting,lift,VERB,ILL_State
-LH7376,machinery,carrying,carrying,carry,VERB,ILL_State
-LH7376,songbook,writing,writing,write,VERB,ILL_State
-LH7376,songbook,songs,songs,songs,NOUN,ILL_State
-LH7376,stairwell,climbing,climbing,climb,VERB,ILL_State
-LH7376,stairwell,going,going,go,AUX,ILL_State
-LH7376,seed,planting,planting,plan,VERB,ILL_State
-LH7376,seed,farming,farming,farm,VERB,ILL_State
-LH7376,seed,growing,growing,grow,VERB,ILL_State
-LH7376,seed,cultivating,cultivating,cultivate,VERB,ILL_State
-LH7376,dessert,eating,eating,eat,VERB,ILL_State
-LH7376,dessert,enjoying,enjoying,enjoy,VERB,ILL_State
-LH7376,dessert,cooking,cooking,cook,VERB,ILL_State
-LH7376,dollar,spending,spending,spend,VERB,ILL_State
-LH7376,dollar,working,working,work,VERB,ILL_State
-LH7376,powerboat,sailing,sailing,sail,VERB,ILL_State
-LH7376,sprinter,running,running,run,VERB,ILL_State
-LH7376,sprinter,win a race,winning,win,VERB,ILL_State
-LH7376,sprinter,win a race,race,race,NOUN,ILL_State
-LH7376,sprinter,move quickly,moving,move,VERB,ILL_State
-LH7376,sprinter,move quickly,quickly,quickly,ADV,ILL_State
-LH7376,balm,lips,lips,lip,NOUN,ILL_State
-LH7376,balm,skin,skin,skin,NOUN,ILL_State
-LH7376,balm,metal,metal,metal,NOUN,ILL_State
-LH7376,balm,apply onto various surface,applying,apply,VERB,ILL_State
-LH7376,balm,apply onto various surface,onto,onto,ADP,ILL_State
-LH7376,balm,apply onto various surface,various,various,ADJ,ILL_State
-LH7376,balm,apply onto various surface,surfaces,surface,NOUN,ILL_State
-LH7376,fan,keep cool,keeping,keep,AUX,ILL_State
-LH7376,fan,keep cool,cool,cool,VERB,ILL_State
-LH7376,fan,ventilating,ventilating,ventilate,VERB,ILL_State
-LH7376,fan,circulate air,circulating,circulate,VERB,ILL_State
-LH7376,fan,circulate air,air,air,NOUN,ILL_State
-LH7376,tinplate,line can,lining,line,VERB,ILL_State
-LH7376,tinplate,line can,cans,can,NOUN,ILL_State
-LH7376,tin,create can,creating,create,VERB,ILL_State
-LH7376,tin,create can,cans,can,NOUN,ILL_State
-LH7376,tin,decoration,decoration,decorate,VERB,ILL_State
-LH7376,sidewalk,walking,walking,walk,VERB,ILL_State
-LH7376,sidewalk,providing,providing,provide,AUX,ILL_State
-LH7376,sidewalk,means,means,mean,AUX,ILL_State
-LH7376,sidewalk,transportation,transportation,transport,VERB,ILL_State
-LH7376,rotisserie,cooking,cooking,cook,VERB,ILL_State
-LH7376,rotisserie,roasting,roasting,roast,VERB,ILL_State
-LH7376,rotisserie,spin something,spinning,spin,VERB,ILL_State
-LH7376,rotisserie,spin something,something,something,PRON,ILL_State
-LH7376,cloverleaf,be a symbol of luck,symbol,symbol,VERB,ILL_State
-LH7376,cloverleaf,be a symbol of luck,luck,luck,NOUN,ILL_State
-LH7376,cloverleaf,rare,rare,rare,ADJ,ILL_State
-LH7376,cloverleaf,plant,plant,plant,VERB,ILL_State
-LH7376,cloverleaf,growing,growing,grow,VERB,ILL_State
-LH7376,summerhouse,vacationing,vacationing,vacation,VERB,ILL_State
-LH7376,summerhouse,spend time with family or friend,spending,spend,NOUN,ILL_State
-LH7376,summerhouse,spend time with family or friend,time,time,VERB,ILL_State
-LH7376,summerhouse,spend time with family or friend,family,family,NOUN,ILL_State
-LH7376,summerhouse,spend time with family or friend,friends,friend,NOUN,ILL_State
-LH7376,summerhouse,relaxing,relaxing,relax,VERB,ILL_State
-LH7376,summerhouse,mentally decompress,mentally,mentally,ADV,ILL_State
-LH7376,summerhouse,mentally decompress,decompressing,decompress,VERB,ILL_State
-LH7376,bible,practice religion,practicing,practice,VERB,ILL_State
-LH7376,bible,practice religion,religion,religion,NOUN,ILL_State
-LH7376,bible,reading,reading,read,VERB,ILL_State
-LH7376,bible,praying,praying,pray,VERB,ILL_State
-LH7376,lodging,housing,housing,house,VERB,ILL_State
-LH7376,lodging,somewhere to stay,somewhere,somewhere,ADV,ILL_State
-LH7376,lodging,somewhere to stay,stay,stay,VERB,ILL_State
-LH7376,trousers,cover bottom,covering,cover,VERB,ILL_State
-LH7376,trousers,cover bottom,bottoms,bottom,NOUN,ILL_State
-LH7376,trousers,keep leg warm,keeping,keep,AUX,ILL_State
-LH7376,trousers,keep leg warm,legs,leg,NOUN,ILL_State
-LH7376,trousers,keep leg warm,warm,warm,VERB,ILL_State
-LH7376,trousers,can be use to express identity depend on who wear them,can,can,AUX,ILL_State
-LH7376,trousers,can be use to express identity depend on who wear them,used,use,AUX,ILL_State
-LH7376,trousers,can be use to express identity depend on who wear them,express,express,VERB,ILL_State
-LH7376,trousers,can be use to express identity depend on who wear them,identity,identity,NOUN,ILL_State
-LH7376,trousers,can be use to express identity depend on who wear them,depending,depend,AUX,ILL_State
-LH7376,trousers,can be use to express identity depend on who wear them,wears,wear,VERB,ILL_State
-LH7376,pumice,exfoliate skin,exfoliating,exfoliate,VERB,ILL_State
-LH7376,pumice,exfoliate skin,skin,skin,NOUN,ILL_State
-LH7376,pumice,construct material,constructing,construct,VERB,ILL_State
-LH7376,pumice,construct material,materials,materials,NOUN,ILL_State
-LH7376,ash,mourning,mourning,mourn,VERB,ILL_State
-LH7376,hairnet,keep hair restrain,keeping,keep,AUX,ILL_State
-LH7376,hairnet,keep hair restrain,hair,hair,NOUN,ILL_State
-LH7376,hairnet,keep hair restrain,restrained,restrain,VERB,ILL_State
-LH7376,artifact,learning,learning,learn,VERB,ILL_State
-LH7376,artifact,researching,researching,research,VERB,ILL_State
-LH7376,artifact,exploring,exploring,explore,VERB,ILL_State
-LH7376,artifact,teaching,teaching,teach,VERB,ILL_State
-LH7376,skillet,cooking,cooking,cook,VERB,ILL_State
-LH7376,skillet,frying,frying,fry,VERB,ILL_State
-LH7376,skillet,baking,baking,bake,VERB,ILL_State
-LH7376,skillet,heating,heating,heat,VERB,ILL_State
-LH7376,glassblower,make glass,making,make,VERB,ILL_State
-LH7376,glassblower,make glass,glass,glass,NOUN,ILL_State
-LH7376,costume,dressing,dressing,dress,VERB,ILL_State
-LH7376,costume,disguise oneself,disguising,disguise,VERB,ILL_State
-LH7376,costume,disguise oneself,oneself,oneself,PRON,ILL_State
-LH7376,costume,celebrate a holiday,celebrating,celebrate,VERB,ILL_State
-LH7376,costume,celebrate a holiday,holiday,holiday,NOUN,ILL_State
+LH7376,stretcher,carrying,carrying,carry,VERB,ILL_STATE
+LH7376,stretcher,transporting,transporting,transport,VERB,ILL_STATE
+LH7376,bead,makingintojewelry,making,make,NOUN,ILL_STATE
+LH7376,bead,makingintojewelry,jewelry,jewelry,NOUN,ILL_STATE
+LH7376,pocketknife,stabbing,stabbing,stab,VERB,ILL_STATE
+LH7376,pocketknife,cutting,cutting,cut,VERB,ILL_STATE
+LH7376,pocketknife,slicing,slicing,slice,VERB,ILL_STATE
+LH7376,machinery,building,building,build,NOUN,ILL_STATE
+LH7376,machinery,repairing,repairing,repair,VERB,ILL_STATE
+LH7376,machinery,destroying,destroying,destroy,VERB,ILL_STATE
+LH7376,machinery,creating,creating,create,VERB,ILL_STATE
+LH7376,machinery,lifting,lifting,lift,VERB,ILL_STATE
+LH7376,machinery,carrying,carrying,carry,VERB,ILL_STATE
+LH7376,songbook,writing,writing,write,VERB,ILL_STATE
+LH7376,songbook,songs,songs,songs,NOUN,ILL_STATE
+LH7376,stairwell,climbing,climbing,climb,VERB,ILL_STATE
+LH7376,stairwell,going,going,go,AUX,ILL_STATE
+LH7376,seed,planting,planting,plan,VERB,ILL_STATE
+LH7376,seed,farming,farming,farm,VERB,ILL_STATE
+LH7376,seed,growing,growing,grow,VERB,ILL_STATE
+LH7376,seed,cultivating,cultivating,cultivate,VERB,ILL_STATE
+LH7376,dessert,eating,eating,eat,VERB,ILL_STATE
+LH7376,dessert,enjoying,enjoying,enjoy,VERB,ILL_STATE
+LH7376,dessert,cooking,cooking,cook,VERB,ILL_STATE
+LH7376,dollar,spending,spending,spend,VERB,ILL_STATE
+LH7376,dollar,working,working,work,VERB,ILL_STATE
+LH7376,powerboat,sailing,sailing,sail,VERB,ILL_STATE
+LH7376,sprinter,running,running,run,VERB,ILL_STATE
+LH7376,sprinter,win a race,winning,win,VERB,ILL_STATE
+LH7376,sprinter,win a race,race,race,NOUN,ILL_STATE
+LH7376,sprinter,move quickly,moving,move,VERB,ILL_STATE
+LH7376,sprinter,move quickly,quickly,quickly,ADV,ILL_STATE
+LH7376,balm,lips,lips,lip,NOUN,ILL_STATE
+LH7376,balm,skin,skin,skin,NOUN,ILL_STATE
+LH7376,balm,metal,metal,metal,NOUN,ILL_STATE
+LH7376,balm,apply onto various surface,applying,apply,VERB,ILL_STATE
+LH7376,balm,apply onto various surface,onto,onto,ADP,ILL_STATE
+LH7376,balm,apply onto various surface,various,various,ADJ,ILL_STATE
+LH7376,balm,apply onto various surface,surfaces,surface,NOUN,ILL_STATE
+LH7376,fan,keep cool,keeping,keep,AUX,ILL_STATE
+LH7376,fan,keep cool,cool,cool,VERB,ILL_STATE
+LH7376,fan,ventilating,ventilating,ventilate,VERB,ILL_STATE
+LH7376,fan,circulate air,circulating,circulate,VERB,ILL_STATE
+LH7376,fan,circulate air,air,air,NOUN,ILL_STATE
+LH7376,tinplate,line can,lining,line,VERB,ILL_STATE
+LH7376,tinplate,line can,cans,can,NOUN,ILL_STATE
+LH7376,tin,create can,creating,create,VERB,ILL_STATE
+LH7376,tin,create can,cans,can,NOUN,ILL_STATE
+LH7376,tin,decoration,decoration,decorate,VERB,ILL_STATE
+LH7376,sidewalk,walking,walking,walk,VERB,ILL_STATE
+LH7376,sidewalk,providing,providing,provide,AUX,ILL_STATE
+LH7376,sidewalk,means,means,mean,AUX,ILL_STATE
+LH7376,sidewalk,transportation,transportation,transport,VERB,ILL_STATE
+LH7376,rotisserie,cooking,cooking,cook,VERB,ILL_STATE
+LH7376,rotisserie,roasting,roasting,roast,VERB,ILL_STATE
+LH7376,rotisserie,spin something,spinning,spin,VERB,ILL_STATE
+LH7376,rotisserie,spin something,something,something,PRON,ILL_STATE
+LH7376,cloverleaf,be a symbol of luck,symbol,symbol,VERB,ILL_STATE
+LH7376,cloverleaf,be a symbol of luck,luck,luck,NOUN,ILL_STATE
+LH7376,cloverleaf,rare,rare,rare,ADJ,ILL_STATE
+LH7376,cloverleaf,plant,plant,plant,VERB,ILL_STATE
+LH7376,cloverleaf,growing,growing,grow,VERB,ILL_STATE
+LH7376,summerhouse,vacationing,vacationing,vacation,VERB,ILL_STATE
+LH7376,summerhouse,spend time with family or friend,spending,spend,NOUN,ILL_STATE
+LH7376,summerhouse,spend time with family or friend,time,time,VERB,ILL_STATE
+LH7376,summerhouse,spend time with family or friend,family,family,NOUN,ILL_STATE
+LH7376,summerhouse,spend time with family or friend,friends,friend,NOUN,ILL_STATE
+LH7376,summerhouse,relaxing,relaxing,relax,VERB,ILL_STATE
+LH7376,summerhouse,mentally decompress,mentally,mentally,ADV,ILL_STATE
+LH7376,summerhouse,mentally decompress,decompressing,decompress,VERB,ILL_STATE
+LH7376,bible,practice religion,practicing,practice,VERB,ILL_STATE
+LH7376,bible,practice religion,religion,religion,NOUN,ILL_STATE
+LH7376,bible,reading,reading,read,VERB,ILL_STATE
+LH7376,bible,praying,praying,pray,VERB,ILL_STATE
+LH7376,lodging,housing,housing,house,VERB,ILL_STATE
+LH7376,lodging,somewhere to stay,somewhere,somewhere,ADV,ILL_STATE
+LH7376,lodging,somewhere to stay,stay,stay,VERB,ILL_STATE
+LH7376,trousers,cover bottom,covering,cover,VERB,ILL_STATE
+LH7376,trousers,cover bottom,bottoms,bottom,NOUN,ILL_STATE
+LH7376,trousers,keep leg warm,keeping,keep,AUX,ILL_STATE
+LH7376,trousers,keep leg warm,legs,leg,NOUN,ILL_STATE
+LH7376,trousers,keep leg warm,warm,warm,VERB,ILL_STATE
+LH7376,trousers,can be use to express identity depend on who wear them,can,can,AUX,ILL_STATE
+LH7376,trousers,can be use to express identity depend on who wear them,used,use,AUX,ILL_STATE
+LH7376,trousers,can be use to express identity depend on who wear them,express,express,VERB,ILL_STATE
+LH7376,trousers,can be use to express identity depend on who wear them,identity,identity,NOUN,ILL_STATE
+LH7376,trousers,can be use to express identity depend on who wear them,depending,depend,AUX,ILL_STATE
+LH7376,trousers,can be use to express identity depend on who wear them,wears,wear,VERB,ILL_STATE
+LH7376,pumice,exfoliate skin,exfoliating,exfoliate,VERB,ILL_STATE
+LH7376,pumice,exfoliate skin,skin,skin,NOUN,ILL_STATE
+LH7376,pumice,construct material,constructing,construct,VERB,ILL_STATE
+LH7376,pumice,construct material,materials,materials,NOUN,ILL_STATE
+LH7376,ash,mourning,mourning,mourn,VERB,ILL_STATE
+LH7376,hairnet,keep hair restrain,keeping,keep,AUX,ILL_STATE
+LH7376,hairnet,keep hair restrain,hair,hair,NOUN,ILL_STATE
+LH7376,hairnet,keep hair restrain,restrained,restrain,VERB,ILL_STATE
+LH7376,artifact,learning,learning,learn,VERB,ILL_STATE
+LH7376,artifact,researching,researching,research,VERB,ILL_STATE
+LH7376,artifact,exploring,exploring,explore,VERB,ILL_STATE
+LH7376,artifact,teaching,teaching,teach,VERB,ILL_STATE
+LH7376,skillet,cooking,cooking,cook,VERB,ILL_STATE
+LH7376,skillet,frying,frying,fry,VERB,ILL_STATE
+LH7376,skillet,baking,baking,bake,VERB,ILL_STATE
+LH7376,skillet,heating,heating,heat,VERB,ILL_STATE
+LH7376,glassblower,make glass,making,make,VERB,ILL_STATE
+LH7376,glassblower,make glass,glass,glass,NOUN,ILL_STATE
+LH7376,costume,dressing,dressing,dress,VERB,ILL_STATE
+LH7376,costume,disguise oneself,disguising,disguise,VERB,ILL_STATE
+LH7376,costume,disguise oneself,oneself,oneself,PRON,ILL_STATE
+LH7376,costume,celebrate a holiday,celebrating,celebrate,VERB,ILL_STATE
+LH7376,costume,celebrate a holiday,holiday,holiday,NOUN,ILL_STATE

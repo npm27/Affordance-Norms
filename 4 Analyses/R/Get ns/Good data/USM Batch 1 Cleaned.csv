@@ -54328,7 +54328,7 @@ w998537_kbr,backgammon,thrown ,thrown,throw,VERB,USM
 10020796EGM,fir,plant,plant,plant,NOUN,USM
 10020796EGM,fir,seeds,seeds,seed,NOUN,USM
 10020796EGM,cactus,flowers,flowers,flower,NOUN,USM
-10020796EGM,cactus,water,water,water,NOUN,v
+10020796EGM,cactus,water,water,water,NOUN,USM
 10020796EGM,parcel,mail man uses it,mail,mail,NOUN,USM
 10020796EGM,parcel,mail man uses it,man,man,NOUN,USM
 10020796EGM,parcel,mail man uses it,uses,use,AUX,USM
@@ -58157,7 +58157,7 @@ w10059672_blm,chili,burgers,burgers,burgers,NOUN,USM
 w10059672_blm,chili,hot dogs,hotdogs,hotdog,NOUN,USM
 w10059672_blm,chili,in a bowl,bowl,bowl,NOUN,USM
 w10059672_blm,chili,spoon,spoon,spoon,NOUN,USM
-w10059672_blm,sprayer,water,water,water,NOUN,v
+w10059672_blm,sprayer,water,water,water,NOUN,USM
 w10059672_blm,sprayer,plants,plants,plant,NOUN,USM
 w10059672_blm,sprayer,clean,clean,clean,VERB,USM
 w10059672_blm,macaroon,eat,eat,eat,VERB,USM

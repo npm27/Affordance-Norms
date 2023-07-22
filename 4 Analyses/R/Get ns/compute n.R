@@ -9,8 +9,128 @@ dat = do.call(rbind, lapply(files, function(x) read.csv(x, stringsAsFactors = FA
 #get the number of participants
 length(unique(dat$Username))
 
+####Fix duplicates (caps difference, plurals, etc.)####
+##fix case
+dat$Stimuli.Cue = tolower(dat$Stimuli.Cue)
+
+##Check for plurals/different spellings
+cuelist = unique(dat$Stimuli.Cue)
+View(data.frame(cuelist))
+
+#fix
+dat$Stimuli.Cue[dat$Stimuli.Cue == "ammo"] = "ammunition"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "antiques"] = "antique"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "apartments"] = "apartment"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "ashes"] = "ash"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "ax"] = "axe"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "axes"] = "axe"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "bagpipes"] = "bagpipe"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "bifocal"] = "bifocals"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "blackheads"] = "blackhead"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "boots"] = "boot"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "brassiere"] = "bra"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "breast"] = "breasts"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "brushes"] = "brush"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "buttock"] = "buttocks"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "cacti"] = "cactus"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "calves"] = "calf"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "canvass"] = "canvas"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "capes"] = "cape"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "carpeting"] = "carpet"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "capes"] = "cape"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "chopstick"] = "chopsticks"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "clips"] = "clip"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "clothing"] = "clothes"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "compasses"] = "compass"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "crackers"] = "cracker"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "cymbols"] = "cymbol"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "daddy"] = "dad"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "daggers"] = "dagger"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "denims"] = "denim"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "domino"] = "dominoes"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "drawer"] = "drawers"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "flannels"] = "flannel"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "genital"] = "genitals"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "genitalia"] = "genitals"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "goggle"] = "goggles"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "grocery"] = "groceries"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "gymnasium"] = "gym"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "ingredient"] = "ingredients"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "jean"] = "jeans"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "kids"] = "kid"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "catsup"] = "ketchup"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "kissing"] = "kiss"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "knuckles"] = "knuckle"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "lilly"] = "lily"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "limes"] = "lime"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "machetes"] = "machete"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "mansions"] = "mansion"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "masseur"] = "masseuse"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "mayo"] = "mayonnaise"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "medics"] = "medic"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "medication"] = "medicine"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "mucous"] = "mucus"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "mullets"] = "mullet"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "needles"] = "needle"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "noodles"] = "noodle"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "nutcrackers"] = "nutcracker"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "omelette"] = "omelet"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "pajama"] = "pajamas"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "plastics"] = "plastic"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "primates"] = "primate"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "props"] = "prop"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "rainfall"] = "rain"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "receipts"] = "receipt"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "sax"] = "saxophone"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "scissor"] = "scissors"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "seating"] = "seat"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "shaving"] = "shavings"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "shingles"] = "shingle"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "shrubbery"] = "shrub"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "sketchpad"] = "sketchbook"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "skittle"] = "skittles"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "spice"] = "spices"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "stair"] = "stairs"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "stationery"] = "stationary"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "strings"] = "string"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "suspender"] = "suspenders"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "syringes"] = "syringe"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "tong"] = "tongs"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "townspeople"] = "townsfolk"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "tranquilizers"] = "tranquilizer"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "traveller"] = "traveler"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "trucks"] = "truck"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "underclothing"] = "underclothes"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "undergarment"] = "underwear"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "underpants"] = "underwear"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "vaginal"] = "vagina"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "vitamin"] = "vitamins"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "weaponry"] = "weapon"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "whisker"] = "whiskers"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "wounds"] = "wound"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "whisky"] = "whiskey"
+
+##how many lost from combining?
+111 - 21 #90
+
+##words to remove?
+#bathe
+#childbirth
+#crap
+#fag
+#him
+#lick
+#holding
+#me
+#myself
+#piss
+#poop
+#you
+#yourself
+
 ####Write a loop?####
 ##subset by cue, get each n?
+##remake cue-list
 cuelist = unique(dat$Stimuli.Cue)
 
 dat = dat[order(dat$Stimuli.Cue), ]

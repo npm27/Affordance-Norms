@@ -1,7 +1,7 @@
 Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
-CM1875,abdomen,pierce,pierce,pierce,NOUN,ILL_STATE
-CM1875,abdomen,surgery,surgery,surgery,NOUN,ILL_STATE
-CM1875,abdomen,work out,work,work,NOUN,ILL_STATE
+CM1875,abdomen,pierce,pierce,pierce,VERB,ILL_STATE
+CM1875,abdomen,surgery,surgery,surgery,VERB,ILL_STATE
+CM1875,abdomen,work out,work,workout,VERB,ILL_STATE
 CM1875,absinthe,die,die,die,VERB,ILL_STATE
 CM1875,absinthe,drink,drink,drink,VERB,ILL_STATE
 CM1875,absinthe,drunk,drunk,drink,VERB,ILL_STATE
@@ -9,9 +9,9 @@ MH6227,accordion,band,band,band,NOUN,ILL_STATE
 JanedisColon331.643.2681,accordion,entertainment,entertainment,entertainment,NOUN,ILL_STATE
 JanedisColon331.643.2681,accordion,hobby,hobby,hobby,NOUN,ILL_STATE
 MH6227,accordion,instruement,instrument,instrument,NOUN,ILL_STATE
-JanedisColon331.643.2681,accordion,make money,make,make,VERB,ILL_STATE
+JanedisColon331.643.2681,accordion,make money,make,make,AUX,ILL_STATE
 JanedisColon331.643.2681,accordion,make money,money,money,NOUN,ILL_STATE
-MH6227,accordion,music,music,music,NOUN,ILL_STATE
+MH6227,accordion,music,music,music,VERB,ILL_STATE
 JanedisColon331.643.2681,accordion,perform music,music,music,NOUN,ILL_STATE
 JanedisColon331.643.2681,accordion,perform music,perform,perform,VERB,ILL_STATE
 LM8773,acne,control,control,control,NOUN,ILL_STATE
@@ -28,7 +28,7 @@ GR8655,altarpiece,hug,hug,hug,VERB,ILL_STATE
 GR8655,altarpiece,kiss,kiss,kiss,VERB,ILL_STATE
 GR8655,altarpiece,look at,look,look,VERB,ILL_STATE
 GR8655,altarpiece,place on altar,altar,altar,NOUN,ILL_STATE
-GR8655,altarpiece,place on altar,place,place,NOUN,ILL_STATE
+GR8655,altarpiece,place on altar,place,place,VERB,ILL_STATE
 GR8655,altarpiece,put down,put,put,VERB,ILL_STATE
 GR8655,altarpiece,stand on,stand,stand,VERB,ILL_STATE
 GR8655,altarpiece,throw,throw,throw,VERB,ILL_STATE
@@ -58,7 +58,7 @@ JB1475,antiques,sell,sell,sell,VERB,ILL_STATE
 JB1475,antiques,store,store,store,VERB,ILL_STATE
 IC8818,antiques,valuable,valuable,valuable,ADJ,ILL_STATE
 ac9377,apron,to keep clothes clean,clean,clean,VERB,ILL_STATE
-ac9377,apron,to keep clothes clean,keep,keep,VERB,ILL_STATE
+ac9377,apron,to keep clothes clean,keep,keep,AUX,ILL_STATE
 KL7604,arachnid,spiderman,spiderman,spiderman,NOUN,ILL_STATE
 KL7604,arachnid,spiders,spiders,spider,NOUN,ILL_STATE
 KF0144,armband,accessory,accessory,accessory,INTJ,ILL_STATE
@@ -78,7 +78,7 @@ JanedisColon331.643.2681,arrow,sport,sport,sport,NOUN,ILL_STATE
 MH6227,arrow,symbol,symbol,symbol,NOUN,ILL_STATE
 JanedisColon331.643.2681,ashcan,ash,ash,ash,INTJ,ILL_STATE
 JanedisColon331.643.2681,ashcan,coal fires,coal,coal,NOUN,ILL_STATE
-JanedisColon331.643.2681,ashcan,coal fires,fires,fire,NOUN,ILL_STATE
+JanedisColon331.643.2681,ashcan,coal fires,fires,fire,VERB,ILL_STATE
 JanedisColon331.643.2681,ashcan,wood,wood,wood,NOUN,ILL_STATE
 MT2739,ashes,contain,contain,contain,NOUN,ILL_STATE
 MT2739,ashes,remember,remember,remember,VERB,ILL_STATE
@@ -86,7 +86,7 @@ MT2739,ashes,sell,sell,sell,VERB,ILL_STATE
 KM0058,ashtray,ash,ash,ash,INTJ,ILL_STATE
 MM9115,ashtray,sitting,sitting,sit,VERB,ILL_STATE
 GR8655,asparagus,chew,chew,chew,VERB,ILL_STATE
-GR8655,asparagus,cook,cook,cake,VERB,ILL_STATE
+GR8655,asparagus,cook,cook,cook,VERB,ILL_STATE
 GR8655,asparagus,cut,cut,cut,VERB,ILL_STATE
 VL8728,asparagus,eating,eating,eat,VERB,ILL_STATE
 GR8655,asparagus,grow,grow,grow,VERB,ILL_STATE
@@ -201,7 +201,7 @@ JanedisColon331.643.2681,beef,restaurant,restaurant,restaurant,NOUN,ILL_STATE
 JanedisColon331.643.2681,beef,ribs,ribs,rib,NOUN,ILL_STATE
 JanedisColon331.643.2681,beef,steak,steak,steak,NOUN,ILL_STATE
 JanedisColon331.643.2681,beef,tacos,tacos,taco,NOUN,ILL_STATE
-MT2739,beefcake,cook,cook,cake,VERB,ILL_STATE
+MT2739,beefcake,cook,cook,cook,VERB,ILL_STATE
 MT2739,beefcake,eat,eat,eat,VERB,ILL_STATE
 MT2739,beefcake,feed animals,animals,animal,NOUN,ILL_STATE
 MT2739,beefcake,feed animals,feed,feed,VERB,ILL_STATE
@@ -322,7 +322,7 @@ MM9115,bloke,hugging,hugging,hug,VERB,ILL_STATE
 MM9115,bloke,talking,talking,talk,VERB,ILL_STATE
 KF0144,blood,crime scene,crime,crime,NOUN,ILL_STATE
 KF0144,blood,crime scene,scene,scene,NOUN,ILL_STATE
-JB2271,blood,draw,draw,dree,VERB,ILL_STATE
+JB2271,blood,draw,draw,draw,VERB,ILL_STATE
 JB2271,blood,drink,drink,drink,VERB,ILL_STATE
 KF0144,blood,gross,gross,gross,ADJ,ILL_STATE
 KF0144,blood,hospital,hospital,hospital,NOUN,ILL_STATE
@@ -444,11 +444,11 @@ JB2271,bun,burn,burn,burn,VERB,ILL_STATE
 JB2271,bun,eat,eat,eat,VERB,ILL_STATE
 KF0144,bun,hair,hair,hair,NOUN,ILL_STATE
 JM6264,butter,bake,bake,bake,VERB,ILL_STATE
-JM6264,butter,cook,cook,cake,VERB,ILL_STATE
+JM6264,butter,cook,cook,cook,VERB,ILL_STATE
 JM6264,butter,eat ,eat,eat,VERB,ILL_STATE
 JM6264,buttermilk,cooking,cooking,cook,VERB,ILL_STATE
 SE5217,buttock,to protect,protect,protect,VERB,ILL_STATE
-JB1475,cabbage,cook,cook,cake,VERB,ILL_STATE
+JB1475,cabbage,cook,cook,cook,VERB,ILL_STATE
 IC8818,cabbage,eat,eat,eat,VERB,ILL_STATE
 IC8818,cabbage,eat,eat,eat,VERB,ILL_STATE
 JB1475,cabbage,eat,eat,eat,VERB,ILL_STATE
@@ -527,14 +527,14 @@ SV2237,caseworker,health services,services,service,NOUN,ILL_STATE
 CW5888,catfish,bake,bake,bake,VERB,ILL_STATE
 CW5888,catfish,boil,boil,boil,VERB,ILL_STATE
 CW5888,catfish,catch,catch,catch,VERB,ILL_STATE
-CW5888,catfish,cook,cook,cake,VERB,ILL_STATE
+CW5888,catfish,cook,cook,cook,VERB,ILL_STATE
 CW5888,catfish,eat,eat,eat,VERB,ILL_STATE
 LB7205,cathedral,communing,communing,commun,VERB,ILL_STATE
 LB7205,cathedral,praying,praying,pray,VERB,ILL_STATE
 LB7205,cathedral,resting,resting,rest,VERB,ILL_STATE
 LB7205,cathedral,talking,talking,talk,VERB,ILL_STATE
 BE3674,caviar,eat,eat,eat,VERB,ILL_STATE
-RH0817,cayenne,cook with,cook,cake,VERB,ILL_STATE
+RH0817,cayenne,cook with,cook,cook,VERB,ILL_STATE
 JB1475,cedar,craft,craft,craft,NOUN,ILL_STATE
 JB1475,cedar,cut down,cut,cut,VERB,ILL_STATE
 JB1475,cedar,plant,plant,plant,NOUN,ILL_STATE
@@ -563,7 +563,7 @@ JM6264,chambermaid,clean,clean,clean,VERB,ILL_STATE
 MT2739,chaplain,preach,preach,preach,VERB,ILL_STATE
 MT2739,chaplain,usher,usher,usher,ADJ,ILL_STATE
 HW2231,cheese,bake,bake,bake,VERB,ILL_STATE
-HW2231,cheese,cook,cook,cake,VERB,ILL_STATE
+HW2231,cheese,cook,cook,cook,VERB,ILL_STATE
 HW2231,cheese,eat,eat,eat,VERB,ILL_STATE
 HW2231,cheese,enjoy,enjoy,enjoy,VERB,ILL_STATE
 HW2231,cheese,melt,melt,melt,NOUN,ILL_STATE
@@ -731,7 +731,7 @@ BE3674,cow,raise,raise,raise,VERB,ILL_STATE
 MT2739,cracker,break into soup,break,break,VERB,ILL_STATE
 MT2739,cracker,break into soup,soup,soup,NOUN,ILL_STATE
 MT2739,cracker,coat,coat,coat,NOUN,ILL_STATE
-MT2739,cracker,cook with,cook,cake,VERB,ILL_STATE
+MT2739,cracker,cook with,cook,cook,VERB,ILL_STATE
 MT2739,cracker,crush into crumbs,crumbs,crumb,VERB,ILL_STATE
 MT2739,cracker,crush into crumbs,crush,crush,VERB,ILL_STATE
 MT2739,cracker,eat,eat,eat,VERB,ILL_STATE
@@ -784,7 +784,7 @@ KM0058,cube,ice,ice,ice,NOUN,ILL_STATE
 KM0058,cube,storage,storage,storage,NOUN,ILL_STATE
 KM0058,cube,thrown,thrown,throw,VERB,ILL_STATE
 LM8773,cuisine,bake,bake,bake,VERB,ILL_STATE
-LM8773,cuisine,cook,cook,cake,VERB,ILL_STATE
+LM8773,cuisine,cook,cook,cook,VERB,ILL_STATE
 LM8773,cuisine,dine,dine,dine,VERB,ILL_STATE
 LM8773,cuisine,eat,eat,eat,VERB,ILL_STATE
 LM8773,cuisine,menu,menu,menu,NOUN,ILL_STATE
@@ -932,7 +932,7 @@ NT0985,drywall,build a wall,wall,wall,NOUN,ILL_STATE
 GR8655,duck,add sauce to,add,add,VERB,ILL_STATE
 GR8655,duck,add sauce to,sauce,sauce,NOUN,ILL_STATE
 VL8728,duck,animal,animal,animal,NOUN,ILL_STATE
-GR8655,duck,cook,cook,cake,VERB,ILL_STATE
+GR8655,duck,cook,cook,cook,VERB,ILL_STATE
 GR8655,duck,de-feather,de,de,PROPN,ILL_STATE
 GR8655,duck,de-feather,feather,feather,NOUN,ILL_STATE
 GR8655,duck,eat,eat,eat,VERB,ILL_STATE
@@ -1020,7 +1020,7 @@ LH1949,epidermis,to protect your bodies insides,protect,protect,VERB,ILL_STATE
 SW4407,evergreen,lumber,lumber,lumber,NOUN,ILL_STATE
 SW4407,evergreen,needles for candles,candles,candle,NOUN,ILL_STATE
 SW4407,evergreen,needles for candles,needles,needles,NOUN,ILL_STATE
-SW4407,evergreen,needles for cleaning solution,cleaning,cleaning,NOUN,ILL_STATE
+SW4407,evergreen,needles for cleaning solution,cleaning,clean,VERB,ILL_STATE
 SW4407,evergreen,needles for cleaning solution,needles,needles,NOUN,ILL_STATE
 SW4407,evergreen,needles for cleaning solution,solution,solution,NOUN,ILL_STATE
 JanedisColon331.643.2681,excavator,demolishing things,demolishing,demolish,VERB,ILL_STATE
@@ -1032,9 +1032,9 @@ JanedisColon331.643.2681,excavator,dredging rivers ,rivers,rivers,NOUN,ILL_STATE
 JanedisColon331.643.2681,excavator,move large things,large,large,ADJ,ILL_STATE
 JanedisColon331.643.2681,excavator,move large things,move,move,VERB,ILL_STATE
 JanedisColon331.643.2681,excavator,move large things,things,thing,NOUN,ILL_STATE
-MH6227,excavator,movement,movement,movement,NOUN,ILL_STATE
+MH6227,excavator,movement,movement,move,VERB,ILL_STATE
 BE3674,extinguisher,store,store,store,VERB,ILL_STATE
-BE3674,extinguisher,use,use,use,VERB,ILL_STATE
+BE3674,extinguisher,use,use,use,AUX,ILL_STATE
 HW2231,eyebath,clean,clean,clean,VERB,ILL_STATE
 EB2483,eyebath,medication,medication,medication,NOUN,ILL_STATE
 HW2231,eyebath,rinse,rinse,rinse,VERB,ILL_STATE
@@ -1044,7 +1044,7 @@ CM1875,eyedrop,relieve pain,relieve,relieve,ADJ,ILL_STATE
 CM1875,eyedrop,wet eyes,eyes,eyes,NOUN,ILL_STATE
 CM1875,eyedrop,wet eyes,wet,wet,ADJ,ILL_STATE
 HW2231,eyelid,blinking,blinking,blink,VERB,ILL_STATE
-EB2483,eyelid,closing,closing,closing,NOUN,ILL_STATE
+EB2483,eyelid,closing,closing,close,VERB,ILL_STATE
 HW2231,eyelid,makeup,makeup,makeup,NOUN,ILL_STATE
 EB2483,eyelid,opening,opening,open,VERB,ILL_STATE
 HW2231,eyelid,sleeping,sleeping,sleep,VERB,ILL_STATE
@@ -1057,14 +1057,14 @@ MW6542,family,events ,events,event,NOUN,ILL_STATE
 EL2514,family,follow,follow,follow,VERB,ILL_STATE
 EL2514,family,help,help,help,VERB,ILL_STATE
 EL2514,family,leave,leave,leave,VERB,ILL_STATE
-EL2514,family,love,love,love,NOUN,ILL_STATE
+EL2514,family,love,love,love,VERB,ILL_STATE
 EL2514,family,play,play,play,VERB,ILL_STATE
-SV2237,farmhand,farm work,farm,farm,NOUN,ILL_STATE
-SV2237,farmhand,farm work,work,work,NOUN,ILL_STATE
+SV2237,farmhand,farm work,farm,farm,VERB,ILL_STATE
+SV2237,farmhand,farm work,work,work,VERB,ILL_STATE
 SE5217,feast,to eat,eat,eat,VERB,ILL_STATE
 SE5217,feast,to look at,look,look,VERB,ILL_STATE
-SE5217,feast,to make a speech,make,make,VERB,ILL_STATE
-SE5217,feast,to make a speech,speech,speech,NOUN,ILL_STATE
+SE5217,feast,to make a speech,make,make,AUX,ILL_STATE
+SE5217,feast,to make a speech,speech,speech,VERB,ILL_STATE
 AR0075,fedora,accessory,accessory,accessory,INTJ,ILL_STATE
 AR0075,fedora,protect head,head,head,NOUN,ILL_STATE
 AR0075,fedora,protect head,protect,protect,VERB,ILL_STATE
@@ -1080,14 +1080,14 @@ KF0144,ferret,paws,paws,paws,NOUN,ILL_STATE
 JB2271,ferret,pet,pet,pet,NOUN,ILL_STATE
 JB2271,ferret,play,play,play,VERB,ILL_STATE
 KF0144,ferret,rodent,rodent,rodent,NOUN,ILL_STATE
-KF0144,ferret,sneaky,sneaky,sneaky,INTJ,ILL_STATE
+KF0144,ferret,sneaky,sneaky,sneak,VERB,ILL_STATE
 JB2271,ferret,take care of,care,care,NOUN,ILL_STATE
 JB2271,ferret,take care of,take,take,VERB,ILL_STATE
 JB1475,figurine,bond over,bond,bond,NOUN,ILL_STATE
 JB1475,figurine,collect,collect,collect,VERB,ILL_STATE
 JB1475,figurine,enjoy,enjoy,enjoy,VERB,ILL_STATE
 JB1475,figurine,play with,play,play,VERB,ILL_STATE
-JB1475,figurine,share,share,share,NOUN,ILL_STATE
+JB1475,figurine,share,share,share,VERB,ILL_STATE
 CM1875,finger,bend,bend,bend,VERB,ILL_STATE
 CM1875,finger,break,break,break,VERB,ILL_STATE
 CM1875,finger,point,point,point,NOUN,ILL_STATE
@@ -1095,12 +1095,11 @@ KM0058,fireplace,burn,burn,burn,VERB,ILL_STATE
 MM9115,fireplace,cooking,cooking,cook,VERB,ILL_STATE
 MM9115,fireplace,hearing,hearing,hear,VERB,ILL_STATE
 KM0058,fireplace,heat,heat,heat,VERB,ILL_STATE
-KM0058,fireplace,warmth,warmth,warmth,NOUN,ILL_STATE
-ac9377,firstborn,baby sitter,baby,baby,NOUN,ILL_STATE
-ac9377,firstborn,baby sitter,sitter,sitter,NOUN,ILL_STATE
-CM1875,fixture,put up,put,put,VERB,ILL_STATE
-CM1875,fixture,turn off,turn,turn,VERB,ILL_STATE
-CM1875,fixture,turn on,turn,turn,VERB,ILL_STATE
+KM0058,fireplace,warmth,warmth,warm,VERB,ILL_STATE
+ac9377,firstborn,baby sitter,baby,babysit,VERB,ILL_STATE
+CM1875,fixture,put up,put,put up,VERB,ILL_STATE
+CM1875,fixture,turn off,turn,turn off,VERB,ILL_STATE
+CM1875,fixture,turn on,turn,turn on,VERB,ILL_STATE
 MT2739,flashlight,games,games,game,NOUN,ILL_STATE
 MT2739,flashlight,illuminate,illuminate,illuminate,VERB,ILL_STATE
 MT2739,flashlight,locate,locate,locate,VERB,ILL_STATE
@@ -1116,17 +1115,17 @@ MM9115,fleece,wearing,wearing,wear,VERB,ILL_STATE
 JM6264,flesh,science experiement,experiment,experiment,VERB,ILL_STATE
 JM6264,flesh,science experiement,science,science,NOUN,ILL_STATE
 ac9377,floorboard,stand on,stand,stand,VERB,ILL_STATE
-ac9377,floorboard,weapon,weapon,weapon,NOUN,ILL_STATE
+ac9377,floorboard,weapon,weapon,weapon,VERB,ILL_STATE
 RH0817,florist,buy flowers from,buy,buy,VERB,ILL_STATE
 RH0817,florist,buy flowers from,flowers,flower,NOUN,ILL_STATE
-MT2739,fluid,cook with,cook,cake,VERB,ILL_STATE
+MT2739,fluid,cook with,cook,cook,VERB,ILL_STATE
 MT2739,fluid,drink,drink,drink,VERB,ILL_STATE
 MT2739,fluid,shower,shower,shower,NOUN,ILL_STATE
 MT2739,fluid,survive,survive,survive,VERB,ILL_STATE
 KL7604,flute,instrument,instrument,instrument,NOUN,ILL_STATE
 KL7604,flute,perform,perform,perform,VERB,ILL_STATE
 KL7604,flute,play,play,play,VERB,ILL_STATE
-CM1875,Food,cook,cook,cake,VERB,ILL_STATE
+CM1875,Food,cook,cook,cook,VERB,ILL_STATE
 CM1875,Food,eat,eat,eat,VERB,ILL_STATE
 CM1875,Food,heat up,heat,heat,VERB,ILL_STATE
 CM1875,Food,throw out,throw,throw,VERB,ILL_STATE
@@ -1142,7 +1141,7 @@ MW6542,footballer,sports,sports,sport,NOUN,ILL_STATE
 7551,footbath,put feet in ,put,put,VERB,ILL_STATE
 KL7604,footpad,rest your feet,feet,foot,NOUN,ILL_STATE
 KL7604,footpad,rest your feet,rest,rest,VERB,ILL_STATE
-BE3674,footstool,step-on,step,step,VERB,ILL_STATE
+BE3674,footstool,step-on,step,step on,VERB,ILL_STATE
 LB7205,forceps,as a weapon,weapon,weapon,NOUN,ILL_STATE
 LB7205,forceps,cutting,cutting,cut,VERB,ILL_STATE
 LB7205,forceps,plucking,plucking,pluck,VERB,ILL_STATE
@@ -1204,7 +1203,7 @@ AR0075,gift,show love and appreciation,love,love,NOUN,ILL_STATE
 AR0075,gift,show love and appreciation,show,show,VERB,ILL_STATE
 EL2514,ginger,bake,bake,bake,VERB,ILL_STATE
 EL2514,ginger,chop,chop,chop,VERB,ILL_STATE
-EL2514,ginger,cook,cook,cake,VERB,ILL_STATE
+EL2514,ginger,cook,cook,cook,VERB,ILL_STATE
 MW6542,ginger,cooking,cooking,cook,VERB,ILL_STATE
 EL2514,ginger,grow,grow,grow,VERB,ILL_STATE
 EL2514,ginger,harvest,harvest,harvest,VERB,ILL_STATE
@@ -1278,7 +1277,7 @@ LM8773,graveyard,gravestones,gravestones,gravestone,NOUN,ILL_STATE
 LM8773,graveyard,headstones,headstones,headstone,NOUN,ILL_STATE
 LM8773,graveyard,pray,pray,pray,VERB,ILL_STATE
 LM8773,graveyard,walk,walk,walk,VERB,ILL_STATE
-CW5888,gravy,cook,cook,cake,VERB,ILL_STATE
+CW5888,gravy,cook,cook,cook,VERB,ILL_STATE
 CW5888,gravy,pour,pour,pour,VERB,ILL_STATE
 CW5888,gravy,scoop,scoop,scoop,VERB,ILL_STATE
 CW5888,gravy,warm,warm,warm,VERB,ILL_STATE
@@ -1287,7 +1286,7 @@ RH0817,grease,lather,lather,lather,NOUN,ILL_STATE
 AF6541,greenery,decorate ,decorate,decorate,VERB,ILL_STATE
 AF6541,greenery,look pretty,look,look,VERB,ILL_STATE
 AF6541,greenery,look pretty,pretty,pretty,ADV,ILL_STATE
-KM0058,grits,cook,cook,cake,VERB,ILL_STATE
+KM0058,grits,cook,cook,cook,VERB,ILL_STATE
 KM0058,grits,eat,eat,eat,VERB,ILL_STATE
 MM9115,grits,eating,eating,eat,VERB,ILL_STATE
 JanedisColon331.643.2681,groundsman,caring for plants and grass,grass,grass,NOUN,ILL_STATE
@@ -1403,11 +1402,11 @@ KF0144,herbivore,plants,plants,plant,NOUN,ILL_STATE
 JB2271,herbivore,use as food,food,food,NOUN,ILL_STATE
 JB2271,herbivore,use as food,use,use,VERB,ILL_STATE
 KF0144,herbivore,vegetables,vegetables,vegetables,NOUN,ILL_STATE
-JanedisColon331.643.2681,hoe,breaking things,breaking,break,NOUN,ILL_STATE
+JanedisColon331.643.2681,hoe,breaking things,breaking,break,VERB,ILL_STATE
 JanedisColon331.643.2681,hoe,breaking things,things,thing,NOUN,ILL_STATE
 JanedisColon331.643.2681,hoe,dig soil,dig,dig,VERB,ILL_STATE
 JanedisColon331.643.2681,hoe,dig soil,soil,soil,NOUN,ILL_STATE
-JanedisColon331.643.2681,hoe,digging dirt,digging,digge,VERB,ILL_STATE
+JanedisColon331.643.2681,hoe,digging dirt,digging,dig,VERB,ILL_STATE
 JanedisColon331.643.2681,hoe,digging dirt,dirt,dirt,NOUN,ILL_STATE
 MH6227,hoe,garden?,garden,garden,VERB,ILL_STATE
 JanedisColon331.643.2681,hoe,harvest crops,crops,crop,NOUN,ILL_STATE
@@ -1415,10 +1414,10 @@ JanedisColon331.643.2681,hoe,harvest crops,harvest,harvest,VERB,ILL_STATE
 JanedisColon331.643.2681,hoe,removing weeds ,removing,remove,VERB,ILL_STATE
 JanedisColon331.643.2681,hoe,removing weeds ,weeds,weed,NOUN,ILL_STATE
 LB7205,hog,eating it,eating,eat,VERB,ILL_STATE
-LB7205,hog,having it as a pet,pet,pet,NOUN,ILL_STATE
+LB7205,hog,having it as a pet,pet,pet,VERB,ILL_STATE
 JM6264,honey,bees,bees,be,NOUN,ILL_STATE
 JM6264,honey,eat,eat,eat,VERB,ILL_STATE
-SE5217,hook,to hook things on,hook,hook,INTJ,ILL_STATE
+SE5217,hook,to hook things on,hook,hook,VERB,ILL_STATE
 SE5217,hook,to hook things on,things,thing,NOUN,ILL_STATE
 IC8818,hoop,basketball,basketball,basketball,NOUN,ILL_STATE
 JB1475,hoop,define areas,areas,area,NOUN,ILL_STATE
@@ -1428,12 +1427,12 @@ JB1475,hoop,hold net,net,net,NOUN,ILL_STATE
 JB1475,hoop,hold on to,hold,hold,VERB,ILL_STATE
 IC8818,hoop,hula hoop,hoop,hoop,NOUN,ILL_STATE
 IC8818,hoop,hula hoop,hula,hula,X,ILL_STATE
-LB7205,horn,making noise,making,make,VERB,ILL_STATE
-LB7205,horn,making noise,noise,noise,NOUN,ILL_STATE
+LB7205,horn,making noise,making,make,AUX,ILL_STATE
+LB7205,horn,making noise,noise,noise,VERB,ILL_STATE
 LB7205,horn,using an animals horn as a weapon,animals,animal,NOUN,ILL_STATE
 LB7205,horn,using an animals horn as a weapon,horn,horn,NOUN,ILL_STATE
-LB7205,horn,using an animals horn as a weapon,using,use,VERB,ILL_STATE
-LB7205,horn,using an animals horn as a weapon,weapon,weapon,NOUN,ILL_STATE
+LB7205,horn,using an animals horn as a weapon,using,use,AUX,ILL_STATE
+LB7205,horn,using an animals horn as a weapon,weapon,weapon,VERB,ILL_STATE
 AR0075,horseshoe,protect a horse foot,foot,foot,NOUN,ILL_STATE
 AR0075,horseshoe,protect a horse foot,horse,horse,NOUN,ILL_STATE
 AR0075,horseshoe,protect a horse foot,protect,protect,VERB,ILL_STATE
@@ -1441,17 +1440,17 @@ JB2271,horsewhip,crack it,crack,crack,VERB,ILL_STATE
 KF0144,horsewhip,horses,horses,horse,NOUN,ILL_STATE
 JB2271,horsewhip,intimidate ,intimidate,intimidate,VERB,ILL_STATE
 KF0144,horsewhip,jockey,jockey,jockey,NOUN,ILL_STATE
-KF0144,horsewhip,races,races,races,NOUN,ILL_STATE
-KF0144,horsewhip,weapon,weapon,weapon,NOUN,ILL_STATE
+KF0144,horsewhip,races,races,race,VERB,ILL_STATE
+KF0144,horsewhip,weapon,weapon,weapon,VERB,ILL_STATE
 RH0817,hosiery,wear,wear,wear,VERB,ILL_STATE
 JM6264,house,live in,live,live,VERB,ILL_STATE
 JM6264,house,sleep in,sleep,sleep,VERB,ILL_STATE
-SW4407,houseboat,boating,boating,boate,VERB,ILL_STATE
+SW4407,houseboat,boating,boating,boat,VERB,ILL_STATE
 SW4407,houseboat,cooking,cooking,cook,VERB,ILL_STATE
 SW4407,houseboat,living,living,live,VERB,ILL_STATE
 SW4407,houseboat,parties,parties,party,NOUN,ILL_STATE
 SW4407,houseboat,sleeping,sleeping,sleep,VERB,ILL_STATE
-SW4407,houseboat,swimming,swimming,swimm,VERB,ILL_STATE
+SW4407,houseboat,swimming,swimming,swim,VERB,ILL_STATE
 SW4407,houseboat,using the bathroom,bathroom,bathroom,NOUN,ILL_STATE
 SW4407,houseboat,using the bathroom,using,use,VERB,ILL_STATE
 LM8773,hut,hideout,hideout,hideout,NOUN,ILL_STATE
@@ -1510,9 +1509,7 @@ IC8818,keyhole,lock,lock,lock,NOUN,ILL_STATE
 JB1475,keyhole,lock,lock,lock,VERB,ILL_STATE
 JB1475,keyhole,lock,lock,lock,NOUN,ILL_STATE
 JB1475,keyhole,see,see,see,VERB,ILL_STATE
-IC8818,keyhole,unlock,unlock,unlock,NOUN,ILL_STATE
 IC8818,keyhole,unlock,unlock,unlock,VERB,ILL_STATE
-JB1475,keyhole,unlock,unlock,unlock,NOUN,ILL_STATE
 JB1475,keyhole,unlock,unlock,unlock,VERB,ILL_STATE
 EB2483,kilt,fashion,fashion,fashion,NOUN,ILL_STATE
 EB2483,kilt,irish dancing,irish,irish,ADJ,ILL_STATE
@@ -1549,7 +1546,7 @@ LM8773,land,purchase,purchase,purchase,VERB,ILL_STATE
 LM8773,land,rent,rent,rent,VERB,ILL_STATE
 GR8655,landscape,change regularly,change,change,NOUN,ILL_STATE
 GR8655,landscape,change regularly,regularly,regularly,ADV,ILL_STATE
-GR8655,landscape,draw a plan,draw,dree,VERB,ILL_STATE
+GR8655,landscape,draw a plan,draw,draw,VERB,ILL_STATE
 GR8655,landscape,draw a plan,plan,plan,NOUN,ILL_STATE
 GR8655,landscape,drive on,drive,drive,VERB,ILL_STATE
 GR8655,landscape,fall on,fall,fall,NOUN,ILL_STATE
@@ -1569,7 +1566,7 @@ JB1475,laryngoscope,examine issues,examine,examine,VERB,ILL_STATE
 JB1475,laryngoscope,examine issues,issues,issue,NOUN,ILL_STATE
 JB1475,laryngoscope,see larynx,larynx,larynx,INTJ,ILL_STATE
 JB1475,laryngoscope,see larynx,see,see,VERB,ILL_STATE
-JB1475,laryngoscope,weapon ,weapon,weapon,NOUN,ILL_STATE
+JB1475,laryngoscope,weapon ,weapon,weapon,VERB,ILL_STATE
 LM8773,latex,allergy,allergy,allergy,NOUN,ILL_STATE
 LM8773,latex,condoms,condoms,condom,NOUN,ILL_STATE
 LM8773,latex,cover,cover,cover,VERB,ILL_STATE
@@ -1581,20 +1578,19 @@ SW4407,laxative,clearing system,clearing,clear,VERB,ILL_STATE
 SW4407,laxative,clearing system,system,system,NOUN,ILL_STATE
 SW4407,laxative,pooping,pooping,poop,VERB,ILL_STATE
 CM1875,Leaf,crush,crush,crush,VERB,ILL_STATE
-CM1875,Leaf,make a pile,make,make,VERB,ILL_STATE
-CM1875,Leaf,make a pile,pile,pile,NOUN,ILL_STATE
+CM1875,Leaf,make a pile,make,make,AUX,ILL_STATE
+CM1875,Leaf,make a pile,pile,pile,VERB,ILL_STATE
 CM1875,Leaf,pick,pick,pick,VERB,ILL_STATE
 CM1875,Leaf,throw,throw,throw,VERB,ILL_STATE
 7551,ledge,fall off,fall,fall,VERB,ILL_STATE
 7551,ledge,see views,see,see,VERB,ILL_STATE
 SW4407,leftovers,eat,eat,eat,VERB,ILL_STATE
 SW4407,leftovers,reheat,reheat,reheat,VERB,ILL_STATE
-SW4407,leftovers,throw away,away,away,ADV,ILL_STATE
-SW4407,leftovers,throw away,throw,throw,VERB,ILL_STATE
+SW4407,leftovers,throw away,away,throw away,VERB,ILL_STATE
 AR0075,lei,accessory,accessory,accessory,INTJ,ILL_STATE
 AR0075,lei,cultural symbol,cultural,cultural,ADJ,ILL_STATE
 AR0075,lei,cultural symbol,symbol,symbol,NOUN,ILL_STATE
-AF6541,lid,close,close,close,ADJ,ILL_STATE
+AF6541,lid,close,close,close,VERB,ILL_STATE
 AF6541,lid,crack ,crack,crack,VERB,ILL_STATE
 AF6541,lid,open,open,open,VERB,ILL_STATE
 JanedisColon331.643.2681,linoleum,bathrooms,bathrooms,bathroom,NOUN,ILL_STATE
@@ -1604,16 +1600,16 @@ JanedisColon331.643.2681,linoleum,living room,living,live,NOUN,ILL_STATE
 JanedisColon331.643.2681,linoleum,living room,room,room,NOUN,ILL_STATE
 JanedisColon331.643.2681,linoleum,sampling,sampling,sample,NOUN,ILL_STATE
 MH6227,linoleum,substance ,substance,substance,NOUN,ILL_STATE
-JanedisColon331.643.2681,linoleum,walking on,walking,walk,NOUN,ILL_STATE
-SV2237,lint,fire starters,fire,fire,NOUN,ILL_STATE
+JanedisColon331.643.2681,linoleum,walking on,walking,walk,VERB,ILL_STATE
+SV2237,lint,fire starters,fire,fire,VERB,ILL_STATE
 SV2237,lint,fire starters,starters,starter,NOUN,ILL_STATE
-SV2237,lint,throw out,throw,throw,VERB,ILL_STATE
+SV2237,lint,throw out,throw,throw away,VERB,ILL_STATE
 SW4407,llama,clothing/shoes,clothing,clothing,NOUN,ILL_STATE
 SW4407,llama,clothing/shoes,shoes,shoe,VERB,ILL_STATE
 SW4407,llama,fur,fur,fur,NOUN,ILL_STATE
 SW4407,llama,meat,meat,meat,NOUN,ILL_STATE
-SW4407,llama,pets,pets,pets,NOUN,ILL_STATE
-SW4407,llama,profit,profit,profit,NOUN,ILL_STATE
+SW4407,llama,pets,pets,pet,VERB,ILL_STATE
+SW4407,llama,profit,profit,profit,VERB,ILL_STATE
 CM1875,lobe,listen,listen,listen,VERB,ILL_STATE
 KF0144,locker,items,items,item,NOUN,ILL_STATE
 JB2271,locker,lock,lock,lock,VERB,ILL_STATE
@@ -1622,7 +1618,7 @@ KF0144,locker,school,school,school,NOUN,ILL_STATE
 JB2271,locker,store stuff in it,store,store,VERB,ILL_STATE
 JB2271,locker,store stuff in it,stuff,stuff,NOUN,ILL_STATE
 JB2271,locker,unlock,unlock,unlock,VERB,ILL_STATE
-KF0144,locker,work,work,work,NOUN,ILL_STATE
+KF0144,locker,work,work,work,VERB,ILL_STATE
 AF6541,locket,lock,lock,lock,VERB,ILL_STATE
 ac9377,longbow,to shoot,shoot,shoot,VERB,ILL_STATE
 AF6541,lotion,apply,apply,apply,VERB,ILL_STATE
@@ -1630,11 +1626,11 @@ AF6541,lotion,lift,lift,lift,VERB,ILL_STATE
 AF6541,lotion,smear,smear,smear,VERB,ILL_STATE
 AF6541,lotion,smell,smell,smell,VERB,ILL_STATE
 BE3674,lyre,compose,compose,compose,VERB,ILL_STATE
-BE3674,lyre,music,music,music,NOUN,ILL_STATE
+BE3674,lyre,music,music,music,VERB,ILL_STATE
 CW5888,macaroon,eat,eat,eat,VERB,ILL_STATE
 SV2237,machetes,camping,camping,camp,VERB,ILL_STATE
 7551,maid,clean,clean,clean,VERB,ILL_STATE
-7551,maid,cook,cook,cake,VERB,ILL_STATE
+7551,maid,cook,cook,cook,VERB,ILL_STATE
 LB7205,maidservant,cooking,cooking,cook,VERB,ILL_STATE
 LB7205,maidservant,helping,helping,help,VERB,ILL_STATE
 LB7205,maidservant,running errands,errands,errand,NOUN,ILL_STATE
@@ -1648,10 +1644,10 @@ LM8773,maize,lost,lost,lose,ADJ,ILL_STATE
 LM8773,maize,place,place,place,NOUN,ILL_STATE
 LM8773,maize,spray,spray,spray,VERB,ILL_STATE
 LH1949,makeup,put in on your face,face,face,NOUN,ILL_STATE
-LH1949,makeup,put in on your face,put,put,VERB,ILL_STATE
-LH1949,makeup,use it for art material,art,art,NOUN,ILL_STATE
+LH1949,makeup,put in on your face,put,wear,VERB,ILL_STATE
+LH1949,makeup,use it for art material,art,art,VERB,ILL_STATE
 LH1949,makeup,use it for art material,material,material,NOUN,ILL_STATE
-LH1949,makeup,use it for art material,use,use,VERB,ILL_STATE
+LH1949,makeup,use it for art material,use,use,AUX,ILL_STATE
 SW4407,male,relationships,relationships,relationship,NOUN,ILL_STATE
 SW4407,male,sex,sex,sex,VERB,ILL_STATE
 SW4407,male,socialization,socialization,socialization,NOUN,ILL_STATE
@@ -1661,12 +1657,12 @@ AR0075,mammal,pet,pet,pet,NOUN,ILL_STATE
 AR0075,mammal,zoo animal,animal,animal,NOUN,ILL_STATE
 AR0075,mammal,zoo animal,zoo,zoo,NOUN,ILL_STATE
 CW5888,mandolin,play,play,play,VERB,ILL_STATE
-JM6264,manhole,storage,storage,storage,NOUN,ILL_STATE
+JM6264,manhole,storage,storage,store,VERB,ILL_STATE
 SW4407,manicure,healthy nails,healthy,healthy,ADJ,ILL_STATE
 SW4407,manicure,healthy nails,nails,nails,NOUN,ILL_STATE
 SW4407,manicure,looking nice,looking,look,VERB,ILL_STATE
 SW4407,manicure,looking nice,nice,nice,ADJ,ILL_STATE
-SW4407,manicure,photoshoots,photo,photo,NOUN,ILL_STATE
+SW4407,manicure,photoshoots,photo,photograph,VERB,ILL_STATE
 SW4407,manicure,photoshoots,shoots,shoot,NOUN,ILL_STATE
 SW4407,manicure,special events,events,event,NOUN,ILL_STATE
 SW4407,manicure,special events,special,special,ADJ,ILL_STATE
@@ -1682,7 +1678,7 @@ LB7205,masseuse,massaging,massaging,massage,VERB,ILL_STATE
 LB7205,masseuse,socializing,socializing,socialize,VERB,ILL_STATE
 JM6264,matchstick,eat food,eat,eat,VERB,ILL_STATE
 JM6264,matchstick,eat food,food,food,NOUN,ILL_STATE
-JM6264,matchstick,light something,light,light,NOUN,ILL_STATE
+JM6264,matchstick,light something,light,light,VERB,ILL_STATE
 JM6264,matchstick,light something,something,something,PRON,ILL_STATE
 JanedisColon331.643.2681,matter,issue,issue,issue,NOUN,ILL_STATE
 JanedisColon331.643.2681,matter,problem,problem,problem,NOUN,ILL_STATE
@@ -1693,14 +1689,14 @@ GR8655,mayor,listen to,listen,listen,VERB,ILL_STATE
 GR8655,mayor,represent,represent,represent,VERB,ILL_STATE
 GR8655,mayor,voice opinion,opinion,opinion,NOUN,ILL_STATE
 GR8655,mayor,voice opinion,voice,voice,NOUN,ILL_STATE
-GR8655,mayor,vote,vote,vote,NOUN,ILL_STATE
+GR8655,mayor,vote,vote,vote,VERB,ILL_STATE
 HW2231,medic,emergency,emergency,emergency,NOUN,ILL_STATE
 HW2231,medic,help,help,help,VERB,ILL_STATE
 EB2483,medic,when you or someone needs help,help,help,VERB,ILL_STATE
 EB2483,medic,when you or someone needs help,needs,need,NOUN,ILL_STATE
 EB2483,medic,when you or someone needs help,someone,someone,PRON,ILL_STATE
-JB1475,medication,addiction,addiction,addiction,NOUN,ILL_STATE
-JB1475,medication,comfort,comfort,comfort,NOUN,ILL_STATE
+JB1475,medication,addiction,addiction,addiction,VERB,ILL_STATE
+JB1475,medication,comfort,comfort,comfort,VERB,ILL_STATE
 IC8818,medication,consume,consume,consume,VERB,ILL_STATE
 IC8818,medication,pain-relieving,pain,pain,NOUN,ILL_STATE
 IC8818,medication,pain-relieving,relieving,relieive,VERB,ILL_STATE
@@ -1708,29 +1704,29 @@ IC8818,medication,pharmacy,pharmacy,pharmacy,NOUN,ILL_STATE
 JB1475,medication,prevent/decrease illness affects,decrease,decrease,NOUN,ILL_STATE
 JB1475,medication,prevent/decrease illness affects,illness,illness,NOUN,ILL_STATE
 JB1475,medication,prevent/decrease illness affects,prevent,prevent,VERB,ILL_STATE
-JB1475,medication,prevention,prevention,prevention,NOUN,ILL_STATE
-JB1475,medication,safety,safety,safety,NOUN,ILL_STATE
-SW4407,mentor,advice,advice,advice,NOUN,ILL_STATE
+JB1475,medication,prevention,prevention,prevent,VERB,ILL_STATE
+JB1475,medication,safety,safety,safety,VERB,ILL_STATE
+SW4407,mentor,advice,advice,advice,VERB,ILL_STATE
 SW4407,mentor,ask questions,ask,ask,VERB,ILL_STATE
 SW4407,mentor,ask questions,questions,question,NOUN,ILL_STATE
 SW4407,mentor,confide in,confide,confide,VERB,ILL_STATE
-SW4407,mentor,support,support,support,NOUN,ILL_STATE
+SW4407,mentor,support,support,support,VERB,ILL_STATE
 ac9377,mink,status symbol,status,status,NOUN,ILL_STATE
-ac9377,mink,status symbol,symbol,symbol,NOUN,ILL_STATE
+ac9377,mink,status symbol,symbol,symbol,VERB,ILL_STATE
 KL7604,mistress,cheating,cheating,cheat,VERB,ILL_STATE
 KL7604,mistress,scandal,scandal,scandal,NOUN,ILL_STATE
 KL7604,mistress,unfaithful,unfaithful,unfaithful,ADJ,ILL_STATE
-KL7604,mixer,baking,baking,baking,NOUN,ILL_STATE
+KL7604,mixer,baking,baking,bake,NOUN,ILL_STATE
 KL7604,mixer,cakes,cakes,cake,NOUN,ILL_STATE
 KL7604,mixer,electric,electric,electric,ADJ,ILL_STATE
 KL7604,mixer,hand,hand,hand,NOUN,ILL_STATE
 MT2739,moneybags,movie prop,movie,movie,NOUN,ILL_STATE
-MT2739,moneybags,movie prop,prop,prop,NOUN,ILL_STATE
+MT2739,moneybags,movie prop,prop,prop,VERB,ILL_STATE
 MT2739,moneybags,purse,purse,purse,NOUN,ILL_STATE
 MT2739,moneybags,store,store,store,VERB,ILL_STATE
 LH1949,monk,use them on your pursuit of spirituality ,pursuit,pursuit,VERB,ILL_STATE
-LH1949,monk,use them on your pursuit of spirituality ,spirituality,spirituality,NOUN,ILL_STATE
-LH1949,monk,use them on your pursuit of spirituality ,use,use,VERB,ILL_STATE
+LH1949,monk,use them on your pursuit of spirituality ,spirituality,spirituality,VERB,ILL_STATE
+LH1949,monk,use them on your pursuit of spirituality ,use,use,AUX,ILL_STATE
 LM8773,morsel,chocolate,chocolate,chocolate,NOUN,ILL_STATE
 LB7205,mosquito,biting,biting,bite,VERB,ILL_STATE
 LB7205,mosquito,flying,flying,flie,VERB,ILL_STATE
@@ -1739,26 +1735,25 @@ JanedisColon331.643.2681,motel,drink,drink,drink,VERB,ILL_STATE
 MH6227,motel,place to stay,place,place,NOUN,ILL_STATE
 MH6227,motel,place to stay,stay,stay,VERB,ILL_STATE
 JanedisColon331.643.2681,motel,sex,sex,sex,VERB,ILL_STATE
-JanedisColon331.643.2681,motel,sleep,sleep,sleep,NOUN,ILL_STATE
-JanedisColon331.643.2681,motel,sleepover,sleepover,sleepover,NOUN,ILL_STATE
+JanedisColon331.643.2681,motel,sleep,sleep,sleep,VERB,ILL_STATE
+JanedisColon331.643.2681,motel,sleepover,sleepover,sleepover,VERB,ILL_STATE
 HW2231,motorboat,driven,driven,drive,VERB,ILL_STATE
 HW2231,motorboat,sold,sold,sell,VERB,ILL_STATE
-HW2231,motorboat,spun,spun,spun,NOUN,ILL_STATE
+HW2231,motorboat,spun,spun,spin,VERB,ILL_STATE
 EB2483,motorboat,summer activity,activity,activity,NOUN,ILL_STATE
 EB2483,motorboat,summer activity,summer,summer,NOUN,ILL_STATE
 SW4407,motorcycle,drive,drive,drive,VERB,ILL_STATE
 SW4407,motorcycle,events,events,event,NOUN,ILL_STATE
-SW4407,motorcycle,recreation,recreation,recreation,NOUN,ILL_STATE
+SW4407,motorcycle,recreation,recreation,recreation,VERB,ILL_STATE
 EB2483,mucous,adjective,adjective,adjective,ADJ,ILL_STATE
 HW2231,mucous,moistness,moistness,moistness,NOUN,ILL_STATE
-HW2231,mulch,decor,decor,decor,VERB,ILL_STATE
+HW2231,mulch,decor,decor,decorate,VERB,ILL_STATE
+EB2483,mulch,gardening,gardening,garden,VERB,ILL_STATE
 EB2483,mulch,gardening,gardening,garde,VERB,ILL_STATE
-EB2483,mulch,gardening,gardening,garde,VERB,ILL_STATE
-HW2231,mulch,gardening,gardening,garde,VERB,ILL_STATE
-HW2231,mulch,gardening,gardening,garde,VERB,ILL_STATE
+HW2231,mulch,gardening,gardening,garden,VERB,ILL_STATE
 EB2483,mulch,landscaping,landscaping,landscaping,NOUN,ILL_STATE
 HW2231,mulch,moisture,moisture,moisture,NOUN,ILL_STATE
-HW2231,mulch,plants ,plants,plant,NOUN,ILL_STATE
+HW2231,mulch,plants ,plants,plant,VERB,ILL_STATE
 KL7604,muscle,playing sports,playing,play,VERB,ILL_STATE
 KL7604,muscle,playing sports,sports,sport,NOUN,ILL_STATE
 KL7604,muscle,running ,running,run,VERB,ILL_STATE
@@ -1774,8 +1769,8 @@ CW5888,mutt,bark,bark,bark,VERB,ILL_STATE
 CW5888,mutt,pant,pant,pant,VERB,ILL_STATE
 CW5888,mutt,run,run,run,VERB,ILL_STATE
 CW5888,mutt,walk,walk,walk,VERB,ILL_STATE
-EL2514,myself,breathe,breathe,breato,VERB,ILL_STATE
-EL2514,myself,call,call,call,NOUN,ILL_STATE
+EL2514,myself,breathe,breathe,breathe,VERB,ILL_STATE
+EL2514,myself,call,call,call,VERB,ILL_STATE
 EL2514,myself,develop,develop,develop,VERB,ILL_STATE
 MW6542,myself,fun,fun,fun,NOUN,ILL_STATE
 EL2514,myself,grow,grow,grow,VERB,ILL_STATE
@@ -1796,21 +1791,21 @@ AR0075,narcotics,makes people feel good,good,good,ADJ,ILL_STATE
 AR0075,narcotics,makes people feel good,makes,make,VERB,ILL_STATE
 AR0075,narcotics,makes people feel good,people,people,NOUN,ILL_STATE
 AR0075,narcotics,recreational drug use,drug,drug,NOUN,ILL_STATE
-AR0075,narcotics,recreational drug use,recreational,recreational,ADJ,ILL_STATE
+AR0075,narcotics,recreational drug use,recreational,recreational,VERB,ILL_STATE
 AR0075,narcotics,recreational drug use,use,use,VERB,ILL_STATE
 SV2237,neck,style,style,style,NOUN,ILL_STATE
 SV2237,neck,tattoo,tattoo,tattoo,NOUN,ILL_STATE
 LM8773,neckband,equipment,equipment,equipment,NOUN,ILL_STATE
 LM8773,neckband,gear,gear,gear,NOUN,ILL_STATE
 CM1875,neckwear,style,style,style,NOUN,ILL_STATE
-CM1875,neckwear,take off,take,take,VERB,ILL_STATE
+CM1875,neckwear,remove,remove,remove,VERB,ILL_STATE
 CM1875,neckwear,wear,wear,wear,VERB,ILL_STATE
 CW5888,nectar,drizzle,drizzle,drizzle,VERB,ILL_STATE
 CW5888,nectar,eat,eat,eat,VERB,ILL_STATE
 CW5888,nectar,harvest,harvest,harvest,VERB,ILL_STATE
 NT0985,needle,sew,sew,sew,VERB,ILL_STATE
 EL2514,negligee,create,create,create,VERB,ILL_STATE
-MW6542,negligee,dress up ,dress,dress,NOUN,ILL_STATE
+MW6542,negligee,dress up ,dress,dress up,VERB,ILL_STATE
 EL2514,negligee,dress,dress,dress,NOUN,ILL_STATE
 KM0058,nephew,babysit,babysit,babysit,VERB,ILL_STATE
 KM0058,nephew,care,care,care,VERB,ILL_STATE
@@ -1823,11 +1818,11 @@ KF0144,newsagent,newsreport,news,news,NOUN,ILL_STATE
 KF0144,newsagent,newsreport,report,report,NOUN,ILL_STATE
 JB2271,newsagent,read,read,read,VERB,ILL_STATE
 JB2271,newsagent,throw away,away,away,ADV,ILL_STATE
-JB2271,newsagent,throw away,throw,throw,VERB,ILL_STATE
+JB2271,newsagent,throw away,throw,throw away,VERB,ILL_STATE
 LM8773,newsletter,burn,burn,burn,VERB,ILL_STATE
 LM8773,newsletter,mail,mail,mail,NOUN,ILL_STATE
 LM8773,newsletter,read,read,read,VERB,ILL_STATE
-LM8773,newsletter,shred,shred,shr,VERB,ILL_STATE
+LM8773,newsletter,shred,shred,shred,VERB,ILL_STATE
 BE3674,newsman,broadcast,broadcast,broadcast,VERB,ILL_STATE
 BE3674,newsman,inform,inform,inform,VERB,ILL_STATE
 ac9377,newspaper,learn about the current news,current,current,ADJ,ILL_STATE
@@ -1836,23 +1831,23 @@ ac9377,newspaper,learn about the current news,news,news,NOUN,ILL_STATE
 ac9377,newspaper,read,read,read,VERB,ILL_STATE
 LH1949,newspaperman,to receive your newspaper from them,newspaper,newspaper,NOUN,ILL_STATE
 LH1949,newspaperman,to receive your newspaper from them,receive,receive,VERB,ILL_STATE
-LH1949,newspaperman,to say hello to,hello,hello,INTJ,ILL_STATE
-LH1949,newspaperman,to say hello to,say,say,VERB,ILL_STATE
+LH1949,newspaperman,to say hello to,hello,greet,VERB,ILL_STATE
+LH1949,newspaperman,to say hello to,say,say,AUX,ILL_STATE
 JB2271,nostril,blow,blow,blow,VERB,ILL_STATE
 JB2271,nostril,breath,breath,breath,VERB,ILL_STATE
 JB2271,nostril,flare,flare,flare,VERB,ILL_STATE
 KF0144,nostril,nose,nose,nose,PRON,ILL_STATE
 KF0144,nostril,smell,smell,smell,VERB,ILL_STATE
 JB2271,nostril,wiggle,wiggle,wiggle,VERB,ILL_STATE
-SV2237,nurse,health services,health,health,NOUN,ILL_STATE
+SV2237,nurse,health services,health,heal,VERB,ILL_STATE
 SV2237,nurse,health services,services,service,NOUN,ILL_STATE
 AR0075,nutcracker,christmas decoration,christmas,christmas,PROPN,ILL_STATE
-AR0075,nutcracker,christmas decoration,decoration,decoration,NOUN,ILL_STATE
-AR0075,nutcracker,entertainment,entertainment,entertainment,NOUN,ILL_STATE
+AR0075,nutcracker,christmas decoration,decoration,decorate,VERB,ILL_STATE
+AR0075,nutcracker,entertainment,entertainment,entertain,VERB,ILL_STATE
 AR0075,nutcracker,open nuts,nuts,nut,NOUN,ILL_STATE
 AR0075,nutcracker,open nuts,open,open,VERB,ILL_STATE
 LM8773,oat,bake,bake,bake,VERB,ILL_STATE
-LM8773,oat,cook,cook,cake,VERB,ILL_STATE
+LM8773,oat,cook,cook,cook,VERB,ILL_STATE
 LM8773,oat,eat,eat,eat,VERB,ILL_STATE
 LM8773,oat,oatmeal,oatmeal,oatmeal,ADJ,ILL_STATE
 AR0075,offspring,financial support in future,financial,financial,ADJ,ILL_STATE
@@ -1864,14 +1859,14 @@ LH1949,oilcan,to hold oil or water,hold,hold,VERB,ILL_STATE
 LH1949,oilcan,to hold oil or water,oil,oil,NOUN,ILL_STATE
 LH1949,oilcan,to hold oil or water,water,water,NOUN,ILL_STATE
 LH1949,oilcan,to water your garden ,garden,garden,NOUN,ILL_STATE
-LH1949,oilcan,to water your garden ,water,water,NOUN,ILL_STATE
-CM1875,opium,cook,cook,cake,VERB,ILL_STATE
+LH1949,oilcan,to water your garden ,water,water,VERB,ILL_STATE
+CM1875,opium,cook,cook,cook,VERB,ILL_STATE
 CM1875,opium,ingest,ingest,ingest,VERB,ILL_STATE
 CM1875,opium,smoke,smoke,smoke,NOUN,ILL_STATE
 NT0985,orange,cute,cute,cute,ADJ,ILL_STATE
 NT0985,orange,eat,eat,eat,VERB,ILL_STATE
-RH0817,orangutan,feed,feed,feed,NOUN,ILL_STATE
-RH0817,orangutan,pet,pet,pet,NOUN,ILL_STATE
+RH0817,orangutan,feed,feed,feed,VERB,ILL_STATE
+RH0817,orangutan,pet,pet,pet,VERB,ILL_STATE
 RH0817,orangutan,watch,watch,watch,VERB,ILL_STATE
 VL8728,orchard,apples,apples,apple,NOUN,ILL_STATE
 GR8655,orchard,grow fruit and vegetables,fruit,fruit,NOUN,ILL_STATE
@@ -1889,7 +1884,7 @@ GR8655,orchard,pull weeds from,weeds,weed,NOUN,ILL_STATE
 GR8655,orchard,run on,run,run,NOUN,ILL_STATE
 VL8728,orchard,trees,trees,tree,NOUN,ILL_STATE
 GR8655,orchard,walk on,walk,walk,VERB,ILL_STATE
-GR8655,orchard,water,water,water,NOUN,ILL_STATE
+GR8655,orchard,water,water,water,VERB,ILL_STATE
 BE3674,oregano,garnish,garnish,garnish,VERB,ILL_STATE
 BE3674,oregano,include,include,include,VERB,ILL_STATE
 BE3674,oregano,season,season,season,VERB,ILL_STATE
@@ -1906,17 +1901,15 @@ SE5217,palm,to grab things,things,thing,NOUN,ILL_STATE
 SE5217,palm,to read,read,read,VERB,ILL_STATE
 JanedisColon331.643.2681,pantry,cans,cans,can,NOUN,ILL_STATE
 JanedisColon331.643.2681,pantry,food,food,food,NOUN,ILL_STATE
-JanedisColon331.643.2681,pantry,food,food,food,NOUN,ILL_STATE
-MH6227,pantry,food,food,food,NOUN,ILL_STATE
 MH6227,pantry,food,food,food,NOUN,ILL_STATE
 MH6227,pantry,kitchen,kitchen,kitchen,NOUN,ILL_STATE
-MH6227,pantry,organization,organization,organization,NOUN,ILL_STATE
-JanedisColon331.643.2681,pantry,storage,storage,storage,NOUN,ILL_STATE
-MH6227,pantry,storage,storage,storage,NOUN,ILL_STATE
+MH6227,pantry,organization,organization,organize,VERB,ILL_STATE
+JanedisColon331.643.2681,pantry,storage,storage,store,VERB,ILL_STATE
+MH6227,pantry,storage,storage,store,VERB,ILL_STATE
 JanedisColon331.643.2681,pantry,store products,products,product,NOUN,ILL_STATE
 JanedisColon331.643.2681,pantry,store products,store,store,VERB,ILL_STATE
 KL7604,paper,color,color,color,NOUN,ILL_STATE
-KL7604,paper,draw on it,draw,dree,VERB,ILL_STATE
+KL7604,paper,draw on it,draw,draw,VERB,ILL_STATE
 KL7604,paper,eat it,eat,eat,VERB,ILL_STATE
 KL7604,paper,fold it,fold,fold,VERB,ILL_STATE
 KL7604,paper,play games,games,game,NOUN,ILL_STATE
@@ -1924,28 +1917,23 @@ KL7604,paper,play games,play,play,VERB,ILL_STATE
 KL7604,paper,tear it,tear,tear,VERB,ILL_STATE
 KL7604,paper,write on it,write,write,VERB,ILL_STATE
 MH6227,paperback,books,books,book,NOUN,ILL_STATE
-MH6227,paperback,books,books,book,NOUN,ILL_STATE
-JanedisColon331.643.2681,paperback,books,books,book,NOUN,ILL_STATE
 JanedisColon331.643.2681,paperback,books,books,book,NOUN,ILL_STATE
 JanedisColon331.643.2681,paperback,cheap,cheap,cheap,ADJ,ILL_STATE
 JanedisColon331.643.2681,paperback,reading,reading,read,VERB,ILL_STATE
 JanedisColon331.643.2681,paperback,textbooks,textbooks,textbook,NOUN,ILL_STATE
-IC8818,paprika,cooking,cooking,cook,NOUN,ILL_STATE
-IC8818,paprika,flavor,flavor,flavor,NOUN,ILL_STATE
-JB1475,paprika,spice,spice,spice,NOUN,ILL_STATE
-JB1475,paprika,spice,spice,spice,NOUN,ILL_STATE
-IC8818,paprika,spice,spice,spice,NOUN,ILL_STATE
-IC8818,paprika,spice,spice,spice,NOUN,ILL_STATE
+IC8818,paprika,cooking,cooking,cook,VERB,ILL_STATE
+IC8818,paprika,flavor,flavor,flavor,VERB,ILL_STATE
+JB1475,paprika,spice,spice,spice,VERB,ILL_STATE
+IC8818,paprika,spice,spice,spice,VERB,ILL_STATE
 JB1475,paprika,taste,taste,taste,VERB,ILL_STATE
-RH0817,parsley,cook with,cook,cake,VERB,ILL_STATE
+RH0817,parsley,cook with,cook,cook,VERB,ILL_STATE
 RH0817,parsley,cut,cut,cut,VERB,ILL_STATE
 RH0817,parsley,pick,pick,pick,VERB,ILL_STATE
 EL2514,parsnip,chop,chop,chop,VERB,ILL_STATE
-EL2514,parsnip,cook,cook,cake,VERB,ILL_STATE
+EL2514,parsnip,cook,cook,cook,VERB,ILL_STATE
 EL2514,parsnip,grate,grate,grate,VERB,ILL_STATE
 EL2514,parsnip,grow,grow,grow,VERB,ILL_STATE
 EL2514,parsnip,harvest,harvest,harvest,ADJ,ILL_STATE
-MW6542,parsnip,huh,huh,huh,INTJ,ILL_STATE
 EL2514,parsnip,peel,peel,peel,VERB,ILL_STATE
 EL2514,parsnip,plant,plant,plant,VERB,ILL_STATE
 EL2514,parsnip,shave,shave,shave,VERB,ILL_STATE
@@ -1960,10 +1948,10 @@ EB2483,peanut,peanut butter,butter,butter,NOUN,ILL_STATE
 EB2483,peanut,peanut butter,peanut,peanut,NOUN,ILL_STATE
 HW2231,peanut,smelling,smelling,smell,VERB,ILL_STATE
 HW2231,peanut,tasting ,tasting,taste,VERB,ILL_STATE
-SE5217,peanuts,to cook,cook,cake,VERB,ILL_STATE
+SE5217,peanuts,to cook,cook,cook,VERB,ILL_STATE
 SE5217,peanuts,to eat,eat,eat,VERB,ILL_STATE
-SE5217,peanuts,to feed,feed,feed,NOUN,ILL_STATE
-IC8818,pedal,bike,bike,bike,NOUN,ILL_STATE
+SE5217,peanuts,to feed,feed,feed,VERB,ILL_STATE
+IC8818,pedal,bike,bike,bike,VERB,ILL_STATE
 IC8818,pedal,car,car,car,NOUN,ILL_STATE
 JB1475,pedal,function,function,function,NOUN,ILL_STATE
 JB1475,pedal,push,push,push,VERB,ILL_STATE
@@ -1973,12 +1961,12 @@ LM8773,peelings,fruit,fruit,fruit,NOUN,ILL_STATE
 LM8773,peelings,nail,nail,nail,NOUN,ILL_STATE
 LM8773,pegboard,throw,throw,throw,VERB,ILL_STATE
 LM8773,pencil,create,create,create,VERB,ILL_STATE
-LM8773,pencil,draw,draw,dree,VERB,ILL_STATE
+LM8773,pencil,draw,draw,draw,VERB,ILL_STATE
 LM8773,pencil,erase,erase,erase,VERB,ILL_STATE
 LM8773,pencil,sharpen,sharpen,sharpen,VERB,ILL_STATE
 LM8773,pencil,write,write,write,VERB,ILL_STATE
 7551,penny,collect,collect,collect,VERB,ILL_STATE
-7551,penny,use for payment ,payment,payment,NOUN,ILL_STATE
+7551,penny,use for payment ,payment,pay,VERB,ILL_STATE
 7551,penny,use for payment ,use,use,VERB,ILL_STATE
 HW2231,people,care,care,care,VERB,ILL_STATE
 EB2483,people,experience,experience,experience,NOUN,ILL_STATE
@@ -1987,7 +1975,7 @@ EB2483,people,family,family,family,NOUN,ILL_STATE
 EB2483,people,friends,friends,friend,NOUN,ILL_STATE
 HW2231,people,help,help,help,VERB,ILL_STATE
 HW2231,people,hug,hug,hug,VERB,ILL_STATE
-HW2231,people,love,love,love,NOUN,ILL_STATE
+HW2231,people,love,love,love,VERB,ILL_STATE
 BE3674,pepper,garnish,garnish,garnish,VERB,ILL_STATE
 BE3674,pepper,season,season,season,VERB,ILL_STATE
 LM8773,peppercorn,candy,candy,candy,NOUN,ILL_STATE
@@ -1998,17 +1986,17 @@ EB2483,person,friends,friends,friend,NOUN,ILL_STATE
 HW2231,person,help,help,help,VERB,ILL_STATE
 HW2231,person,hug,hug,hug,VERB,ILL_STATE
 HW2231,person,learn,learn,learn,VERB,ILL_STATE
-HW2231,person,love,love,love,NOUN,ILL_STATE
-ac9377,pet,comfort,comfort,comfort,NOUN,ILL_STATE
+HW2231,person,love,love,love,VERB,ILL_STATE
+ac9377,pet,comfort,comfort,comfort,VERB,ILL_STATE
 MH6227,phalanges,plane,plane,plane,NOUN,ILL_STATE
 JanedisColon331.643.2681,phalanges,tying shoes,shoes,shoe,VERB,ILL_STATE
 JanedisColon331.643.2681,phalanges,tying shoes,tying,tie,VERB,ILL_STATE
 JanedisColon331.643.2681,phalanges,typing,typing,type,NOUN,ILL_STATE
-CW5888,phonograph,message,message,message,NOUN,ILL_STATE
+CW5888,phonograph,message,message,message,VERB,ILL_STATE
 MW6542,physician,doctor,doctor,doctor,NOUN,ILL_STATE
 MW6542,physician,job ,job,job,NOUN,ILL_STATE
 EL2514,physician,people,people,people,NOUN,ILL_STATE
-EL2514,physician,study,study,study,NOUN,ILL_STATE
+EL2514,physician,study,study,study,VERB,ILL_STATE
 EL2514,physician,test,test,test,VERB,ILL_STATE
 EL2514,physician,visit,visit,visit,VERB,ILL_STATE
 LH1949,piccolo,to play,play,play,VERB,ILL_STATE
@@ -2018,43 +2006,42 @@ JB2271,pickle,buy,buy,buy,VERB,ILL_STATE
 JB2271,pickle,chill,chill,chill,VERB,ILL_STATE
 JB2271,pickle,eat,eat,eat,VERB,ILL_STATE
 KF0144,pickle,food,food,food,NOUN,ILL_STATE
-JB2271,pickle,make pickles,make,make,VERB,ILL_STATE
-JB2271,pickle,make pickles,pickles,pickle,NOUN,ILL_STATE
+JB2271,pickle,make pickles,make,make,AUX,ILL_STATE
+JB2271,pickle,make pickles,pickles,pickle,VERB,ILL_STATE
 KF0144,pickle,relish,relish,relish,INTJ,ILL_STATE
 JB2271,pickle,store,store,store,VERB,ILL_STATE
 JB1475,Picture Frame,add decor,add,add,VERB,ILL_STATE
 IC8818,Picture Frame,decorate,decorate,decorate,VERB,ILL_STATE
-JB1475,Picture Frame,highlight memory,highlight,highlight,INTJ,ILL_STATE
-JB1475,Picture Frame,highlight memory,memory,memory,NOUN,ILL_STATE
+JB1475,Picture Frame,highlight memory,highlight,highlight,AUX,ILL_STATE
+JB1475,Picture Frame,highlight memory,memory,memory,VERB,ILL_STATE
 IC8818,Picture Frame,hold pictures,hold,hold,VERB,ILL_STATE
 IC8818,Picture Frame,hold pictures,pictures,picture,NOUN,ILL_STATE
-IC8818,Picture Frame,memories,memories,memories,NOUN,ILL_STATE
+IC8818,Picture Frame,memories,memories,memory,VERB,ILL_STATE
 JB1475,Picture Frame,protect phone,phone,phone,NOUN,ILL_STATE
 JB1475,Picture Frame,protect phone,protect,protect,VERB,ILL_STATE
 LH1949,pie,eat it,eat,eat,VERB,ILL_STATE
 LH1949,pie,throw it at someone,someone,someone,PRON,ILL_STATE
 LH1949,pie,throw it at someone,throw,throw,VERB,ILL_STATE
-LH1949,piercing,put an earring in it,earring,earr,VERB,ILL_STATE
-LH1949,piercing,put an earring in it,put,put,VERB,ILL_STATE
+LH1949,piercing,put an earring in it,earring,earring,VERB,ILL_STATE
+LH1949,piercing,put an earring in it,put,wear,VERB,ILL_STATE
 LH1949,piercing,use it as a place to hold your gum,gum,gum,NOUN,ILL_STATE
 LH1949,piercing,use it as a place to hold your gum,hold,hold,VERB,ILL_STATE
 LH1949,piercing,use it as a place to hold your gum,place,place,NOUN,ILL_STATE
-LH1949,piercing,use it as a place to hold your gum,use,use,VERB,ILL_STATE
+LH1949,piercing,use it as a place to hold your gum,use,use,AUX,ILL_STATE
 EL2514,pilaf,burn,burn,burn,VERB,ILL_STATE
-EL2514,pilaf,cook,cook,cake,VERB,ILL_STATE
+EL2514,pilaf,cook,cook,cook,VERB,ILL_STATE
 EL2514,pilaf,eat,eat,eat,VERB,ILL_STATE
-MW6542,pilaf,huh,huh,huh,INTJ,ILL_STATE
 EL2514,pilaf,plate,plate,plate,NOUN,ILL_STATE
 EL2514,pilaf,play,play,play,VERB,ILL_STATE
 BE3674,pillar,contruct,construct,construct,VERB,ILL_STATE
 BE3674,pillar,support,support,support,VERB,ILL_STATE
 CM1875,pillowcase,dry,dry,dry,VERB,ILL_STATE
-CM1875,pillowcase,put on,put,put,VERB,ILL_STATE
+CM1875,pillowcase,wear,wear,wear,VERB,ILL_STATE
 CM1875,pillowcase,sleep on,sleep,sleep,VERB,ILL_STATE
 CM1875,pillowcase,wash,wash,wash,VERB,ILL_STATE
-RH0817,pin,pin,pin,pin,NOUN,ILL_STATE
+RH0817,pin,pin,pin,pin,VERB,ILL_STATE
 HW2231,pine,furniture,furniture,furniture,NOUN,ILL_STATE
-HW2231,pine,gardening,gardening,garde,VERB,ILL_STATE
+HW2231,pine,gardening,gardening,garden,VERB,ILL_STATE
 HW2231,pine,sap,sap,sap,NOUN,ILL_STATE
 HW2231,pine,scent,scent,scent,NOUN,ILL_STATE
 EB2483,pine,tree,tree,tree,NOUN,ILL_STATE
@@ -2076,19 +2063,19 @@ GR8655,platter,stack,stack,stack,VERB,ILL_STATE
 GR8655,platter,stow away,away,away,ADV,ILL_STATE
 GR8655,platter,stow away,stow,stow,VERB,ILL_STATE
 GR8655,platter,wash,wash,wash,VERB,ILL_STATE
-LB7205,playground,hiding,hiding,hi,VERB,ILL_STATE
+LB7205,playground,hiding,hiding,hide,VERB,ILL_STATE
 LB7205,playground,lounging,lounging,lounge,VERB,ILL_STATE
 LB7205,playground,playing,playing,play,VERB,ILL_STATE
 LB7205,playground,sleeping,sleeping,sleep,VERB,ILL_STATE
-JB1475,playsuit,comfort,comfort,comfort,NOUN,ILL_STATE
+JB1475,playsuit,comfort,comfort,comfort,VERB,ILL_STATE
 JB1475,playsuit,confidence,confidence,confidence,NOUN,ILL_STATE
 JB1475,playsuit,fashion,fashion,fashion,NOUN,ILL_STATE
 BE3674,pliers,build,build,build,VERB,ILL_STATE
-BE3674,pliers,construction,construction,construction,NOUN,ILL_STATE
+BE3674,pliers,construction,construction,construct,VERB,ILL_STATE
 BE3674,pliers,trades,trades,trade,NOUN,ILL_STATE
 MH6227,plum,can be used to eat,can,can,AUX,ILL_STATE
 MH6227,plum,can be used to eat,eat,eat,VERB,ILL_STATE
-MH6227,plum,can be used to eat,used,use,VERB,ILL_STATE
+MH6227,plum,can be used to eat,used,use,AUX,ILL_STATE
 JanedisColon331.643.2681,plum,eating,eating,eat,VERB,ILL_STATE
 JanedisColon331.643.2681,plum,face mask,face,face,NOUN,ILL_STATE
 JanedisColon331.643.2681,plum,face mask,mask,mask,NOUN,ILL_STATE
@@ -2100,15 +2087,15 @@ JanedisColon331.643.2681,plum,plant/pick it,plant,plant,NOUN,ILL_STATE
 MH6227,plum,purple color,color,color,NOUN,ILL_STATE
 MH6227,plum,purple color,purple,purple,ADJ,ILL_STATE
 JanedisColon331.643.2681,plum,smash it,smash,smash,VERB,ILL_STATE
-JanedisColon331.643.2681,plum,step on it,step,step,NOUN,ILL_STATE
+JanedisColon331.643.2681,plum,step on it,step,step on,VERB,ILL_STATE
 JB2271,plywood,break,break,break,VERB,ILL_STATE
 JB2271,plywood,build,build,build,VERB,ILL_STATE
 KF0144,plywood,building,building,building,NOUN,ILL_STATE
 JB2271,plywood,burn,burn,burn,VERB,ILL_STATE
 JB2271,plywood,buy,buy,buy,VERB,ILL_STATE
-KF0144,plywood,crafting,crafting,craft,NOUN,ILL_STATE
+KF0144,plywood,crafting,crafting,craft,VERB,ILL_STATE
 JB2271,plywood,cut,cut,cut,VERB,ILL_STATE
-JB2271,plywood,make,make,make,VERB,ILL_STATE
+JB2271,plywood,make,make,make,AUX,ILL_STATE
 JB2271,plywood,measure,measure,measure,VERB,ILL_STATE
 JB2271,plywood,sell,sell,sell,VERB,ILL_STATE
 JB1475,pomegranate,eat,eat,eat,VERB,ILL_STATE
@@ -2116,14 +2103,11 @@ JB1475,pomegranate,eat,eat,eat,VERB,ILL_STATE
 IC8818,pomegranate,eat,eat,eat,VERB,ILL_STATE
 IC8818,pomegranate,eat,eat,eat,VERB,ILL_STATE
 IC8818,pomegranate,fruit,fruit,fruit,NOUN,ILL_STATE
-IC8818,pomegranate,juice,juice,juice,NOUN,ILL_STATE
-IC8818,pomegranate,juice,juice,juice,NOUN,ILL_STATE
-JB1475,pomegranate,juice,juice,juice,NOUN,ILL_STATE
-JB1475,pomegranate,juice,juice,juice,NOUN,ILL_STATE
+IC8818,pomegranate,juice,juice,juice,VERB,ILL_STATE
 IC8818,pomegranate,seeds,seeds,seed,NOUN,ILL_STATE
 JB1475,pomegranate,sell,sell,sell,VERB,ILL_STATE
 JB1475,pomegranate,vitamins,vitamins,vitamin,NOUN,ILL_STATE
-KL7604,pompom,cheerleaders,cheerleaders,cheerleader,NOUN,ILL_STATE
+KL7604,pompom,cheerleaders,cheerleaders,cheer,VERB,ILL_STATE
 KL7604,pompom,student section,section,section,NOUN,ILL_STATE
 KL7604,pompom,student section,student,student,NOUN,ILL_STATE
 JM6264,poncho,cover,cover,cover,NOUN,ILL_STATE
@@ -2132,9 +2116,9 @@ KM0058,pool,exercise,exercise,exercise,VERB,ILL_STATE
 MM9115,pool,floating,floating,float,VERB,ILL_STATE
 KM0058,pool,jump,jump,jump,VERB,ILL_STATE
 KM0058,pool,play,play,play,VERB,ILL_STATE
-KM0058,pool,splash,splash,splash,NOUN,ILL_STATE
+KM0058,pool,splash,splash,splash,VERB,ILL_STATE
 KM0058,pool,swim,swim,swim,VERB,ILL_STATE
-MM9115,pool,swimming,swimming,swimm,VERB,ILL_STATE
+MM9115,pool,swimming,swimming,swim,VERB,ILL_STATE
 BE3674,porch,build,build,build,VERB,ILL_STATE
 BE3674,porch,relax,relax,relax,VERB,ILL_STATE
 BE3674,porch,sit,sit,sit,VERB,ILL_STATE
@@ -2144,16 +2128,16 @@ LH1949,porridge,to eat,eat,eat,VERB,ILL_STATE
 MT2739,portfolio,appear professional,appear,appear,VERB,ILL_STATE
 MT2739,portfolio,appear professional,professional,professional,ADJ,ILL_STATE
 MT2739,portfolio,contain,contain,contain,VERB,ILL_STATE
-MT2739,portfolio,minimize,minimize,minimize,NOUN,ILL_STATE
+MT2739,portfolio,minimize,minimize,minimize,VERB,ILL_STATE
 MT2739,portfolio,organize,organize,organize,VERB,ILL_STATE
 MT2739,portfolio,store,store,store,VERB,ILL_STATE
-MT2739,portfolio,uphold cleanliness ,cleanliness,cleanliness,NOUN,ILL_STATE
-MT2739,portfolio,uphold cleanliness ,uphold,uphold,INTJ,ILL_STATE
+MT2739,portfolio,uphold cleanliness ,cleanliness,clean,VERB,ILL_STATE
+MT2739,portfolio,uphold cleanliness ,uphold,uphold,VERB,ILL_STATE
 JB1475,postman,communicate,communicate,communicate,VERB,ILL_STATE
 IC8818,postman,deliver,deliver,deliver,VERB,ILL_STATE
 JB1475,postman,inform,inform,inform,NOUN,ILL_STATE
 IC8818,postman,letters,letters,letter,NOUN,ILL_STATE
-IC8818,postman,mail,mail,mail,NOUN,ILL_STATE
+IC8818,postman,mail,mail,mail,VERB,ILL_STATE
 JB1475,postman,organize systems,organize,organize,VERB,ILL_STATE
 JB1475,postman,organize systems,systems,systems,NOUN,ILL_STATE
 IC8818,postman,packages,packages,packages,NOUN,ILL_STATE
@@ -2166,7 +2150,7 @@ IC8818,postman,walking,walking,walk,VERB,ILL_STATE
 ac9377,pot,flowers,flowers,flower,NOUN,ILL_STATE
 NT0985,potato,eat,eat,eat,VERB,ILL_STATE
 JB1475,powderpuff,applying/removing make up/skin care,applying,apply,VERB,ILL_STATE
-JB1475,powderpuff,applying/removing make up/skin care,care,care,NOUN,ILL_STATE
+JB1475,powderpuff,applying/removing make up/skin care,care,care,VERB,ILL_STATE
 JB1475,powderpuff,applying/removing make up/skin care,make,make,VERB,ILL_STATE
 JB1475,powderpuff,applying/removing make up/skin care,removing,remove,VERB,ILL_STATE
 JB1475,powderpuff,applying/removing make up/skin care,skin,skin,NOUN,ILL_STATE
@@ -2177,7 +2161,7 @@ KM0058,preschooler,learn,learn,learn,VERB,ILL_STATE
 KM0058,preschooler,play,play,play,VERB,ILL_STATE
 MM9115,preschooler,talking,talking,talk,VERB,ILL_STATE
 KM0058,preschooler,teach,teach,teach,VERB,ILL_STATE
-LM8773,primrose,color,color,color,NOUN,ILL_STATE
+LM8773,primrose,color,color,color,VERB,ILL_STATE
 LM8773,primrose,floral,floral,floral,ADJ,ILL_STATE
 LM8773,primrose,scent,scent,scent,NOUN,ILL_STATE
 KF0144,propeller,boat,boat,boat,NOUN,ILL_STATE
@@ -2188,25 +2172,25 @@ JB2271,propeller,rotate,rotate,rotate,VERB,ILL_STATE
 KF0144,propeller,speed,speed,speed,VERB,ILL_STATE
 JB2271,propeller,spin,spin,spin,VERB,ILL_STATE
 IC8818,prosecutor,court,court,court,NOUN,ILL_STATE
-JB1475,prosecutor,defend,defend,defend,VERB,ILL_STATE
+JB1475,prosecutor,defend,defend,defense,VERB,ILL_STATE
 IC8818,prosecutor,lawyer,lawyer,lawyer,NOUN,ILL_STATE
 JB1475,prosecutor,practice,practice,practice,NOUN,ILL_STATE
 JB1475,prosecutor,save,save,save,VERB,ILL_STATE
 JB1475,prosecutor,trust,trust,trust,VERB,ILL_STATE
 NT0985,pudding,eat,eat,eat,VERB,ILL_STATE
-NT0985,pudding,mix,mix,mix,NOUN,ILL_STATE
+NT0985,pudding,mix,mix,mix,VERB,ILL_STATE
 KL7604,pump,coolant,coolant,coolant,NOUN,ILL_STATE
-KL7604,pump,fuel,fuel,fuel,NOUN,ILL_STATE
+KL7604,pump,fuel,fuel,fuel,VERB,ILL_STATE
 KL7604,pump,gas,gas,gas,NOUN,ILL_STATE
 KL7604,pump,milk,milk,milk,NOUN,ILL_STATE
 KL7604,pump,water,water,water,NOUN,ILL_STATE
 VL8728,purse,accessory,accessory,accessory,INTJ,ILL_STATE
-VL8728,purse,hiding ,hiding,hi,VERB,ILL_STATE
+VL8728,purse,hiding ,hiding,hide,VERB,ILL_STATE
 GR8655,purse,hold,hold,hold,VERB,ILL_STATE
 GR8655,purse,hold,hold,hold,VERB,ILL_STATE
 GR8655,purse,hold,hold,hold,VERB,ILL_STATE
 GR8655,purse,hold,hold,hold,VERB,ILL_STATE
-VL8728,purse,holding,holding,hold,NOUN,ILL_STATE
+VL8728,purse,holding,holding,hold,VERB,ILL_STATE
 GR8655,purse,look at,look,look,VERB,ILL_STATE
 GR8655,purse,place items in,items,item,NOUN,ILL_STATE
 GR8655,purse,place items in,place,place,VERB,ILL_STATE
@@ -2214,8 +2198,7 @@ GR8655,purse,put down,put,put,VERB,ILL_STATE
 GR8655,purse,spend money on,money,money,NOUN,ILL_STATE
 GR8655,purse,spend money on,spend,spend,VERB,ILL_STATE
 GR8655,purse,step on,step,step,VERB,ILL_STATE
-GR8655,purse,take items from,items,item,NOUN,ILL_STATE
-GR8655,purse,take items from,take,take,VERB,ILL_STATE
+GR8655,purse,remove,remove,remove,VERB,ILL_STATE
 GR8655,purse,throw,throw,throw,VERB,ILL_STATE
 CM1875,pushcart,carry things,carry,carry,VERB,ILL_STATE
 CM1875,pushcart,carry things,things,thing,NOUN,ILL_STATE
@@ -2223,16 +2206,16 @@ CM1875,pushcart,haul,haul,haul,VERB,ILL_STATE
 CM1875,pushcart,push,push,push,VERB,ILL_STATE
 JM6264,quadriceps,lifting,lifting,lift,VERB,ILL_STATE
 JM6264,quadriceps,running,running,run,VERB,ILL_STATE
-JM6264,quadriceps,squatting,squatting,squatt,VERB,ILL_STATE
+JM6264,quadriceps,squatting,squatting,squat,VERB,ILL_STATE
 KL7604,quarter,gumball machines,gumball,gumball,NOUN,ILL_STATE
 KL7604,quarter,gumball machines,machines,machine,NOUN,ILL_STATE
 KL7604,quarter,laundry,laundry,laundry,NOUN,ILL_STATE
 KL7604,quarter,zoo donations,zoo,zoo,NOUN,ILL_STATE
-BE3674,racehorse,complete,complete,complete,ADJ,ILL_STATE
+BE3674,racehorse,complete,complete,compete,VERB,ILL_STATE
 BE3674,racehorse,race,race,race,VERB,ILL_STATE
 BE3674,racehorse,run,run,run,VERB,ILL_STATE
 ac9377,radiologist,take x rays,take,take,VERB,ILL_STATE
-HW2231,radish,cook,cook,cake,VERB,ILL_STATE
+HW2231,radish,cook,cook,cook,VERB,ILL_STATE
 HW2231,radish,eat,eat,eat,VERB,ILL_STATE
 EB2483,radish,food,food,food,NOUN,ILL_STATE
 EB2483,radish,medicine,medicine,medicine,NOUN,ILL_STATE
@@ -2241,14 +2224,14 @@ HW2231,radish,taste,taste,taste,VERB,ILL_STATE
 AF6541,rag,clean,clean,clean,VERB,ILL_STATE
 AF6541,rag,dry up,dry,dry,ADJ,ILL_STATE
 AF6541,rag,squeeze,squeeze,squeeze,VERB,ILL_STATE
-AF6541,rag,toss,toss,toss,NOUN,ILL_STATE
+AF6541,rag,toss,toss,toss,VERB,ILL_STATE
 SW4407,rain,collect,collect,collect,VERB,ILL_STATE
 SW4407,rain,drink,drink,drink,VERB,ILL_STATE
 SW4407,rain,play in,play,play,VERB,ILL_STATE
 SW4407,rain,shower,shower,shower,NOUN,ILL_STATE
-MT2739,ramp,block,block,block,NOUN,ILL_STATE
-MT2739,ramp,go down,go,go,VERB,ILL_STATE
-MT2739,ramp,go up,go,go,VERB,ILL_STATE
+MT2739,ramp,block,block,block,VERB,ILL_STATE
+MT2739,ramp,go down,go,go down,VERB,ILL_STATE
+MT2739,ramp,go up,go,go up,VERB,ILL_STATE
 MT2739,ramp,help the disabled,disabled,disable,VERB,ILL_STATE
 MT2739,ramp,help the disabled,help,help,VERB,ILL_STATE
 MT2739,ramp,reach new areas,areas,area,NOUN,ILL_STATE
@@ -2274,7 +2257,7 @@ KL7604,remote,dvd player,player,player,NOUN,ILL_STATE
 KL7604,remote,garage door,door,door,NOUN,ILL_STATE
 KL7604,remote,garage door,garage,garage,NOUN,ILL_STATE
 KL7604,remote,keyless car entry,car,car,NOUN,ILL_STATE
-KL7604,remote,keyless car entry,entry,entry,NOUN,ILL_STATE
+KL7604,remote,keyless car entry,entry,enter,VERB,ILL_STATE
 KL7604,remote,keyless car entry,keyless,keyless,ADJ,ILL_STATE
 KL7604,remote,television,television,television,NOUN,ILL_STATE
 BE3674,residence,build,build,build,VERB,ILL_STATE
@@ -2282,7 +2265,7 @@ BE3674,residence,buy,buy,buy,VERB,ILL_STATE
 BE3674,residence,live,live,live,VERB,ILL_STATE
 BE3674,residence,sell,sell,sell,VERB,ILL_STATE
 LB7205,rhinestone,decorating,decorating,decorate,VERB,ILL_STATE
-LB7205,rhinestone,holding,holding,hold,NOUN,ILL_STATE
+LB7205,rhinestone,holding,holding,hold,VERB,ILL_STATE
 LB7205,rhinestone,wearing,wearing,wear,VERB,ILL_STATE
 JB2271,rhubarb,bake into pie,bake,bake,VERB,ILL_STATE
 JB2271,rhubarb,bake into pie,pie,pie,NOUN,ILL_STATE
@@ -2297,9 +2280,8 @@ JB2271,rind,eat,eat,eat,VERB,ILL_STATE
 JB2271,rind,garnish,garnish,garnish,VERB,ILL_STATE
 KF0144,rind,melon,melon,melon,NOUN,ILL_STATE
 KF0144,rind,orange,orange,orange,ADJ,ILL_STATE
-JB2271,rind,throw it away,away,away,ADV,ILL_STATE
-JB2271,rind,throw it away,throw,throw,VERB,ILL_STATE
-JB2271,rind,zest,zest,zest,ADJ,ILL_STATE
+JB2271,rind,throw it away,throw,throw away,VERB,ILL_STATE
+JB2271,rind,zest,zest,zest,VERB,ILL_STATE
 KF0144,roach,bug,bug,bug,NOUN,ILL_STATE
 KF0144,roach,dirty,dirty,dirty,ADJ,ILL_STATE
 JB2271,roach,exterminate ,exterminate,exterminate,VERB,ILL_STATE
@@ -2317,14 +2299,14 @@ JanedisColon331.643.2681,roll,relieve muscles,muscles,muscle,NOUN,ILL_STATE
 JanedisColon331.643.2681,roll,relieve muscles,relieve,relieve,VERB,ILL_STATE
 JanedisColon331.643.2681,roll,relieve soreness,relieve,relieve,VERB,ILL_STATE
 JanedisColon331.643.2681,roll,relieve soreness,soreness,soreness,NOUN,ILL_STATE
-JanedisColon331.643.2681,roll,rolling,rolling,roll,NOUN,ILL_STATE
+JanedisColon331.643.2681,roll,rolling,rolling,roll,VERB,ILL_STATE
 MH6227,roll,statement,statement,statement,NOUN,ILL_STATE
 JanedisColon331.643.2681,roll,yoga,yoga,yoga,NOUN,ILL_STATE
-AR0075,roommate,companionship,companionship,companionship,NOUN,ILL_STATE
-AR0075,roommate,safety ,safety,safety,NOUN,ILL_STATE
+AR0075,roommate,companionship,companionship,companionship,VERB,ILL_STATE
+AR0075,roommate,safety ,safety,safety,VERB,ILL_STATE
 AR0075,roommate,split rent,rent,rent,VERB,ILL_STATE
 AR0075,roommate,split rent,split,split,VERB,ILL_STATE
-NT0985,saddle,ride,ride,ride,NOUN,ILL_STATE
+NT0985,saddle,ride,ride,ride,VERB,ILL_STATE
 LH1949,salad,to eat,eat,eat,VERB,ILL_STATE
 LH1949,salad,to look at it ,look,look,VERB,ILL_STATE
 LH1949,salad,to make for your rabbit,make,make,VERB,ILL_STATE
@@ -2346,27 +2328,27 @@ EB2483,salesman,selling things,things,thing,NOUN,ILL_STATE
 KL7604,saleswoman,independent,independent,independent,ADJ,ILL_STATE
 KL7604,saleswoman,perfume,perfume,perfume,NOUN,ILL_STATE
 KL7604,saleswoman,professional,professional,professional,ADJ,ILL_STATE
-AR0075,salt,keep snow from sticking,keep,keep,VERB,ILL_STATE
+AR0075,salt,keep snow from sticking,keep,keep,AUX,ILL_STATE
 AR0075,salt,keep snow from sticking,snow,snow,NOUN,ILL_STATE
-AR0075,salt,keep snow from sticking,sticking,sticke,VERB,ILL_STATE
+AR0075,salt,keep snow from sticking,sticking,stick,VERB,ILL_STATE
 AR0075,salt,make ice cream,make,make,VERB,ILL_STATE
 AR0075,salt,provide electrolytes,electrolytes,electrolyte,NOUN,ILL_STATE
 AR0075,salt,provide electrolytes,provide,provide,VERB,ILL_STATE
 AR0075,salt,season food,food,food,NOUN,ILL_STATE
 AR0075,salt,season food,season,season,VERB,ILL_STATE
-SW4407,saltshaker,refill,refill,refill,VERB,ILL_STATE
+SW4407,saltshaker,refill,refill,fill,VERB,ILL_STATE
 SW4407,saltshaker,season food,food,food,NOUN,ILL_STATE
-SW4407,saltshaker,season food,season,season,NOUN,ILL_STATE
+SW4407,saltshaker,season food,season,season,VERB,ILL_STATE
 SW4407,saltshaker,smash,smash,smash,VERB,ILL_STATE
 SW4407,saltshaker,throw,throw,throw,VERB,ILL_STATE
 JB1475,sandbank,accessablilty,accessibility,accessibility,NOUN,ILL_STATE
 IC8818,sandbank,beaches,beaches,beach,NOUN,ILL_STATE
-JB1475,sandbank,enjoyment,enjoyment,enjoyment,NOUN,ILL_STATE
+JB1475,sandbank,enjoyment,enjoyment,enjoy,VERB,ILL_STATE
 IC8818,sandbank,lake,lake,lake,NOUN,ILL_STATE
 JB1475,sandbank,nature,nature,nature,NOUN,ILL_STATE
 IC8818,sandbank,sand,sand,sand,NOUN,ILL_STATE
 IC8818,sandbank,water,water,water,NOUN,ILL_STATE
-RH0817,sandbox,build sandcastles,build,build,NOUN,ILL_STATE
+RH0817,sandbox,build sandcastles,build,build,VERB,ILL_STATE
 RH0817,sandbox,build sandcastles,sandcastles,sandcastle,NOUN,ILL_STATE
 RH0817,sandbox,jump in,jump,jump,VERB,ILL_STATE
 RH0817,sandbox,play in,play,play,VERB,ILL_STATE
@@ -2383,7 +2365,7 @@ EL2514,scale,step,step,step,VERB,ILL_STATE
 EL2514,scale,throw,throw,throw,VERB,ILL_STATE
 MW6542,scale,weight,weight,weight,NOUN,ILL_STATE
 SV2237,scar,scar away cream,away,away,ADV,ILL_STATE
-SE5217,schoolgirl,to communicate,communicate,communicate,ADJ,ILL_STATE
+SE5217,schoolgirl,to communicate,communicate,communicate,VERB,ILL_STATE
 SE5217,schoolgirl,to help,help,help,VERB,ILL_STATE
 SE5217,schoolgirl,to learn,learn,learn,VERB,ILL_STATE
 CM1875,scissor,cut,cut,cut,VERB,ILL_STATE
@@ -2397,7 +2379,7 @@ AF6541,scorecard,keep check,keep,keep,VERB,ILL_STATE
 AF6541,scorecard,tally,tally,tally,VERB,ILL_STATE
 SE5217,scorpion,to play with,play,play,VERB,ILL_STATE
 SE5217,scorpion,to research,research,research,VERB,ILL_STATE
-KL7604,scratches,bleeding,bleeding,bleed,NOUN,ILL_STATE
+KL7604,scratches,bleeding,bleeding,bleed,VERB,ILL_STATE
 KL7604,scratches,cats,cats,cat,NOUN,ILL_STATE
 KL7604,scratches,hands,hands,hand,NOUN,ILL_STATE
 KL7604,scratches,nails,nails,nails,NOUN,ILL_STATE
@@ -2411,27 +2393,27 @@ MW6542,screw,tools ,tools,tool,NOUN,ILL_STATE
 SW4407,screwdriver,repair,repair,repair,VERB,ILL_STATE
 SW4407,screwdriver,screw screws,screw,screw,VERB,ILL_STATE
 SW4407,screwdriver,screw screws,screws,screw,NOUN,ILL_STATE
-SW4407,screwdriver,weapon,weapon,weapon,NOUN,ILL_STATE
+SW4407,screwdriver,weapon,weapon,weapon,VERB,ILL_STATE
 JB2271,scrubber,clean,clean,clean,VERB,ILL_STATE
 KF0144,scrubber,doing the dishes,dishes,dish,NOUN,ILL_STATE
 JB2271,scrubber,scrub,scrub,scrub,VERB,ILL_STATE
 RH0817,seat,sit in,sit,sit,VERB,ILL_STATE
-MH6227,seating,building,building,building,NOUN,ILL_STATE
+MH6227,seating,building,building,build,VERB,ILL_STATE
 MH6227,seating,bus,bus,bus,NOUN,ILL_STATE
 MH6227,seating,car,car,car,NOUN,ILL_STATE
 MH6227,seating,chairs,chairs,chair,NOUN,ILL_STATE
 MH6227,seating,desk,desk,desk,NOUN,ILL_STATE
 MH6227,seating,library,library,library,INTJ,ILL_STATE
-JanedisColon331.643.2681,seating,reading,reading,read,NOUN,ILL_STATE
+JanedisColon331.643.2681,seating,reading,reading,read,VERB,ILL_STATE
 MH6227,seating,restaurant,restaurant,restaurant,NOUN,ILL_STATE
 MH6227,seating,school,school,school,NOUN,ILL_STATE
 JanedisColon331.643.2681,seating,studying,studying,study,VERB,ILL_STATE
 JanedisColon331.643.2681,seating,waiting,waiting,wait,VERB,ILL_STATE
-ac9377,secretary,to take notes,notes,note,NOUN,ILL_STATE
-ac9377,secretary,to take notes,take,take,VERB,ILL_STATE
-JB1475,sheepskin,warmth,warmth,warmth,NOUN,ILL_STATE
+ac9377,secretary,to take notes,notes,note,VERB,ILL_STATE
+ac9377,secretary,to take notes,take,take,AUX,ILL_STATE
+JB1475,sheepskin,warmth,warmth,warm,VERB,ILL_STATE
 CW5888,shelf,decorate,decorate,decorate,VERB,ILL_STATE
-CW5888,shelf,fill,fill,fill,NOUN,ILL_STATE
+CW5888,shelf,fill,fill,fill,VERB,ILL_STATE
 CW5888,shelf,rest,rest,rest,VERB,ILL_STATE
 CW5888,shelf,store,store,store,VERB,ILL_STATE
 GR8655,shell,break,break,break,VERB,ILL_STATE
@@ -2441,29 +2423,29 @@ GR8655,shell,crack open,open,open,ADJ,ILL_STATE
 VL8728,shell,gas,gas,gas,NOUN,ILL_STATE
 GR8655,shell,hold,hold,hold,VERB,ILL_STATE
 GR8655,shell,place into jar,jar,jar,NOUN,ILL_STATE
-GR8655,shell,place into jar,place,place,NOUN,ILL_STATE
+GR8655,shell,place into jar,place,place,VERB,ILL_STATE
 GR8655,shell,scoop items,items,item,NOUN,ILL_STATE
 GR8655,shell,scoop items,scoop,scoop,VERB,ILL_STATE
 VL8728,shell,sea,sea,sea,NOUN,ILL_STATE
-GR8655,shell,step on,step,step,VERB,ILL_STATE
+GR8655,shell,step on,step,step on,VERB,ILL_STATE
 GR8655,shell,throw,throw,throw,VERB,ILL_STATE
-JanedisColon331.643.2681,shelter,building,building,building,NOUN,ILL_STATE
+JanedisColon331.643.2681,shelter,building,building,build,VERB,ILL_STATE
 JanedisColon331.643.2681,shelter,emergency locations,emergency,emergency,NOUN,ILL_STATE
 JanedisColon331.643.2681,shelter,emergency locations,locations,location,NOUN,ILL_STATE
 MH6227,shelter,food,food,food,NOUN,ILL_STATE
-MH6227,shelter,home,home,home,ADV,ILL_STATE
+MH6227,shelter,home,home,home,VERB,ILL_STATE
 JanedisColon331.643.2681,shelter,house,house,house,NOUN,ILL_STATE
 MH6227,shelter,pet,pet,pet,NOUN,ILL_STATE
 MH6227,shelter,roof,roof,roof,NOUN,ILL_STATE
 JanedisColon331.643.2681,shelter,seek protection,seek,seek,VERB,ILL_STATE
 MH6227,shelter,space,space,space,NOUN,ILL_STATE
 JanedisColon331.643.2681,shelter,to work at your job,job,job,NOUN,ILL_STATE
-JanedisColon331.643.2681,shelter,to work at your job,work,work,NOUN,ILL_STATE
-JanedisColon331.643.2681,shelter,warmth,warmth,warmth,NOUN,ILL_STATE
+JanedisColon331.643.2681,shelter,to work at your job,work,work,VERB,ILL_STATE
+JanedisColon331.643.2681,shelter,warmth,warmth,warm,VERB,ILL_STATE
 AF6541,shirttail,pull down,pull,pull,VERB,ILL_STATE
 AF6541,shirttail,scrunch up,scrunch,scrunch,VERB,ILL_STATE
 BE3674,shortbread,bake,bake,bake,VERB,ILL_STATE
-BE3674,shortbread,cook,cook,cake,VERB,ILL_STATE
+BE3674,shortbread,cook,cook,cook,VERB,ILL_STATE
 BE3674,shortbread,eat,eat,eat,VERB,ILL_STATE
 SV2237,shortcake,eat,eat,eat,VERB,ILL_STATE
 CW5888,shower,clean,clean,clean,VERB,ILL_STATE
@@ -2471,8 +2453,8 @@ CW5888,shower,wash,wash,wash,VERB,ILL_STATE
 CW5888,shower,water,water,water,NOUN,ILL_STATE
 LB7205,shrub,growing,growing,grow,VERB,ILL_STATE
 LB7205,shrub,putting it in hair,hair,hair,NOUN,ILL_STATE
-LB7205,shrub,putting it in hair,putting,put,VERB,ILL_STATE
-LB7205,shrub,putting it on clothes,putting,put,VERB,ILL_STATE
+LB7205,shrub,putting it in hair,putting,wear,VERB,ILL_STATE
+LB7205,shrub,putting it on clothes,putting,wear,VERB,ILL_STATE
 LB7205,shrub,smelling,smelling,smell,VERB,ILL_STATE
 LB7205,shuttle,eating,eating,eat,VERB,ILL_STATE
 LB7205,shuttle,flying,flying,flie,VERB,ILL_STATE
@@ -2480,7 +2462,7 @@ LB7205,shuttle,sleeping,sleeping,sleep,VERB,ILL_STATE
 LB7205,shuttle,taking care of yourself,taking,take,VERB,ILL_STATE
 LB7205,shuttle,transportation,transportation,transportation,NOUN,ILL_STATE
 LH1949,signpost,to look at,look,look,VERB,ILL_STATE
-LH1949,signpost,to use as decoration ,use,use,VERB,ILL_STATE
+LH1949,signpost,to use as decoration ,decorate,decorate,VERB,ILL_STATE
 HW2231,silk,clothing,clothing,clothing,NOUN,ILL_STATE
 HW2231,silk,comfort,comfort,comfort,VERB,ILL_STATE
 EB2483,silk,dresses,dresses,dress,NOUN,ILL_STATE
@@ -2495,10 +2477,6 @@ HW2231,silk,wear,wear,wear,VERB,ILL_STATE
 7551,sink,wash hands,hands,hand,NOUN,ILL_STATE
 7551,sink,wash hands,wash,wash,VERB,ILL_STATE
 JB2271,skate,do tricks,tricks,trick,NOUN,ILL_STATE
-JB2271,skate,skateboard,skateboard,skateboard,X,ILL_STATE
-JB2271,skate,skateboard,skateboard,skateboard,X,ILL_STATE
-KF0144,skate,skateboard,skateboard,skateboard,X,ILL_STATE
-KF0144,skate,skateboard,skateboard,skateboard,X,ILL_STATE
 KF0144,skate,sports,sports,sport,NOUN,ILL_STATE
 JM6264,skateboarder,skate,skate,skate,VERB,ILL_STATE
 ac9377,sled,drag things,drag,drag,VERB,ILL_STATE
@@ -2508,14 +2486,14 @@ SE5217,slime,to play with,play,play,VERB,ILL_STATE
 7551,sling,hold arm ,arm,arm,X,ILL_STATE
 7551,sling,hold arm ,hold,hold,VERB,ILL_STATE
 SV2237,slipcover,furniture,furniture,furniture,NOUN,ILL_STATE
-AR0075,snail,cleaning fish tanks,cleaning,cleaning,NOUN,ILL_STATE
+AR0075,snail,cleaning fish tanks,cleaning,clean,VERB,ILL_STATE
 AR0075,snail,cleaning fish tanks,fish,fish,NOUN,ILL_STATE
 AR0075,snail,cleaning fish tanks,tanks,tank,NOUN,ILL_STATE
 AR0075,snail,eating,eating,eat,VERB,ILL_STATE
-AR0075,snail,pet,pet,pet,NOUN,ILL_STATE
-CM1875,sneaker,put on,put,put,VERB,ILL_STATE
+AR0075,snail,pet,pet,pet,VERB,ILL_STATE
+CM1875,sneaker,put on,put,wear,VERB,ILL_STATE
 CM1875,sneaker,run,run,run,VERB,ILL_STATE
-CM1875,sneaker,take off,take,take,VERB,ILL_STATE
+CM1875,sneaker,take off,take,remove,VERB,ILL_STATE
 CM1875,sneaker,tie,tie,tie,VERB,ILL_STATE
 CM1875,sneaker,wear,wear,wear,VERB,ILL_STATE
 KF0144,snowdrift,blizzard,blizzard,blizzard,X,ILL_STATE
@@ -2534,13 +2512,13 @@ EL2514,snowfall,play,play,play,VERB,ILL_STATE
 MW6542,snowfall,snowman ,snowman,snowman,NOUN,ILL_STATE
 EL2514,snowfall,squeeze,squeeze,squeeze,VERB,ILL_STATE
 MW6542,snowfall,winter,winter,winter,NOUN,ILL_STATE
-KM0058,sock,warmth,warmth,warmth,NOUN,ILL_STATE
+KM0058,sock,warmth,warmth,warm,VERB,ILL_STATE
 KM0058,sock,wear,wear,wear,VERB,ILL_STATE
 MM9115,sock,wearing,wearing,wear,VERB,ILL_STATE
 CM1875,soles,run on,run,run,VERB,ILL_STATE
 CM1875,soles,walk on,walk,walk,VERB,ILL_STATE
 RH0817,solicitor,talk to,talk,talk,VERB,ILL_STATE
-SE5217,sourdough,to cook with,cook,cake,VERB,ILL_STATE
+SE5217,sourdough,to cook with,cook,cook,VERB,ILL_STATE
 KL7604,southerner,country music,country,country,NOUN,ILL_STATE
 KL7604,southerner,country music,music,music,NOUN,ILL_STATE
 KL7604,southerner,florida,florida,florida,NOUN,ILL_STATE
@@ -2549,24 +2527,24 @@ ac9377,spear,to stab,stab,stab,VERB,ILL_STATE
 SE5217,sprinkler,to clean,clean,clean,VERB,ILL_STATE
 SE5217,sprinkler,to wet,wet,wet,ADJ,ILL_STATE
 JB1475,stableman,care for animals,animals,animal,NOUN,ILL_STATE
-JB1475,stableman,care for animals,care,care,NOUN,ILL_STATE
-JB1475,stableman,socialize,socialize,socialize,NOUN,ILL_STATE
+JB1475,stableman,care for animals,care,care,VERB,ILL_STATE
+JB1475,stableman,socialize,socialize,socialize,VERB,ILL_STATE
 JB1475,stableman,teach,teach,teach,VERB,ILL_STATE
-CM1875,staff,fire,fire,fire,NOUN,ILL_STATE
+CM1875,staff,fire,fire,fire,VERB,ILL_STATE
 CM1875,staff,hire,hire,hire,VERB,ILL_STATE
 CM1875,staff,hold things up,hold,hold,VERB,ILL_STATE
 CM1875,staff,hold things up,things,thing,NOUN,ILL_STATE
 MT2739,stallion,breed,breed,breed,VERB,ILL_STATE
-MT2739,stallion,race,race,race,NOUN,ILL_STATE
-MT2739,stallion,ride,ride,ride,NOUN,ILL_STATE
+MT2739,stallion,race,race,race,VERB,ILL_STATE
+MT2739,stallion,ride,ride,ride,VERB,ILL_STATE
 MT2739,stallion,sell,sell,sell,VERB,ILL_STATE
 SE5217,statue,to show something,show,show,VERB,ILL_STATE
 SE5217,statue,to show something,something,something,PRON,ILL_STATE
 LB7205,steamboat,riding,riding,ride,VERB,ILL_STATE
 LB7205,steamboat,sleeping,sleeping,sleep,VERB,ILL_STATE
-LB7205,steamboat,touring,touring,touring,VERB,ILL_STATE
+LB7205,steamboat,touring,touring,tour,VERB,ILL_STATE
 LB7205,steamboat,using it as a home,home,home,ADV,ILL_STATE
-LB7205,steamboat,using it as a home,using,use,VERB,ILL_STATE
+LB7205,steamboat,using it as a home,using,use,AUX,ILL_STATE
 KM0058,step,climb,climb,climb,VERB,ILL_STATE
 KM0058,step,walk,walk,walk,VERB,ILL_STATE
 MM9115,step,walking,walking,walk,VERB,ILL_STATE
@@ -2583,14 +2561,14 @@ KF0144,stewardess,worker,worker,worker,NOUN,ILL_STATE
 JanedisColon331.643.2681,stick,bow and arrow,arrow,arrow,NOUN,ILL_STATE
 JanedisColon331.643.2681,stick,bow and arrow,bow,bow,NOUN,ILL_STATE
 JanedisColon331.643.2681,stick,crafts,crafts,craft,NOUN,ILL_STATE
-JanedisColon331.643.2681,stick,draw on sand,draw,dree,VERB,ILL_STATE
+JanedisColon331.643.2681,stick,draw on sand,draw,draw,VERB,ILL_STATE
 JanedisColon331.643.2681,stick,draw on sand,sand,sand,NOUN,ILL_STATE
-MH6227,stick,fire,fire,fire,NOUN,ILL_STATE
-JanedisColon331.643.2681,stick,fires,fires,fire,NOUN,ILL_STATE
-MH6227,stick,holding things together,holding,hold,NOUN,ILL_STATE
+MH6227,stick,fire,fire,fire,VERB,ILL_STATE
+JanedisColon331.643.2681,stick,fires,fires,fire,VERB,ILL_STATE
+MH6227,stick,holding things together,holding,hold,VERB,ILL_STATE
 MH6227,stick,holding things together,things,thing,NOUN,ILL_STATE
 MH6227,stick,holding things together,together,together,ADV,ILL_STATE
-JanedisColon331.643.2681,stick,make a smowman,make,make,VERB,ILL_STATE
+JanedisColon331.643.2681,stick,make a smowman,make,make,AUX,ILL_STATE
 JanedisColon331.643.2681,stick,make a smowman,snowman,snowman,NOUN,ILL_STATE
 MH6227,stick,playing with a dog,dog,dog,NOUN,ILL_STATE
 MH6227,stick,playing with a dog,playing,play,VERB,ILL_STATE
@@ -2600,13 +2578,13 @@ JanedisColon331.643.2681,stick,teepee,tepee,tepee,NOUN,ILL_STATE
 JanedisColon331.643.2681,stick,tree house,house,house,NOUN,ILL_STATE
 JanedisColon331.643.2681,stick,tree house,tree,tree,NOUN,ILL_STATE
 LH1949,stopwatch,use it as a paper weight,paper,paper,NOUN,ILL_STATE
-LH1949,stopwatch,use it as a paper weight,use,use,VERB,ILL_STATE
-LH1949,stopwatch,use it as a paper weight,weight,weight,NOUN,ILL_STATE
+LH1949,stopwatch,use it as a paper weight,use,use,AUX,ILL_STATE
+LH1949,stopwatch,use it as a paper weight,weight,weight,VERB,ILL_STATE
 LH1949,stopwatch,use it to time someone,someone,someone,PRON,ILL_STATE
-LH1949,stopwatch,use it to time someone,time,time,NOUN,ILL_STATE
-LH1949,stopwatch,use it to time someone,use,use,VERB,ILL_STATE
+LH1949,stopwatch,use it to time someone,time,time,VERB,ILL_STATE
+LH1949,stopwatch,use it to time someone,use,use,AUX,ILL_STATE
 LH1949,stopwatch,use it when you are bored ,bored,bore,VERB,ILL_STATE
-LH1949,stopwatch,use it when you are bored ,use,use,VERB,ILL_STATE
+LH1949,stopwatch,use it when you are bored ,use,use,AUX,ILL_STATE
 HW2231,store,buying,buying,buy,VERB,ILL_STATE
 HW2231,store,groceries,groceries,grocery,NOUN,ILL_STATE
 HW2231,store,looking,looking,look,VERB,ILL_STATE
@@ -2615,9 +2593,9 @@ HW2231,storeroom,organize,organize,organize,VERB,ILL_STATE
 HW2231,storeroom,secure,secure,secure,VERB,ILL_STATE
 KM0058,stove,bake,bake,bake,VERB,ILL_STATE
 KM0058,stove,broil,broil,broil,VERB,ILL_STATE
-KM0058,stove,cook,cook,cake,VERB,ILL_STATE
+KM0058,stove,cook,cook,cook,VERB,ILL_STATE
 MM9115,stove,cooking,cooking,cook,VERB,ILL_STATE
-KM0058,stove,heat,heat,heat,NOUN,ILL_STATE
+KM0058,stove,heat,heat,heat,VERB,ILL_STATE
 GR8655,strainer,put fruit or vegetables in to let out water,fruit,fruit,NOUN,ILL_STATE
 GR8655,strainer,put fruit or vegetables in to let out water,let,let,VERB,ILL_STATE
 GR8655,strainer,put fruit or vegetables in to let out water,put,put,VERB,ILL_STATE
@@ -2640,14 +2618,14 @@ MH6227,strongbox,boxing,boxing,box,NOUN,ILL_STATE
 JanedisColon331.643.2681,strongbox,documents,documents,document,NOUN,ILL_STATE
 JanedisColon331.643.2681,strongbox,jewels,jewels,jewel,NOUN,ILL_STATE
 JanedisColon331.643.2681,strongbox,keeping passwords/items safe,items,item,NOUN,ILL_STATE
-JanedisColon331.643.2681,strongbox,keeping passwords/items safe,keeping,keep,VERB,ILL_STATE
+JanedisColon331.643.2681,strongbox,keeping passwords/items safe,keeping,keep,AUX,ILL_STATE
 JanedisColon331.643.2681,strongbox,keeping passwords/items safe,passwords,passwords,NOUN,ILL_STATE
-JanedisColon331.643.2681,strongbox,keeping passwords/items safe,safe,safe,ADJ,ILL_STATE
+JanedisColon331.643.2681,strongbox,keeping passwords/items safe,safe,safety,VERB,ILL_STATE
 JanedisColon331.643.2681,strongbox,money,money,money,NOUN,ILL_STATE
 MH6227,strongbox,muscle,muscle,muscle,NOUN,ILL_STATE
-JanedisColon331.643.2681,strongbox,safeguarding valuables ,safeguarding,safeguard,VERB,ILL_STATE
+JanedisColon331.643.2681,strongbox,safeguarding valuables ,safeguarding,guard,VERB,ILL_STATE
 JanedisColon331.643.2681,strongbox,safeguarding valuables ,valuables,valuable,NOUN,ILL_STATE
-GR8655,suit,ball up,ball,ball,NOUN,ILL_STATE
+GR8655,suit,ball up,ball,ball,VERB,ILL_STATE
 GR8655,suit,borrow,borrow,borrow,VERB,ILL_STATE
 VL8728,suit,cards,cards,card,NOUN,ILL_STATE
 GR8655,suit,dry,dry,dry,VERB,ILL_STATE
@@ -2658,7 +2636,7 @@ GR8655,suit,look at,look,look,VERB,ILL_STATE
 VL8728,suit,men,men,men,NOUN,ILL_STATE
 GR8655,suit,place in bag,bag,bag,NOUN,ILL_STATE
 GR8655,suit,place in bag,place,place,VERB,ILL_STATE
-GR8655,suit,put on,put,put,VERB,ILL_STATE
+GR8655,suit,put on,put,wear,VERB,ILL_STATE
 GR8655,suit,stand on,stand,stand,VERB,ILL_STATE
 GR8655,suit,wash,wash,wash,VERB,ILL_STATE
 GR8655,suit,wear,wear,wear,VERB,ILL_STATE
@@ -2666,9 +2644,8 @@ AR0075,suitcase,hold clothes,hold,hold,VERB,ILL_STATE
 AR0075,suitcase,travel easily,easily,easily,ADV,ILL_STATE
 AR0075,suitcase,travel easily,travel,travel,VERB,ILL_STATE
 LH1949,sushi,eat it,eat,eat,VERB,ILL_STATE
-LH1949,sushi,make a sushi tower with it,make,make,VERB,ILL_STATE
-LH1949,sushi,throw it away,away,away,ADV,ILL_STATE
-LH1949,sushi,throw it away,throw,throw,VERB,ILL_STATE
+LH1949,sushi,make a sushi tower with it,make,make,AUX,ILL_STATE
+LH1949,sushi,throw it away,throw,throw away,VERB,ILL_STATE
 EB2483,suspender,fashion,fashion,fashion,NOUN,ILL_STATE
 EB2483,suspender,suits,suits,suit,NOUN,ILL_STATE
 HW2231,suspender,worn,worn,wear,VERB,ILL_STATE
@@ -2680,7 +2657,7 @@ JM6264,swamp,swim,swim,swim,VERB,ILL_STATE
 CM1875,sweetener,eat,eat,eat,VERB,ILL_STATE
 CM1875,sweetener,ingest,ingest,ingest,VERB,ILL_STATE
 CM1875,sweetener,use in coffee,coffee,coffee,NOUN,ILL_STATE
-CM1875,sweetener,use in coffee,use,use,VERB,ILL_STATE
+CM1875,sweetener,sweeten coffee,sweeten,sweeten,VERB,ILL_STATE
 KL7604,sword,cut,cut,cut,VERB,ILL_STATE
 KL7604,sword,double edge,double,double,ADJ,ILL_STATE
 KL7604,sword,double edge,edge,edge,NOUN,ILL_STATE
@@ -2688,12 +2665,12 @@ KL7604,sword,katana,katana,katana,NOUN,ILL_STATE
 KL7604,sword,kill,kill,kill,VERB,ILL_STATE
 KL7604,sword,knights,knights,knights,NOUN,ILL_STATE
 KL7604,sword,ninjas,ninjas,ninja,NOUN,ILL_STATE
-EL2514,tabasco,cook,cook,cake,VERB,ILL_STATE
+EL2514,tabasco,cook,cook,cook,VERB,ILL_STATE
 EL2514,tabasco,drip,drip,drip,VERB,ILL_STATE
 EL2514,tabasco,freeze,freeze,freeze,VERB,ILL_STATE
 EL2514,tabasco,pour,pour,pour,VERB,ILL_STATE
 EL2514,tabasco,shake,shake,shake,VERB,ILL_STATE
-MW6542,tabasco,smelly ,smelly,smelly,ADV,ILL_STATE
+MW6542,tabasco,smelly ,smelly,smell,VERB,ILL_STATE
 MW6542,tabasco,smoke,smoke,smoke,VERB,ILL_STATE
 EL2514,tabasco,throw,throw,throw,VERB,ILL_STATE
 EL2514,tabasco,use,use,use,VERB,ILL_STATE
@@ -2713,22 +2690,22 @@ LM8773,tape,apply,apply,apply,VERB,ILL_STATE
 LM8773,tape,clear,clear,clear,ADJ,ILL_STATE
 LM8773,tape,duct,duct,duct,NOUN,ILL_STATE
 LM8773,tape,rip,rip,rip,VERB,ILL_STATE
-LM8773,tape,tape,tape,tape,NOUN,ILL_STATE
+LM8773,tape,tape,tape,tape,VERB,ILL_STATE
 LM8773,tape,use,use,use,VERB,ILL_STATE
 LM8773,tattoo,injected,injected,inject,VERB,ILL_STATE
 LM8773,tattoo,ink,ink,ink,NOUN,ILL_STATE
-LM8773,tattoo,needled,needled,need,VERB,ILL_STATE
+LM8773,tattoo,needled,needled,needle,VERB,ILL_STATE
 LM8773,tattoo,removed,removed,remove,VERB,ILL_STATE
 AR0075,taxi,hold luggage,hold,hold,VERB,ILL_STATE
 AR0075,taxi,hold luggage,luggage,luggage,NOUN,ILL_STATE
-AR0075,taxi,keep people safe,keep,keep,VERB,ILL_STATE
+AR0075,taxi,keep people safe,keep,keep,AUX,ILL_STATE
 AR0075,taxi,keep people safe,people,people,NOUN,ILL_STATE
-AR0075,taxi,keep people safe,safe,safe,ADJ,ILL_STATE
+AR0075,taxi,keep people safe,safe,safety,VERB,ILL_STATE
 AR0075,taxi,provide a wage,provide,provide,VERB,ILL_STATE
 AR0075,taxi,provide a wage,wage,wage,NOUN,ILL_STATE
 AR0075,taxi,transport people,people,people,NOUN,ILL_STATE
 AR0075,taxi,transport people,transport,transport,VERB,ILL_STATE
-SW4407,teardrop,empathy,empathy,empathy,NOUN,ILL_STATE
+SW4407,teardrop,empathy,empathy,empathy,VERB,ILL_STATE
 SW4407,teardrop,guilt,guilt,guilt,NOUN,ILL_STATE
 SW4407,teardrop,handling emotion,emotion,emotion,NOUN,ILL_STATE
 SW4407,teardrop,handling emotion,handling,handle,VERB,ILL_STATE
@@ -2746,19 +2723,19 @@ JB2271,teeth,fix,fix,fix,VERB,ILL_STATE
 JB2271,teeth,pull,pull,pull,VERB,ILL_STATE
 KF0144,teeth,tearing,tearing,tear,VERB,ILL_STATE
 SW4407,telescope,stargazing,stargazing,stargaze,VERB,ILL_STATE
-SW4407,telescope,viewing,viewing,viewe,VERB,ILL_STATE
+SW4407,telescope,viewing,viewing,view,VERB,ILL_STATE
 EB2483,tent,black friday,black,black,ADJ,ILL_STATE
 EB2483,tent,black friday,friday,friday,PROPN,ILL_STATE
 HW2231,tent,camp,camp,camp,NOUN,ILL_STATE
 EB2483,tent,camping,camping,camp,VERB,ILL_STATE
 EB2483,tent,concerts,concerts,concert,NOUN,ILL_STATE
-HW2231,tent,hiding,hiding,hi,VERB,ILL_STATE
-HW2231,tent,safety,safety,safety,NOUN,ILL_STATE
-HW2231,tent,shelter,shelter,shelter,NOUN,ILL_STATE
-HW2231,tent,sleep,sleep,sleep,NOUN,ILL_STATE
+HW2231,tent,hiding,hiding,hide,VERB,ILL_STATE
+HW2231,tent,safety,safety,safety,VERB,ILL_STATE
+HW2231,tent,shelter,shelter,shelter,VERB,ILL_STATE
+HW2231,tent,sleep,sleep,sleep,VERB,ILL_STATE
 AR0075,tepee,cultural symbol,cultural,cultural,ADJ,ILL_STATE
-AR0075,tepee,cultural symbol,symbol,symbol,NOUN,ILL_STATE
-AR0075,tepee,housing,housing,housing,NOUN,ILL_STATE
+AR0075,tepee,cultural symbol,symbol,symbol,VERB,ILL_STATE
+AR0075,tepee,housing,housing,house,VERB,ILL_STATE
 CM1875,thumb,cut nail,cut,cut,VERB,ILL_STATE
 CM1875,thumb,cut nail,nail,nail,NOUN,ILL_STATE
 CM1875,thumb,move,move,move,VERB,ILL_STATE
@@ -2770,26 +2747,26 @@ MW6542,ticket,party,party,party,NOUN,ILL_STATE
 EL2514,ticket,punch,punch,punch,VERB,ILL_STATE
 MW6542,ticket,sport,sport,sport,NOUN,ILL_STATE
 EL2514,ticket,travel,travel,travel,VERB,ILL_STATE
-EL2514,ticket,use,use,use,VERB,ILL_STATE
+EL2514,ticket,use,use,use,AUX,ILL_STATE
 MT2739,tightrope,hang from,hang,hang,VERB,ILL_STATE
 MT2739,tightrope,observe,observe,observe,VERB,ILL_STATE
 MT2739,tightrope,tow,tow,tow,VERB,ILL_STATE
 MT2739,tightrope,walk,walk,walk,VERB,ILL_STATE
 EL2514,tinfoil,bake,bake,bake,VERB,ILL_STATE
-EL2514,tinfoil,cook,cook,cake,VERB,ILL_STATE
+EL2514,tinfoil,cook,cook,cook,VERB,ILL_STATE
 EL2514,tinfoil,cut,cut,cut,VERB,ILL_STATE
 EL2514,tinfoil,fold,fold,fold,VERB,ILL_STATE
 MW6542,tinfoil,heat,heat,heat,NOUN,ILL_STATE
 MW6542,tinfoil,hold,hold,hold,VERB,ILL_STATE
 EL2514,tinfoil,steam,steam,steam,NOUN,ILL_STATE
 EL2514,tinfoil,tear,tear,tear,VERB,ILL_STATE
-EL2514,tinfoil,use,use,use,VERB,ILL_STATE
+EL2514,tinfoil,use,use,use,AUX,ILL_STATE
 RH0817,tit,suck on,suck,suck,VERB,ILL_STATE
 AF6541,toffee,mix,mix,mix,VERB,ILL_STATE
 EL2514,tofu,bake,bake,bake,VERB,ILL_STATE
 EL2514,tofu,blend,blend,blend,VERB,ILL_STATE
-EL2514,tofu,clean,clean,clean,ADJ,ILL_STATE
-EL2514,tofu,cook,cook,cake,VERB,ILL_STATE
+EL2514,tofu,clean,clean,clean,VERB,ILL_STATE
+EL2514,tofu,cook,cook,cook,VERB,ILL_STATE
 EL2514,tofu,create,create,create,VERB,ILL_STATE
 EL2514,tofu,crumble,crumble,crumble,VERB,ILL_STATE
 EL2514,tofu,cut,cut,cut,VERB,ILL_STATE
@@ -2798,8 +2775,8 @@ EL2514,tofu,play,play,play,VERB,ILL_STATE
 EL2514,tofu,squeeze,squeeze,squeeze,VERB,ILL_STATE
 EL2514,tofu,squish,squish,squish,VERB,ILL_STATE
 EL2514,tofu,throw,throw,throw,VERB,ILL_STATE
-SV2237,Toilet,get waste out,get,get,VERB,ILL_STATE
-SV2237,Toilet,get waste out,waste,waste,NOUN,ILL_STATE
+SV2237,Toilet,get waste out,get,get,AUX,ILL_STATE
+SV2237,Toilet,get waste out,waste,waste,VERB,ILL_STATE
 SV2237,Toilet,going to the bathroom,bathroom,bathroom,NOUN,ILL_STATE
 SV2237,Toilet,going to the bathroom,going,go,VERB,ILL_STATE
 GR8655,token,collect,collect,collect,VERB,ILL_STATE
@@ -2812,15 +2789,15 @@ VL8728,token,money ,money,money,NOUN,ILL_STATE
 GR8655,token,roll,roll,roll,VERB,ILL_STATE
 VL8728,token,slots,slots,slot,NOUN,ILL_STATE
 GR8655,token,spin,spin,spin,NOUN,ILL_STATE
-GR8655,token,step on,step,step,VERB,ILL_STATE
+GR8655,token,step on,step,step on,VERB,ILL_STATE
 GR8655,token,trade,trade,trade,VERB,ILL_STATE
 GR8655,token,turn in for prize,prize,prize,NOUN,ILL_STATE
 GR8655,token,turn in for prize,turn,turn,VERB,ILL_STATE
-RH0817,tomahawk,throw,throw,throw,INTJ,ILL_STATE
+RH0817,tomahawk,throw,throw,throw,VERB,ILL_STATE
 MT2739,tomb,lay in,lay,lay,VERB,ILL_STATE
 MT2739,tomb,observe,observe,observe,VERB,ILL_STATE
 MT2739,tomb,respect,respect,respect,VERB,ILL_STATE
-SW4407,tombstone,burials,burials,burial,NOUN,ILL_STATE
+SW4407,tombstone,burials,burials,bury,VERB,ILL_STATE
 SW4407,tombstone,decorating,decorating,decorate,VERB,ILL_STATE
 SW4407,tombstone,engraving,engraving,engrave,VERB,ILL_STATE
 CW5888,tongue,chew,chew,chew,VERB,ILL_STATE
@@ -2835,14 +2812,14 @@ JanedisColon331.643.2681,torchlight,emergency situations,emergency,emergency,NOU
 JanedisColon331.643.2681,torchlight,emergency situations,situations,situation,NOUN,ILL_STATE
 MH6227,torchlight,energy,energy,energy,NOUN,ILL_STATE
 MH6227,torchlight,light,light,light,NOUN,ILL_STATE
-JanedisColon331.643.2681,torchlight,safety,safety,safety,NOUN,ILL_STATE
-JanedisColon331.643.2681,torchlight,self defense,defense,defense,NOUN,ILL_STATE
+JanedisColon331.643.2681,torchlight,safety,safety,safety,VERB,ILL_STATE
+JanedisColon331.643.2681,torchlight,self defense,defense,defense,VERB,ILL_STATE
 JanedisColon331.643.2681,torchlight,self defense,self,self,NOUN,ILL_STATE
-JanedisColon331.643.2681,torchlight,start a fire,fire,fire,NOUN,ILL_STATE
+JanedisColon331.643.2681,torchlight,start a fire,fire,fire,VERB,ILL_STATE
 JanedisColon331.643.2681,torchlight,start a fire,start,start,VERB,ILL_STATE
 JanedisColon331.643.2681,torchlight,use in the dark,dark,dark,ADJ,ILL_STATE
 JanedisColon331.643.2681,torchlight,use in the dark,use,use,VERB,ILL_STATE
-ac9377,tortoise,pet,pet,pet,NOUN,ILL_STATE
+ac9377,tortoise,pet,pet,pet,VERB,ILL_STATE
 JM6264,tote,carry something,carry,carry,VERB,ILL_STATE
 JM6264,tote,carry something,something,something,PRON,ILL_STATE
 JM6264,tote,store things,store,store,VERB,ILL_STATE
@@ -2862,9 +2839,9 @@ IC8818,tranquilizers,reduce anxiety,anxiety,anxiety,NOUN,ILL_STATE
 IC8818,tranquilizers,reduce anxiety,reduce,reduce,VERB,ILL_STATE
 IC8818,tranquilizers,reduce tension,reduce,reduce,VERB,ILL_STATE
 IC8818,tranquilizers,reduce tension,tension,tension,NOUN,ILL_STATE
-JB1475,tranquilizers,safety,safety,safety,NOUN,ILL_STATE
-JB1475,tranquilizers,weapon,weapon,weapon,NOUN,ILL_STATE
-JM6264,traveler,go on planes,go,go,VERB,ILL_STATE
+JB1475,tranquilizers,safety,safety,safety,VERB,ILL_STATE
+JB1475,tranquilizers,weapon,weapon,weapon,VERB,ILL_STATE
+JM6264,traveler,go on planes,go,go,AUX,ILL_STATE
 JM6264,traveler,go on planes,planes,plane,NOUN,ILL_STATE
 JM6264,traveler,travel,travel,travel,VERB,ILL_STATE
 KL7604,treasure,buccaneers,buccaneers,buccaneer,NOUN,ILL_STATE
@@ -2876,7 +2853,7 @@ KL7604,treasure,silver,silver,silver,NOUN,ILL_STATE
 MT2739,tree,create wood,create,create,VERB,ILL_STATE
 MT2739,tree,create wood,wood,wood,NOUN,ILL_STATE
 MT2739,tree,decorate,decorate,decorate,VERB,ILL_STATE
-MT2739,tree,make paper,make,make,VERB,ILL_STATE
+MT2739,tree,make paper,make,make,AUX,ILL_STATE
 MT2739,tree,make paper,paper,paper,NOUN,ILL_STATE
 MT2739,tree,observe,observe,observe,ADJ,ILL_STATE
 MT2739,tree,plant,plant,plant,NOUN,ILL_STATE
@@ -2908,7 +2885,7 @@ VL8728,tube,liquid,liquid,liquid,AUX,ILL_STATE
 GR8655,tube,press on,press,press,VERB,ILL_STATE
 GR8655,tube,push,push,push,VERB,ILL_STATE
 GR8655,tube,squeeze,squeeze,squeeze,VERB,ILL_STATE
-GR8655,tube,step on,step,step,VERB,ILL_STATE
+GR8655,tube,step on,step,step on,VERB,ILL_STATE
 GR8655,tube,throw,throw,throw,VERB,ILL_STATE
 CM1875,tugboat,row,row,row,VERB,ILL_STATE
 CM1875,tugboat,tow,tow,tow,VERB,ILL_STATE
@@ -2930,7 +2907,7 @@ GR8655,tyke,cut,cut,cut,VERB,ILL_STATE
 GR8655,tyke,place water on,place,place,NOUN,ILL_STATE
 GR8655,tyke,place water on,water,water,NOUN,ILL_STATE
 GR8655,tyke,sit on,sit,sit,VERB,ILL_STATE
-EL2514,van,clean,clean,clean,ADJ,ILL_STATE
+EL2514,van,clean,clean,clean,VERB,ILL_STATE
 EL2514,van,crash,crash,crash,VERB,ILL_STATE
 EL2514,van,drive,drive,drive,VERB,ILL_STATE
 MW6542,van,driving,driving,drive,VERB,ILL_STATE
@@ -2943,7 +2920,7 @@ AF6541,vase,carry,carry,carry,VERB,ILL_STATE
 AF6541,vase,hold,hold,hold,VERB,ILL_STATE
 AF6541,vase,sit,sit,sit,VERB,ILL_STATE
 GR8655,veal,chew,chew,chew,VERB,ILL_STATE
-GR8655,veal,cook,cook,cake,VERB,ILL_STATE
+GR8655,veal,cook,cook,cook,VERB,ILL_STATE
 GR8655,veal,cut,cut,cut,VERB,ILL_STATE
 GR8655,veal,digest,digest,digest,VERB,ILL_STATE
 GR8655,veal,spit out,spit,spit,VERB,ILL_STATE
@@ -2954,7 +2931,7 @@ MT2739,vendor,bring business,bring,bring,VERB,ILL_STATE
 MT2739,vendor,bring business,business,business,NOUN,ILL_STATE
 MT2739,vendor,buy,buy,buy,VERB,ILL_STATE
 MT2739,vermouth,celebrate,celebrate,celebrate,NOUN,ILL_STATE
-MT2739,vermouth,cook with,cook,cake,VERB,ILL_STATE
+MT2739,vermouth,cook with,cook,cook,VERB,ILL_STATE
 MT2739,vermouth,drink,drink,drink,VERB,ILL_STATE
 GR8655,vessel,blow up,blow,blow,VERB,ILL_STATE
 GR8655,vessel,clean,clean,clean,VERB,ILL_STATE
@@ -2974,11 +2951,11 @@ GR8655,vessel,transport from one area to another,one,one,NUM,ILL_STATE
 GR8655,vessel,transport from one area to another,transport,transport,VERB,ILL_STATE
 JM6264,viewfinder,look,look,look,VERB,ILL_STATE
 JM6264,viewfinder,see ,see,see,VERB,ILL_STATE
-SE5217,vinaigrette,to cook witj,cook,cake,VERB,ILL_STATE
+SE5217,vinaigrette,to cook witj,cook,cook,VERB,ILL_STATE
 SE5217,vinegar,to clean,clean,clean,VERB,ILL_STATE
-SE5217,vinegar,to cook with,cook,cake,VERB,ILL_STATE
+SE5217,vinegar,to cook with,cook,cook,VERB,ILL_STATE
 SE5217,vinegar,to experiment,experiment,experiment,NOUN,ILL_STATE
-SE5217,vinyl,to collect,collect,collect,NOUN,ILL_STATE
+SE5217,vinyl,to collect,collect,collect,VERB,ILL_STATE
 SE5217,vinyl,to listen to,listen,listen,VERB,ILL_STATE
 SE5217,vinyl,to put down,put,put,VERB,ILL_STATE
 KL7604,vitamin,chew,chew,chew,VERB,ILL_STATE
@@ -2995,22 +2972,20 @@ CW5888,wafer,eat,eat,eat,VERB,ILL_STATE
 7551,waiter,talked to ,talked,talk,VERB,ILL_STATE
 LH1949,walker,to hold onto when you need to get up or down ,get,get,VERB,ILL_STATE
 LH1949,walker,to hold onto when you need to get up or down ,hold,hold,VERB,ILL_STATE
-LH1949,walker,to hold onto when you need to get up or down ,need,need,VERB,ILL_STATE
+LH1949,walker,to hold onto when you need to get up or down ,need,need,AUX,ILL_STATE
 LH1949,walker,to hold onto when you need to get up or down ,onto,onto,ADP,ILL_STATE
 LH1949,walker,to hold things,hold,hold,VERB,ILL_STATE
 LH1949,walker,to hold things,things,thing,NOUN,ILL_STATE
-LH1949,walker,to use for balance,balance,balance,NOUN,ILL_STATE
-LH1949,walker,to use for balance,use,use,VERB,ILL_STATE
+LH1949,walker,to use for balance,balance,balance,VERB,ILL_STATE
+LH1949,walker,to use for balance,use,use,AUX,ILL_STATE
 CW5888,wallpaper,hang,hang,hang,VERB,ILL_STATE
 CW5888,wallpaper,plaster,plaster,plaster,NOUN,ILL_STATE
 CW5888,wallpaper,stick,stick,stick,NOUN,ILL_STATE
-EL2514,wand,act,act,act,NOUN,ILL_STATE
+EL2514,wand,act,act,act,VERB,ILL_STATE
 EL2514,wand,break,break,break,VERB,ILL_STATE
 EL2514,wand,hit,hit,hit,VERB,ILL_STATE
-EL2514,wand,magic,magic,magic,NOUN,ILL_STATE
-EL2514,wand,magic,magic,magic,NOUN,ILL_STATE
-MW6542,wand,magic,magic,magic,NOUN,ILL_STATE
-MW6542,wand,magic,magic,magic,NOUN,ILL_STATE
+EL2514,wand,magic,magic,magic,VERB,ILL_STATE
+MW6542,wand,magic,magic,magic,VERB,ILL_STATE
 EL2514,wand,play,play,play,VERB,ILL_STATE
 MW6542,wand,sturing ,stir,stir,VERB,ILL_STATE
 EL2514,wand,whip,whip,whip,VERB,ILL_STATE
@@ -3020,14 +2995,13 @@ JM6264,washer,clean clothes,clean,clean,VERB,ILL_STATE
 CM1875,washstand,brush teeth,brush,brush,VERB,ILL_STATE
 CM1875,washstand,brush teeth,teeth,tooth,NOUN,ILL_STATE
 CM1875,washstand,clean,clean,clean,VERB,ILL_STATE
-CM1875,washstand,do make up,make,make,VERB,ILL_STATE
+CM1875,washstand,do make up,make,make up,NOUN,ILL_STATE
 CM1875,washstand,wash hands,hands,hand,NOUN,ILL_STATE
 CM1875,washstand,wash hands,wash,wash,VERB,ILL_STATE
 JB1475,waste,clean,clean,clean,VERB,ILL_STATE
 JB1475,waste,disease,disease,disease,NOUN,ILL_STATE
 IC8818,waste,smelly,smelly,smelly,ADV,ILL_STATE
-JB1475,waste,throw away,away,away,ADV,ILL_STATE
-JB1475,waste,throw away,throw,throw,VERB,ILL_STATE
+JB1475,waste,throw away,throw,throw away,VERB,ILL_STATE
 SV2237,watch,style,style,style,NOUN,ILL_STATE
 SV2237,watch,time keeping,keeping,keep,VERB,ILL_STATE
 SV2237,watch,time keeping,time,time,NOUN,ILL_STATE
@@ -3053,25 +3027,23 @@ EL2514,whisky,pour,pour,pour,VERB,ILL_STATE
 MW6542,whisky,scratchy,scratchy,scratchy,ADJ,ILL_STATE
 EL2514,whisky,shake,shake,shake,VERB,ILL_STATE
 JB2271,wine,drink,drink,drink,VERB,ILL_STATE
-JB2271,wine,drink,drink,drink,VERB,ILL_STATE
 KF0144,wine,drink,drink,drink,VERB,ILL_STATE
-KF0144,wine,drink,drink,drink,VERB,ILL_STATE
-KF0144,wine,drunk,drunk,drink,VERB,ILL_STATE
-JB2271,wine,get drunk,drunk,drink,ADJ,ILL_STATE
+KF0144,wine,drunk,drunk,drunk,VERB,ILL_STATE
+JB2271,wine,get drunk,drunk,drunk,VERB,ILL_STATE
 JB2271,wine,get drunk,get,get,VERB,ILL_STATE
 JB2271,wine,taste,taste,taste,VERB,ILL_STATE
-RH0817,wishbone,break it,break,break,NOUN,ILL_STATE
-MT2739,woman,converse,converse,converse,NOUN,ILL_STATE
+RH0817,wishbone,break it,break,break,VERB,ILL_STATE
+MT2739,woman,converse,converse,converse,VERB,ILL_STATE
 MT2739,woman,nurture,nurture,nurture,VERB,ILL_STATE
 MT2739,woman,work,work,work,NOUN,ILL_STATE
 SW4407,woodshed,building supplies,building,building,NOUN,ILL_STATE
 SW4407,woodshed,building supplies,supplies,supplies,NOUN,ILL_STATE
-SW4407,woodshed,storing tools,storing,storing,NOUN,ILL_STATE
+SW4407,woodshed,storing tools,storing,store,VERB,ILL_STATE
 SW4407,woodshed,storing tools,tools,tool,NOUN,ILL_STATE
 SW4407,woodshed,wood,wood,wood,NOUN,ILL_STATE
 IC8818,woodwork,carving,carving,carve,VERB,ILL_STATE
-JB1475,woodwork,craft,craft,craft,NOUN,ILL_STATE
-JB1475,woodwork,enjoyment,enjoyment,enjoyment,NOUN,ILL_STATE
+JB1475,woodwork,craft,craft,craft,VERB,ILL_STATE
+JB1475,woodwork,enjoyment,enjoyment,enjoy,VERB,ILL_STATE
 IC8818,woodwork,skill,skill,skill,NOUN,ILL_STATE
 IC8818,woodwork,tools,tools,tool,NOUN,ILL_STATE
 JB1475,woodwork,wage,wage,wage,NOUN,ILL_STATE
@@ -3091,7 +3063,7 @@ GR8655,wound,clean out,clean,clean,VERB,ILL_STATE
 VL8728,wound,injury,injury,injury,NOUN,ILL_STATE
 GR8655,wound,ooze,ooze,ooze,VERB,ILL_STATE
 GR8655,wound,pick,pick,pick,VERB,ILL_STATE
-GR8655,wound,put bandaid over,bandage,bandage,NOUN,ILL_STATE
+GR8655,wound,put bandaid over,bandage,bandage,VERB,ILL_STATE
 GR8655,wound,put bandaid over,put,put,VERB,ILL_STATE
 GR8655,wound,put neosporin into,put,put,VERB,ILL_STATE
 GR8655,wound,rinse with water,rinse,rinse,VERB,ILL_STATE

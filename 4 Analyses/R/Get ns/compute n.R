@@ -54,7 +54,6 @@ dat$Stimuli.Cue[dat$Stimuli.Cue == "genital"] = "genitals"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "genitalia"] = "genitals"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "goggle"] = "goggles"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "grocery"] = "groceries"
-dat$Stimuli.Cue[dat$Stimuli.Cue == "gymnasium"] = "gym"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "ingredient"] = "ingredients"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "jean"] = "jeans"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "kids"] = "kid"
@@ -111,7 +110,7 @@ dat$Stimuli.Cue[dat$Stimuli.Cue == "wounds"] = "wound"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "whisky"] = "whiskey"
 
 ##how many lost from combining?
-111 - 21 #90
+110 - 21 #89
 
 ##words to remove?
 #bathe

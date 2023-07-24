@@ -1,14 +1,14 @@
 Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
-000719536rln,fan,use,use,use,VERB,USA
-000719536rln,fan,turn on,turn,turn,VERB,USA
-000719536rln,fan,turn off,turn,turn,VERB,USA
+000719536rln,fan,use,use,use,AUX,USA
+000719536rln,fan,turn on,turn,turn on,VERB,USA
+000719536rln,fan,turn off,turn,turn off,VERB,USA
 000719536rln,fan,buy,buy,buy,VERB,USA
 000719536rln,fan,sale,sale,sell,VERB,USA
 000719536rln,fan,borrow,borrow,borrow,VERB,USA
 000719536rln,ash,dump,dump,dump,VERB,USA
 000719536rln,ash,blow,blow,blow,VERB,USA
 000719536rln,ash,store,store,store,VERB,USA
-000719536rln,pocketknife,use,use,use,VERB,USA
+000719536rln,pocketknife,use,use,use,AUX,USA
 000719536rln,pocketknife,fold,fold,fold,VERB,USA
 000719536rln,pocketknife,sale,sale,sell,VERB,USA
 000719536rln,pocketknife,give,give,give,VERB,USA
@@ -18,11 +18,11 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 000719536rln,tin,buy,buy,buy,VERB,USA
 000719536rln,tin,store,store,store,VERB,USA
 000719536rln,tin,sale,sale,sell,VERB,USA
-000719536rln,tin,use,use,use,VERB,USA
+000719536rln,tin,use,use,use,AUX,USA
 000719536rln,tin,storage,storage,store,VERB,USA
 000719536rln,songbook,buy,buy,buy,VERB,USA
 000719536rln,songbook,sale,sale,sell,VERB,USA
-000719536rln,songbook,use,use,use,VERB,USA
+000719536rln,songbook,use,use,use,AUX,USA
 000719536rln,songbook,read,read,read,VERB,USA
 000719536rln,songbook,play,play,play,VERB,USA
 000719536rln,songbook,borrow,borrow,borrow,VERB,USA
@@ -39,27 +39,27 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 000719536rln,cloverleaf,find,find,find,VERB,USA
 000719536rln,cloverleaf,feed animals,feed,feed,VERB,USA
 000719536rln,cloverleaf,feed animals,animals,animal,NOUN,USA
-000719536rln,hairnet,use,use,use,VERB,USA
+000719536rln,hairnet,use,use,use,AUX,USA
 000719536rln,hairnet,control hair,control,control,VERB,USA
 000719536rln,hairnet,control hair,hair,hair,NOUN,USA
-000719536rln,tinplate,to make cans for food,make,make,VERB,USA
+000719536rln,tinplate,to make cans for food,make,make,AUX,USA
 000719536rln,tinplate,to make cans for food,cans,can,NOUN,USA
 000719536rln,tinplate,to make cans for food,food,food,NOUN,USA
 000719536rln,tinplate,drink,drink,drink,NOUN,USA
 000719536rln,tinplate,machines,machines,machine,NOUN,USA
 000719536rln,bead,creating jewelry,creating,create,VERB,USA
 000719536rln,bead,creating jewelry,jewelry,jewelry,NOUN,USA
-000719536rln,bead,making decorations,making,make,VERB,USA
+000719536rln,bead,making decorations,making,make,AUX,USA
 000719536rln,bead,making decorations,decorations,decorate,VERB,USA
 000719536rln,sprinter,run,run,run,VERB,USA
 000719536rln,sprinter,racing,racing,race,VERB,USA
 000719536rln,bible,study,study,study,VERB,USA
 000719536rln,bible,read,read,read,VERB,USA
 000719536rln,bible,worship,worship,worship,VERB,USA
-000719536rln,machinery,make cars,make,make,VERB,USA
+000719536rln,machinery,make cars,make,make,AUX,USA
 000719536rln,machinery,make cars,cars,cars,NOUN,USA
 000719536rln,machinery,operate,operate,operate,VERB,USA
-000719536rln,machinery,make merchandise,make,make,VERB,USA
+000719536rln,machinery,make merchandise,make,make,AUX,USA
 000719536rln,machinery,make merchandise,merchandise,merchandise,NOUN,USA
 000719536rln,artifact,study,study,study,VERB,USA
 000719536rln,artifact,buy,buy,buy,VERB,USA
@@ -68,7 +68,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 000719536rln,summerhouse,retreat,retreat,retreat,NOUN,USA
 000719536rln,summerhouse,sale,sale,sell,VERB,USA
 000719536rln,summerhouse,buy,buy,buy,VERB,USA
-000719536rln,powerboat,use,use,use,VERB,USA
+000719536rln,powerboat,use,use,use,AUX,USA
 000719536rln,powerboat,buy,buy,buy,VERB,USA
 000719536rln,powerboat,sale,sale,sell,VERB,USA
 000719536rln,powerboat,operate,operate,operate,VERB,USA
@@ -76,7 +76,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 000719536rln,stretcher,carry patient,carry,carry,VERB,USA
 000719536rln,stretcher,carry patient,patient,patient,NOUN,USA
 000719536rln,stretcher,hospital use,hospital,hospital,NOUN,USA
-000719536rln,stretcher,hospital use,use,use,VERB,USA
+000719536rln,stretcher,hospital use,use,use,AUX,USA
 000719536rln,stretcher,transport,transport,transport,VERB,USA
 000719536rln,stairwell,climb up,climb,climb,VERB,USA
 000719536rln,stairwell,climb down,climb,climb,VERB,USA
@@ -88,21 +88,21 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 000719536rln,costume,party,party,party,NOUN,USA
 000719536rln,dessert,eat,eat,eat,VERB,USA
 000719536rln,dessert,create,create,create,VERB,USA
-000719536rln,dessert,make,make,make,VERB,USA
+000719536rln,dessert,make,make,make,AUX,USA
 000719536rln,dessert,sale,sale,sale,NOUN,USA
 000719536rln,dessert,buy,buy,buy,VERB,USA
-000719536rln,sidewalk,use,use,use,VERB,USA
+000719536rln,sidewalk,use,use,use,AUX,USA
 000719536rln,sidewalk,destroy,destroy,destroy,VERB,USA
 000719536rln,sidewalk,walk on,walk,walk,VERB,USA
 00722362Mbh,navel,eat,eat,eat,VERB,USA
 00722362Mbh,navel,tickle,tickle,tickle,VERB,USA
-00722362Mbh,wax,make candles,make,make,VERB,USA
+00722362Mbh,wax,make candles,make,make,AUX,USA
 00722362Mbh,wax,make candles,candles,candle,NOUN,USA
 00722362Mbh,wax,remove hair,remove,remove,VERB,USA
 00722362Mbh,wax,remove hair,hair,hair,NOUN,USA
 00722362Mbh,wax,polish things ,polish,polish,VERB,USA
 00722362Mbh,wax,polish things ,things,thing,NOUN,USA
-00722362Mbh,taxpayer,get money,get,get,VERB,USA
+00722362Mbh,taxpayer,get money,get,get,AUX,USA
 00722362Mbh,taxpayer,get money,money,money,NOUN,USA
 00722362Mbh,taxpayer,help communities,help,help,VERB,USA
 00722362Mbh,taxpayer,help communities,communities,community,NOUN,USA
@@ -110,11 +110,11 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 00722362Mbh,assassin,kill people,people,people,NOUN,USA
 00722362Mbh,assassin,gain information,gain,gain,VERB,USA
 00722362Mbh,assassin,gain information,information,inform,VERB,USA
-00722362Mbh,cryptographer,keep information safe,keep,keep,VERB,USA
+00722362Mbh,cryptographer,keep information safe,keep,keep,AUX,USA
 00722362Mbh,cryptographer,keep information safe,information,inform,VERB,USA
 00722362Mbh,cryptographer,keep information safe,safe,safe,ADJ,USA
 00722362Mbh,chip,eat,eat,eat,VERB,USA
-00722362Mbh,chip,make noise,make,make,VERB,USA
+00722362Mbh,chip,make noise,make,make,AUX,USA
 00722362Mbh,chip,make noise,noise,noise,NOUN,USA
 00722362Mbh,gravestone,remember people,remember,remember,VERB,USA
 00722362Mbh,gravestone,remember people,people,people,NOUN,USA
@@ -127,12 +127,12 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 00722362Mbh,sapling,grow trees,trees,tree,NOUN,USA
 00722362Mbh,sapling,feed animals,feed,feed,NOUN,USA
 00722362Mbh,sapling,feed animals,animals,animal,NOUN,USA
-00722362Mbh,snowman,make memories,make,make,VERB,USA
+00722362Mbh,snowman,make memories,make,make,AUX,USA
 00722362Mbh,snowman,make memories,memories,memory,NOUN,USA
 00722362Mbh,snowman,decorate,decorate,decorate,VERB,USA
 00722362Mbh,glitter,arts and crafts,arts,arts,NOUN,USA
 00722362Mbh,glitter,arts and crafts,crafts,craft,NOUN,USA
-00722362Mbh,glitter,make a mess,make,make,VERB,USA
+00722362Mbh,glitter,make a mess,make,make,AUX,USA
 00722362Mbh,glitter,make a mess,mess,mess,VERB,USA
 00722362Mbh,glitter,eat (edible),eat,eat,VERB,USA
 00722362Mbh,glitter,eat (edible),edible,eat,VERB,USA
@@ -159,7 +159,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 00722362Mbh,rainfall,help animals,animals,animal,NOUN,USA
 00722362Mbh,rainfall,help gardens,help,help,VERB,USA
 00722362Mbh,rainfall,help gardens,gardens,garden,NOUN,USA
-00722362Mbh,rainfall,put out natural fires,put,put,VERB,USA
+00722362Mbh,rainfall,put out natural fires,put,put,AUX,USA
 00722362Mbh,rainfall,put out natural fires,natural,natural,ADJ,USA
 00722362Mbh,rainfall,put out natural fires,fires,fire,NOUN,USA
 00722362Mbh,pug,cuddle,cuddle,cuddle,VERB,USA
@@ -172,16 +172,16 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 00722362Mbh,barn,hold animals,animals,animal,NOUN,USA
 00722362Mbh,barn,hold feed,hold,hold,VERB,USA
 00722362Mbh,barn,hold feed,feed,feed,NOUN,USA
-00722362Mbh,barn,keep things dry,keep,keep,VERB,USA
+00722362Mbh,barn,keep things dry,keep,keep,AUX,USA
 00722362Mbh,barn,keep things dry,things,thing,NOUN,USA
 00722362Mbh,barn,keep things dry,dry,dry,VERB,USA
 00722362Mbh,barn,storage,storage,store,VERB,USA
 00722362Mbh,toastmaster,entertainment,entertainment,entertain,VERB,USA
 00722362Mbh,tumbler,drink out of,drink,drink,VERB,USA
-00722362Mbh,tumbler,keep liquid warm,keep,keep,VERB,USA
+00722362Mbh,tumbler,keep liquid warm,keep,keep,AUX,USA
 00722362Mbh,tumbler,keep liquid warm,liquid,liquid,AUX,USA
 00722362Mbh,tumbler,keep liquid warm,warm,warm,VERB,USA
-00722362Mbh,tumbler,keep liquid cold,keep,keep,VERB,USA
+00722362Mbh,tumbler,keep liquid cold,keep,keep,AUX,USA
 00722362Mbh,tumbler,keep liquid cold,liquid,liquid,AUX,USA
 00722362Mbh,tumbler,keep liquid cold,cold,cold,VERB,USA
 00722362Mbh,forearm,move,move,move,VERB,USA
@@ -193,7 +193,7 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 00722362Mbh,gumbo,gather family,family,family,NOUN,USA
 00722362Mbh,gumbo,have leftovers,leftovers,leftover,NOUN,USA
 00722362Mbh,fillet,eat,eat,eat,VERB,USA
-00722362Mbh,fillet,use as bait,use,use,VERB,USA
+00722362Mbh,fillet,use as bait,use,use,AUX,USA
 00722362Mbh,fillet,use as bait,bait,bait,NOUN,USA
 00722362Mbh,fillet,cook,cook,cake,VERB,USA
 00722362Mbh,football,entertainment,entertainment,entertain,VERB,USA
@@ -214,13 +214,13 @@ Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 00722362Mbh,riverboat,jump off of,jump,jump,VERB,USA
 00722362Mbh,riverboat,fish off of,fish,fish,NOUN,USA
 00722362Mbh,riverboat,entertainment,entertainment,entertain,VERB,USA
-00722362Mbh,boutique,get clothes,get,get,VERB,USA
-00722362Mbh,boutique,get clothes,clothes,clothes,NOUN,USA
-00722362Mbh,boutique,get shoes,get,get,VERB,USA
-00722362Mbh,boutique,get shoes,shoes,shoe,VERB,USA
-00722362Mbh,boutique,get makeup,get,get,VERB,USA
-00722362Mbh,boutique,get makeup,makeup,makeup,NOUN,USA
-00722362Mbh,boutique,get jewelry,get,get,VERB,USA
+00722362Mbh,boutique,get clothes,get,get,AUX,USA
+00722362Mbh,boutique,get clothes,clothes,clothes,AUX,USA
+00722362Mbh,boutique,get shoes,get,get,AUX,USA
+00722362Mbh,boutique,get shoes,shoes,shoe,AUX,USA
+00722362Mbh,boutique,get makeup,get,get,AUX,USA
+00722362Mbh,boutique,get makeup,makeup,makeup,AUX,USA
+00722362Mbh,boutique,get jewelry,get,get,AUX,USA
 00722362Mbh,boutique,get jewelry,jewelry,jewelry,NOUN,USA
 00722362Mbh,boutique,buy gifts ,buy,buy,VERB,USA
 00722362Mbh,boutique,buy gifts ,gifts,gift,NOUN,USA
@@ -284,7 +284,7 @@ J00526068_gfd,bass,opposite of treble,treble,treble,ADJ,USA
 J00526068_gfd,toddler,kid,kid,kid,NOUN,USA
 J00526068_gfd,toddler,child,child,child,NOUN,USA
 J00526068_gfd,mall,shopping,shopping,shop,VERB,USA
-J00526068_gfd,mall,go,go,go,VERB,USA
+J00526068_gfd,mall,go,go,go,AUX,USA
 J00526068_gfd,mall,fun,fun,fun,NOUN,USA
 J00526068_gfd,bystander,person,person,person,NOUN,USA
 J00526068_gfd,bystander,pedestrian,pedestrian,pedestrian,ADJ,USA
@@ -368,13 +368,13 @@ J00670274,horseshoe,wall art,art,art,NOUN,USA
 J00670274,horseshoe,games,games,game,NOUN,USA
 J00670274,brickwork,building,building,build,VERB,USA
 J00670274,brickwork,art,art,art,NOUN,USA
-J00670274,brickwork,making,making,make,VERB,USA
+J00670274,brickwork,making,making,make,AUX,USA
 J00670274,brickwork,visual ,visual,visual,ADJ,USA
 J00670274,roommate,fun,fun,fun,NOUN,USA
 J00670274,roommate,companion,companion,companion,NOUN,USA
 J00670274,roommate,buisness partner,business,business,NOUN,USA
 J00670274,roommate,buisness partner,partner,partner,NOUN,USA
-J00670274,roommate,making money,making,make,VERB,USA
+J00670274,roommate,making money,making,make,AUX,USA
 J00670274,roommate,making money,money,money,NOUN,USA
 J00670274,broccoli,eating,eating,eat,VERB,USA
 J00670274,broccoli,cooking,cooking,cook,VERB,USA
@@ -642,7 +642,7 @@ J00686057_cas,gardenia,picking,picking,pick,VERB,USA
 J00686057_cas,gardenia,planting,planting,plan,VERB,USA
 J00686057_cas,nylon,cleaning,cleaning,clean,VERB,USA
 J00686057_cas,nylon,applying,applying,apply,VERB,USA
-J00686057_cas,nylon,using,using,use,VERB,USA
+J00686057_cas,nylon,using,using,use,AUX,USA
 J00686057_cas,thermos,drinking,drinking,drink,VERB,USA
 J00686057_cas,thermos,storing,storing,store,VERB,USA
 J00686057_cas,thermos,carrying,carrying,carry,VERB,USA
@@ -663,7 +663,7 @@ J00686057_cas,nightgown,dressing,dressing,dress,VERB,USA
 J00686057_cas,nightgown,hanging,hanging,hang,VERB,USA
 J00686057_cas,nightgown,folding,folding,fold,VERB,USA
 J00686057_cas,nightgown,sleeping,sleeping,sleep,VERB,USA
-J00686057_cas,roosters,keeping,keeping,keep,VERB,USA
+J00686057_cas,roosters,keeping,keeping,keep,AUX,USA
 J00686057_cas,roosters,domesticating,domesticating,domesticate,VERB,USA
 J00686057_cas,roosters,farming,farming,farm,VERB,USA
 J00686057_cas,floss,flossing,flossing,floss,VERB,USA
@@ -795,7 +795,7 @@ J00688087AD,memorabilia,collect old items,old,old,ADJ,USA
 J00688087AD,memorabilia,collect old items,items,item,NOUN,USA
 J00688087AD,groom,man,man,man,NOUN,USA
 J00688087AD,groom,wedding,wedding,wedding,NOUN,USA
-J00688087AD,parka,keep someone warm,keep,keep,VERB,USA
+J00688087AD,parka,keep someone warm,keep,keep,AUX,USA
 J00688087AD,parka,keep someone warm,someone,someone,PRON,USA
 J00688087AD,parka,keep someone warm,warm,warm,ADJ,USA
 J00688087AD,fingerboard,for the production of music,production,production,NOUN,USA
@@ -807,7 +807,7 @@ J00688087AD,kid,energetic,energetic,energetic,ADJ,USA
 J00688087AD,kid,young,young,young,ADJ,USA
 J00688087AD,gearbox,in motor vehicle,motor,motor,NOUN,USA
 J00688087AD,gearbox,in motor vehicle,vehicle,vehicle,NOUN,USA
-J00688087AD,jacket,keep warm,keep,keep,VERB,USA
+J00688087AD,jacket,keep warm,keep,keep,AUX,USA
 J00688087AD,jacket,keep warm,warm,warm,VERB,USA
 J00688087AD,frame,hold picture,hold,hold,VERB,USA
 J00688087AD,frame,hold picture,picture,picture,NOUN,USA
@@ -913,7 +913,7 @@ J00690160_bnt,tooth,lick,lick,lick,VERB,USA
 J00690160_bnt,tooth,eat,eat,eat,VERB,USA
 J00690160_bnt,tooth,throw away,throw,throw,VERB,USA
 J00690160_bnt,tooth,throw away,away,away,ADV,USA
-J00690160_bnt,tooth,put under pillow,put,put,VERB,USA
+J00690160_bnt,tooth,put under pillow,put,put,AUX,USA
 J00690160_bnt,tooth,put under pillow,pillow,pillow,NOUN,USA
 J00690160_bnt,bootlace,tie,tie,tie,VERB,USA
 J00690160_bnt,bootlace,untie,untie,untie,VERB,USA
@@ -983,7 +983,7 @@ J00690160_bnt,carnival,attend,attend,attend,VERB,USA
 J00690160_bnt,carnival,buy,buy,buy,VERB,USA
 J00690160_bnt,carnival,sell,sell,sell,VERB,USA
 J00690160_bnt,carnival,burn,burn,burn,VERB,USA
-J00690160_bnt,commode,used,used,use,VERB,USA
+J00690160_bnt,commode,used,used,use,AUX,USA
 J00690160_bnt,commode,cleaned,cleaned,clean,VERB,USA
 J00690160_bnt,commode,burned,burned,burn,VERB,USA
 J00690160_bnt,commode,thrown,thrown,throw,VERB,USA
@@ -1075,7 +1075,7 @@ J00690160_bnt,cornfield,harvest,harvest,harvest,VERB,USA
 J00690160_bnt,cornfield,sell,sell,sell,VERB,USA
 J00690160_bnt,cornfield,buy,buy,buy,VERB,USA
 J00690160_bnt,cornfield,grow,grow,grow,VERB,USA
-J00690160_bnt,flashlight,use,use,use,VERB,USA
+J00690160_bnt,flashlight,use,use,use,AUX,USA
 J00690160_bnt,flashlight,buy,buy,buy,VERB,USA
 J00690160_bnt,flashlight,sell,sell,sell,VERB,USA
 J00690160_bnt,flashlight,throw,throw,throw,VERB,USA
@@ -1104,7 +1104,7 @@ J00690160_bnt,stallion,buy,buy,buy,VERB,USA
 J00690160_bnt,stallion,sell,sell,sell,VERB,USA
 J00690160_bnt,stallion,whip,whip,whip,VERB,USA
 J00690160_bnt,stallion,race,race,race,VERB,USA
-J00691048_amb,teabag,making tea,making,make,VERB,USA
+J00691048_amb,teabag,making tea,making,make,AUX,USA
 J00691048_amb,teabag,making tea,tea,tea,NOUN,USA
 J00691048_amb,teabag,absorbing odor,absorbing,absorb,VERB,USA
 J00691048_amb,teabag,absorbing odor,odor,odor,NOUN,USA
@@ -1112,7 +1112,7 @@ J00691048_amb,teabag,flavor,flavor,flavor,VERB,USA
 J00691048_amb,teabag,medication,medication,medicate,VERB,USA
 J00691048_amb,barman,pouring shots,pouring,pour,VERB,USA
 J00691048_amb,barman,pouring shots,shots,shot,NOUN,USA
-J00691048_amb,barman,making cocktails,making,make,VERB,USA
+J00691048_amb,barman,making cocktails,making,make,AUX,USA
 J00691048_amb,barman,making cocktails,cocktails,cocktail,NOUN,USA
 J00691048_amb,barman,counting money,counting,count,VERB,USA
 J00691048_amb,barman,counting money,money,money,NOUN,USA
@@ -1135,7 +1135,7 @@ J00691048_amb,lettuce,wraps,wraps,wrap,VERB,USA
 J00691048_amb,lettuce,tacos,tacos,taco,NOUN,USA
 J00691048_amb,turban,headdress,headdress,headdress,NOUN,USA
 J00691048_amb,prankster,pranks,pranks,prank,NOUN,USA
-J00691048_amb,prankster,making people laugh,making,make,VERB,USA
+J00691048_amb,prankster,making people laugh,making,make,AUX,USA
 J00691048_amb,prankster,making people laugh,people,people,NOUN,USA
 J00691048_amb,prankster,making people laugh,laugh,laugh,VERB,USA
 J00691048_amb,prankster,comedy shows,comedy,comedy,NOUN,USA
@@ -1159,7 +1159,7 @@ J00691048_amb,choreographer,workouts,workouts,workout,VERB,USA
 J00691048_amb,choreographer,classes,classes,class,NOUN,USA
 J00691048_amb,assemblyman,helping,helping,help,VERB,USA
 J00691048_amb,assemblyman,assembly,assembly,assemble,VERB,USA
-J00691048_amb,assemblyman,making things,making,make,VERB,USA
+J00691048_amb,assemblyman,making things,making,make,AUX,USA
 J00691048_amb,assemblyman,making things,things,thing,NOUN,USA
 J00691048_amb,antibiotics,infection control,infection,infect,NOUN,USA
 J00691048_amb,antibiotics,infection control,control,control,VERB,USA
@@ -1190,12 +1190,12 @@ J00691048_amb,gunpowder,weapons,weapons,weapon,VERB,USA
 J00691048_amb,gunpowder,wars,wars,war,VERB,USA
 J00691048_amb,gunpowder,crimes,crimes,crime,VERB,USA
 J00691048_amb,gunpowder,target practice,target,target practice,VERB,USA
-J00691048_amb,gunpowder,making bullets,making,make,VERB,USA
+J00691048_amb,gunpowder,making bullets,making,make,AUX,USA
 J00691048_amb,gunpowder,making bullets,bullets,bullet,NOUN,USA
-J00691048_amb,yourself,making friends,making,make,VERB,USA
+J00691048_amb,yourself,making friends,making,make,AUX,USA
 J00691048_amb,yourself,making friends,friends,friend,NOUN,USA
 J00691048_amb,yourself,driving,driving,drive,VERB,USA
-J00691048_amb,yourself,going to class,going,go,VERB,USA
+J00691048_amb,yourself,going to class,going,go,AUX,USA
 J00691048_amb,yourself,going to class,class,class,NOUN,USA
 J00691048_amb,yourself,texting,texting,text,VERB,USA
 J00691048_amb,yourself,cooking,cooking,cook,VERB,USA
@@ -1218,7 +1218,7 @@ J00691048_amb,gondola,floating,floating,float,VERB,USA
 J00691048_amb,gondola,holding people,holding,hold,VERB,USA
 J00691048_amb,gondola,holding people,people,people,NOUN,USA
 J00691048_amb,gondola,transportation,transportation,transport,VERB,USA
-J00691048_amb,hotplate,keeping food hot,keeping,keep,VERB,USA
+J00691048_amb,hotplate,keeping food hot,keeping,keep,AUX,USA
 J00691048_amb,hotplate,keeping food hot,food,food,NOUN,USA
 J00691048_amb,hotplate,keeping food hot,hot,hot,ADJ,USA
 J00691048_amb,courtyard,garden,garden,garden,NOUN,USA
@@ -1299,143 +1299,143 @@ J00696415_hgl,caretaker,fix food,food,food,NOUN,USA
 J00696415_hgl,caretaker,fix drink,fix,fix,VERB,USA
 J00696415_hgl,caretaker,fix drink,drink,drink,VERB,USA
 J00696415_hgl,caretaker,help get dressed,help,help,VERB,USA
-J00696415_hgl,caretaker,help get dressed,get,get,VERB,USA
-J00696415_hgl,caretaker,help get dressed,dressed,dress,VERB,USA
-J00696415_hgl,caretaker,take vitals,take,take,VERB,USA
-J00696415_hgl,caretaker,take vitals,vitals,vitals,NOUN,USA
-J00696415_hgl,caretaker,hope,hope,hope,VERB,USA
-J00696415_hgl,weapon,kill,kill,kill,VERB,USA
-J00696415_hgl,weapon,protect,protect,protect,VERB,USA
-J00696415_hgl,weapon,survive,survive,survive,VERB,USA
-J00696415_hgl,marble,kitchen counter top,kitchen,kitchen,NOUN,USA
-J00696415_hgl,marble,kitchen counter top,counter,counter,NOUN,USA
-J00696415_hgl,marble,kitchen counter top,top,top,ADJ,USA
-J00696415_hgl,marble,decoration,decoration,decorate,VERB,USA
-J00696415_hgl,marble,phone case,phone,phone,NOUN,USA
-J00696415_hgl,marble,phone case,case,case,NOUN,USA
-J00696415_hgl,marble,floors,floors,floor,NOUN,USA
-J00696415_hgl,thumbscrew,hold together ,hold,hold,VERB,USA
-J00696415_hgl,thumbscrew,hold together ,together,together,ADV,USA
-J00696415_hgl,tracksuit,style,style,style,NOUN,USA
-J00696415_hgl,tracksuit,warmth,warmth,warm,VERB,USA
-J00696415_hgl,tracksuit,cover,cover,cover,VERB,USA
-J00696415_hgl,pal,help,help,help,VERB,USA
-J00696415_hgl,pal,talk,talk,talk,VERB,USA
-J00696415_hgl,mistletoe,hang,hang,hang,VERB,USA
-J00696415_hgl,mistletoe,smell,smell,smell,VERB,USA
-J00696415_hgl,pincushion,hold pins,hold,hold,VERB,USA
-J00696415_hgl,pincushion,hold pins,pins,pin,NOUN,USA
-J00696415_hgl,pincushion,decoration,decoration,decorate,VERB,USA
-J00696415_hgl,pincushion,sewing,sewing,sew,VERB,USA
-J00696415_hgl,magazine,read,read,read,VERB,USA
-J00696415_hgl,magazine,decoration,decoration,decorate,VERB,USA
-J00696415_hgl,magazine,projects,projects,project,NOUN,USA
-J00696415_hgl,beverage,drink,drink,drink,VERB,USA
-J00696415_hgl,beverage,spill,spill,spill,VERB,USA
-J00696415_hgl,beverage,top,top,top,ADJ,USA
-J00696415_hgl,mat,wipe,wipe,wipe,VERB,USA
-J00696415_hgl,mat,table cover,table,table,NOUN,USA
-J00696415_hgl,mat,table cover,cover,cover,VERB,USA
-J00696415_hgl,merchantman,bills,bills,bills,NOUN,USA
-J00696415_hgl,merchantman,money ,money,money,NOUN,USA
-J00696415_hgl,snot,blow,blow,blow,VERB,USA
-J00696415_hgl,snot,clean up,clean,clean,ADJ,USA
-J00696415_hgl,roast,eat,eat,eat,VERB,USA
-J00696415_hgl,crepe,eat,eat,eat,VERB,USA
-J00696415_hgl,crepe,throw,throw,throw,VERB,USA
-J00696415_hgl,crepe,hold,hold,hold,VERB,USA
-J00696974CU,tights,under dress,dress,dress,NOUN,USA
-J00696974CU,curtain,living room,living,living room,NOUN,USA
-J00696974CU,curtain,bedrooms,bedrooms,bedroom,NOUN,USA
-J00696974CU,stone,stepping,stepping,step,VERB,USA
-J00696974CU,stone,garden,garden,garden,NOUN,USA
-J00696974CU,rack,shoes,shoes,shoe,VERB,USA
-J00696974CU,rack,clothes,clothes,clothes,NOUN,USA
-J00696974CU,overcoat,cold weather,cold,cold,ADJ,USA
-J00696974CU,overcoat,cold weather,weather,weather,NOUN,USA
-J00696974CU,spit,moisten,moisten,moisten,VERB,USA
-J00696974CU,cart,shopping,shopping,shop,VERB,USA
-J00696974CU,sash,beauty pageants,beauty,beauty,NOUN,USA
-J00696974CU,sash,beauty pageants,pageants,pageant,NOUN,USA
-J00696974CU,postage,mail,mail,mail,VERB,USA
-J00696974CU,postage,packages,packages,package,NOUN,USA
-J00696974CU,backbone,fish,fish,fish,NOUN,USA
-J00696974CU,pinecone,pine tree,pine,pine,NOUN,USA
-J00696974CU,pinecone,pine tree,tree,tree,NOUN,USA
-J00696974CU,pinecone,decorations,decorations,decorate,VERB,USA
-J00696974CU,postmaster,deliver mail,deliver,deliver,VERB,USA
-J00696974CU,postmaster,deliver mail,mail,mail,NOUN,USA
-J00696974CU,businesswoman,business,business,business,NOUN,USA
-J00696974CU,crumb,food,food,food,NOUN,USA
-J00696974CU,lilac,scent,scent,scent,NOUN,USA
-J00696974CU,lilac,flower,flower,flower,NOUN,USA
-J00696974CU,lilac,perfume,perfume,perfume,VERB,USA
-J00696974CU,lilac,oil,oil,oil,NOUN,USA
-J00696974CU,plow,field,field,field,NOUN,USA
-J00696974CU,plow,crops,crops,crop,NOUN,USA
-J00696974CU,stuff,multiple objects,multiple,multiple,ADJ,USA
-J00696974CU,stuff,multiple objects,objects,object,VERB,USA
-J00696974CU,fastener,screw,screw,screw,VERB,USA
-J00696974CU,plastics,cup,cup,cup,NOUN,USA
-J00696974CU,plastics,bowl,bowl,bowl,NOUN,USA
-J00696974CU,plastics,plate,plate,plate,NOUN,USA
-J00696974CU,plastics,cutlery,cutlery,cutlery,NOUN,USA
-J00696974CU,police,safety,safety,safety,NOUN,USA
-J00696974CU,police,crimes,crimes,crime,NOUN,USA
-J00696974CU,stake,wood,wood,wood,NOUN,USA
-J00696974CU,litter,cat or garbage on side of road,cat,cat,NOUN,USA
-J00696974CU,litter,cat or garbage on side of road,garbage,garbage,NOUN,USA
-J00696974CU,litter,cat or garbage on side of road,side,side,NOUN,USA
-J00696974CU,litter,cat or garbage on side of road,road,road,NOUN,USA
-J00696974CU,sportswriter,journalist for sports,journalist,journalist,NOUN,USA
-J00696974CU,sportswriter,journalist for sports,sports,sport,NOUN,USA
-J00696974CU,footplate,platform,platform,platform,NOUN,USA
-J00696974CU,limestone,a rock,rock,rock,NOUN,USA
-J00696974CU,delicatessen,deli with different types of food,deli,deli,INTJ,USA
-J00696974CU,delicatessen,deli with different types of food,different,different,ADJ,USA
-J00696974CU,delicatessen,deli with different types of food,types,type,NOUN,USA
-J00696974CU,delicatessen,deli with different types of food,food,food,NOUN,USA
-J00696974CU,rink,ice skating,ice,ice,NOUN,USA
-J00696974CU,rink,ice skating,skating,skat,VERB,USA
-J00696974CU,rink,roller skating,roller,roller,NOUN,USA
-J00696974CU,rink,roller skating,skating,skat,VERB,USA
-J00696974CU,dogcatcher,pet control,pet,pet,NOUN,USA
-J00696974CU,dogcatcher,pet control,control,control,NOUN,USA
-J00696974CU,lumber,trees,trees,tree,NOUN,USA
-J00696974CU,perfume,scent,scent,scent,NOUN,USA
-J00697752KHD,recruiter,to recruit,recruit,recruit,NOUN,USA
-J00697752KHD,recruiter,work,work,work,NOUN,USA
-J00697752KHD,recruiter,military,military,military,ADJ,USA
-J00697752KHD,recruiter,school,school,school,NOUN,USA
-J00697752KHD,wool,warmth,warmth,warm,VERB,USA
-J00697752KHD,wool,clothing,clothing,clothing,NOUN,USA
-J00697752KHD,wool,crafts,crafts,craft,NOUN,USA
-J00697752KHD,wool,sewing,sewing,sew,VERB,USA
-J00697752KHD,wool,quilting,quilting,quilt,VERB,USA
-J00697752KHD,ball,bounce,bounce,bounce,VERB,USA
-J00697752KHD,ball,throw,throw,throw,VERB,USA
-J00697752KHD,ball,roll,roll,roll,VERB,USA
-J00697752KHD,ball,toss,toss,toss,VERB,USA
-J00697752KHD,ball,hit,hit,hit,VERB,USA
-J00697752KHD,ball,play,play,play,VERB,USA
-J00697752KHD,ball,juggle,juggle,juggle,VERB,USA
-J00697752KHD,shoelace,tie shoes,tie,tie,VERB,USA
-J00697752KHD,shoelace,tie shoes,shoes,shoe,VERB,USA
-J00697752KHD,shoelace,hang shoes,hang,hang,VERB,USA
-J00697752KHD,shoelace,hang shoes,shoes,shoe,VERB,USA
-J00697752KHD,canvas,paint,paint,paint,VERB,USA
-J00697752KHD,canvas,art,art,art,VERB,USA
-J00697752KHD,canvas,crafts,crafts,craft,NOUN,USA
-J00697752KHD,dartboard,play darts,play,play,VERB,USA
-J00697752KHD,dartboard,play darts,darts,dart,NOUN,USA
-J00697752KHD,dartboard,fun,fun,fun,NOUN,USA
-J00697752KHD,marionette,play,play,play,VERB,USA
-J00697752KHD,marionette,music,music,music,NOUN,USA
-J00697752KHD,dancer,dance,dance,dance,VERB,USA
-J00697752KHD,dancer,entertainment,entertainment,entertain,VERB,USA
-J00697752KHD,reefer,smoke,smoke,smoke,VERB,USA
-J00697752KHD,reefer,get high,get,get,VERB,USA
-J00697752KHD,reefer,get high,high,get high,VERB,USA
+J00696415_hgl,caretaker,help get dressed,get,get,AUX,USA
+J00696415_hgl,caretaker,help get dressed,dressed,dress,AUX,USA
+J00696415_hgl,caretaker,take vitals,take,take,AUX,USA
+J00696415_hgl,caretaker,take vitals,vitals,vitals,AUX,USA
+J00696415_hgl,caretaker,hope,hope,hope,AUX,USA
+J00696415_hgl,weapon,kill,kill,kill,AUX,USA
+J00696415_hgl,weapon,protect,protect,protect,AUX,USA
+J00696415_hgl,weapon,survive,survive,survive,AUX,USA
+J00696415_hgl,marble,kitchen counter top,kitchen,kitchen,AUX,USA
+J00696415_hgl,marble,kitchen counter top,counter,counter,AUX,USA
+J00696415_hgl,marble,kitchen counter top,top,top,AUX,USA
+J00696415_hgl,marble,decoration,decoration,decorate,AUX,USA
+J00696415_hgl,marble,phone case,phone,phone,AUX,USA
+J00696415_hgl,marble,phone case,case,case,AUX,USA
+J00696415_hgl,marble,floors,floors,floor,AUX,USA
+J00696415_hgl,thumbscrew,hold together ,hold,hold,AUX,USA
+J00696415_hgl,thumbscrew,hold together ,together,together,AUX,USA
+J00696415_hgl,tracksuit,style,style,style,AUX,USA
+J00696415_hgl,tracksuit,warmth,warmth,warm,AUX,USA
+J00696415_hgl,tracksuit,cover,cover,cover,AUX,USA
+J00696415_hgl,pal,help,help,help,AUX,USA
+J00696415_hgl,pal,talk,talk,talk,AUX,USA
+J00696415_hgl,mistletoe,hang,hang,hang,AUX,USA
+J00696415_hgl,mistletoe,smell,smell,smell,AUX,USA
+J00696415_hgl,pincushion,hold pins,hold,hold,AUX,USA
+J00696415_hgl,pincushion,hold pins,pins,pin,AUX,USA
+J00696415_hgl,pincushion,decoration,decoration,decorate,AUX,USA
+J00696415_hgl,pincushion,sewing,sewing,sew,AUX,USA
+J00696415_hgl,magazine,read,read,read,AUX,USA
+J00696415_hgl,magazine,decoration,decoration,decorate,AUX,USA
+J00696415_hgl,magazine,projects,projects,project,AUX,USA
+J00696415_hgl,beverage,drink,drink,drink,AUX,USA
+J00696415_hgl,beverage,spill,spill,spill,AUX,USA
+J00696415_hgl,beverage,top,top,top,AUX,USA
+J00696415_hgl,mat,wipe,wipe,wipe,AUX,USA
+J00696415_hgl,mat,table cover,table,table,AUX,USA
+J00696415_hgl,mat,table cover,cover,cover,AUX,USA
+J00696415_hgl,merchantman,bills,bills,bills,AUX,USA
+J00696415_hgl,merchantman,money ,money,money,AUX,USA
+J00696415_hgl,snot,blow,blow,blow,AUX,USA
+J00696415_hgl,snot,clean up,clean,clean,AUX,USA
+J00696415_hgl,roast,eat,eat,eat,AUX,USA
+J00696415_hgl,crepe,eat,eat,eat,AUX,USA
+J00696415_hgl,crepe,throw,throw,throw,AUX,USA
+J00696415_hgl,crepe,hold,hold,hold,AUX,USA
+J00696974CU,tights,under dress,dress,dress,AUX,USA
+J00696974CU,curtain,living room,living,living room,AUX,USA
+J00696974CU,curtain,bedrooms,bedrooms,bedroom,AUX,USA
+J00696974CU,stone,stepping,stepping,step,AUX,USA
+J00696974CU,stone,garden,garden,garden,AUX,USA
+J00696974CU,rack,shoes,shoes,shoe,AUX,USA
+J00696974CU,rack,clothes,clothes,clothes,AUX,USA
+J00696974CU,overcoat,cold weather,cold,cold,AUX,USA
+J00696974CU,overcoat,cold weather,weather,weather,AUX,USA
+J00696974CU,spit,moisten,moisten,moisten,AUX,USA
+J00696974CU,cart,shopping,shopping,shop,AUX,USA
+J00696974CU,sash,beauty pageants,beauty,beauty,AUX,USA
+J00696974CU,sash,beauty pageants,pageants,pageant,AUX,USA
+J00696974CU,postage,mail,mail,mail,AUX,USA
+J00696974CU,postage,packages,packages,package,AUX,USA
+J00696974CU,backbone,fish,fish,fish,AUX,USA
+J00696974CU,pinecone,pine tree,pine,pine,AUX,USA
+J00696974CU,pinecone,pine tree,tree,tree,AUX,USA
+J00696974CU,pinecone,decorations,decorations,decorate,AUX,USA
+J00696974CU,postmaster,deliver mail,deliver,deliver,AUX,USA
+J00696974CU,postmaster,deliver mail,mail,mail,AUX,USA
+J00696974CU,businesswoman,business,business,business,AUX,USA
+J00696974CU,crumb,food,food,food,AUX,USA
+J00696974CU,lilac,scent,scent,scent,AUX,USA
+J00696974CU,lilac,flower,flower,flower,AUX,USA
+J00696974CU,lilac,perfume,perfume,perfume,AUX,USA
+J00696974CU,lilac,oil,oil,oil,AUX,USA
+J00696974CU,plow,field,field,field,AUX,USA
+J00696974CU,plow,crops,crops,crop,AUX,USA
+J00696974CU,stuff,multiple objects,multiple,multiple,AUX,USA
+J00696974CU,stuff,multiple objects,objects,object,AUX,USA
+J00696974CU,fastener,screw,screw,screw,AUX,USA
+J00696974CU,plastics,cup,cup,cup,AUX,USA
+J00696974CU,plastics,bowl,bowl,bowl,AUX,USA
+J00696974CU,plastics,plate,plate,plate,AUX,USA
+J00696974CU,plastics,cutlery,cutlery,cutlery,AUX,USA
+J00696974CU,police,safety,safety,safety,AUX,USA
+J00696974CU,police,crimes,crimes,crime,AUX,USA
+J00696974CU,stake,wood,wood,wood,AUX,USA
+J00696974CU,litter,cat or garbage on side of road,cat,cat,AUX,USA
+J00696974CU,litter,cat or garbage on side of road,garbage,garbage,AUX,USA
+J00696974CU,litter,cat or garbage on side of road,side,side,AUX,USA
+J00696974CU,litter,cat or garbage on side of road,road,road,AUX,USA
+J00696974CU,sportswriter,journalist for sports,journalist,journalist,AUX,USA
+J00696974CU,sportswriter,journalist for sports,sports,sport,AUX,USA
+J00696974CU,footplate,platform,platform,platform,AUX,USA
+J00696974CU,limestone,a rock,rock,rock,AUX,USA
+J00696974CU,delicatessen,deli with different types of food,deli,deli,AUX,USA
+J00696974CU,delicatessen,deli with different types of food,different,different,AUX,USA
+J00696974CU,delicatessen,deli with different types of food,types,type,AUX,USA
+J00696974CU,delicatessen,deli with different types of food,food,food,AUX,USA
+J00696974CU,rink,ice skating,ice,ice,AUX,USA
+J00696974CU,rink,ice skating,skating,skat,AUX,USA
+J00696974CU,rink,roller skating,roller,roller,AUX,USA
+J00696974CU,rink,roller skating,skating,skat,AUX,USA
+J00696974CU,dogcatcher,pet control,pet,pet,AUX,USA
+J00696974CU,dogcatcher,pet control,control,control,AUX,USA
+J00696974CU,lumber,trees,trees,tree,AUX,USA
+J00696974CU,perfume,scent,scent,scent,AUX,USA
+J00697752KHD,recruiter,to recruit,recruit,recruit,AUX,USA
+J00697752KHD,recruiter,work,work,work,AUX,USA
+J00697752KHD,recruiter,military,military,military,AUX,USA
+J00697752KHD,recruiter,school,school,school,AUX,USA
+J00697752KHD,wool,warmth,warmth,warm,AUX,USA
+J00697752KHD,wool,clothing,clothing,clothing,AUX,USA
+J00697752KHD,wool,crafts,crafts,craft,AUX,USA
+J00697752KHD,wool,sewing,sewing,sew,AUX,USA
+J00697752KHD,wool,quilting,quilting,quilt,AUX,USA
+J00697752KHD,ball,bounce,bounce,bounce,AUX,USA
+J00697752KHD,ball,throw,throw,throw,AUX,USA
+J00697752KHD,ball,roll,roll,roll,AUX,USA
+J00697752KHD,ball,toss,toss,toss,AUX,USA
+J00697752KHD,ball,hit,hit,hit,AUX,USA
+J00697752KHD,ball,play,play,play,AUX,USA
+J00697752KHD,ball,juggle,juggle,juggle,AUX,USA
+J00697752KHD,shoelace,tie shoes,tie,tie,AUX,USA
+J00697752KHD,shoelace,tie shoes,shoes,shoe,AUX,USA
+J00697752KHD,shoelace,hang shoes,hang,hang,AUX,USA
+J00697752KHD,shoelace,hang shoes,shoes,shoe,AUX,USA
+J00697752KHD,canvas,paint,paint,paint,AUX,USA
+J00697752KHD,canvas,art,art,art,AUX,USA
+J00697752KHD,canvas,crafts,crafts,craft,AUX,USA
+J00697752KHD,dartboard,play darts,play,play,AUX,USA
+J00697752KHD,dartboard,play darts,darts,dart,AUX,USA
+J00697752KHD,dartboard,fun,fun,fun,AUX,USA
+J00697752KHD,marionette,play,play,play,AUX,USA
+J00697752KHD,marionette,music,music,music,AUX,USA
+J00697752KHD,dancer,dance,dance,dance,AUX,USA
+J00697752KHD,dancer,entertainment,entertainment,entertain,AUX,USA
+J00697752KHD,reefer,smoke,smoke,smoke,AUX,USA
+J00697752KHD,reefer,get high,get,get,AUX,USA
+J00697752KHD,reefer,get high,high,high,VERB,USA
 J00697752KHD,kiwi,eat,eat,eat,VERB,USA
 J00697752KHD,kiwi,cook,cook,cake,VERB,USA
 J00697752KHD,kiwi,bake,bake,bake,VERB,USA
@@ -1552,14 +1552,14 @@ J00700963ALK,whisky,store,store,store,VERB,USA
 J00700963ALK,whisky,spill,spill,spill,VERB,USA
 J00700963ALK,physician,help,help,help,VERB,USA
 J00700963ALK,physician,health,health,health,NOUN,USA
-J00700963ALK,ticket,use,use,use,VERB,USA
+J00700963ALK,ticket,use,use,use,AUX,USA
 J00700963ALK,ticket,buy,buy,buy,VERB,USA
 J00700963ALK,ticket,sell,sell,sell,VERB,USA
-J00700963ALK,ticket,make,make,make,VERB,USA
+J00700963ALK,ticket,make,make,make,AUX,USA
 J00700963ALK,ticket,drop,drop,drop,VERB,USA
-J00700963ALK,scale,use,use,use,VERB,USA
+J00700963ALK,scale,use,use,use,AUX,USA
 J00700963ALK,scale,break,break,break,VERB,USA
-J00700963ALK,tabasco,use,use,use,VERB,USA
+J00700963ALK,tabasco,use,use,use,AUX,USA
 J00700963ALK,tabasco,additive,additive,additive,VERB,USA
 J00700963ALK,tabasco,hot,hot,hot,ADJ,USA
 J00700963ALK,snowfall,watch,watch,watch,VERB,USA
@@ -1570,8 +1570,8 @@ J00700963ALK,berry,eat,eat,eat,VERB,USA
 J00700963ALK,berry,cook,cook,cake,VERB,USA
 J00700963ALK,chinaware, buy,buy,buy,VERB,USA
 J00700963ALK,chinaware,sell,sell,sell,VERB,USA
-J00700963ALK,chinaware,use,use,use,VERB,USA
-J00700963ALK,chinaware,make,make,make,VERB,USA
+J00700963ALK,chinaware,use,use,use,AUX,USA
+J00700963ALK,chinaware,make,make,make,AUX,USA
 J00700963ALK,chinaware,break,break,break,VERB,USA
 J00700963ALK,family,start,start,start,VERB,USA
 J00700963ALK,family,love,love,love,VERB,USA
@@ -1587,7 +1587,7 @@ J00700963ALK,crystal,craft,craft,craft,NOUN,USA
 J00700963ALK,canvass,paint,paint,paint,VERB,USA
 J00700963ALK,canvass,break,break,break,VERB,USA
 J00700963ALK,tofu,eat,eat,eat,VERB,USA
-J00700963ALK,tofu,make,make,make,VERB,USA
+J00700963ALK,tofu,make,make,make,AUX,USA
 J00700963ALK,tofu,grow,grow,grow,VERB,USA
 J00700963ALK,footballer,kick,kick,kick,VERB,USA
 J00700963ALK,footballer,throw,throw,throw,VERB,USA
@@ -1604,7 +1604,7 @@ J00702800_egh,bucket,fill with something,something,something,PRON,USA
 J00702800_egh,lasso,lasso a horse,lasso,lasso,VERB,USA
 J00702800_egh,lasso,lasso a horse,horse,horse,NOUN,USA
 J00702800_egh,lasso,cowboy,cowboy,cowboy,NOUN,USA
-J00702800_egh,slide,go down it,go,go,VERB,USA
+J00702800_egh,slide,go down it,go,go,AUX,USA
 J00702800_egh,slide,play on it ,play,play,VERB,USA
 J00702800_egh,Shirt,wear,wear,wear,VERB,USA
 J00702800_egh,Shirt,dress,dress,dress,VERB,USA
@@ -1616,7 +1616,7 @@ J00702800_egh,shovel,dig,dig,dig,X,USA
 J00702800_egh,breadbasket,carry bread,carry,carry,VERB,USA
 J00702800_egh,breadbasket,carry bread,bread,bread,NOUN,USA
 J00702800_egh,turtleneck,wear,wear,wear,VERB,USA
-J00702800_egh,box,put things in,put,put,VERB,USA
+J00702800_egh,box,put things in,put,put,AUX,USA
 J00702800_egh,box,put things in,things,thing,NOUN,USA
 J00702800_egh,honeydew,eat,eat,eat,VERB,USA
 J00702800_egh,child,care for,care,care,VERB,USA
@@ -1625,14 +1625,14 @@ J00702800_egh,child,teach ,teach,teach,VERB,USA
 J00702800_egh,auditorium,host shows,host,host,VERB,USA
 J00702800_egh,auditorium,host shows,shows,show,NOUN,USA
 J00702800_egh,auditorium,plays,plays,play,VERB,USA
-J00702800_egh,heroin,get high ,get,get,VERB,USA
+J00702800_egh,heroin,get high ,get,get,AUX,USA
 J00702800_egh,heroin,get high ,high,high,VERB,USA
 J00702800_egh,podiatrist,fix feet,fix,fix,VERB,USA
 J00702800_egh,podiatrist,fix feet,feet,foot,NOUN,USA
 J00702800_egh,lodge,stay in,stay,stay,VERB,USA
-J00702800_egh,diaper,use for incontinence ,use,use,VERB,USA
+J00702800_egh,diaper,use for incontinence ,use,use,AUX,USA
 J00702800_egh,diaper,use for incontinence ,incontinence,incontinence,NOUN,USA
-J00702800_egh,ice,make things cold,make,make,VERB,USA
+J00702800_egh,ice,make things cold,make,make,AUX,USA
 J00702800_egh,ice,make things cold,things,thing,NOUN,USA
 J00702800_egh,ice,make things cold,cold,cold,ADJ,USA
 J00702800_egh,crown,queen,queen,queen,NOUN,USA
@@ -1652,7 +1652,7 @@ J00702800_egh,earplug,stops sound from entering ears,sound,sound,VERB,USA
 J00702800_egh,earplug,stops sound from entering ears,entering,enter,VERB,USA
 J00702800_egh,earplug,stops sound from entering ears,ears,ears,NOUN,USA
 J00704633_gat,crayon,eat,eat,eat,VERB,USA
-J00704633_gat,crayon,use,use,use,VERB,USA
+J00704633_gat,crayon,use,use,use,AUX,USA
 J00704633_gat,crayon,hold,hold,hold,VERB,USA
 J00704633_gat,crayon,color,color,color,VERB,USA
 J00704633_gat,crayon,decorate,decorate,decorate,VERB,USA
@@ -1666,7 +1666,7 @@ J00704633_gat,earring,dress up,dress,dress,NOUN,USA
 J00704633_gat,earring,headache relief,headache,headache,PRON,USA
 J00704633_gat,earring,headache relief,relief,relief,NOUN,USA
 J00704633_gat,earring,fashion,fashion,fashion,NOUN,USA
-J00704633_gat,earring,make a statement,make,make,VERB,USA
+J00704633_gat,earring,make a statement,make,make,AUX,USA
 J00704633_gat,earring,make a statement,statement,statement,NOUN,USA
 J00704633_gat,hamstring,exercise,exercise,exercise,VERB,USA
 J00704633_gat,hamstring,strength,strength,strength,NOUN,USA
@@ -1676,10 +1676,10 @@ J00704633_gat,pedestal,plant stand,plant,plant,NOUN,USA
 J00704633_gat,pedestal,plant stand,stand,stand,VERB,USA
 J00704633_gat,milkshake,eat,eat,eat,VERB,USA
 J00704633_gat,milkshake,share,share,share,VERB,USA
-J00704633_gat,milkshake,make,make,make,VERB,USA
+J00704633_gat,milkshake,make,make,make,AUX,USA
 J00704633_gat,Cheeseburger,eat,eat,eat,VERB,USA
 J00704633_gat,Cheeseburger,share,share,share,VERB,USA
-J00704633_gat,Cheeseburger,make,make,make,VERB,USA
+J00704633_gat,Cheeseburger,make,make,make,AUX,USA
 J00704633_gat,broker,money management,money,money,NOUN,USA
 J00704633_gat,broker,money management,management,management,NOUN,USA
 J00704633_gat,broker,referal,referral,refer,VERB,USA
@@ -1687,7 +1687,7 @@ J00704633_gat,fisherman,friend,friend,friend,NOUN,USA
 J00704633_gat,fisherman,drive boat,drive,drive,VERB,USA
 J00704633_gat,fisherman,drive boat,boat,boat,NOUN,USA
 J00704633_gat,fisherman,provider,provider,provider,VERB,USA
-J00704633_gat,suede,make clothes,make,make,VERB,USA
+J00704633_gat,suede,make clothes,make,make,AUX,USA
 J00704633_gat,suede,make clothes,clothes,clothes,NOUN,USA
 J00704633_gat,suede,warmth,warmth,warm,VERB,USA
 J00704633_gat,granddaughter,friend,friend,friend,NOUN,USA
@@ -1695,18 +1695,18 @@ J00704633_gat,granddaughter,dance partner,dance,dance,VERB,USA
 J00704633_gat,granddaughter,dance partner,partner,partner,NOUN,USA
 J00704633_gat,cleat,play sports,play,play,VERB,USA
 J00704633_gat,cleat,play sports,sports,sport,NOUN,USA
-J00704633_gat,cleat,keep feet clean,keep,keep,VERB,USA
+J00704633_gat,cleat,keep feet clean,keep,keep,AUX,USA
 J00704633_gat,cleat,keep feet clean,feet,foot,NOUN,USA
 J00704633_gat,cleat,keep feet clean,clean,clean,VERB,USA
 J00704633_gat,cocktail,drink,drink,drink,VERB,USA
-J00704633_gat,cocktail,make,make,make,VERB,USA
+J00704633_gat,cocktail,make,make,make,AUX,USA
 J00704633_gat,cocktail,share,share,share,VERB,USA
 J00704633_gat,tuba,play,play,play,VERB,USA
 J00704633_gat,tuba,share,share,share,VERB,USA
 J00704633_gat,tuba,teach,teach,teach,VERB,USA
 J00704633_gat,flannels,wear,wear,wear,VERB,USA
 J00704633_gat,flannels,share,share,share,VERB,USA
-J00704633_gat,flannels,keep warm,keep,keep,VERB,USA
+J00704633_gat,flannels,keep warm,keep,keep,AUX,USA
 J00704633_gat,flannels,keep warm,warm,warm,VERB,USA
 J00704633_gat,cord,plug in things,plug,plug,VERB,USA
 J00704633_gat,cord,plug in things,things,thing,NOUN,USA
@@ -1725,15 +1725,15 @@ J00704633_gat,hairpin,clean tiny space,space,space,NOUN,USA
 J00704633_gat,clip,hold item together,hold,hold,VERB,USA
 J00704633_gat,clip,hold item together,item,item,NOUN,USA
 J00704633_gat,clip,hold item together,together,together,ADV,USA
-J00704633_gat,seasoning,make food taste better,make,make,VERB,USA
+J00704633_gat,seasoning,make food taste better,make,make,AUX,USA
 J00704633_gat,seasoning,make food taste better,food,food,NOUN,USA
 J00704633_gat,seasoning,make food taste better,taste,taste,VERB,USA
 J00704633_gat,seasoning,make food taste better,better,better,ADJ,USA
 J00704633_gat,seasoning,sprinkle,sprinkle,sprinkle,VERB,USA
 J00704633_gat,tonic,drink,drink,drink,VERB,USA
-J00704633_gat,driftwood,make crafts,make,make,VERB,USA
+J00704633_gat,driftwood,make crafts,make,make,AUX,USA
 J00704633_gat,driftwood,make crafts,crafts,craft,NOUN,USA
-J00704633_gat,driftwood,make raft,make,make,VERB,USA
+J00704633_gat,driftwood,make raft,make,make,AUX,USA
 J00704633_gat,driftwood,make raft,raft,raft,NOUN,USA
 J00704633_gat,booth,display objects,display,display,VERB,USA
 J00704633_gat,booth,display objects,objects,object,VERB,USA
@@ -1758,7 +1758,7 @@ J007050940_jaf,educator,to facilitate,facilitate,facilitate,VERB,USA
 J007050940_jaf,educator,to observe,observe,observe,VERB,USA
 J007050940_jaf,educator,to grade,grade,grade,VERB,USA
 J007050940_jaf,educator,to work with,work,work,VERB,USA
-J007050940_jaf,educator,to keep students on track,keep,keep,VERB,USA
+J007050940_jaf,educator,to keep students on track,keep,keep,AUX,USA
 J007050940_jaf,educator,to keep students on track,students,student,NOUN,USA
 J007050940_jaf,educator,to keep students on track,track,track,NOUN,USA
 J007050940_jaf,clock,to tell time,tell,tell,VERB,USA
@@ -1768,7 +1768,7 @@ J007050940_jaf,clock,to look professional,professional,professional,ADJ,USA
 J007050940_jaf,clock,to manage time,manage,manage,VERB,USA
 J007050940_jaf,clock,to manage time,time,time,NOUN,USA
 J007050940_jaf,awning,to prevent getting wet from rain,prevent,prevent,VERB,USA
-J007050940_jaf,awning,to prevent getting wet from rain,getting,get,VERB,USA
+J007050940_jaf,awning,to prevent getting wet from rain,getting,get,AUX,USA
 J007050940_jaf,awning,to prevent getting wet from rain,wet,wet,ADJ,USA
 J007050940_jaf,awning,to prevent getting wet from rain,rain,rain,NOUN,USA
 J007050940_jaf,awning,to provide shade,provide,provide,VERB,USA
@@ -1803,11 +1803,11 @@ J007050940_jaf,honeycomb,stores honey,stores,store,VERB,USA
 J007050940_jaf,honeycomb,stores honey,honey,honey,NOUN,USA
 J007050940_jaf,honeycomb,can be eaten,can,can,AUX,USA
 J007050940_jaf,honeycomb,can be eaten,eaten,eat,VERB,USA
-J007050940_jaf,tunic,used as clothing,used,use,VERB,USA
+J007050940_jaf,tunic,used as clothing,used,use,AUX,USA
 J007050940_jaf,tunic,used as clothing,clothing,clothing,NOUN,USA
-J007050940_jaf,tunic,used as a costume,used,use,VERB,USA
+J007050940_jaf,tunic,used as a costume,used,use,AUX,USA
 J007050940_jaf,tunic,used as a costume,costume,costume,NOUN,USA
-J007050940_jaf,atlas,used for maps,used,use,VERB,USA
+J007050940_jaf,atlas,used for maps,used,use,AUX,USA
 J007050940_jaf,atlas,used for maps,maps,map,NOUN,USA
 J007050940_jaf,atlas,was worshiped as a greek deity,worshiped,worship,VERB,USA
 J007050940_jaf,atlas,was worshiped as a greek deity,greek,greek,ADJ,USA
@@ -1816,21 +1816,21 @@ J007050940_jaf,matchwood,cut into splinters of wood for bondfires,cut,cut,VERB,U
 J007050940_jaf,matchwood,cut into splinters of wood for bondfires,splinters,splinter,NOUN,USA
 J007050940_jaf,matchwood,cut into splinters of wood for bondfires,wood,wood,NOUN,USA
 J007050940_jaf,matchwood,cut into splinters of wood for bondfires,bonfires,bonfire,NOUN,USA
-J007050940_jaf,matchwood,used to make matches,used,use,VERB,USA
-J007050940_jaf,matchwood,used to make matches,make,make,VERB,USA
+J007050940_jaf,matchwood,used to make matches,used,use,AUX,USA
+J007050940_jaf,matchwood,used to make matches,make,make,AUX,USA
 J007050940_jaf,matchwood,used to make matches,matches,match,VERB,USA
-J007050940_jaf,equipment,used as tools for various jobs,used,use,VERB,USA
+J007050940_jaf,equipment,used as tools for various jobs,used,use,AUX,USA
 J007050940_jaf,equipment,used as tools for various jobs,tools,tool,VERB,USA
 J007050940_jaf,equipment,used as tools for various jobs,various,various,ADJ,USA
 J007050940_jaf,equipment,used as tools for various jobs,jobs,job,NOUN,USA
-J007050940_jaf,equipment,used to keep people safe,used,use,VERB,USA
-J007050940_jaf,equipment,used to keep people safe,keep,keep,VERB,USA
+J007050940_jaf,equipment,used to keep people safe,used,use,AUX,USA
+J007050940_jaf,equipment,used to keep people safe,keep,keep,AUX,USA
 J007050940_jaf,equipment,used to keep people safe,people,people,NOUN,USA
 J007050940_jaf,equipment,used to keep people safe,safe,safe,ADJ,USA
-J007050940_jaf,backscratcher,used to scratch backs,used,use,VERB,USA
+J007050940_jaf,backscratcher,used to scratch backs,used,use,AUX,USA
 J007050940_jaf,backscratcher,used to scratch backs,scratch,scratch,VERB,USA
 J007050940_jaf,backscratcher,used to scratch backs,backs,back,NOUN,USA
-J007050940_jaf,backscratcher,used to hit,used,use,VERB,USA
+J007050940_jaf,backscratcher,used to hit,used,use,AUX,USA
 J007050940_jaf,backscratcher,used to hit,hit,hit,VERB,USA
 J00705712_TCR,barricade,jumped,jumped,jump,VERB,USA
 J00705712_TCR,barricade,pushed,pushed,push,VERB,USA
@@ -1852,7 +1852,7 @@ J00705712_TCR,cellophane,wrapped,wrapped,wrap,VERB,USA
 J00705712_TCR,pepper,crushed,crushed,crush,VERB,USA
 J00705712_TCR,pepper,chopped,chopped,chop,VERB,USA
 J00705712_TCR,pepper,dried ,dried,dry,VERB,USA
-J00705712_TCR,extinguisher,used,used,use,VERB,USA
+J00705712_TCR,extinguisher,used,used,use,AUX,USA
 J00705712_TCR,beer,cold,cold,cold,ADJ,USA
 J00705712_TCR,beer,drink,drink,drink,VERB,USA
 J00705712_TCR,beer,cook,cook,cake,VERB,USA
@@ -1908,7 +1908,7 @@ J00705939_ave,stage,theatre,theater,theater,NOUN,USA
 J00705939_ave,stage,concert,concert,concert,NOUN,USA
 J00705939_ave,stepbrother,everything,everything,everything,PRON,USA
 J00705939_ave,cheek,everything,everything,everything,PRON,USA
-J00705939_ave,rowboat,go across the ocean or any type of water,go,go,VERB,USA
+J00705939_ave,rowboat,go across the ocean or any type of water,go,go,AUX,USA
 J00705939_ave,rowboat,go across the ocean or any type of water,across,across,ADP,USA
 J00705939_ave,rowboat,go across the ocean or any type of water,ocean,ocean,NOUN,USA
 J00705939_ave,rowboat,go across the ocean or any type of water,type,type,NOUN,USA
@@ -1916,7 +1916,7 @@ J00705939_ave,rowboat,go across the ocean or any type of water,water,water,NOUN,
 J00705939_ave,tangerine,eat,eat,eat,VERB,USA
 J00705939_ave,tangerine,cooking with,cooking,cook,VERB,USA
 J00705939_ave,stem,a lot,lot,lot,NOUN,USA
-J00705939_ave,underclothing,to keep warm,keep,keep,VERB,USA
+J00705939_ave,underclothing,to keep warm,keep,keep,AUX,USA
 J00705939_ave,underclothing,to keep warm,warm,warm,VERB,USA
 J00705939_ave,coaster,for your drink,drink,drink,NOUN,USA
 J00705939_ave,lunch,to eat,eat,eat,VERB,USA
@@ -2017,14 +2017,14 @@ J00706446_mde,cube,ice for drink,ice,ice,NOUN,USA
 J00706446_mde,cube,ice for drink,drink,drink,NOUN,USA
 J00706446_mde,cube,to freeze something,freeze,freeze,VERB,USA
 J00706446_mde,cube,to freeze something,something,something,PRON,USA
-J00706446_mde,cube,to make something cold,make,make,VERB,USA
+J00706446_mde,cube,to make something cold,make,make,AUX,USA
 J00706446_mde,cube,to make something cold,something,something,PRON,USA
 J00706446_mde,cube,to make something cold,cold,cold,ADJ,USA
 J00706446_mde,preschooler,help,help,help,VERB,USA
 J00706446_mde,preschooler,affection,affection,affection,NOUN,USA
 J00706446_mde,preschooler,family,family,family,NOUN,USA
 J00706446_mde,pacifier,soothing,soothing,soothe,VERB,USA
-J00706446_mde,pacifier,to keep quiet,keep,keep,VERB,USA
+J00706446_mde,pacifier,to keep quiet,keep,keep,AUX,USA
 J00706446_mde,pacifier,to keep quiet,quiet,quiet,NOUN,USA
 J00706446_mde,cable,to tie,tie,tie,VERB,USA
 J00706446_mde,cable,to hold together,hold,hold,VERB,USA
@@ -2091,7 +2091,7 @@ J00706823_afm,forefinger,index finger,finger,finger,NOUN,USA
 J00706823_afm,forefinger,pointer finger,pointer,pointer,NOUN,USA
 J00706823_afm,forefinger,pointer finger,finger,finger,NOUN,USA
 J00706823_afm,forefinger,finger used to point at,finger,finger,NOUN,USA
-J00706823_afm,forefinger,finger used to point at,used,use,VERB,USA
+J00706823_afm,forefinger,finger used to point at,used,use,AUX,USA
 J00706823_afm,forefinger,finger used to point at,point,point,VERB,USA
 J00706823_afm,doughnut,bagels,bagels,bagel,NOUN,USA
 J00706823_afm,doughnut,bread,bread,bread,NOUN,USA
@@ -2216,13 +2216,13 @@ J00707050_hms,washbasin,clean,clean,clean,VERB,USA
 J00707050_hms,seamstress,sews,sews,sew,VERB,USA
 J00707050_hms,seamstress,fixed things,fixed,fix,VERB,USA
 J00707050_hms,seamstress,fixed things,things,thing,NOUN,USA
-J00707050_hms,grave,used when you pass away,used,use,VERB,USA
+J00707050_hms,grave,used when you pass away,used,use,AUX,USA
 J00707050_hms,grave,used when you pass away,pass,pass,VERB,USA
 J00707050_hms,grave,used when you pass away,away,away,ADV,USA
 J00707050_hms,container,holds things,holds,hold,NOUN,USA
 J00707050_hms,container,holds things,things,thing,NOUN,USA
 J00707050_hms,container,storage,storage,store,NOUN,USA
-J00707050_hms,bookkeeper,keeps financials in check,keeps,keep,VERB,USA
+J00707050_hms,bookkeeper,keeps financials in check,keeps,keep,AUX,USA
 J00707050_hms,bookkeeper,keeps financials in check,financial,financial,ADJ,USA
 J00707050_hms,bookkeeper,keeps financials in check,check,check,VERB,USA
 J00707050_hms,pillow,sleep,sleep,sleep,VERB,USA
@@ -2399,7 +2399,7 @@ J00707190_ask,muffin,sniff,sniff,sniff,VERB,USA
 J00707190_ask,muffin,buy,buy,buy,VERB,USA
 J00707190_ask,muffin,sell,sell,sell,VERB,USA
 J00707190_ask,cider,drink,drink,drink,VERB,USA
-J00707190_ask,cider,make,make,make,VERB,USA
+J00707190_ask,cider,make,make,make,AUX,USA
 J00707190_ask,cider,mix,mix,mix,VERB,USA
 J00707190_ask,cider,serve,serve,serve,VERB,USA
 J00707190_ask,cider,buy,buy,buy,VERB,USA
@@ -2422,7 +2422,7 @@ J00707190_ask,sofa,nap,nap,nap,VERB,USA
 J00707190_ask,sofa,sleep,sleep,sleep,VERB,USA
 J00707190_ask,sofa,decorate,decorate,decorate,VERB,USA
 J00707190_ask,chili,eat,eat,eat,VERB,USA
-J00707190_ask,chili,make,make,make,VERB,USA
+J00707190_ask,chili,make,make,make,AUX,USA
 J00707190_ask,chili,season,season,season,VERB,USA
 J00707190_ask,chili,store,store,store,VERB,USA
 J00707190_ask,chili,buy,buy,buy,VERB,USA
@@ -2433,7 +2433,7 @@ J00707190_ask,wheelbarrow,roll,roll,roll,VERB,USA
 J00707190_ask,wheelbarrow,carry,carry,carry,VERB,USA
 J00707190_ask,candle,light,light,light,NOUN,USA
 J00707190_ask,candle,smell,smell,smell,VERB,USA
-J00707190_ask,candle,infuse,infuse,infuse,VERB,USA
+J00707190_ask,candle,infuse,infuse,infuse,AUX,USA
 J00707190_ask,candle,decorate,decorate,decorate,VERB,USA
 J00707190_ask,candle,buy,buy,buy,VERB,USA
 J00707190_ask,candle,sell,sell,sell,VERB,USA
@@ -2460,7 +2460,7 @@ J00707190_ask,yarn,crochet,crochet,crochet,VERB,USA
 J00707190_ask,yarn,knit,knit,knit,VERB,USA
 J00707190_ask,yarn,buy,buy,buy,VERB,USA
 J00707190_ask,yarn,cat toy,cat,cat toy,VERB,USA
-J00707190_ask,yarn,make,make,make,VERB,USA
+J00707190_ask,yarn,make,make,make,AUX,USA
 J00707190_ask,mayo,eat,eat,eat,VERB,USA
 J00707190_ask,mayo,spread,spread,spread,VERB,USA
 J00707190_ask,mayo,refrigerate,refrigerate,refrigerate,VERB,USA
@@ -2534,7 +2534,7 @@ j00707964,lick,enjoy,enjoy,enjoy,VERB,USA
 j00707964,hamburger,eat,eat,eat,VERB,USA
 j00707964,hamburger,enjoy,enjoy,enjoy,VERB,USA
 j00707964,rail,hold,hold,hold,VERB,USA
-j00707964,rail,keep safe,keep,keep,VERB,USA
+j00707964,rail,keep safe,keep,keep,AUX,USA
 j00707964,rail,keep safe,safe,safe,VERB,USA
 j00707964,crackers,eat,eat,eat,VERB,USA
 j00707964,crackers,dip,dip,dip,VERB,USA
@@ -2568,7 +2568,7 @@ J00708093_ojs,salve,cleaning,cleaning,clean,VERB,USA
 J00708093_ojs,duckling,baby duck,baby,baby,NOUN,USA
 J00708093_ojs,duckling,baby duck,duck,duck,NOUN,USA
 J00708093_ojs,needlework,sewing,sewing,sew,VERB,USA
-J00708093_ojs,needlework,making clothes,making,make,VERB,USA
+J00708093_ojs,needlework,making clothes,making,make,AUX,USA
 J00708093_ojs,needlework,making clothes,clothes,clothes,NOUN,USA
 J00708093_ojs,needlework,fixing clothes,fixing,fix,VERB,USA
 J00708093_ojs,needlework,fixing clothes,clothes,clothes,NOUN,USA
@@ -2649,7 +2649,7 @@ J00708126_KNS,gumdrop,baking,baking,bake,VERB,USA
 J00708126_KNS,gumdrop,eating,eating,eat,VERB,USA
 J00708126_KNS,toiletry,traveling,traveling,travel,VERB,USA
 J00708126_KNS,toiletry,bathing,bathing,bathe,VERB,USA
-J00708126_KNS,toiletry,getting ready,getting,get,VERB,USA
+J00708126_KNS,toiletry,getting ready,getting,get,AUX,USA
 J00708126_KNS,toiletry,getting ready,ready,ready,ADJ,USA
 J00708126_KNS,spinach,cooking,cooking,cook,VERB,USA
 J00708126_KNS,spinach,baking,baking,bake,VERB,USA
@@ -2722,7 +2722,7 @@ J00708126_KNS,snowshoe,sports,sports,sport,NOUN,USA
 J00708126_KNS,whore,prostitution ,prostitution,prostitution,VERB,USA
 J00708126_KNS,gangster,burglary,burglary,burglary,INTJ,USA
 J00708126_KNS,gangster,arresting,arresting,arrest,VERB,USA
-J00708126_KNS,washroom,getting ready,getting,get,VERB,USA
+J00708126_KNS,washroom,getting ready,getting,get,AUX,USA
 J00708126_KNS,washroom,getting ready,ready,ready,ADJ,USA
 J00708126_KNS,washroom,cleaning,cleaning,clean,VERB,USA
 J00708126_KNS,washroom,bathing,bathing,bathe,VERB,USA
@@ -2745,7 +2745,7 @@ J00708242EC,pharmacist,fill meds,mess,mess,NOUN,USA
 J00708242EC,pharmacist,call in meds,call,call,NOUN,USA
 J00708242EC,pharmacist,call in meds,mess,mess,NOUN,USA
 J00708242EC,liqueur,drink,drink,drink,NOUN,USA
-J00708242EC,liqueur,make drinks,make,make,VERB,USA
+J00708242EC,liqueur,make drinks,make,make,AUX,USA
 J00708242EC,liqueur,make drinks,drinks,drink,NOUN,USA
 J00708242EC,liqueur,taste,taste,taste,VERB,USA
 J00708242EC,playroom,play,play,play,VERB,USA
@@ -2756,7 +2756,7 @@ J00708242EC,glycerine,mix in,mix,mix,VERB,USA
 J00708242EC,crawfish,eat,eat,eat,VERB,USA
 J00708242EC,crawfish,boil,boil,boil,VERB,USA
 J00708242EC,crawfish,peel,peel,peel,VERB,USA
-J00708242EC,crawfish,put in sauce,put,put,VERB,USA
+J00708242EC,crawfish,put in sauce,put,put,AUX,USA
 J00708242EC,crawfish,put in sauce,sauce,sauce,NOUN,USA
 J00708242EC,crawfish,fry,fry,fry,VERB,USA
 J00708242EC,crawfish,dip,dip,dip,VERB,USA
@@ -2778,7 +2778,7 @@ J00708242EC,cabinet,open,open,open,VERB,USA
 J00708242EC,cabinet,slam,slam,slam,VERB,USA
 J00708242EC,wagon,drag,drag,drag,VERB,USA
 J00708242EC,wagon,roll,roll,roll,VERB,USA
-J00708242EC,cotton,make clothes,make,make,VERB,USA
+J00708242EC,cotton,make clothes,make,make,AUX,USA
 J00708242EC,cotton,make clothes,clothes,clothes,NOUN,USA
 J00708242EC,cotton,feel,feel,feel,VERB,USA
 J00708242EC,soil,spread,spread,spread,VERB,USA
@@ -2790,7 +2790,7 @@ J00708242EC,amulet,flaunt,flaunt,flaunt,VERB,USA
 J00708242EC,amulet,shine,shine,shine,VERB,USA
 J00708242EC,rake,rake leaves,rake,rake,VERB,USA
 J00708242EC,rake,rake leaves,leaves,leave,VERB,USA
-J00708242EC,rake,get spider webs,get,get,VERB,USA
+J00708242EC,rake,get spider webs,get,get,AUX,USA
 J00708242EC,rake,get spider webs,spider,spider,NOUN,USA
 J00708242EC,rake,get spider webs,webs,web,NOUN,USA
 J00708242EC,jogger,run,run,run,VERB,USA
@@ -2805,7 +2805,7 @@ J00708242EC,vein,draw blood,draw,dree,VERB,USA
 J00708242EC,vein,draw blood,blood,blood,NOUN,USA
 J00708242EC,vein,find heartbeat,find,find,VERB,USA
 J00708242EC,vein,find heartbeat,heartbeat,heartbeat,X,USA
-J00708242EC,panhandler,get money,get,get,VERB,USA
+J00708242EC,panhandler,get money,get,get,AUX,USA
 J00708242EC,panhandler,get money,money,money,NOUN,USA
 J00708242EC,vine,decorate,decorate,decorate,VERB,USA
 J00708242EC,squirrel,pet,pet,pet,VERB,USA
@@ -2822,7 +2822,7 @@ J00708533_bmf,diaphragm,measure,measure,measure,VERB,USA
 J00708533_bmf,drone,fly,fly,fly,VERB,USA
 J00708533_bmf,drone,video,video,video,VERB,USA
 J00708533_bmf,drone,fun,fun,fun,NOUN,USA
-J00708533_bmf,wigmaker,make wigs,make,make,VERB,USA
+J00708533_bmf,wigmaker,make wigs,make,make,AUX,USA
 J00708533_bmf,wigmaker,make wigs,wigs,wig,NOUN,USA
 J00708533_bmf,parachute,catch when fall,catch,catch,VERB,USA
 J00708533_bmf,parachute,catch when fall,fall,fall,VERB,USA
@@ -2852,7 +2852,7 @@ J00708533_bmf,needlepoint,draw blood,blood,blood,NOUN,USA
 J00708533_bmf,needlepoint,iv,iv,iv,X,USA
 J00708533_bmf,junk,throw away,throw,throw,VERB,USA
 J00708533_bmf,junk,throw away,away,away,ADV,USA
-J00708533_bmf,junk,use,use,use,VERB,USA
+J00708533_bmf,junk,use,use,use,AUX,USA
 J00708533_bmf,shed,store,store,store,VERB,USA
 J00708533_bmf,shed,work,work,work,VERB,USA
 J00708533_bmf,peephole,look,look,look,VERB,USA
@@ -2916,11 +2916,11 @@ J00708585,wristwatch,tell time on,time,time,VERB,USA
 J00708585,midshipman,date,date,date,VERB,USA
 J00708585,midshipman,push,push,push,VERB,USA
 J00708585,tea,drink,drink,drink,VERB,USA
-J00708585,tea,make,make,make,VERB,USA
+J00708585,tea,make,make,make,AUX,USA
 J00708585,tea,spill,spill,spill,VERB,USA
 J00708585,tire,push,push,push,VERB,USA
 J00708585,tire,drop,drop,drop,VERB,USA
-J00708585,tire,put on car,put,put,VERB,USA
+J00708585,tire,put on car,put,put,AUX,USA
 J00708585,tire,put on car,car,car,NOUN,USA
 J00708585,tire,flatten,flatten,flatten,VERB,USA
 J00708585,mud,jump in,jump,jump,VERB,USA
@@ -2928,11 +2928,11 @@ J00708585,mud,spread,spread,spread,VERB,USA
 J00708585,mud,walk around,walk,walk,VERB,USA
 J00708585,mud,walk around,around,around,ADV,USA
 J00708585,orthodontist,see,see,see,VERB,USA
-J00708585,orthodontist,make appointment,make,make,VERB,USA
+J00708585,orthodontist,make appointment,make,make,AUX,USA
 J00708585,orthodontist,make appointment,appointment,appointment,VERB,USA
 J00708585,orthodontist,call,call,call,VERB,USA
 J00708585,drink,spill,spill,spill,VERB,USA
-J00708585,drink,make,make,make,VERB,USA
+J00708585,drink,make,make,make,AUX,USA
 J00708585,drink,drink,drink,drink,VERB,USA
 J00708585,drink,drop,drop,drop,VERB,USA
 J00708585,scalp,brush,brush,brush,VERB,USA
@@ -2947,7 +2947,7 @@ J00708585,bicycle,break,break,break,VERB,USA
 J00708585,bicycle,fix,fix,fix,VERB,USA
 J00708585,bisque,drink,drink,drink,VERB,USA
 J00708585,bisque,eat,eat,eat,VERB,USA
-J00708585,bisque,make,make,make,VERB,USA
+J00708585,bisque,make,make,make,AUX,USA
 J00708585,bisque,season,season,season,VERB,USA
 J00708585,bisque,spill ,spill,spill,VERB,USA
 J00708585,insulin,shot,shot,shot,NOUN,USA
@@ -2956,14 +2956,14 @@ J00708585,teacup,hold,hold,hold,VERB,USA
 J00708585,teacup,spill,spill,spill,VERB,USA
 J00708585,teacup,crack,crack,crack,VERB,USA
 J00708585,paperweight,drop,drop,drop,VERB,USA
-J00708585,paperweight,put on paper,put,put,VERB,USA
+J00708585,paperweight,put on paper,put,put,AUX,USA
 J00708585,paperweight,put on paper,paper,paper,NOUN,USA
 J00708585,paperweight,hold papers,hold,hold,VERB,USA
 J00708585,paperweight,hold papers,papers,paper,NOUN,USA
 J00708585,dip,eat,eat,eat,VERB,USA
-J00708585,dip,make,make,make,VERB,USA
+J00708585,dip,make,make,make,AUX,USA
 J00708585,dip,spill,spill,spill,VERB,USA
-J00708585,granite,make,make,make,VERB,USA
+J00708585,granite,make,make,make,AUX,USA
 J00708585,granite,counters,counters,counters,NOUN,USA
 J00708585,nose,pick,pick,pick,VERB,USA
 J00708585,nose,blow,blow,blow,VERB,USA
@@ -2971,7 +2971,7 @@ J00708585,sunglasses,wear,wear,wear,VERB,USA
 J00708585,sunglasses,break,break,break,VERB,USA
 J00708585,sunglasses,drop,drop,drop,VERB,USA
 J00708585,sunglasses,lose,lose,lose,VERB,USA
-J00708585,applicator,use on face,use,use,VERB,USA
+J00708585,applicator,use on face,use,use,AUX,USA
 J00708585,applicator,use on face,face,face,NOUN,USA
 J00708585,applicator,makeup ,makeup,makeup,NOUN,USA
 J00709028A.N.,shelter,hide in it,hide,hide,VERB,USA
@@ -2986,18 +2986,18 @@ J00709028A.N.,groundsman,do they ground various minerals?,minerals,mineral,NOUN,
 J00709028A.N.,drug,inject it,inject,inject,VERB,USA
 J00709028A.N.,drug,smoke it,smoke,smoke,VERB,USA
 J00709028A.N.,drug,snort it,snort,snort,VERB,USA
-J00709028A.N.,drug,make it,make,make,VERB,USA
+J00709028A.N.,drug,make it,make,make,AUX,USA
 J00709028A.N.,drug,sell it,sell,sell,VERB,USA
 J00709028A.N.,drug,steal it,steal,steal,VERB,USA
 J00709028A.N.,drug,share it,share,share,VERB,USA
 J00709028A.N.,drug,destroy it,destroy,destroy,VERB,USA
-J00709028A.N.,pantry,put food in it,put,put,VERB,USA
+J00709028A.N.,pantry,put food in it,put,put,AUX,USA
 J00709028A.N.,pantry,put food in it,food,food,NOUN,USA
-J00709028A.N.,pantry,put tools in it,put,put,VERB,USA
+J00709028A.N.,pantry,put tools in it,put,put,AUX,USA
 J00709028A.N.,pantry,put tools in it,tools,tool,NOUN,USA
-J00709028A.N.,pantry,put silverware in it,put,put,VERB,USA
+J00709028A.N.,pantry,put silverware in it,put,put,AUX,USA
 J00709028A.N.,pantry,put silverware in it,silverware,silverware,NOUN,USA
-J00709028A.N.,pantry,put charcoal in it,put,put,VERB,USA
+J00709028A.N.,pantry,put charcoal in it,put,put,AUX,USA
 J00709028A.N.,pantry,put charcoal in it,charcoal,charcoal,NOUN,USA
 J00709028A.N.,fruit,eat it,eat,eat,VERB,USA
 J00709028A.N.,fruit,sell it,sell,sell,VERB,USA
@@ -3011,7 +3011,7 @@ J00709028A.N.,beef,buy it,buy,buy,VERB,USA
 J00709028A.N.,beef,sell it,sell,sell,VERB,USA
 J00709028A.N.,beef,let it rot,let,let,VERB,USA
 J00709028A.N.,beef,let it rot,rot,rot,VERB,USA
-J00709028A.N.,paperback,use for book,use,use,VERB,USA
+J00709028A.N.,paperback,use for book,use,use,AUX,USA
 J00709028A.N.,paperback,use for book,book,book,NOUN,USA
 J00709028A.N.,plum,eat it,eat,eat,VERB,USA
 J00709028A.N.,plum,sell it,sell,sell,VERB,USA
@@ -3035,7 +3035,7 @@ J00709028A.N.,eggplant,crush,crush,crush,VERB,USA
 J00709028A.N.,eggplant,let it rot,let,let,VERB,USA
 J00709028A.N.,eggplant,let it rot,rot,rot,VERB,USA
 J00709028A.N.,avocado,eat,eat,eat,VERB,USA
-J00709028A.N.,avocado,use in other foods,use,use,VERB,USA
+J00709028A.N.,avocado,use in other foods,use,use,AUX,USA
 J00709028A.N.,avocado,use in other foods,foods,food,NOUN,USA
 J00709028A.N.,avocado,buy it,buy,buy,VERB,USA
 J00709028A.N.,avocado,sell it,sell,sell,VERB,USA
@@ -3043,7 +3043,7 @@ J00709028A.N.,avocado,steal it,steal,steal,VERB,USA
 J00709028A.N.,avocado,crush it,crush,crush,VERB,USA
 J00709028A.N.,avocado,let it rot,let,let,VERB,USA
 J00709028A.N.,avocado,let it rot,rot,rot,VERB,USA
-J00709028A.N.,ashcan,put cigarettes in it? is an ashcan an ashtray?,put,put,VERB,USA
+J00709028A.N.,ashcan,put cigarettes in it? is an ashcan an ashtray?,put,put,AUX,USA
 J00709028A.N.,ashcan,put cigarettes in it? is an ashcan an ashtray?,cigarettes,cigarettes,NOUN,USA
 J00709028A.N.,ashcan,put cigarettes in it? is an ashcan an ashtray?,ashcan,ashcan,ADJ,USA
 J00709028A.N.,ashcan,put cigarettes in it? is an ashcan an ashtray?,ashtray,ashtray,INTJ,USA
@@ -3051,7 +3051,7 @@ J00709028A.N.,arrow,shoot it,shoot,shoot,VERB,USA
 J00709028A.N.,arrow,break it,break,break,VERB,USA
 J00709028A.N.,arrow,impale someone with it,impale,impale,VERB,USA
 J00709028A.N.,arrow,impale someone with it,someone,someone,PRON,USA
-J00709028A.N.,arrow,make it,make,make,VERB,USA
+J00709028A.N.,arrow,make it,make,make,AUX,USA
 J00709028A.N.,arrow,buy it,buy,buy,VERB,USA
 J00709028A.N.,arrow,sell it,sell,sell,VERB,USA
 J00709028A.N.,arrow,steal it,steal,steal,VERB,USA
@@ -3059,21 +3059,21 @@ J00709028A.N.,motel,stay in it,stay,stay,VERB,USA
 J00709028A.N.,motel,buy it,buy,buy,VERB,USA
 J00709028A.N.,motel,sell it,sell,sell,VERB,USA
 J00709028A.N.,motel,clean it,clean,clean,VERB,USA
-J00709028A.N.,motel,make it dirty,make,make,VERB,USA
+J00709028A.N.,motel,make it dirty,make,make,AUX,USA
 J00709028A.N.,motel,make it dirty,dirty,dirty,ADJ,USA
 J00709028A.N.,motel,tear it down,tear,tear,VERB,USA
 J00709028A.N.,torchlight,set fire to something with it,set,set,VERB,USA
 J00709028A.N.,torchlight,set fire to something with it,fire,fire,NOUN,USA
 J00709028A.N.,torchlight,set fire to something with it,something,something,PRON,USA
-J00709028A.N.,torchlight,put the flame out,put,put,VERB,USA
+J00709028A.N.,torchlight,put the flame out,put,put out,VERB,USA
 J00709028A.N.,torchlight,put the flame out,flame,flame,NOUN,USA
 J00709028A.N.,torchlight,buy it,buy,buy,VERB,USA
 J00709028A.N.,torchlight,sell it,sell,sell,VERB,USA
-J00709028A.N.,torchlight,make it,make,make,VERB,USA
+J00709028A.N.,torchlight,make it,make,make,AUX,USA
 J00709028A.N.,torchlight,destroy it,destroy,destroy,VERB,USA
 J00709028A.N.,torchlight,steal it,steal,steal,VERB,USA
 J00709028A.N.,body,clean it,clean,clean,VERB,USA
-J00709028A.N.,body,make it dirty,make,make,VERB,USA
+J00709028A.N.,body,make it dirty,make,make,AUX,USA
 J00709028A.N.,body,make it dirty,dirty,dirty,ADJ,USA
 J00709028A.N.,body,heal it,heal,heal,VERB,USA
 J00709028A.N.,body,harm it,harm,harm,VERB,USA
@@ -3095,32 +3095,32 @@ J00709028A.N.,accordion,break it,break,break,VERB,USA
 J00709028A.N.,accordion,buy it,buy,buy,VERB,USA
 J00709028A.N.,accordion,sell it,sell,sell,VERB,USA
 J00709028A.N.,accordion,steal it,steal,steal,VERB,USA
-J00709028A.N.,accordion,make it,make,make,VERB,USA
+J00709028A.N.,accordion,make it,make,make,AUX,USA
 J00709028A.N.,stick,hit someone with it,hit,hit,VERB,USA
 J00709028A.N.,stick,hit someone with it,someone,someone,PRON,USA
 J00709028A.N.,stick,break it,break,break,VERB,USA
 J00709028A.N.,stick,burn it,burn,burn,VERB,USA
-J00709028A.N.,stick,make it,make,make,VERB,USA
+J00709028A.N.,stick,make it,make,make,AUX,USA
 J00709028A.N.,stick,buy it(yardstick),buy,buy,VERB,USA
 J00709028A.N.,stick,buy it(yardstick),yardstick,yardstick,VERB,USA
 J00709028A.N.,roll,eat it,eat,eat,VERB,USA
-J00709028A.N.,roll,make it,make,make,VERB,USA
+J00709028A.N.,roll,make it,make,make,AUX,USA
 J00709028A.N.,roll,bake it,bake,bake,VERB,USA
 J00709028A.N.,roll,crush it,crush,crush,VERB,USA
 J00709028A.N.,roll,buy it,buy,buy,VERB,USA
 J00709028A.N.,roll,sell it,sell,sell,VERB,USA
 J00709028A.N.,roll,steal it,steal,steal,VERB,USA
 J00709028A.N.,case,buy it,buy,buy,VERB,USA
-J00709028A.N.,case,make it,make,make,VERB,USA
+J00709028A.N.,case,make it,make,make,AUX,USA
 J00709028A.N.,case,sell it,sell,sell,VERB,USA
-J00709028A.N.,case,put it on a phone,put,put,VERB,USA
+J00709028A.N.,case,put it on a phone,put,put,AUX,USA
 J00709028A.N.,case,put it on a phone,phone,phone,NOUN,USA
 J00709028A.N.,case,break it,break,break,VERB,USA
 J00709028A.N.,case,steal it,steal,steal,VERB,USA
 J00709028A.N.,creek,swim in it,swim,swim,VERB,USA
 J00709028A.N.,creek,drain it,drain,drain,VERB,USA
 J00709028A.N.,tailcoat,wear it,wear,wear,VERB,USA
-J00709028A.N.,tailcoat,make it,make,make,VERB,USA
+J00709028A.N.,tailcoat,make it,make,make,AUX,USA
 J00709028A.N.,tailcoat,sell it,sell,sell,VERB,USA
 J00709028A.N.,tailcoat,buy it,buy,buy,VERB,USA
 J00709028A.N.,tailcoat,steal it,steal,steal,VERB,USA
@@ -3147,7 +3147,7 @@ J00709237,horse,ride it,ride,ride,VERB,USA
 J00709237,horse,train it,train,train,VERB,USA
 J00709237,horse,feed it,feed,feed,VERB,USA
 J00709237,horse,play with it,play,play,VERB,USA
-J00709237,acrobat,use for circus,use,use,VERB,USA
+J00709237,acrobat,use for circus,use,use,AUX,USA
 J00709237,acrobat,use for circus,circus,circus,NOUN,USA
 J00709237,acrobat,for fun,fun,fun,NOUN,USA
 J00709237,acrobat,entertainment,entertainment,entertain,VERB,USA
@@ -3157,7 +3157,7 @@ J00709237,record,tv show,tv,tv,X,USA
 J00709237,record,tv show,show,show,VERB,USA
 J00709237,record,meetings,meetings,meeting,NOUN,USA
 J00709237,record,dances,dances,dance,VERB,USA
-J00709237,midget,get into small spaces,get,get,VERB,USA
+J00709237,midget,get into small spaces,get,get,AUX,USA
 J00709237,midget,get into small spaces,small,small,ADJ,USA
 J00709237,midget,get into small spaces,spaces,space,NOUN,USA
 J00709237,practitioner,medical providing ,medical,medical,ADJ,USA
@@ -3195,10 +3195,10 @@ J00709237,kleenex,clean wound ,clean,clean,VERB,USA
 J00709237,kleenex,clean wound ,wound,wound,NOUN,USA
 J00709237,nugget,eat it,eat,eat,VERB,USA
 J00709237,moustache,for apperance,appearance,appearance,NOUN,USA
-J00709237,moustache,to keep face warm,keep,keep,VERB,USA
+J00709237,moustache,to keep face warm,keep,keep,AUX,USA
 J00709237,moustache,to keep face warm,face,face,NOUN,USA
 J00709237,moustache,to keep face warm,warm,warm,VERB,USA
-J00709237,ant,make ant hill,make,make,VERB,USA
+J00709237,ant,make ant hill,make,make,AUX,USA
 J00709237,ant,make ant hill,ant,ant,ADJ,USA
 J00709237,ant,make ant hill,hill,hill,ADV,USA
 J00709237,ant,bit people,bit,bit,NOUN,USA
@@ -3240,7 +3240,7 @@ J00709237,physiologist,studies living organisms and their parts,studies,study,VE
 J00709237,physiologist,studies living organisms and their parts,living,live,NOUN,USA
 J00709237,physiologist,studies living organisms and their parts,organisms,organism,NOUN,USA
 J00709237,physiologist,studies living organisms and their parts,parts,part,NOUN,USA
-J00709237,present,used for today ,used,use,VERB,USA
+J00709237,present,used for today ,used,use,AUX,USA
 J00709237,present,used for today ,today,today,NOUN,USA
 J00710132_mku,reindeer,christmas,christmas,christmas,PROPN,USA
 J00710132_mku,reindeer,sleigh,sleigh,sleigh,INTJ,USA
@@ -3303,7 +3303,7 @@ J00710311_tmv,beanstalk,heating up,heating,heat,VERB,USA
 J00710311_tmv,beanstalk,eating,eating,eat,VERB,USA
 J00710311_tmv,beanstalk,gardening ,gardening,garde,VERB,USA
 J00710311_tmv,griddle,cooking,cooking,cook,VERB,USA
-J00710311_tmv,tortilla,making certain dishes,making,make,VERB,USA
+J00710311_tmv,tortilla,making certain dishes,making,make,AUX,USA
 J00710311_tmv,tortilla,making certain dishes,certain,certain,ADJ,USA
 J00710311_tmv,tortilla,making certain dishes,dishes,dish,NOUN,USA
 J00710311_tmv,tortilla,throwing ,throwing,throw,VERB,USA
@@ -3326,14 +3326,14 @@ J00710311_tmv,labrador,entertainment ,entertainment,entertain,VERB,USA
 J00710311_tmv,jaw,chewing,chewing,chew,VERB,USA
 J00710311_tmv,jaw,biting,biting,bite,VERB,USA
 J00710311_tmv,jaw,grinding,grinding,grind,VERB,USA
-J00710311_tmv,gravy,put on foods,put,put,VERB,USA
+J00710311_tmv,gravy,put on foods,put,put,AUX,USA
 J00710311_tmv,gravy,put on foods,foods,food,NOUN,USA
 J00710311_tmv,gravy,drink it,drink,drink,VERB,USA
 J00710311_tmv,gravy,spill it ,spill,spill,VERB,USA
 J00710311_tmv,logbook,organization,organization,organize,VERB,USA
 J00710311_tmv,logbook,record,record,record,VERB,USA
 J00710311_tmv,shower,cleaning,cleaning,clean,VERB,USA
-J00710311_tmv,shower,getting warm,getting,get,VERB,USA
+J00710311_tmv,shower,getting warm,getting,get,AUX,USA
 J00710311_tmv,shower,getting warm,warm,warm,VERB,USA
 J00710311_tmv,shower,washing pets,washing,wash,VERB,USA
 J00710311_tmv,shower,washing pets,pets,pet,NOUN,USA
@@ -3374,7 +3374,7 @@ J00710311_tmv,popcorn,food ,food,food,NOUN,USA
 J00710311_tmv,bellflower,pretty,pretty,pretty,ADV,USA
 J00710311_tmv,bellflower,helps bees ,helps,help,VERB,USA
 J00710311_tmv,bellflower,helps bees ,bees,bee,NOUN,USA
-J00710311_tmv,mandolin,make music,make,make,VERB,USA
+J00710311_tmv,mandolin,make music,make,make,AUX,USA
 J00710311_tmv,mandolin,make music,music,music,NOUN,USA
 J00710311_tmv,mandolin,play it,play,play,VERB,USA
 J00710311_tmv,mandolin,relaxation,relaxation,relax,VERB,USA
@@ -3385,11 +3385,11 @@ J00710311_tmv,phonograph,cause dancing ,cause,cause,NOUN,USA
 J00710311_tmv,phonograph,cause dancing ,dancing,dance,VERB,USA
 J00710311_tmv,anklet,wearable,wearable,wear,VERB,USA
 J00710311_tmv,anklet,decorative ,decorative,decorate,VERB,USA
-J00710311_tmv,pinwheel,make noise,make,make,VERB,USA
+J00710311_tmv,pinwheel,make noise,make,make,AUX,USA
 J00710311_tmv,pinwheel,make noise,noise,noise,NOUN,USA
 J00710311_tmv,pinwheel,hold raffles,hold,hold,VERB,USA
 J00710311_tmv,pinwheel,hold raffles,raffles,raffle,VERB,USA
-J00710311_tmv,pinwheel,make decisions ,make,make,VERB,USA
+J00710311_tmv,pinwheel,make decisions ,make,make,AUX,USA
 J00710311_tmv,pinwheel,make decisions ,decisions,decide,VERB,USA
 J00711068IR,lapdog,pet,pet,pet,VERB,USA
 J00711068IR,lapdog,rub,rub,rub,VERB,USA
@@ -3415,9 +3415,9 @@ J00711068IR,tuxedo,rent it,rent,rent,VERB,USA
 J00711068IR,tuxedo,store,store,store,VERB,USA
 J00711068IR,horn,blow,blow,blow,VERB,USA
 J00711068IR,horn,play,play,play,VERB,USA
-J00711068IR,masseuse,get hired,get,get,VERB,USA
+J00711068IR,masseuse,get hired,get,get,AUX,USA
 J00711068IR,masseuse,get hired,hired,hi,VERB,USA
-J00711068IR,masseuse,get massaged,get,get,VERB,USA
+J00711068IR,masseuse,get massaged,get,get,AUX,USA
 J00711068IR,masseuse,get massaged,massaged,massage,VERB,USA
 J00711068IR,masseuse,pay,pay,pay,VERB,USA
 J00711068IR,shrub,cut,cut,cut,VERB,USA
@@ -3486,7 +3486,7 @@ J00711068IR,yacht,buy,buy,buy,VERB,USA
 J00711068IR,yacht,crash,crash,crash,VERB,USA
 J00711068IR,yacht,sell,sell,sell,VERB,USA
 J00711068IR,mosquito,kill,kill,kill,VERB,USA
-J00711068IR,mosquito,get bitten,get,get,VERB,USA
+J00711068IR,mosquito,get bitten,get,get,AUX,USA
 J00711068IR,mosquito,get bitten,bitten,bite,ADV,USA
 J00711068IR,mosquito,breed,breed,breed,VERB,USA
 J00711068IR,mosquito,feed,feed,feed,VERB,USA
@@ -3515,7 +3515,7 @@ J00711239_AN,cigarette,flicked,flicked,flick,VERB,USA
 J00711239_AN,cigarette,thrown,thrown,throw,VERB,USA
 J00711239_AN,cigarette,inhaled,inhaled,inhal,VERB,USA
 J00711239_AN,cigarette,lit,lit,light,VERB,USA
-J00711239_AN,cigarette,put out,put,put,VERB,USA
+J00711239_AN,cigarette,put out,put,put out,VERB,USA
 J00711239_AN,bully,hit,hit,hit,VERB,USA
 J00711239_AN,bully,depreciate,depreciate,depreciate,VERB,USA
 J00711239_AN,pretzel,eaten,eaten,eat,VERB,USA
@@ -3537,11 +3537,11 @@ J00711239_AN,bonnet,protects hair,protects,protect,VERB,USA
 J00711239_AN,bonnet,protects hair,hair,hair,NOUN,USA
 J00711239_AN,kiss,show affection,show,show,VERB,USA
 J00711239_AN,kiss,show affection,affection,affection,NOUN,USA
-J00711239_AN,colleague,make connections,make,make,VERB,USA
+J00711239_AN,colleague,make connections,make,make,AUX,USA
 J00711239_AN,colleague,make connections,connections,connect,VERB,USA
 J00711239_AN,colleague,learn from,learn,learn,VERB,USA
 J00711239_AN,colleague,help,help,help,VERB,USA
-J00711239_AN,windsock,used to indicate wind speed and direction,used,use,VERB,USA
+J00711239_AN,windsock,used to indicate wind speed and direction,used,use,AUX,USA
 J00711239_AN,windsock,used to indicate wind speed and direction,indicate,indicate,VERB,USA
 J00711239_AN,windsock,used to indicate wind speed and direction,wind,wind,NOUN,USA
 J00711239_AN,windsock,used to indicate wind speed and direction,speed,speed,NOUN,USA
@@ -3573,22 +3573,22 @@ J00711239_AN,turkey,frozen,frozen,freeze,VERB,USA
 J00711239_AN,sugarcane,planted,planted,plan,VERB,USA
 J00711239_AN,sugarcane,grown,grown,grow,VERB,USA
 J00711239_AN,sugarcane,cut,cut,cut,VERB,USA
-J00711239_AN,sugarcane,used to produce sugar,used,use,VERB,USA
+J00711239_AN,sugarcane,used to produce sugar,used,use,AUX,USA
 J00711239_AN,sugarcane,used to produce sugar,produce,produce,VERB,USA
 J00711239_AN,sugarcane,used to produce sugar,sugar,sugar,NOUN,USA
 J00711239_AN,sugarcane,fertilized,fertilized,fertilize,VERB,USA
 J00711239_AN,mirror,see your reflection,see,see,VERB,USA
 J00711239_AN,mirror,see your reflection,reflection,reflect,VERB,USA
 J00711239_AN,mirror,cleaned,cleaned,clean,VERB,USA
-J00711239_AN,goddaughter,no use,use,use,VERB,USA
-J00711239_AN,gymnast,get advice from,get,get,VERB,USA
+J00711239_AN,goddaughter,no use,use,use,AUX,USA
+J00711239_AN,gymnast,get advice from,get,get,AUX,USA
 J00711239_AN,gymnast,get advice from,advice,advice,NOUN,USA
 J00711239_AN,gymnast,work with,work,work,VERB,USA
 J00711239_AN,ribbon,tied,tied,tie,VERB,USA
 J00711239_AN,ribbon,cut,cut,cut,VERB,USA
 J00711239_AN,limeade,drink,drink,drink,VERB,USA
-J00711239_AN,limeade,made,made,make,VERB,USA
-J00711239_AN,silverware,used to eat,used,use,VERB,USA
+J00711239_AN,limeade,made,made,make,AUX,USA
+J00711239_AN,silverware,used to eat,used,use,AUX,USA
 J00711239_AN,silverware,used to eat,eat,eat,VERB,USA
 J00711239_AN,silverware,cut food,cut,cut,VERB,USA
 J00711239_AN,silverware,cut food,food,food,NOUN,USA
@@ -3603,8 +3603,8 @@ J00711239_AN,plantain,cut,cut,cut,VERB,USA
 J00711239_AN,plantain,grown,grown,grow,VERB,USA
 J00711239_AN,plantain,planted,planted,plan,VERB,USA
 J00711239_AN,mousse,eaten,eaten,eat,VERB,USA
-J00711239_AN,mousse,made,made,make,VERB,USA
-J00711239_AN,rug,keep floor clean,keep,keep,VERB,USA
+J00711239_AN,mousse,made,made,make,AUX,USA
+J00711239_AN,rug,keep floor clean,keep,keep,AUX,USA
 J00711239_AN,rug,keep floor clean,floor,floor,NOUN,USA
 J00711239_AN,rug,keep floor clean,clean,clean,VERB,USA
 J00711239_AN,rug,warmer than hold floors,warmer,warm,VERB,USA
@@ -3726,7 +3726,7 @@ J00712371_CJV,spyglass,break,break,break,VERB,USA
 J00712371_CJV,spyglass,hold,hold,hold,VERB,USA
 J00712371_CJV,spyglass,transport,transport,transport,VERB,USA
 J00712371_CJV,hosiery,hold,hold,hold,VERB,USA
-J00712371_CJV,hosiery,put on,put,put,VERB,USA
+J00712371_CJV,hosiery,put on,put,wear,VERB,USA
 J00712371_CJV,hosiery,buy,buy,buy,VERB,USA
 J00712371_CJV,mint,harvest,harvest,harvest,VERB,USA
 J00712371_CJV,mint,grow,grow,grow,VERB,USA
@@ -3823,7 +3823,7 @@ j00713029kel,pitcher,break,break,break,VERB,USA
 j00713029kel,pitcher,clean,clean,clean,VERB,USA
 j00713029kel,pony,ride,ride,ride,VERB,USA
 j00713029kel,pony,clean,clean,clean,VERB,USA
-j00713029kel,cashier,use,use,use,VERB,USA
+j00713029kel,cashier,use,use,use,AUX,USA
 j00713029kel,cashier,clean,clean,clean,VERB,USA
 j00713029kel,cashier,break,break,break,VERB,USA
 j00713029kel,cashier,steal,steal,steal,VERB,USA
@@ -3840,7 +3840,7 @@ j00713029kel,dinnerware,break,break,break,VERB,USA
 j00713029kel,dinnerware,clean,clean,clean,VERB,USA
 j00713029kel,politician,watch,watch,watch,VERB,USA
 j00713029kel,politician,listen,listen,listen,VERB,USA
-j00713029kel,machine,use,use,use,VERB,USA
+j00713029kel,machine,use,use,use,AUX,USA
 j00713029kel,machine,break,break,break,VERB,USA
 j00713029kel,machine,clean,clean,clean,VERB,USA
 j00713029kel,custodian,pay,pay,pay,VERB,USA
@@ -3873,7 +3873,7 @@ j00713029kel,Taco,eat,eat,eat,VERB,USA
 j00713029kel,Taco,break,break,break,VERB,USA
 j00713029kel,Taco,share,share,share,VERB,USA
 j00713029kel,guidebook,read,read,read,VERB,USA
-j00713029kel,guidebook,use,use,use,VERB,USA
+j00713029kel,guidebook,use,use,use,AUX,USA
 j00713029kel,glider,glide,glide,glide,VERB,USA
 j00713029kel,gadget,fidget,fidget,fidget,VERB,USA
 j00713029kel,gadget,throw,throw,throw,VERB,USA
@@ -3881,14 +3881,14 @@ j00713029kel,cross,street,street,street,NOUN,USA
 j00713029kel,cross,walk,walk,walk,VERB,USA
 j00713029kel,cross,run,run,run,VERB,USA
 J007134211_ecm,stepladder,step on,step,step,VERB,USA
-J007134211_ecm,stepladder,put away,put,put,VERB,USA
+J007134211_ecm,stepladder,put away,put,put away,VERB,USA
 J007134211_ecm,stepladder,put away,away,away,ADV,USA
 J007134211_ecm,buddy,hang out with,hang,hang,VERB,USA
 J007134211_ecm,buddy,talk to,talk,talk,VERB,USA
 J007134211_ecm,instructor,teach,teach,teach,VERB,USA
 J007134211_ecm,instructor,talk to,talk,talk,VERB,USA
 J007134211_ecm,oilcloth,clean with ,clean,clean,VERB,USA
-J007134211_ecm,neurologist,get an exam,get,get,VERB,USA
+J007134211_ecm,neurologist,get an exam,get,get,AUX,USA
 J007134211_ecm,neurologist,get an exam,exam,examine,VERB,USA
 J007134211_ecm,neurologist,concult,na,to,PART,USA
 J007134211_ecm,pastry,eat,eat,eat,VERB,USA
@@ -3920,18 +3920,18 @@ J007134211_ecm,firewood,smell in,smell,smell,VERB,USA
 J007134211_ecm,firewood,cut it ,cut,cut,VERB,USA
 J007134211_ecm,garage,throw away,throw,throw,VERB,USA
 J007134211_ecm,garage,throw away,away,away,ADV,USA
-J007134211_ecm,garage,put something in it,put,put,VERB,USA
+J007134211_ecm,garage,put something in it,put,put,AUX,USA
 J007134211_ecm,garage,put something in it,something,something,PRON,USA
 J007134211_ecm,smock,wear it,wear,wear,VERB,USA
-J007134211_ecm,tambourine,go through it ,go,go,VERB,USA
+J007134211_ecm,tambourine,go through it ,go,go,AUX,USA
 J007134211_ecm,flapjack,eat it,eat,eat,VERB,USA
 J007134211_ecm,flapjack,cook it ,cook,cake,VERB,USA
 J007134211_ecm,obstetrician,concult,na,to,PART,USA
 J007134211_ecm,poinsettia,cook,cook,cake,VERB,USA
 J007134211_ecm,seedling,plnt,plant,plant,VERB,USA
 J007134211_ecm,jam,eat it,eat,eat,VERB,USA
-J007134211_ecm,jam,make it ,make,make,VERB,USA
-J007134211_ecm,craftsman,make something,make,make,VERB,USA
+J007134211_ecm,jam,make it ,make,make,AUX,USA
+J007134211_ecm,craftsman,make something,make,make,AUX,USA
 J007134211_ecm,craftsman,make something,something,something,PRON,USA
 J007134211_ecm,craftsman,sell,sell,sell,VERB,USA
 J007134211_ecm,breasts,cook them,cook,cake,VERB,USA
@@ -3964,22 +3964,22 @@ J00714015,cream,cooking,cooking,cook,VERB,USA
 J00714015,watch,tell time,tell,tell,VERB,USA
 J00714015,watch,tell time,time,time,NOUN,USA
 J00714015,farmhand,help ,help,help,VERB,USA
-J00714015,toboggan,keep warm,keep,keep,VERB,USA
+J00714015,toboggan,keep warm,keep,keep,AUX,USA
 J00714015,toboggan,keep warm,warm,warm,VERB,USA
 J00714015,encyclopedia,for knowledge ,knowledge,knowledge,NOUN,USA
 J00714015,partner,help ,help,help,VERB,USA
-J00714015,Toilet,using the restroom ,using,use,VERB,USA
+J00714015,Toilet,using the restroom ,using,use,AUX,USA
 J00714015,Toilet,using the restroom ,restroom,restroom,NOUN,USA
 J00714015,caseworker,helps,helps,help,VERB,USA
 J00714015,workbook,school,school,school,NOUN,USA
 J00714015,workbook,work ,work,work,NOUN,USA
 J00714015,receipt,shows charges ,shows,show,NOUN,USA
 J00714015,receipt,shows charges ,charges,charge,VERB,USA
-J00714015,lint,get off clothing ,get,get,VERB,USA
+J00714015,lint,get off clothing ,get,get,AUX,USA
 J00714015,lint,get off clothing ,clothing,clothing,NOUN,USA
 J00714015,goat,milk,milk,milk,NOUN,USA
 J00714015,goat,cheese ,cheese,cheese,NOUN,USA
-J00714015,patrolman,keep people safe,keep,keep,VERB,USA
+J00714015,patrolman,keep people safe,keep,keep,AUX,USA
 J00714015,patrolman,keep people safe,people,people,NOUN,USA
 J00714015,patrolman,keep people safe,safe,safe,ADJ,USA
 J00714015,patrolman,direct traffic ,direct,direct,ADJ,USA
@@ -4046,7 +4046,7 @@ J00714505,committeewoman,present issues,issues,issue,NOUN,USA
 J00714505,me,eat,eat,eat,VERB,USA
 J00714505,me,sleep,sleep,sleep,VERB,USA
 J00714505,me,drink,drink,drink,VERB,USA
-J00714505,me,go to class,go,go,VERB,USA
+J00714505,me,go to class,go,go,AUX,USA
 J00714505,me,go to class,class,class,NOUN,USA
 J00714505,me,drive around,drive,drive,VERB,USA
 J00714505,me,drive around,around,around,ADV,USA
@@ -4069,7 +4069,7 @@ J00715181_sba,poker,win,win,win,VERB,USA
 J00715181_sba,poker,lose ,lose,lose,VERB,USA
 J00715181_sba,garnets,wear,wear,wear,VERB,USA
 J00715181_sba,garnets,tear,tear,tear,VERB,USA
-J00715181_sba,garnets,put on ,put,put,VERB,USA
+J00715181_sba,garnets,put on ,put,wear,VERB,USA
 J00715181_sba,padding,wear,wear,wear,VERB,USA
 J00715181_sba,padding,safety,safety,safety,VERB,USA
 J00715181_sba,padding,comfort,comfort,comfort,VERB,USA
@@ -4116,22 +4116,22 @@ J00715181_sba,wreath,smell,smell,smell,VERB,USA
 J00715181_sba,swing,play,play,play,VERB,USA
 J00715181_sba,swing,relax,relax,relax,VERB,USA
 J00715181_sba,swing,push,push,push,VERB,USA
-J00715181_sba,tissue,use,use,use,VERB,USA
+J00715181_sba,tissue,use,use,use,AUX,USA
 J00715181_sba,tissue,clean,clean,clean,VERB,USA
 J00715181_sba,groin,pull,pull,pull,VERB,USA
 J00715181_sba,groin,workout,workout,workout,VERB,USA
 J00715181_sba,teahouse,clean,clean,clean,VERB,USA
 J00715181_sba,teahouse,drink tea,drink,drink,VERB,USA
 J00715181_sba,teahouse,drink tea,tea,tea,NOUN,USA
-J00715181_sba,vacuum,use,use,use,VERB,USA
+J00715181_sba,vacuum,use,use,use,AUX,USA
 J00715181_sba,vacuum,clean,clean,clean,VERB,USA
 J00715181_sba,vacuum,replace,replace,replace,VERB,USA
 J00715181_sba,smoothie,drink,drink,drink,VERB,USA
-J00715181_sba,smoothie,make,make,make,VERB,USA
+J00715181_sba,smoothie,make,make,make,AUX,USA
 J00715181_sba,smoothie,taste,taste,taste,VERB,USA
 J00715181_sba,smoothie,prepare ,prepare,prepare,VERB,USA
 J00715181_sba,sangria,drink,drink,drink,VERB,USA
-J00715181_sba,sangria,make,make,make,VERB,USA
+J00715181_sba,sangria,make,make,make,AUX,USA
 J00715181_sba,mule,ride,ride,ride,VERB,USA
 J00715181_sba,mule,raise,raise,raise,VERB,USA
 J00715181_sba,mule,pet,pet,pet,NOUN,USA
@@ -4142,7 +4142,7 @@ J00715181_sba,spokesman,learn,learn,learn,VERB,USA
 J00715181_sba,sweatshirt,wear,wear,wear,VERB,USA
 J00715181_sba,sweatshirt,clean,clean,clean,VERB,USA
 J00715181_sba,sweatshirt,share,share,share,VERB,USA
-J00715181_sba,sweatshirt,make,make,make,VERB,USA
+J00715181_sba,sweatshirt,make,make,make,AUX,USA
 J00715181_sba,cellist,listen to,listen,listen,VERB,USA
 J00715181_sba,cellist,play,play,play,VERB,USA
 J00715181_sba,cellist,perform,perform,perform,VERB,USA
@@ -4153,16 +4153,16 @@ J00715181_sba,bill,pay,pay,pay,VERB,USA
 J00715181_sba,bill,pass,pass,pass,VERB,USA
 J00715181_sba,bill,force ,force,force,NOUN,USA
 J00715181_sba,typewriter,type,type,type,VERB,USA
-J00715181_sba,typewriter,use,use,use,VERB,USA
+J00715181_sba,typewriter,use,use,use,AUX,USA
 J00715181_sba,typewriter,clean,clean,clean,VERB,USA
 J00715181_sba,typewriter,listen,listen,listen,VERB,USA
 J00715181_sba,fruitcake,eat,eat,eat,VERB,USA
-J00715181_sba,fruitcake,make,make,make,VERB,USA
+J00715181_sba,fruitcake,make,make,make,AUX,USA
 J00715181_sba,fruitcake,throw away,throw,throw,VERB,USA
 J00715181_sba,fruitcake,throw away,away,away,ADV,USA
 J00715181_sba,fruitcake,smell,smell,smell,VERB,USA
 J00715181_sba,workbox,organize,organize,organize,VERB,USA
-J00715181_sba,workbox,put stuff in,put,put,VERB,USA
+J00715181_sba,workbox,put stuff in,put,put,AUX,USA
 J00715181_sba,workbox,put stuff in,stuff,stuff,NOUN,USA
 J00715696AC,cosmetician,makeup,makeup,makeup,NOUN,USA
 J00715696AC,cosmetician,events,events,event,NOUN,USA
@@ -4229,7 +4229,7 @@ J00715836_FL,viewfinder,picture,picture,picture,NOUN,USA
 J00715836_FL,harpist,music,music,music,NOUN,USA
 J00715836_FL,manhole,work,work,work,VERB,USA
 J00715836_FL,tote,carry,carry,carry,VERB,USA
-J00715836_FL,ceramic,make,make,make,VERB,USA
+J00715836_FL,ceramic,make,make,make,AUX,USA
 J00715836_FL,ceramic,dish,dish,dish,NOUN,USA
 J00715836_FL,ceramic,kiln,kiln,kiln,NOUN,USA
 J00715836_FL,traveler,explore,explore,explore,VERB,USA
@@ -4271,7 +4271,7 @@ J00715903_SB,hedgehog,throw,throw,throw,VERB,USA
 J00715903_SB,cheesecloth,cooked,cooked,cook,VERB,USA
 J00715903_SB,cheesecloth,ate,ate,eat,VERB,USA
 J00715903_SB,cheesecloth,grinder,grinder,grinder,NOUN,USA
-J00715903_SB,cheesecloth,used as seasoning,used,use,VERB,USA
+J00715903_SB,cheesecloth,used as seasoning,used,use,AUX,USA
 J00715903_SB,cheesecloth,used as seasoning,seasoning,season,VERB,USA
 J00715903_SB,leggings,to wear,wear,wear,VERB,USA
 J00715903_SB,leggings,thrown away,thrown,throw,VERB,USA
@@ -4284,17 +4284,17 @@ J00715903_SB,Sleeve,rolled,rolled,roll,VERB,USA
 J00715903_SB,Sleeve,stretched,stretched,stretch,VERB,USA
 J00715903_SB,headgear,wear it,wear,wear,VERB,USA
 J00715903_SB,headgear,donate it,donate,donate,VERB,USA
-J00715903_SB,torch,put out,put,put,VERB,USA
+J00715903_SB,torch,put out,put,put out,VERB,USA
 J00715903_SB,cereal,ate,ate,eat,VERB,USA
 J00715903_SB,cereal,spilled,spilled,spill,VERB,USA
 J00715903_SB,cereal,spoiled,spoiled,spoil,VERB,USA
-J00715903_SB,dipstick,used,used,use,VERB,USA
+J00715903_SB,dipstick,used,used,use,AUX,USA
 J00715903_SB,sequin,decorated,decorated,decorate,VERB,USA
 J00715903_SB,saw,cutting materials ,cutting,cut,VERB,USA
 J00715903_SB,saw,cutting materials ,materials,materials,NOUN,USA
-J00715903_SB,dwelling,used for emotion,used,use,VERB,USA
+J00715903_SB,dwelling,used for emotion,used,use,AUX,USA
 J00715903_SB,dwelling,used for emotion,emotion,emotion,NOUN,USA
-J00715903_SB,jewelry,used for style and decoration,used,use,VERB,USA
+J00715903_SB,jewelry,used for style and decoration,used,use,AUX,USA
 J00715903_SB,jewelry,used for style and decoration,style,style,NOUN,USA
 J00715903_SB,jewelry,used for style and decoration,decoration,decorate,VERB,USA
 J00715903_SB,spider,steeped on ,steeped,steep,VERB,USA
@@ -4302,13 +4302,13 @@ J00715903_SB,deer,hit by a car at night,hit,hit,VERB,USA
 J00715903_SB,deer,hit by a car at night,car,car,NOUN,USA
 J00715903_SB,deer,hit by a car at night,night,night,NOUN,USA
 J00715903_SB,peach,ate ,ate,eat,VERB,USA
-J00715903_SB,laboratory,used from chemistry,used,use,VERB,USA
+J00715903_SB,laboratory,used from chemistry,used,use,AUX,USA
 J00715903_SB,laboratory,used from chemistry,chemistry,chemistry,VERB,USA
-J00715903_SB,playhouse,used for enjoyment,used,use,VERB,USA
+J00715903_SB,playhouse,used for enjoyment,used,use,AUX,USA
 J00715903_SB,playhouse,used for enjoyment,enjoyment,enjoy,VERB,USA
-J00715903_SB,kitchenette,used for kitchen\,used,use,VERB,USA
+J00715903_SB,kitchenette,used for kitchen\,used,use,AUX,USA
 J00715903_SB,kitchenette,used for kitchen\,kitchen,kitchen,NOUN,USA
-J00715903_SB,barbecue,used on meat,used,use,VERB,USA
+J00715903_SB,barbecue,used on meat,used,use,AUX,USA
 J00715903_SB,barbecue,used on meat,meat,meat,NOUN,USA
 J00715903_SB,barbecue,a place for a family gathering ,place,place,NOUN,USA
 J00715903_SB,barbecue,a place for a family gathering ,family,family,NOUN,USA
@@ -4318,11 +4318,11 @@ J00715903_SB,knee,bend,bend,bend,VERB,USA
 J00715903_SB,knee,extended,extended,extend,VERB,USA
 J00715903_SB,knee,stretched,stretched,stretch,VERB,USA
 J00715903_SB,sandalwood,reduced aging,reduced,reduce,VERB,USA
-J00715903_SB,sandalwood,reduced aging,aging,a,VERB,USA
+J00715903_SB,sandalwood,reduced aging,aging,age,NOUN,USA
 J00715903_SB,bag,ripped,ripped,rip,VERB,USA
 J00715903_SB,bag,broken,broken,break,VERB,USA
 J00715903_SB,bag,totaed,toted,tote,VERB,USA
-J00715903_SB,peroxide,used for cuts,used,use,VERB,USA
+J00715903_SB,peroxide,used for cuts,used,use,AUX,USA
 J00715903_SB,peroxide,used for cuts,cuts,cut,VERB,USA
 J00715903_SB,velvet,could be on cakes,cakes,cake,NOUN,USA
 J00715906_ZAB,cherry,eat,eat,eat,VERB,USA
@@ -4336,12 +4336,12 @@ J00715906_ZAB,lingerie,to show off,show,show,VERB,USA
 J00715906_ZAB,skin,to provide a layer of protection,provide,provide,VERB,USA
 J00715906_ZAB,skin,to provide a layer of protection,layer,layer,NOUN,USA
 J00715906_ZAB,skin,to provide a layer of protection,protection,protect,VERB,USA
-J00715906_ZAB,mothball,keep away predators,keep,keep,VERB,USA
+J00715906_ZAB,mothball,keep away predators,keep,keep,AUX,USA
 J00715906_ZAB,mothball,keep away predators,away,away,ADV,USA
 J00715906_ZAB,mothball,keep away predators,predators,predator,NOUN,USA
 J00715906_ZAB,daiquiri,to drink,drink,drink,VERB,USA
 J00715906_ZAB,daiquiri,to party ,party,party,VERB,USA
-J00715906_ZAB,Grasshopper,to keep other bugs under control,keep,keep,VERB,USA
+J00715906_ZAB,Grasshopper,to keep other bugs under control,keep,keep,AUX,USA
 J00715906_ZAB,Grasshopper,to keep other bugs under control,bugs,bug,NOUN,USA
 J00715906_ZAB,Grasshopper,to keep other bugs under control,control,control,VERB,USA
 J00715906_ZAB,vermicelli,to eat,eat,eat,VERB,USA
@@ -4356,7 +4356,7 @@ J00715906_ZAB,apricot,to provide nutrients,provide,provide,VERB,USA
 J00715906_ZAB,apricot,to provide nutrients,nutrients,nutrient,NOUN,USA
 J00715906_ZAB,gambler,to learn strategy,learn,learn,VERB,USA
 J00715906_ZAB,gambler,to learn strategy,strategy,strategy,NOUN,USA
-J00715906_ZAB,receipts,to keep track of expenses,keep,keep,VERB,USA
+J00715906_ZAB,receipts,to keep track of expenses,keep,keep,AUX,USA
 J00715906_ZAB,receipts,to keep track of expenses,track,track,VERB,USA
 J00715906_ZAB,receipts,to keep track of expenses,expenses,expense,NOUN,USA
 J00715906_ZAB,housekeeper,to clean,clean,clean,VERB,USA
@@ -4378,11 +4378,11 @@ J00715906_ZAB,electronics,to connect with others,others,other,NOUN,USA
 J00715906_ZAB,subway,to travel,travel,travel,NOUN,USA
 J00715906_ZAB,fondue,to top foods,top,top,ADJ,USA
 J00715906_ZAB,fondue,to top foods,foods,food,NOUN,USA
-J00715906_ZAB,fondue,to use as a dip,use,use,VERB,USA
+J00715906_ZAB,fondue,to use as a dip,use,use,AUX,USA
 J00715906_ZAB,fondue,to use as a dip,dip,dip,VERB,USA
 J00715906_ZAB,bum,to sit on,sit,sit,VERB,USA
 J00715906_ZAB,bum,to shake ,shake,shake,VERB,USA
-J00715906_ZAB,bunkmate,to make a friend,make,make,VERB,USA
+J00715906_ZAB,bunkmate,to make a friend,make,make,AUX,USA
 J00715906_ZAB,bunkmate,to make a friend,friend,friend,NOUN,USA
 J00715906_ZAB,bunkmate,to share a space,share,share,VERB,USA
 J00715906_ZAB,bunkmate,to share a space,space,space,NOUN,USA
@@ -4399,7 +4399,7 @@ J00715906_ZAB,fridge,to store drinks,store,store,VERB,USA
 J00715906_ZAB,fridge,to store drinks,drinks,drink,VERB,USA
 J00715906_ZAB,fridge,to store medicines,store,store,VERB,USA
 J00715906_ZAB,fridge,to store medicines,medicines,medicine,NOUN,USA
-J00715906_ZAB,marshmallow,to make s'mores,make,make,VERB,USA
+J00715906_ZAB,marshmallow,to make s'mores,make,make,AUX,USA
 J00715906_ZAB,marshmallow,to make s'mores,smores,smores,NOUN,USA
 J00715906_ZAB,marshmallow,to top hot chocolate,top,top,ADJ,USA
 J00715906_ZAB,marshmallow,to top hot chocolate,hot,hot,ADJ,USA
@@ -4517,25 +4517,25 @@ J00716080_saf,bath,clean an object,clean,clean,VERB,USA
 J00716080_saf,bath,clean an object,object,object,ADV,USA
 J00716080_saf,bath,clean your pet,clean,clean,VERB,USA
 J00716080_saf,bath,clean your pet,pet,pet,NOUN,USA
-J00716080_saf,concrete,make pavements,make,make,VERB,USA
+J00716080_saf,concrete,make pavements,make,make,AUX,USA
 J00716080_saf,concrete,make pavements,pavements,pavement,NOUN,USA
-J00716080_saf,concrete,make sidewalks/roads,make,make,VERB,USA
+J00716080_saf,concrete,make sidewalks/roads,make,make,AUX,USA
 J00716080_saf,concrete,make sidewalks/roads,sidewalks,sidewalk,NOUN,USA
 J00716080_saf,concrete,make sidewalks/roads,roads,road,VERB,USA
-J00716080_saf,concrete,make statues,make,make,VERB,USA
+J00716080_saf,concrete,make statues,make,make,AUX,USA
 J00716080_saf,concrete,make statues,statues,statue,NOUN,USA
 J00716080_saf,concrete,support buildings,support,support,VERB,USA
 J00716080_saf,concrete,support buildings,buildings,building,NOUN,USA
-J00716080_saf,concrete,make pool,make,make,VERB,USA
+J00716080_saf,concrete,make pool,make,make,AUX,USA
 J00716080_saf,concrete,make pool,pool,pool,VERB,USA
-J00716080_saf,concrete,make a mold,make,make,VERB,USA
+J00716080_saf,concrete,make a mold,make,make,AUX,USA
 J00716080_saf,concrete,make a mold,mold,mold,VERB,USA
 J00716080_saf,handclap,applaud,applaud,applaud,VERB,USA
-J00716080_saf,handclap,get attention,get,get,VERB,USA
+J00716080_saf,handclap,get attention,get,get,AUX,USA
 J00716080_saf,handclap,get attention,attention,attention,NOUN,USA
 J00716080_saf,handclap,scare someone,scare,scare,VERB,USA
 J00716080_saf,handclap,scare someone,someone,someone,PRON,USA
-J00716080_saf,noodles,make them,make,make,VERB,USA
+J00716080_saf,noodles,make them,make,make,AUX,USA
 J00716080_saf,noodles,eat them/digest them,eat,eat,VERB,USA
 J00716080_saf,noodles,eat them/digest them,digest,digest,VERB,USA
 J00716080_saf,noodles,throw them at a wall,throw,throw,VERB,USA
@@ -4554,7 +4554,7 @@ J00716080_saf,clips,hold hair,hold,hold,VERB,USA
 J00716080_saf,clips,hold hair,hair,hair,NOUN,USA
 J00716080_saf,clips,cut hair,cut,cut,VERB,USA
 J00716080_saf,clips,cut hair,hair,hair,NOUN,USA
-J00716080_saf,clips,make film,make,make,VERB,USA
+J00716080_saf,clips,make film,make,make,AUX,USA
 J00716080_saf,clips,make film,film,film,NOUN,USA
 J00716080_saf,package,be opened,opened,open,VERB,USA
 J00716080_saf,package,closed,closed,close,VERB,USA
@@ -4597,7 +4597,7 @@ J00716080_saf,athlete,beat records,records,record,VERB,USA
 J00716080_saf,athlete,do physical activities,physical,physical,ADJ,USA
 J00716080_saf,athlete,do physical activities,activities,activity,NOUN,USA
 J00716080_saf,candy,eaten,eaten,eat,VERB,USA
-J00716080_saf,candy,used for decoration,used,use,VERB,USA
+J00716080_saf,candy,used for decoration,used,use,AUX,USA
 J00716080_saf,candy,used for decoration,decoration,decorate,VERB,USA
 J00716080_saf,candy,persuasion,persuasion,persuade,VERB,USA
 J00716080_saf,candy,gifted,gifted,gift,VERB,USA
@@ -4634,12 +4634,12 @@ J00716080_saf,hug,non-verbal communication,communication,communicate,VERB,USA
 J00716080_saf,toga,worn for a party/event,worn,wear,VERB,USA
 J00716080_saf,toga,worn for a party/event,party,party,VERB,USA
 J00716080_saf,toga,worn for a party/event,event,event,NOUN,USA
-J00716080_saf,toga,put on art,put,put,VERB,USA
+J00716080_saf,toga,put on art,put,put,AUX,USA
 J00716080_saf,toga,put on art,art,art,NOUN,USA
 J00717191IFP,newsstand,look,look,look,VERB,USA
 J00717191IFP,newsstand,take,take,take,VERB,USA
 J00717191IFP,newsstand,read,read,read,VERB,USA
-J00717191IFP,teapot,make tea,make,make,VERB,USA
+J00717191IFP,teapot,make tea,make,make,AUX,USA
 J00717191IFP,teapot,make tea,tea,tea,NOUN,USA
 J00717191IFP,teapot,drink,drink,drink,VERB,USA
 J00717191IFP,pooch,hold,hold,hold,VERB,USA
@@ -4734,9 +4734,9 @@ J00717191IFP,restaurant,order,order,order,VERB,USA
 J00717191IFP,restaurant,decorate,decorate,decorate,VERB,USA
 J00717191IFP,thermometer,take temp,take,take,VERB,USA
 J00717191IFP,thermometer,take temp,temp,temp,NOUN,USA
-J00717191IFP,thermometer,put away,put,put,VERB,USA
+J00717191IFP,thermometer,put away,put,put,AUX,USA
 J00717191IFP,thermometer,put away,away,throw away,VERB,USA
-J00717191IFP,tongs,use to cook,use,use,VERB,USA
+J00717191IFP,tongs,use to cook,use,use,AUX,USA
 J00717191IFP,tongs,use to cook,cook,cake,VERB,USA
 J00717191IFP,tongs,eat,eat,eat,VERB,USA
 J00717191IFP,tongs,grill,grill,grill,NOUN,USA
@@ -4836,7 +4836,7 @@ J00717956_cab,coal,given as a gift,gift,gift,VERB,USA
 J00717956_cab,coal,ignite it,ignite,ignite,VERB,USA
 J00717956_cab,genital,touch it,touch,touch,VERB,USA
 J00717956_cab,genital,suck it,suck,suck,VERB,USA
-J00717956_cab,genital,use the bathroom from it,use,use,VERB,USA
+J00717956_cab,genital,use the bathroom from it,use,use,AUX,USA
 J00717956_cab,genital,use the bathroom from it,bathroom,bathroom,VERB,USA
 J00717956_cab,genital,clean it,clean,clean,VERB,USA
 J00717956_cab,genital,hit it,hit,hit,VERB,USA
@@ -4861,10 +4861,10 @@ J00717956_cab,checklist,remember from it,remember,remember,VERB,USA
 J00717956_cab,checklist,bring it with you,bring,bring,VERB,USA
 J00717956_cab,checklist,checkmark items,checkmark,checkmark,VERB,USA
 J00717956_cab,checklist,checkmark items,items,item,NOUN,USA
-J00717956_cab,checklist,keep track,keep,keep,VERB,USA
+J00717956_cab,checklist,keep track,keep,keep,AUX,USA
 J00717956_cab,checklist,keep track,track,track,VERB,USA
 J00717956_cab,jean,wear it,wear,wear,VERB,USA
-J00717956_cab,jean,use it as a bag,use,use,VERB,USA
+J00717956_cab,jean,use it as a bag,use,use,AUX,USA
 J00717956_cab,jean,use it as a bag,bag,bag,VERB,USA
 J00717956_cab,jean,wear it as a shirt,wear,wear,VERB,USA
 J00717956_cab,jean,wear it as a shirt,shirt,shirt,NOUN,USA
@@ -4873,14 +4873,14 @@ J00717956_cab,jean,toss it,toss,toss,VERB,USA
 J00717956_cab,jean,rip it,rip,rip,VERB,USA
 J00717956_cab,jean,cut it,cut,cut,VERB,USA
 J00717956_cab,jean,dig with it,dig,dig,VERB,USA
-J00717956_cab,jean,put things in their pockets,put,put,VERB,USA
+J00717956_cab,jean,put things in their pockets,put,put,AUX,USA
 J00717956_cab,jean,put things in their pockets,things,thing,NOUN,USA
 J00717956_cab,jean,put things in their pockets,pockets,pockets,NOUN,USA
 J00717956_cab,jean,wear it with a belt,wear,wear,VERB,USA
 J00717956_cab,jean,wear it with a belt,belt,belt,NOUN,USA
 J00717956_cab,jean,drop it,drop,drop,VERB,USA
 J00717956_cab,stoop,drop,drop,drop,VERB,USA
-J00717956_cab,stoop,go to their level,go,go,VERB,USA
+J00717956_cab,stoop,go to their level,go,go,AUX,USA
 J00717956_cab,stoop,go to their level,level,level,NOUN,USA
 J00717956_cab,cocaine,snort it,snort,snort,VERB,USA
 J00717956_cab,cocaine,huff it,huff,huff,VERB,USA
@@ -4888,7 +4888,7 @@ J00717956_cab,cocaine,drop it,drop,drop,VERB,USA
 J00717956_cab,cocaine,cut it,cut,cut,VERB,USA
 J00717956_cab,cocaine,smoke it,smoke,smoke,VERB,USA
 J00717956_cab,cocaine,toss it,toss,toss,VERB,USA
-J00717956_cab,cocaine,get arrested for it,get,get,VERB,USA
+J00717956_cab,cocaine,get arrested for it,get,get,AUX,USA
 J00717956_cab,cocaine,get arrested for it,arrested,arrest,VERB,USA
 J00717956_cab,cocaine,sell it,sell,sell,VERB,USA
 J00717956_cab,cocaine,buy it,buy,buy,VERB,USA
@@ -4913,7 +4913,7 @@ J00717956_cab,mutton,eat it,eat,eat,VERB,USA
 J00717956_cab,mutton,drop it,drop,drop,VERB,USA
 J00717956_cab,mutton,throw it,throw,throw,VERB,USA
 J00717956_cab,mutton,cut it,cut,cut,VERB,USA
-J00717956_cab,apprentice,use them for tasks,use,use,VERB,USA
+J00717956_cab,apprentice,use them for tasks,use,use,AUX,USA
 J00717956_cab,apprentice,use them for tasks,tasks,task,VERB,USA
 J00717956_cab,apprentice,help you,help,help,VERB,USA
 J00717956_cab,apprentice,examine,examine,examine,VERB,USA
@@ -4924,7 +4924,7 @@ J00717956_cab,lip,kiss,kiss,kiss,VERB,USA
 J00717956_cab,lip,eat,eat,eat,VERB,USA
 J00717956_cab,lip,bite,bite,bite,VERB,USA
 J00717956_cab,lip,rub,rub,rub,VERB,USA
-J00717956_cab,lip,put lip balm on,put,put,VERB,USA
+J00717956_cab,lip,put lip balm on,put,put,AUX,USA
 J00717956_cab,lip,put lip balm on,lip,lip,NOUN,USA
 J00717956_cab,lip,put lip balm on,balm,balm,NOUN,USA
 J00717956_cab,pole,hit,hit,hit,VERB,USA
@@ -4933,7 +4933,7 @@ J00717956_cab,pole,break,break,break,VERB,USA
 J00717956_cab,pole,toss,toss,toss,VERB,USA
 J00717956_cab,pole,compete in a sport with it,compete,compete,VERB,USA
 J00717956_cab,pole,compete in a sport with it,sport,sport,NOUN,USA
-J00717956_cab,pole,use it as a stand,use,use,VERB,USA
+J00717956_cab,pole,use it as a stand,use,use,AUX,USA
 J00717956_cab,pole,use it as a stand,stand,stand,VERB,USA
 J00717956_cab,spatula,flip it,flip,flip,VERB,USA
 J00717956_cab,spatula,toss it,toss,toss,VERB,USA
@@ -4945,26 +4945,26 @@ J00717956_cab,spatula,come in plastic wooden or metal,come,come,VERB,USA
 J00717956_cab,spatula,come in plastic wooden or metal,plastic,plastic,ADJ,USA
 J00717956_cab,spatula,come in plastic wooden or metal,wooden,wooden,ADV,USA
 J00717956_cab,spatula,come in plastic wooden or metal,metal,metal,NOUN,USA
-J00717956_cab,collar,put on a person,put,put,VERB,USA
+J00717956_cab,collar,put on a person,put,wear,VERB,USA
 J00717956_cab,collar,put on a person,person,person,NOUN,USA
-J00717956_cab,collar,put on a dog,put,put,VERB,USA
+J00717956_cab,collar,put on a dog,put,put,AUX,USA
 J00717956_cab,collar,put on a dog,dog,dog,NOUN,USA
 J00717956_cab,collar,dropped,dropped,drop,VERB,USA
 J00717956_cab,collar,eaten,eaten,eat,VERB,USA
 J00717956_cab,collar,come in different materials,come,come,VERB,USA
 J00717956_cab,collar,come in different materials,different,different,ADJ,USA
 J00717956_cab,collar,come in different materials,materials,materials,NOUN,USA
-J00717956_cab,collar,used with a leash,used,use,VERB,USA
+J00717956_cab,collar,used with a leash,used,use,AUX,USA
 J00717956_cab,collar,used with a leash,leash,leash,NOUN,USA
 J00717956_cab,raindrop,drank,drank,drink,VERB,USA
 J00717956_cab,raindrop,eaten,eaten,eat,VERB,USA
 J00717956_cab,raindrop,wiped off,wiped,wip,VERB,USA
-J00717956_cab,raindrop,used with an umbrella,used,use,VERB,USA
+J00717956_cab,raindrop,used with an umbrella,used,use,AUX,USA
 J00717956_cab,raindrop,used with an umbrella,umbrella,umbrella,NOUN,USA
-J00717956_cab,raindrop,used for an experiement,used,use,VERB,USA
+J00717956_cab,raindrop,used for an experiement,used,use,AUX,USA
 J00717956_cab,raindrop,used for an experiement,experiment,experiment,VERB,USA
 J00717956_cab,easel,rubbed,rubbed,rub,VERB,USA
-J00717956_cab,easel,used with a marker,used,use,VERB,USA
+J00717956_cab,easel,used with a marker,used,use,AUX,USA
 J00717956_cab,easel,used with a marker,marker,marker,NOUN,USA
 J00717956_cab,easel,write on it,write,write,VERB,USA
 J00717956_cab,bayonet,shot,shot,shoot,VERB,USA
@@ -5002,13 +5002,13 @@ J00717956_cab,sardine,drop it,drop,drop,VERB,USA
 J00717956_cab,sardine,twist it,twist,twist,VERB,USA
 J00717956_cab,sardine,pull it,pull,pull,VERB,USA
 J00717956_cab,sardine,drink it,drink,drink,VERB,USA
-J00717956_cab,cellar,go in it,go,go,VERB,USA
+J00717956_cab,cellar,go in it,go,go,AUX,USA
 J00717956_cab,cellar,store things in it,store,store,VERB,USA
 J00717956_cab,cellar,store things in it,things,thing,NOUN,USA
 J00717956_cab,cellar,cry in it,cry,cry,VERB,USA
-J00718883PH,sled,get in it,get,get,VERB,USA
+J00718883PH,sled,get in it,get,get,AUX,USA
 J00718883PH,sled,slide in it,slide,slide,VERB,USA
-J00718883PH,sled,make t dirty,make,make,VERB,USA
+J00718883PH,sled,make t dirty,make,make,AUX,USA
 J00718883PH,sled,make t dirty,dirty,dirty,ADJ,USA
 J00718883PH,handkerchief,stuff in pockets,stuff,stuff,VERB,USA
 J00718883PH,handkerchief,stuff in pockets,pockets,pockets,NOUN,USA
@@ -5021,22 +5021,22 @@ J00718883PH,stream,bathe in it,bathe,bathe,VERB,USA
 J00718883PH,stream,drink it,drink,drink,VERB,USA
 J00718883PH,stream,cool down in,cool,cool,VERB,USA
 J00718883PH,stream,play in it,play,play,VERB,USA
-J00718883PH,comforter,get under it,get,get,VERB,USA
+J00718883PH,comforter,get under it,get,get,AUX,USA
 J00718883PH,comforter,build forts,build,build,VERB,USA
 J00718883PH,comforter,build forts,forts,fort,NOUN,USA
 J00718883PH,comforter,creates warmth,creates,create,VERB,USA
 J00718883PH,comforter,creates warmth,warmth,warm,VERB,USA
 J00718883PH,apron,wear it,wear,wear,VERB,USA
-J00718883PH,apron,make it dirty,make,make,VERB,USA
+J00718883PH,apron,make it dirty,make,make,AUX,USA
 J00718883PH,apron,make it dirty,dirty,dirty,ADJ,USA
 J00718883PH,apron,can decorate it,can,can,AUX,USA
 J00718883PH,apron,can decorate it,decorate,decorate,VERB,USA
 J00718883PH,apron,can put it in the washer,can,can,AUX,USA
-J00718883PH,apron,can put it in the washer,put,put,VERB,USA
+J00718883PH,apron,can put it in the washer,put,put,AUX,USA
 J00718883PH,apron,can put it in the washer,washer,wash,VERB,USA
 J00718883PH,confetti,pop it,pop,pop,VERB,USA
 J00718883PH,confetti,clean it,clean,clean,VERB,USA
-J00718883PH,confetti,make a mess,make,make,VERB,USA
+J00718883PH,confetti,make a mess,make,make,AUX,USA
 J00718883PH,confetti,make a mess,mess,mess,VERB,USA
 J00718883PH,confetti,scare someone,scare,scare,VERB,USA
 J00718883PH,confetti,scare someone,someone,someone,PRON,USA
@@ -5073,7 +5073,7 @@ J00718883PH,firstborn,play,play,play,VERB,USA
 J00718883PH,firstborn,cry,cry,cry,VERB,USA
 J00718883PH,firstborn,cough,cough,cough,VERB,USA
 J00718883PH,firstborn,laugh,laugh,laugh,VERB,USA
-J00718883PH,firstborn,get hurt,get,get,VERB,USA
+J00718883PH,firstborn,get hurt,get,get,AUX,USA
 J00718883PH,firstborn,get hurt,hurt,hurt,VERB,USA
 J00718883PH,hamster,eats,eats,eat,VERB,USA
 J00718883PH,hamster,drinks,drinks,drink,VERB,USA
@@ -5096,7 +5096,7 @@ J00718883PH,tortoise,swims,swims,swim,VERB,USA
 J00718883PH,newspaper,hit,hit,hit,VERB,USA
 J00718883PH,newspaper,read,read,read,VERB,USA
 J00718883PH,newspaper,cut it,cut,cut,VERB,USA
-J00718883PH,newspaper,make crafts from it,make,make,VERB,USA
+J00718883PH,newspaper,make crafts from it,make,make,AUX,USA
 J00718883PH,newspaper,make crafts from it,crafts,craft,VERB,USA
 J00718883PH,axle,can build with it,can,can,AUX,USA
 J00718883PH,axle,can build with it,build,build,VERB,USA
@@ -5104,9 +5104,9 @@ J00718883PH,axle,useful in cars,useful,useful,ADJ,USA
 J00718883PH,axle,useful in cars,cars,cars,NOUN,USA
 J00718883PH,gate,open it,open,open,VERB,USA
 J00718883PH,gate,close it,close,close,VERB,USA
-J00718883PH,gate,keep stuff in,keep,keep,VERB,USA
+J00718883PH,gate,keep stuff in,keep,keep,AUX,USA
 J00718883PH,gate,keep stuff in,stuff,stuff,NOUN,USA
-J00718883PH,gate,keeps stuff out,keeps,keep,VERB,USA
+J00718883PH,gate,keeps stuff out,keeps,keep,AUX,USA
 J00718883PH,gate,keeps stuff out,stuff,stuff,NOUN,USA
 J00718883PH,keepsake,at funerals,funerals,funeral,NOUN,USA
 J00718883PH,keepsake,at school,school,school,NOUN,USA
@@ -5132,7 +5132,7 @@ J00718883PH,animal,pet it,pet,pet,VERB,USA
 J00718883PH,animal,eat it,eat,eat,VERB,USA
 J00718883PH,animal,skin it,skin,skin,VERB,USA
 J00718883PH,newt,eat it,eat,eat,VERB,USA
-J00718883PH,newt,make things with it,make,make,VERB,USA
+J00718883PH,newt,make things with it,make,make,AUX,USA
 J00718883PH,newt,make things with it,things,thing,NOUN,USA
 J00718883PH,comb,brush hair,brush,brush,VERB,USA
 J00718883PH,comb,brush hair,hair,hair,NOUN,USA
@@ -5142,7 +5142,7 @@ J00718883PH,kit,place things inside,place,place,VERB,USA
 J00718883PH,kit,place things inside,things,thing,NOUN,USA
 J00718883PH,kit,place things inside,inside,inside,ADV,USA
 J00718883PH,kit,can get useful things from,can,can,AUX,USA
-J00718883PH,kit,can get useful things from,get,get,VERB,USA
+J00718883PH,kit,can get useful things from,get,get,AUX,USA
 J00718883PH,kit,can get useful things from,useful,useful,ADJ,USA
 J00718883PH,kit,can get useful things from,things,thing,NOUN,USA
 J00718883PH,secretary,scheduals appointments,scheduled,schedule,VERB,USA
@@ -5178,7 +5178,7 @@ J00719397,cane,walking tool,walking,walk,VERB,USA
 J00719397,cane,walking tool,tool,tool,VERB,USA
 J00719397,wound,injuried,injure,injure,VERB,USA
 J00719397,wound,bleeding,bleeding,bleed,VERB,USA
-J00719397,clay,make stuff,make,make,VERB,USA
+J00719397,clay,make stuff,make,make,AUX,USA
 J00719397,clay,make stuff,stuff,stuff,NOUN,USA
 J00719397,clay,mud,mud,mud,NOUN,USA
 J00719397,bench,bench press,bench,bench press,VERB,USA
@@ -5217,12 +5217,12 @@ J00719925SRB,cucumber,eating,eating,eat,VERB,USA
 J00719925SRB,hill,rolling,rolling,roll,VERB,USA
 J00719925SRB,hill,ground,ground,ground,NOUN,USA
 J00719925SRB,wheat,eat,eat,eat,VERB,USA
-J00719925SRB,wheat,make,make,make,VERB,USA
+J00719925SRB,wheat,make,make,make,AUX,USA
 J00719925SRB,pulp,squeeze,squeeze,squeeze,VERB,USA
 J00719925SRB,pulp,orange juice,orange,orange,ADJ,USA
 J00719925SRB,pulp,orange juice,juice,juice,NOUN,USA
 J00719925SRB,cola,drink,drink,drink,VERB,USA
-J00719925SRB,cola,make,make,make,VERB,USA
+J00719925SRB,cola,make,make,make,AUX,USA
 J00719925SRB,mantelpiece,fireplace,fireplace,fireplace,NOUN,USA
 J00719925SRB,mantelpiece,hold,hold,hold,VERB,USA
 J00719925SRB,mantelpiece,decor,decor,decorate,VERB,USA
@@ -5258,7 +5258,7 @@ J00719925SRB,tomato,red,red,red,ADJ,USA
 J00719925SRB,tomato,eat,eat,eat,VERB,USA
 J00719925SRB,tomato,squeeze,squeeze,squeeze,VERB,USA
 J00719925SRB,tomato,mush,mush,mush,VERB,USA
-J00719925SRB,tomato,make,make,make,VERB,USA
+J00719925SRB,tomato,make,make,make,AUX,USA
 J00719925SRB,temple,head,head,head,NOUN,USA
 J00719925SRB,temple,pressure point,pressure,pressure,VERB,USA
 J00719925SRB,temple,pressure point,point,pressure point,NOUN,USA
@@ -5279,11 +5279,11 @@ J00719925SRB,stationmaster,manager,manager,manager,NOUN,USA
 J00719925SRB,straightedge,edge,edge,edge,NOUN,USA
 J00719925SRB,straightedge,no curve,curve,curve,NOUN,USA
 J00719925SRB,swimsuit,hold,hold,hold,VERB,USA
-J00719925SRB,swimsuit,get wet,get,get,VERB,USA
+J00719925SRB,swimsuit,get wet,get,get,AUX,USA
 J00719925SRB,swimsuit,get wet,wet,wet,VERB,USA
 J00719925SRB,swimsuit,wear,wear,wear,VERB,USA
 J00719925SRB,swimsuit,hang,hang,hang,VERB,USA
-J00719925SRB,rice,make,make,make,VERB,USA
+J00719925SRB,rice,make,make,make,AUX,USA
 J00719925SRB,rice,cook,cook,cake,VERB,USA
 J00719925SRB,rice,grain,grain,grain,NOUN,USA
 J00720106_krh,makeup,enhance,enhance,enhance,VERB,USA
@@ -5295,7 +5295,7 @@ J00720106_krh,bleacher,play instrument,play,play,VERB,USA
 J00720106_krh,bleacher,play instrument,instrument,instrument,NOUN,USA
 J00720106_krh,bleacher,yell,yell,yell,VERB,USA
 J00720106_krh,bleacher,scream,scream,scream,VERB,USA
-J00720106_krh,newspaperman,get paper,get,get,VERB,USA
+J00720106_krh,newspaperman,get paper,get,get,AUX,USA
 J00720106_krh,newspaperman,get paper,paper,paper,NOUN,USA
 J00720106_krh,newspaperman,talk,talk,talk,VERB,USA
 J00720106_krh,newspaperman,conversate,conversation,converse,VERB,USA
@@ -5311,7 +5311,7 @@ J00720106_krh,pie,eat,eat,eat,VERB,USA
 J00720106_krh,pie,smell,smell,smell,VERB,USA
 J00720106_krh,pie,cook,cook,cake,VERB,USA
 J00720106_krh,pie,smash,smash,smash,VERB,USA
-J00720106_krh,goldsmith,get jewelry,get,get,VERB,USA
+J00720106_krh,goldsmith,get jewelry,get,get,AUX,USA
 J00720106_krh,goldsmith,get jewelry,jewelry,jewelry,NOUN,USA
 J00720106_krh,canteen,hold water,hold,hold,VERB,USA
 J00720106_krh,canteen,hold water,water,water,NOUN,USA
@@ -5324,7 +5324,7 @@ J00720106_krh,canteen,throw,throw,throw,VERB,USA
 J00720106_krh,canteen,survival,survival,survive,VERB,USA
 J00720106_krh,salad,eat,eat,eat,VERB,USA
 J00720106_krh,salad,throw,throw,throw,VERB,USA
-J00720106_krh,salad,make,make,make,VERB,USA
+J00720106_krh,salad,make,make,make,AUX,USA
 J00720106_krh,gyroscope,measurement,measurement,measure,VERB,USA
 J00720106_krh,tank,shoot,shoot,shoot,VERB,USA
 J00720106_krh,tank,store,store,store,VERB,USA
@@ -5342,25 +5342,25 @@ J00720106_krh,porridge,cook,cook,cake,VERB,USA
 J00720106_krh,porridge,mix,mix,mix,VERB,USA
 J00720106_krh,porridge,feed others,feed,feed,VERB,USA
 J00720106_krh,porridge,feed others,others,other,NOUN,USA
-J00720106_krh,bedspread,put on bed,put,put,VERB,USA
+J00720106_krh,bedspread,put on bed,put,put,AUX,USA
 J00720106_krh,bedspread,put on bed,bed,bed,NOUN,USA
 J00720106_krh,bedspread,lay on,lay,lay,VERB,USA
 J00720106_krh,bedspread,sleep on,sleep,sleep,VERB,USA
-J00720106_krh,bedspread,make bed nice,make,make,VERB,USA
+J00720106_krh,bedspread,make bed nice,make,make,AUX,USA
 J00720106_krh,bedspread,make bed nice,bed,bed,NOUN,USA
 J00720106_krh,bedspread,make bed nice,nice,nice,ADJ,USA
 J00720106_krh,buckle,attach,attach,attach,VERB,USA
 J00720106_krh,buckle,detach,detach,detach,VERB,USA
 J00720106_krh,baklava,eat,eat,eat,VERB,USA
-J00720106_krh,baklava,make,make,make,VERB,USA
+J00720106_krh,baklava,make,make,make,AUX,USA
 J00720106_krh,baklava,cook,cook,cake,VERB,USA
 J00720106_krh,sushi,eat,eat,eat,VERB,USA
-J00720106_krh,sushi,make,make,make,VERB,USA
+J00720106_krh,sushi,make,make,make,AUX,USA
 J00720106_krh,sushi,cook,cook,cake,VERB,USA
 J00720106_krh,sushi,throw,throw,throw,VERB,USA
 J00720106_krh,sushi,share,share,share,NOUN,USA
 J00720106_krh,dance,entertain,entertain,entertain,VERB,USA
-J00720106_krh,twine,keep things together,keep,keep,VERB,USA
+J00720106_krh,twine,keep things together,keep,keep,AUX,USA
 J00720106_krh,twine,keep things together,things,thing,NOUN,USA
 J00720106_krh,twine,keep things together,together,together,ADV,USA
 J00720106_krh,trombone,play,play,play,VERB,USA
@@ -5370,7 +5370,7 @@ J00720106_krh,trombone,cheer on team,team,team,NOUN,USA
 J00720106_krh,piccolo,entertain,entertain,entertain,ADJ,USA
 J00720106_krh,piccolo,cheer on team,cheer,cheer,VERB,USA
 J00720106_krh,piccolo,cheer on team,team,team,NOUN,USA
-J00720106_krh,straitjacket,keep someone from hurting themselves or others,keep,keep,VERB,USA
+J00720106_krh,straitjacket,keep someone from hurting themselves or others,keep,keep,AUX,USA
 J00720106_krh,straitjacket,keep someone from hurting themselves or others,someone,someone,PRON,USA
 J00720106_krh,straitjacket,keep someone from hurting themselves or others,hurting,hurt,VERB,USA
 J00720106_krh,straitjacket,keep someone from hurting themselves or others,others,other,NOUN,USA
@@ -5388,7 +5388,7 @@ J00720106_krh,piercing,feel confident,confident,confident,ADJ,USA
 J00720106_krh,walker,help others walk,help,help,VERB,USA
 J00720106_krh,walker,help others walk,others,other,NOUN,USA
 J00720106_krh,walker,help others walk,walk,walk,VERB,USA
-J00720106_krh,stopwatch,keep track of time,keep,keep,VERB,USA
+J00720106_krh,stopwatch,keep track of time,keep,keep,AUX,USA
 J00720106_krh,stopwatch,keep track of time,track,track,VERB,USA
 J00720106_krh,stopwatch,keep track of time,time,time,NOUN,USA
 J00720106_krh,stopwatch,set alarms,set,set,VERB,USA
@@ -5434,7 +5434,7 @@ J00721766_LRC,store,buy groceries,buy,buy,VERB,USA
 J00721766_LRC,store,buy groceries,groceries,grocery,NOUN,USA
 J00721766_LRC,store,buy accessories,buy,buy,VERB,USA
 J00721766_LRC,store,buy accessories,accessories,accessory,NOUN,USA
-J00721766_LRC,store,get essential d,get,get,VERB,USA
+J00721766_LRC,store,get essential d,get,get,AUX,USA
 J00721766_LRC,store,get essential d,essential,essential,ADJ,USA
 J00721766_LRC,store,get essential d,d,would,PROPN,USA
 J00721766_LRC,daddy,what you call your father,call,call,NOUN,USA
@@ -5443,18 +5443,18 @@ J00721766_LRC,people,hangout with them,hangout,hangout,VERB,USA
 J00721766_LRC,people,talk to them,talk,talk,VERB,USA
 J00721766_LRC,people,ask them for help,ask,ask,VERB,USA
 J00721766_LRC,people,ask them for help,help,help,VERB,USA
-J00721766_LRC,grapevine,make grapes,make,make,VERB,USA
+J00721766_LRC,grapevine,make grapes,make,make,AUX,USA
 J00721766_LRC,grapevine,make grapes,grapes,grape,NOUN,USA
 J00721766_LRC,conductor,leads projects,leads,lead,VERB,USA
 J00721766_LRC,conductor,leads projects,projects,project,NOUN,USA
 J00721766_LRC,Guitar,music,music,music,NOUN,USA
-J00721766_LRC,Guitar,make a tune,make,make,VERB,USA
+J00721766_LRC,Guitar,make a tune,make,make,AUX,USA
 J00721766_LRC,Guitar,make a tune,tune,tune,VERB,USA
 J00721766_LRC,radish,eat,eat,eat,VERB,USA
 J00721766_LRC,banquet,formal dress up event,formal,formal,ADJ,USA
 J00721766_LRC,banquet,formal dress up event,dress,dress,NOUN,USA
 J00721766_LRC,banquet,formal dress up event,event,event,NOUN,USA
-J00721766_LRC,banquet,use it as a sports banquet etc.,use,use,VERB,USA
+J00721766_LRC,banquet,use it as a sports banquet etc.,use,use,AUX,USA
 J00721766_LRC,banquet,use it as a sports banquet etc.,sports,sport,NOUN,USA
 J00721766_LRC,banquet,use it as a sports banquet etc.,banquet,banquet,NOUN,USA
 J00721766_LRC,banquet,use it as a sports banquet etc.,etc,etc,X,USA
@@ -5462,20 +5462,20 @@ J00721766_LRC,controller,turn on tv,turn,turn,VERB,USA
 J00721766_LRC,controller,turn on tv,tv,tv,X,USA
 J00721766_LRC,controller,plays games with it,plays,play,VERB,USA
 J00721766_LRC,controller,plays games with it,games,game,NOUN,USA
-J00721766_LRC,kilt,used to get dressed,used,use,VERB,USA
-J00721766_LRC,kilt,used to get dressed,get,get,VERB,USA
+J00721766_LRC,kilt,used to get dressed,used,use,AUX,USA
+J00721766_LRC,kilt,used to get dressed,get,get,AUX,USA
 J00721766_LRC,kilt,used to get dressed,dressed,dress,VERB,USA
 J00721766_LRC,motorboat,ride on water,ride,ride,VERB,USA
 J00721766_LRC,motorboat,ride on water,water,water,NOUN,USA
 J00721766_LRC,cheese,eat,eat,eat,VERB,USA
 J00721766_LRC,cheese,cooking,cooking,cook,VERB,USA
-J00721766_LRC,silk,make clothing with it,make,make,VERB,USA
+J00721766_LRC,silk,make clothing with it,make,make,AUX,USA
 J00721766_LRC,silk,make clothing with it,clothing,clothing,NOUN,USA
 J00721766_LRC,silk,sleep on it,sleep,sleep,VERB,USA
 J00721766_LRC,tent,sleep in it,sleep,sleep,VERB,USA
-J00721766_LRC,tent,used for camping,used,use,VERB,USA
+J00721766_LRC,tent,used for camping,used,use,AUX,USA
 J00721766_LRC,tent,used for camping,camping,camp,VERB,USA
-J00721766_LRC,pad,used for periods,used,use,VERB,USA
+J00721766_LRC,pad,used for periods,used,use,AUX,USA
 J00721766_LRC,pad,used for periods,periods,period,NOUN,USA
 J00721766_LRC,storeroom,storage of certain things you don't need at a specific time,storage,store,VERB,USA
 J00721766_LRC,storeroom,storage of certain things you don't need at a specific time,certain,certain,ADJ,USA
@@ -5490,7 +5490,7 @@ J00721766_LRC,salesman,ask them for a car,ask,ask,VERB,USA
 J00721766_LRC,salesman,ask them for a car,car,car,NOUN,USA
 J00721766_LRC,salesman,ask them for help,ask,ask,VERB,USA
 J00721766_LRC,salesman,ask them for help,help,help,VERB,USA
-J00721766_LRC,pine,make pinestraw,make,make,VERB,USA
+J00721766_LRC,pine,make pinestraw,make,make,AUX,USA
 J00721766_LRC,pine,make pinestraw,pinestraw,pinestraw,NOUN,USA
 J00721766_LRC,eyebath,wash out your eyes,wash,wash,VERB,USA
 J00721766_LRC,eyebath,wash out your eyes,eyes,eyes,NOUN,USA
@@ -5502,14 +5502,14 @@ J00721766_LRC,eyelid,blink,blink,blink,VERB,USA
 J00721766_LRC,eyelid,wink,wink,wink,VERB,USA
 J00721766_LRC,grandniece,have one?,one,one,NUM,USA
 J00721766_LRC,cushion,sit on it,sit,sit,VERB,USA
-J00721766_LRC,suspender,used for clothing,used,use,VERB,USA
+J00721766_LRC,suspender,used for clothing,used,use,AUX,USA
 J00721766_LRC,suspender,used for clothing,clothing,clothing,NOUN,USA
 J00721766_LRC,peanut,eat,eat,eat,VERB,USA
 J00721766_LRC,peanut,cook with it,cook,cake,VERB,USA
-J00721766_LRC,peanut,makes peanut oil,makes,make,VERB,USA
+J00721766_LRC,peanut,makes peanut oil,makes,make,AUX,USA
 J00721766_LRC,peanut,makes peanut oil,peanut,peanut,NOUN,USA
 J00721766_LRC,peanut,makes peanut oil,oil,oil,NOUN,USA
-J00721766_LRC,medic,gets you help when you are in need,gets,get,VERB,USA
+J00721766_LRC,medic,gets you help when you are in need,gets,get,AUX,USA
 J00721766_LRC,medic,gets you help when you are in need,help,help,VERB,USA
 J00721766_LRC,medic,gets you help when you are in need,need,need,VERB,USA
 J00722204MDS,brother,help,help,help,VERB,USA
@@ -5545,7 +5545,7 @@ J00722204MDS,singer,dance,dance,dance,VERB,USA
 J00722204MDS,singer,songs,songs,songs,NOUN,USA
 J00722204MDS,proofreader,read over paper,read,read,VERB,USA
 J00722204MDS,proofreader,read over paper,paper,paper,NOUN,USA
-J00722204MDS,factory,make things,make,make,VERB,USA
+J00722204MDS,factory,make things,make,make,AUX,USA
 J00722204MDS,factory,make things,things,thing,NOUN,USA
 J00722204MDS,gum,chew,chew,chew,VERB,USA
 J00722204MDS,checkbook,bills,bills,bills,NOUN,USA
@@ -5562,7 +5562,7 @@ J00722204MDS,locksmith,door locks,door,door,NOUN,USA
 J00722204MDS,locksmith,door locks,locks,lock,VERB,USA
 J00722204MDS,cockatoo,talk,talk,talk,VERB,USA
 J00723588_SR,parakeet,trained,trained,train,VERB,USA
-J00723588_SR,teaspoonful,used,used,use,VERB,USA
+J00723588_SR,teaspoonful,used,used,use,AUX,USA
 J00723588_SR,acupuncture,studied,studied,study,VERB,USA
 J00723588_SR,mongoose,captured,captured,capture,VERB,USA
 J00723588_SR,raincoat,worn,worn,wear,VERB,USA
@@ -5592,7 +5592,7 @@ J00723588_SR,belt,took,took,take,VERB,USA
 J00723588_SR,butt,cleaned,cleaned,clean,VERB,USA
 J00723588_SR,butt,exercised,exercised,exercise,VERB,USA
 J00723588_SR,bondsman,greeted,greeted,greet,VERB,USA
-J00723588_SR,flatiron,used,used,use,VERB,USA
+J00723588_SR,flatiron,used,used,use,AUX,USA
 J00723588_SR,flatiron,bought,bought,buy,VERB,USA
 J00723588_SR,flatiron,returned,returned,return,VERB,USA
 J00723588_SR,flatiron,broken,broken,break,VERB,USA
@@ -5602,7 +5602,7 @@ J00723588_SR,rectum,cleaned,cleaned,clean,VERB,USA
 J00723588_SR,rectum,injured,injured,injur,VERB,USA
 J00723588_SR,furnace,cleaned,cleaned,clean,VERB,USA
 J00723588_SR,molasses,eaten,eaten,eat,VERB,USA
-J00723588_SR,device,used,used,use,VERB,USA
+J00723588_SR,device,used,used,use,AUX,USA
 J00723588_SR,device,stolen,stolen,steal,VERB,USA
 J00723588_SR,device,given,given,give,VERB,USA
 J00723588_SR,device,bought,bought,buy,VERB,USA
@@ -5627,7 +5627,7 @@ J00723588_SR,hibachi,cooked,cooked,cook,VERB,USA
 J00723588_SR,flowerpot,broken,broken,break,VERB,USA
 J00723588_SR,flowerpot,bought,bought,buy,VERB,USA
 J00723588_SR,flowerpot,painted,painted,paint,VERB,USA
-J00723588_SR,trigger,used,used,use,VERB,USA
+J00723588_SR,trigger,used,used,use,AUX,USA
 J00723588_SR,taffy,eaten,eaten,eat,VERB,USA
 J00723588_SR,crust,eaten,eaten,eat,VERB,USA
 J00724033_agw,hearse,funeral,funeral,funeral,NOUN,USA
@@ -5658,7 +5658,7 @@ J00724033_agw,web,to catch bugs,bugs,bug,NOUN,USA
 J00724033_agw,web,to derive information from,derive,derive,VERB,USA
 J00724033_agw,web,to derive information from,information,inform,VERB,USA
 J00724033_agw,web,to post,post,post,VERB,USA
-J00724033_agw,hubcap,to keep in ,keep,keep,VERB,USA
+J00724033_agw,hubcap,to keep in ,keep,keep,AUX,USA
 J00724033_agw,hubcap,to protect,protect,protect,VERB,USA
 J00724033_agw,inspector,to search,search,search,VERB,USA
 J00724033_agw,inspector,to discover,discover,discover,VERB,USA
@@ -5683,7 +5683,7 @@ J00724033_agw,dietician,to gain knowledge,gain,gain,VERB,USA
 J00724033_agw,dietician,to gain knowledge,knowledge,knowledge,NOUN,USA
 J00724033_agw,raisin,to dry,dry,dry,VERB,USA
 J00724033_agw,raisin,to soak,soak,soak,VERB,USA
-J00724033_agw,raisin,to make trailmix,make,make,VERB,USA
+J00724033_agw,raisin,to make trailmix,make,make,AUX,USA
 J00724033_agw,raisin,to make trailmix,trailmix,trail mix,SYM,USA
 J00724033_agw,raisin,to eat,eat,eat,VERB,USA
 J00724033_agw,carriage,to ride,ride,ride,VERB,USA
@@ -5759,7 +5759,7 @@ J00724627_JWB,brochure,read,read,read,VERB,USA
 J00724627_JWB,snowdrift,plow,plow,plow,VERB,USA
 J00724627_JWB,snowdrift,shovel,shovel,shovel,VERB,USA
 J00724627_JWB,biscuit,eat,eat,eat,VERB,USA
-J00724627_JWB,biscuit,make,make,make,VERB,USA
+J00724627_JWB,biscuit,make,make,make,AUX,USA
 J00724627_JWB,horsewhip,whip,whip,whip,VERB,USA
 J00724627_JWB,pickle,eat,eat,eat,VERB,USA
 J00724627_JWB,pickle,cook,cook,cake,VERB,USA
@@ -5804,7 +5804,7 @@ J00724627_JWB,attorney,hire,hire,hire,VERB,USA
 J00724627_JWB,book,buy,buy,buy,VERB,USA
 J00724627_JWB,book,read,read,read,VERB,USA
 J00724627_JWB,book,sell,sell,sell,VERB,USA
-J00724627_JWB,book,make,make,make,VERB,USA
+J00724627_JWB,book,make,make,make,AUX,USA
 nfw2121,streetcar,race,race,race,VERB,USA
 nfw2121,streetcar,drive,drive,drive,VERB,USA
 nfw2121,sourdough,eat,eat,eat,VERB,USA
@@ -5832,7 +5832,7 @@ nfw2121,vinegar,cook with,cook,cake,VERB,USA
 nfw2121,vinegar,clean,clean,clean,VERB,USA
 nfw2121,palm,catch,catch,catch,VERB,USA
 nfw2121,palm,support,support,support,VERB,USA
-nfw2121,scorpion,get anti venom,get,get,VERB,USA
+nfw2121,scorpion,get anti venom,get,get,AUX,USA
 nfw2121,scorpion,get anti venom,anti,anti,X,USA
 nfw2121,scorpion,get anti venom,venom,venom,X,USA
 nfw2121,hook,grab,grab,grab,VERB,USA
@@ -5844,11 +5844,11 @@ nfw2121,curb,hit with car,hit,hit,VERB,USA
 nfw2121,curb,hit with car,car,car,NOUN,USA
 nfw2121,feast,eat,eat,eat,VERB,USA
 nfw2121,buttock,spank,spank,spank,VERB,USA
-nfw2121,goatskin,make leather,make,make,VERB,USA
+nfw2121,goatskin,make leather,make,make,AUX,USA
 nfw2121,goatskin,make leather,leather,leather,NOUN,USA
 nfw2121,slime,play with,play,play,VERB,USA
 nfw2121,darkroom,sleep,sleep,sleep,VERB,USA
-nfw2121,schoolgirl,get to do my homework,get,get,VERB,USA
+nfw2121,schoolgirl,get to do my homework,get,get,AUX,USA
 nfw2121,schoolgirl,get to do my homework,homework,homework,NOUN,USA
 nfw2121,swab,clean ears,clean,clean,VERB,USA
 nfw2121,swab,clean ears,ears,ears,NOUN,USA
@@ -5884,7 +5884,7 @@ tmsj00670955,waxwork,candle,candle,candle,NOUN,USA
 tmsj00670955,kindle,tablet,tablet,tablet,NOUN,USA
 tmsj00670955,vehicle,car truck,car,car,NOUN,USA
 tmsj00670955,vehicle,car truck,truck,truck,NOUN,USA
-tmsj00670955,pottery,make,make,make,VERB,USA
+tmsj00670955,pottery,make,make,make,AUX,USA
 tmsj00670955,housefly,animal,animal,animal,NOUN,USA
 tmsj00670955,doornail,house,house,house,NOUN,USA
 tmsj00670955,washboard,work,work,work,VERB,USA

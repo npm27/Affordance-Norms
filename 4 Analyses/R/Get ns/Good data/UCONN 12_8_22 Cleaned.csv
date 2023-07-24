@@ -7,25 +7,22 @@ andres.salas@uconn.edu,accountant,also how it's spent,also,also,ADV,UCONN
 andres.salas@uconn.edu,accountant,also how it's spent,spent,spend,VERB,UCONN
 allison.waugh@uconn.edu,accountant,combine,combine,combine,VERB,UCONN
 allison.waugh@uconn.edu,accountant,file,file,file,VERB,UCONN
-andres.salas@uconn.edu,accountant,helps with keeping track of where your money goes,goes,go,VERB,UCONN
-andres.salas@uconn.edu,accountant,helps with keeping track of where your money goes,helps,help,VERB,UCONN
-andres.salas@uconn.edu,accountant,helps with keeping track of where your money goes,keeping,keep,VERB,UCONN
+andres.salas@uconn.edu,accountant,helps with keeping track of where your money goes,goes,go,AUX,UCONN
+andres.salas@uconn.edu,accountant,helps with keeping track of where your money goes,helps,help,AUX,UCONN
+andres.salas@uconn.edu,accountant,helps with keeping track of where your money goes,keeping,keep,AUX,UCONN
 andres.salas@uconn.edu,accountant,helps with keeping track of where your money goes,money,money,NOUN,UCONN
 andres.salas@uconn.edu,accountant,helps with keeping track of where your money goes,track,track,VERB,UCONN
 nathan.e.shaw@uconn.edu,acrobat,compliment,compliment,compliment,VERB,UCONN
 nathan.e.shaw@uconn.edu,acrobat,insult,insult,insult,VERB,UCONN
-nathan.e.shaw@uconn.edu,acrobat,reach for hard to reach things,hard,hard,ADJ,UCONN
 nathan.e.shaw@uconn.edu,acrobat,reach for hard to reach things,reach,reach,VERB,UCONN
-nathan.e.shaw@uconn.edu,acrobat,reach for hard to reach things,reach,reach,VERB,UCONN
-nathan.e.shaw@uconn.edu,acrobat,reach for hard to reach things,reach,reach,VERB,UCONN
-nathan.e.shaw@uconn.edu,acrobat,reach for hard to reach things,reach,reach,VERB,UCONN
+nathan.e.shaw@uconn.edu,acrobat,reach for hard to reach things,reach,reach,ADJ,UCONN
 nathan.e.shaw@uconn.edu,acrobat,reach for hard to reach things,things,thing,NOUN,UCONN
 nathan.e.shaw@uconn.edu,acrobat,stage performance,stage,stage,NOUN,UCONN
 nathan.e.shaw@uconn.edu,acrobat,talk with,talk,talk,VERB,UCONN
 haydin.courtois@uconn.edu,acrobat,teaching me how to be flexible,flexible,flexible,ADJ,UCONN
 nathan.e.shaw@uconn.edu,acrobat,watch,watch,watch,VERB,UCONN
 kelly.s.aguilar@uconn.edu,actor,listening ,listening,listen,VERB,UCONN
-paige.gewirtz@uconn.edu,adult,help you learn,help,help,VERB,UCONN
+paige.gewirtz@uconn.edu,adult,help you learn,help,help,AUX,UCONN
 paige.gewirtz@uconn.edu,adult,help you learn,learn,learn,VERB,UCONN
 gabriela.duana@uconn.edu,afro,admire,admire,admire,VERB,UCONN
 gabriela.duana@uconn.edu,afro,comb,comb,comb,VERB,UCONN
@@ -35,8 +32,6 @@ gabriela.duana@uconn.edu,afro,touch,touch,touch,VERB,UCONN
 gabriela.duana@uconn.edu,afro,wash,wash,wash,VERB,UCONN
 benjamin.kushi@uconn.edu,aircraft,clean,clean,clean,VERB,UCONN
 kiley.malinowski@uconn.edu,aircraft,crash,crash,crash,VERB,UCONN
-kiley.malinowski@uconn.edu,aircraft,crash,crash,crash,VERB,UCONN
-benjamin.kushi@uconn.edu,aircraft,crash,crash,crash,VERB,UCONN
 benjamin.kushi@uconn.edu,aircraft,crash,crash,crash,VERB,UCONN
 kiley.malinowski@uconn.edu,aircraft,fly one,fly,fly,VERB,UCONN
 kiley.malinowski@uconn.edu,aircraft,fly one,one,one,NUM,UCONN
@@ -228,7 +223,7 @@ isabella.morfin@uconn.edu,apple,apple juice,juice,juice,VERB,UCONN
 isabella.morfin@uconn.edu,apple,apple pie,apple,apple,NOUN,UCONN
 isabella.morfin@uconn.edu,apple,apple pie,pie,pie,NOUN,UCONN
 Isabella.carnelli@uconn.edu,apple,cook,cook,cake,VERB,UCONN
-isabella.morfin@uconn.edu,apple,drawing subject,drawing,drawe,VERB,UCONN
+isabella.morfin@uconn.edu,apple,drawing subject,drawing,draw,VERB,UCONN
 isabella.morfin@uconn.edu,apple,drawing subject,subject,subject,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,apple,eat,eat,eat,VERB,UCONN
 pan.chrisovechotis@uconn.edu,apple,eat,eat,eat,VERB,UCONN
@@ -442,7 +437,7 @@ joseph.agreda@uconn.edu,bait,throw,throw,throw,VERB,UCONN
 alexandra.lisowski@uconn.edu,bait,throwing,throwing,throw,VERB,UCONN
 molly.rogers@uconn.edu,ballerina,jumping,jumping,jump,VERB,UCONN
 molly.rogers@uconn.edu,ballerina,leaping,leaping,leap,VERB,UCONN
-molly.rogers@uconn.edu,ballerina,spinning,spinning,spinning,VERB,UCONN
+molly.rogers@uconn.edu,ballerina,spinning,spinning,spin,VERB,UCONN
 gabriela.duana@uconn.edu,ballerina,train to be one,one,one,NUM,UCONN
 gabriela.duana@uconn.edu,ballerina,train to be one,train,train,VERB,UCONN
 gabriela.duana@uconn.edu,ballerina,watch them dance,dance,dance,VERB,UCONN
@@ -644,7 +639,7 @@ isabella.morfin@uconn.edu,beetle,car name,name,name,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,beetle,control other pest populations,control,control,VERB,UCONN
 pan.chrisovechotis@uconn.edu,beetle,control other pest populations,pest,pest,VERB,UCONN
 pan.chrisovechotis@uconn.edu,beetle,control other pest populations,populations,populations,NOUN,UCONN
-isabella.morfin@uconn.edu,beetle,drawing subject,drawing,drawe,VERB,UCONN
+isabella.morfin@uconn.edu,beetle,drawing subject,drawing,draw,VERB,UCONN
 isabella.morfin@uconn.edu,beetle,drawing subject,subject,subject,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,beetle,experimentation,experimentation,experimentation,VERB,UCONN
 pan.chrisovechotis@uconn.edu,beetle,food,food,food,NOUN,UCONN
@@ -740,7 +735,7 @@ kelly_rae.lonergan@uconn.edu,bistro,talk/meet with friends in one,one,one,NUM,UC
 kelly_rae.lonergan@uconn.edu,bistro,talk/meet with friends in one,talk,talk,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,bistro,work in one,one,one,NUM,UCONN
 kelly_rae.lonergan@uconn.edu,bistro,work in one,work,work,NOUN,UCONN
-sophia.montanez@uconn.edu,blackboard,draw,draw,dree,VERB,UCONN
+sophia.montanez@uconn.edu,blackboard,draw,draw,draw,VERB,UCONN
 shea.carroll@uconn.edu,blackboard,learn with,learn,learn,VERB,UCONN
 shea.carroll@uconn.edu,blackboard,teach with,teach,teach,VERB,UCONN
 shea.carroll@uconn.edu,blackboard,write on,write,write,VERB,UCONN
@@ -1016,9 +1011,9 @@ molly.rogers@uconn.edu,briefs,summarizing,summarizing,summarize,VERB,UCONN
 gabriela.duana@uconn.edu,briefs,wear,wear,wear,VERB,UCONN
 gabriela.duana@uconn.edu,briefs,write,write,write,VERB,UCONN
 jayline.steiding@uconn.edu,brisket,cooking,cooking,cook,VERB,UCONN
-meghan.henningsen@uconn.edu,broiler,cook,cook,cake,VERB,UCONN
+meghan.henningsen@uconn.edu,broiler,cook,cook,cook,VERB,UCONN
 meghan.henningsen@uconn.edu,broiler,heat,heat,heat,VERB,UCONN
-erin.munch@uconn.edu,broiler,to cook,cook,cake,VERB,UCONN
+erin.munch@uconn.edu,broiler,to cook,cook,cook,VERB,UCONN
 hunter.tang@uconn.edu,brooch,christmas tree,christmas,christmas,PROPN,UCONN
 hunter.tang@uconn.edu,brooch,christmas tree,tree,tree,NOUN,UCONN
 hunter.tang@uconn.edu,brooch,decorate,decorate,decorate,VERB,UCONN
@@ -1059,8 +1054,6 @@ zachary.susser@uconn.edu,buck,money,money,money,NOUN,UCONN
 isabelle.jadach@uconn.edu,buck,pay,pay,pay,VERB,UCONN
 isabelle.jadach@uconn.edu,buck,trade,trade,trade,VERB,UCONN
 isabelle.jadach@uconn.edu,buffet,food,food,food,NOUN,UCONN
-isabelle.jadach@uconn.edu,buffet,food,food,food,NOUN,UCONN
-zachary.susser@uconn.edu,buffet,food,food,food,NOUN,UCONN
 zachary.susser@uconn.edu,buffet,food,food,food,NOUN,UCONN
 isabelle.jadach@uconn.edu,buffet,serve,serve,serve,VERB,UCONN
 kelly.s.aguilar@uconn.edu,builder,assemble,assemble,assemble,NOUN,UCONN
@@ -1073,13 +1066,13 @@ anna.pasterick@uconn.edu,bulldozer,moving,moving,move,VERB,UCONN
 jaela.black@uconn.edu,bulldozer,used to destroy buildings/structures,buildings,building,NOUN,UCONN
 jaela.black@uconn.edu,bulldozer,used to destroy buildings/structures,destroy,destroy,VERB,UCONN
 jaela.black@uconn.edu,bulldozer,used to destroy buildings/structures,structures,structure,NOUN,UCONN
-jaela.black@uconn.edu,bulldozer,used to destroy buildings/structures,used,use,VERB,UCONN
+jaela.black@uconn.edu,bulldozer,used to destroy buildings/structures,used,use,AUX,UCONN
 ashley.patiag@uconn.edu,bullet,gun,gun,gun,NOUN,UCONN
 dylan.barkasy@uconn.edu,bullet,protecting,protecting,protect,VERB,UCONN
 ashley.patiag@uconn.edu,bullet,shoot,shoot,shoot,VERB,UCONN
 dylan.barkasy@uconn.edu,bullet,shooting,shooting,shoot,VERB,UCONN
 jessica.vo@uconn.edu,bullfighter,ride,ride,ride,VERB,UCONN
-jessica.vo@uconn.edu,bullfighter,use,use,use,VERB,UCONN
+jessica.vo@uconn.edu,bullfighter,use,use,use,AUX,UCONN
 jessica.vo@uconn.edu,bullfighter,watch,watch,watch,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,bullfrog,digest,digest,digest,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,bullfrog,eat,eat,eat,VERB,UCONN
@@ -1090,7 +1083,7 @@ rachel.silverman@uconn.edu,bullfrog,play,play,play,VERB,UCONN
 rachel.silverman@uconn.edu,bullfrog,watch,watch,watch,VERB,UCONN
 valeria.ramirez@uconn.edu,bully,educate,educate,educate,VERB,UCONN
 Joseph.Verrillo@uconn.edu,bully,mean,mean,mean,VERB,UCONN
-paige.starr@uconn.edu,bunion,get removed,get,get,VERB,UCONN
+paige.starr@uconn.edu,bunion,get removed,get,get,AUX,UCONN
 paige.starr@uconn.edu,bunion,get removed,removed,remove,VERB,UCONN
 brianna.maximilien@uconn.edu,bunion,none,none,none,NOUN,UCONN
 paige.starr@uconn.edu,bunion,pick,pick,pick,VERB,UCONN
@@ -1105,20 +1098,18 @@ andres.salas@uconn.edu,bunny,wild or domesticated,domesticated,domesticate,VERB,
 andres.salas@uconn.edu,bunny,wild or domesticated,wild,wild,ADJ,UCONN
 isabelle.jadach@uconn.edu,burglar,harm,harm,harm,VERB,UCONN
 zachary.susser@uconn.edu,burglar,steal,steal,steal,VERB,UCONN
-zachary.susser@uconn.edu,burglar,steal,steal,steal,VERB,UCONN
-isabelle.jadach@uconn.edu,burglar,steal,steal,steal,VERB,UCONN
 isabelle.jadach@uconn.edu,burglar,steal,steal,steal,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,burlap,cover things when shipping,cover,cover,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,burlap,cover things when shipping,shipping,shipping,NOUN,UCONN
 kelly_rae.lonergan@uconn.edu,burlap,cover things when shipping,things,thing,NOUN,UCONN
-kelly_rae.lonergan@uconn.edu,burlap,make bags,bags,bag,NOUN,UCONN
-kelly_rae.lonergan@uconn.edu,burlap,make bags,make,make,VERB,UCONN
+kelly_rae.lonergan@uconn.edu,burlap,make bags,bags,bag,VERB,UCONN
+kelly_rae.lonergan@uconn.edu,burlap,make bags,make,make,AUX,UCONN
 rebecca.miller@uconn.edu,burlap,sow,sow,sow,VERB,UCONN
-kelly_rae.lonergan@uconn.edu,burlap,use for fashion purposes,fashion,fashion,NOUN,UCONN
-kelly_rae.lonergan@uconn.edu,burlap,use for fashion purposes,purposes,purpose,VERB,UCONN
-kelly_rae.lonergan@uconn.edu,burlap,use for fashion purposes,use,use,VERB,UCONN
-zarya.hernandez_salto@uconn.edu,bus,keep you safe,keep,keep,VERB,UCONN
-zarya.hernandez_salto@uconn.edu,bus,keep you safe,safe,safe,ADJ,UCONN
+kelly_rae.lonergan@uconn.edu,burlap,use for fashion purposes,fashion,fashion,AUX,UCONN
+kelly_rae.lonergan@uconn.edu,burlap,use for fashion purposes,purposes,purpose,NOUN,UCONN
+kelly_rae.lonergan@uconn.edu,burlap,use for fashion purposes,use,use,AUX,UCONN
+zarya.hernandez_salto@uconn.edu,bus,keep you safe,keep,keep,AUX,UCONN
+zarya.hernandez_salto@uconn.edu,bus,keep you safe,safe,safety,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,bus,keep you warm/cool,cool,cool,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,bus,keep you warm/cool,keep,keep,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,bus,keep you warm/cool,warm,warm,VERB,UCONN
@@ -1145,13 +1136,13 @@ jason.giambertone@uconn.edu,buttercup,make,make,make,VERB,UCONN
 jason.giambertone@uconn.edu,buttercup,throw,throw,throw,VERB,UCONN
 erin.munch@uconn.edu,butterscotch,can eat,can,can,AUX,UCONN
 erin.munch@uconn.edu,butterscotch,can eat,eat,eat,VERB,UCONN
-meghan.henningsen@uconn.edu,butterscotch,cook,cook,cake,VERB,UCONN
+meghan.henningsen@uconn.edu,butterscotch,cook,cook,cook,VERB,UCONN
 meghan.henningsen@uconn.edu,butterscotch,eat,eat,eat,VERB,UCONN
 erin.munch@uconn.edu,butterscotch,give to people,give,give,VERB,UCONN
 erin.munch@uconn.edu,butterscotch,give to people,people,people,NOUN,UCONN
 isabella.morfin@uconn.edu,buttocks,bodily functions,bodily,bodily,ADV,UCONN
 isabella.morfin@uconn.edu,buttocks,bodily functions,functions,function,NOUN,UCONN
-isabella.morfin@uconn.edu,buttocks,intercourse,intercourse,intercourse,NOUN,UCONN
+isabella.morfin@uconn.edu,buttocks,sex,sex,sex,VERB,UCONN
 Isabella.carnelli@uconn.edu,buttocks,poop,poop,poop,VERB,UCONN
 pan.chrisovechotis@uconn.edu,buttocks,release bowel movements,release,release,VERB,UCONN
 pan.chrisovechotis@uconn.edu,buttocks,sitting down,sitting,sit,VERB,UCONN
@@ -1163,8 +1154,8 @@ dylan.pontonio@uconn.edu,button,connect,connect,connect,VERB,UCONN
 emily.eggler@uconn.edu,button,press,press,press,VERB,UCONN
 delaney.harrington@uconn.edu,buttonhole,keep unbuttoned,keep,keep,VERB,UCONN
 delaney.harrington@uconn.edu,buttonhole,put button through,button,button,VERB,UCONN
-delaney.harrington@uconn.edu,buttonhole,put button through,put,put,VERB,UCONN
-delaney.harrington@uconn.edu,buttonhole,put things through,put,put,VERB,UCONN
+delaney.harrington@uconn.edu,buttonhole,put button through,put,put,AUX,UCONN
+delaney.harrington@uconn.edu,buttonhole,put things through,put,put,AUX,UCONN
 delaney.harrington@uconn.edu,buttonhole,put things through,things,thing,NOUN,UCONN
 anna.lu@uconn.edu,buttonhole,receive a button,button,button,NOUN,UCONN
 anna.lu@uconn.edu,buttonhole,receive a button,receive,receive,VERB,UCONN
@@ -1178,14 +1169,10 @@ giuseppe.cesare@uconn.edu,buttonhook,stitched,stitched,stitch,VERB,UCONN
 raven.dest@uconn.edu,cab,business,business,business,NOUN,UCONN
 raven.dest@uconn.edu,cab,calling,calling,call,VERB,UCONN
 charlotte.seitzinger@uconn.edu,cab,drive,drive,drive,VERB,UCONN
-charlotte.seitzinger@uconn.edu,cab,drive,drive,drive,VERB,UCONN
 shane.markle@uconn.edu,cab,drive,drive,drive,VERB,UCONN
-shane.markle@uconn.edu,cab,drive,drive,drive,VERB,UCONN
-shane.markle@uconn.edu,cab,get ride,get,get,VERB,UCONN
+shane.markle@uconn.edu,cab,get ride,get,get,AUX,UCONN
 shane.markle@uconn.edu,cab,get ride,ride,ride,VERB,UCONN
 shane.markle@uconn.edu,cab,hail,hail,hail,VERB,UCONN
-shane.markle@uconn.edu,cab,hail,hail,hail,VERB,UCONN
-charlotte.seitzinger@uconn.edu,cab,hail,hail,hail,VERB,UCONN
 charlotte.seitzinger@uconn.edu,cab,hail,hail,hail,VERB,UCONN
 charlotte.seitzinger@uconn.edu,cab,ride,ride,ride,VERB,UCONN
 raven.dest@uconn.edu,cab,riding,riding,ride,VERB,UCONN
@@ -1200,8 +1187,6 @@ shea.carroll@uconn.edu,cabdriver,friend,friend,friend,NOUN,UCONN
 shea.carroll@uconn.edu,cabdriver,worker,worker,worker,NOUN,UCONN
 taylor.e.sullivan@uconn.edu,cacti,cook,cook,cake,VERB,UCONN
 maia.cyganowski@uconn.edu,cacti,cut,cut,cut,VERB,UCONN
-maia.cyganowski@uconn.edu,cacti,cut,cut,cut,VERB,UCONN
-taylor.e.sullivan@uconn.edu,cacti,cut,cut,cut,VERB,UCONN
 taylor.e.sullivan@uconn.edu,cacti,cut,cut,cut,VERB,UCONN
 maia.cyganowski@uconn.edu,cacti,eat,eat,eat,VERB,UCONN
 taylor.e.sullivan@uconn.edu,cacti,feel,feel,feel,VERB,UCONN
@@ -1216,7 +1201,7 @@ kiley.malinowski@uconn.edu,cafe,for a date,date,date,NOUN,UCONN
 kiley.malinowski@uconn.edu,cafe,for breakfast,breakfast,breakfast,NOUN,UCONN
 kiley.malinowski@uconn.edu,cafe,for coffee,coffee,coffee,NOUN,UCONN
 kiley.malinowski@uconn.edu,cafe,place of work,place,place,NOUN,UCONN
-kiley.malinowski@uconn.edu,cafe,place of work,work,work,NOUN,UCONN
+kiley.malinowski@uconn.edu,cafe,place of work,work,work,VERB,UCONN
 benjamin.kushi@uconn.edu,cafe,sit,sit,sit,VERB,UCONN
 benjamin.kushi@uconn.edu,cafe,talk,talk,talk,VERB,UCONN
 erin.munch@uconn.edu,cafeteria,drink,drink,drink,VERB,UCONN
@@ -1233,19 +1218,19 @@ aisha.shahid@uconn.edu,calculator,subtract,subtract,subtract,VERB,UCONN
 kelly.s.aguilar@uconn.edu,calender,remembering,remembering,remember,VERB,UCONN
 kelly.s.aguilar@uconn.edu,calender,writing,writing,write,VERB,UCONN
 val.chia@uconn.edu,calves,exercised,exercised,exercise,VERB,UCONN
-val.chia@uconn.edu,calves,used,used,use,VERB,UCONN
+val.chia@uconn.edu,calves,used,used,use,AUX,UCONN
 jessica.vo@uconn.edu,camel,care for,care,care,VERB,UCONN
 jessica.vo@uconn.edu,camel,feed,feed,feed,VERB,UCONN
 jessica.vo@uconn.edu,camel,look at,look,look,VERB,UCONN
 jessica.vo@uconn.edu,camel,play with,play,play,VERB,UCONN
 jessica.vo@uconn.edu,camel,ride,ride,ride,VERB,UCONN
-jessica.vo@uconn.edu,camel,take pictures,pictures,picture,VERB,UCONN
-jessica.vo@uconn.edu,camel,take pictures,take,take,VERB,UCONN
+jessica.vo@uconn.edu,camel,take pictures,pictures,photograph,VERB,UCONN
+jessica.vo@uconn.edu,camel,take pictures,take,take,AUX,UCONN
 jessica.vo@uconn.edu,camel,touch,touch,touch,VERB,UCONN
 matthew.kraus@uconn.edu,camera,film,film,film,VERB,UCONN
 matthew.kraus@uconn.edu,camera,stream,stream,stream,VERB,UCONN
-matthew.kraus@uconn.edu,camera,take pictures,pictures,picture,VERB,UCONN
-matthew.kraus@uconn.edu,camera,take pictures,take,take,VERB,UCONN
+matthew.kraus@uconn.edu,camera,take pictures,pictures,photograph,VERB,UCONN
+matthew.kraus@uconn.edu,camera,take pictures,take,take,AUX,UCONN
 olivia.wright@uconn.edu,camera,technology,technology,technology,NOUN,UCONN
 olivia.wright@uconn.edu,camera,videography,video,video,NOUN,UCONN
 matthew.kraus@uconn.edu,camera,videos,videos,video,VERB,UCONN
@@ -1290,7 +1275,7 @@ enzo.klaus@uconn.edu,cannabis,selling,selling,sell,VERB,UCONN
 alexis.martino@uconn.edu,cannonball,jump,jump,jump,VERB,UCONN
 alexis.martino@uconn.edu,cannonball,pool,pool,pool,INTJ,UCONN
 alexis.martino@uconn.edu,cannonball,war,war,war,VERB,UCONN
-alexis.martino@uconn.edu,cannonball,weapon,weapon,weapon,NOUN,UCONN
+alexis.martino@uconn.edu,cannonball,weapon,weapon,weapon,VERB,UCONN
 jordan.dupree@uconn.edu,canoe,exercise,exercise,exercise,VERB,UCONN
 olivia.sztemberg@uconn.edu,canoe,fun,fun,fun,NOUN,UCONN
 jordan.dupree@uconn.edu,canoe,rowing,rowing,row,VERB,UCONN
@@ -1302,8 +1287,6 @@ giuseppe.cesare@uconn.edu,cantaloupe,assorted,assorted,assort,VERB,UCONN
 alysia.ma@uconn.edu,cantaloupe,chucked,chucked,chuck,VERB,UCONN
 giuseppe.cesare@uconn.edu,cantaloupe,cut,cut,cut,VERB,UCONN
 giuseppe.cesare@uconn.edu,cantaloupe,eaten,eaten,eat,VERB,UCONN
-giuseppe.cesare@uconn.edu,cantaloupe,eaten,eaten,eat,VERB,UCONN
-alysia.ma@uconn.edu,cantaloupe,eaten,eaten,eat,VERB,UCONN
 alysia.ma@uconn.edu,cantaloupe,eaten,eaten,eat,VERB,UCONN
 alysia.ma@uconn.edu,cantaloupe,sliced open,open,open,VERB,UCONN
 alysia.ma@uconn.edu,cantaloupe,sliced open,sliced,slice,VERB,UCONN
@@ -1320,8 +1303,6 @@ maia.cyganowski@uconn.edu,capsule,fill,fill,fill,VERB,UCONN
 matthew.kraus@uconn.edu,captain,drive boats,drive,drive,VERB,UCONN
 olivia.wright@uconn.edu,captain,in charge,charge,charge,VERB,UCONN
 matthew.kraus@uconn.edu,captain,lead,lead,lead,VERB,UCONN
-matthew.kraus@uconn.edu,captain,lead,lead,lead,VERB,UCONN
-olivia.wright@uconn.edu,captain,lead,lead,lead,VERB,UCONN
 olivia.wright@uconn.edu,captain,lead,lead,lead,VERB,UCONN
 matthew.kraus@uconn.edu,captain,role in army,army,army,NOUN,UCONN
 matthew.kraus@uconn.edu,captain,role in army,role,role,NOUN,UCONN
@@ -1349,8 +1330,6 @@ haydin.courtois@uconn.edu,car,watch a movie in,movie,movie,NOUN,UCONN
 haydin.courtois@uconn.edu,car,watch a movie in,watch,watch,VERB,UCONN
 arianna.dimeo@uconn.edu,caramel,cook,cook,cake,VERB,UCONN
 arianna.dimeo@uconn.edu,caramel,eat,eat,eat,VERB,UCONN
-arianna.dimeo@uconn.edu,caramel,eat,eat,eat,VERB,UCONN
-amanda.wainwright@uconn.edu,caramel,eat,eat,eat,VERB,UCONN
 amanda.wainwright@uconn.edu,caramel,eat,eat,eat,VERB,UCONN
 amanda.wainwright@uconn.edu,caramel,enjoy,enjoy,enjoy,VERB,UCONN
 amanda.wainwright@uconn.edu,caramel,stick,stick,stick,VERB,UCONN
@@ -1362,10 +1341,10 @@ isabelle.jadach@uconn.edu,card,write on,write,write,VERB,UCONN
 zachary.susser@uconn.edu,card,writing,writing,write,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,cardboard,bed,bed,bed,NOUN,UCONN
 eduardo.perea_hernandez@uconn.edu,cardboard,build,build,build,VERB,UCONN
-rachel.silverman@uconn.edu,cardboard,carrier,carrier,carrier,NOUN,UCONN
+rachel.silverman@uconn.edu,cardboard,carrier,carrier,carry,VERB,UCONN
 rachel.silverman@uconn.edu,cardboard,crafts,crafts,craft,NOUN,UCONN
 eduardo.perea_hernandez@uconn.edu,cardboard,cut,cut,cut,VERB,UCONN
-eduardo.perea_hernandez@uconn.edu,cardboard,draw,draw,dree,VERB,UCONN
+eduardo.perea_hernandez@uconn.edu,cardboard,draw,draw,draw,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,cardboard,hide things,hide,hide,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,cardboard,hide things,things,thing,NOUN,UCONN
 eduardo.perea_hernandez@uconn.edu,cardboard,mat,mat,mat,NOUN,UCONN
@@ -1378,8 +1357,6 @@ olivia.sztemberg@uconn.edu,cardigan,warmth,warmth,warmth,VERB,UCONN
 isabella.morfin@uconn.edu,carp,bait,bait,bait,VERB,UCONN
 isabella.morfin@uconn.edu,carp,ecosystem,ecosystem,ecosystem,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,carp,food,food,food,NOUN,UCONN
-pan.chrisovechotis@uconn.edu,carp,food,food,food,NOUN,UCONN
-isabella.morfin@uconn.edu,carp,food,food,food,NOUN,UCONN
 isabella.morfin@uconn.edu,carp,food,food,food,NOUN,UCONN
 isabella.morfin@uconn.edu,carp,mascot ,mascot,mascot,PART,UCONN
 pan.chrisovechotis@uconn.edu,carp,to fish,fish,fish,VERB,UCONN
@@ -1405,7 +1382,7 @@ arianna.dimeo@uconn.edu,carton,drink from,drink,drink,VERB,UCONN
 amanda.wainwright@uconn.edu,carton,drink throw out share,drink,drink,VERB,UCONN
 amanda.wainwright@uconn.edu,carton,drink throw out share,share,share,VERB,UCONN
 amanda.wainwright@uconn.edu,carton,drink throw out share,throw,throw,VERB,UCONN
-arianna.dimeo@uconn.edu,carton,throw out,throw,throw,INTJ,UCONN
+arianna.dimeo@uconn.edu,carton,throw out,throw,throw away,VERB,UCONN
 arianna.dimeo@uconn.edu,carton,trash,trash,trash,NOUN,UCONN
 isabelle.jadach@uconn.edu,cartridge,printer ink,ink,ink,NOUN,UCONN
 zachary.susser@uconn.edu,cartridge,vape,vape,vape,VERB,UCONN
@@ -1421,8 +1398,7 @@ delaney.harrington@uconn.edu,cash,give to others,give,give,VERB,UCONN
 delaney.harrington@uconn.edu,cash,give to others,others,other,NOUN,UCONN
 delaney.harrington@uconn.edu,cash,put in wallet,put,put,VERB,UCONN
 delaney.harrington@uconn.edu,cash,put in wallet,wallet,wallet,NOUN,UCONN
-delaney.harrington@uconn.edu,cash,put into atm,atm,atm,X,UCONN
-delaney.harrington@uconn.edu,cash,put into atm,put,put,VERB,UCONN
+delaney.harrington@uconn.edu,cash,put into atm,deposit,deposit,VERB,UCONN
 anna.lu@uconn.edu,cash,rip it up,rip,rip,VERB,UCONN
 delaney.harrington@uconn.edu,cash,save,save,save,VERB,UCONN
 delaney.harrington@uconn.edu,cash,spend,spend,spend,VERB,UCONN
@@ -1491,7 +1467,7 @@ benjamin.kushi@uconn.edu,catnip,plant,plant,plant,VERB,UCONN
 kate.santos@uconn.edu,catsup,dip other foods in ,dip,dip,VERB,UCONN
 kate.santos@uconn.edu,catsup,dip other foods in ,foods,food,NOUN,UCONN
 kelly.s.aguilar@uconn.edu,cattle,protecting,protecting,protect,VERB,UCONN
-kelly.s.aguilar@uconn.edu,cattle,using,using,use,VERB,UCONN
+kelly.s.aguilar@uconn.edu,cattle,using,using,use,AUX,UCONN
 aryanna.carter@uconn.edu,catwalk,fashion show,fashion,fashion,NOUN,UCONN
 aryanna.carter@uconn.edu,catwalk,fashion show,show,show,VERB,UCONN
 aryanna.carter@uconn.edu,catwalk,pageant,pageant,pageant,NOUN,UCONN
@@ -1503,7 +1479,7 @@ dakota.davis@uconn.edu,cauldron,mixing,mixing,mix,VERB,UCONN
 alyca.elcuri@uconn.edu,cauldron,to make potions,make,make,VERB,UCONN
 alyca.elcuri@uconn.edu,cauldron,to make potions,potions,potion,NOUN,UCONN
 aisha.shahid@uconn.edu,cauliflower,buy,buy,buy,VERB,UCONN
-aisha.shahid@uconn.edu,cauliflower,cook,cook,cake,VERB,UCONN
+aisha.shahid@uconn.edu,cauliflower,cook,cook,cook,VERB,UCONN
 aisha.shahid@uconn.edu,cauliflower,eat,eat,eat,VERB,UCONN
 aisha.shahid@uconn.edu,cauliflower,grow,grow,grow,VERB,UCONN
 aisha.shahid@uconn.edu,cauliflower,sell,sell,sell,VERB,UCONN
@@ -1548,28 +1524,26 @@ emily.b.sullivan@uconn.edu,cervix,give birth,birth,birth,VERB,UCONN
 emily.b.sullivan@uconn.edu,cervix,give birth,give,give,VERB,UCONN
 joseph.agreda@uconn.edu,chain,attach,attach,attach,VERB,UCONN
 alexandra.lisowski@uconn.edu,chain,helping,helping,help,VERB,UCONN
-alexandra.lisowski@uconn.edu,chain,holding,holding,hold,NOUN,UCONN
+alexandra.lisowski@uconn.edu,chain,holding,holding,hold,VERB,UCONN
 alexandra.lisowski@uconn.edu,chain,throwing,throwing,throw,VERB,UCONN
 alexandra.lisowski@uconn.edu,chain,tying,tying,tie,VERB,UCONN
 alexandra.lisowski@uconn.edu,chain,wearing,wearing,wear,VERB,UCONN
 maia.cyganowski@uconn.edu,chairperson,talk,talk,talk,VERB,UCONN
 vanesa.galindo@uconn.edu,chalet,cook,cook,cake,VERB,UCONN
 julia.farnoli@uconn.edu,chalet,using,using,use,VERB,UCONN
-jordan.dupree@uconn.edu,chalk,drawing,drawing,drawe,VERB,UCONN
-jordan.dupree@uconn.edu,chalk,drawing,drawing,drawe,VERB,UCONN
-olivia.sztemberg@uconn.edu,chalk,drawing,drawing,drawe,VERB,UCONN
-olivia.sztemberg@uconn.edu,chalk,drawing,drawing,drawe,VERB,UCONN
+jordan.dupree@uconn.edu,chalk,drawing,drawing,draw,VERB,UCONN
+jordan.dupree@uconn.edu,chalk,drawing,drawing,draw,VERB,UCONN
+olivia.sztemberg@uconn.edu,chalk,drawing,drawing,draw,VERB,UCONN
+olivia.sztemberg@uconn.edu,chalk,drawing,drawing,draw,VERB,UCONN
 olivia.sztemberg@uconn.edu,chalk,wirting,writing,write,VERB,UCONN
 dakota.davis@uconn.edu,chauffeur,driving,driving,drive,VERB,UCONN
 dakota.davis@uconn.edu,chauffeur,talking,talking,talk,VERB,UCONN
 alyca.elcuri@uconn.edu,chauffeur,to get from point a to point b,b,benefit,VERB,UCONN
-alyca.elcuri@uconn.edu,chauffeur,to get from point a to point b,get,get,VERB,UCONN
-alyca.elcuri@uconn.edu,chauffeur,to get from point a to point b,point,point,NOUN,UCONN
-alyca.elcuri@uconn.edu,chauffeur,to get from point a to point b,point,point,NOUN,UCONN
+alyca.elcuri@uconn.edu,chauffeur,to get from point a to point b,get,travel,VERB,UCONN
 alyca.elcuri@uconn.edu,chauffeur,to get from point a to point b,point,point,NOUN,UCONN
 alyca.elcuri@uconn.edu,chauffeur,to get from point a to point b,point,point,NOUN,UCONN
 alyca.elcuri@uconn.edu,chauffeur,to get places efficiently ,efficiently,efficiently,ADV,UCONN
-alyca.elcuri@uconn.edu,chauffeur,to get places efficiently ,get,get,VERB,UCONN
+alyca.elcuri@uconn.edu,chauffeur,to get places efficiently ,get,travel,VERB,UCONN
 alyca.elcuri@uconn.edu,chauffeur,to get places efficiently ,places,place,NOUN,UCONN
 samantha.g.sullivan@uconn.edu,cheddar,eating,eating,eat,VERB,UCONN
 samantha.g.sullivan@uconn.edu,cheddar,flavor ,flavor,flavor,VERB,UCONN
@@ -1600,15 +1574,15 @@ madison.kretschman@uconn.edu,cheesecloth,create,create,create,VERB,UCONN
 madison.kretschman@uconn.edu,cheesecloth,design,design,design,VERB,UCONN
 yining.luo@uconn.edu,cheesecloth,make,make,make,VERB,UCONN
 madison.kretschman@uconn.edu,cheesecloth,strain,strain,strain,VERB,UCONN
-madison.kretschman@uconn.edu,cheesecloth,use,use,use,VERB,UCONN
+madison.kretschman@uconn.edu,cheesecloth,use,use,use,AUX,UCONN
 alysia.ma@uconn.edu,chef,assisted,assisted,assist,VERB,UCONN
 alysia.ma@uconn.edu,chef,chatted with,chatted,chat,VERB,UCONN
 giuseppe.cesare@uconn.edu,chef,cooked,cooked,cook,VERB,UCONN
 alysia.ma@uconn.edu,chef,cried at,cried,cry,VERB,UCONN
 alysia.ma@uconn.edu,chef,danced with,danced,dance,VERB,UCONN
-giuseppe.cesare@uconn.edu,chef,fired,fired,fi,VERB,UCONN
+giuseppe.cesare@uconn.edu,chef,fired,fired,fire,VERB,UCONN
 alysia.ma@uconn.edu,chef,helped with,helped,help,VERB,UCONN
-giuseppe.cesare@uconn.edu,chef,hired,hired,hi,VERB,UCONN
+giuseppe.cesare@uconn.edu,chef,hired,hired,hire,VERB,UCONN
 alysia.ma@uconn.edu,chef,laughed with,laughed,laugh,VERB,UCONN
 alysia.ma@uconn.edu,chef,sat with,sat,sit,VERB,UCONN
 alysia.ma@uconn.edu,chef,screamed at,screamed,scream,VERB,UCONN
@@ -1639,8 +1613,6 @@ paige.starr@uconn.edu,chicken,use it's feathers,use,use,VERB,UCONN
 paige.starr@uconn.edu,chicken,use it for it's eggs,eggs,egg,NOUN,UCONN
 paige.starr@uconn.edu,chicken,use it for it's eggs,use,use,VERB,UCONN
 dylan.pontonio@uconn.edu,chickenfeed,feed,feed,feed,VERB,UCONN
-dylan.pontonio@uconn.edu,chickenfeed,feed,feed,feed,VERB,UCONN
-emily.eggler@uconn.edu,chickenfeed,feed,feed,feed,VERB,UCONN
 emily.eggler@uconn.edu,chickenfeed,feed,feed,feed,VERB,UCONN
 dylan.pontonio@uconn.edu,chickenfeed,please,please,please,INTJ,UCONN
 vanesa.galindo@uconn.edu,chihuahua,bark,bark,bark,VERB,UCONN
@@ -1655,17 +1627,15 @@ paige.gewirtz@uconn.edu,children,play,play,play,VERB,UCONN
 paige.gewirtz@uconn.edu,children,teach,teach,teach,VERB,UCONN
 shea.carroll@uconn.edu,chili,compete,compete,compete,VERB,UCONN
 sophia.montanez@uconn.edu,chili,eat,eat,eat,VERB,UCONN
-sophia.montanez@uconn.edu,chili,eat,eat,eat,VERB,UCONN
-shea.carroll@uconn.edu,chili,eat,eat,eat,VERB,UCONN
 shea.carroll@uconn.edu,chili,eat,eat,eat,VERB,UCONN
 shea.carroll@uconn.edu,chili,make,make,make,VERB,UCONN
 sophia.montanez@uconn.edu,chili,put on other food,food,food,NOUN,UCONN
-sophia.montanez@uconn.edu,chili,put on other food,put,put,VERB,UCONN
+sophia.montanez@uconn.edu,chili,put on other food,put,put,AUX,UCONN
 shea.carroll@uconn.edu,chili,sell,sell,sell,VERB,UCONN
 emily.b.sullivan@uconn.edu,chimney,design,design,design,VERB,UCONN
 emily.b.sullivan@uconn.edu,chimney,fire place,fire,fire,NOUN,UCONN
 emily.b.sullivan@uconn.edu,chimney,fire place,place,place,NOUN,UCONN
-emily.b.sullivan@uconn.edu,chimney,let smoke out,let,let,VERB,UCONN
+emily.b.sullivan@uconn.edu,chimney,let smoke out,let,let,AUX,UCONN
 emily.b.sullivan@uconn.edu,chimney,let smoke out,smoke,smoke,VERB,UCONN
 kansas.sienna@uconn.edu,chimney,pipe,pipe,pipe,NOUN,UCONN
 cecilia.debruycker@uconn.edu,chin,eat,eat,eat,VERB,UCONN
@@ -1678,7 +1648,7 @@ cecilia.debruycker@uconn.edu,chin,touch,touch,touch,NOUN,UCONN
 alyssa.wodarski@uconn.edu,chip,bite,bite,bite,VERB,UCONN
 alyssa.wodarski@uconn.edu,chip,eaten,eaten,eat,VERB,UCONN
 alyssa.wodarski@uconn.edu,chip,given,given,give,VERB,UCONN
-alyssa.wodarski@uconn.edu,chip,make,make,make,VERB,UCONN
+alyssa.wodarski@uconn.edu,chip,make,make,make,AUX,UCONN
 paige.gewirtz@uconn.edu,chiropractor,make your back feel better,back,back,ADV,UCONN
 paige.gewirtz@uconn.edu,chiropractor,make your back feel better,better,better,VERB,UCONN
 paige.gewirtz@uconn.edu,chiropractor,make your back feel better,feel,feel,VERB,UCONN
@@ -1692,7 +1662,7 @@ kansas.sienna@uconn.edu,chocolate,candy,candy,candy,NOUN,UCONN
 emily.b.sullivan@uconn.edu,chocolate,eat,eat,eat,VERB,UCONN
 kansas.sienna@uconn.edu,chocolate,food,food,food,NOUN,UCONN
 emily.b.sullivan@uconn.edu,chocolate,grow,grow,grow,VERB,UCONN
-emily.b.sullivan@uconn.edu,chocolate,make,make,make,VERB,UCONN
+emily.b.sullivan@uconn.edu,chocolate,make,make,make,AUX,UCONN
 nathan.e.shaw@uconn.edu,chopstick,break,break,break,VERB,UCONN
 nathan.e.shaw@uconn.edu,chopstick,burn,burn,burn,VERB,UCONN
 nathan.e.shaw@uconn.edu,chopstick,control,control,control,VERB,UCONN
@@ -1713,16 +1683,12 @@ kansas.sienna@uconn.edu,chow,food,food,food,NOUN,UCONN
 kansas.sienna@uconn.edu,chow,pet ,pet,pet,NOUN,UCONN
 arsha.tone@uconn.edu,chowder,drink,drink,drink,VERB,UCONN
 arsha.tone@uconn.edu,chowder,eat,eat,eat,VERB,UCONN
-arsha.tone@uconn.edu,chowder,eat,eat,eat,VERB,UCONN
-paige.starr@uconn.edu,chowder,eat,eat,eat,VERB,UCONN
 paige.starr@uconn.edu,chowder,eat,eat,eat,VERB,UCONN
 brianna.maximilien@uconn.edu,chowder,eating,eating,eat,VERB,UCONN
 brianna.maximilien@uconn.edu,chowder,food,food,food,NOUN,UCONN
 arsha.tone@uconn.edu,chowder,slurp,slurp,slurp,VERB,UCONN
 paige.starr@uconn.edu,chowder,throw out,throw,throw,VERB,UCONN
 sophia.montanez@uconn.edu,cider,drink,drink,drink,VERB,UCONN
-sophia.montanez@uconn.edu,cider,drink,drink,drink,VERB,UCONN
-shea.carroll@uconn.edu,cider,drink,drink,drink,VERB,UCONN
 shea.carroll@uconn.edu,cider,drink,drink,drink,VERB,UCONN
 shea.carroll@uconn.edu,cider,make,make,make,VERB,UCONN
 sophia.montanez@uconn.edu,cider,put in other foods,foods,food,NOUN,UCONN
@@ -1734,8 +1700,6 @@ kiley.malinowski@uconn.edu,cigar,smoke it,smoke,smoke,VERB,UCONN
 benjamin.kushi@uconn.edu,cigar,smoke,smoke,smoke,VERB,UCONN
 Joseph.Verrillo@uconn.edu,cigarette,light,light,light,VERB,UCONN
 Joseph.Verrillo@uconn.edu,cigarette,smoke,smoke,smoke,VERB,UCONN
-Joseph.Verrillo@uconn.edu,cigarette,smoke,smoke,smoke,VERB,UCONN
-valeria.ramirez@uconn.edu,cigarette,smoke,smoke,smoke,VERB,UCONN
 valeria.ramirez@uconn.edu,cigarette,smoke,smoke,smoke,VERB,UCONN
 anna.lu@uconn.edu,clamp,carpentry,carpentry,carpentry,NOUN,UCONN
 delaney.harrington@uconn.edu,clamp,close things,close,close,VERB,UCONN
@@ -1748,8 +1712,6 @@ anna.lu@uconn.edu,clamp,hold things,hold,hold,VERB,UCONN
 delaney.harrington@uconn.edu,clamp,hold things,hold,hold,VERB,UCONN
 delaney.harrington@uconn.edu,clamp,hold things,hold,hold,VERB,UCONN
 delaney.harrington@uconn.edu,clamp,hold things,things,thing,NOUN,UCONN
-delaney.harrington@uconn.edu,clamp,hold things,things,thing,NOUN,UCONN
-anna.lu@uconn.edu,clamp,hold things,things,thing,NOUN,UCONN
 anna.lu@uconn.edu,clamp,hold things,things,thing,NOUN,UCONN
 anna.lu@uconn.edu,clamp,house building,house,house,NOUN,UCONN
 anna.lu@uconn.edu,clamp,metal working,metal,metal,NOUN,UCONN
@@ -1790,7 +1752,7 @@ emily.b.sullivan@uconn.edu,clergyman,make decisions,make,make,VERB,UCONN
 kansas.sienna@uconn.edu,clergyman,paperwork ,paperwork,paperwork,NOUN,UCONN
 sophia.sanchez@uconn.edu,clerk,handling information,handling,handle,VERB,UCONN
 sophia.sanchez@uconn.edu,clerk,handling information,information,information,NOUN,UCONN
-sophia.sanchez@uconn.edu,clerk,record keeping,keeping,keep,VERB,UCONN
+sophia.sanchez@uconn.edu,clerk,record keeping,keeping,keep,AUX,UCONN
 sophia.sanchez@uconn.edu,clerk,record keeping,record,record,VERB,UCONN
 juliana.febrizio@uconn.edu,clerk,utilizing,utilizing,utilize,VERB,UCONN
 juliana.febrizio@uconn.edu,clerk,working,working,work,VERB,UCONN
@@ -1798,21 +1760,18 @@ arianna.dimeo@uconn.edu,clipboard,attach,attach,attach,VERB,UCONN
 amanda.wainwright@uconn.edu,clipboard,clip,clip,clip,VERB,UCONN
 arianna.dimeo@uconn.edu,clipboard,hold,hold,hold,VERB,UCONN
 arianna.dimeo@uconn.edu,clipboard,place down,place,place,VERB,UCONN
-amanda.wainwright@uconn.edu,clipboard,use,use,use,VERB,UCONN
+amanda.wainwright@uconn.edu,clipboard,use,use,use,AUX,UCONN
 amanda.wainwright@uconn.edu,clipboard,write,write,write,VERB,UCONN
 val.chia@uconn.edu,clips,clipped in hair,clipped,clip,VERB,UCONN
 val.chia@uconn.edu,clips,clipped in hair,hair,hair,NOUN,UCONN
-val.chia@uconn.edu,clips,thrown away,away,away,ADV,UCONN
-val.chia@uconn.edu,clips,thrown away,thrown,throw,VERB,UCONN
+val.chia@uconn.edu,clips,thrown away,thrown,throw away,VERB,UCONN
 val.chia@uconn.edu,clips,used,used,use,VERB,UCONN
 giuseppe.cesare@uconn.edu,cloak,cleaned,cleaned,clean,VERB,UCONN
 alysia.ma@uconn.edu,cloak,felt,felt,feel,VERB,UCONN
 alysia.ma@uconn.edu,cloak,smelled,smelled,smell,VERB,UCONN
 alysia.ma@uconn.edu,cloak,tossed,tossed,toss,VERB,UCONN
-giuseppe.cesare@uconn.edu,cloak,washed,washed,washed,VERB,UCONN
+giuseppe.cesare@uconn.edu,cloak,washed,washed,wash,VERB,UCONN
 alysia.ma@uconn.edu,cloak,worn,worn,wear,VERB,UCONN
-alysia.ma@uconn.edu,cloak,worn,worn,wear,VERB,UCONN
-giuseppe.cesare@uconn.edu,cloak,worn,worn,wear,VERB,UCONN
 giuseppe.cesare@uconn.edu,cloak,worn,worn,wear,VERB,UCONN
 sophia.sanchez@uconn.edu,clock,planning,planning,plan,VERB,UCONN
 juliana.febrizio@uconn.edu,clock,reading time,reading,read,VERB,UCONN
@@ -1834,11 +1793,9 @@ jason.giambertone@uconn.edu,clothes,wear,wear,wear,VERB,UCONN
 nathan.e.shaw@uconn.edu,clothesline,adjust,adjust,adjust,VERB,UCONN
 nathan.e.shaw@uconn.edu,clothesline,break,break,break,VERB,UCONN
 haydin.courtois@uconn.edu,clothesline,hang clothes,hang,hang,VERB,UCONN
-haydin.courtois@uconn.edu,clothesline,hang clothes,hang,hang,VERB,UCONN
-nathan.e.shaw@uconn.edu,clothesline,hang clothes,hang,hang,VERB,UCONN
 nathan.e.shaw@uconn.edu,clothesline,hang clothes,hang,hang,VERB,UCONN
 haydin.courtois@uconn.edu,clothesline,hang shoes,hang,hang,VERB,UCONN
-haydin.courtois@uconn.edu,clothesline,hang shoes,shoes,shoe,VERB,UCONN
+haydin.courtois@uconn.edu,clothesline,hang shoes,shoes,shoe,NOUN,UCONN
 haydin.courtois@uconn.edu,clothesline,hang towels,hang,hang,VERB,UCONN
 haydin.courtois@uconn.edu,clothesline,hang towels,towels,towel,NOUN,UCONN
 nathan.e.shaw@uconn.edu,clothesline,rip,rip,rip,VERB,UCONN
@@ -1857,13 +1814,11 @@ kansas.sienna@uconn.edu,clothing,shirt,shirt,shirt,NOUN,UCONN
 kansas.sienna@uconn.edu,clothing,skirt,skirt,skirt,NOUN,UCONN
 emily.b.sullivan@uconn.edu,clothing,style,style,style,NOUN,UCONN
 charlotte.seitzinger@uconn.edu,clove,bake,bake,bake,VERB,UCONN
-charlotte.seitzinger@uconn.edu,clove,cook,cook,cake,VERB,UCONN
+charlotte.seitzinger@uconn.edu,clove,cook,cook,cook,VERB,UCONN
 raven.dest@uconn.edu,clove,cooking,cooking,cook,VERB,UCONN
 raven.dest@uconn.edu,clove,crafting,crafting,craft,VERB,UCONN
 raven.dest@uconn.edu,clove,decorating,decorating,decorate,VERB,UCONN
 charlotte.seitzinger@uconn.edu,clove,eat,eat,eat,VERB,UCONN
-charlotte.seitzinger@uconn.edu,clove,eat,eat,eat,VERB,UCONN
-shane.markle@uconn.edu,clove,eat,eat,eat,VERB,UCONN
 shane.markle@uconn.edu,clove,eat,eat,eat,VERB,UCONN
 shane.markle@uconn.edu,clove,season food,food,food,NOUN,UCONN
 shane.markle@uconn.edu,clove,season food,season,season,VERB,UCONN
@@ -1881,10 +1836,10 @@ cassandra.correa@uconn.edu,coaster,put cup on top of it,cup,cup,NOUN,UCONN
 cassandra.correa@uconn.edu,coaster,put cup on top of it,put,put,VERB,UCONN
 cassandra.correa@uconn.edu,coaster,put cup on top of it,top,top,ADJ,UCONN
 nicolas.mastropaolo@uconn.edu,coaster,toss,toss,toss,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,coaster,use,use,use,VERB,UCONN
+nicolas.mastropaolo@uconn.edu,coaster,use,use,use,AUX,UCONN
 ryan.najemy@uconn.edu,coat,jacket,jacket,jacket,NOUN,UCONN
 jackson.kellogg@uconn.edu,coat,put on,put,put,VERB,UCONN
-jackson.kellogg@uconn.edu,coat,use,use,use,VERB,UCONN
+jackson.kellogg@uconn.edu,coat,use,use,use,AUX,UCONN
 jackson.kellogg@uconn.edu,coat,wear,wear,wear,VERB,UCONN
 olivia.sztemberg@uconn.edu,cob,food,food,food,NOUN,UCONN
 matthew.kraus@uconn.edu,cobblestone,build,build,build,VERB,UCONN
@@ -1892,7 +1847,7 @@ olivia.wright@uconn.edu,cobblestone,building,building,building,NOUN,UCONN
 olivia.wright@uconn.edu,cobblestone,house,house,house,NOUN,UCONN
 matthew.kraus@uconn.edu,cobblestone,minecraft,minecraft,minecraft,NOUN,UCONN
 olivia.wright@uconn.edu,cobblestone,walking,walking,walk,VERB,UCONN
-jackson.kellogg@uconn.edu,coconut,cook,cook,cake,VERB,UCONN
+jackson.kellogg@uconn.edu,coconut,cook,cook,cook,VERB,UCONN
 jackson.kellogg@uconn.edu,coconut,crack,crack,crack,VERB,UCONN
 jackson.kellogg@uconn.edu,coconut,eat,eat,eat,VERB,UCONN
 jackson.kellogg@uconn.edu,coconut,open,open,open,VERB,UCONN
@@ -1908,12 +1863,12 @@ rebecca.miller@uconn.edu,coffee,make,make,make,VERB,UCONN
 gabriel.paknia@uconn.edu,coffeepot,coffee,coffee,coffee,NOUN,UCONN
 gabriel.paknia@uconn.edu,coffeepot,hot water,hot,hot,ADJ,UCONN
 gabriel.paknia@uconn.edu,coffeepot,hot water,water,water,NOUN,UCONN
-cecilia.debruycker@uconn.edu,coffeepot,make,make,make,VERB,UCONN
-gabriel.paknia@uconn.edu,coffeepot,tea,tea,tea,NOUN,UCONN
+cecilia.debruycker@uconn.edu,coffeepot,make,make,make,AUX,UCONN
+gabriel.paknia@uconn.edu,coffeepot,tea,tea,tea,VERB,UCONN
 nina.laverty@uconn.edu,coffeepot,to buy,buy,buy,VERB,UCONN
 nina.laverty@uconn.edu,coffeepot,to clean,clean,clean,VERB,UCONN
 nina.laverty@uconn.edu,coffeepot,to keep coffee warm,coffee,coffee,NOUN,UCONN
-nina.laverty@uconn.edu,coffeepot,to keep coffee warm,keep,keep,VERB,UCONN
+nina.laverty@uconn.edu,coffeepot,to keep coffee warm,keep,keep,AUX,UCONN
 nina.laverty@uconn.edu,coffeepot,to keep coffee warm,warm,warm,VERB,UCONN
 nina.laverty@uconn.edu,coffeepot,to make coffee,coffee,coffee,NOUN,UCONN
 nina.laverty@uconn.edu,coffeepot,to make coffee,make,make,VERB,UCONN
@@ -1929,15 +1884,13 @@ enzo.klaus@uconn.edu,collarbone,breaking,breaking,break,VERB,UCONN
 enzo.klaus@uconn.edu,collarbone,fixing ,fixing,fix,VERB,UCONN
 jiage.li@uconn.edu,collarbone,increase the range of motion of the upper body ,body,body,NOUN,UCONN
 jiage.li@uconn.edu,collarbone,increase the range of motion of the upper body ,increase,increase,NOUN,UCONN
-jiage.li@uconn.edu,collarbone,increase the range of motion of the upper body ,motion,motion,NOUN,UCONN
+jiage.li@uconn.edu,collarbone,increase the range of motion of the upper body ,motion,move,VERB,UCONN
 jiage.li@uconn.edu,collarbone,increase the range of motion of the upper body ,range,range,NOUN,UCONN
 jiage.li@uconn.edu,collarbone,increase the range of motion of the upper body ,upper,upper,ADJ,UCONN
 enzo.klaus@uconn.edu,collarbone,lifting arms,arms,arms,NOUN,UCONN
 enzo.klaus@uconn.edu,collarbone,lifting arms,lifting,lift,VERB,UCONN
 enzo.klaus@uconn.edu,collarbone,moving,moving,move,VERB,UCONN
 valeria.ramirez@uconn.edu,colleague,talk to,talk,talk,VERB,UCONN
-valeria.ramirez@uconn.edu,colleague,talk to,talk,talk,VERB,UCONN
-Joseph.Verrillo@uconn.edu,colleague,talk to,talk,talk,VERB,UCONN
 Joseph.Verrillo@uconn.edu,colleague,talk to,talk,talk,VERB,UCONN
 Joseph.Verrillo@uconn.edu,colleague,work with,work,work,VERB,UCONN
 brianna.maximilien@uconn.edu,colt,firearms,firearms,firearm,NOUN,UCONN
@@ -1969,8 +1922,7 @@ paige.starr@uconn.edu,computer,record voice memos,voice,voice,NOUN,UCONN
 paige.starr@uconn.edu,computer,search the internet,internet,internet,NOUN,UCONN
 paige.starr@uconn.edu,computer,search the internet,search,search,VERB,UCONN
 paige.starr@uconn.edu,computer,shop,shop,shop,VERB,UCONN
-paige.starr@uconn.edu,computer,take pictures,pictures,picture,NOUN,UCONN
-paige.starr@uconn.edu,computer,take pictures,take,take,VERB,UCONN
+paige.starr@uconn.edu,computer,take pictures,pictures,photograph,VERB,UCONN
 paige.starr@uconn.edu,computer,watch videos,videos,video,NOUN,UCONN
 paige.starr@uconn.edu,computer,watch videos,watch,watch,VERB,UCONN
 brianna.maximilien@uconn.edu,computer,watching shows/movies,shows,show,NOUN,UCONN
@@ -1982,13 +1934,10 @@ kelly.s.aguilar@uconn.edu,concert,going out,going,go,VERB,UCONN
 kelly.s.aguilar@uconn.edu,concert,pictures,pictures,picture,NOUN,UCONN
 kelly.s.aguilar@uconn.edu,concert,singing,singing,singe,VERB,UCONN
 alysia.ma@uconn.edu,conch,blew into,blew,blow,VERB,UCONN
-alysia.ma@uconn.edu,conch,blew onto,blew,blow,VERB,UCONN
 alysia.ma@uconn.edu,conch,blew onto,onto,onto,ADP,UCONN
 alysia.ma@uconn.edu,conch,felt,felt,feel,VERB,UCONN
 alysia.ma@uconn.edu,conch,heard,heard,hear,VERB,UCONN
 alysia.ma@uconn.edu,conch,listened to,listened,listen,VERB,UCONN
-alysia.ma@uconn.edu,conch,listened to,listened,listen,VERB,UCONN
-giuseppe.cesare@uconn.edu,conch,listened to,listened,listen,VERB,UCONN
 giuseppe.cesare@uconn.edu,conch,listened to,listened,listen,VERB,UCONN
 alysia.ma@uconn.edu,conch,put ear to,ear,ear,ADJ,UCONN
 alysia.ma@uconn.edu,conch,put ear to,put,put,VERB,UCONN
@@ -2001,7 +1950,7 @@ val.chia@uconn.edu,concrete,pieces can be picked up,picked,pick,VERB,UCONN
 val.chia@uconn.edu,concrete,pieces can be picked up,pieces,piece,NOUN,UCONN
 val.chia@uconn.edu,concrete,ran on,ran,run,VERB,UCONN
 val.chia@uconn.edu,concrete,skipped on,skipped,skip,VERB,UCONN
-val.chia@uconn.edu,concrete,stepped on,stepped,step,VERB,UCONN
+val.chia@uconn.edu,concrete,stepped on,stepped,step on,VERB,UCONN
 val.chia@uconn.edu,concrete,walked on,walked,walk,VERB,UCONN
 gianna.perricone@uconn.edu,conditioner,clean carpet,carpet,carpet,NOUN,UCONN
 gianna.perricone@uconn.edu,conditioner,clean carpet,clean,clean,VERB,UCONN
@@ -2013,9 +1962,7 @@ owen.donegan@uconn.edu,conditioner,use in shower,shower,shower,NOUN,UCONN
 owen.donegan@uconn.edu,conditioner,use in shower,use,use,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,cone,eat,eat,eat,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,cone,hat,hat,hat,VERB,UCONN
-eduardo.perea_hernandez@uconn.edu,cone,hat,hat,hat,NOUN,UCONN
 rachel.silverman@uconn.edu,cone,hat,hat,hat,VERB,UCONN
-rachel.silverman@uconn.edu,cone,hat,hat,hat,NOUN,UCONN
 eduardo.perea_hernandez@uconn.edu,cone,hold ice cream,hold,hold,VERB,UCONN
 rachel.silverman@uconn.edu,cone,traffic,traffic,traffic,NOUN,UCONN
 aryanna.carter@uconn.edu,congresswoman,expressing opinions,expressing,express,VERB,UCONN
@@ -2038,7 +1985,7 @@ shane.markle@uconn.edu,container,store food,store,store,VERB,UCONN
 charlotte.seitzinger@uconn.edu,container,store,store,store,VERB,UCONN
 kelly.s.aguilar@uconn.edu,contraceptive,medicine,medicine,medicine,NOUN,UCONN
 kelly.s.aguilar@uconn.edu,contraceptive,taking,taking,take,VERB,UCONN
-alex.zavelson@uconn.edu,cookhouse,to cook,cook,cake,VERB,UCONN
+alex.zavelson@uconn.edu,cookhouse,to cook,cook,cook,VERB,UCONN
 raven.dest@uconn.edu,cooler,aesthetic appeal,aesthetic,aesthetic,ADJ,UCONN
 raven.dest@uconn.edu,cooler,aesthetic appeal,appeal,appeal,VERB,UCONN
 charlotte.seitzinger@uconn.edu,cooler,carry,carry,carry,VERB,UCONN
@@ -2054,8 +2001,6 @@ shane.markle@uconn.edu,cooler,store drinks,store,store,VERB,UCONN
 shane.markle@uconn.edu,cooler,store food,food,food,NOUN,UCONN
 shane.markle@uconn.edu,cooler,store food,store,store,VERB,UCONN
 Joseph.Verrillo@uconn.edu,cop,call,call,call,VERB,UCONN
-Joseph.Verrillo@uconn.edu,cop,call,call,call,VERB,UCONN
-valeria.ramirez@uconn.edu,cop,call,call,call,VERB,UCONN
 valeria.ramirez@uconn.edu,cop,call,call,call,VERB,UCONN
 shane.markle@uconn.edu,copilot,ask,ask,ask,VERB,UCONN
 shane.markle@uconn.edu,copilot,command,command,command,VERB,UCONN
@@ -2087,8 +2032,6 @@ rachel.silverman@uconn.edu,corkscrew,plug,plug,plug,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,corkscrew,stab,stab,stab,VERB,UCONN
 sophia.sanchez@uconn.edu,cornflakes,crafts,crafts,craft,VERB,UCONN
 sophia.sanchez@uconn.edu,cornflakes,eating,eating,eat,VERB,UCONN
-sophia.sanchez@uconn.edu,cornflakes,eating,eating,eat,VERB,UCONN
-juliana.febrizio@uconn.edu,cornflakes,eating,eating,eat,VERB,UCONN
 juliana.febrizio@uconn.edu,cornflakes,eating,eating,eat,VERB,UCONN
 juliana.febrizio@uconn.edu,cornflakes,enjoying,enjoying,enjoy,VERB,UCONN
 enzo.klaus@uconn.edu,cornflower,observing,observing,obserive,VERB,UCONN
@@ -2099,10 +2042,10 @@ zarya.hernandez_salto@uconn.edu,cornmeal,eat raw,eat,eat,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,cornmeal,eat raw,raw,raw,ADJ,UCONN
 alexis.drossos@uconn.edu,cornmeal,eat,eat,eat,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,cornmeal,make cornbread,cornbread,cornbread,NOUN,UCONN
-zarya.hernandez_salto@uconn.edu,cornmeal,make cornbread,make,make,VERB,UCONN
+zarya.hernandez_salto@uconn.edu,cornmeal,make cornbread,make,make,AUX,UCONN
 enzo.klaus@uconn.edu,corsage,giving,giving,give,VERB,UCONN
 enzo.klaus@uconn.edu,corsage,prom,prom,prom,X,UCONN
-enzo.klaus@uconn.edu,cosmetics,going out,going,go,VERB,UCONN
+enzo.klaus@uconn.edu,cosmetics,going out,going,go,AUX,UCONN
 enzo.klaus@uconn.edu,cosmetics,hollywood,hollywood,hollywood,NOUN,UCONN
 jiage.li@uconn.edu,cosmetics,improve appearance,appearance,appearance,NOUN,UCONN
 jiage.li@uconn.edu,cosmetics,improve appearance,improve,improve,VERB,UCONN
@@ -2145,17 +2088,10 @@ pan.chrisovechotis@uconn.edu,cousin,do things together,things,thing,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,cousin,do things together,together,together,ADV,UCONN
 isabella.morfin@uconn.edu,cousin,driver,driver,driver,NOUN,UCONN
 Isabella.carnelli@uconn.edu,cousin,family,family,family,NOUN,UCONN
-Isabella.carnelli@uconn.edu,cousin,family,family,family,NOUN,UCONN
-Isabella.carnelli@uconn.edu,cousin,family,family,family,NOUN,UCONN
-isabella.morfin@uconn.edu,cousin,family,family,family,NOUN,UCONN
-isabella.morfin@uconn.edu,cousin,family,family,family,NOUN,UCONN
-isabella.morfin@uconn.edu,cousin,family,family,family,NOUN,UCONN
-pan.chrisovechotis@uconn.edu,cousin,family,family,family,NOUN,UCONN
-pan.chrisovechotis@uconn.edu,cousin,family,family,family,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,cousin,family,family,family,NOUN,UCONN
 isabella.morfin@uconn.edu,cousin,friend,friend,friend,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,cousin,keep company,company,company,NOUN,UCONN
-pan.chrisovechotis@uconn.edu,cousin,keep company,keep,keep,VERB,UCONN
+pan.chrisovechotis@uconn.edu,cousin,keep company,keep,keep,AUX,UCONN
 Isabella.carnelli@uconn.edu,cousin,like sibling,like,like,INTJ,UCONN
 pan.chrisovechotis@uconn.edu,cousin,listen to,listen,listen,VERB,UCONN
 Isabella.carnelli@uconn.edu,cousin,related,related,relate,ADJ,UCONN
@@ -2170,11 +2106,9 @@ zachary.susser@uconn.edu,Crab,food,food,food,NOUN,UCONN
 isabelle.jadach@uconn.edu,Crab,hunt,hunt,hunt,VERB,UCONN
 isabelle.jadach@uconn.edu,Crab,look at,look,look,VERB,UCONN
 taylor.e.sullivan@uconn.edu,crabgrass,cut,cut,cut,VERB,UCONN
-taylor.e.sullivan@uconn.edu,crabgrass,cut,cut,cut,VERB,UCONN
-maia.cyganowski@uconn.edu,crabgrass,cut,cut,cut,VERB,UCONN
 maia.cyganowski@uconn.edu,crabgrass,cut,cut,cut,VERB,UCONN
 maia.cyganowski@uconn.edu,crabgrass,eaten,eaten,eat,VERB,UCONN
-maia.cyganowski@uconn.edu,crabgrass,farmed,farmed,far,VERB,UCONN
+maia.cyganowski@uconn.edu,crabgrass,farmed,farmed,farm,VERB,UCONN
 taylor.e.sullivan@uconn.edu,crabgrass,feel,feel,feel,VERB,UCONN
 taylor.e.sullivan@uconn.edu,crabgrass,water,water,water,NOUN,UCONN
 aryanna.carter@uconn.edu,crackers,crust,crust,crust,NOUN,UCONN
@@ -2183,7 +2117,7 @@ hunter.tang@uconn.edu,crackers,put cheese on,cheese,cheese,NOUN,UCONN
 hunter.tang@uconn.edu,crackers,put cheese on,put,put,VERB,UCONN
 aryanna.carter@uconn.edu,crackers,snacking,snacking,snack,VERB,UCONN
 cecilia.debruycker@uconn.edu,cranberry,bake,bake,bake,VERB,UCONN
-cecilia.debruycker@uconn.edu,cranberry,cook,cook,cake,VERB,UCONN
+cecilia.debruycker@uconn.edu,cranberry,cook,cook,cook,VERB,UCONN
 cecilia.debruycker@uconn.edu,cranberry,drink,drink,drink,VERB,UCONN
 cecilia.debruycker@uconn.edu,cranberry,eat,eat,eat,VERB,UCONN
 gabriel.paknia@uconn.edu,cranberry,fruit salad,fruit,fruit,NOUN,UCONN
@@ -2193,7 +2127,7 @@ gabriel.paknia@uconn.edu,cranberry,medley,medley,medley,INTJ,UCONN
 gabriel.paknia@uconn.edu,cranberry,salad,salad,salad,NOUN,UCONN
 nina.laverty@uconn.edu,cranberry,to eat,eat,eat,VERB,UCONN
 nina.laverty@uconn.edu,cranberry,to use as decoration and garland ,garland,garland,NOUN,UCONN
-nina.laverty@uconn.edu,cranberry,to use as decoration and garland ,use,use,VERB,UCONN
+nina.laverty@uconn.edu,cranberry,to use as decoration and garland ,use,use,AUX,UCONN
 dakota.davis@uconn.edu,crane,adjusting,adjusting,adjust,VERB,UCONN
 dakota.davis@uconn.edu,crane,constructing,constructing,construct,VERB,UCONN
 dakota.davis@uconn.edu,crane,moving,moving,move,VERB,UCONN
@@ -2208,7 +2142,7 @@ kelly_rae.lonergan@uconn.edu,crankshaft,to work some other type of machinery,typ
 kelly_rae.lonergan@uconn.edu,crankshaft,to work some other type of machinery,work,work,VERB,UCONN
 rebecca.miller@uconn.edu,crankshaft,use,use,use,VERB,UCONN
 emily.b.sullivan@uconn.edu,crap,going to the bathroom,bathroom,bathroom,NOUN,UCONN
-emily.b.sullivan@uconn.edu,crap,going to the bathroom,going,go,VERB,UCONN
+emily.b.sullivan@uconn.edu,crap,going to the bathroom,going,go,AUX,UCONN
 emily.b.sullivan@uconn.edu,crap,swearing,swearing,swear,VERB,UCONN
 alyssa.wodarski@uconn.edu,crate,carry,carry,carry,VERB,UCONN
 alyssa.wodarski@uconn.edu,crate,fill,fill,fill,VERB,UCONN
@@ -2282,8 +2216,6 @@ ryan.najemy@uconn.edu,crossbow,aim,aim,aim,VERB,UCONN
 jackson.kellogg@uconn.edu,crossbow,fire,fire,fire,VERB,UCONN
 jackson.kellogg@uconn.edu,crossbow,reload,reload,reload,VERB,UCONN
 ryan.najemy@uconn.edu,crossbow,shoot,shoot,shoot,VERB,UCONN
-ryan.najemy@uconn.edu,crossbow,shoot,shoot,shoot,VERB,UCONN
-jackson.kellogg@uconn.edu,crossbow,shoot,shoot,shoot,VERB,UCONN
 jackson.kellogg@uconn.edu,crossbow,shoot,shoot,shoot,VERB,UCONN
 jackson.kellogg@uconn.edu,crossbow,use,use,use,VERB,UCONN
 jayline.steiding@uconn.edu,crotch,urinate,urinate,urinate,VERB,UCONN
@@ -2314,14 +2246,14 @@ delaney.harrington@uconn.edu,cup,play games,play,play,VERB,UCONN
 anna.lu@uconn.edu,cup,smack someone with,smack,smack,VERB,UCONN
 anna.lu@uconn.edu,cup,smack someone with,someone,someone,PRON,UCONN
 delaney.harrington@uconn.edu,cup,stack,stack,stack,VERB,UCONN
-anna.lu@uconn.edu,cup,store liquid,liquid,liquid,AUX,UCONN
+anna.lu@uconn.edu,cup,store liquid,liquid,liquid,NOUN,UCONN
 anna.lu@uconn.edu,cup,store liquid,store,store,VERB,UCONN
 anna.lu@uconn.edu,cup,store solids,solids,solid,NOUN,UCONN
 anna.lu@uconn.edu,cup,store solids,store,store,VERB,UCONN
 anna.lu@uconn.edu,cup,throw it,throw,throw,VERB,UCONN
 delaney.harrington@uconn.edu,cup,trap something,something,something,PRON,UCONN
 delaney.harrington@uconn.edu,cup,trap something,trap,trap,VERB,UCONN
-anna.lu@uconn.edu,cup,use as decoration,use,use,VERB,UCONN
+anna.lu@uconn.edu,cup,use as decoration,use,use,AUX,UCONN
 delaney.harrington@uconn.edu,cup,wash,wash,wash,VERB,UCONN
 aryanna.carter@uconn.edu,cupboard,bookshelf,bookshelf,bookshelf,NOUN,UCONN
 aryanna.carter@uconn.edu,cupboard,cups,cups,cup,NOUN,UCONN
@@ -2332,15 +2264,13 @@ hunter.tang@uconn.edu,cupboard,hold cups,hold,hold,VERB,UCONN
 hunter.tang@uconn.edu,cupboard,hold plates,hold,hold,VERB,UCONN
 hunter.tang@uconn.edu,cupboard,hold plates,plates,plate,NOUN,UCONN
 courtney.musante@uconn.edu,curd,bake,bake,bake,VERB,UCONN
-courtney.musante@uconn.edu,curd,cook,cook,cake,VERB,UCONN
+courtney.musante@uconn.edu,curd,cook,cook,cook,VERB,UCONN
 morgan.klepack@uconn.edu,curd,cooking,cooking,cook,VERB,UCONN
 courtney.musante@uconn.edu,curd,eat,eat,eat,VERB,UCONN
 courtney.musante@uconn.edu,curd,mix,mix,mix,VERB,UCONN
 courtney.musante@uconn.edu,curd,sell,sell,sell,VERB,UCONN
 anna.lu@uconn.edu,curry,cook,cook,cake,VERB,UCONN
 anna.lu@uconn.edu,curry,eat,eat,eat,VERB,UCONN
-anna.lu@uconn.edu,curry,eat,eat,eat,VERB,UCONN
-delaney.harrington@uconn.edu,curry,eat,eat,eat,VERB,UCONN
 delaney.harrington@uconn.edu,curry,eat,eat,eat,VERB,UCONN
 anna.lu@uconn.edu,curry,make a mess,make,make,VERB,UCONN
 anna.lu@uconn.edu,curry,make a mess,mess,mess,NOUN,UCONN
@@ -2352,12 +2282,10 @@ delaney.harrington@uconn.edu,curry,spice things up,spice,spice,NOUN,UCONN
 delaney.harrington@uconn.edu,curry,spice things up,things,thing,NOUN,UCONN
 anna.lu@uconn.edu,curry,throw it at someone,someone,someone,PRON,UCONN
 anna.lu@uconn.edu,curry,throw it at someone,throw,throw,VERB,UCONN
-anna.lu@uconn.edu,curry,use for decoration,use,use,VERB,UCONN
+anna.lu@uconn.edu,curry,use for decoration,use,use,AUX,UCONN
 terence.falvey@uconn.edu,custard,buy,buy,buy,VERB,UCONN
 giselle.rodriguez@uconn.edu,custard,display,display,display,VERB,UCONN
 terence.falvey@uconn.edu,custard,eat,eat,eat,VERB,UCONN
-terence.falvey@uconn.edu,custard,eat,eat,eat,VERB,UCONN
-giselle.rodriguez@uconn.edu,custard,eat,eat,eat,VERB,UCONN
 giselle.rodriguez@uconn.edu,custard,eat,eat,eat,VERB,UCONN
 giselle.rodriguez@uconn.edu,custard,food,food,food,NOUN,UCONN
 terence.falvey@uconn.edu,custard,sell,sell,sell,VERB,UCONN
@@ -2374,28 +2302,26 @@ giselle.rodriguez@uconn.edu,cuttlefish,fish tank,tank,tank,NOUN,UCONN
 julia.farnoli@uconn.edu,cymbals,clashing,clashing,clash,VERB,UCONN
 julia.farnoli@uconn.edu,cymbals,hearing,hearing,hear,VERB,UCONN
 vanesa.galindo@uconn.edu,cymbals,make loud sounds,loud,loud,ADV,UCONN
-vanesa.galindo@uconn.edu,cymbals,make loud sounds,make,make,VERB,UCONN
-vanesa.galindo@uconn.edu,cymbals,make loud sounds,sounds,sound,NOUN,UCONN
-vanesa.galindo@uconn.edu,cymbals,make music,make,make,VERB,UCONN
-vanesa.galindo@uconn.edu,cymbals,make music,music,music,NOUN,UCONN
+vanesa.galindo@uconn.edu,cymbals,make loud sounds,make,make,AUX,UCONN
+vanesa.galindo@uconn.edu,cymbals,make loud sounds,sounds,sound,VERB,UCONN
+vanesa.galindo@uconn.edu,cymbals,make music,make,make,AUX,UCONN
+vanesa.galindo@uconn.edu,cymbals,make music,music,music,VERB,UCONN
 julia.farnoli@uconn.edu,cymbals,playing,playing,play,VERB,UCONN
 courtney.musante@uconn.edu,dachshund,aid,aid,aid,VERB,UCONN
 courtney.musante@uconn.edu,dachshund,bark,bark,bark,VERB,UCONN
 courtney.musante@uconn.edu,dachshund,companionship,companionship,companionship,NOUN,UCONN
 courtney.musante@uconn.edu,dachshund,eat,eat,eat,VERB,UCONN
-morgan.klepack@uconn.edu,dachshund,fun,fun,fun,NOUN,UCONN
+morgan.klepack@uconn.edu,dachshund,fun,fun,fun,VERB,UCONN
 courtney.musante@uconn.edu,dachshund,help,help,help,VERB,UCONN
 courtney.musante@uconn.edu,dachshund,love,love,love,VERB,UCONN
 courtney.musante@uconn.edu,dachshund,walk,walk,walk,VERB,UCONN
-nina.laverty@uconn.edu,dad,caretaker,caretaker,caretaker,NOUN,UCONN
+nina.laverty@uconn.edu,dad,caretaker,caretaker,care,VERB,UCONN
 gabriel.paknia@uconn.edu,dad,driving,driving,drive,VERB,UCONN
 nina.laverty@uconn.edu,dad,family,family,family,NOUN,UCONN
 cecilia.debruycker@uconn.edu,dad,love,love,love,VERB,UCONN
 cecilia.debruycker@uconn.edu,dad,money,money,money,NOUN,UCONN
 gabriel.paknia@uconn.edu,dad,respect,respect,respect,VERB,UCONN
 cecilia.debruycker@uconn.edu,dad,support,support,support,VERB,UCONN
-cecilia.debruycker@uconn.edu,dad,support,support,support,VERB,UCONN
-gabriel.paknia@uconn.edu,dad,support,support,support,VERB,UCONN
 gabriel.paknia@uconn.edu,dad,support,support,support,VERB,UCONN
 andres.salas@uconn.edu,daffodil,different colors,colors,color,NOUN,UCONN
 andres.salas@uconn.edu,daffodil,different colors,different,different,ADJ,UCONN
@@ -2438,10 +2364,10 @@ sophia.montanez@uconn.edu,deliverer,furniture,furniture,furniture,NOUN,UCONN
 shea.carroll@uconn.edu,deliverer,supplies,supplies,supplies,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,deliveryman,deliver things,deliver,deliver,VERB,UCONN
 pan.chrisovechotis@uconn.edu,deliveryman,deliver things,things,thing,NOUN,UCONN
-isabella.morfin@uconn.edu,deliveryman,delivery,delivery,delivery,NOUN,UCONN
+isabella.morfin@uconn.edu,deliveryman,delivery,delivery,deliver,VERB,UCONN
 isabella.morfin@uconn.edu,deliveryman,friend,friend,friend,NOUN,UCONN
 Isabella.carnelli@uconn.edu,deliveryman,letters,letters,letter,NOUN,UCONN
-Isabella.carnelli@uconn.edu,deliveryman,mail,mail,mail,NOUN,UCONN
+Isabella.carnelli@uconn.edu,deliveryman,mail,mail,mail,VERB,UCONN
 pan.chrisovechotis@uconn.edu,deliveryman,send things,send,send,VERB,UCONN
 pan.chrisovechotis@uconn.edu,deliveryman,send things,things,thing,NOUN,UCONN
 isabella.morfin@uconn.edu,deliveryman,worker,worker,worker,NOUN,UCONN
@@ -2472,7 +2398,7 @@ kansas.sienna@uconn.edu,deodorant,armpit,armpit,armpit,NOUN,UCONN
 emily.b.sullivan@uconn.edu,deodorant,soften skin,skin,skin,NOUN,UCONN
 emily.b.sullivan@uconn.edu,deodorant,soften skin,soften,soften,VERB,UCONN
 emily.b.sullivan@uconn.edu,deodorant,use to not smell,smell,smell,VERB,UCONN
-emily.b.sullivan@uconn.edu,deodorant,use to not smell,use,use,VERB,UCONN
+emily.b.sullivan@uconn.edu,deodorant,use to not smell,use,use,AUX,UCONN
 myla.altadonna@uconn.edu,dermatologist,acne,acne,acne,NOUN,UCONN
 kate.santos@uconn.edu,dermatologist,advising,advising,advise,VERB,UCONN
 kate.santos@uconn.edu,dermatologist,approving skincare products,approving,approve,VERB,UCONN
@@ -2699,7 +2625,7 @@ alyssa.wodarski@uconn.edu,dove,release,release,release,VERB,UCONN
 alexandra.lisowski@uconn.edu,drapery,blocking the sun,blocking,block,VERB,UCONN
 alexandra.lisowski@uconn.edu,drapery,blocking the sun,sun,sun,NOUN,UCONN
 joseph.agreda@uconn.edu,drapery,design,design,design,VERB,UCONN
-valeria.ramirez@uconn.edu,drawstring,draw,draw,dree,VERB,UCONN
+valeria.ramirez@uconn.edu,drawstring,draw,draw,draw,VERB,UCONN
 Joseph.Verrillo@uconn.edu,drawstring,tie ,tie,tie,VERB,UCONN
 valeria.ramirez@uconn.edu,dresser,dress up,dress,dress,NOUN,UCONN
 Joseph.Verrillo@uconn.edu,dresser,store,store,store,VERB,UCONN
@@ -3138,7 +3064,7 @@ kiley.malinowski@uconn.edu,fishbone,throw away,throw,throw,VERB,UCONN
 jiage.li@uconn.edu,fishpond,keep the fish,fish,fish,NOUN,UCONN
 jiage.li@uconn.edu,fishpond,keep the fish,keep,keep,VERB,UCONN
 enzo.klaus@uconn.edu,fishpond,sailing,sailing,sail,VERB,UCONN
-enzo.klaus@uconn.edu,fishpond,swimming,swimming,swimm,VERB,UCONN
+enzo.klaus@uconn.edu,fishpond,swimming,swimming,swim,VERB,UCONN
 olivia.sztemberg@uconn.edu,fist,hold,hold,hold,VERB,UCONN
 olivia.sztemberg@uconn.edu,fist,mold,mold,mold,VERB,UCONN
 olivia.sztemberg@uconn.edu,fist,punch,punch,punch,VERB,UCONN
@@ -3563,7 +3489,7 @@ alysia.ma@uconn.edu,grapefruit,spooned,spooned,spoon,VERB,UCONN
 alysia.ma@uconn.edu,grapefruit,thrown away,away,away,ADV,UCONN
 alysia.ma@uconn.edu,grapefruit,thrown away,thrown,throw,VERB,UCONN
 alysia.ma@uconn.edu,grapefruit,tossed,tossed,toss,VERB,UCONN
-terence.falvey@uconn.edu,graphite,draw,draw,dree,VERB,UCONN
+terence.falvey@uconn.edu,graphite,draw,draw,draw,VERB,UCONN
 giselle.rodriguez@uconn.edu,graphite,mechanical pencils,mechanical,mechanical,ADJ,UCONN
 giselle.rodriguez@uconn.edu,graphite,mechanical pencils,pencils,pencil,NOUN,UCONN
 giselle.rodriguez@uconn.edu,graphite,pencils,pencils,pencil,NOUN,UCONN
@@ -4011,7 +3937,7 @@ jayline.steiding@uconn.edu,homemaker,to keep a home safe,home,home,ADV,UCONN
 jayline.steiding@uconn.edu,homemaker,to keep a home safe,keep,keep,VERB,UCONN
 jayline.steiding@uconn.edu,homemaker,to keep a home safe,safe,safe,VERB,UCONN
 courtney.musante@uconn.edu,homework,create,create,create,VERB,UCONN
-courtney.musante@uconn.edu,homework,draw,draw,dree,VERB,UCONN
+courtney.musante@uconn.edu,homework,draw,draw,draw,VERB,UCONN
 courtney.musante@uconn.edu,homework,explain,explain,explain,VERB,UCONN
 courtney.musante@uconn.edu,homework,learn,learn,learn,VERB,UCONN
 courtney.musante@uconn.edu,homework,write,write,write,VERB,UCONN
@@ -4372,7 +4298,7 @@ jayline.steiding@uconn.edu,ketchup,cooking,cooking,cook,VERB,UCONN
 pan.chrisovechotis@uconn.edu,kettle,boil water,boil,boil,VERB,UCONN
 pan.chrisovechotis@uconn.edu,kettle,boil water,water,water,NOUN,UCONN
 Isabella.carnelli@uconn.edu,kettle,coffee,coffee,coffee,NOUN,UCONN
-isabella.morfin@uconn.edu,kettle,drawing subject,drawing,drawe,VERB,UCONN
+isabella.morfin@uconn.edu,kettle,drawing subject,drawing,draw,VERB,UCONN
 isabella.morfin@uconn.edu,kettle,drawing subject,subject,subject,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,kettle,pouring water,pouring,pour,VERB,UCONN
 pan.chrisovechotis@uconn.edu,kettle,pouring water,water,water,NOUN,UCONN
@@ -4574,8 +4500,8 @@ owen.donegan@uconn.edu,leaves,touch,touch,touch,NOUN,UCONN
 gabriela.duana@uconn.edu,ledger,read,read,read,VERB,UCONN
 dakota.davis@uconn.edu,leg,moving,moving,move,VERB,UCONN
 dakota.davis@uconn.edu,leg,sitting,sitting,sit,VERB,UCONN
-alyca.elcuri@uconn.edu,leg,to jog,jog,jog,NOUN,UCONN
-alyca.elcuri@uconn.edu,leg,to run,run,run,NOUN,UCONN
+alyca.elcuri@uconn.edu,leg,to jog,jog,jog,VERB,UCONN
+alyca.elcuri@uconn.edu,leg,to run,run,run,VERB,UCONN
 alyca.elcuri@uconn.edu,leg,to sleep ,sleep,sleep,VERB,UCONN
 alyca.elcuri@uconn.edu,leg,to walk,walk,walk,VERB,UCONN
 dakota.davis@uconn.edu,leg,walking,walking,walk,VERB,UCONN
@@ -4588,11 +4514,9 @@ rachel.silverman@uconn.edu,lemon,food,food,food,NOUN,UCONN
 eduardo.perea_hernandez@uconn.edu,lemon,juice,juice,juice,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,lemon,squezze,squeeze,squeeze,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,lemon,throw,throw,throw,VERB,UCONN
-isabella.morfin@uconn.edu,lemonade,drawing subject,drawing,drawe,VERB,UCONN
+isabella.morfin@uconn.edu,lemonade,drawing subject,drawing,draw,VERB,UCONN
 isabella.morfin@uconn.edu,lemonade,drawing subject,subject,subject,NOUN,UCONN
-Isabella.carnelli@uconn.edu,lemonade,drink,drink,drink,NOUN,UCONN
 Isabella.carnelli@uconn.edu,lemonade,drink,drink,drink,VERB,UCONN
-pan.chrisovechotis@uconn.edu,lemonade,drink,drink,drink,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,lemonade,drink,drink,drink,VERB,UCONN
 isabella.morfin@uconn.edu,lemonade,flavor,flavor,flavor,VERB,UCONN
 isabella.morfin@uconn.edu,lemonade,frozen lemonade,frozen,freeze,VERB,UCONN
@@ -4609,7 +4533,7 @@ isabella.morfin@uconn.edu,lemonade,refreshing drink,drink,drink,NOUN,UCONN
 isabella.morfin@uconn.edu,lemonade,refreshing drink,refreshing,refresh,VERB,UCONN
 pan.chrisovechotis@uconn.edu,lemonade,sell,sell,sell,VERB,UCONN
 jason.giambertone@uconn.edu,lens,to burn stuff when the sun goes through it.,burn,burn,VERB,UCONN
-jason.giambertone@uconn.edu,lens,to burn stuff when the sun goes through it.,goes,go,VERB,UCONN
+jason.giambertone@uconn.edu,lens,to burn stuff when the sun goes through it.,goes,go,AUX,UCONN
 jason.giambertone@uconn.edu,lens,to burn stuff when the sun goes through it.,stuff,stuff,NOUN,UCONN
 jason.giambertone@uconn.edu,lens,to burn stuff when the sun goes through it.,sun,sun,NOUN,UCONN
 jason.giambertone@uconn.edu,lens,to see,see,see,VERB,UCONN
@@ -4655,7 +4579,7 @@ aryanna.carter@uconn.edu,lick,tasting,tasting,taste,VERB,UCONN
 rebecca.miller@uconn.edu,lifebuoy,give ,give,give,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,lifebuoy,save somebody,save,save,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,lifebuoy,save somebody,somebody,somebody,PRON,UCONN
-rebecca.miller@uconn.edu,lifebuoy,use,use,use,VERB,UCONN
+rebecca.miller@uconn.edu,lifebuoy,use,use,use,AUX,UCONN
 kelly_rae.lonergan@uconn.edu,lifebuoy,wash hands,hands,hand,NOUN,UCONN
 kelly_rae.lonergan@uconn.edu,lifebuoy,wash hands,wash,wash,VERB,UCONN
 alexandra.lisowski@uconn.edu,lifeguard,looking,looking,look,VERB,UCONN
@@ -4666,10 +4590,10 @@ alexandra.lisowski@uconn.edu,lifeguard,watching,watching,watch,VERB,UCONN
 benjamin.kushi@uconn.edu,lighthouse,climb,climb,climb,VERB,UCONN
 benjamin.kushi@uconn.edu,lighthouse,live in,live,live,VERB,UCONN
 benjamin.kushi@uconn.edu,lighthouse,see,see,see,VERB,UCONN
-kiley.malinowski@uconn.edu,lighthouse,take photos ,photos,photo,NOUN,UCONN
-kiley.malinowski@uconn.edu,lighthouse,take photos ,take,take,VERB,UCONN
-benjamin.kushi@uconn.edu,lighthouse,turn off,turn,turn,VERB,UCONN
-benjamin.kushi@uconn.edu,lighthouse,turn on,turn,turn,VERB,UCONN
+kiley.malinowski@uconn.edu,lighthouse,take photos ,photos,photograph,VERB,UCONN
+kiley.malinowski@uconn.edu,lighthouse,take photos ,take,take,AUX,UCONN
+benjamin.kushi@uconn.edu,lighthouse,turn off,turn,turn off,VERB,UCONN
+benjamin.kushi@uconn.edu,lighthouse,turn on,turn,turn on,VERB,UCONN
 kiley.malinowski@uconn.edu,lighthouse,visit,visit,visit,VERB,UCONN
 nina.laverty@uconn.edu,lilly,a flower,flower,flower,NOUN,UCONN
 gabriel.paknia@uconn.edu,lilly,gift,gift,gift,VERB,UCONN
@@ -4694,8 +4618,6 @@ erin.munch@uconn.edu,lime,season,season,season,VERB,UCONN
 meghan.henningsen@uconn.edu,lime,sour,sour,sour,ADJ,UCONN
 Joseph.Verrillo@uconn.edu,limeade,chug,chug,chug,VERB,UCONN
 valeria.ramirez@uconn.edu,limeade,drink,drink,drink,VERB,UCONN
-valeria.ramirez@uconn.edu,limeade,drink,drink,drink,VERB,UCONN
-Joseph.Verrillo@uconn.edu,limeade,drink,drink,drink,VERB,UCONN
 Joseph.Verrillo@uconn.edu,limeade,drink,drink,drink,VERB,UCONN
 Joseph.Verrillo@uconn.edu,limeade,spill,spill,spill,VERB,UCONN
 Joseph.Verrillo@uconn.edu,limeade,throw,throw,throw,VERB,UCONN
@@ -4720,21 +4642,15 @@ anna.lu@uconn.edu,limes,thrown at someone,someone,someone,PRON,UCONN
 anna.lu@uconn.edu,limes,thrown at someone,thrown,throw,VERB,UCONN
 maia.cyganowski@uconn.edu,limousine,crash,crash,crash,VERB,UCONN
 maia.cyganowski@uconn.edu,limousine,drive,drive,drive,VERB,UCONN
-maia.cyganowski@uconn.edu,limousine,drive,drive,drive,VERB,UCONN
-taylor.e.sullivan@uconn.edu,limousine,drive,drive,drive,VERB,UCONN
 taylor.e.sullivan@uconn.edu,limousine,drive,drive,drive,VERB,UCONN
 maia.cyganowski@uconn.edu,limousine,enter,enter,enter,VERB,UCONN
 maia.cyganowski@uconn.edu,limousine,exit,exit,exit,VERB,UCONN
 taylor.e.sullivan@uconn.edu,limousine,ride,ride,ride,VERB,UCONN
-taylor.e.sullivan@uconn.edu,limousine,ride,ride,ride,VERB,UCONN
-maia.cyganowski@uconn.edu,limousine,ride,ride,ride,VERB,UCONN
 maia.cyganowski@uconn.edu,limousine,ride,ride,ride,VERB,UCONN
 taylor.e.sullivan@uconn.edu,limousine,sit,sit,sit,VERB,UCONN
 erin.munch@uconn.edu,liquor,abuse,abuse,abuse,VERB,UCONN
-meghan.henningsen@uconn.edu,liquor,cook,cook,cake,VERB,UCONN
+meghan.henningsen@uconn.edu,liquor,cook,cook,cook,VERB,UCONN
 erin.munch@uconn.edu,liquor,drink,drink,drink,VERB,UCONN
-erin.munch@uconn.edu,liquor,drink,drink,drink,VERB,UCONN
-meghan.henningsen@uconn.edu,liquor,drink,drink,drink,VERB,UCONN
 meghan.henningsen@uconn.edu,liquor,drink,drink,drink,VERB,UCONN
 meghan.henningsen@uconn.edu,liquor,smell,smell,smell,VERB,UCONN
 myla.altadonna@uconn.edu,liverwurst,eat it,eat,eat,VERB,UCONN
@@ -4742,8 +4658,7 @@ kate.santos@uconn.edu,liverwurst,eating,eating,eat,VERB,UCONN
 kate.santos@uconn.edu,liverwurst,energy,energy,energy,NOUN,UCONN
 kate.santos@uconn.edu,liverwurst,enjoyment,enjoyment,enjoyment,NOUN,UCONN
 kate.santos@uconn.edu,liverwurst,protein,protein,protein,NOUN,UCONN
-myla.altadonna@uconn.edu,liverwurst,throw it away,away,away,ADV,UCONN
-myla.altadonna@uconn.edu,liverwurst,throw it away,throw,throw,VERB,UCONN
+myla.altadonna@uconn.edu,liverwurst,throw it away,throw,throw away,VERB,UCONN
 delaney.harrington@uconn.edu,livestock,butcher,butcher,butcher,VERB,UCONN
 delaney.harrington@uconn.edu,livestock,feed,feed,feed,VERB,UCONN
 anna.lu@uconn.edu,livestock,kill it,kill,kill,VERB,UCONN
@@ -4751,9 +4666,9 @@ anna.lu@uconn.edu,livestock,look at it,look,look,VERB,UCONN
 anna.lu@uconn.edu,livestock,preserve it,preserve,preserve,VERB,UCONN
 delaney.harrington@uconn.edu,livestock,put into competitions,put,put,VERB,UCONN
 delaney.harrington@uconn.edu,livestock,take care of,care,care,VERB,UCONN
-delaney.harrington@uconn.edu,livestock,take care of,take,take,VERB,UCONN
+delaney.harrington@uconn.edu,livestock,take care of,take,take,AUX,UCONN
 anna.lu@uconn.edu,livestock,use it for food,food,food,NOUN,UCONN
-anna.lu@uconn.edu,livestock,use it for food,use,use,VERB,UCONN
+anna.lu@uconn.edu,livestock,use it for food,use,use,AUX,UCONN
 kansas.sienna@uconn.edu,loaf,bread,bread,bread,NOUN,UCONN
 matthew.kraus@uconn.edu,lobster,eat,eat,eat,VERB,UCONN
 matthew.kraus@uconn.edu,lobster,fish,fish,fish,VERB,UCONN
@@ -4789,7 +4704,7 @@ owen.donegan@uconn.edu,lounge,lay,lay,lay,VERB,UCONN
 owen.donegan@uconn.edu,lounge,relax ,relax,relax,VERB,UCONN
 owen.donegan@uconn.edu,lounge,sit,sit,sit,VERB,UCONN
 gianna.perricone@uconn.edu,lounge,study,study,study,VERB,UCONN
-gianna.perricone@uconn.edu,lounge,use,use,use,VERB,UCONN
+gianna.perricone@uconn.edu,lounge,use,use,use,AUX,UCONN
 andres.salas@uconn.edu,lovebird,a relationship,relationship,relationship,NOUN,UCONN
 allison.waugh@uconn.edu,lovebird,love,love,love,VERB,UCONN
 andres.salas@uconn.edu,lovebird,you love birds,birds,bird,NOUN,UCONN
@@ -4802,20 +4717,17 @@ enzo.klaus@uconn.edu,lubricant,sex,sex,sex,VERB,UCONN
 madison.kretschman@uconn.edu,lump,create,create,create,VERB,UCONN
 madison.kretschman@uconn.edu,lump,crush,crush,crush,VERB,UCONN
 yining.luo@uconn.edu,lump,make dessert,dessert,dessert,NOUN,UCONN
-yining.luo@uconn.edu,lump,make dessert,make,make,VERB,UCONN
-madison.kretschman@uconn.edu,lump,make,make,make,VERB,UCONN
-cassandra.correa@uconn.edu,lunch,cook,cook,cake,VERB,UCONN
+yining.luo@uconn.edu,lump,make dessert,make,make,AUX,UCONN
+madison.kretschman@uconn.edu,lump,make,make,make,AUX,UCONN
+cassandra.correa@uconn.edu,lunch,cook,cook,cook,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,lunch,eat,eat,eat,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,lunch,eat,eat,eat,VERB,UCONN
-cassandra.correa@uconn.edu,lunch,eat,eat,eat,VERB,UCONN
 cassandra.correa@uconn.edu,lunch,eat,eat,eat,VERB,UCONN
 cassandra.correa@uconn.edu,lunch,give ,give,give,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,lunch,make,make,make,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,lunch,make,make,make,VERB,UCONN
 cassandra.correa@uconn.edu,lunch,make,make,make,VERB,UCONN
 cassandra.correa@uconn.edu,lunch,make,make,make,VERB,UCONN
-cassandra.correa@uconn.edu,lunch,throw away,away,away,ADV,UCONN
-cassandra.correa@uconn.edu,lunch,throw away,throw,throw,VERB,UCONN
+cassandra.correa@uconn.edu,lunch,throw away,throw,throw away,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,lunch,throw,throw,throw,VERB,UCONN
 cassandra.correa@uconn.edu,lunchroom,cook ,cook,cake,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,lunchroom,eat in,eat,eat,VERB,UCONN
@@ -4827,14 +4739,10 @@ cassandra.correa@uconn.edu,lunchroom,talk,talk,talk,VERB,UCONN
 cassandra.correa@uconn.edu,lunchroom,throw food,food,food,NOUN,UCONN
 cassandra.correa@uconn.edu,lunchroom,throw food,throw,throw,VERB,UCONN
 maia.cyganowski@uconn.edu,macaroni,boil,boil,boil,VERB,UCONN
-taylor.e.sullivan@uconn.edu,macaroni,cook,cook,cake,VERB,UCONN
-taylor.e.sullivan@uconn.edu,macaroni,cook,cook,cake,VERB,UCONN
-maia.cyganowski@uconn.edu,macaroni,cook,cook,cake,VERB,UCONN
-maia.cyganowski@uconn.edu,macaroni,cook,cook,cake,VERB,UCONN
+taylor.e.sullivan@uconn.edu,macaroni,cook,cook,cook,VERB,UCONN
+maia.cyganowski@uconn.edu,macaroni,cook,cook,cook,VERB,UCONN
 taylor.e.sullivan@uconn.edu,macaroni,drain,drain,drain,VERB,UCONN
 maia.cyganowski@uconn.edu,macaroni,eat,eat,eat,VERB,UCONN
-maia.cyganowski@uconn.edu,macaroni,eat,eat,eat,VERB,UCONN
-taylor.e.sullivan@uconn.edu,macaroni,eat,eat,eat,VERB,UCONN
 taylor.e.sullivan@uconn.edu,macaroni,eat,eat,eat,VERB,UCONN
 taylor.e.sullivan@uconn.edu,macaroni,mix,mix,mix,VERB,UCONN
 taylor.e.sullivan@uconn.edu,macaroni,season,season,season,VERB,UCONN
@@ -4847,8 +4755,6 @@ charlotte.seitzinger@uconn.edu,mace,hold,hold,hold,VERB,UCONN
 raven.dest@uconn.edu,mace,hunting,hunting,hunt,VERB,UCONN
 shane.markle@uconn.edu,mace,shoot,shoot,shoot,VERB,UCONN
 charlotte.seitzinger@uconn.edu,mace,spray,spray,spray,VERB,UCONN
-charlotte.seitzinger@uconn.edu,mace,spray,spray,spray,VERB,UCONN
-shane.markle@uconn.edu,mace,spray,spray,spray,VERB,UCONN
 shane.markle@uconn.edu,mace,spray,spray,spray,VERB,UCONN
 raven.dest@uconn.edu,mace,studying (archaeology),archaeology,archaeology,VERB,UCONN
 raven.dest@uconn.edu,mace,studying (archaeology),studying,study,VERB,UCONN
@@ -4866,7 +4772,7 @@ rachel.silverman@uconn.edu,machine,clean,clean,clean,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,machine,drive,drive,drive,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,machine,help doctors,doctors,doctor,NOUN,UCONN
 eduardo.perea_hernandez@uconn.edu,machine,help doctors,help,help,VERB,UCONN
-eduardo.perea_hernandez@uconn.edu,machine,help people live,help,help,VERB,UCONN
+eduardo.perea_hernandez@uconn.edu,machine,help people live,help,help,AUX,UCONN
 eduardo.perea_hernandez@uconn.edu,machine,help people live,live,live,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,machine,help people live,people,people,NOUN,UCONN
 eduardo.perea_hernandez@uconn.edu,machine,make chips,chips,chip,NOUN,UCONN
@@ -4878,8 +4784,7 @@ eduardo.perea_hernandez@uconn.edu,machine,throw obejcts,objects,object,VERB,UCON
 eduardo.perea_hernandez@uconn.edu,machine,throw obejcts,throw,throw,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,machine,type,type,type,VERB,UCONN
 kiley.malinowski@uconn.edu,maggot,kill,kill,kill,VERB,UCONN
-benjamin.kushi@uconn.edu,maggot,throw away,away,away,ADV,UCONN
-benjamin.kushi@uconn.edu,maggot,throw away,throw,throw,VERB,UCONN
+benjamin.kushi@uconn.edu,maggot,throw away,throw,throw away,VERB,UCONN
 kiley.malinowski@uconn.edu,maggot,use as food for another animal,animal,animal,NOUN,UCONN
 kiley.malinowski@uconn.edu,maggot,use as food for another animal,another,another,DET,UCONN
 kiley.malinowski@uconn.edu,maggot,use as food for another animal,food,food,NOUN,UCONN
@@ -4896,7 +4801,7 @@ giselle.rodriguez@uconn.edu,maiden,clean,clean,clean,VERB,UCONN
 terence.falvey@uconn.edu,maiden,help,help,help,VERB,UCONN
 giselle.rodriguez@uconn.edu,maiden,oragnize,organize,organize,VERB,UCONN
 charlotte.seitzinger@uconn.edu,mallard,bake,bake,bake,VERB,UCONN
-charlotte.seitzinger@uconn.edu,mallard,cook,cook,cake,VERB,UCONN
+charlotte.seitzinger@uconn.edu,mallard,cook,cook,cook,VERB,UCONN
 shane.markle@uconn.edu,mallard,display,display,display,VERB,UCONN
 shane.markle@uconn.edu,mallard,hunt,hunt,hunt,VERB,UCONN
 charlotte.seitzinger@uconn.edu,mallard,kill,kill,kill,VERB,UCONN
@@ -4909,7 +4814,7 @@ olivia.wright@uconn.edu,mallet,instrument,instrument,instrument,VERB,UCONN
 matthew.kraus@uconn.edu,mallet,throw,throw,throw,VERB,UCONN
 molly.rogers@uconn.edu,manicurist,cutting/trimming nails,cutting,cut,VERB,UCONN
 molly.rogers@uconn.edu,manicurist,cutting/trimming nails,nails,nails,NOUN,UCONN
-molly.rogers@uconn.edu,manicurist,cutting/trimming nails,trimming,trimm,VERB,UCONN
+molly.rogers@uconn.edu,manicurist,cutting/trimming nails,trimming,trim,VERB,UCONN
 molly.rogers@uconn.edu,manicurist,massaging,massaging,massage,VERB,UCONN
 molly.rogers@uconn.edu,manicurist,painting,painting,paint,VERB,UCONN
 gabriela.duana@uconn.edu,manicurist,pay,pay,pay,VERB,UCONN
@@ -4920,8 +4825,6 @@ molly.rogers@uconn.edu,manicurist,talking/listening,listening,listen,VERB,UCONN
 molly.rogers@uconn.edu,manicurist,talking/listening,talking,talk,VERB,UCONN
 giuseppe.cesare@uconn.edu,mansion,bought,bought,buy,VERB,UCONN
 giuseppe.cesare@uconn.edu,mansion,cleaned,cleaned,clean,VERB,UCONN
-giuseppe.cesare@uconn.edu,mansion,cleaned,cleaned,clean,VERB,UCONN
-alysia.ma@uconn.edu,mansion,cleaned,cleaned,clean,VERB,UCONN
 alysia.ma@uconn.edu,mansion,cleaned,cleaned,clean,VERB,UCONN
 alysia.ma@uconn.edu,mansion,helped,helped,help,VERB,UCONN
 giuseppe.cesare@uconn.edu,mansion,lived in,lived,liv,VERB,UCONN
@@ -4938,8 +4841,8 @@ jessica.vo@uconn.edu,mantelpiece,touch,touch,touch,VERB,UCONN
 jessica.vo@uconn.edu,mantelpiece,watch,watch,watch,VERB,UCONN
 gianna.perricone@uconn.edu,mantle,buy,buy,buy,VERB,UCONN
 gianna.perricone@uconn.edu,mantle,install,install,install,VERB,UCONN
-gianna.perricone@uconn.edu,mantle,put on,put,put,VERB,UCONN
-owen.donegan@uconn.edu,mantle,put things on,put,put,VERB,UCONN
+gianna.perricone@uconn.edu,mantle,put on,put,wear,VERB,UCONN
+owen.donegan@uconn.edu,mantle,put things on,put,store,VERB,UCONN
 owen.donegan@uconn.edu,mantle,put things on,things,thing,NOUN,UCONN
 owen.donegan@uconn.edu,mantle,tear it down ,tear,tear,NOUN,UCONN
 val.chia@uconn.edu,manure,discarded,discarded,discard,VERB,UCONN
@@ -4948,9 +4851,8 @@ val.chia@uconn.edu,manure,pooped,pooped,poop,VERB,UCONN
 val.chia@uconn.edu,manure,scraped,scraped,scrape,VERB,UCONN
 val.chia@uconn.edu,manure,shoveled,shoveled,shovel,VERB,UCONN
 val.chia@uconn.edu,manure,smelled,smelled,smell,VERB,UCONN
-val.chia@uconn.edu,manure,thrown away,away,away,ADV,UCONN
-val.chia@uconn.edu,manure,thrown away,thrown,throw,VERB,UCONN
-val.chia@uconn.edu,manure,used as fertilizer,used,use,VERB,UCONN
+val.chia@uconn.edu,manure,thrown away,thrown,throw away,VERB,UCONN
+val.chia@uconn.edu,manure,used as fertilizer,used,fertilize,VERB,UCONN
 kansas.sienna@uconn.edu,manuscript,directions,directions,direction,NOUN,UCONN
 emily.b.sullivan@uconn.edu,manuscript,documentation,documentation,documentation,NOUN,UCONN
 kansas.sienna@uconn.edu,manuscript,words,words,word,NOUN,UCONN
@@ -4977,7 +4879,7 @@ enzo.klaus@uconn.edu,mascot,schools,schools,school,NOUN,UCONN
 enzo.klaus@uconn.edu,mascot,sports,sports,sport,NOUN,UCONN
 enzo.klaus@uconn.edu,mascot,teams,teams,team,NOUN,UCONN
 julia.farnoli@uconn.edu,mask,protecting,protecting,protect,VERB,UCONN
-vanesa.galindo@uconn.edu,mask,use for protection,use,use,VERB,UCONN
+vanesa.galindo@uconn.edu,mask,use for protection,use,use,AUX,UCONN
 vanesa.galindo@uconn.edu,mask,wear,wear,wear,VERB,UCONN
 julia.farnoli@uconn.edu,mask,wearing,wearing,wear,VERB,UCONN
 joanna.emin@uconn.edu,masseur,massages,massages,massage,VERB,UCONN
@@ -5004,10 +4906,10 @@ pan.chrisovechotis@uconn.edu,matchbox,light match,light,light,VERB,UCONN
 pan.chrisovechotis@uconn.edu,matchbox,light match,match,match,NOUN,UCONN
 Isabella.carnelli@uconn.edu,matchbox,or fire,fire,fire,VERB,UCONN
 isabella.morfin@uconn.edu,matchbox,start a fire ,fire,fire,NOUN,UCONN
-isabella.morfin@uconn.edu,matchbox,start a fire ,start,start,VERB,UCONN
-sophia.sanchez@uconn.edu,matchwood,fire,fire,fire,NOUN,UCONN
-juliana.febrizio@uconn.edu,matchwood,lighting a fire,fire,fire,NOUN,UCONN
-sophia.sanchez@uconn.edu,matchwood,lighting matches,matches,match,VERB,UCONN
+isabella.morfin@uconn.edu,matchbox,start a fire ,start,start,AUX,UCONN
+sophia.sanchez@uconn.edu,matchwood,fire,fire,fire,VERB,UCONN
+juliana.febrizio@uconn.edu,matchwood,lighting a fire,fire,fire,VERB,UCONN
+sophia.sanchez@uconn.edu,matchwood,lighting matches,matches,match,NOUN,UCONN
 val.chia@uconn.edu,mathematician,solve math equations,equations,equation,NOUN,UCONN
 val.chia@uconn.edu,mathematician,solve math equations,math,math,NOUN,UCONN
 val.chia@uconn.edu,mathematician,solve math equations,solve,solve,VERB,UCONN
@@ -5040,16 +4942,15 @@ anna.lu@uconn.edu,meadow,keep animals,animals,animal,NOUN,UCONN
 anna.lu@uconn.edu,meadow,keep animals,keep,keep,VERB,UCONN
 delaney.harrington@uconn.edu,meadow,look at,look,look,VERB,UCONN
 anna.lu@uconn.edu,meadow,look pretty,look,look,VERB,UCONN
-anna.lu@uconn.edu,meadow,look pretty,pretty,pretty,ADV,UCONN
 delaney.harrington@uconn.edu,meadow,take pictures of,pictures,picture,NOUN,UCONN
-delaney.harrington@uconn.edu,meadow,take pictures of,take,take,VERB,UCONN
+delaney.harrington@uconn.edu,meadow,take pictures of,take,photograph,VERB,UCONN
 anna.lu@uconn.edu,meadow,walk around,around,around,ADV,UCONN
 anna.lu@uconn.edu,meadow,walk around,walk,walk,VERB,UCONN
 delaney.harrington@uconn.edu,meadow,walk through,walk,walk,VERB,UCONN
 courtney.musante@uconn.edu,meal,eat,eat,eat,VERB,UCONN
 courtney.musante@uconn.edu,meal,feed,feed,feed,VERB,UCONN
 courtney.musante@uconn.edu,meal,support,support,support,VERB,UCONN
-paige.gewirtz@uconn.edu,meat,cook it,cook,cake,VERB,UCONN
+paige.gewirtz@uconn.edu,meat,cook it,cook,cook,VERB,UCONN
 paige.gewirtz@uconn.edu,meat,eat it,eat,eat,VERB,UCONN
 paige.gewirtz@uconn.edu,meat,serve it,serve,serve,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,medal,award,award,award,VERB,UCONN
@@ -5106,7 +5007,7 @@ matthew.kraus@uconn.edu,Microscope,zoom in,zoom,zoom,VERB,UCONN
 alexandra.lisowski@uconn.edu,microwave,cooking,cooking,cook,VERB,UCONN
 joseph.agreda@uconn.edu,microwave,heat,heat,heat,VERB,UCONN
 alexandra.lisowski@uconn.edu,microwave,making,making,make,VERB,UCONN
-alexandra.lisowski@uconn.edu,microwave,spinning,spinning,spinning,VERB,UCONN
+alexandra.lisowski@uconn.edu,microwave,spinning,spinning,spin,VERB,UCONN
 alexandra.lisowski@uconn.edu,microwave,timing ,timing,time,NOUN,UCONN
 joseph.agreda@uconn.edu,microwave,warm,warm,warm,VERB,UCONN
 nathan.e.shaw@uconn.edu,midget,befriend,befriend,befriend,VERB,UCONN
@@ -5142,7 +5043,7 @@ alyca.elcuri@uconn.edu,milk,to drink,drink,drink,NOUN,UCONN
 alyca.elcuri@uconn.edu,milk,to eat with cookies,cookies,cookie,NOUN,UCONN
 alyca.elcuri@uconn.edu,milk,to eat with cookies,eat,eat,VERB,UCONN
 isabella.morfin@uconn.edu,minnow,bait,bait,bait,VERB,UCONN
-isabella.morfin@uconn.edu,minnow,drawing subject,drawing,drawe,VERB,UCONN
+isabella.morfin@uconn.edu,minnow,drawing subject,drawing,draw,VERB,UCONN
 isabella.morfin@uconn.edu,minnow,drawing subject,subject,subject,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,minnow,fish for,fish,fish,VERB,UCONN
 pan.chrisovechotis@uconn.edu,minnow,food,food,food,NOUN,UCONN
@@ -5359,7 +5260,7 @@ jayline.steiding@uconn.edu,nail,putting two objects together,together,together,A
 jayline.steiding@uconn.edu,nail,putting two objects together,two,two,NUM,UCONN
 terence.falvey@uconn.edu,napkin,absorb,absorb,absorb,VERB,UCONN
 terence.falvey@uconn.edu,napkin,clean,clean,clean,VERB,UCONN
-terence.falvey@uconn.edu,napkin,draw on,draw,dree,VERB,UCONN
+terence.falvey@uconn.edu,napkin,draw on,draw,draw,VERB,UCONN
 giselle.rodriguez@uconn.edu,napkin,oragami,origami,origami,NOUN,UCONN
 terence.falvey@uconn.edu,napkin,wipe,wipe,wipe,VERB,UCONN
 joanna.emin@uconn.edu,neckerchief,bandage,bandage,bandage,VERB,UCONN
@@ -5542,8 +5443,8 @@ olivia.sztemberg@uconn.edu,ocean,fun ,fun,fun,NOUN,UCONN
 jordan.dupree@uconn.edu,ocean,observing,observing,obserive,VERB,UCONN
 jordan.dupree@uconn.edu,ocean,researching,researching,research,VERB,UCONN
 jordan.dupree@uconn.edu,ocean,surfing,surfing,surf,VERB,UCONN
-olivia.sztemberg@uconn.edu,ocean,swiming,swimming,swimm,VERB,UCONN
-jordan.dupree@uconn.edu,ocean,swimming,swimming,swimm,VERB,UCONN
+olivia.sztemberg@uconn.edu,ocean,swiming,swimming,swim,VERB,UCONN
+jordan.dupree@uconn.edu,ocean,swimming,swimming,swim,VERB,UCONN
 jordan.dupree@uconn.edu,ocean,understanding,understanding,understand,VERB,UCONN
 jordan.dupree@uconn.edu,ocean,water sports,sports,sport,NOUN,UCONN
 jordan.dupree@uconn.edu,ocean,water sports,water,water,NOUN,UCONN
@@ -5724,7 +5625,7 @@ kansas.sienna@uconn.edu,padlock,secret stuff ,secret,secret,X,UCONN
 kansas.sienna@uconn.edu,padlock,secret stuff ,stuff,stuff,NOUN,UCONN
 kansas.sienna@uconn.edu,padlock,security,security,security,NOUN,UCONN
 emily.b.sullivan@uconn.edu,padlock,unlock,unlock,unlock,VERB,UCONN
-aisha.shahid@uconn.edu,page,draw,draw,dree,VERB,UCONN
+aisha.shahid@uconn.edu,page,draw,draw,draw,VERB,UCONN
 aisha.shahid@uconn.edu,page,write,write,write,VERB,UCONN
 juliana.febrizio@uconn.edu,pail,collecting sand,collecting,collect,VERB,UCONN
 juliana.febrizio@uconn.edu,pail,collecting sand,sand,sand,NOUN,UCONN
@@ -5967,7 +5868,7 @@ isabelle.jadach@uconn.edu,peppermint,cook,cook,cake,VERB,UCONN
 isabelle.jadach@uconn.edu,peppermint,drink,drink,drink,NOUN,UCONN
 isabelle.jadach@uconn.edu,peppermint,eat,eat,eat,VERB,UCONN
 zachary.susser@uconn.edu,peppermint,food,food,food,NOUN,UCONN
-zachary.susser@uconn.edu,peppermint,mint breathe,breathe,breato,VERB,UCONN
+zachary.susser@uconn.edu,peppermint,mint breathe,breathe,breathe,VERB,UCONN
 zachary.susser@uconn.edu,peppermint,mint breathe,mint,mint,NOUN,UCONN
 isabelle.jadach@uconn.edu,peppermint,smell,smell,smell,VERB,UCONN
 isabelle.jadach@uconn.edu,peppermint,spice,spice,spice,VERB,UCONN
@@ -6113,7 +6014,7 @@ arianna.dimeo@uconn.edu,pinewood,find,find,find,VERB,UCONN
 arianna.dimeo@uconn.edu,pinewood,observe,observe,observe,ADJ,UCONN
 delaney.harrington@uconn.edu,pipe,connect things,connect,connect,VERB,UCONN
 delaney.harrington@uconn.edu,pipe,connect things,things,thing,NOUN,UCONN
-anna.lu@uconn.edu,pipe,draw something with,draw,dree,VERB,UCONN
+anna.lu@uconn.edu,pipe,draw something with,draw,draw,VERB,UCONN
 anna.lu@uconn.edu,pipe,draw something with,something,something,PRON,UCONN
 delaney.harrington@uconn.edu,pipe,have water go through,go,go,VERB,UCONN
 delaney.harrington@uconn.edu,pipe,have water go through,water,water,NOUN,UCONN
@@ -6302,7 +6203,7 @@ eduardo.perea_hernandez@uconn.edu,politician,represent people,represent,represen
 rachel.silverman@uconn.edu,politician,resource,resource,resource,NOUN,UCONN
 vanesa.galindo@uconn.edu,pond,habitat,habitat,habitat,VERB,UCONN
 julia.farnoli@uconn.edu,pond,sitting,sitting,sit,VERB,UCONN
-julia.farnoli@uconn.edu,pond,swimming,swimming,swimm,VERB,UCONN
+julia.farnoli@uconn.edu,pond,swimming,swimming,swim,VERB,UCONN
 vanesa.galindo@uconn.edu,pond,water source,source,source,NOUN,UCONN
 vanesa.galindo@uconn.edu,pond,water source,water,water,NOUN,UCONN
 rachel.silverman@uconn.edu,pony,clean,clean,clean,VERB,UCONN
@@ -6531,8 +6432,6 @@ jayline.steiding@uconn.edu,punchbowl,hold liquids,liquids,liquid,NOUN,UCONN
 jayline.steiding@uconn.edu,punchbowl,hold objects,hold,hold,VERB,UCONN
 jayline.steiding@uconn.edu,punchbowl,hold objects,objects,object,VERB,UCONN
 isabelle.jadach@uconn.edu,punter,football,football,football,NOUN,UCONN
-isabelle.jadach@uconn.edu,punter,football,football,football,NOUN,UCONN
-zachary.susser@uconn.edu,punter,football,football,football,NOUN,UCONN
 zachary.susser@uconn.edu,punter,football,football,football,NOUN,UCONN
 jessica.vo@uconn.edu,pup,cuddle,cuddle,cuddle,VERB,UCONN
 jessica.vo@uconn.edu,pup,feed,feed,feed,VERB,UCONN
@@ -6589,7 +6488,7 @@ amanda.wainwright@uconn.edu,quilt,wear,wear,wear,VERB,UCONN
 joanna.emin@uconn.edu,radiator,cold air,air,air,NOUN,UCONN
 joanna.emin@uconn.edu,radiator,cold air,cold,cold,ADJ,UCONN
 joanna.emin@uconn.edu,radiator,heat,heat,heat,VERB,UCONN
-isabella.latina@uconn.edu,radiator,keep warm,keep,keep,VERB,UCONN
+isabella.latina@uconn.edu,radiator,keep warm,keep,keep,AUX,UCONN
 isabella.latina@uconn.edu,radiator,keep warm,warm,warm,VERB,UCONN
 isabella.latina@uconn.edu,radiator,to heat,heat,heat,VERB,UCONN
 hunter.tang@uconn.edu,radio,listen to music,listen,listen,VERB,UCONN
@@ -6613,8 +6512,8 @@ emily.b.sullivan@uconn.edu,raspberry,making dye,dye,dye,INTJ,UCONN
 emily.b.sullivan@uconn.edu,raspberry,making dye,making,make,VERB,UCONN
 kelly.s.aguilar@uconn.edu,rat,killing,killing,kill,VERB,UCONN
 alex.zavelson@uconn.edu,rattle,to calm,calm,calm,VERB,UCONN
-alex.zavelson@uconn.edu,rattle,to make music,make,make,VERB,UCONN
-alex.zavelson@uconn.edu,rattle,to make music,music,music,NOUN,UCONN
+alex.zavelson@uconn.edu,rattle,to make music,make,make,AUX,UCONN
+alex.zavelson@uconn.edu,rattle,to make music,music,music,VERB,UCONN
 alex.zavelson@uconn.edu,rattle,to play with,play,play,VERB,UCONN
 nina.laverty@uconn.edu,receptacle,to hold something ,hold,hold,VERB,UCONN
 nina.laverty@uconn.edu,receptacle,to hold something ,something,something,PRON,UCONN
@@ -6645,7 +6544,7 @@ kelly.s.aguilar@uconn.edu,recorder,listening,listening,listen,VERB,UCONN
 kelly.s.aguilar@uconn.edu,recorder,singing,singing,singe,VERB,UCONN
 kelly.s.aguilar@uconn.edu,recorder,talking,talking,talk,VERB,UCONN
 anna.lu@uconn.edu,reptile,choke it,choke,choke,NOUN,UCONN
-delaney.harrington@uconn.edu,reptile,keep as pet,keep,keep,VERB,UCONN
+delaney.harrington@uconn.edu,reptile,keep as pet,keep,keep,AUX,UCONN
 delaney.harrington@uconn.edu,reptile,keep as pet,pet,pet,VERB,UCONN
 anna.lu@uconn.edu,reptile,kill it,kill,kill,VERB,UCONN
 delaney.harrington@uconn.edu,reptile,learn about,learn,learn,VERB,UCONN
@@ -6655,11 +6554,11 @@ delaney.harrington@uconn.edu,reptile,run away from,away,away,ADV,UCONN
 delaney.harrington@uconn.edu,reptile,run away from,run,run,VERB,UCONN
 delaney.harrington@uconn.edu,reptile,study,study,study,VERB,UCONN
 delaney.harrington@uconn.edu,reptile,take care of,care,care,VERB,UCONN
-delaney.harrington@uconn.edu,reptile,take care of,take,take,VERB,UCONN
+delaney.harrington@uconn.edu,reptile,take care of,take,take,AUX,UCONN
 anna.lu@uconn.edu,reptile,use it to attack other animals,animals,animal,NOUN,UCONN
-anna.lu@uconn.edu,reptile,use it to attack other animals,attack,attack,NOUN,UCONN
-anna.lu@uconn.edu,reptile,use it to attack other animals,use,use,VERB,UCONN
-sophie.atkinson@uconn.edu,respirator,breathe,breathe,breato,VERB,UCONN
+anna.lu@uconn.edu,reptile,use it to attack other animals,attack,attack,VERB,UCONN
+anna.lu@uconn.edu,reptile,use it to attack other animals,use,use,AUX,UCONN
+sophie.atkinson@uconn.edu,respirator,breathe,breathe,breathe,VERB,UCONN
 kiley.malinowski@uconn.edu,retriever,dog,dog,dog,NOUN,UCONN
 benjamin.kushi@uconn.edu,retriever,fetch,fetch,fetch,VERB,UCONN
 kiley.malinowski@uconn.edu,retriever,obtain things,obtain,aobtain,VERB,UCONN
@@ -6671,10 +6570,10 @@ matthew.kraus@uconn.edu,rib,cut,cut,cut,VERB,UCONN
 matthew.kraus@uconn.edu,rib,eat,eat,eat,VERB,UCONN
 matthew.kraus@uconn.edu,rib,marinate,marinate,marinate,VERB,UCONN
 olivia.wright@uconn.edu,rib,meat,meat,meat,NOUN,UCONN
-matthew.kraus@uconn.edu,rib,surgery,surgery,surgery,NOUN,UCONN
+matthew.kraus@uconn.edu,rib,surgery,surgery,surgery,VERB,UCONN
 Joseph.Verrillo@uconn.edu,ribbon,gift,gift,gift,NOUN,UCONN
 valeria.ramirez@uconn.edu,ribbon,tie,tie,tie,NOUN,UCONN
-jessica.vo@uconn.edu,rice,cook,cook,cake,VERB,UCONN
+jessica.vo@uconn.edu,rice,cook,cook,cook,VERB,UCONN
 jessica.vo@uconn.edu,rice,eat,eat,eat,VERB,UCONN
 jessica.vo@uconn.edu,rice,pick,pick,pick,VERB,UCONN
 jessica.vo@uconn.edu,rice,pour,pour,pour,VERB,UCONN
@@ -6682,8 +6581,6 @@ maia.cyganowski@uconn.edu,rickshaw,crash,crash,crash,VERB,UCONN
 maia.cyganowski@uconn.edu,rickshaw,drive,drive,drive,VERB,UCONN
 maia.cyganowski@uconn.edu,rickshaw,ride,ride,ride,VERB,UCONN
 shane.markle@uconn.edu,rifle,aim,aim,aim,VERB,UCONN
-shane.markle@uconn.edu,rifle,aim,aim,aim,VERB,UCONN
-charlotte.seitzinger@uconn.edu,rifle,aim,aim,aim,VERB,UCONN
 charlotte.seitzinger@uconn.edu,rifle,aim,aim,aim,VERB,UCONN
 shane.markle@uconn.edu,rifle,carry,carry,carry,VERB,UCONN
 shane.markle@uconn.edu,rifle,clean,clean,clean,VERB,UCONN
@@ -6693,15 +6590,13 @@ raven.dest@uconn.edu,rifle,injuring,injuring,injur,VERB,UCONN
 raven.dest@uconn.edu,rifle,killing,killing,kill,VERB,UCONN
 shane.markle@uconn.edu,rifle,look at,look,look,VERB,UCONN
 charlotte.seitzinger@uconn.edu,rifle,shoot,shoot,shoot,VERB,UCONN
-charlotte.seitzinger@uconn.edu,rifle,shoot,shoot,shoot,VERB,UCONN
-shane.markle@uconn.edu,rifle,shoot,shoot,shoot,VERB,UCONN
 shane.markle@uconn.edu,rifle,shoot,shoot,shoot,VERB,UCONN
 raven.dest@uconn.edu,rifle,shooting,shooting,shoot,VERB,UCONN
 raven.dest@uconn.edu,rifle,sport,sport,sport,NOUN,UCONN
 shane.markle@uconn.edu,rifle,store,store,store,VERB,UCONN
 kelly.s.aguilar@uconn.edu,river,drinking,drinking,drink,VERB,UCONN
-kelly.s.aguilar@uconn.edu,river,swimming,swimming,swimm,VERB,UCONN
-kelly.s.aguilar@uconn.edu,river,viewing,viewing,viewe,VERB,UCONN
+kelly.s.aguilar@uconn.edu,river,swimming,swimming,swim,VERB,UCONN
+kelly.s.aguilar@uconn.edu,river,viewing,viewing,view,VERB,UCONN
 meghan.henningsen@uconn.edu,riverbank,flow,flow,flow,VERB,UCONN
 erin.munch@uconn.edu,riverbank,jump off of,jump,jump,VERB,UCONN
 erin.munch@uconn.edu,riverbank,play games,games,game,NOUN,UCONN
@@ -6727,7 +6622,7 @@ allison.waugh@uconn.edu,robe,wear,wear,wear,VERB,UCONN
 allison.waugh@uconn.edu,robe,wrap,wrap,wrap,VERB,UCONN
 aryanna.carter@uconn.edu,rocker,bassinette,bassinet,bassinet,NOUN,UCONN
 hunter.tang@uconn.edu,rocker,put baby to sleep,baby,baby,NOUN,UCONN
-hunter.tang@uconn.edu,rocker,put baby to sleep,put,put,VERB,UCONN
+hunter.tang@uconn.edu,rocker,put baby to sleep,put,put,AUX,UCONN
 hunter.tang@uconn.edu,rocker,put baby to sleep,sleep,sleep,VERB,UCONN
 aryanna.carter@uconn.edu,rocker,rocking chair,chair,chair,NOUN,UCONN
 aryanna.carter@uconn.edu,rocker,rocking chair,rocking,rock,NOUN,UCONN
@@ -6735,8 +6630,8 @@ aryanna.carter@uconn.edu,rocker,seesaw ,seesaw,seesee,VERB,UCONN
 hunter.tang@uconn.edu,rocker,sit,sit,sit,VERB,UCONN
 brianna.maximilien@uconn.edu,rook,birds,birds,bird,NOUN,UCONN
 courtney.musante@uconn.edu,roosters,alarm,alarm,alarm,NOUN,UCONN
-courtney.musante@uconn.edu,roosters,alert,alert,alert,NOUN,UCONN
-morgan.klepack@uconn.edu,roosters,fun,fun,fun,NOUN,UCONN
+courtney.musante@uconn.edu,roosters,alert,alert,alert,VERB,UCONN
+morgan.klepack@uconn.edu,roosters,fun,fun,fun,VERB,UCONN
 courtney.musante@uconn.edu,roosters,guard,guard,guard,VERB,UCONN
 courtney.musante@uconn.edu,roosters,wake up,wake,wake,VERB,UCONN
 morgan.klepack@uconn.edu,roosters,waking up,waking,wake,VERB,UCONN
@@ -6774,14 +6669,14 @@ kelly_rae.lonergan@uconn.edu,rose,use it to upgrade fashion choices,fashion,fash
 kelly_rae.lonergan@uconn.edu,rose,use it to upgrade fashion choices,upgrade,upgrade,NOUN,UCONN
 kelly_rae.lonergan@uconn.edu,rose,use it to upgrade fashion choices,use,use,VERB,UCONN
 terence.falvey@uconn.edu,rosemary,buy,buy,buy,VERB,UCONN
-terence.falvey@uconn.edu,rosemary,cook,cook,cake,VERB,UCONN
+terence.falvey@uconn.edu,rosemary,cook,cook,cook,VERB,UCONN
 terence.falvey@uconn.edu,rosemary,grow,grow,grow,VERB,UCONN
 terence.falvey@uconn.edu,rosemary,sell,sell,sell,VERB,UCONN
 kansas.sienna@uconn.edu,rosewater,conditioner ,conditioner,conditioner,NOUN,UCONN
 emily.b.sullivan@uconn.edu,rosewater,drink,drink,drink,VERB,UCONN
 kansas.sienna@uconn.edu,rosewater,shampoo,shampoo,shampoo,NOUN,UCONN
-emily.b.sullivan@uconn.edu,rosewater,use to water,use,use,VERB,UCONN
-emily.b.sullivan@uconn.edu,rosewater,use to water,water,water,NOUN,UCONN
+emily.b.sullivan@uconn.edu,rosewater,use to water,use,use,AUX,UCONN
+emily.b.sullivan@uconn.edu,rosewater,use to water,water,water,VERB,UCONN
 cassandra.correa@uconn.edu,rowboat,clean,clean,clean,VERB,UCONN
 cassandra.correa@uconn.edu,rowboat,move,move,move,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,rowboat,paddle,paddle,paddle,VERB,UCONN
@@ -6868,7 +6763,7 @@ alexis.drossos@uconn.edu,Sailboat,fun activity,activity,activity,NOUN,UCONN
 alexis.drossos@uconn.edu,Sailboat,fun activity,fun,fun,NOUN,UCONN
 zarya.hernandez_salto@uconn.edu,Sailboat,help catch fish,catch,catch,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,Sailboat,help catch fish,fish,fish,NOUN,UCONN
-zarya.hernandez_salto@uconn.edu,Sailboat,help catch fish,help,help,VERB,UCONN
+zarya.hernandez_salto@uconn.edu,Sailboat,help catch fish,help,help,AUX,UCONN
 zarya.hernandez_salto@uconn.edu,Sailboat,help you float,float,float,NOUN,UCONN
 zarya.hernandez_salto@uconn.edu,Sailboat,help you float,help,help,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,Sailboat,make you look rich,look,look,VERB,UCONN
@@ -6886,7 +6781,7 @@ anna.lu@uconn.edu,Saloon,consume drinks,consume,consume,VERB,UCONN
 anna.lu@uconn.edu,Saloon,consume drinks,drinks,drink,VERB,UCONN
 delaney.harrington@uconn.edu,Saloon,drink in,drink,drink,VERB,UCONN
 delaney.harrington@uconn.edu,Saloon,eat in,eat,eat,VERB,UCONN
-delaney.harrington@uconn.edu,Saloon,go to,go,go,VERB,UCONN
+delaney.harrington@uconn.edu,Saloon,go to,go,go,AUX,UCONN
 delaney.harrington@uconn.edu,Saloon,look at,look,look,VERB,UCONN
 anna.lu@uconn.edu,Saloon,place to buy drinks,buy,buy,VERB,UCONN
 anna.lu@uconn.edu,Saloon,place to buy drinks,drinks,drink,VERB,UCONN
@@ -6903,7 +6798,7 @@ jason.giambertone@uconn.edu,sand,dig into,dig,dig,VERB,UCONN
 jason.giambertone@uconn.edu,sand,stand on,stand,stand,VERB,UCONN
 jason.giambertone@uconn.edu,sand,turn into glass,glass,glass,NOUN,UCONN
 jason.giambertone@uconn.edu,sand,turn into glass,turn,turn,VERB,UCONN
-yining.luo@uconn.edu,sandalwood,make soap,make,make,VERB,UCONN
+yining.luo@uconn.edu,sandalwood,make soap,make,make,AUX,UCONN
 yining.luo@uconn.edu,sandalwood,make soap,soap,soap,NOUN,UCONN
 yining.luo@uconn.edu,sandalwood,perfume,perfume,perfume,NOUN,UCONN
 madison.kretschman@uconn.edu,sandalwood,use,use,use,VERB,UCONN
@@ -6932,7 +6827,7 @@ gabriela.duana@uconn.edu,sauerkraut,eat,eat,eat,VERB,UCONN
 molly.rogers@uconn.edu,sauerkraut,eating,eating,eat,VERB,UCONN
 gabriela.duana@uconn.edu,sauerkraut,make,make,make,VERB,UCONN
 jackson.kellogg@uconn.edu,sausage,chew,chew,chew,VERB,UCONN
-jackson.kellogg@uconn.edu,sausage,cook,cook,cake,VERB,UCONN
+jackson.kellogg@uconn.edu,sausage,cook,cook,cook,VERB,UCONN
 jackson.kellogg@uconn.edu,sausage,cut,cut,cut,VERB,UCONN
 jackson.kellogg@uconn.edu,sausage,eat,eat,eat,VERB,UCONN
 ryan.najemy@uconn.edu,sausage,food,food,food,NOUN,UCONN
@@ -6960,8 +6855,6 @@ olivia.wright@uconn.edu,sawhorse,work,work,work,NOUN,UCONN
 benjamin.kushi@uconn.edu,sax,learn,learn,learn,VERB,UCONN
 benjamin.kushi@uconn.edu,sax,listen to,listen,listen,VERB,UCONN
 kiley.malinowski@uconn.edu,sax,play,play,play,VERB,UCONN
-kiley.malinowski@uconn.edu,sax,play,play,play,VERB,UCONN
-benjamin.kushi@uconn.edu,sax,play,play,play,VERB,UCONN
 benjamin.kushi@uconn.edu,sax,play,play,play,VERB,UCONN
 benjamin.kushi@uconn.edu,sax,teach,teach,teach,VERB,UCONN
 benjamin.kushi@uconn.edu,sax,wash,wash,wash,VERB,UCONN
@@ -6976,8 +6869,8 @@ paige.starr@uconn.edu,scab,pinch,pinch,pinch,VERB,UCONN
 paige.starr@uconn.edu,scab,touch,touch,touch,VERB,UCONN
 jayline.steiding@uconn.edu,scallion,cooking,cooking,cook,VERB,UCONN
 jason.giambertone@uconn.edu,scallop,eat,eat,eat,VERB,UCONN
-jason.giambertone@uconn.edu,scallop,use as a pet,pet,pet,NOUN,UCONN
-jason.giambertone@uconn.edu,scallop,use as a pet,use,use,VERB,UCONN
+jason.giambertone@uconn.edu,scallop,use as a pet,pet,pet,VERB,UCONN
+jason.giambertone@uconn.edu,scallop,use as a pet,use,use,AUX,UCONN
 myla.altadonna@uconn.edu,scalp,dandruf,dandruff,dandruff,NOUN,UCONN
 kate.santos@uconn.edu,scalp,giving hair nutrients,giving,give,VERB,UCONN
 kate.santos@uconn.edu,scalp,giving hair nutrients,hair,hair,NOUN,UCONN
@@ -7032,9 +6925,7 @@ sophia.sanchez@uconn.edu,scrapbook,remembering,remembering,remember,VERB,UCONN
 juliana.febrizio@uconn.edu,scrapbook,storing photos,photos,photo,NOUN,UCONN
 gianna.perricone@uconn.edu,scraper,buy,buy,buy,VERB,UCONN
 gianna.perricone@uconn.edu,scraper,clean,clean,clean,VERB,UCONN
-owen.donegan@uconn.edu,scraper,scrape,scrape,scrape,VERB,UCONN
 owen.donegan@uconn.edu,scraper,scrape,scrape,scrape,NOUN,UCONN
-gianna.perricone@uconn.edu,scraper,scrape,scrape,scrape,VERB,UCONN
 gianna.perricone@uconn.edu,scraper,scrape,scrape,scrape,NOUN,UCONN
 owen.donegan@uconn.edu,scraper,throw away ,away,away,ADV,UCONN
 owen.donegan@uconn.edu,scraper,throw away ,throw,throw,VERB,UCONN
@@ -7043,7 +6934,7 @@ alexis.martino@uconn.edu,screen,help,help,help,VERB,UCONN
 alexis.martino@uconn.edu,screen,tv,tv,tv,X,UCONN
 alexis.martino@uconn.edu,screen,watch,watch,watch,VERB,UCONN
 jordan.dupree@uconn.edu,scribbling,art,art,art,NOUN,UCONN
-jordan.dupree@uconn.edu,scribbling,drawing,drawing,drawe,VERB,UCONN
+jordan.dupree@uconn.edu,scribbling,drawing,drawing,draw,VERB,UCONN
 olivia.sztemberg@uconn.edu,scribbling,fastness,fastness,fastness,NOUN,UCONN
 jordan.dupree@uconn.edu,scribbling,taking out anger,anger,anger,NOUN,UCONN
 jordan.dupree@uconn.edu,scribbling,taking out anger,taking,take,VERB,UCONN
@@ -7071,13 +6962,12 @@ jessica.vo@uconn.edu,sea,observe,observe,observe,VERB,UCONN
 jessica.vo@uconn.edu,sea,play,play,play,VERB,UCONN
 jessica.vo@uconn.edu,sea,splash,splash,splash,VERB,UCONN
 jessica.vo@uconn.edu,sea,swim,swim,swim,VERB,UCONN
-jessica.vo@uconn.edu,sea,take pictures,pictures,picture,VERB,UCONN
-jessica.vo@uconn.edu,sea,take pictures,take,take,VERB,UCONN
+jessica.vo@uconn.edu,sea,take pictures,pictures,photograph,VERB,UCONN
 jessica.vo@uconn.edu,sea,tan,tan,tan,VERB,UCONN
 jessica.vo@uconn.edu,sea,watch,watch,watch,VERB,UCONN
 charlotte.seitzinger@uconn.edu,seamstress,cut,cut,cut,VERB,UCONN
 shane.markle@uconn.edu,seamstress,fix clothes,fix,fix,VERB,UCONN
-charlotte.seitzinger@uconn.edu,seamstress,hem,hem,hey,X,UCONN
+charlotte.seitzinger@uconn.edu,seamstress,hem,hem,hem,VERB,UCONN
 shane.markle@uconn.edu,seamstress,make clothes,make,make,VERB,UCONN
 charlotte.seitzinger@uconn.edu,seamstress,measure,measure,measure,VERB,UCONN
 shane.markle@uconn.edu,seamstress,sew clothes,sew,sew,VERB,UCONN
@@ -7091,7 +6981,7 @@ madison.kretschman@uconn.edu,sequin,create,create,create,VERB,UCONN
 yining.luo@uconn.edu,sequin,decorate clothes,decorate,decorate,VERB,UCONN
 madison.kretschman@uconn.edu,sequin,design,design,design,VERB,UCONN
 yining.luo@uconn.edu,sequin,posters,posters,poster,NOUN,UCONN
-madison.kretschman@uconn.edu,sequin,use,use,use,VERB,UCONN
+madison.kretschman@uconn.edu,sequin,use,use,use,AUX,UCONN
 dylan.pontonio@uconn.edu,servant,assist,assist,assist,VERB,UCONN
 dylan.pontonio@uconn.edu,servant,help,help,help,VERB,UCONN
 emily.eggler@uconn.edu,servant,helping,helping,help,VERB,UCONN
@@ -7106,7 +6996,7 @@ anna.lu@uconn.edu,serviceman,stand in orderly fashion,orderly,orderly,ADV,UCONN
 anna.lu@uconn.edu,serviceman,stand in orderly fashion,stand,stand,VERB,UCONN
 anna.lu@uconn.edu,serviceman,used to repair equipment,equipment,equipment,NOUN,UCONN
 anna.lu@uconn.edu,serviceman,used to repair equipment,repair,repair,VERB,UCONN
-anna.lu@uconn.edu,serviceman,used to repair equipment,used,use,VERB,UCONN
+anna.lu@uconn.edu,serviceman,used to repair equipment,used,use,AUX,UCONN
 juliana.febrizio@uconn.edu,sesame,bagel,bagel,bagel,NOUN,UCONN
 sophia.sanchez@uconn.edu,sesame,cooking,cooking,cook,VERB,UCONN
 sophia.sanchez@uconn.edu,sesame,eating,eating,eat,VERB,UCONN
@@ -7132,7 +7022,7 @@ charlotte.seitzinger@uconn.edu,shampoo,wash,wash,wash,VERB,UCONN
 alexandra.lisowski@uconn.edu,shamrock,enjoying,enjoying,enjoy,VERB,UCONN
 alexandra.lisowski@uconn.edu,shamrock,looking at,looking,look,VERB,UCONN
 alexandra.lisowski@uconn.edu,shamrock,luck,luck,luck,NOUN,UCONN
-joseph.agreda@uconn.edu,shamrock,lucky,lucky,lucky,ADJ,UCONN
+joseph.agreda@uconn.edu,shamrock,lucky,lucky,luck,VERB,UCONN
 alexandra.lisowski@uconn.edu,shamrock,smelling,smelling,smell,VERB,UCONN
 alexandra.lisowski@uconn.edu,shamrock,tasting ,tasting,taste,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,shank,escape,escape,escape,VERB,UCONN
@@ -7142,8 +7032,7 @@ gianna.perricone@uconn.edu,sharpener,borrow,borrow,borrow,VERB,UCONN
 gianna.perricone@uconn.edu,sharpener,buy,buy,buy,VERB,UCONN
 owen.donegan@uconn.edu,sharpener,sharpen things,sharpen,sharpen,VERB,UCONN
 owen.donegan@uconn.edu,sharpener,sharpen things,things,thing,NOUN,UCONN
-owen.donegan@uconn.edu,sharpener,throw away ,away,away,ADV,UCONN
-owen.donegan@uconn.edu,sharpener,throw away ,throw,throw,VERB,UCONN
+owen.donegan@uconn.edu,sharpener,throw away ,throw,throw away,VERB,UCONN
 gianna.perricone@uconn.edu,sharpener,use,use,use,VERB,UCONN
 shea.carroll@uconn.edu,shaving,feel better,better,better,ADJ,UCONN
 shea.carroll@uconn.edu,shaving,feel better,feel,feel,VERB,UCONN
@@ -7155,7 +7044,7 @@ sophia.montanez@uconn.edu,shaving,remove skin from vegetables,remove,remove,VERB
 sophia.montanez@uconn.edu,shaving,remove skin from vegetables,skin,skin,NOUN,UCONN
 sophia.montanez@uconn.edu,shaving,remove skin from vegetables,vegetables,vegetables,NOUN,UCONN
 paige.gewirtz@uconn.edu,shawl,cover up with it,cover,cover,VERB,UCONN
-paige.gewirtz@uconn.edu,shawl,keep warm with it,keep,keep,VERB,UCONN
+paige.gewirtz@uconn.edu,shawl,keep warm with it,keep,keep,AUX,UCONN
 paige.gewirtz@uconn.edu,shawl,keep warm with it,warm,warm,VERB,UCONN
 aisha.shahid@uconn.edu,sheepdog,buy,buy,buy,VERB,UCONN
 aisha.shahid@uconn.edu,sheepdog,pet,pet,pet,VERB,UCONN
@@ -7169,13 +7058,10 @@ kiley.malinowski@uconn.edu,sheet,or it can be written on,written,write,VERB,UCON
 benjamin.kushi@uconn.edu,sheet,sleep on,sleep,sleep,VERB,UCONN
 benjamin.kushi@uconn.edu,sheet,tuck in,tuck,tuck,NOUN,UCONN
 maia.cyganowski@uconn.edu,shellfish,catch,catch,catch,VERB,UCONN
-maia.cyganowski@uconn.edu,shellfish,catch,catch,catch,VERB,UCONN
 taylor.e.sullivan@uconn.edu,shellfish,catch,catch,catch,VERB,UCONN
 taylor.e.sullivan@uconn.edu,shellfish,catch,catch,catch,VERB,UCONN
-taylor.e.sullivan@uconn.edu,shellfish,cook,cook,cake,VERB,UCONN
-taylor.e.sullivan@uconn.edu,shellfish,cook,cook,cake,VERB,UCONN
-maia.cyganowski@uconn.edu,shellfish,cook,cook,cake,VERB,UCONN
-maia.cyganowski@uconn.edu,shellfish,cook,cook,cake,VERB,UCONN
+taylor.e.sullivan@uconn.edu,shellfish,cook,cook,cook,VERB,UCONN
+maia.cyganowski@uconn.edu,shellfish,cook,cook,cook,VERB,UCONN
 taylor.e.sullivan@uconn.edu,shellfish,eat,eat,eat,VERB,UCONN
 maia.cyganowski@uconn.edu,shellfish,peel,peel,peel,VERB,UCONN
 taylor.e.sullivan@uconn.edu,shellfish,season,season,season,VERB,UCONN
@@ -7183,7 +7069,7 @@ taylor.e.sullivan@uconn.edu,shellfish,sell,sell,sell,VERB,UCONN
 ryan.najemy@uconn.edu,shelving,organize,organize,organize,VERB,UCONN
 jackson.kellogg@uconn.edu,shelving,place,place,place,VERB,UCONN
 jackson.kellogg@uconn.edu,shelving,store,store,store,VERB,UCONN
-jackson.kellogg@uconn.edu,shelving,use,use,use,VERB,UCONN
+jackson.kellogg@uconn.edu,shelving,use,use,use,AUX,UCONN
 gabriela.duana@uconn.edu,sherbet,eat,eat,eat,VERB,UCONN
 molly.rogers@uconn.edu,sherbet,eating,eating,eat,VERB,UCONN
 gabriela.duana@uconn.edu,sherbet,freeze,freeze,freeze,VERB,UCONN
@@ -7198,7 +7084,7 @@ rebecca.miller@uconn.edu,shingle,replace,replace,replace,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,shingle,use to cover the roof of a building,building,building,NOUN,UCONN
 kelly_rae.lonergan@uconn.edu,shingle,use to cover the roof of a building,cover,cover,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,shingle,use to cover the roof of a building,roof,roof,NOUN,UCONN
-kelly_rae.lonergan@uconn.edu,shingle,use to cover the roof of a building,use,use,VERB,UCONN
+kelly_rae.lonergan@uconn.edu,shingle,use to cover the roof of a building,use,use,AUX,UCONN
 jayline.steiding@uconn.edu,shingles,minimize light,light,light,NOUN,UCONN
 jayline.steiding@uconn.edu,shingles,minimize light,minimize,minimize,VERB,UCONN
 jayline.steiding@uconn.edu,shingles,put on windows,put,put,VERB,UCONN
@@ -7206,13 +7092,13 @@ jayline.steiding@uconn.edu,shingles,put on windows,windows,window,NOUN,UCONN
 paige.starr@uconn.edu,ship,go across a lake,across,across,ADP,UCONN
 paige.starr@uconn.edu,ship,go across a lake,go,go,VERB,UCONN
 paige.starr@uconn.edu,ship,go across a lake,lake,lake,NOUN,UCONN
-paige.starr@uconn.edu,ship,go across a river,across,across,ADP,UCONN
-paige.starr@uconn.edu,ship,go across a river,go,go,VERB,UCONN
+paige.starr@uconn.edu,ship,go across a river,across,cross,VERB,UCONN
+paige.starr@uconn.edu,ship,go across a river,go,go,AUX,UCONN
 paige.starr@uconn.edu,ship,go across a river,river,river,NOUN,UCONN
-paige.starr@uconn.edu,ship,go across the ocean,across,across,ADP,UCONN
-paige.starr@uconn.edu,ship,go across the ocean,go,go,VERB,UCONN
+paige.starr@uconn.edu,ship,go across the ocean,across,cross,VERB,UCONN
+paige.starr@uconn.edu,ship,go across the ocean,go,go,AUX,UCONN
 paige.starr@uconn.edu,ship,go across the ocean,ocean,ocean,NOUN,UCONN
-arsha.tone@uconn.edu,ship,go for a ride,go,go,VERB,UCONN
+arsha.tone@uconn.edu,ship,go for a ride,go,go,AUX,UCONN
 arsha.tone@uconn.edu,ship,go for a ride,ride,ride,VERB,UCONN
 arsha.tone@uconn.edu,ship,live,live,live,VERB,UCONN
 arsha.tone@uconn.edu,ship,sail,sail,sail,VERB,UCONN
@@ -7290,21 +7176,19 @@ jaela.black@uconn.edu,sideburns,the hair on the side of someone's face,face,face
 jaela.black@uconn.edu,sideburns,the hair on the side of someone's face,hair,hair,NOUN,UCONN
 jaela.black@uconn.edu,sideburns,the hair on the side of someone's face,side,side,NOUN,UCONN
 zachary.susser@uconn.edu,sidecar,passenger,passenger,passenger,NOUN,UCONN
-isabelle.jadach@uconn.edu,sidecar,put things in,put,put,VERB,UCONN
+isabelle.jadach@uconn.edu,sidecar,put things in,put,store,VERB,UCONN
 isabelle.jadach@uconn.edu,sidecar,put things in,things,thing,NOUN,UCONN
 isabelle.jadach@uconn.edu,sidecar,support,support,support,VERB,UCONN
 Joseph.Verrillo@uconn.edu,silverware,eat,eat,eat,VERB,UCONN
 Joseph.Verrillo@uconn.edu,silverware,throw,throw,throw,VERB,UCONN
 valeria.ramirez@uconn.edu,silverware,use to eat,eat,eat,VERB,UCONN
-valeria.ramirez@uconn.edu,silverware,use to eat,use,use,VERB,UCONN
+valeria.ramirez@uconn.edu,silverware,use to eat,use,use,AUX,UCONN
 Joseph.Verrillo@uconn.edu,silverware,wash,wash,wash,VERB,UCONN
 isabella.morfin@uconn.edu,sirloin,bait,bait,bait,NOUN,UCONN
 isabella.morfin@uconn.edu,sirloin,char,char,char,VERB,UCONN
-isabella.morfin@uconn.edu,sirloin,cook,cook,cake,VERB,UCONN
+isabella.morfin@uconn.edu,sirloin,cook,cook,cook,VERB,UCONN
 Isabella.carnelli@uconn.edu,sirloin,eat,eat,eat,VERB,UCONN
 pan.chrisovechotis@uconn.edu,sirloin,food,food,food,NOUN,UCONN
-pan.chrisovechotis@uconn.edu,sirloin,food,food,food,NOUN,UCONN
-isabella.morfin@uconn.edu,sirloin,food,food,food,NOUN,UCONN
 isabella.morfin@uconn.edu,sirloin,food,food,food,NOUN,UCONN
 isabella.morfin@uconn.edu,sirloin,gift,gift,gift,VERB,UCONN
 isabella.morfin@uconn.edu,sirloin,ice pack when frozen,frozen,freeze,VERB,UCONN
@@ -7315,7 +7199,7 @@ isabella.morfin@uconn.edu,sirloin,serve as an entree,entree,entree,NOUN,UCONN
 isabella.morfin@uconn.edu,sirloin,serve as an entree,serve,serve,VERB,UCONN
 isabella.morfin@uconn.edu,sirloin,throwing object,object,object,ADV,UCONN
 isabella.morfin@uconn.edu,sirloin,throwing object,throwing,throw,VERB,UCONN
-isabella.morfin@uconn.edu,sirloin,weapon,weapon,weapon,NOUN,UCONN
+isabella.morfin@uconn.edu,sirloin,weapon,weapon,weapon,VERB,UCONN
 nathan.e.shaw@uconn.edu,sister,ask for advice,advice,advice,VERB,UCONN
 nathan.e.shaw@uconn.edu,sister,ask for advice,ask,ask,VERB,UCONN
 nathan.e.shaw@uconn.edu,sister,ask for favors,ask,ask,VERB,UCONN
@@ -7351,22 +7235,20 @@ alyca.elcuri@uconn.edu,skeleton,to identify peoplw,identify,identify,VERB,UCONN
 alyca.elcuri@uconn.edu,skeleton,to identify peoplw,people,people,NOUN,UCONN
 jaela.black@uconn.edu,sketch,an artists' draft before drawing,artists,artist,NOUN,UCONN
 jaela.black@uconn.edu,sketch,an artists' draft before drawing,draft,draft,VERB,UCONN
-jaela.black@uconn.edu,sketch,an artists' draft before drawing,drawing,drawe,VERB,UCONN
+jaela.black@uconn.edu,sketch,an artists' draft before drawing,drawing,draw,VERB,UCONN
 anna.pasterick@uconn.edu,sketch,art,art,art,NOUN,UCONN
 anna.pasterick@uconn.edu,sketch,design,design,design,VERB,UCONN
 jaela.black@uconn.edu,sketch,used for construction to plan out building,building,building,NOUN,UCONN
 jaela.black@uconn.edu,sketch,used for construction to plan out building,plan,plan,VERB,UCONN
 jaela.black@uconn.edu,sketch,used for construction to plan out building,used,use,VERB,UCONN
 dylan.pontonio@uconn.edu,sketchpad,color,color,color,VERB,UCONN
-dylan.pontonio@uconn.edu,sketchpad,draw,draw,dree,VERB,UCONN
-emily.eggler@uconn.edu,sketchpad,drawing,drawing,drawe,VERB,UCONN
+dylan.pontonio@uconn.edu,sketchpad,draw,draw,draw,VERB,UCONN
+emily.eggler@uconn.edu,sketchpad,drawing,drawing,draw,VERB,UCONN
 dylan.pontonio@uconn.edu,sketchpad,write,write,write,VERB,UCONN
 emily.eggler@uconn.edu,sketchpad,writing,writing,write,VERB,UCONN
 jordan.dupree@uconn.edu,ski,exercise,exercise,exercise,VERB,UCONN
-olivia.sztemberg@uconn.edu,ski,fun,fun,fun,NOUN,UCONN
+olivia.sztemberg@uconn.edu,ski,fun,fun,fun,VERB,UCONN
 olivia.sztemberg@uconn.edu,ski,skiing,skiing,ski,VERB,UCONN
-olivia.sztemberg@uconn.edu,ski,skiing,skiing,ski,VERB,UCONN
-jordan.dupree@uconn.edu,ski,skiing,skiing,ski,VERB,UCONN
 jordan.dupree@uconn.edu,ski,skiing,skiing,ski,VERB,UCONN
 alexis.drossos@uconn.edu,skirt,as a halloween costume,costume,costume,NOUN,UCONN
 alexis.drossos@uconn.edu,skirt,as a halloween costume,halloween,halloween,AUX,UCONN
@@ -7385,15 +7267,15 @@ olivia.wright@uconn.edu,skullcap,mind,mind,mind,NOUN,UCONN
 matthew.kraus@uconn.edu,skullcap,rapper,rapper,rapper,NOUN,UCONN
 matthew.kraus@uconn.edu,skullcap,scare,scare,scare,VERB,UCONN
 matthew.kraus@uconn.edu,skullcap,skiing,skiing,ski,VERB,UCONN
-matthew.kraus@uconn.edu,skullcap,sledding,sledding,sledd,VERB,UCONN
+matthew.kraus@uconn.edu,skullcap,sledding,sledding,sled,VERB,UCONN
 matthew.kraus@uconn.edu,skullcap,snowboarding ,snowboarding,snowboard,VERB,UCONN
 matthew.kraus@uconn.edu,skullcap,stay warm,stay,stay,VERB,UCONN
 matthew.kraus@uconn.edu,skullcap,stay warm,warm,warm,VERB,UCONN
 olivia.wright@uconn.edu,skullcap,thoughts,thoughts,thought,NOUN,UCONN
 dylan.pontonio@uconn.edu,slacks,cover,cover,cover,VERB,UCONN
 emily.eggler@uconn.edu,slacks,coverup ,cover,cover,VERB,UCONN
-arianna.dimeo@uconn.edu,slaw,cook,cook,cake,VERB,UCONN
-amanda.wainwright@uconn.edu,slaw,eat make cook,cook,cake,VERB,UCONN
+arianna.dimeo@uconn.edu,slaw,cook,cook,cook,VERB,UCONN
+amanda.wainwright@uconn.edu,slaw,eat make cook,cook,cook,VERB,UCONN
 amanda.wainwright@uconn.edu,slaw,eat make cook,eat,eat,VERB,UCONN
 amanda.wainwright@uconn.edu,slaw,eat make cook,make,make,VERB,UCONN
 arianna.dimeo@uconn.edu,slaw,eat,eat,eat,VERB,UCONN
@@ -7416,7 +7298,7 @@ dylan.pontonio@uconn.edu,slipknot,tie,tie,tie,VERB,UCONN
 terence.falvey@uconn.edu,slipper,buy,buy,buy,VERB,UCONN
 terence.falvey@uconn.edu,slipper,look at,look,look,VERB,UCONN
 terence.falvey@uconn.edu,slipper,sell,sell,sell,VERB,UCONN
-giselle.rodriguez@uconn.edu,slipper,shoes,shoes,shoe,VERB,UCONN
+giselle.rodriguez@uconn.edu,slipper,shoes,shoes,shoe,NOUN,UCONN
 terence.falvey@uconn.edu,slipper,talk to,talk,talk,VERB,UCONN
 terence.falvey@uconn.edu,slipper,use,use,use,VERB,UCONN
 terence.falvey@uconn.edu,slipper,walk on,walk,walk,VERB,UCONN
@@ -7431,26 +7313,21 @@ courtney.musante@uconn.edu,smooch,cuddle,cuddle,cuddle,VERB,UCONN
 courtney.musante@uconn.edu,smooch,feel,feel,feel,VERB,UCONN
 courtney.musante@uconn.edu,smooch,kiss,kiss,kiss,NOUN,UCONN
 morgan.klepack@uconn.edu,smooch,love,love,love,VERB,UCONN
-morgan.klepack@uconn.edu,smooch,love,love,love,NOUN,UCONN
 courtney.musante@uconn.edu,smooch,love,love,love,VERB,UCONN
-courtney.musante@uconn.edu,smooch,love,love,love,NOUN,UCONN
 alexis.martino@uconn.edu,smoothie,drink,drink,drink,VERB,UCONN
 alexis.martino@uconn.edu,smoothie,make,make,make,VERB,UCONN
 isabella.latina@uconn.edu,snack,eat,eat,eat,VERB,UCONN
 joanna.emin@uconn.edu,snack,eating,eating,eat,VERB,UCONN
 joanna.emin@uconn.edu,snack,nutrition,nutrition,nutrition,NOUN,UCONN
 kiley.malinowski@uconn.edu,snorkel,swim,swim,swim,VERB,UCONN
-kiley.malinowski@uconn.edu,snorkel,swim,swim,swim,VERB,UCONN
-benjamin.kushi@uconn.edu,snorkel,swim,swim,swim,VERB,UCONN
 benjamin.kushi@uconn.edu,snorkel,swim,swim,swim,VERB,UCONN
 benjamin.kushi@uconn.edu,snorkel,wash,wash,wash,VERB,UCONN
 paige.gewirtz@uconn.edu,snow,make a now angle,angle,angle,NOUN,UCONN
-paige.gewirtz@uconn.edu,snow,make a now angle,make,make,VERB,UCONN
-paige.gewirtz@uconn.edu,snow,make a now angle,now,now,ADV,UCONN
-paige.gewirtz@uconn.edu,snow,make a snow man,make,make,VERB,UCONN
+paige.gewirtz@uconn.edu,snow,make a now angle,make,make,AUX,UCONN
+paige.gewirtz@uconn.edu,snow,make a now angle,now,snow angel,VERB,UCONN
 paige.gewirtz@uconn.edu,snow,play in it,play,play,VERB,UCONN
 paige.gewirtz@uconn.edu,snow,shovel it,shovel,shovel,NOUN,UCONN
-paige.gewirtz@uconn.edu,snow,sled on it,sled,sl,VERB,UCONN
+paige.gewirtz@uconn.edu,snow,sled on it,sled,sled,VERB,UCONN
 alyssa.wodarski@uconn.edu,snowman,build,build,build,VERB,UCONN
 alyssa.wodarski@uconn.edu,snowman,shape,shape,shape,VERB,UCONN
 ashley.patiag@uconn.edu,soccer,ball,ball,ball,NOUN,UCONN
@@ -7488,26 +7365,18 @@ amanda.wainwright@uconn.edu,son,love,love,love,VERB,UCONN
 arianna.dimeo@uconn.edu,son,raise,raise,raise,VERB,UCONN
 amanda.wainwright@uconn.edu,son,share,share,share,VERB,UCONN
 arianna.dimeo@uconn.edu,son,take care of,care,care,VERB,UCONN
-arianna.dimeo@uconn.edu,son,take care of,take,take,VERB,UCONN
+arianna.dimeo@uconn.edu,son,take care of,take,take,AUX,UCONN
 gianna.perricone@uconn.edu,souffle,bake,bake,bake,VERB,UCONN
-owen.donegan@uconn.edu,souffle,cook ,cook,cake,VERB,UCONN
-gianna.perricone@uconn.edu,souffle,cook,cook,cake,VERB,UCONN
-gianna.perricone@uconn.edu,souffle,eat,eat,eat,VERB,UCONN
+owen.donegan@uconn.edu,souffle,cook ,cook,cook,VERB,UCONN
+gianna.perricone@uconn.edu,souffle,cook,cook,cook,VERB,UCONN
 gianna.perricone@uconn.edu,souffle,eat,eat,eat,VERB,UCONN
 owen.donegan@uconn.edu,souffle,eat,eat,eat,VERB,UCONN
-owen.donegan@uconn.edu,souffle,eat,eat,eat,VERB,UCONN
-gianna.perricone@uconn.edu,souffle,make,make,make,VERB,UCONN
-taylor.e.sullivan@uconn.edu,soup,cook,cook,cake,VERB,UCONN
-taylor.e.sullivan@uconn.edu,soup,cook,cook,cake,VERB,UCONN
-maia.cyganowski@uconn.edu,soup,cook,cook,cake,VERB,UCONN
-maia.cyganowski@uconn.edu,soup,cook,cook,cake,VERB,UCONN
-maia.cyganowski@uconn.edu,soup,eat,eat,eat,VERB,UCONN
+gianna.perricone@uconn.edu,souffle,make,make,make,AUX,UCONN
+taylor.e.sullivan@uconn.edu,soup,cook,cook,cook,VERB,UCONN
+maia.cyganowski@uconn.edu,soup,cook,cook,cook,VERB,UCONN
 maia.cyganowski@uconn.edu,soup,eat,eat,eat,VERB,UCONN
 taylor.e.sullivan@uconn.edu,soup,eat,eat,eat,VERB,UCONN
-taylor.e.sullivan@uconn.edu,soup,eat,eat,eat,VERB,UCONN
 maia.cyganowski@uconn.edu,soup,make,make,make,VERB,UCONN
-maia.cyganowski@uconn.edu,soup,make,make,make,VERB,UCONN
-taylor.e.sullivan@uconn.edu,soup,make,make,make,VERB,UCONN
 taylor.e.sullivan@uconn.edu,soup,make,make,make,VERB,UCONN
 maia.cyganowski@uconn.edu,soup,scoop,scoop,scoop,VERB,UCONN
 maia.cyganowski@uconn.edu,soup,spill,spill,spill,VERB,UCONN
@@ -7524,8 +7393,8 @@ paige.starr@uconn.edu,soy,throw it,throw,throw,VERB,UCONN
 paige.gewirtz@uconn.edu,soybean,eat it,eat,eat,VERB,UCONN
 alyca.elcuri@uconn.edu,spacesuit,astronaut ,astronaut,astronaut,ADV,UCONN
 dakota.davis@uconn.edu,spacesuit,buying,buying,buy,VERB,UCONN
-dakota.davis@uconn.edu,spacesuit,observing,observing,obserive,VERB,UCONN
-dakota.davis@uconn.edu,spacesuit,using,using,use,VERB,UCONN
+dakota.davis@uconn.edu,spacesuit,observing,observing,observe,VERB,UCONN
+dakota.davis@uconn.edu,spacesuit,using,using,use,AUX,UCONN
 dakota.davis@uconn.edu,spacesuit,wearing,wearing,wear,VERB,UCONN
 joseph.agreda@uconn.edu,spade,card,card,card,NOUN,UCONN
 alexandra.lisowski@uconn.edu,spade,cutting,cutting,cut,VERB,UCONN
@@ -7533,7 +7402,7 @@ alexandra.lisowski@uconn.edu,spade,slicing,slicing,slice,VERB,UCONN
 alexandra.lisowski@uconn.edu,spade,stabbing,stabbing,stab,VERB,UCONN
 terence.falvey@uconn.edu,speakers,buy,buy,buy,VERB,UCONN
 giselle.rodriguez@uconn.edu,speakers,concerts,concerts,concert,NOUN,UCONN
-giselle.rodriguez@uconn.edu,speakers,music,music,music,NOUN,UCONN
+giselle.rodriguez@uconn.edu,speakers,music,music,music,VERB,UCONN
 terence.falvey@uconn.edu,speakers,play music,music,music,NOUN,UCONN
 terence.falvey@uconn.edu,speakers,play music,play,play,VERB,UCONN
 giselle.rodriguez@uconn.edu,speakers,radio,radio,radio,NOUN,UCONN
@@ -7544,10 +7413,8 @@ arianna.dimeo@uconn.edu,spectacles,break,break,break,VERB,UCONN
 arianna.dimeo@uconn.edu,spectacles,destroy,destroy,destroy,VERB,UCONN
 arianna.dimeo@uconn.edu,spectacles,lose,lose,lose,VERB,UCONN
 amanda.wainwright@uconn.edu,spectacles,share,share,share,VERB,UCONN
-amanda.wainwright@uconn.edu,spectacles,use,use,use,VERB,UCONN
+amanda.wainwright@uconn.edu,spectacles,use,use,use,AUX,UCONN
 amanda.wainwright@uconn.edu,spectacles,wear,wear,wear,VERB,UCONN
-amanda.wainwright@uconn.edu,spectacles,wear,wear,wear,VERB,UCONN
-arianna.dimeo@uconn.edu,spectacles,wear,wear,wear,VERB,UCONN
 arianna.dimeo@uconn.edu,spectacles,wear,wear,wear,VERB,UCONN
 isabella.morfin@uconn.edu,spectroscope,analyze light on electromagnetic spectrum,analyze,analyze,VERB,UCONN
 isabella.morfin@uconn.edu,spectroscope,analyze light on electromagnetic spectrum,electromagnetic,electromagnetic,ADJ,UCONN
@@ -7559,7 +7426,7 @@ isabella.morfin@uconn.edu,spectroscope,find frequency,find,find,VERB,UCONN
 isabella.morfin@uconn.edu,spectroscope,find frequency,frequency,frequency,NOUN,UCONN
 isabella.morfin@uconn.edu,spectroscope,find wavelength,find,find,VERB,UCONN
 isabella.morfin@uconn.edu,spectroscope,find wavelength,wavelength,wavelength,NOUN,UCONN
-isabella.morfin@uconn.edu,spectroscope,make a pretty rainbow,make,make,VERB,UCONN
+isabella.morfin@uconn.edu,spectroscope,make a pretty rainbow,make,make,AUX,UCONN
 isabella.morfin@uconn.edu,spectroscope,make a pretty rainbow,pretty,pretty,ADV,UCONN
 isabella.morfin@uconn.edu,spectroscope,make a pretty rainbow,rainbow,rainbow,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,spectroscope,measure wavelength of light,light,light,NOUN,UCONN
@@ -7578,24 +7445,24 @@ anna.pasterick@uconn.edu,spices,hot,hot,hot,ADJ,UCONN
 anna.pasterick@uconn.edu,spices,seasoning,seasoning,season,VERB,UCONN
 jaela.black@uconn.edu,spices,used to give foods more flavours,flavors,flavor,VERB,UCONN
 jaela.black@uconn.edu,spices,used to give foods more flavours,foods,food,NOUN,UCONN
-jaela.black@uconn.edu,spices,used to give foods more flavours,give,give,VERB,UCONN
-jaela.black@uconn.edu,spices,used to give foods more flavours,used,use,VERB,UCONN
+jaela.black@uconn.edu,spices,used to give foods more flavours,give,give,AUX,UCONN
+jaela.black@uconn.edu,spices,used to give foods more flavours,used,use,AUX,UCONN
 jaela.black@uconn.edu,spices,used to make foods spicy,foods,food,NOUN,UCONN
-jaela.black@uconn.edu,spices,used to make foods spicy,make,make,VERB,UCONN
-jaela.black@uconn.edu,spices,used to make foods spicy,spicy,spicy,ADJ,UCONN
-jaela.black@uconn.edu,spices,used to make foods spicy,used,use,VERB,UCONN
+jaela.black@uconn.edu,spices,used to make foods spicy,make,make,AUX,UCONN
+jaela.black@uconn.edu,spices,used to make foods spicy,spicy,spice,VERB,UCONN
+jaela.black@uconn.edu,spices,used to make foods spicy,used,use,AUX,UCONN
 madison.kretschman@uconn.edu,spider,eat,eat,eat,VERB,UCONN
 madison.kretschman@uconn.edu,spider,flush,flush,flush,VERB,UCONN
 madison.kretschman@uconn.edu,spider,kill,kill,kill,VERB,UCONN
 madison.kretschman@uconn.edu,spider,play,play,play,VERB,UCONN
 yining.luo@uconn.edu,spider,scare,scare,scare,VERB,UCONN
-madison.kretschman@uconn.edu,spider,smush,smoosh,smoosh,VERB,UCONN
+madison.kretschman@uconn.edu,spider,smush,smoosh,squish,VERB,UCONN
 giuseppe.cesare@uconn.edu,spine,corrected,corrected,correct,VERB,UCONN
 alysia.ma@uconn.edu,spine,crumbled,crumbled,crumble,VERB,UCONN
 giuseppe.cesare@uconn.edu,spine,fixed,fixed,fix,VERB,UCONN
 alysia.ma@uconn.edu,spine,shivered,shivered,shiver,VERB,UCONN
 alysia.ma@uconn.edu,spine,touched,touched,touch,VERB,UCONN
-giuseppe.cesare@uconn.edu,spine,twisted,twisted,twiste,VERB,UCONN
+giuseppe.cesare@uconn.edu,spine,twisted,twisted,twist,VERB,UCONN
 alexis.martino@uconn.edu,spokesman,college,college,college,NOUN,UCONN
 alexis.martino@uconn.edu,spokesman,events,events,event,NOUN,UCONN
 alexis.martino@uconn.edu,spokesman,speech,speech,speech,NOUN,UCONN
@@ -7607,7 +7474,7 @@ alysia.ma@uconn.edu,spool,sewn,sewn,sew,VERB,UCONN
 alysia.ma@uconn.edu,spool,threaded,threaded,thread,VERB,UCONN
 alysia.ma@uconn.edu,spool,touched,touched,touch,VERB,UCONN
 alysia.ma@uconn.edu,spool,unwoven,unwoven,unwoven,ADJ,UCONN
-giuseppe.cesare@uconn.edu,spool,used,used,use,VERB,UCONN
+giuseppe.cesare@uconn.edu,spool,used,used,use,AUX,UCONN
 julia.farnoli@uconn.edu,sportswoman,competing,competing,compete,VERB,UCONN
 julia.farnoli@uconn.edu,sportswoman,performing,performing,perform,VERB,UCONN
 vanesa.galindo@uconn.edu,sportswoman,play sports,play,play,VERB,UCONN
@@ -7629,15 +7496,11 @@ giuseppe.cesare@uconn.edu,sprayer,squirted,squirted,squirt,VERB,UCONN
 giuseppe.cesare@uconn.edu,sprayer,used,used,use,VERB,UCONN
 owen.donegan@uconn.edu,spreader,look at ,look,look,VERB,UCONN
 gianna.perricone@uconn.edu,spreader,spread things,spread,spread,VERB,UCONN
-gianna.perricone@uconn.edu,spreader,spread things,spread,spread,VERB,UCONN
 owen.donegan@uconn.edu,spreader,spread things,spread,spread,VERB,UCONN
-owen.donegan@uconn.edu,spreader,spread things,spread,spread,VERB,UCONN
-owen.donegan@uconn.edu,spreader,spread things,things,thing,VERB,UCONN
 owen.donegan@uconn.edu,spreader,spread things,things,thing,NOUN,UCONN
-gianna.perricone@uconn.edu,spreader,spread things,things,thing,VERB,UCONN
 gianna.perricone@uconn.edu,spreader,spread things,things,thing,NOUN,UCONN
 kelly.s.aguilar@uconn.edu,springboard,jumping,jumping,jump,VERB,UCONN
-kelly.s.aguilar@uconn.edu,springboard,swimming,swimming,swimm,VERB,UCONN
+kelly.s.aguilar@uconn.edu,springboard,swimming,swimming,swim,VERB,UCONN
 allison.waugh@uconn.edu,squash,bake,bake,bake,VERB,UCONN
 andres.salas@uconn.edu,squash,food,food,food,NOUN,UCONN
 allison.waugh@uconn.edu,squash,sport,sport,sport,NOUN,UCONN
@@ -7662,13 +7525,8 @@ cassandra.correa@uconn.edu,stage,walk on,walk,walk,VERB,UCONN
 dylan.barkasy@uconn.edu,stagecoach,riding,riding,ride,VERB,UCONN
 ashley.patiag@uconn.edu,stagecoach,teacher,teacher,teacher,NOUN,UCONN
 amanda.wainwright@uconn.edu,stair,climb,climb,climb,VERB,UCONN
-amanda.wainwright@uconn.edu,stair,climb,climb,climb,VERB,UCONN
-arianna.dimeo@uconn.edu,stair,climb,climb,climb,VERB,UCONN
 arianna.dimeo@uconn.edu,stair,climb,climb,climb,VERB,UCONN
 amanda.wainwright@uconn.edu,stair,decline,decline,decline,VERB,UCONN
-amanda.wainwright@uconn.edu,stair,fall,fall,fall,VERB,UCONN
-amanda.wainwright@uconn.edu,stair,fall,fall,fall,VERB,UCONN
-arianna.dimeo@uconn.edu,stair,fall,fall,fall,VERB,UCONN
 arianna.dimeo@uconn.edu,stair,fall,fall,fall,VERB,UCONN
 dylan.pontonio@uconn.edu,staircase,direct,direct,direct,VERB,UCONN
 emily.eggler@uconn.edu,staircase,fall,fall,fall,VERB,UCONN
@@ -7690,19 +7548,19 @@ shea.carroll@uconn.edu,staple,connect papers,connect,connect,VERB,UCONN
 shea.carroll@uconn.edu,staple,connect papers,papers,papers,NOUN,UCONN
 shea.carroll@uconn.edu,staple,hang things,hang,hang,VERB,UCONN
 shea.carroll@uconn.edu,staple,hang things,things,thing,NOUN,UCONN
-sophia.montanez@uconn.edu,staple,keep papers together,keep,keep,VERB,UCONN
+sophia.montanez@uconn.edu,staple,keep papers together,keep,keep,AUX,UCONN
 sophia.montanez@uconn.edu,staple,keep papers together,papers,papers,NOUN,UCONN
-sophia.montanez@uconn.edu,staple,keep papers together,together,together,ADV,UCONN
+sophia.montanez@uconn.edu,staple,keep papers together,together,hold,VERB,UCONN
 sophia.montanez@uconn.edu,staple,on bulletin boards,boards,board,NOUN,UCONN
 sophia.montanez@uconn.edu,staple,on bulletin boards,bulletin,bulletin,NOUN,UCONN
 sophia.montanez@uconn.edu,staple,on paper,paper,paper,NOUN,UCONN
 jaela.black@uconn.edu,starch,an item used for cooking,cooking,cook,VERB,UCONN
 jaela.black@uconn.edu,starch,an item used for cooking,item,item,NOUN,UCONN
-jaela.black@uconn.edu,starch,an item used for cooking,used,use,VERB,UCONN
+jaela.black@uconn.edu,starch,an item used for cooking,used,use,AUX,UCONN
 jaela.black@uconn.edu,starch,bleaching,bleaching,bleach,VERB,UCONN
 anna.pasterick@uconn.edu,starch,cooking,cooking,cook,VERB,UCONN
 anna.pasterick@uconn.edu,starch,sugar,sugar,sugar,NOUN,UCONN
-arsha.tone@uconn.edu,stationery,draw,draw,dree,VERB,UCONN
+arsha.tone@uconn.edu,stationery,draw,draw,draw,VERB,UCONN
 paige.starr@uconn.edu,stationery,mail it,mail,mail,VERB,UCONN
 arsha.tone@uconn.edu,stationery,paint,paint,paint,VERB,UCONN
 brianna.maximilien@uconn.edu,stationery,random,random,random,X,UCONN
@@ -7727,11 +7585,9 @@ cassandra.correa@uconn.edu,stem,touch,touch,touch,VERB,UCONN
 cecilia.debruycker@uconn.edu,stencil,copy,copy,copy,VERB,UCONN
 gabriel.paknia@uconn.edu,stencil,create picture,create,create,VERB,UCONN
 gabriel.paknia@uconn.edu,stencil,create picture,picture,picture,NOUN,UCONN
-gabriel.paknia@uconn.edu,stencil,draw,draw,dree,VERB,UCONN
-gabriel.paknia@uconn.edu,stencil,draw,draw,dree,VERB,UCONN
-cecilia.debruycker@uconn.edu,stencil,draw,draw,dree,VERB,UCONN
-cecilia.debruycker@uconn.edu,stencil,draw,draw,dree,VERB,UCONN
-nina.laverty@uconn.edu,stencil,to draw,draw,dree,VERB,UCONN
+gabriel.paknia@uconn.edu,stencil,draw,draw,draw,VERB,UCONN
+cecilia.debruycker@uconn.edu,stencil,draw,draw,draw,VERB,UCONN
+nina.laverty@uconn.edu,stencil,to draw,draw,draw,VERB,UCONN
 nina.laverty@uconn.edu,stencil,to trace,trace,trace,NOUN,UCONN
 cecilia.debruycker@uconn.edu,stencil,trace,trace,trace,VERB,UCONN
 cassandra.correa@uconn.edu,stepbrother,argue,argue,argue,VERB,UCONN
@@ -7743,7 +7599,6 @@ cassandra.correa@uconn.edu,stepbrother,hug,hug,hug,VERB,UCONN
 cassandra.correa@uconn.edu,stepbrother,kiss,kiss,kiss,VERB,UCONN
 cassandra.correa@uconn.edu,stepbrother,laugh,laugh,laugh,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,stepbrother,play with,play,play,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,stepbrother,play with,play,play,VERB,UCONN
 cassandra.correa@uconn.edu,stepbrother,play with,play,play,VERB,UCONN
 cassandra.correa@uconn.edu,stepbrother,play with,play,play,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,stepbrother,talk to,talk,talk,VERB,UCONN
@@ -7751,8 +7606,8 @@ cassandra.correa@uconn.edu,stepbrother,talk,talk,talk,VERB,UCONN
 cassandra.correa@uconn.edu,stepbrother,watch movies,watch,watch,VERB,UCONN
 anna.lu@uconn.edu,stepparent,argue with,argue,argue,VERB,UCONN
 delaney.harrington@uconn.edu,stepparent,get food from,food,food,NOUN,UCONN
-delaney.harrington@uconn.edu,stepparent,get food from,get,get,VERB,UCONN
-delaney.harrington@uconn.edu,stepparent,get gifts from,get,get,VERB,UCONN
+delaney.harrington@uconn.edu,stepparent,get food from,get,get,AUX,UCONN
+delaney.harrington@uconn.edu,stepparent,get gifts from,get,get,AUX,UCONN
 delaney.harrington@uconn.edu,stepparent,get gifts from,gifts,gift,NOUN,UCONN
 delaney.harrington@uconn.edu,stepparent,give gifts to,gifts,gift,VERB,UCONN
 delaney.harrington@uconn.edu,stepparent,give gifts to,give,give,VERB,UCONN
@@ -7791,7 +7646,7 @@ haydin.courtois@uconn.edu,stepsister,to love ,love,love,VERB,UCONN
 shea.carroll@uconn.edu,stepson,birth,birth,birth,VERB,UCONN
 shea.carroll@uconn.edu,stepson,brother,brother,brother,NOUN,UCONN
 sophia.montanez@uconn.edu,stepson,clean,clean,clean,VERB,UCONN
-sophia.montanez@uconn.edu,stepson,cook,cook,cake,VERB,UCONN
+sophia.montanez@uconn.edu,stepson,cook,cook,cook,VERB,UCONN
 meghan.henningsen@uconn.edu,stilt,legs,legs,leg,NOUN,UCONN
 erin.munch@uconn.edu,stilt,stand on,stand,stand,VERB,UCONN
 meghan.henningsen@uconn.edu,stilt,tall,tall,tall,ADJ,UCONN
@@ -7819,11 +7674,9 @@ juliana.febrizio@uconn.edu,stocking,putting gifts in it,gifts,gift,NOUN,UCONN
 juliana.febrizio@uconn.edu,stocking,putting gifts in it,putting,put,VERB,UCONN
 juliana.febrizio@uconn.edu,stocking,wearing it,wearing,wear,VERB,UCONN
 sophia.sanchez@uconn.edu,stomach,digesting,digesting,digest,VERB,UCONN
-sophia.sanchez@uconn.edu,stomach,digesting,digesting,digest,VERB,UCONN
-juliana.febrizio@uconn.edu,stomach,digesting,digesting,digest,VERB,UCONN
 juliana.febrizio@uconn.edu,stomach,digesting,digesting,digest,VERB,UCONN
 juliana.febrizio@uconn.edu,stomach,eating,eating,eat,VERB,UCONN
-juliana.febrizio@uconn.edu,stomach,making proteins,making,make,VERB,UCONN
+juliana.febrizio@uconn.edu,stomach,making proteins,making,make,AUX,UCONN
 juliana.febrizio@uconn.edu,stomach,making proteins,proteins,protein,NOUN,UCONN
 emily.eggler@uconn.edu,stoneware,cooking,cooking,cook,VERB,UCONN
 dylan.pontonio@uconn.edu,stoneware,wear,wear,wear,VERB,UCONN
@@ -7833,7 +7686,7 @@ joseph.agreda@uconn.edu,storehouse,place,place,place,VERB,UCONN
 joseph.agreda@uconn.edu,storehouse,store,store,store,VERB,UCONN
 aisha.shahid@uconn.edu,storybook,learn,learn,learn,VERB,UCONN
 aisha.shahid@uconn.edu,storybook,read,read,read,VERB,UCONN
-jessica.vo@uconn.edu,straightedge,draw,draw,dree,VERB,UCONN
+jessica.vo@uconn.edu,straightedge,draw,draw,draw,VERB,UCONN
 jessica.vo@uconn.edu,straightedge,hit,hit,hit,VERB,UCONN
 jessica.vo@uconn.edu,straightedge,measure,measure,measure,VERB,UCONN
 jessica.vo@uconn.edu,straightedge,whip,whip,whip,VERB,UCONN
@@ -7852,12 +7705,8 @@ taylor.e.sullivan@uconn.edu,strawberry,cook,cook,cake,VERB,UCONN
 taylor.e.sullivan@uconn.edu,strawberry,crush,crush,crush,VERB,UCONN
 maia.cyganowski@uconn.edu,strawberry,cut,cut,cut,VERB,UCONN
 maia.cyganowski@uconn.edu,strawberry,eat,eat,eat,VERB,UCONN
-maia.cyganowski@uconn.edu,strawberry,eat,eat,eat,VERB,UCONN
-taylor.e.sullivan@uconn.edu,strawberry,eat,eat,eat,VERB,UCONN
 taylor.e.sullivan@uconn.edu,strawberry,eat,eat,eat,VERB,UCONN
 taylor.e.sullivan@uconn.edu,strawberry,pick,pick,pick,VERB,UCONN
-taylor.e.sullivan@uconn.edu,strawberry,pick,pick,pick,VERB,UCONN
-maia.cyganowski@uconn.edu,strawberry,pick,pick,pick,VERB,UCONN
 maia.cyganowski@uconn.edu,strawberry,pick,pick,pick,VERB,UCONN
 taylor.e.sullivan@uconn.edu,strawberry,smash,smash,smash,VERB,UCONN
 maia.cyganowski@uconn.edu,strawberry,throw out,throw,throw,VERB,UCONN
@@ -7865,21 +7714,15 @@ dakota.davis@uconn.edu,street,biking,biking,bike,VERB,UCONN
 alyca.elcuri@uconn.edu,street,cycling ,cycling,cycle,VERB,UCONN
 dakota.davis@uconn.edu,street,directions,directions,direction,NOUN,UCONN
 alyca.elcuri@uconn.edu,street,driving,driving,drive,VERB,UCONN
-alyca.elcuri@uconn.edu,street,driving,driving,drive,VERB,UCONN
-dakota.davis@uconn.edu,street,driving,driving,drive,VERB,UCONN
 dakota.davis@uconn.edu,street,driving,driving,drive,VERB,UCONN
 alyca.elcuri@uconn.edu,street,running,running,run,VERB,UCONN
-alyca.elcuri@uconn.edu,street,singing,singing,singe,VERB,UCONN
-alyca.elcuri@uconn.edu,street,speeding,speeding,speed,NOUN,UCONN
+alyca.elcuri@uconn.edu,street,singing,singing,sing,VERB,UCONN
+alyca.elcuri@uconn.edu,street,speeding,speeding,speed,VERB,UCONN
 dakota.davis@uconn.edu,street,travelling,traveling,travel,VERB,UCONN
 alyca.elcuri@uconn.edu,street,walking,walking,walk,VERB,UCONN
-alyca.elcuri@uconn.edu,street,walking,walking,walk,VERB,UCONN
-dakota.davis@uconn.edu,street,walking,walking,walk,VERB,UCONN
 dakota.davis@uconn.edu,street,walking,walking,walk,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,streets,bike,bike,bike,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,streets,cross,cross,cross,VERB,UCONN
-eduardo.perea_hernandez@uconn.edu,streets,cross,cross,cross,VERB,UCONN
-rachel.silverman@uconn.edu,streets,cross,cross,cross,VERB,UCONN
 rachel.silverman@uconn.edu,streets,cross,cross,cross,VERB,UCONN
 rachel.silverman@uconn.edu,streets,destinations,destinations,destination,NOUN,UCONN
 rachel.silverman@uconn.edu,streets,playing,playing,play,VERB,UCONN
@@ -7887,11 +7730,9 @@ eduardo.perea_hernandez@uconn.edu,streets,race cars,cars,cars,NOUN,UCONN
 eduardo.perea_hernandez@uconn.edu,streets,race cars,race,race,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,streets,race,race,race,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,streets,walk,walk,walk,VERB,UCONN
-eduardo.perea_hernandez@uconn.edu,streets,walk,walk,walk,VERB,UCONN
 rachel.silverman@uconn.edu,streets,walk,walk,walk,VERB,UCONN
-rachel.silverman@uconn.edu,streets,walk,walk,walk,VERB,UCONN
-meghan.henningsen@uconn.edu,strings,craft,craft,craft,NOUN,UCONN
-meghan.henningsen@uconn.edu,strings,make,make,make,VERB,UCONN
+meghan.henningsen@uconn.edu,strings,craft,craft,craft,VERB,UCONN
+meghan.henningsen@uconn.edu,strings,make,make,make,AUX,UCONN
 erin.munch@uconn.edu,strings,tie things,things,thing,NOUN,UCONN
 erin.munch@uconn.edu,strings,tie things,tie,tie,VERB,UCONN
 olivia.sztemberg@uconn.edu,stroller,carry,carry,carry,VERB,UCONN
@@ -7915,7 +7756,7 @@ courtney.musante@uconn.edu,submarine,examining,examining,examine,VERB,UCONN
 courtney.musante@uconn.edu,submarine,exploring ,exploring,explore,VERB,UCONN
 morgan.klepack@uconn.edu,submarine,exploring,exploring,explore,VERB,UCONN
 courtney.musante@uconn.edu,submarine,finding,finding,find,VERB,UCONN
-morgan.klepack@uconn.edu,submarine,going under,going,go,VERB,UCONN
+morgan.klepack@uconn.edu,submarine,going under,going,go,AUX,UCONN
 morgan.klepack@uconn.edu,submarine,having fun,fun,fun,NOUN,UCONN
 courtney.musante@uconn.edu,submarine,learning,learning,learn,VERB,UCONN
 courtney.musante@uconn.edu,submarine,sightseeing,sightseeing,sightsee,VERB,UCONN
@@ -7932,22 +7773,18 @@ valeria.ramirez@uconn.edu,sugarcane,eat,eat,eat,VERB,UCONN
 Joseph.Verrillo@uconn.edu,sugarcane,sweeten ,sweeten,sweeten,VERB,UCONN
 gianna.perricone@uconn.edu,sundae,create,create,create,VERB,UCONN
 owen.donegan@uconn.edu,sundae,eat,eat,eat,VERB,UCONN
-owen.donegan@uconn.edu,sundae,eat,eat,eat,VERB,UCONN
-gianna.perricone@uconn.edu,sundae,eat,eat,eat,VERB,UCONN
 gianna.perricone@uconn.edu,sundae,eat,eat,eat,VERB,UCONN
 owen.donegan@uconn.edu,sundae,enjoy,enjoy,enjoy,VERB,UCONN
 owen.donegan@uconn.edu,sundae,lick ,lick,lick,VERB,UCONN
-gianna.perricone@uconn.edu,sundae,make,make,make,VERB,UCONN
+gianna.perricone@uconn.edu,sundae,make,make,make,AUX,UCONN
 gianna.perricone@uconn.edu,sundae,taste,taste,taste,VERB,UCONN
 kate.santos@uconn.edu,sunglasses,comfort,comfort,comfort,NOUN,UCONN
 myla.altadonna@uconn.edu,sunglasses,costume,costume,costume,NOUN,UCONN
-myla.altadonna@uconn.edu,sunglasses,costume,costume,costume,NOUN,UCONN
-kate.santos@uconn.edu,sunglasses,costume,costume,costume,NOUN,UCONN
 kate.santos@uconn.edu,sunglasses,costume,costume,costume,NOUN,UCONN
 myla.altadonna@uconn.edu,sunglasses,for sun,sun,sun,NOUN,UCONN
 kate.santos@uconn.edu,sunglasses,keeping hair back,back,back,ADV,UCONN
 kate.santos@uconn.edu,sunglasses,keeping hair back,hair,hair,NOUN,UCONN
-kate.santos@uconn.edu,sunglasses,keeping hair back,keeping,keep,VERB,UCONN
+kate.santos@uconn.edu,sunglasses,keeping hair back,keeping,keep,AUX,UCONN
 kate.santos@uconn.edu,sunglasses,protecting your eyes,eyes,eyes,NOUN,UCONN
 kate.santos@uconn.edu,sunglasses,protecting your eyes,protecting,protect,VERB,UCONN
 kate.santos@uconn.edu,sunglasses,style,style,style,NOUN,UCONN
@@ -7982,7 +7819,7 @@ jaela.black@uconn.edu,supervisor,someone who watches over an activity,someone,so
 jaela.black@uconn.edu,supervisor,someone who watches over an activity,watches,watch,VERB,UCONN
 emily.eggler@uconn.edu,supper,eating,eating,eat,VERB,UCONN
 dylan.pontonio@uconn.edu,supper,feed,feed,feed,VERB,UCONN
-emily.eggler@uconn.edu,supper,making,making,make,VERB,UCONN
+emily.eggler@uconn.edu,supper,making,making,make,AUX,UCONN
 amanda.wainwright@uconn.edu,suppository,ingest,ingest,ingest,VERB,UCONN
 amanda.wainwright@uconn.edu,suppository,take,take,take,VERB,UCONN
 arianna.dimeo@uconn.edu,suppository,use,use,use,VERB,UCONN
@@ -8005,7 +7842,7 @@ dylan.barkasy@uconn.edu,surgeon,healing people,healing,heal,VERB,UCONN
 dylan.barkasy@uconn.edu,surgeon,healing people,people,people,NOUN,UCONN
 ashley.patiag@uconn.edu,surgeon,help,help,help,VERB,UCONN
 ashley.patiag@uconn.edu,surgeon,operate,operate,operate,VERB,UCONN
-ashley.patiag@uconn.edu,surgeon,surgery,surgery,surgery,NOUN,UCONN
+ashley.patiag@uconn.edu,surgeon,surgery,surgery,surgery,VERB,UCONN
 isabella.morfin@uconn.edu,surveyor,check lot lines,check,check,VERB,UCONN
 isabella.morfin@uconn.edu,surveyor,check lot lines,lines,line,NOUN,UCONN
 isabella.morfin@uconn.edu,surveyor,check lot lines,lot,lot,NOUN,UCONN
@@ -8019,22 +7856,22 @@ pan.chrisovechotis@uconn.edu,surveyor,survey objects,survey,survey,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,surveyor,survey problems,problems,problem,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,surveyor,survey problems,survey,survey,VERB,UCONN
 pan.chrisovechotis@uconn.edu,surveyor,survey situations,situations,situation,NOUN,UCONN
-pan.chrisovechotis@uconn.edu,surveyor,survey situations,survey,survey,NOUN,UCONN
+pan.chrisovechotis@uconn.edu,surveyor,survey situations,survey,survey,VERB,UCONN
 isabella.morfin@uconn.edu,surveyor,work for money,money,money,NOUN,UCONN
 isabella.morfin@uconn.edu,surveyor,work for money,work,work,NOUN,UCONN
 olivia.sztemberg@uconn.edu,Swan,animal,animal,animal,NOUN,UCONN
 jordan.dupree@uconn.edu,Swan,beauty,beauty,beauty,NOUN,UCONN
 jordan.dupree@uconn.edu,Swan,floating,floating,float,VERB,UCONN
 jordan.dupree@uconn.edu,Swan,flying,flying,flie,VERB,UCONN
-jordan.dupree@uconn.edu,Swan,swimming,swimming,swimm,VERB,UCONN
+jordan.dupree@uconn.edu,Swan,swimming,swimming,swim,VERB,UCONN
 olivia.sztemberg@uconn.edu,Swan,wedding,wedding,wedding,NOUN,UCONN
 rebecca.miller@uconn.edu,sweatband,give,give,give,VERB,UCONN
 rebecca.miller@uconn.edu,sweatband,receive,receive,receive,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,sweatband,use as fashion,fashion,fashion,NOUN,UCONN
-kelly_rae.lonergan@uconn.edu,sweatband,use as fashion,use,use,VERB,UCONN
+kelly_rae.lonergan@uconn.edu,sweatband,use as fashion,use,use,AUX,UCONN
 kelly_rae.lonergan@uconn.edu,sweatband,use during exercise,exercise,exercise,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,sweatband,use during exercise,use,use,VERB,UCONN
-rebecca.miller@uconn.edu,sweatband,use,use,use,VERB,UCONN
+rebecca.miller@uconn.edu,sweatband,use,use,use,AUX,UCONN
 rebecca.miller@uconn.edu,sweatband,wear,wear,wear,VERB,UCONN
 alexis.martino@uconn.edu,sweatshirt,fashion,fashion,fashion,NOUN,UCONN
 alexis.martino@uconn.edu,sweatshirt,keep warm,keep,keep,VERB,UCONN
@@ -8050,7 +7887,7 @@ alexis.martino@uconn.edu,swing,back and forth,back,back,ADV,UCONN
 alexis.martino@uconn.edu,swing,back and forth,forth,forth,ADV,UCONN
 alexis.martino@uconn.edu,swing,play,play,play,VERB,UCONN
 morgan.klepack@uconn.edu,syringe,doctor,doctor,doctor,NOUN,UCONN
-courtney.musante@uconn.edu,syringe,draw,draw,dree,VERB,UCONN
+courtney.musante@uconn.edu,syringe,draw,draw,draw,VERB,UCONN
 morgan.klepack@uconn.edu,syringe,drugs,drugs,drug,NOUN,UCONN
 courtney.musante@uconn.edu,syringe,pick up,pick,pick,VERB,UCONN
 courtney.musante@uconn.edu,syringe,pour out,pour,pour,VERB,UCONN
@@ -8068,11 +7905,8 @@ giselle.rodriguez@uconn.edu,table,work,work,work,VERB,UCONN
 cassandra.correa@uconn.edu,tablecloth,clean,clean,clean,VERB,UCONN
 cassandra.correa@uconn.edu,tablecloth,dirty,dirty,dirty,ADJ,UCONN
 nicolas.mastropaolo@uconn.edu,tablecloth,fold,fold,fold,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,tablecloth,fold,fold,fold,VERB,UCONN
 cassandra.correa@uconn.edu,tablecloth,fold,fold,fold,VERB,UCONN
-cassandra.correa@uconn.edu,tablecloth,fold,fold,fold,VERB,UCONN
-cassandra.correa@uconn.edu,tablecloth,put away,away,away,ADV,UCONN
-cassandra.correa@uconn.edu,tablecloth,put away,put,put,VERB,UCONN
+cassandra.correa@uconn.edu,tablecloth,put away,put,put up,VERB,UCONN
 cassandra.correa@uconn.edu,tablecloth,set up on table,set,set,VERB,UCONN
 cassandra.correa@uconn.edu,tablecloth,set up on table,table,table,NOUN,UCONN
 nicolas.mastropaolo@uconn.edu,tablecloth,set,set,set,VERB,UCONN
@@ -8092,25 +7926,19 @@ isabelle.jadach@uconn.edu,tablet,watch,watch,watch,VERB,UCONN
 zachary.susser@uconn.edu,tablet,work,work,work,VERB,UCONN
 alyca.elcuri@uconn.edu,tableware,drinking,drinking,drink,VERB,UCONN
 dakota.davis@uconn.edu,tableware,eating,eating,eat,VERB,UCONN
-dakota.davis@uconn.edu,tableware,eating,eating,eat,VERB,UCONN
-alyca.elcuri@uconn.edu,tableware,eating,eating,eat,VERB,UCONN
 alyca.elcuri@uconn.edu,tableware,eating,eating,eat,VERB,UCONN
 dakota.davis@uconn.edu,tableware,setting,setting,set,VERB,UCONN
 anna.pasterick@uconn.edu,tabloid,attention,attention,attention,NOUN,UCONN
 jaela.black@uconn.edu,tabloid,used to store medication in,store,store,VERB,UCONN
-jaela.black@uconn.edu,tabloid,used to store medication in,used,use,VERB,UCONN
+jaela.black@uconn.edu,tabloid,used to store medication in,used,use,AUX,UCONN
 rachel.silverman@uconn.edu,Taco,create,create,create,VERB,UCONN
 rachel.silverman@uconn.edu,Taco,eat,eat,eat,VERB,UCONN
-rachel.silverman@uconn.edu,Taco,eat,eat,eat,VERB,UCONN
-eduardo.perea_hernandez@uconn.edu,Taco,eat,eat,eat,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,Taco,eat,eat,eat,VERB,UCONN
 eduardo.perea_hernandez@uconn.edu,Taco,roll up,roll,roll,VERB,UCONN
 jordan.dupree@uconn.edu,tag,game,game,game,NOUN,UCONN
-jordan.dupree@uconn.edu,tag,game,game,game,NOUN,UCONN
-olivia.sztemberg@uconn.edu,tag,game,game,game,NOUN,UCONN
 olivia.sztemberg@uconn.edu,tag,game,game,game,NOUN,UCONN
 olivia.sztemberg@uconn.edu,tag,gaming,gaming,game,NOUN,UCONN
-olivia.sztemberg@uconn.edu,tag,place holder,place,place,NOUN,UCONN
+olivia.sztemberg@uconn.edu,tag,place holder,place,hold,VERB,UCONN
 meghan.henningsen@uconn.edu,taillight,bright,bright,bright,ADJ,UCONN
 meghan.henningsen@uconn.edu,taillight,car,car,car,NOUN,UCONN
 erin.munch@uconn.edu,taillight,signal,signal,signal,NOUN,UCONN
@@ -8121,10 +7949,8 @@ anna.pasterick@uconn.edu,tailor,clothing,clothing,clothing,NOUN,UCONN
 anna.pasterick@uconn.edu,tampon,blood,blood,blood,NOUN,UCONN
 anna.pasterick@uconn.edu,tampon,period,period,period,NOUN,UCONN
 jaela.black@uconn.edu,tampon,used for periods,periods,period,NOUN,UCONN
-jaela.black@uconn.edu,tampon,used for periods,used,use,VERB,UCONN
+jaela.black@uconn.edu,tampon,used for periods,used,use,AUX,UCONN
 cassandra.correa@uconn.edu,tangerine,eat,eat,eat,VERB,UCONN
-cassandra.correa@uconn.edu,tangerine,eat,eat,eat,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,tangerine,eat,eat,eat,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,tangerine,eat,eat,eat,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,tangerine,kick,kick,kick,VERB,UCONN
 cassandra.correa@uconn.edu,tangerine,make juice,juice,juice,NOUN,UCONN
@@ -8148,10 +7974,8 @@ kelly.s.aguilar@uconn.edu,tar,protecting,protecting,protect,VERB,UCONN
 dakota.davis@uconn.edu,tartar,condiment,condiment,condiment,NOUN,UCONN
 alyca.elcuri@uconn.edu,tartar,cooking,cooking,cook,VERB,UCONN
 dakota.davis@uconn.edu,tartar,offering,offering,offer,VERB,UCONN
-dakota.davis@uconn.edu,tartar,using,using,use,VERB,UCONN
+dakota.davis@uconn.edu,tartar,using,using,use,AUX,UCONN
 valeria.ramirez@uconn.edu,tavern,drink,drink,drink,VERB,UCONN
-valeria.ramirez@uconn.edu,tavern,drink,drink,drink,VERB,UCONN
-Joseph.Verrillo@uconn.edu,tavern,drink,drink,drink,VERB,UCONN
 Joseph.Verrillo@uconn.edu,tavern,drink,drink,drink,VERB,UCONN
 Joseph.Verrillo@uconn.edu,tavern,eat,eat,eat,VERB,UCONN
 alyssa.wodarski@uconn.edu,taxpayer,call,call,call,VERB,UCONN
@@ -8169,8 +7993,6 @@ cassandra.correa@uconn.edu,teacher,ask questions,questions,question,VERB,UCONN
 cassandra.correa@uconn.edu,teacher,be angry at,angry,angry,ADJ,UCONN
 nicolas.mastropaolo@uconn.edu,teacher,learn from,learn,learn,VERB,UCONN
 cassandra.correa@uconn.edu,teacher,talk to,talk,talk,VERB,UCONN
-cassandra.correa@uconn.edu,teacher,talk to,talk,talk,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,teacher,talk to,talk,talk,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,teacher,talk to,talk,talk,VERB,UCONN
 cassandra.correa@uconn.edu,teacher,walk with,walk,walk,VERB,UCONN
 myla.altadonna@uconn.edu,teacup,break,break,break,NOUN,UCONN
@@ -8200,9 +8022,9 @@ olivia.wright@uconn.edu,teakettle,drink,drink,drink,VERB,UCONN
 matthew.kraus@uconn.edu,teakettle,heat water,heat,heat,NOUN,UCONN
 matthew.kraus@uconn.edu,teakettle,heat water,water,water,NOUN,UCONN
 olivia.wright@uconn.edu,teakettle,heat,heat,heat,VERB,UCONN
-matthew.kraus@uconn.edu,teakettle,make tea,make,make,VERB,UCONN
-matthew.kraus@uconn.edu,teakettle,make tea,tea,tea,NOUN,UCONN
-olivia.wright@uconn.edu,teakettle,tea,tea,tea,NOUN,UCONN
+matthew.kraus@uconn.edu,teakettle,make tea,make,make,AUX,UCONN
+matthew.kraus@uconn.edu,teakettle,make tea,tea,tea,VERB,UCONN
+olivia.wright@uconn.edu,teakettle,tea,tea,tea,VERB,UCONN
 matthew.kraus@uconn.edu,teakettle,throw,throw,throw,VERB,UCONN
 matthew.kraus@uconn.edu,teakettle,to help with sickness,help,help,VERB,UCONN
 matthew.kraus@uconn.edu,teakettle,to help with sickness,sickness,sickness,NOUN,UCONN
@@ -8272,7 +8094,7 @@ giselle.rodriguez@uconn.edu,therapist,mental,mental,mental,ADJ,UCONN
 giselle.rodriguez@uconn.edu,therapist,physical,physical,physical,ADJ,UCONN
 terence.falvey@uconn.edu,therapist,talk to,talk,talk,VERB,UCONN
 terence.falvey@uconn.edu,therapist,thank,thank,thank,VERB,UCONN
-terence.falvey@uconn.edu,therapist,use,use,use,VERB,UCONN
+terence.falvey@uconn.edu,therapist,use,use,use,AUX,UCONN
 courtney.musante@uconn.edu,thermos,cook,cook,cake,VERB,UCONN
 courtney.musante@uconn.edu,thermos,cool,cool,cool,VERB,UCONN
 courtney.musante@uconn.edu,thermos,drink,drink,drink,VERB,UCONN
@@ -8296,10 +8118,10 @@ paige.gewirtz@uconn.edu,thesaurus,a door stopped,stopped,stop,VERB,UCONN
 paige.gewirtz@uconn.edu,thesaurus,could be used as a hard surface to lean on,hard,hard,ADJ,UCONN
 paige.gewirtz@uconn.edu,thesaurus,could be used as a hard surface to lean on,lean,lean,ADJ,UCONN
 paige.gewirtz@uconn.edu,thesaurus,could be used as a hard surface to lean on,surface,surface,NOUN,UCONN
-paige.gewirtz@uconn.edu,thesaurus,could be used as a hard surface to lean on,used,use,VERB,UCONN
+paige.gewirtz@uconn.edu,thesaurus,could be used as a hard surface to lean on,used,use,AUX,UCONN
 paige.gewirtz@uconn.edu,thesaurus,used to find new words,find,find,VERB,UCONN
 paige.gewirtz@uconn.edu,thesaurus,used to find new words,new,new,ADJ,UCONN
-paige.gewirtz@uconn.edu,thesaurus,used to find new words,used,use,VERB,UCONN
+paige.gewirtz@uconn.edu,thesaurus,used to find new words,used,use,AUX,UCONN
 paige.gewirtz@uconn.edu,thesaurus,used to find new words,words,word,NOUN,UCONN
 joanna.emin@uconn.edu,thimble,control,control,control,NOUN,UCONN
 joanna.emin@uconn.edu,thimble,speed,speed,speed,NOUN,UCONN
@@ -8310,8 +8132,6 @@ emily.b.sullivan@uconn.edu,thong,underwear,underwear,underwear,NOUN,UCONN
 amanda.wainwright@uconn.edu,thorn,bleed,bleed,bleed,VERB,UCONN
 amanda.wainwright@uconn.edu,thorn,hurt,hurt,hurt,VERB,UCONN
 amanda.wainwright@uconn.edu,thorn,prick,prick,prick,VERB,UCONN
-amanda.wainwright@uconn.edu,thorn,prick,prick,prick,VERB,UCONN
-arianna.dimeo@uconn.edu,thorn,prick,prick,prick,VERB,UCONN
 arianna.dimeo@uconn.edu,thorn,prick,prick,prick,VERB,UCONN
 arianna.dimeo@uconn.edu,thorn,pull,pull,pull,VERB,UCONN
 enzo.klaus@uconn.edu,throne,conquering,conquering,conquer,VERB,UCONN
@@ -8325,8 +8145,7 @@ cassandra.correa@uconn.edu,thumbtack,prick yourself,prick,prick,VERB,UCONN
 cassandra.correa@uconn.edu,thumbtack,put things on wall,put,put,VERB,UCONN
 cassandra.correa@uconn.edu,thumbtack,put things on wall,things,thing,NOUN,UCONN
 cassandra.correa@uconn.edu,thumbtack,put things on wall,wall,wall,NOUN,UCONN
-cassandra.correa@uconn.edu,thumbtack,throw away,away,away,ADV,UCONN
-cassandra.correa@uconn.edu,thumbtack,throw away,throw,throw,VERB,UCONN
+cassandra.correa@uconn.edu,thumbtack,throw away,throw,throw away,VERB,UCONN
 cassandra.correa@uconn.edu,thumbtack,throw,throw,throw,VERB,UCONN
 kelly.s.aguilar@uconn.edu,thyme,cooking,cooking,cook,VERB,UCONN
 kelly.s.aguilar@uconn.edu,thyme,food,food,food,NOUN,UCONN
@@ -8336,7 +8155,7 @@ jaela.black@uconn.edu,tickler,someone who tickles other peple,people,people,NOUN
 jaela.black@uconn.edu,tickler,someone who tickles other peple,someone,someone,PRON,UCONN
 jaela.black@uconn.edu,tickler,someone who tickles other peple,tickles,tickle,VERB,UCONN
 ashley.patiag@uconn.edu,tile,clean,clean,clean,VERB,UCONN
-dylan.barkasy@uconn.edu,tile,flooring,flooring,flooring,NOUN,UCONN
+dylan.barkasy@uconn.edu,tile,flooring,flooring,flooring,VERB,UCONN
 ashley.patiag@uconn.edu,tile,replace,replace,replace,VERB,UCONN
 ashley.patiag@uconn.edu,tile,stand,stand,stand,VERB,UCONN
 anna.lu@uconn.edu,timber,make paper,make,make,VERB,UCONN
@@ -8344,10 +8163,10 @@ anna.lu@uconn.edu,timber,make paper,paper,paper,VERB,UCONN
 delaney.harrington@uconn.edu,timber,say when a tree is falling,falling,fall,VERB,UCONN
 delaney.harrington@uconn.edu,timber,say when a tree is falling,say,say,VERB,UCONN
 delaney.harrington@uconn.edu,timber,say when a tree is falling,tree,tree,NOUN,UCONN
-delaney.harrington@uconn.edu,timber,sing the song,sing,se,VERB,UCONN
+delaney.harrington@uconn.edu,timber,sing the song,sing,sing,VERB,UCONN
 delaney.harrington@uconn.edu,timber,sing the song,song,song,NOUN,UCONN
 anna.lu@uconn.edu,timber,use for the environment,environment,environment,NOUN,UCONN
-anna.lu@uconn.edu,timber,use for the environment,use,use,VERB,UCONN
+anna.lu@uconn.edu,timber,use for the environment,use,use,AUX,UCONN
 anna.lu@uconn.edu,timber,used to pin someone against,pin,pin,NOUN,UCONN
 anna.lu@uconn.edu,timber,used to pin someone against,someone,someone,PRON,UCONN
 anna.lu@uconn.edu,timber,used to pin someone against,used,use,VERB,UCONN
@@ -8357,8 +8176,8 @@ alysia.ma@uconn.edu,timepiece,looked at,looked,look,VERB,UCONN
 alysia.ma@uconn.edu,timepiece,saw,saw,see,VERB,UCONN
 rebecca.miller@uconn.edu,tinderbox,fires,fires,fire,VERB,UCONN
 madison.kretschman@uconn.edu,tinsel,decorate,decorate,decorate,VERB,UCONN
-madison.kretschman@uconn.edu,tinsel,make,make,make,VERB,UCONN
-madison.kretschman@uconn.edu,tinsel,use,use,use,VERB,UCONN
+madison.kretschman@uconn.edu,tinsel,make,make,make,AUX,UCONN
+madison.kretschman@uconn.edu,tinsel,use,use,use,AUX,UCONN
 yining.luo@uconn.edu,tinsel,wrap the meat for roast,meat,meat,NOUN,UCONN
 yining.luo@uconn.edu,tinsel,wrap the meat for roast,roast,roast,VERB,UCONN
 yining.luo@uconn.edu,tinsel,wrap the meat for roast,wrap,wrap,VERB,UCONN
@@ -8383,9 +8202,9 @@ alexis.martino@uconn.edu,tissue,blow nose,blow,blow,VERB,UCONN
 alexis.martino@uconn.edu,tissue,blow nose,nose,nose,NOUN,UCONN
 alexis.martino@uconn.edu,tissue,clean,clean,clean,VERB,UCONN
 kelly.s.aguilar@uconn.edu,toast,eating,eating,eat,VERB,UCONN
-kelly.s.aguilar@uconn.edu,toast,making ,making,make,NOUN,UCONN
+kelly.s.aguilar@uconn.edu,toast,making ,making,make,AUX,UCONN
 jordan.dupree@uconn.edu,toaster,burning,burning,burn,VERB,UCONN
-olivia.sztemberg@uconn.edu,toaster,cook,cook,cake,VERB,UCONN
+olivia.sztemberg@uconn.edu,toaster,cook,cook,cook,VERB,UCONN
 jordan.dupree@uconn.edu,toaster,cooking,cooking,cook,VERB,UCONN
 olivia.sztemberg@uconn.edu,toaster,heat,heat,heat,VERB,UCONN
 jordan.dupree@uconn.edu,toaster,making toast and bagels,bagels,bagel,NOUN,UCONN
@@ -8420,8 +8239,6 @@ erin.munch@uconn.edu,tool,building things,things,thing,NOUN,UCONN
 meghan.henningsen@uconn.edu,tool,pull,pull,pull,VERB,UCONN
 meghan.henningsen@uconn.edu,tool,twist,twist,twist,VERB,UCONN
 emily.eggler@uconn.edu,toothbrush,brush,brush,brush,VERB,UCONN
-emily.eggler@uconn.edu,toothbrush,brush,brush,brush,VERB,UCONN
-dylan.pontonio@uconn.edu,toothbrush,brush,brush,brush,VERB,UCONN
 dylan.pontonio@uconn.edu,toothbrush,brush,brush,brush,VERB,UCONN
 dylan.pontonio@uconn.edu,toothbrush,clean,clean,clean,VERB,UCONN
 dylan.pontonio@uconn.edu,toothbrush,rinse,rinse,rinse,VERB,UCONN
@@ -8454,8 +8271,8 @@ kelly_rae.lonergan@uconn.edu,tourniquet,to stop bleeding,bleeding,bleed,NOUN,UCO
 kelly_rae.lonergan@uconn.edu,tourniquet,to stop bleeding,stop,stop,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,tourniquet,to take blood from somebody,blood,blood,NOUN,UCONN
 kelly_rae.lonergan@uconn.edu,tourniquet,to take blood from somebody,somebody,somebody,PRON,UCONN
-kelly_rae.lonergan@uconn.edu,tourniquet,to take blood from somebody,take,take,VERB,UCONN
-rebecca.miller@uconn.edu,tourniquet,use,use,use,VERB,UCONN
+kelly_rae.lonergan@uconn.edu,tourniquet,to take blood from somebody,take,take,AUX,UCONN
+rebecca.miller@uconn.edu,tourniquet,use,use,use,AUX,UCONN
 jessica.vo@uconn.edu,towel,clean,clean,clean,VERB,UCONN
 jessica.vo@uconn.edu,towel,dry,dry,dry,VERB,UCONN
 jessica.vo@uconn.edu,towel,lay down,lay,lay,VERB,UCONN
@@ -8508,30 +8325,28 @@ isabella.morfin@uconn.edu,tranquilizer,calm someone down,calm,calm,VERB,UCONN
 isabella.morfin@uconn.edu,tranquilizer,calm someone down,someone,someone,PRON,UCONN
 Isabella.carnelli@uconn.edu,tranquilizer,drug,drug,drug,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,tranquilizer,knock unconscious,unconscious,unconscious,ADJ,UCONN
-Isabella.carnelli@uconn.edu,tranquilizer,not move,move,move,VERB,UCONN
-isabella.morfin@uconn.edu,tranquilizer,put something to sleep,put,put,VERB,UCONN
+isabella.morfin@uconn.edu,tranquilizer,put something to sleep,put,put,AUX,UCONN
 isabella.morfin@uconn.edu,tranquilizer,put something to sleep,sleep,sleep,VERB,UCONN
 isabella.morfin@uconn.edu,tranquilizer,put something to sleep,something,something,PRON,UCONN
 pan.chrisovechotis@uconn.edu,tranquilizer,sedate,sedate,sedate,VERB,UCONN
 aryanna.carter@uconn.edu,trash,art,art,art,NOUN,UCONN
-aryanna.carter@uconn.edu,trash,recycling,recycling,recycl,VERB,UCONN
-hunter.tang@uconn.edu,trash,take out,take,take,VERB,UCONN
-hunter.tang@uconn.edu,trash,throw away,away,away,ADV,UCONN
-hunter.tang@uconn.edu,trash,throw away,throw,throw,VERB,UCONN
+aryanna.carter@uconn.edu,trash,recycling,recycling,recycle,VERB,UCONN
+hunter.tang@uconn.edu,trash,take out,take,take out,VERB,UCONN
+hunter.tang@uconn.edu,trash,throw away,throw,throw away,VERB,UCONN
 giselle.rodriguez@uconn.edu,trashcan,recycle,recycle,recycle,VERB,UCONN
 giselle.rodriguez@uconn.edu,trashcan,trash,trash,trash,VERB,UCONN
-terence.falvey@uconn.edu,trashcan,use,use,use,VERB,UCONN
+terence.falvey@uconn.edu,trashcan,use,use,use,AUX,UCONN
 alexis.drossos@uconn.edu,treat,a reward,reward,reward,VERB,UCONN
 alexis.drossos@uconn.edu,treat,for animals,animals,animal,NOUN,UCONN
 zarya.hernandez_salto@uconn.edu,treat,salty,salty,salty,ADJ,UCONN
 zarya.hernandez_salto@uconn.edu,treat,sweet,sweet,sweet,ADJ,UCONN
-zarya.hernandez_salto@uconn.edu,treat,to fill you up,fill,fill,NOUN,UCONN
+zarya.hernandez_salto@uconn.edu,treat,to fill you up,fill,fill,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,treat,to make ,make,make,VERB,UCONN
 alexis.drossos@uconn.edu,treat,to make kids happy,happy,happy,ADJ,UCONN
 alexis.drossos@uconn.edu,treat,to make kids happy,kids,kid,NOUN,UCONN
 alexis.drossos@uconn.edu,treat,to make kids happy,make,make,VERB,UCONN
 cassandra.correa@uconn.edu,trench,cry,cry,cry,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,trench,go in,go,go,VERB,UCONN
+nicolas.mastropaolo@uconn.edu,trench,go in,go,go,AUX,UCONN
 cassandra.correa@uconn.edu,trench,lay down,lay,lay,VERB,UCONN
 cassandra.correa@uconn.edu,trench,sit in,sit,sit,VERB,UCONN
 cassandra.correa@uconn.edu,trench,talk to soliders ,soldiers,soldier,NOUN,UCONN
@@ -8558,32 +8373,31 @@ gabriel.paknia@uconn.edu,trophy,wall,wall,wall,NOUN,UCONN
 gabriel.paknia@uconn.edu,trophy,wife,wife,wife,NOUN,UCONN
 maia.cyganowski@uconn.edu,trout,catch,catch,catch,VERB,UCONN
 maia.cyganowski@uconn.edu,trout,eat,eat,eat,VERB,UCONN
-maia.cyganowski@uconn.edu,trout,keep,keep,keep,VERB,UCONN
+maia.cyganowski@uconn.edu,trout,keep,keep,keep,AUX,UCONN
 val.chia@uconn.edu,truck,carry stuff,carry,carry,VERB,UCONN
 val.chia@uconn.edu,truck,carry stuff,stuff,stuff,NOUN,UCONN
 val.chia@uconn.edu,truck,driven,driven,drive,VERB,UCONN
 val.chia@uconn.edu,truck,played with (toy),played,play,VERB,UCONN
 val.chia@uconn.edu,truck,played with (toy),toy,toy,NOUN,UCONN
-delaney.harrington@uconn.edu,tubing,entertainment,entertainment,entertainment,VERB,UCONN
+delaney.harrington@uconn.edu,tubing,entertainment,entertainment,entertain,VERB,UCONN
 anna.lu@uconn.edu,tubing,fun purposes,fun,fun,NOUN,UCONN
 anna.lu@uconn.edu,tubing,fun purposes,purposes,purpose,NOUN,UCONN
-anna.lu@uconn.edu,tubing,go tubing,go,go,VERB,UCONN
+anna.lu@uconn.edu,tubing,go tubing,go,go,AUX,UCONN
 anna.lu@uconn.edu,tubing,go tubing,tubing,tube,VERB,UCONN
 delaney.harrington@uconn.edu,tubing,have fun,fun,fun,NOUN,UCONN
 delaney.harrington@uconn.edu,tubing,recreation,recreation,recreation,VERB,UCONN
 anna.pasterick@uconn.edu,tulip,flower,flower,flower,NOUN,UCONN
-jaela.black@uconn.edu,tulip,used for decoration,used,use,VERB,UCONN
+jaela.black@uconn.edu,tulip,used for decoration,used,use,AUX,UCONN
 alyssa.wodarski@uconn.edu,tumbler,drink out of,drink,drink,VERB,UCONN
 alyssa.wodarski@uconn.edu,tumbler,dump,dump,dump,VERB,UCONN
 alyssa.wodarski@uconn.edu,tumbler,fill,fill,fill,VERB,UCONN
 rebecca.miller@uconn.edu,tuna,catch,catch,catch,VERB,UCONN
-rebecca.miller@uconn.edu,tuna,cook,cook,cake,VERB,UCONN
+rebecca.miller@uconn.edu,tuna,cook,cook,cook,VERB,UCONN
 rebecca.miller@uconn.edu,tuna,eat,eat,eat,VERB,UCONN
 rebecca.miller@uconn.edu,tuna,make,make,make,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,tuna,to catch,catch,catch,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,tuna,to eat in a dish,dish,dish,NOUN,UCONN
 kelly_rae.lonergan@uconn.edu,tuna,to eat in a dish,eat,eat,VERB,UCONN
-kelly_rae.lonergan@uconn.edu,tuna,to eat on its own,eat,eat,VERB,UCONN
 sophia.sanchez@uconn.edu,tunic,clothing,clothing,clothing,NOUN,UCONN
 juliana.febrizio@uconn.edu,tunic,wearing,wearing,wear,VERB,UCONN
 alysia.ma@uconn.edu,turf,felt,felt,feel,VERB,UCONN
@@ -8591,13 +8405,13 @@ alysia.ma@uconn.edu,turf,looked,looked,look,VERB,UCONN
 giuseppe.cesare@uconn.edu,turf,play,play,play,VERB,UCONN
 alysia.ma@uconn.edu,turf,saw,saw,see,VERB,UCONN
 alysia.ma@uconn.edu,turf,stepped onto,onto,onto,ADP,UCONN
-alysia.ma@uconn.edu,turf,stepped onto,stepped,step,VERB,UCONN
+alysia.ma@uconn.edu,turf,stepped onto,stepped,step on,VERB,UCONN
 alysia.ma@uconn.edu,turf,touched,touched,touch,VERB,UCONN
 giuseppe.cesare@uconn.edu,turf,walk,walk,walk,VERB,UCONN
-Joseph.Verrillo@uconn.edu,turkey,cook,cook,cake,VERB,UCONN
+Joseph.Verrillo@uconn.edu,turkey,cook,cook,cook,VERB,UCONN
 Joseph.Verrillo@uconn.edu,turkey,eat,eat,eat,VERB,UCONN
 valeria.ramirez@uconn.edu,turkey,roast,roast,roast,VERB,UCONN
-kate.santos@uconn.edu,turtle,admiring in a documentary,admiring,admir,VERB,UCONN
+kate.santos@uconn.edu,turtle,admiring in a documentary,admiring,admire,VERB,UCONN
 kate.santos@uconn.edu,turtle,admiring in a documentary,documentary,documentary,INTJ,UCONN
 kate.santos@uconn.edu,turtle,contribute to the ecosystem,contribute,contribute,VERB,UCONN
 kate.santos@uconn.edu,turtle,contribute to the ecosystem,ecosystem,ecosystem,NOUN,UCONN
@@ -8625,7 +8439,7 @@ alexis.martino@uconn.edu,typewriter,court,court,court,NOUN,UCONN
 alexis.martino@uconn.edu,typewriter,wedding,wedding,wedding,NOUN,UCONN
 alexis.drossos@uconn.edu,ukulele,beach,beach,beach,NOUN,UCONN
 alexis.drossos@uconn.edu,ukulele,happy,happy,happy,VERB,UCONN
-alexis.drossos@uconn.edu,ukulele,music,music,music,NOUN,UCONN
+alexis.drossos@uconn.edu,ukulele,music,music,music,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,ukulele,play,play,play,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,ukulele,weapon,weapon,weapon,VERB,UCONN
 dylan.pontonio@uconn.edu,umbrella,cover,cover,cover,VERB,UCONN
@@ -8634,7 +8448,7 @@ emily.eggler@uconn.edu,umbrella,shade,shade,shade,VERB,UCONN
 emily.eggler@uconn.edu,umbrella,stop,stop,stop,VERB,UCONN
 dylan.pontonio@uconn.edu,umbrella,support,support,support,VERB,UCONN
 ryan.najemy@uconn.edu,uncle,cool,cool,cool,ADJ,UCONN
-jackson.kellogg@uconn.edu,uncle,go out with,go,go,VERB,UCONN
+jackson.kellogg@uconn.edu,uncle,go out with,go,go,AUX,UCONN
 ryan.najemy@uconn.edu,uncle,relative,relative,relative,ADV,UCONN
 arianna.dimeo@uconn.edu,underbrush,destroy,destroy,destroy,VERB,UCONN
 arianna.dimeo@uconn.edu,underbrush,find,find,find,VERB,UCONN
@@ -8652,23 +8466,19 @@ cassandra.correa@uconn.edu,underclothing,give,give,give,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,underclothing,keep warm,keep,keep,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,underclothing,keep warm,warm,warm,ADJ,UCONN
 cassandra.correa@uconn.edu,underclothing,sell,sell,sell,VERB,UCONN
-cassandra.correa@uconn.edu,underclothing,take off,take,take,VERB,UCONN
+cassandra.correa@uconn.edu,underclothing,take off,take,take off,VERB,UCONN
 cassandra.correa@uconn.edu,underclothing,wash,wash,wash,VERB,UCONN
 jayline.steiding@uconn.edu,undercoat,fashion,fashion,fashion,NOUN,UCONN
-jayline.steiding@uconn.edu,undercoat,keep someone warm,keep,keep,VERB,UCONN
+jayline.steiding@uconn.edu,undercoat,keep someone warm,keep,keep,AUX,UCONN
 jayline.steiding@uconn.edu,undercoat,keep someone warm,someone,someone,PRON,UCONN
 jayline.steiding@uconn.edu,undercoat,keep someone warm,warm,warm,VERB,UCONN
 arianna.dimeo@uconn.edu,underpants,buy,buy,buy,VERB,UCONN
 arianna.dimeo@uconn.edu,underpants,put on,put,put,VERB,UCONN
 arianna.dimeo@uconn.edu,underpants,sell,sell,sell,VERB,UCONN
 amanda.wainwright@uconn.edu,underpants,stain,stain,stain,VERB,UCONN
-arianna.dimeo@uconn.edu,underpants,take off,take,take,VERB,UCONN
-arianna.dimeo@uconn.edu,underpants,take off,take,take,VERB,UCONN
-amanda.wainwright@uconn.edu,underpants,take off,take,take,VERB,UCONN
-amanda.wainwright@uconn.edu,underpants,take off,take,take,VERB,UCONN
+arianna.dimeo@uconn.edu,underpants,take off,take,take off,VERB,UCONN
+amanda.wainwright@uconn.edu,underpants,take off,take,take off,VERB,UCONN
 arianna.dimeo@uconn.edu,underpants,wear,wear,wear,VERB,UCONN
-arianna.dimeo@uconn.edu,underpants,wear,wear,wear,VERB,UCONN
-amanda.wainwright@uconn.edu,underpants,wear,wear,wear,VERB,UCONN
 amanda.wainwright@uconn.edu,underpants,wear,wear,wear,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,uniform,cover you,cover,cover,NOUN,UCONN
 zarya.hernandez_salto@uconn.edu,uniform,dress up,dress,dress,VERB,UCONN
@@ -8679,7 +8489,7 @@ alexis.drossos@uconn.edu,uniform,sports,sports,sport,NOUN,UCONN
 alexis.drossos@uconn.edu,uniform,work,work,work,NOUN,UCONN
 shea.carroll@uconn.edu,urinal,clean,clean,clean,VERB,UCONN
 sophia.montanez@uconn.edu,urinal,pee,pee,pee,VERB,UCONN
-shea.carroll@uconn.edu,urinal,use,use,use,VERB,UCONN
+shea.carroll@uconn.edu,urinal,use,use,use,AUX,UCONN
 valeria.ramirez@uconn.edu,urn,store ashes,ashes,ash,NOUN,UCONN
 valeria.ramirez@uconn.edu,urn,store ashes,store,store,VERB,UCONN
 Joseph.Verrillo@uconn.edu,urn,store,store,store,VERB,UCONN
@@ -8729,15 +8539,15 @@ yining.luo@uconn.edu,velvet,soft,soft,soft,ADJ,UCONN
 madison.kretschman@uconn.edu,velvet,touch,touch,touch,VERB,UCONN
 arianna.dimeo@uconn.edu,ventilator,break,break,break,VERB,UCONN
 amanda.wainwright@uconn.edu,ventilator,breathe break ,break,break,VERB,UCONN
-amanda.wainwright@uconn.edu,ventilator,breathe break ,breathe,breato,VERB,UCONN
+amanda.wainwright@uconn.edu,ventilator,breathe break ,breathe,breathe,VERB,UCONN
 arianna.dimeo@uconn.edu,ventilator,buy,buy,buy,VERB,UCONN
 arianna.dimeo@uconn.edu,ventilator,place,place,place,VERB,UCONN
-arianna.dimeo@uconn.edu,ventilator,put in,put,put,VERB,UCONN
-arianna.dimeo@uconn.edu,ventilator,turn off,turn,turn,VERB,UCONN
-arianna.dimeo@uconn.edu,ventilator,turn on,turn,turn,VERB,UCONN
+arianna.dimeo@uconn.edu,ventilator,put in,put,put,AUX,UCONN
+arianna.dimeo@uconn.edu,ventilator,turn off,turn,turn off,VERB,UCONN
+arianna.dimeo@uconn.edu,ventilator,turn on,turn,turn on,VERB,UCONN
 raven.dest@uconn.edu,veranda,aesthetic architecture,aesthetic,aesthetic,ADJ,UCONN
 raven.dest@uconn.edu,veranda,aesthetic architecture,architecture,architecture,NOUN,UCONN
-raven.dest@uconn.edu,veranda,gazing,gazing,ga,VERB,UCONN
+raven.dest@uconn.edu,veranda,gazing,gazing,gaze,VERB,UCONN
 raven.dest@uconn.edu,veranda,lounging,lounging,lounge,VERB,UCONN
 raven.dest@uconn.edu,veranda,sitting,sitting,sit,VERB,UCONN
 raven.dest@uconn.edu,veranda,socializing,socializing,socialize,VERB,UCONN
@@ -8751,12 +8561,12 @@ alex.zavelson@uconn.edu,veterinarian,to save animals,save,save,VERB,UCONN
 matthew.kraus@uconn.edu,vibrator,before athletic game to stretch,athletic,athletic,ADJ,UCONN
 matthew.kraus@uconn.edu,vibrator,before athletic game to stretch,game,game,NOUN,UCONN
 matthew.kraus@uconn.edu,vibrator,before athletic game to stretch,stretch,stretch,VERB,UCONN
-matthew.kraus@uconn.edu,vibrator,make noise,make,make,VERB,UCONN
+matthew.kraus@uconn.edu,vibrator,make noise,make,make,AUX,UCONN
 matthew.kraus@uconn.edu,vibrator,make noise,noise,noise,VERB,UCONN
 matthew.kraus@uconn.edu,vibrator,massage,massage,massage,VERB,UCONN
 matthew.kraus@uconn.edu,vibrator,muscle relaxation,muscle,muscle,VERB,UCONN
 matthew.kraus@uconn.edu,vibrator,pleasure,pleasure,pleasure,VERB,UCONN
-olivia.wright@uconn.edu,vibrator,sexual ,sexual,sexual,ADJ,UCONN
+olivia.wright@uconn.edu,vibrator,sexual ,sexual,sex,VERB,UCONN
 gabriel.paknia@uconn.edu,videotape,capturing moments,capturing,capture,VERB,UCONN
 gabriel.paknia@uconn.edu,videotape,capturing moments,moments,moments,NOUN,UCONN
 cecilia.debruycker@uconn.edu,videotape,record,record,record,VERB,UCONN
@@ -8774,21 +8584,16 @@ alysia.ma@uconn.edu,villager,made small talk with,small,small,ADJ,UCONN
 alysia.ma@uconn.edu,villager,made small talk with,talk,talk,VERB,UCONN
 giuseppe.cesare@uconn.edu,villager,question,question,question,VERB,UCONN
 alysia.ma@uconn.edu,villager,seen,seen,see,VERB,UCONN
-alysia.ma@uconn.edu,villager,seen,seen,see,VERB,UCONN
-alysia.ma@uconn.edu,villager,seen,seen,see,VERB,UCONN
-alysia.ma@uconn.edu,villager,seen,seen,see,VERB,UCONN
 giuseppe.cesare@uconn.edu,villager,speak,speak,speak,VERB,UCONN
 gabriela.duana@uconn.edu,viola,listen to,listen,listen,VERB,UCONN
 gabriela.duana@uconn.edu,viola,play,play,play,VERB,UCONN
-gabriela.duana@uconn.edu,viola,string,string,str,VERB,UCONN
+gabriela.duana@uconn.edu,viola,string,string,string,VERB,UCONN
 gabriela.duana@uconn.edu,violin,learn,learn,learn,VERB,UCONN
 gabriela.duana@uconn.edu,violin,play,play,play,VERB,UCONN
 molly.rogers@uconn.edu,violin,playing music,music,music,NOUN,UCONN
 molly.rogers@uconn.edu,violin,playing music,playing,play,VERB,UCONN
 gabriela.duana@uconn.edu,violin,restring,restring,rest,VERB,UCONN
 emily.eggler@uconn.edu,violinist,play,play,play,VERB,UCONN
-emily.eggler@uconn.edu,violinist,play,play,play,VERB,UCONN
-dylan.pontonio@uconn.edu,violinist,play,play,play,VERB,UCONN
 dylan.pontonio@uconn.edu,violinist,play,play,play,VERB,UCONN
 dylan.pontonio@uconn.edu,violinist,please,please,please,INTJ,UCONN
 joseph.agreda@uconn.edu,virgin,no sex,sex,sex,VERB,UCONN
@@ -8799,10 +8604,8 @@ gianna.perricone@uconn.edu,visor,put on,put,put,VERB,UCONN
 owen.donegan@uconn.edu,visor,throw away,away,away,ADV,UCONN
 owen.donegan@uconn.edu,visor,throw away,throw,throw,VERB,UCONN
 gianna.perricone@uconn.edu,visor,wear,wear,wear,VERB,UCONN
-gianna.perricone@uconn.edu,visor,wear,wear,wear,VERB,UCONN
 owen.donegan@uconn.edu,visor,wear,wear,wear,VERB,UCONN
-owen.donegan@uconn.edu,visor,wear,wear,wear,VERB,UCONN
-taylor.e.sullivan@uconn.edu,vocalist,calm,calm,calm,VERB,UCONN
+taylor.e.sullivan@uconn.edu,vocalist,calm,calm,calm,ADJ,UCONN
 taylor.e.sullivan@uconn.edu,vocalist,enjoy,enjoy,enjoy,VERB,UCONN
 taylor.e.sullivan@uconn.edu,vocalist,hear,hear,hear,VERB,UCONN
 maia.cyganowski@uconn.edu,vocalist,learn from,learn,learn,VERB,UCONN
@@ -8851,30 +8654,26 @@ aryanna.carter@uconn.edu,waitress,receiving money,receiving,receive,VERB,UCONN
 aryanna.carter@uconn.edu,waitress,serving food,food,food,NOUN,UCONN
 aryanna.carter@uconn.edu,waitress,serving food,serving,serive,VERB,UCONN
 aryanna.carter@uconn.edu,waitress,taking orders,orders,order,VERB,UCONN
-aryanna.carter@uconn.edu,waitress,taking orders,taking,take,VERB,UCONN
-olivia.wright@uconn.edu,wall,barrier,barrier,barrier,NOUN,UCONN
-matthew.kraus@uconn.edu,wall,boundaries,boundaries,boundary,NOUN,UCONN
+aryanna.carter@uconn.edu,waitress,taking orders,taking,take,AUX,UCONN
+olivia.wright@uconn.edu,wall,barrier,barrier,barrier,VERB,UCONN
+matthew.kraus@uconn.edu,wall,boundaries,boundaries,boundary,VERB,UCONN
 matthew.kraus@uconn.edu,wall,break,break,break,VERB,UCONN
 matthew.kraus@uconn.edu,wall,destroy,destroy,destroy,VERB,UCONN
-matthew.kraus@uconn.edu,wall,keep people out,keep,keep,VERB,UCONN
+matthew.kraus@uconn.edu,wall,keep people out,keep,keep,AUX,UCONN
 matthew.kraus@uconn.edu,wall,keep people out,people,people,NOUN,UCONN
-matthew.kraus@uconn.edu,wall,privacy,privacy,privacy,NOUN,UCONN
+matthew.kraus@uconn.edu,wall,privacy,privacy,privacy,VERB,UCONN
 matthew.kraus@uconn.edu,wall,run into,run,run,VERB,UCONN
 sophie.atkinson@uconn.edu,wallboard,pin,pin,pin,VERB,UCONN
 sophie.atkinson@uconn.edu,wallboard,tape,tape,tape,VERB,UCONN
 sophie.atkinson@uconn.edu,wallboard,write,write,write,VERB,UCONN
 sophia.sanchez@uconn.edu,walnut,cooking,cooking,cook,VERB,UCONN
-sophia.sanchez@uconn.edu,walnut,cooking,cooking,cook,VERB,UCONN
-juliana.febrizio@uconn.edu,walnut,cooking,cooking,cook,VERB,UCONN
 juliana.febrizio@uconn.edu,walnut,cooking,cooking,cook,VERB,UCONN
 sophia.sanchez@uconn.edu,walnut,crafts,crafts,craft,VERB,UCONN
 sophia.sanchez@uconn.edu,walnut,eating,eating,eat,VERB,UCONN
-sophia.sanchez@uconn.edu,walnut,eating,eating,eat,VERB,UCONN
-juliana.febrizio@uconn.edu,walnut,eating,eating,eat,VERB,UCONN
 juliana.febrizio@uconn.edu,walnut,eating,eating,eat,VERB,UCONN
 juliana.febrizio@uconn.edu,walnut,ingredient,ingredient,ingredient,NOUN,UCONN
 val.chia@uconn.edu,walrus,fed,fed,feed,VERB,UCONN
-val.chia@uconn.edu,walrus,petted,petted,pett,VERB,UCONN
+val.chia@uconn.edu,walrus,petted,petted,pet,VERB,UCONN
 val.chia@uconn.edu,walrus,seen,seen,see,VERB,UCONN
 val.chia@uconn.edu,walrus,spotted,spotted,spot,VERB,UCONN
 raven.dest@uconn.edu,washbasin,drinking,drinking,drink,VERB,UCONN
@@ -8890,21 +8689,16 @@ cassandra.correa@uconn.edu,watchband,break,break,break,VERB,UCONN
 cassandra.correa@uconn.edu,watchband,buy,buy,buy,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,watchband,chew,chew,chew,VERB,UCONN
 cassandra.correa@uconn.edu,watchband,look at,look,look,VERB,UCONN
-cassandra.correa@uconn.edu,watchband,look at,look,look,VERB,UCONN
-cassandra.correa@uconn.edu,watchband,look at,look,look,VERB,UCONN
-cassandra.correa@uconn.edu,watchband,look at,look,look,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,watchband,put on,put,put,VERB,UCONN
+nicolas.mastropaolo@uconn.edu,watchband,put on,put,wear,VERB,UCONN
 cassandra.correa@uconn.edu,watchband,sell,sell,sell,VERB,UCONN
 cassandra.correa@uconn.edu,watchband,throw,throw,throw,VERB,UCONN
-cassandra.correa@uconn.edu,watchband,throw,throw,throw,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,watchband,throw,throw,throw,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,watchband,throw,throw,throw,VERB,UCONN
 kansas.sienna@uconn.edu,water,drink,drink,drink,VERB,UCONN
 emily.b.sullivan@uconn.edu,water,drinking,drinking,drink,VERB,UCONN
 kansas.sienna@uconn.edu,water,pool,pool,pool,INTJ,UCONN
 kansas.sienna@uconn.edu,water,refreshment,refreshment,refreshment,NOUN,UCONN
 kansas.sienna@uconn.edu,water,shower,shower,shower,NOUN,UCONN
-emily.b.sullivan@uconn.edu,water,showering,showering,showere,VERB,UCONN
+emily.b.sullivan@uconn.edu,water,showering,showering,shower,VERB,UCONN
 emily.b.sullivan@uconn.edu,water,staying hydrated,hydrated,hydrate,VERB,UCONN
 emily.b.sullivan@uconn.edu,water,staying hydrated,staying,stay,VERB,UCONN
 emily.b.sullivan@uconn.edu,water,washing hands,hands,hand,NOUN,UCONN
@@ -8924,13 +8718,10 @@ kelly_rae.lonergan@uconn.edu,weaponry,hurt somebody else,somebody,somebody,PRON,
 kelly_rae.lonergan@uconn.edu,weaponry,intimidate somebody,intimidate,intimidate,VERB,UCONN
 kelly_rae.lonergan@uconn.edu,weaponry,intimidate somebody,somebody,somebody,PRON,UCONN
 rebecca.miller@uconn.edu,weaponry,receive ,receive,receive,VERB,UCONN
-rebecca.miller@uconn.edu,weaponry,use,use,use,VERB,UCONN
+rebecca.miller@uconn.edu,weaponry,use,use,use,AUX,UCONN
 alysia.ma@uconn.edu,weatherman,chatted with,chatted,chat,VERB,UCONN
 alysia.ma@uconn.edu,weatherman,heard,heard,hear,VERB,UCONN
 alysia.ma@uconn.edu,weatherman,laughed at,laughed,laugh,VERB,UCONN
-alysia.ma@uconn.edu,weatherman,listened to,listened,listen,VERB,UCONN
-alysia.ma@uconn.edu,weatherman,listened to,listened,listen,VERB,UCONN
-alysia.ma@uconn.edu,weatherman,listened to,listened,listen,VERB,UCONN
 alysia.ma@uconn.edu,weatherman,listened to,listened,listen,VERB,UCONN
 giuseppe.cesare@uconn.edu,weatherman,listened,listened,listen,VERB,UCONN
 alysia.ma@uconn.edu,weatherman,seen,seen,see,VERB,UCONN
@@ -8944,8 +8735,6 @@ jessica.vo@uconn.edu,wheat,eat,eat,eat,VERB,UCONN
 jessica.vo@uconn.edu,wheat,pick,pick,pick,VERB,UCONN
 jessica.vo@uconn.edu,wheat,wheat,wheat,wheat,X,UCONN
 jordan.dupree@uconn.edu,wheel,driving,driving,drive,VERB,UCONN
-jordan.dupree@uconn.edu,wheel,driving,driving,drive,VERB,UCONN
-olivia.sztemberg@uconn.edu,wheel,driving,driving,drive,VERB,UCONN
 olivia.sztemberg@uconn.edu,wheel,driving,driving,drive,VERB,UCONN
 jordan.dupree@uconn.edu,wheel,mixing,mixing,mix,VERB,UCONN
 jordan.dupree@uconn.edu,wheel,moving,moving,move,VERB,UCONN
@@ -8960,19 +8749,19 @@ sophia.montanez@uconn.edu,wheelbarrow,transferring,transferring,transfer,VERB,UC
 anna.pasterick@uconn.edu,Wheelchair,immobilization,immobilization,immobilization,NOUN,UCONN
 anna.pasterick@uconn.edu,Wheelchair,support ,support,support,VERB,UCONN
 jaela.black@uconn.edu,Wheelchair,used to help disabled people move around,around,around,ADV,UCONN
-jaela.black@uconn.edu,Wheelchair,used to help disabled people move around,disabled,disable,VERB,UCONN
-jaela.black@uconn.edu,Wheelchair,used to help disabled people move around,help,help,VERB,UCONN
+jaela.black@uconn.edu,Wheelchair,used to help disabled people move around,disabled,disable,ADJ,UCONN
+jaela.black@uconn.edu,Wheelchair,used to help disabled people move around,help,help,AUX,UCONN
 jaela.black@uconn.edu,Wheelchair,used to help disabled people move around,move,move,VERB,UCONN
 jaela.black@uconn.edu,Wheelchair,used to help disabled people move around,people,people,NOUN,UCONN
-jaela.black@uconn.edu,Wheelchair,used to help disabled people move around,used,use,VERB,UCONN
+jaela.black@uconn.edu,Wheelchair,used to help disabled people move around,used,use,AUX,UCONN
 ashley.patiag@uconn.edu,whip,hit,hit,hit,VERB,UCONN
 ashley.patiag@uconn.edu,whip,whipped cream,cream,cream,NOUN,UCONN
 ashley.patiag@uconn.edu,whip,whipped cream,whipped,whip,VERB,UCONN
 alexandra.lisowski@uconn.edu,whirlpool,floating ,floating,float,VERB,UCONN
 alexandra.lisowski@uconn.edu,whirlpool,fun,fun,fun,NOUN,UCONN
-alexandra.lisowski@uconn.edu,whirlpool,spinning,spinning,spinning,VERB,UCONN
+alexandra.lisowski@uconn.edu,whirlpool,spinning,spinning,spin,VERB,UCONN
 joseph.agreda@uconn.edu,whirlpool,swim,swim,swim,VERB,UCONN
-alexandra.lisowski@uconn.edu,whirlpool,swimming,swimming,swimm,VERB,UCONN
+alexandra.lisowski@uconn.edu,whirlpool,swimming,swimming,swim,VERB,UCONN
 samantha.g.sullivan@uconn.edu,whisk,cooking,cooking,cook,VERB,UCONN
 alex.zavelson@uconn.edu,whisk,spin it,spin,spin,VERB,UCONN
 alex.zavelson@uconn.edu,whisk,to bake,bake,bake,VERB,UCONN
@@ -8985,20 +8774,20 @@ jaela.black@uconn.edu,whisker,help animals sense their surroundings in general,s
 jaela.black@uconn.edu,whisker,helps cats sense what they can fit into,can,can,AUX,UCONN
 jaela.black@uconn.edu,whisker,helps cats sense what they can fit into,cats,cat,NOUN,UCONN
 jaela.black@uconn.edu,whisker,helps cats sense what they can fit into,fit,fit,VERB,UCONN
-jaela.black@uconn.edu,whisker,helps cats sense what they can fit into,helps,help,VERB,UCONN
+jaela.black@uconn.edu,whisker,helps cats sense what they can fit into,helps,help,AUX,UCONN
 jaela.black@uconn.edu,whisker,helps cats sense what they can fit into,sense,sense,VERB,UCONN
 anna.pasterick@uconn.edu,whisker,mixing,mixing,mix,VERB,UCONN
 alyca.elcuri@uconn.edu,whiskey,blackout,blackout,blackout,VERB,UCONN
 dakota.davis@uconn.edu,whiskey,drinking,drinking,drink,VERB,UCONN
 alyca.elcuri@uconn.edu,whiskey,have a good time,good,good,ADJ,UCONN
 alyca.elcuri@uconn.edu,whiskey,have a good time,time,time,NOUN,UCONN
-dakota.davis@uconn.edu,whiskey,making,making,make,VERB,UCONN
+dakota.davis@uconn.edu,whiskey,making,making,make,AUX,UCONN
 dakota.davis@uconn.edu,whiskey,mixing,mixing,mix,VERB,UCONN
 dakota.davis@uconn.edu,whiskey,offering,offering,offer,VERB,UCONN
 dylan.pontonio@uconn.edu,whistle,blow,blow,blow,VERB,UCONN
-emily.eggler@uconn.edu,whistle,make sound,make,make,VERB,UCONN
+emily.eggler@uconn.edu,whistle,make sound,make,make,AUX,UCONN
 emily.eggler@uconn.edu,whistle,make sound,sound,sound,VERB,UCONN
-alexis.martino@uconn.edu,wife,cook,cook,cake,VERB,UCONN
+alexis.martino@uconn.edu,wife,cook,cook,cook,VERB,UCONN
 alexis.martino@uconn.edu,wife,housewife,housewife,housewife,NOUN,UCONN
 alexis.martino@uconn.edu,wife,marry,marry,marry,VERB,UCONN
 samantha.g.sullivan@uconn.edu,wig,show,show,show,VERB,UCONN
@@ -9039,7 +8828,7 @@ olivia.sztemberg@uconn.edu,windshield,prevention of snow,snow,snow,NOUN,UCONN
 jordan.dupree@uconn.edu,windshield,protecting ,protecting,protect,VERB,UCONN
 olivia.sztemberg@uconn.edu,windshield,rain,rain,rain,NOUN,UCONN
 jordan.dupree@uconn.edu,windshield,seeing,seeing,see,VERB,UCONN
-jordan.dupree@uconn.edu,windshield,wiping,wiping,wip,VERB,UCONN
+jordan.dupree@uconn.edu,windshield,wiping,wiping,wipe,VERB,UCONN
 Joseph.Verrillo@uconn.edu,windsock,flying,flying,flie,VERB,UCONN
 valeria.ramirez@uconn.edu,windsock,wind,wind,wind,NOUN,UCONN
 aisha.shahid@uconn.edu,wineglass,centerpiece,centerpiece,centerpiece,NOUN,UCONN
@@ -9048,8 +8837,8 @@ gianna.perricone@uconn.edu,wingman,become,become,become,VERB,UCONN
 owen.donegan@uconn.edu,wingman,being places ,places,place,VERB,UCONN
 gianna.perricone@uconn.edu,wingman,call,call,call,VERB,UCONN
 owen.donegan@uconn.edu,wingman,use to your advantage,advantage,advantage,NOUN,UCONN
-owen.donegan@uconn.edu,wingman,use to your advantage,use,use,VERB,UCONN
-gianna.perricone@uconn.edu,wingman,use,use,use,VERB,UCONN
+owen.donegan@uconn.edu,wingman,use to your advantage,use,use,AUX,UCONN
+gianna.perricone@uconn.edu,wingman,use,use,use,AUX,UCONN
 zarya.hernandez_salto@uconn.edu,wiper,cleans up,cleans,clean,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,wiper,throws trash away,away,away,ADV,UCONN
 zarya.hernandez_salto@uconn.edu,wiper,throws trash away,throws,throw,VERB,UCONN
@@ -9064,7 +8853,7 @@ owen.donegan@uconn.edu,wolfhound,look at,look,look,VERB,UCONN
 owen.donegan@uconn.edu,wolfhound,pet,pet,pet,VERB,UCONN
 owen.donegan@uconn.edu,wolfhound,touch,touch,touch,VERB,UCONN
 jordan.dupree@uconn.edu,wood,burning,burning,burn,VERB,UCONN
-jordan.dupree@uconn.edu,wood,creating heat ,creating,create,VERB,UCONN
+jordan.dupree@uconn.edu,wood,creating heat ,creating,create,AUX,UCONN
 jordan.dupree@uconn.edu,wood,creating heat ,heat,heat,VERB,UCONN
 jordan.dupree@uconn.edu,wood,creating,creating,create,VERB,UCONN
 olivia.sztemberg@uconn.edu,wood,fire,fire,fire,NOUN,UCONN
@@ -9083,13 +8872,13 @@ isabella.morfin@uconn.edu,woods,camping,camping,camp,VERB,UCONN
 isabella.morfin@uconn.edu,woods,ecosystem,ecosystem,ecosystem,NOUN,UCONN
 isabella.morfin@uconn.edu,woods,fort,fort,fort,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,woods,habitat,habitat,habitat,NOUN,UCONN
-isabella.morfin@uconn.edu,woods,hiding,hiding,hi,VERB,UCONN
+isabella.morfin@uconn.edu,woods,hiding,hiding,hide,VERB,UCONN
 Isabella.carnelli@uconn.edu,woods,hike,hike,hike,VERB,UCONN
 isabella.morfin@uconn.edu,woods,living,living,live,VERB,UCONN
 isabella.morfin@uconn.edu,woods,logs,logs,log,NOUN,UCONN
 isabella.morfin@uconn.edu,woods,paper,paper,paper,NOUN,UCONN
 pan.chrisovechotis@uconn.edu,woods,setting,setting,set,NOUN,UCONN
-isabella.morfin@uconn.edu,woods,use as a movie background,background,background,NOUN,UCONN
+isabella.morfin@uconn.edu,woods,use as a movie background,background,background,VERB,UCONN
 isabella.morfin@uconn.edu,woods,use as a movie background,movie,movie,NOUN,UCONN
 isabella.morfin@uconn.edu,woods,use as a movie background,use,use,VERB,UCONN
 Isabella.carnelli@uconn.edu,woods,walk,walk,walk,VERB,UCONN
@@ -9098,13 +8887,13 @@ owen.donegan@uconn.edu,woodwind,look at,look,look,VERB,UCONN
 gianna.perricone@uconn.edu,woodwind,play,play,play,VERB,UCONN
 gianna.perricone@uconn.edu,woodwind,practice,practice,practice,VERB,UCONN
 owen.donegan@uconn.edu,woodwind,throw,throw,throw,VERB,UCONN
-owen.donegan@uconn.edu,woodwind,use,use,use,VERB,UCONN
+owen.donegan@uconn.edu,woodwind,use,use,use,AUX,UCONN
 delaney.harrington@uconn.edu,workbench,clean,clean,clean,VERB,UCONN
 delaney.harrington@uconn.edu,workbench,make things,make,make,VERB,UCONN
 delaney.harrington@uconn.edu,workbench,make things,things,thing,NOUN,UCONN
 anna.lu@uconn.edu,workbench,play hide and seek,hide,hide,NOUN,UCONN
 anna.lu@uconn.edu,workbench,play hide and seek,play,play,VERB,UCONN
-anna.lu@uconn.edu,workbench,play hide and seek,seek,seek,VERB,UCONN
+anna.lu@uconn.edu,workbench,play hide and seek,seek,seek,AUX,UCONN
 delaney.harrington@uconn.edu,workbench,put tools on,put,put,VERB,UCONN
 delaney.harrington@uconn.edu,workbench,put tools on,tools,tool,NOUN,UCONN
 delaney.harrington@uconn.edu,workbench,rebuild,rebuild,rebuild,VERB,UCONN
@@ -9112,13 +8901,13 @@ anna.lu@uconn.edu,workbench,sat on,sat,sit,VERB,UCONN
 delaney.harrington@uconn.edu,workbench,sit on,sit,sit,VERB,UCONN
 anna.lu@uconn.edu,workbench,thrown at someone,someone,someone,PRON,UCONN
 anna.lu@uconn.edu,workbench,thrown at someone,thrown,throw,VERB,UCONN
-anna.lu@uconn.edu,workbench,used as a bed,bed,bed,NOUN,UCONN
-anna.lu@uconn.edu,workbench,used as a bed,used,use,VERB,UCONN
+anna.lu@uconn.edu,workbench,used as a bed,bed,bed,VERB,UCONN
+anna.lu@uconn.edu,workbench,used as a bed,used,use,AUX,UCONN
 anna.lu@uconn.edu,workbench,used for work,used,use,VERB,UCONN
 anna.lu@uconn.edu,workbench,used for work,work,work,NOUN,UCONN
 delaney.harrington@uconn.edu,workbench,work on,work,work,NOUN,UCONN
 alexis.martino@uconn.edu,workbox,build,build,build,VERB,UCONN
-val.chia@uconn.edu,workroom,complete work,complete,complete,ADJ,UCONN
+val.chia@uconn.edu,workroom,complete work,complete,complete,VERB,UCONN
 val.chia@uconn.edu,workroom,complete work,work,work,VERB,UCONN
 val.chia@uconn.edu,workroom,study,study,study,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,worksheet,complete,complete,complete,VERB,UCONN
@@ -9126,10 +8915,8 @@ cassandra.correa@uconn.edu,worksheet,erase,erase,erase,VERB,UCONN
 cassandra.correa@uconn.edu,worksheet,give back,back,back,ADV,UCONN
 cassandra.correa@uconn.edu,worksheet,give back,give,give,VERB,UCONN
 cassandra.correa@uconn.edu,worksheet,rip up,rip,rip,VERB,UCONN
-cassandra.correa@uconn.edu,worksheet,turn in,turn,turn,VERB,UCONN
+cassandra.correa@uconn.edu,worksheet,turn in,turn,turn in,VERB,UCONN
 nicolas.mastropaolo@uconn.edu,worksheet,write on,write,write,VERB,UCONN
-nicolas.mastropaolo@uconn.edu,worksheet,write on,write,write,VERB,UCONN
-cassandra.correa@uconn.edu,worksheet,write on,write,write,VERB,UCONN
 cassandra.correa@uconn.edu,worksheet,write on,write,write,VERB,UCONN
 maia.cyganowski@uconn.edu,workshop,attend,attend,attend,VERB,UCONN
 maia.cyganowski@uconn.edu,workshop,run,run,run,VERB,UCONN
@@ -9149,13 +8936,11 @@ myla.altadonna@uconn.edu,wristwatch,date,date,date,NOUN,UCONN
 kate.santos@uconn.edu,wristwatch,gift,gift,gift,VERB,UCONN
 myla.altadonna@uconn.edu,wristwatch,steps,steps,step,VERB,UCONN
 kate.santos@uconn.edu,wristwatch,style,style,style,NOUN,UCONN
-kate.santos@uconn.edu,wristwatch,telling time,telling,tell,VERB,UCONN
-kate.santos@uconn.edu,wristwatch,telling time,time,time,NOUN,UCONN
-myla.altadonna@uconn.edu,wristwatch,time,time,time,NOUN,UCONN
+kate.santos@uconn.edu,wristwatch,telling time,telling,tell,AUX,UCONN
+kate.santos@uconn.edu,wristwatch,telling time,time,time,VERB,UCONN
+myla.altadonna@uconn.edu,wristwatch,time,time,time,VERB,UCONN
 shea.carroll@uconn.edu,xylophone,listen to,listen,listen,VERB,UCONN
 shea.carroll@uconn.edu,xylophone,play,play,play,VERB,UCONN
-shea.carroll@uconn.edu,xylophone,play,play,play,VERB,UCONN
-sophia.montanez@uconn.edu,xylophone,play,play,play,VERB,UCONN
 sophia.montanez@uconn.edu,xylophone,play,play,play,VERB,UCONN
 shea.carroll@uconn.edu,xylophone,teach with,teach,teach,VERB,UCONN
 sophia.montanez@uconn.edu,yarn,blankets,blankets,blanket,NOUN,UCONN
@@ -9164,15 +8949,14 @@ sophia.montanez@uconn.edu,yarn,cats toy,toy,toy,NOUN,UCONN
 sophia.montanez@uconn.edu,yarn,clothing,clothing,clothing,NOUN,UCONN
 sophia.montanez@uconn.edu,yarn,gloves,gloves,glove,NOUN,UCONN
 shea.carroll@uconn.edu,yarn,knit,knit,knit,VERB,UCONN
-shea.carroll@uconn.edu,yarn,make,make,make,VERB,UCONN
+shea.carroll@uconn.edu,yarn,make,make,make,AUX,UCONN
 shea.carroll@uconn.edu,yarn,tie,tie,tie,VERB,UCONN
 myla.altadonna@uconn.edu,yolk,eating,eating,eat,VERB,UCONN
 kate.santos@uconn.edu,yolk,food,food,food,NOUN,UCONN
 kate.santos@uconn.edu,yolk,protein,protein,protein,NOUN,UCONN
-myla.altadonna@uconn.edu,yolk,throw away,away,away,ADV,UCONN
-myla.altadonna@uconn.edu,yolk,throw away,throw,throw,VERB,UCONN
+myla.altadonna@uconn.edu,yolk,throw away,throw,throw away,VERB,UCONN
 giselle.rodriguez@uconn.edu,you,clean,clean,clean,VERB,UCONN
-giselle.rodriguez@uconn.edu,you,cook,cook,cake,VERB,UCONN
+giselle.rodriguez@uconn.edu,you,cook,cook,cook,VERB,UCONN
 giselle.rodriguez@uconn.edu,you,music,music,music,NOUN,UCONN
 giselle.rodriguez@uconn.edu,you,sports,sports,sport,NOUN,UCONN
 giselle.rodriguez@uconn.edu,you,work,work,work,NOUN,UCONN
@@ -9180,10 +8964,8 @@ zarya.hernandez_salto@uconn.edu,youngster,argue,argue,argue,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,youngster,fight,fight,fight,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,youngster,play,play,play,VERB,UCONN
 zarya.hernandez_salto@uconn.edu,youngster,talk,talk,talk,VERB,UCONN
-alexis.martino@uconn.edu,zipper,keep warm,keep,keep,VERB,UCONN
+alexis.martino@uconn.edu,zipper,keep warm,keep,keep,AUX,UCONN
 alexis.martino@uconn.edu,zipper,keep warm,warm,warm,VERB,UCONN
-emily.eggler@uconn.edu,zucchini,cook,cook,cake,VERB,UCONN
+emily.eggler@uconn.edu,zucchini,cook,cook,cook,VERB,UCONN
 dylan.pontonio@uconn.edu,zucchini,eat,eat,eat,VERB,UCONN
-dylan.pontonio@uconn.edu,zucchini,eat,eat,eat,VERB,UCONN
-emily.eggler@uconn.edu,zucchini,eat,eat,eat,VERB,UCONN
 emily.eggler@uconn.edu,zucchini,eat,eat,eat,VERB,UCONN

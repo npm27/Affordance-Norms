@@ -3,7 +3,7 @@ s.a.david@my.ccsu.edu,abacus,count,count,count,VERB,CCSU
 s.a.david@my.ccsu.edu,abacus,shake,shake,shake,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,actor,act in movies,act,act,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,actor,act in play,act,act,VERB,CCSU
-laney.kosakowski@my.ccsu.edu,actor,act in play,play,play,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,actor,act in play,play,play,AUX,CCSU
 laney.kosakowski@my.ccsu.edu,actor,act in tv shows,act,act,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,actor,act in tv shows,shows,show,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,actor,act in tv shows,tv,tv,X,CCSU
@@ -23,7 +23,7 @@ abeera@my.ccsu.edu,anchovy,meal,meal,meal,VERB,CCSU
 abeera@my.ccsu.edu,anchovy,pizza,pizza,pizza,NOUN,CCSU
 alexisburns@my.ccsu.edu,ankle,break or sprain,break,break,VERB,CCSU
 alexisburns@my.ccsu.edu,ankle,break or sprain,sprain,sprain,VERB,CCSU
-alexisburns@my.ccsu.edu,ankle,helps us walk,helps,help,VERB,CCSU
+alexisburns@my.ccsu.edu,ankle,helps us walk,helps,help,AUX,CCSU
 alexisburns@my.ccsu.edu,ankle,helps us walk,us,we,PRON,CCSU
 alexisburns@my.ccsu.edu,ankle,helps us walk,walk,walk,VERB,CCSU
 alexisburns@my.ccsu.edu,ankle,moves foot,foot,foot,NOUN,CCSU
@@ -39,8 +39,7 @@ sbarros@my.ccsu.edu,apparel,flag,flag,flag,NOUN,CCSU
 sbarros@my.ccsu.edu,apparel,memory gifts,gifts,gift,VERB,CCSU
 sbarros@my.ccsu.edu,apparel,memory gifts,memory,memory,VERB,CCSU
 sbarros@my.ccsu.edu,apparel,shelter,shelter,shelter,VERB,CCSU
-sbarros@my.ccsu.edu,apparel,use it for first aid,aid,aid,VERB,CCSU
-sbarros@my.ccsu.edu,apparel,use it for first aid,first,first,ADV,CCSU
+sbarros@my.ccsu.edu,apparel,use it for first aid,aid,first aid,VERB,CCSU
 sbarros@my.ccsu.edu,apparel,use it for first aid,use,use,VERB,CCSU
 ashleywhite@my.ccsu.edu,aquarium,have fun,fun,fun,NOUN,CCSU
 ashleywhite@my.ccsu.edu,aquarium,research,research,research,VERB,CCSU
@@ -48,13 +47,13 @@ ashleywhite@my.ccsu.edu,aquarium,view,view,view,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,armpit,apply deoterant,apply,apply,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,armpit,apply deoterant,deodorant,deodorant,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,armpit,smell,smell,smell,VERB,CCSU
-laney.kosakowski@my.ccsu.edu,armpit,sweat,sweat,sweat,X,CCSU
+laney.kosakowski@my.ccsu.edu,armpit,sweat,sweat,sweat,VERB,CCSU
 luiseuribe@my.ccsu.edu,asphalt,something,something,something,PRON,CCSU
 p.radziszewski@my.ccsu.edu,astronaut,ask questions,ask,ask,VERB,CCSU
 p.radziszewski@my.ccsu.edu,astronaut,ask questions,questions,question,NOUN,CCSU
 p.radziszewski@my.ccsu.edu,astronaut,go to space,go,go,VERB,CCSU
 p.radziszewski@my.ccsu.edu,astronaut,go to space,space,space,NOUN,CCSU
-tomassantos@my.ccsu.edu,athlete,defend,defend,defend,VERB,CCSU
+tomassantos@my.ccsu.edu,athlete,defend,defend,defense,VERB,CCSU
 tomassantos@my.ccsu.edu,athlete,jump,jump,jump,VERB,CCSU
 tomassantos@my.ccsu.edu,athlete,play,play,play,VERB,CCSU
 tomassantos@my.ccsu.edu,athlete,run,run,run,VERB,CCSU
@@ -91,9 +90,9 @@ ashleywhite@my.ccsu.edu,backscratcher,scratch,scratch,scratch,VERB,CCSU
 sbarros@my.ccsu.edu,badge,access,access,access,NOUN,CCSU
 sbarros@my.ccsu.edu,badge,swipe,swipe,swipe,VERB,CCSU
 sbarros@my.ccsu.edu,badge,upgrade,upgrade,upgrade,VERB,CCSU
-briangarrow@my.ccsu.edu,badminton,entertainment,entertainment,entertainment,NOUN,CCSU
+briangarrow@my.ccsu.edu,badminton,entertainment,entertainment,entertain,VERB,CCSU
 briangarrow@my.ccsu.edu,badminton,exercise,exercise,exercise,VERB,CCSU
-briangarrow@my.ccsu.edu,badminton,fun,fun,fun,NOUN,CCSU
+briangarrow@my.ccsu.edu,badminton,fun,fun,fun,VERB,CCSU
 briangarrow@my.ccsu.edu,badminton,game,game,game,NOUN,CCSU
 e.swanson@my.ccsu.edu,baggage,carry,carry,carry,VERB,CCSU
 e.swanson@my.ccsu.edu,baggage,organize,organize,organize,VERB,CCSU
@@ -101,8 +100,7 @@ e.swanson@my.ccsu.edu,baggage,travel,travel,travel,VERB,CCSU
 abeera@my.ccsu.edu,bagpipe,creativity,creativity,creativity,NOUN,CCSU
 abeera@my.ccsu.edu,bagpipe,filling,filling,fill,VERB,CCSU
 sbarros@my.ccsu.edu,bandage,adhesive,adhesive,adhesive,VERB,CCSU
-sbarros@my.ccsu.edu,bandage,first aid,aid,aid,VERB,CCSU
-sbarros@my.ccsu.edu,bandage,first aid,first,first,ADV,CCSU
+sbarros@my.ccsu.edu,bandage,first aid,aid,first aid,VERB,CCSU
 sbarros@my.ccsu.edu,bandage,secure,secure,secure,VERB,CCSU
 sbarros@my.ccsu.edu,bandage,sticker,sticker,sticker,VERB,CCSU
 sbarros@my.ccsu.edu,bandage,tape,tape,tape,VERB,CCSU
@@ -111,7 +109,7 @@ lanza.m@my.ccsu.edu,banjo,career,career,career,NOUN,CCSU
 lanza.m@my.ccsu.edu,banjo,making people happy,making,make,NOUN,CCSU
 lanza.m@my.ccsu.edu,banjo,making people happy,people,people,NOUN,CCSU
 lanza.m@my.ccsu.edu,banjo,relaxing,relaxing,relax,VERB,CCSU
-stefanie.charpentier@gmail.com,banknote,shred,shred,shr,VERB,CCSU
+stefanie.charpentier@gmail.com,banknote,shred,shred,shred,VERB,CCSU
 stefanie.charpentier@gmail.com,banknote,sign,sign,sign,VERB,CCSU
 isakowski@my.ccsu.edu,baseboard,standing,standing,stand,VERB,CCSU
 stefanie.charpentier@gmail.com,basketball,bounce,bounce,bounce,VERB,CCSU
@@ -120,7 +118,7 @@ stefanie.charpentier@gmail.com,basketball,kick,kick,kick,VERB,CCSU
 stefanie.charpentier@gmail.com,basketball,play with,play,play,VERB,CCSU
 stefanie.charpentier@gmail.com,basketball,spin,spin,spin,VERB,CCSU
 stefanie.charpentier@gmail.com,basketball,throw,throw,throw,VERB,CCSU
-tomassantos@my.ccsu.edu,bath,take bath,take,take,VERB,CCSU
+tomassantos@my.ccsu.edu,bath,take bath,take,bathe,VERB,CCSU
 avery.martinez@my.ccsu.edu,beaker,holding liquids of all sorts,holding,hold,VERB,CCSU
 avery.martinez@my.ccsu.edu,beaker,holding liquids of all sorts,liquids,liquid,NOUN,CCSU
 avery.martinez@my.ccsu.edu,beaker,holding liquids of all sorts,sorts,sort,VERB,CCSU
@@ -129,15 +127,15 @@ e.swanson@my.ccsu.edu,beautician,eyebrows,eyebrows,eyebrow,NOUN,CCSU
 e.swanson@my.ccsu.edu,beautician,eyelashes,eyelashes,eyelash,NOUN,CCSU
 e.swanson@my.ccsu.edu,beautician,facial,facial,facial,ADJ,CCSU
 e.swanson@my.ccsu.edu,beautician,hair,hair,hair,NOUN,CCSU
-e.swanson@my.ccsu.edu,beautician,skincare,skincare,skincare,NOUN,CCSU
-abeera@my.ccsu.edu,beggar,help,help,help,VERB,CCSU
+e.swanson@my.ccsu.edu,beautician,skincare,skincare,skincare,VERB,CCSU
+abeera@my.ccsu.edu,beggar,help,help,help,AUX,CCSU
 abeera@my.ccsu.edu,beggar,understand,understand,understand,VERB,CCSU
 ariellys.Velazquez@my.ccsu.edu,bellman,door,door,door,NOUN,CCSU
 e.swanson@my.ccsu.edu,belongings,give away,away,away,ADV,CCSU
 e.swanson@my.ccsu.edu,belongings,give away,give,give,VERB,CCSU
 e.swanson@my.ccsu.edu,belongings,organize,organize,organize,VERB,CCSU
 e.swanson@my.ccsu.edu,belongings,read,read,read,VERB,CCSU
-e.swanson@my.ccsu.edu,belongings,share,share,share,NOUN,CCSU
+e.swanson@my.ccsu.edu,belongings,share,share,share,VERB,CCSU
 e.swanson@my.ccsu.edu,belongings,wear,wear,wear,VERB,CCSU
 e.swanson@my.ccsu.edu,beret,wear,wear,wear,VERB,CCSU
 sbarros@my.ccsu.edu,bike,escape,escape,escape,VERB,CCSU
@@ -184,20 +182,20 @@ laney.kosakowski@my.ccsu.edu,bomb,kill someon,someone,someone,PRON,CCSU
 sbarros@my.ccsu.edu,bookkeeper,increased education and exposure to children,children,child,NOUN,CCSU
 sbarros@my.ccsu.edu,bookkeeper,increased education and exposure to children,exposure,exposure,VERB,CCSU
 sbarros@my.ccsu.edu,bookkeeper,increased education and exposure to children,increased,increase,VERB,CCSU
-sbarros@my.ccsu.edu,bookkeeper,keeper of secrets,keeper,keeper,NOUN,CCSU
+sbarros@my.ccsu.edu,bookkeeper,keeper of secrets,keeper,keep,VERB,CCSU
 sbarros@my.ccsu.edu,bookkeeper,keeper of secrets,secrets,secret,NOUN,CCSU
 sbarros@my.ccsu.edu,bookkeeper,librarian,librarian,librarian,ADJ,CCSU
 sbarros@my.ccsu.edu,bookkeeper,progressive learning,learning,learn,VERB,CCSU
 sbarros@my.ccsu.edu,bookkeeper,progressive learning,progressive,progressive,ADJ,CCSU
-avery.martinez@my.ccsu.edu,booklet,keep track of things,keep,keep,VERB,CCSU
+avery.martinez@my.ccsu.edu,booklet,keep track of things,keep,keep,AUX,CCSU
 avery.martinez@my.ccsu.edu,booklet,keep track of things,things,thing,NOUN,CCSU
 avery.martinez@my.ccsu.edu,booklet,keep track of things,track,track,VERB,CCSU
 stefanie.charpentier@gmail.com,bowl,clean,clean,clean,VERB,CCSU
 stefanie.charpentier@gmail.com,bowl,empty,empty,empty,VERB,CCSU
 stefanie.charpentier@gmail.com,bowl,fill,fill,fill,VERB,CCSU
 stefanie.charpentier@gmail.com,bowl,use,use,use,VERB,CCSU
-briangarrow@my.ccsu.edu,bowling,exercise,exercise,exercise,NOUN,CCSU
-briangarrow@my.ccsu.edu,bowling,fun,fun,fun,NOUN,CCSU
+briangarrow@my.ccsu.edu,bowling,exercise,exercise,exercise,VERB,CCSU
+briangarrow@my.ccsu.edu,bowling,fun,fun,fun,VERB,CCSU
 briangarrow@my.ccsu.edu,bowling,team building,team,team,NOUN,CCSU
 briangarrow@my.ccsu.edu,breadboard,appetizer board,appetizer,appetizer,NOUN,CCSU
 briangarrow@my.ccsu.edu,breadboard,appetizer board,board,board,NOUN,CCSU
@@ -209,7 +207,7 @@ briangarrow@my.ccsu.edu,breadboard,protect surfaces from hot pots and pans,pots,
 briangarrow@my.ccsu.edu,breadboard,protect surfaces from hot pots and pans,protect,protect,VERB,CCSU
 briangarrow@my.ccsu.edu,breadboard,protect surfaces from hot pots and pans,surfaces,surface,NOUN,CCSU
 briangarrow@my.ccsu.edu,breadboard,serving food,food,food,NOUN,CCSU
-briangarrow@my.ccsu.edu,breadboard,serving food,serving,serive,VERB,CCSU
+briangarrow@my.ccsu.edu,breadboard,serving food,serving,serve,VERB,CCSU
 isakowski@my.ccsu.edu,broomstick,clean,clean,clean,VERB,CCSU
 isakowski@my.ccsu.edu,broomstick,sweep,sweep,sweep,VERB,CCSU
 briangarrow@my.ccsu.edu,brow,tattoos,tattoos,tattoo,VERB,CCSU
@@ -225,41 +223,40 @@ e.swanson@my.ccsu.edu,bullet,forensic evidence,forensic,forensic,ADJ,CCSU
 e.swanson@my.ccsu.edu,bullet,hunt,hunt,hunt,VERB,CCSU
 e.swanson@my.ccsu.edu,bullet,kill,kill,kill,VERB,CCSU
 avery.martinez@my.ccsu.edu,burlap,potato sackss,potato,potato,NOUN,CCSU
-avery.martinez@my.ccsu.edu,burlap,potato sackss,sacks,sack,NOUN,CCSU
-ariellys.Velazquez@my.ccsu.edu,businessman,work,work,work,NOUN,CCSU
+avery.martinez@my.ccsu.edu,burlap,potato sackss,sacks,sack,VERB,CCSU
+ariellys.Velazquez@my.ccsu.edu,businessman,work,work,work,VERB,CCSU
 p.radziszewski@my.ccsu.edu,busman,greet,greet,greet,VERB,CCSU
 p.radziszewski@my.ccsu.edu,busman,respect,respect,respect,VERB,CCSU
 p.radziszewski@my.ccsu.edu,busman,thank,thank,thank,VERB,CCSU
-p.radziszewski@my.ccsu.edu,buttercup,cook,cook,cake,VERB,CCSU
+p.radziszewski@my.ccsu.edu,buttercup,cook,cook,cook,VERB,CCSU
 p.radziszewski@my.ccsu.edu,buttercup,eat,eat,eat,VERB,CCSU
 p.radziszewski@my.ccsu.edu,buttercup,smell,smell,smell,VERB,CCSU
 luiseuribe@my.ccsu.edu,butterscotch,food,food,food,NOUN,CCSU
 abeera@my.ccsu.edu,buttonhook,weapon,weapon,weapon,VERB,CCSU
 sbarros@my.ccsu.edu,cab,assist,assist,assist,VERB,CCSU
 sbarros@my.ccsu.edu,cab,guide,guide,guide,VERB,CCSU
-sbarros@my.ccsu.edu,cab,safety,safety,safety,NOUN,CCSU
-sbarros@my.ccsu.edu,cab,speed,speed,speed,NOUN,CCSU
+sbarros@my.ccsu.edu,cab,safety,safety,safety,VERB,CCSU
+sbarros@my.ccsu.edu,cab,speed,speed,speed,VERB,CCSU
 lanza.m@my.ccsu.edu,cabdriver,friend,friend,friend,NOUN,CCSU
 lanza.m@my.ccsu.edu,cabdriver,occupation,occupation,occupation,NOUN,CCSU
 luiseuribe@my.ccsu.edu,cafeteria,for eating,eating,eat,VERB,CCSU
 reginaldreginald732@gmail.com,calculator,math,math,math,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,calender,keep track of dates,dates,date,NOUN,CCSU
-laney.kosakowski@my.ccsu.edu,calender,keep track of dates,keep,keep,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,calender,keep track of dates,keep,keep,AUX,CCSU
 laney.kosakowski@my.ccsu.edu,calender,keep track of dates,track,track,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,calender,keep track of events,events,event,NOUN,CCSU
-laney.kosakowski@my.ccsu.edu,calender,keep track of events,keep,keep,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,calender,keep track of events,keep,keep,AUX,CCSU
 laney.kosakowski@my.ccsu.edu,calender,keep track of events,track,track,VERB,CCSU
 tomassantos@my.ccsu.edu,calves,work out,work,work,VERB,CCSU
 lanza.m@my.ccsu.edu,candle,light,light,light,VERB,CCSU
 lanza.m@my.ccsu.edu,candle,smelling,smelling,smell,VERB,CCSU
 tomassantos@my.ccsu.edu,candy,eat,eat,eat,VERB,CCSU
-tomassantos@my.ccsu.edu,candy,throw out,throw,throw,VERB,CCSU
+tomassantos@my.ccsu.edu,candy,throw out,throw,throw away,VERB,CCSU
 stefanie.charpentier@gmail.com,cannabis,eat,eat,eat,VERB,CCSU
 stefanie.charpentier@gmail.com,cannabis,grow,grow,grow,VERB,CCSU
 stefanie.charpentier@gmail.com,cannabis,infuse,infuse,infuse,VERB,CCSU
 stefanie.charpentier@gmail.com,cannabis,smoke,smoke,smoke,VERB,CCSU
-abeera@my.ccsu.edu,cantaloupe,befriend,befriend,befriend,VERB,CCSU
-abeera@my.ccsu.edu,cantaloupe,draw,draw,dree,VERB,CCSU
+abeera@my.ccsu.edu,cantaloupe,draw,draw,draw,VERB,CCSU
 abeera@my.ccsu.edu,cantaloupe,photograph,photograph,photograph,VERB,CCSU
 emond.n@my.ccsu.edu,cardboard,to build something,build,build,VERB,CCSU
 emond.n@my.ccsu.edu,cardboard,to build something,something,something,PRON,CCSU
@@ -268,12 +265,11 @@ emond.n@my.ccsu.edu,cardboard,to use for a project,use,use,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,casebook,enter information into it,enter,enter,VERB,CCSU
 emond.n@my.ccsu.edu,cashier,to check out people,check,check,VERB,CCSU
 emond.n@my.ccsu.edu,cashier,to check out people,people,people,NOUN,CCSU
-emond.n@my.ccsu.edu,cashier,to put items away,away,away,ADV,CCSU
 emond.n@my.ccsu.edu,cashier,to put items away,items,item,NOUN,CCSU
-emond.n@my.ccsu.edu,cashier,to put items away,put,put,VERB,CCSU
+emond.n@my.ccsu.edu,cashier,to put items away,put,put away,VERB,CCSU
 sbarros@my.ccsu.edu,casket,holds a corpse,corpse,corpse,NOUN,CCSU
 sbarros@my.ccsu.edu,casket,holds a corpse,holds,hold,NOUN,CCSU
-sbarros@my.ccsu.edu,casket,memorial,memorial,memorial,ADJ,CCSU
+sbarros@my.ccsu.edu,casket,memorial,memorial,memorial,VERB,CCSU
 sbarros@my.ccsu.edu,casket,shelter,shelter,shelter,VERB,CCSU
 sbarros@my.ccsu.edu,castle,hierarchy ,hierarchy,hierarchy,ADJ,CCSU
 sbarros@my.ccsu.edu,castle,hogwarts,hogwarts,hogwart,NOUN,CCSU
@@ -281,28 +277,28 @@ sbarros@my.ccsu.edu,castle,power,power,power,VERB,CCSU
 luiseuribe@my.ccsu.edu,cat,pet,pet,pet,VERB,CCSU
 jlgatzen@gmail.com,catalogue,cut,cut,cut,VERB,CCSU
 jlgatzen@gmail.com,catalogue,read,read,read,VERB,CCSU
-jlgatzen@gmail.com,catalogue,thrown away,thrown,throw,VERB,CCSU
+jlgatzen@gmail.com,catalogue,thrown away,thrown,throw away,VERB,CCSU
 jlgatzen@gmail.com,catalogue,thrown,thrown,throw,VERB,CCSU
 jlgatzen@gmail.com,catalogue,torn,torn,tear,VERB,CCSU
 jlgatzen@gmail.com,catalogue,written,written,write,VERB,CCSU
 luiseuribe@my.ccsu.edu,catapult,weapon,weapon,weapon,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,cattle,take care of farm,care,care,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,cattle,take care of farm,farm,farm,NOUN,CCSU
-laney.kosakowski@my.ccsu.edu,cattle,take care of farm,take,take,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,cattle,take care of farm,take,take,AUX,CCSU
 jlgatzen@gmail.com,cauldron,filled,filled,fill,VERB,CCSU
 jlgatzen@gmail.com,cauldron,flipped,flipped,flip,VERB,CCSU
 jlgatzen@gmail.com,cauldron,stepped in,stepped,step,VERB,CCSU
 jlgatzen@gmail.com,cauldron,used to boil,boil,boil,VERB,CCSU
-jlgatzen@gmail.com,cauldron,used to boil,used,use,VERB,CCSU
-jlgatzen@gmail.com,cauldron,used to cook,cook,cake,VERB,CCSU
-jlgatzen@gmail.com,cauldron,used to cook,used,use,VERB,CCSU
+jlgatzen@gmail.com,cauldron,used to boil,used,use,AUX,CCSU
+jlgatzen@gmail.com,cauldron,used to cook,cook,cook,VERB,CCSU
+jlgatzen@gmail.com,cauldron,used to cook,used,use,AUX,CCSU
 reginaldreginald732@gmail.com,cauliflower,cooking ,cooking,cook,VERB,CCSU
 reginaldreginald732@gmail.com,cauliflower,food,food,food,NOUN,CCSU
-briangarrow@my.ccsu.edu,centipede,cook it,cook,cake,VERB,CCSU
+briangarrow@my.ccsu.edu,centipede,cook it,cook,cook,VERB,CCSU
 briangarrow@my.ccsu.edu,centipede,examine it,examine,examine,VERB,CCSU
 briangarrow@my.ccsu.edu,centipede,scare people,people,people,NOUN,CCSU
 briangarrow@my.ccsu.edu,centipede,scare people,scare,scare,VERB,CCSU
-sbarros@my.ccsu.edu,ceramics,cookware,cookware,cookware,NOUN,CCSU
+sbarros@my.ccsu.edu,ceramics,cookware,cookware,cook,VERB,CCSU
 sbarros@my.ccsu.edu,ceramics,hold food and or liquid,food,food,NOUN,CCSU
 sbarros@my.ccsu.edu,ceramics,hold food and or liquid,hold,hold,VERB,CCSU
 sbarros@my.ccsu.edu,ceramics,hold food and or liquid,liquid,liquid,AUX,CCSU
@@ -315,13 +311,11 @@ isakowski@my.ccsu.edu,cervix,sex,sex,sex,VERB,CCSU
 jlgatzen@gmail.com,chauffeur,befriended,befriended,befriend,VERB,CCSU
 jlgatzen@gmail.com,chauffeur,paid,paid,pay,VERB,CCSU
 jlgatzen@gmail.com,chauffeur,used as job,job,job,NOUN,CCSU
-jlgatzen@gmail.com,chauffeur,used as job,used,use,VERB,CCSU
-jlgatzen@gmail.com,chauffeur,used to get somewhere,get,get,VERB,CCSU
-jlgatzen@gmail.com,chauffeur,used to get somewhere,somewhere,somewhere,ADV,CCSU
-jlgatzen@gmail.com,chauffeur,used to get somewhere,used,use,VERB,CCSU
+jlgatzen@gmail.com,chauffeur,used as job,used,use,AUX,CCSU
+jlgatzen@gmail.com,chauffeur,travel,travel,travel,VERB,CCSU
 s.a.david@my.ccsu.edu,cheek,kiss,kiss,kiss,VERB,CCSU
 s.a.david@my.ccsu.edu,cheek,sit,sit,sit,VERB,CCSU
-abeera@my.ccsu.edu,chef,befriend,befriend,befriend,VERB,CCSU
+abeera@my.ccsu.edu,chef,befriend,befriend,friend,VERB,CCSU
 abeera@my.ccsu.edu,chef,employee,employee,employee,NOUN,CCSU
 abeera@my.ccsu.edu,chef,employer,employer,employer,NOUN,CCSU
 abeera@my.ccsu.edu,chef,knowledge,knowledge,knowledge,NOUN,CCSU
@@ -335,9 +329,9 @@ lanza.m@my.ccsu.edu,chili,makes you poop,makes,make,VERB,CCSU
 lanza.m@my.ccsu.edu,chili,makes you poop,poop,poop,VERB,CCSU
 lanza.m@my.ccsu.edu,chili,name,name,name,NOUN,CCSU
 lanza.m@my.ccsu.edu,chili,topping,topping,topping,VERB,CCSU
-isakowski@my.ccsu.edu,chimney,fire,fire,fire,NOUN,CCSU
+isakowski@my.ccsu.edu,chimney,fire,fire,fire,VERB,CCSU
 isakowski@my.ccsu.edu,chimney,heat,heat,heat,VERB,CCSU
-isakowski@my.ccsu.edu,chimney,smoke,smoke,smoke,NOUN,CCSU
+isakowski@my.ccsu.edu,chimney,smoke,smoke,smoke,VERB,CCSU
 alexisburns@my.ccsu.edu,chin,can have a dimple,can,can,AUX,CCSU
 alexisburns@my.ccsu.edu,chin,can have a dimple,dimple,dimple,NOUN,CCSU
 alexisburns@my.ccsu.edu,chin,can look different in a variety of ways,can,can,AUX,CCSU
@@ -367,24 +361,23 @@ avery.martinez@my.ccsu.edu,cleavers,ground coffee,ground,ground,NOUN,CCSU
 isakowski@my.ccsu.edu,clergyman,religion,religion,religion,NOUN,CCSU
 isakowski@my.ccsu.edu,clergyman,religious information,religious,religious,ADJ,CCSU
 isakowski@my.ccsu.edu,clergyman,spreading religion ,religion,religion,NOUN,CCSU
-tomassantos@my.ccsu.edu,clips,make videos,make,make,VERB,CCSU
+tomassantos@my.ccsu.edu,clips,make videos,make,make,AUX,CCSU
 tomassantos@my.ccsu.edu,clips,make videos,videos,video,VERB,CCSU
 abeera@my.ccsu.edu,cloak,drape over my shoulders,drape,drape,VERB,CCSU
 abeera@my.ccsu.edu,cloak,drape over my shoulders,shoulders,shoulder,NOUN,CCSU
 abeera@my.ccsu.edu,cloak,halloween costume,costume,costume,NOUN,CCSU
 abeera@my.ccsu.edu,cloak,halloween costume,halloween,halloween,AUX,CCSU
-abeera@my.ccsu.edu,cloak,make believe,believe,believe,VERB,CCSU
-abeera@my.ccsu.edu,cloak,make believe,make,make,VERB,CCSU
+abeera@my.ccsu.edu,cloak,pretend,pretend,pretend,VERB,CCSU
 abeera@my.ccsu.edu,cloak,outfit,outfit,outfit,VERB,CCSU
 abeera@my.ccsu.edu,cloak,roleplay harry potter,harry,harry,INTJ,CCSU
 abeera@my.ccsu.edu,cloak,roleplay harry potter,play,play,VERB,CCSU
 ashleywhite@my.ccsu.edu,clock,schedule,schedule,schedule,VERB,CCSU
-ashleywhite@my.ccsu.edu,clock,tell time,tell,tell,VERB,CCSU
+ashleywhite@my.ccsu.edu,clock,tell time,tell,tell,AUX,CCSU
 ashleywhite@my.ccsu.edu,clock,tell time,time,time,VERB,CCSU
 p.radziszewski@my.ccsu.edu,clothes,buy,buy,buy,VERB,CCSU
 p.radziszewski@my.ccsu.edu,clothes,rip,rip,rip,VERB,CCSU
 p.radziszewski@my.ccsu.edu,clothes,sell,sell,sell,VERB,CCSU
-p.radziszewski@my.ccsu.edu,clothes,take off,take,take,VERB,CCSU
+p.radziszewski@my.ccsu.edu,clothes,take off,take,take off,VERB,CCSU
 p.radziszewski@my.ccsu.edu,clothes,wash,wash,wash,VERB,CCSU
 p.radziszewski@my.ccsu.edu,clothes,wear,wear,wear,VERB,CCSU
 isakowski@my.ccsu.edu,clothing,bought,bought,buy,VERB,CCSU
@@ -405,11 +398,11 @@ avery.martinez@my.ccsu.edu,coffee,can cause severe burns,cause,cause,NOUN,CCSU
 avery.martinez@my.ccsu.edu,coffee,can cause severe burns,severe,severe,ADJ,CCSU
 alexisburns@my.ccsu.edu,coffeepot,brew other substances,brew,brew,VERB,CCSU
 alexisburns@my.ccsu.edu,coffeepot,brew other substances,substances,substance,NOUN,CCSU
-alexisburns@my.ccsu.edu,coffeepot,hot water,hot,hot,ADJ,CCSU
+alexisburns@my.ccsu.edu,coffeepot,hot water,hot,heat,VERB,CCSU
 alexisburns@my.ccsu.edu,coffeepot,hot water,water,water,NOUN,CCSU
 alexisburns@my.ccsu.edu,coffeepot,to make coffee,coffee,coffee,VERB,CCSU
-alexisburns@my.ccsu.edu,coffeepot,to make coffee,make,make,VERB,CCSU
-alexisburns@my.ccsu.edu,coffeepot,use pot as a bowl,bowl,bowl,NOUN,CCSU
+alexisburns@my.ccsu.edu,coffeepot,to make coffee,make,make,AUX,CCSU
+alexisburns@my.ccsu.edu,coffeepot,use pot as a bowl,bowl,bowl,VERB,CCSU
 alexisburns@my.ccsu.edu,coffeepot,use pot as a bowl,pot,pot,NOUN,CCSU
 alexisburns@my.ccsu.edu,coffeepot,use pot as a bowl,use,use,VERB,CCSU
 stefanie.charpentier@gmail.com,collarbone,break,break,break,VERB,CCSU
@@ -422,8 +415,8 @@ p.radziszewski@my.ccsu.edu,companion,spend time with,time,time,NOUN,CCSU
 p.radziszewski@my.ccsu.edu,companion,tell secrets,secrets,secret,NOUN,CCSU
 p.radziszewski@my.ccsu.edu,companion,tell secrets,tell,tell,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,concert,dance,dance,dance,VERB,CCSU
-laney.kosakowski@my.ccsu.edu,concert,have fun,fun,fun,NOUN,CCSU
-laney.kosakowski@my.ccsu.edu,concert,sing,sing,se,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,concert,have fun,fun,fun,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,concert,sing,sing,sing,VERB,CCSU
 tomassantos@my.ccsu.edu,concrete,break,break,break,VERB,CCSU
 sbarros@my.ccsu.edu,container,hold objects and or liquid,hold,hold,VERB,CCSU
 sbarros@my.ccsu.edu,container,hold objects and or liquid,liquid,liquid,AUX,CCSU
@@ -435,17 +428,17 @@ sbarros@my.ccsu.edu,cooler,cool drinks,cool,cool,VERB,CCSU
 sbarros@my.ccsu.edu,cooler,cool drinks,drinks,drink,VERB,CCSU
 sbarros@my.ccsu.edu,cooler,freshness,freshness,freshness,NOUN,CCSU
 sbarros@my.ccsu.edu,cooler,hold iced objects,hold,hold,VERB,CCSU
-sbarros@my.ccsu.edu,cooler,hold iced objects,iced,ic,VERB,CCSU
+sbarros@my.ccsu.edu,cooler,hold iced objects,iced,ice,NOUN,CCSU
 sbarros@my.ccsu.edu,cooler,hold iced objects,objects,object,VERB,CCSU
 sbarros@my.ccsu.edu,copilot,cohort,cohort,cohort,NOUN,CCSU
-sbarros@my.ccsu.edu,copilot,driver,driver,driver,NOUN,CCSU
+sbarros@my.ccsu.edu,copilot,driver,driver,drive,VERB,CCSU
 sbarros@my.ccsu.edu,copilot,house shelter,house,house,NOUN,CCSU
 sbarros@my.ccsu.edu,copilot,house shelter,shelter,shelter,NOUN,CCSU
-sbarros@my.ccsu.edu,copilot,safety,safety,safety,NOUN,CCSU
+sbarros@my.ccsu.edu,copilot,safety,safety,safety,VERB,CCSU
 sbarros@my.ccsu.edu,copilot,technology,technology,technology,NOUN,CCSU
-ashleywhite@my.ccsu.edu,cornflakes,cook,cook,cake,VERB,CCSU
+ashleywhite@my.ccsu.edu,cornflakes,cook,cook,cook,VERB,CCSU
 ashleywhite@my.ccsu.edu,cornflakes,eat,eat,eat,VERB,CCSU
-stefanie.charpentier@gmail.com,cornflower,cook with,cook,cake,VERB,CCSU
+stefanie.charpentier@gmail.com,cornflower,cook with,cook,cook,VERB,CCSU
 stefanie.charpentier@gmail.com,cornflower,eat,eat,eat,VERB,CCSU
 stefanie.charpentier@gmail.com,corsage,arrange ,arrange,arrange,VERB,CCSU
 stefanie.charpentier@gmail.com,corsage,smell,smell,smell,VERB,CCSU
@@ -464,7 +457,7 @@ p.radziszewski@my.ccsu.edu,cowhide,make clothes,make,make,VERB,CCSU
 p.radziszewski@my.ccsu.edu,cowhide,make wearable accessories ,accessories,accessory,NOUN,CCSU
 p.radziszewski@my.ccsu.edu,cowhide,make wearable accessories ,make,make,VERB,CCSU
 alexisburns@my.ccsu.edu,cranberry,alchohol mixture,alcohol,alcohol,NOUN,CCSU
-alexisburns@my.ccsu.edu,cranberry,alchohol mixture,mixture,mixture,NOUN,CCSU
+alexisburns@my.ccsu.edu,cranberry,alchohol mixture,mixture,mix,VERB,CCSU
 alexisburns@my.ccsu.edu,cranberry,cranberry drinks,cranberry,cranberry,NOUN,CCSU
 alexisburns@my.ccsu.edu,cranberry,cranberry drinks,drinks,drink,NOUN,CCSU
 alexisburns@my.ccsu.edu,cranberry,flushes out system,flushes,flush,VERB,CCSU
@@ -473,14 +466,14 @@ jlgatzen@gmail.com,crane,climbed,climbed,climb,VERB,CCSU
 jlgatzen@gmail.com,crane,driven,driven,drive,VERB,CCSU
 jlgatzen@gmail.com,crane,operated,operated,operate,VERB,CCSU
 jlgatzen@gmail.com,crane,suspended,suspended,suspend,VERB,CCSU
-jlgatzen@gmail.com,crane,used for construction,construction,construction,NOUN,CCSU
-jlgatzen@gmail.com,crane,used for construction,used,use,VERB,CCSU
+jlgatzen@gmail.com,crane,used for construction,construction,construct,VERB,CCSU
+jlgatzen@gmail.com,crane,used for construction,used,use,AUX,CCSU
 avery.martinez@my.ccsu.edu,crankshaft,literally just for its one use lol,just,just,ADV,CCSU
 avery.martinez@my.ccsu.edu,crankshaft,literally just for its one use lol,literally,literally,ADV,CCSU
 avery.martinez@my.ccsu.edu,crankshaft,literally just for its one use lol,one,one,NUM,CCSU
 avery.martinez@my.ccsu.edu,crankshaft,literally just for its one use lol,use,use,VERB,CCSU
 isakowski@my.ccsu.edu,crap,project,project,project,NOUN,CCSU
-isakowski@my.ccsu.edu,crap,thrown away,thrown,throw,VERB,CCSU
+isakowski@my.ccsu.edu,crap,thrown away,thrown,throw away,VERB,CCSU
 alexisburns@my.ccsu.edu,crayfish,catch them,catch,catch,VERB,CCSU
 alexisburns@my.ccsu.edu,crayfish,release them,release,release,VERB,CCSU
 alexisburns@my.ccsu.edu,crayfish,you can eat them,can,can,AUX,CCSU
@@ -489,7 +482,7 @@ a.cannata@my.ccsu.edu,crouton,eat plain,eat,eat,VERB,CCSU
 a.cannata@my.ccsu.edu,crouton,eat plain,plain,plain,ADJ,CCSU
 a.cannata@my.ccsu.edu,crouton,make breadcrumbs ,breadcrumbs,breadcrumb,NOUN,CCSU
 a.cannata@my.ccsu.edu,crouton,make breadcrumbs ,make,make,VERB,CCSU
-a.cannata@my.ccsu.edu,crouton,put on salad,put,put,VERB,CCSU
+a.cannata@my.ccsu.edu,crouton,put on salad,put on,topping,VERB,CCSU
 a.cannata@my.ccsu.edu,crouton,put on salad,salad,salad,NOUN,CCSU
 emond.n@my.ccsu.edu,custodian,to clean,clean,clean,VERB,CCSU
 alexisburns@my.ccsu.edu,dad,father,father,father,NOUN,CCSU
@@ -500,15 +493,14 @@ reginaldreginald732@gmail.com,dandelion,planting,planting,plan,VERB,CCSU
 briangarrow@my.ccsu.edu,debris,block flooding,block,block,VERB,CCSU
 briangarrow@my.ccsu.edu,debris,block flooding,flooding,flooding,NOUN,CCSU
 briangarrow@my.ccsu.edu,debris,clean it up,clean,clean,VERB,CCSU
-briangarrow@my.ccsu.edu,debris,throw it away,away,away,ADV,CCSU
-briangarrow@my.ccsu.edu,debris,throw it away,throw,throw,VERB,CCSU
-briangarrow@my.ccsu.edu,deck,barbeques,barbecues,barbecue,NOUN,CCSU
+briangarrow@my.ccsu.edu,debris,throw it away,throw,throw away,VERB,CCSU
+briangarrow@my.ccsu.edu,deck,barbeques,barbecues,barbecue,VERB,CCSU
 briangarrow@my.ccsu.edu,deck,dinners,dinners,dinner,NOUN,CCSU
 briangarrow@my.ccsu.edu,deck,parties,parties,party,VERB,CCSU
 briangarrow@my.ccsu.edu,deck,stage,stage,stage,VERB,CCSU
 lanza.m@my.ccsu.edu,deliverer,friend,friend,friend,NOUN,CCSU
-lanza.m@my.ccsu.edu,deliverer,helper,helper,helper,NOUN,CCSU
-lanza.m@my.ccsu.edu,deliverer,makes people happy,makes,make,VERB,CCSU
+lanza.m@my.ccsu.edu,deliverer,helper,helper,help,VERB,CCSU
+lanza.m@my.ccsu.edu,deliverer,makes people happy,makes,make,AUX,CCSU
 lanza.m@my.ccsu.edu,deliverer,makes people happy,people,people,NOUN,CCSU
 lanza.m@my.ccsu.edu,deliverer,occupation,occupation,occupation,NOUN,CCSU
 alexisburns@my.ccsu.edu,den,bear den,bear,bear,NOUN,CCSU
@@ -521,13 +513,13 @@ isakowski@my.ccsu.edu,deodorant,preventing sweat,preventing,prevent,VERB,CCSU
 isakowski@my.ccsu.edu,deodorant,preventing sweat,sweat,sweat,X,CCSU
 isakowski@my.ccsu.edu,deodorant,smelling good,good,good,ADJ,CCSU
 isakowski@my.ccsu.edu,deodorant,smelling good,smelling,smell,VERB,CCSU
-isakowski@my.ccsu.edu,deodorant,staying fresh,fresh,fresh,ADJ,CCSU
-isakowski@my.ccsu.edu,deodorant,staying fresh,staying,stay,VERB,CCSU
+isakowski@my.ccsu.edu,deodorant,staying fresh,fresh,freshness,VERB,CCSU
+isakowski@my.ccsu.edu,deodorant,staying fresh,staying,stay,AUX,CCSU
 isakowski@my.ccsu.edu,diagram,data,data,data,VERB,CCSU
 isakowski@my.ccsu.edu,diagram,presenting,presenting,present,VERB,CCSU
 isakowski@my.ccsu.edu,diagram,research,research,research,VERB,CCSU
 isakowski@my.ccsu.edu,diagram,visual,visual,visual,ADJ,CCSU
-alexisburns@my.ccsu.edu,diamond,art,art,art,NOUN,CCSU
+alexisburns@my.ccsu.edu,diamond,art,art,art,VERB,CCSU
 alexisburns@my.ccsu.edu,diamond,marriage,marriage,marriage,NOUN,CCSU
 alexisburns@my.ccsu.edu,diamond,presents,presents,present,VERB,CCSU
 alexisburns@my.ccsu.edu,diamond,wear,wear,wear,VERB,CCSU
@@ -544,13 +536,13 @@ briangarrow@my.ccsu.edu,dish,eat food off of it,food,food,NOUN,CCSU
 briangarrow@my.ccsu.edu,dish,prevent burns,burns,burn,VERB,CCSU
 briangarrow@my.ccsu.edu,dish,prevent burns,prevent,prevent,VERB,CCSU
 briangarrow@my.ccsu.edu,dish,serving food,food,food,NOUN,CCSU
-briangarrow@my.ccsu.edu,dish,serving food,serving,serive,VERB,CCSU
+briangarrow@my.ccsu.edu,dish,serving food,serving,serve,VERB,CCSU
 briangarrow@my.ccsu.edu,dish,smash it,smash,smash,VERB,CCSU
 p.radziszewski@my.ccsu.edu,document,delete,delete,delete,VERB,CCSU
 p.radziszewski@my.ccsu.edu,document,read,read,read,VERB,CCSU
 p.radziszewski@my.ccsu.edu,document,rip,rip,rip,VERB,CCSU
 p.radziszewski@my.ccsu.edu,document,save,save,save,VERB,CCSU
-p.radziszewski@my.ccsu.edu,document,shred,shred,shr,VERB,CCSU
+p.radziszewski@my.ccsu.edu,document,shred,shred,shred,VERB,CCSU
 p.radziszewski@my.ccsu.edu,document,write,write,write,VERB,CCSU
 sbarros@my.ccsu.edu,dollhouse,hold toys,hold,hold,VERB,CCSU
 sbarros@my.ccsu.edu,dollhouse,hold toys,toys,toy,NOUN,CCSU
@@ -575,9 +567,7 @@ a.cannata@my.ccsu.edu,door,take off hinges,take,take,VERB,CCSU
 jlgatzen@gmail.com,doorstop,broken,broken,break,VERB,CCSU
 jlgatzen@gmail.com,doorstop,flipped,flipped,flip,VERB,CCSU
 jlgatzen@gmail.com,doorstop,thrown,thrown,throw,VERB,CCSU
-jlgatzen@gmail.com,doorstop,used to stop door,door,door,NOUN,CCSU
-jlgatzen@gmail.com,doorstop,used to stop door,stop,stop,VERB,CCSU
-jlgatzen@gmail.com,doorstop,used to stop door,used,use,VERB,CCSU
+jlgatzen@gmail.com,doorstop,used to stop door,door,doorstop,VERB,CCSU
 ariellys.Velazquez@my.ccsu.edu,dorm,eat,eat,eat,VERB,CCSU
 ariellys.Velazquez@my.ccsu.edu,dorm,relax,relax,relax,VERB,CCSU
 ariellys.Velazquez@my.ccsu.edu,dorm,sleep,sleep,sleep,VERB,CCSU
@@ -613,16 +603,16 @@ briangarrow@my.ccsu.edu,earplugs,protect hearing,hearing,hear,NOUN,CCSU
 briangarrow@my.ccsu.edu,earplugs,protect hearing,protect,protect,VERB,CCSU
 briangarrow@my.ccsu.edu,earplugs,use them during a test to help focus,focus,focus,VERB,CCSU
 briangarrow@my.ccsu.edu,earplugs,use them during a test to help focus,help,help,VERB,CCSU
-briangarrow@my.ccsu.edu,earplugs,use them during a test to help focus,test,test,NOUN,CCSU
-briangarrow@my.ccsu.edu,earplugs,use them during a test to help focus,use,use,VERB,CCSU
+briangarrow@my.ccsu.edu,earplugs,use them during a test to help focus,test,test,VERB,CCSU
+briangarrow@my.ccsu.edu,earplugs,use them during a test to help focus,use,use,AUX,CCSU
 jlgatzen@gmail.com,editor,asked for advice,advice,advice,VERB,CCSU
 jlgatzen@gmail.com,editor,asked for advice,asked,ask,VERB,CCSU
-jlgatzen@gmail.com,editor,used as a friend,friend,friend,NOUN,CCSU
-jlgatzen@gmail.com,editor,used as a friend,used,use,VERB,CCSU
-jlgatzen@gmail.com,editor,used as a job,job,job,NOUN,CCSU
-jlgatzen@gmail.com,editor,used as a job,used,use,VERB,CCSU
+jlgatzen@gmail.com,editor,used as a friend,friend,friend,VERB,CCSU
+jlgatzen@gmail.com,editor,used as a friend,used,use,AUX,CCSU
+jlgatzen@gmail.com,editor,used as a job,job,job,VERB,CCSU
+jlgatzen@gmail.com,editor,used as a job,used,use,AUX,CCSU
 jlgatzen@gmail.com,editor,used to fix writing,fix,fix,VERB,CCSU
-jlgatzen@gmail.com,editor,used to fix writing,used,use,VERB,CCSU
+jlgatzen@gmail.com,editor,used to fix writing,used,use,AUX,CCSU
 jlgatzen@gmail.com,editor,used to fix writing,writing,write,VERB,CCSU
 ashleywhite@my.ccsu.edu,educator,learn,learn,learn,VERB,CCSU
 ashleywhite@my.ccsu.edu,educator,listen,listen,listen,VERB,CCSU
@@ -630,13 +620,13 @@ s.a.david@my.ccsu.edu,electrician,light,light,light,VERB,CCSU
 e.swanson@my.ccsu.edu,electrocardiogram,measure heart activity,activity,activity,NOUN,CCSU
 e.swanson@my.ccsu.edu,electrocardiogram,measure heart activity,heart,heart,NOUN,CCSU
 e.swanson@my.ccsu.edu,electrocardiogram,measure heart activity,measure,measure,VERB,CCSU
-laney.kosakowski@my.ccsu.edu,employer,fire,fire,fire,NOUN,CCSU
-laney.kosakowski@my.ccsu.edu,employer,work,work,work,NOUN,CCSU
+laney.kosakowski@my.ccsu.edu,employer,fire,fire,fire,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,employer,work,work,work,VERB,CCSU
 s.a.david@my.ccsu.edu,engineer,fix,fix,fix,VERB,CCSU
 s.a.david@my.ccsu.edu,engineer,math,math,math,NOUN,CCSU
 ashleywhite@my.ccsu.edu,equipment,build,build,build,VERB,CCSU
 ashleywhite@my.ccsu.edu,equipment,experiment,experiment,experiment,VERB,CCSU
-ashleywhite@my.ccsu.edu,equipment,use,use,use,VERB,CCSU
+ashleywhite@my.ccsu.edu,equipment,use,use,use,AUX,CCSU
 a.cannata@my.ccsu.edu,examiner,examine dead bodies,dead,dead,ADJ,CCSU
 a.cannata@my.ccsu.edu,examiner,examine dead bodies,examine,examine,VERB,CCSU
 a.cannata@my.ccsu.edu,examiner,examine samples,examine,examine,VERB,CCSU
@@ -660,7 +650,7 @@ abeera@my.ccsu.edu,face,conceal,conceal,conceal,VERB,CCSU
 abeera@my.ccsu.edu,face,fit it,fit,fit,VERB,CCSU
 abeera@my.ccsu.edu,face,makeup,makeup,makeup,NOUN,CCSU
 abeera@my.ccsu.edu,face,skin routine,routine,routine,NOUN,CCSU
-abeera@my.ccsu.edu,face,skin routine,skin,skin,NOUN,CCSU
+abeera@my.ccsu.edu,face,skin routine,skin,skincare,VERB,CCSU
 emond.n@my.ccsu.edu,farm,to grow food,food,food,NOUN,CCSU
 emond.n@my.ccsu.edu,farm,to grow food,grow,grow,VERB,CCSU
 emond.n@my.ccsu.edu,farmer,to grow food,food,food,NOUN,CCSU
@@ -728,7 +718,7 @@ s.a.david@my.ccsu.edu,flaxseed,gel,gel,gel,NOUN,CCSU
 s.a.david@my.ccsu.edu,flaxseed,milkshake,milkshake,milkshake,NOUN,CCSU
 s.a.david@my.ccsu.edu,flaxseed,salad,salad,salad,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,flour,bake,bake,bake,VERB,CCSU
-laney.kosakowski@my.ccsu.edu,flour,cook,cook,cake,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,flour,cook,cook,cook,VERB,CCSU
 luiseuribe@my.ccsu.edu,footboard,art work,art,art,NOUN,CCSU
 luiseuribe@my.ccsu.edu,footboard,art work,work,work,NOUN,CCSU
 jlgatzen@gmail.com,footwear,bitten,bitten,bite,VERB,CCSU
@@ -741,7 +731,7 @@ jlgatzen@gmail.com,footwear,used to hit,used,use,VERB,CCSU
 jlgatzen@gmail.com,footwear,used to walk in,used,use,VERB,CCSU
 jlgatzen@gmail.com,footwear,used to walk in,walk,walk,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,forefinger,finger scan id,finger,finger,NOUN,CCSU
-laney.kosakowski@my.ccsu.edu,forefinger,finger scan id,id,id,NOUN,CCSU
+laney.kosakowski@my.ccsu.edu,forefinger,finger scan id,id,identify,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,forefinger,finger scan id,scan,scan,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,forefinger,grab things,grab,grab,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,forefinger,grab things,things,thing,NOUN,CCSU
@@ -753,11 +743,11 @@ abeera@my.ccsu.edu,forest,running,running,run,VERB,CCSU
 abeera@my.ccsu.edu,forest,walking,walking,walk,VERB,CCSU
 isakowski@my.ccsu.edu,freezer,ice,ice,ice,VERB,CCSU
 isakowski@my.ccsu.edu,freezer,keeping things cold,cold,cold,VERB,CCSU
-isakowski@my.ccsu.edu,freezer,keeping things cold,keeping,keep,VERB,CCSU
+isakowski@my.ccsu.edu,freezer,keeping things cold,keeping,keep,AUX,CCSU
 isakowski@my.ccsu.edu,freezer,keeping things cold,things,thing,NOUN,CCSU
 isakowski@my.ccsu.edu,freezer,keeps food fresh,food,food,NOUN,CCSU
-isakowski@my.ccsu.edu,freezer,keeps food fresh,fresh,fresh,ADJ,CCSU
-isakowski@my.ccsu.edu,freezer,keeps food fresh,keeps,keep,VERB,CCSU
+isakowski@my.ccsu.edu,freezer,keeps food fresh,fresh,fresh,VERB,CCSU
+isakowski@my.ccsu.edu,freezer,keeps food fresh,keeps,keep,AUX,CCSU
 isakowski@my.ccsu.edu,freezer,prevents melting,prevents,prevent,VERB,CCSU
 stefanie.charpentier@gmail.com,frosting,apply,apply,apply,VERB,CCSU
 stefanie.charpentier@gmail.com,frosting,eat,eat,eat,VERB,CCSU
@@ -800,8 +790,8 @@ jlgatzen@gmail.com,grater,flipped,flipped,flip,VERB,CCSU
 jlgatzen@gmail.com,grater,hung,hung,hang,VERB,CCSU
 jlgatzen@gmail.com,grater,swung,swung,swing,VERB,CCSU
 jlgatzen@gmail.com,grater,thrown,thrown,throw,VERB,CCSU
-jlgatzen@gmail.com,grater,used to grate,grate,grate,NOUN,CCSU
-jlgatzen@gmail.com,grater,used to grate,used,use,VERB,CCSU
+jlgatzen@gmail.com,grater,used to grate,grate,grate,VERB,CCSU
+jlgatzen@gmail.com,grater,used to grate,used,use,AUX,CCSU
 sbarros@my.ccsu.edu,grave,bury bodies,bury,bury,VERB,CCSU
 sbarros@my.ccsu.edu,grave,circle of life ,circle,circle,NOUN,CCSU
 sbarros@my.ccsu.edu,grave,circle of life ,life,life,NOUN,CCSU
@@ -812,7 +802,7 @@ sbarros@my.ccsu.edu,grave,hole,hole,hole,NOUN,CCSU
 sbarros@my.ccsu.edu,grave,houses corpse,corpse,corpse,NOUN,CCSU
 sbarros@my.ccsu.edu,grave,shallow,shallow,shallow,ADJ,CCSU
 briangarrow@my.ccsu.edu,greenhouse,community garden,community,community,NOUN,CCSU
-briangarrow@my.ccsu.edu,greenhouse,community garden,garden,garden,NOUN,CCSU
+briangarrow@my.ccsu.edu,greenhouse,community garden,garden,garden,VERB,CCSU
 briangarrow@my.ccsu.edu,greenhouse,grow flowers,flowers,flower,NOUN,CCSU
 briangarrow@my.ccsu.edu,greenhouse,grow flowers,grow,grow,VERB,CCSU
 briangarrow@my.ccsu.edu,greenhouse,grow food,food,food,NOUN,CCSU
@@ -830,7 +820,7 @@ a.cannata@my.ccsu.edu,ground,walk on,walk,walk,VERB,CCSU
 luiseuribe@my.ccsu.edu,guardhouse,bodyguard,bodyguard,bodyguard,NOUN,CCSU
 briangarrow@my.ccsu.edu,guardrail,keep people from driving off a cliff,cliff,cliff,NOUN,CCSU
 briangarrow@my.ccsu.edu,guardrail,keep people from driving off a cliff,driving,drive,VERB,CCSU
-briangarrow@my.ccsu.edu,guardrail,keep people from driving off a cliff,keep,keep,VERB,CCSU
+briangarrow@my.ccsu.edu,guardrail,keep people from driving off a cliff,keep,keep,AUX,CCSU
 briangarrow@my.ccsu.edu,guardrail,keep people from driving off a cliff,people,people,NOUN,CCSU
 briangarrow@my.ccsu.edu,guardrail,prevent crashes from being worse,crashes,crashes,VERB,CCSU
 briangarrow@my.ccsu.edu,guardrail,prevent crashes from being worse,prevent,prevent,VERB,CCSU
@@ -841,16 +831,15 @@ a.cannata@my.ccsu.edu,guitarist,fix strings,fix,fix,VERB,CCSU
 a.cannata@my.ccsu.edu,guitarist,fix strings,strings,string,NOUN,CCSU
 a.cannata@my.ccsu.edu,guitarist,play in a band,band,band,NOUN,CCSU
 a.cannata@my.ccsu.edu,guitarist,play in a band,play,play,VERB,CCSU
-a.cannata@my.ccsu.edu,guitarist,play music,music,music,VERB,CCSU
+a.cannata@my.ccsu.edu,guitarist,play music,music,music,NOUN,CCSU
 a.cannata@my.ccsu.edu,guitarist,play music,play,play,VERB,CCSU
 a.cannata@my.ccsu.edu,guitarist,tune guitar,guitar,guitar,NOUN,CCSU
 a.cannata@my.ccsu.edu,guitarist,tune guitar,tune,tune,VERB,CCSU
 p.radziszewski@my.ccsu.edu,gun,clean,clean,clean,VERB,CCSU
 p.radziszewski@my.ccsu.edu,gun,shoot,shoot,shoot,VERB,CCSU
-p.radziszewski@my.ccsu.edu,gun,take apart,apart,apart,ADV,CCSU
-p.radziszewski@my.ccsu.edu,gun,take apart,take,take,VERB,CCSU
+p.radziszewski@my.ccsu.edu,gun,take apart,take,take apart,VERB,CCSU
 ariellys.Velazquez@my.ccsu.edu,guy,husband,husband,husband,NOUN,CCSU
-ariellys.Velazquez@my.ccsu.edu,guy,worker,worker,worker,NOUN,CCSU
+ariellys.Velazquez@my.ccsu.edu,guy,worker,worker,work,VERB,CCSU
 abeera@my.ccsu.edu,gym,excercise,exercise,exercise,VERB,CCSU
 abeera@my.ccsu.edu,gym,gain muscle mass,gain,gain,VERB,CCSU
 abeera@my.ccsu.edu,gym,gain muscle mass,mass,mass,ADJ,CCSU
@@ -867,10 +856,10 @@ abeera@my.ccsu.edu,gym,stay fit,fit,fit,VERB,CCSU
 abeera@my.ccsu.edu,gym,stay fit,stay,stay,VERB,CCSU
 abeera@my.ccsu.edu,gym,work,work,work,VERB,CCSU
 p.radziszewski@my.ccsu.edu,gynecologist,ask questions,ask,ask,VERB,CCSU
-p.radziszewski@my.ccsu.edu,gynecologist,ask questions,questions,question,VERB,CCSU
+p.radziszewski@my.ccsu.edu,gynecologist,ask questions,questions,question,NOUN,CCSU
 p.radziszewski@my.ccsu.edu,gynecologist,get diagnos,diagnose,diagnose,VERB,CCSU
-p.radziszewski@my.ccsu.edu,gynecologist,get diagnos,get,get,VERB,CCSU
-p.radziszewski@my.ccsu.edu,gynecologist,go to,go,go,VERB,CCSU
+p.radziszewski@my.ccsu.edu,gynecologist,get diagnos,get,get,AUX,CCSU
+p.radziszewski@my.ccsu.edu,gynecologist,visit,visit,visit,VERB,CCSU
 jlgatzen@gmail.com,hairdo,changed,changed,change,VERB,CCSU
 jlgatzen@gmail.com,hairdo,cut,cut,cut,VERB,CCSU
 jlgatzen@gmail.com,hairdo,worn as wig,wig,wig,X,CCSU
@@ -884,7 +873,7 @@ alexisburns@my.ccsu.edu,hammer,hit,hit,hit,VERB,CCSU
 reginaldreginald732@gmail.com,hamper,sleeping,sleeping,sleep,VERB,CCSU
 abeera@my.ccsu.edu,hand,catch,catch,catch,VERB,CCSU
 abeera@my.ccsu.edu,hand,clench,clench,clench,VERB,CCSU
-abeera@my.ccsu.edu,hand,draw,draw,dree,VERB,CCSU
+abeera@my.ccsu.edu,hand,draw,draw,draw,VERB,CCSU
 abeera@my.ccsu.edu,hand,drive,drive,drive,VERB,CCSU
 abeera@my.ccsu.edu,hand,eat,eat,eat,VERB,CCSU
 abeera@my.ccsu.edu,hand,punch,punch,punch,VERB,CCSU
@@ -895,7 +884,7 @@ alexisburns@my.ccsu.edu,handball,hitting,hitting,hit,VERB,CCSU
 alexisburns@my.ccsu.edu,handball,throwing,throwing,throw,VERB,CCSU
 tomassantos@my.ccsu.edu,handclap,clap,clap,clap,VERB,CCSU
 isakowski@my.ccsu.edu,hardcover,book,book,book,NOUN,CCSU
-reginaldreginald732@gmail.com,hardwood,contruction,construction,construction,VERB,CCSU
+reginaldreginald732@gmail.com,hardwood,contruction,construction,construct,VERB,CCSU
 reginaldreginald732@gmail.com,hardwood,woodmaking,woodmaking,woodmak,VERB,CCSU
 p.radziszewski@my.ccsu.edu,harness,connect,connect,connect,VERB,CCSU
 p.radziszewski@my.ccsu.edu,harness,disconnect,disconnect,disconnect,VERB,CCSU
@@ -910,12 +899,12 @@ alexisburns@my.ccsu.edu,headboard,type of frame for bed,type,type,NOUN,CCSU
 reginaldreginald732@gmail.com,headlight,lightup pathway,light,light,VERB,CCSU
 reginaldreginald732@gmail.com,headlight,lightup pathway,pathway,pathway,NOUN,CCSU
 abeera@my.ccsu.edu,headmistress,help,help,help,VERB,CCSU
-abeera@my.ccsu.edu,headmistress,safety,safety,safety,NOUN,CCSU
+abeera@my.ccsu.edu,headmistress,safety,safety,safety,VERB,CCSU
 reginaldreginald732@gmail.com,headpiece,games,games,game,VERB,CCSU
 reginaldreginald732@gmail.com,headpiece,music,music,music,VERB,CCSU
 avery.martinez@my.ccsu.edu,heads,concussions,concussions,concussion,NOUN,CCSU
 avery.martinez@my.ccsu.edu,heads,eating,eating,eat,VERB,CCSU
-avery.martinez@my.ccsu.edu,heads,head butting,butting,but,VERB,CCSU
+avery.martinez@my.ccsu.edu,heads,head butting,butting,butt,VERB,CCSU
 avery.martinez@my.ccsu.edu,heads,head butting,head,head,NOUN,CCSU
 avery.martinez@my.ccsu.edu,heads,talking,talking,talk,VERB,CCSU
 avery.martinez@my.ccsu.edu,heads,thinking,thinking,think,VERB,CCSU
@@ -929,7 +918,7 @@ reginaldreginald732@gmail.com,him,buddies,buddies,buddy,NOUN,CCSU
 e.swanson@my.ccsu.edu,holder,hold things,hold,hold,VERB,CCSU
 e.swanson@my.ccsu.edu,holder,hold things,things,thing,NOUN,CCSU
 e.swanson@my.ccsu.edu,holder,organize,organize,organize,VERB,CCSU
-ashleywhite@my.ccsu.edu,honeycomb,cook,cook,cake,VERB,CCSU
+ashleywhite@my.ccsu.edu,honeycomb,cook,cook,cook,VERB,CCSU
 ashleywhite@my.ccsu.edu,honeycomb,eat,eat,eat,VERB,CCSU
 ashleywhite@my.ccsu.edu,honeycomb,farm,farm,farm,NOUN,CCSU
 e.swanson@my.ccsu.edu,honeysuckle,eat,eat,eat,VERB,CCSU
@@ -951,7 +940,7 @@ luiseuribe@my.ccsu.edu,hotel,sleep,sleep,sleep,VERB,CCSU
 briangarrow@my.ccsu.edu,hound,flush out birds,birds,bird,NOUN,CCSU
 briangarrow@my.ccsu.edu,hound,flush out birds,flush,flush,VERB,CCSU
 briangarrow@my.ccsu.edu,hound,hunting,hunting,hunt,VERB,CCSU
-briangarrow@my.ccsu.edu,hound,pet,pet,pet,NOUN,CCSU
+briangarrow@my.ccsu.edu,hound,pet,pet,pet,VERB,CCSU
 briangarrow@my.ccsu.edu,hound,play with it,play,play,VERB,CCSU
 briangarrow@my.ccsu.edu,hound,police animal,animal,animal,NOUN,CCSU
 briangarrow@my.ccsu.edu,hound,police animal,police,police,NOUN,CCSU
@@ -962,13 +951,13 @@ briangarrow@my.ccsu.edu,hound,support animal,support,support,VERB,CCSU
 tomassantos@my.ccsu.edu,hug,someone,someone,someone,PRON,CCSU
 avery.martinez@my.ccsu.edu,husk,layer or shell,layer,layer,NOUN,CCSU
 avery.martinez@my.ccsu.edu,husk,layer or shell,shell,shell,NOUN,CCSU
-alexisburns@my.ccsu.edu,icebox,keeps things cold,cold,cold,ADJ,CCSU
-alexisburns@my.ccsu.edu,icebox,keeps things cold,keeps,keep,VERB,CCSU
+alexisburns@my.ccsu.edu,icebox,keeps things cold,cold,cold,VERB,CCSU
+alexisburns@my.ccsu.edu,icebox,keeps things cold,keeps,keep,AUX,CCSU
 alexisburns@my.ccsu.edu,icebox,keeps things cold,things,thing,NOUN,CCSU
 lanza.m@my.ccsu.edu,infant,baby,baby,baby,NOUN,CCSU
 lanza.m@my.ccsu.edu,infant,for closure,closure,closure,VERB,CCSU
 lanza.m@my.ccsu.edu,infant,get attention,attention,attention,VERB,CCSU
-lanza.m@my.ccsu.edu,infant,get attention,get,get,VERB,CCSU
+lanza.m@my.ccsu.edu,infant,get attention,get,get,AUX,CCSU
 isakowski@my.ccsu.edu,jawbreaker,chewed,chewed,chew,VERB,CCSU
 isakowski@my.ccsu.edu,jawbreaker,eaten,eaten,eat,VERB,CCSU
 isakowski@my.ccsu.edu,jawbreaker,licked,licked,lick,VERB,CCSU
@@ -982,15 +971,15 @@ a.cannata@my.ccsu.edu,jersey,support favorite team,team,team,NOUN,CCSU
 a.cannata@my.ccsu.edu,jersey,wear,wear,wear,VERB,CCSU
 ashleywhite@my.ccsu.edu,jumper,sew,sew,sew,VERB,CCSU
 ashleywhite@my.ccsu.edu,jumper,wear,wear,wear,VERB,CCSU
-p.radziszewski@my.ccsu.edu,kale,cook,cook,cake,VERB,CCSU
+p.radziszewski@my.ccsu.edu,kale,cook,cook,cook,VERB,CCSU
 p.radziszewski@my.ccsu.edu,kale,eat,eat,eat,VERB,CCSU
 p.radziszewski@my.ccsu.edu,kale,grow,grow,grow,VERB,CCSU
 tomassantos@my.ccsu.edu,keg,drink,drink,drink,VERB,CCSU
 tomassantos@my.ccsu.edu,keg,fill,fill,fill,VERB,CCSU
 lanza.m@my.ccsu.edu,key,get buried treasure,buried,bury,VERB,CCSU
-lanza.m@my.ccsu.edu,key,get buried treasure,get,get,VERB,CCSU
-lanza.m@my.ccsu.edu,key,get buried treasure,treasure,treasure,VERB,CCSU
-lanza.m@my.ccsu.edu,key,get into somewhere,get,get,VERB,CCSU
+lanza.m@my.ccsu.edu,key,get buried treasure,get,get,AUX,CCSU
+lanza.m@my.ccsu.edu,key,get buried treasure,treasure,treasure,NOUN,CCSU
+lanza.m@my.ccsu.edu,key,get into somewhere,open,open,VERB,CCSU
 lanza.m@my.ccsu.edu,key,get into somewhere,somewhere,somewhere,ADV,CCSU
 lanza.m@my.ccsu.edu,key,weapon,weapon,weapon,VERB,CCSU
 stefanie.charpentier@gmail.com,knapsack,lift,lift,lift,VERB,CCSU
@@ -1003,7 +992,7 @@ e.swanson@my.ccsu.edu,knitting,repair,repair,repair,VERB,CCSU
 stefanie.charpentier@gmail.com,knob,clean,clean,clean,VERB,CCSU
 stefanie.charpentier@gmail.com,knob,install,install,install,VERB,CCSU
 stefanie.charpentier@gmail.com,knob,turn,turn,turn,VERB,CCSU
-p.radziszewski@my.ccsu.edu,knot,get angry,get,get,VERB,CCSU
+p.radziszewski@my.ccsu.edu,knot,get angry,get,get,AUX,CCSU
 p.radziszewski@my.ccsu.edu,knot,tie,tie,tie,VERB,CCSU
 sbarros@my.ccsu.edu,knuckles,bend,bend,bend,VERB,CCSU
 sbarros@my.ccsu.edu,knuckles,block,block,block,VERB,CCSU
@@ -1025,24 +1014,24 @@ ashleywhite@my.ccsu.edu,leather,wear,wear,wear,VERB,CCSU
 jlgatzen@gmail.com,leg,broken,broken,break,VERB,CCSU
 jlgatzen@gmail.com,leg,extended,extended,extend,VERB,CCSU
 jlgatzen@gmail.com,leg,kicked,kicked,kick,VERB,CCSU
-jlgatzen@gmail.com,leg,punched,punched,punche,VERB,CCSU
+jlgatzen@gmail.com,leg,punched,punched,punch,VERB,CCSU
 emond.n@my.ccsu.edu,lemon,for water,water,water,NOUN,CCSU
 emond.n@my.ccsu.edu,lemon,to eat,eat,eat,VERB,CCSU
-emond.n@my.ccsu.edu,lemon,to make lemonade,lemonade,lemonade,NOUN,CCSU
-emond.n@my.ccsu.edu,lemon,to make lemonade,make,make,VERB,CCSU
+emond.n@my.ccsu.edu,lemon,to make lemonade,lemonade,lemonade,VERB,CCSU
+emond.n@my.ccsu.edu,lemon,to make lemonade,make,make,AUX,CCSU
 p.radziszewski@my.ccsu.edu,lens,clean,clean,clean,VERB,CCSU
 p.radziszewski@my.ccsu.edu,lens,look through,look,look,VERB,CCSU
 ashleywhite@my.ccsu.edu,licence,certified,certified,certify,VERB,CCSU
 ashleywhite@my.ccsu.edu,licence,document,document,document,NOUN,CCSU
-avery.martinez@my.ccsu.edu,lifebuoy,keeping people afloat,keeping,keep,VERB,CCSU
-avery.martinez@my.ccsu.edu,lifebuoy,keeping people afloat,people,people,NOUN,CCSU
+avery.martinez@my.ccsu.edu,lifebuoy,keeping people afloat,keeping,keep,AUX,CCSU
+avery.martinez@my.ccsu.edu,lifebuoy,keeping people afloat,float,float,VERB,CCSU
 avery.martinez@my.ccsu.edu,lifebuoy,throwing one at someone ,one,one,NUM,CCSU
 avery.martinez@my.ccsu.edu,lifebuoy,throwing one at someone ,someone,someone,PRON,CCSU
 avery.martinez@my.ccsu.edu,lifebuoy,throwing one at someone ,throwing,throw,VERB,CCSU
 alexisburns@my.ccsu.edu,lilly,a stage for frogs/other organism,frogs,frog,NOUN,CCSU
 alexisburns@my.ccsu.edu,lilly,a stage for frogs/other organism,organism,organism,NOUN,CCSU
 alexisburns@my.ccsu.edu,lilly,a stage for frogs/other organism,stage,stage,NOUN,CCSU
-briangarrow@my.ccsu.edu,limb,fire wood,fire,fire,NOUN,CCSU
+briangarrow@my.ccsu.edu,limb,fire wood,fire,fire,VERB,CCSU
 briangarrow@my.ccsu.edu,limb,fire wood,wood,wood,NOUN,CCSU
 briangarrow@my.ccsu.edu,limb,tree house,house,house,NOUN,CCSU
 briangarrow@my.ccsu.edu,limb,tree house,tree,tree,NOUN,CCSU
@@ -1062,7 +1051,7 @@ a.cannata@my.ccsu.edu,lozenge,help coughing,coughing,cough,VERB,CCSU
 a.cannata@my.ccsu.edu,lozenge,help coughing,help,help,VERB,CCSU
 stefanie.charpentier@gmail.com,lubricant,adventuring,adventuring,adventure,NOUN,CCSU
 stefanie.charpentier@gmail.com,lubricant,engine,engine,engine,NOUN,CCSU
-stefanie.charpentier@gmail.com,lubricant,lube,lube,lube,VERB,CCSU
+stefanie.charpentier@gmail.com,lubricant,lube,lube,lubricate,VERB,CCSU
 s.a.david@my.ccsu.edu,lunch,eat,eat,eat,VERB,CCSU
 s.a.david@my.ccsu.edu,lunchroom,eat,eat,eat,VERB,CCSU
 s.a.david@my.ccsu.edu,lunchroom,sit,sit,sit,VERB,CCSU
@@ -1096,7 +1085,7 @@ sbarros@my.ccsu.edu,mallard,fly,fly,fly,VERB,CCSU
 sbarros@my.ccsu.edu,mallard,food,food,food,VERB,CCSU
 sbarros@my.ccsu.edu,mallard,hunt,hunt,hunt,VERB,CCSU
 sbarros@my.ccsu.edu,mallard,quack,quack,quack,VERB,CCSU
-abeera@my.ccsu.edu,mansion,abandon,abandon,abandon,ADP,CCSU
+abeera@my.ccsu.edu,mansion,abandon,abandon,abandon,VERB,CCSU
 abeera@my.ccsu.edu,mansion,burn,burn,burn,VERB,CCSU
 abeera@my.ccsu.edu,mansion,decorate it,decorate,decorate,VERB,CCSU
 abeera@my.ccsu.edu,mansion,hide,hide,hide,VERB,CCSU
@@ -1105,11 +1094,11 @@ abeera@my.ccsu.edu,mansion,rent,rent,rent,VERB,CCSU
 abeera@my.ccsu.edu,mansion,reside in it,reside,reside,VERB,CCSU
 abeera@my.ccsu.edu,mansion,sell,sell,sell,VERB,CCSU
 abeera@my.ccsu.edu,mansion,will it to someone,someone,someone,PRON,CCSU
-avery.martinez@my.ccsu.edu,mantel,destroying,destroying,destroie,VERB,CCSU
+avery.martinez@my.ccsu.edu,mantel,destroying,destroying,destroy,VERB,CCSU
 avery.martinez@my.ccsu.edu,mantel,hitting,hitting,hit,VERB,CCSU
 avery.martinez@my.ccsu.edu,mantel,throwing,throwing,throw,VERB,CCSU
 tomassantos@my.ccsu.edu,manure,throw out,throw,throw,VERB,CCSU
-tomassantos@my.ccsu.edu,manure,use for fertilizer,use,use,VERB,CCSU
+tomassantos@my.ccsu.edu,manure,use for fertilizer,use,fertilize,VERB,CCSU
 isakowski@my.ccsu.edu,manuscript,document,document,document,NOUN,CCSU
 isakowski@my.ccsu.edu,manuscript,drawn,drawn,draw,VERB,CCSU
 isakowski@my.ccsu.edu,manuscript,typed,typed,type,VERB,CCSU
@@ -1142,31 +1131,31 @@ s.a.david@my.ccsu.edu,medal,futbol,soccer,soccer,NOUN,CCSU
 s.a.david@my.ccsu.edu,medal,olympics,olympics,olympic,NOUN,CCSU
 s.a.david@my.ccsu.edu,medal,track ,track,track,NOUN,CCSU
 jlgatzen@gmail.com,medics,asked question,asked,ask,VERB,CCSU
-jlgatzen@gmail.com,medics,asked question,question,question,VERB,CCSU
+jlgatzen@gmail.com,medics,asked question,question,question,NOUN,CCSU
 jlgatzen@gmail.com,medics,be friends,friends,friend,NOUN,CCSU
 jlgatzen@gmail.com,medics,used to heal,heal,heal,VERB,CCSU
 jlgatzen@gmail.com,medics,used to heal,used,use,VERB,CCSU
 luiseuribe@my.ccsu.edu,megaphone,singing,singing,singe,VERB,CCSU
 p.radziszewski@my.ccsu.edu,meteorologist,ask questions,ask,ask,VERB,CCSU
-p.radziszewski@my.ccsu.edu,meteorologist,ask questions,questions,question,VERB,CCSU
+p.radziszewski@my.ccsu.edu,meteorologist,ask questions,questions,question,NOUN,CCSU
 p.radziszewski@my.ccsu.edu,meteorologist,keep earth safe,earth,earth,NOUN,CCSU
-p.radziszewski@my.ccsu.edu,meteorologist,keep earth safe,keep,keep,VERB,CCSU
-p.radziszewski@my.ccsu.edu,meteorologist,keep earth safe,safe,safe,ADJ,CCSU
-p.radziszewski@my.ccsu.edu,meteorologist,study,study,study,NOUN,CCSU
+p.radziszewski@my.ccsu.edu,meteorologist,keep earth safe,keep,keep,AUX,CCSU
+p.radziszewski@my.ccsu.edu,meteorologist,keep earth safe,safe,safety,VERB,CCSU
+p.radziszewski@my.ccsu.edu,meteorologist,study,study,study,VERB,CCSU
 e.swanson@my.ccsu.edu,midwife,advice,advice,advice,VERB,CCSU
 e.swanson@my.ccsu.edu,midwife,birth assistance,birth,birth,VERB,CCSU
-jlgatzen@gmail.com,milk,farmed,farmed,far,VERB,CCSU
+jlgatzen@gmail.com,milk,farmed,farmed,farm,VERB,CCSU
 jlgatzen@gmail.com,milk,used to bake,bake,bake,VERB,CCSU
-jlgatzen@gmail.com,milk,used to bake,used,use,VERB,CCSU
+jlgatzen@gmail.com,milk,used to bake,used,use,AUX,CCSU
 jlgatzen@gmail.com,milk,used to blend,blend,blend,VERB,CCSU
-jlgatzen@gmail.com,milk,used to blend,used,use,VERB,CCSU
-jlgatzen@gmail.com,milk,used to cook,cook,cake,VERB,CCSU
-jlgatzen@gmail.com,milk,used to cook,used,use,VERB,CCSU
+jlgatzen@gmail.com,milk,used to blend,used,use,AUX,CCSU
+jlgatzen@gmail.com,milk,used to cook,cook,cook,VERB,CCSU
+jlgatzen@gmail.com,milk,used to cook,used,use,AUX,CCSU
 jlgatzen@gmail.com,milk,used to drink,drink,drink,VERB,CCSU
-jlgatzen@gmail.com,milk,used to drink,used,use,VERB,CCSU
+jlgatzen@gmail.com,milk,used to drink,used,use,AUX,CCSU
 laney.kosakowski@my.ccsu.edu,mitt,baseball,baseball,baseball,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,mitt,keep hands warm,hands,hand,NOUN,CCSU
-laney.kosakowski@my.ccsu.edu,mitt,keep hands warm,keep,keep,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,mitt,keep hands warm,keep,keep,AUX,CCSU
 laney.kosakowski@my.ccsu.edu,mitt,keep hands warm,warm,warm,VERB,CCSU
 sbarros@my.ccsu.edu,motorcyclist,accident,accident,accident,NOUN,CCSU
 sbarros@my.ccsu.edu,motorcyclist,stunts,stunts,stunt,VERB,CCSU
@@ -1187,14 +1176,14 @@ avery.martinez@my.ccsu.edu,museum,holding expensive and old artifacts,old,old,AD
 alexisburns@my.ccsu.edu,mushroom,food,food,food,NOUN,CCSU
 alexisburns@my.ccsu.edu,mushroom,ingredient,ingredient,ingredient,NOUN,CCSU
 alexisburns@my.ccsu.edu,mushroom,psychedelics,psychedelics,psychedelic,NOUN,CCSU
-alexisburns@my.ccsu.edu,mushroom,science,science,science,NOUN,CCSU
+alexisburns@my.ccsu.edu,mushroom,science,science,science,VERB,CCSU
 e.swanson@my.ccsu.edu,musician,play instruments,instruments,instrument,NOUN,CCSU
 e.swanson@my.ccsu.edu,musician,play instruments,play,play,VERB,CCSU
 e.swanson@my.ccsu.edu,musician,read sheet music,music,music,NOUN,CCSU
 e.swanson@my.ccsu.edu,musician,read sheet music,read,read,VERB,CCSU
 e.swanson@my.ccsu.edu,musician,read sheet music,sheet,sheet,NOUN,CCSU
 e.swanson@my.ccsu.edu,musician,sight-read,read,read,VERB,CCSU
-e.swanson@my.ccsu.edu,musician,sing,sing,se,VERB,CCSU
+e.swanson@my.ccsu.edu,musician,sing,sing,sing,VERB,CCSU
 stefanie.charpentier@gmail.com,mustache,brush,brush,brush,VERB,CCSU
 stefanie.charpentier@gmail.com,mustache,groom,groom,groom,VERB,CCSU
 stefanie.charpentier@gmail.com,mustache,grow out,grow,grow,VERB,CCSU
@@ -1207,14 +1196,14 @@ a.cannata@my.ccsu.edu,newsboy,sell newspaper,newspaper,newspaper,NOUN,CCSU
 a.cannata@my.ccsu.edu,newsboy,sell newspaper,sell,sell,VERB,CCSU
 stefanie.charpentier@gmail.com,newsreader,read,read,read,VERB,CCSU
 jlgatzen@gmail.com,nightclub,go to dance,dance,dance,VERB,CCSU
-jlgatzen@gmail.com,nightclub,go to dance,go,go,VERB,CCSU
+jlgatzen@gmail.com,nightclub,go to dance,go,go,AUX,CCSU
 jlgatzen@gmail.com,nightclub,go to drink,drink,drink,VERB,CCSU
-jlgatzen@gmail.com,nightclub,go to drink,go,go,VERB,CCSU
-jlgatzen@gmail.com,nightclub,go to hang out,go,go,VERB,CCSU
-jlgatzen@gmail.com,nightclub,go to hang out,hang,hang,VERB,CCSU
-jlgatzen@gmail.com,nightclub,go to party,go,go,VERB,CCSU
+jlgatzen@gmail.com,nightclub,go to drink,go,go,AUX,CCSU
+jlgatzen@gmail.com,nightclub,go to hang out,go,go,AUX,CCSU
+jlgatzen@gmail.com,nightclub,go to hang out,hang,hangout,VERB,CCSU
+jlgatzen@gmail.com,nightclub,go to party,go,go,AUX,CCSU
 jlgatzen@gmail.com,nightclub,go to party,party,party,VERB,CCSU
-jlgatzen@gmail.com,nightclub,go to work,go,go,VERB,CCSU
+jlgatzen@gmail.com,nightclub,go to work,go,go,AUX,CCSU
 jlgatzen@gmail.com,nightclub,go to work,work,work,VERB,CCSU
 emond.n@my.ccsu.edu,nightshirt,to wear,wear,wear,VERB,CCSU
 p.radziszewski@my.ccsu.edu,nipple,lick,lick,lick,VERB,CCSU
@@ -1228,10 +1217,10 @@ p.radziszewski@my.ccsu.edu,noose,connect to objects,objects,object,VERB,CCSU
 p.radziszewski@my.ccsu.edu,noose,secure animals,animals,animal,NOUN,CCSU
 p.radziszewski@my.ccsu.edu,noose,secure animals,secure,secure,VERB,CCSU
 p.radziszewski@my.ccsu.edu,noose,suicide,suicide,suicide,VERB,CCSU
-emond.n@my.ccsu.edu,nutmeg,to add flavor to food,add,add,VERB,CCSU
+emond.n@my.ccsu.edu,nutmeg,to add flavor to food,add,add,AUX,CCSU
 emond.n@my.ccsu.edu,nutmeg,to add flavor to food,flavor,flavor,VERB,CCSU
 emond.n@my.ccsu.edu,nutmeg,to add flavor to food,food,food,NOUN,CCSU
-ashleywhite@my.ccsu.edu,okra,cook,cook,cake,VERB,CCSU
+ashleywhite@my.ccsu.edu,okra,cook,cook,cook,VERB,CCSU
 ashleywhite@my.ccsu.edu,okra,eat,eat,eat,VERB,CCSU
 ashleywhite@my.ccsu.edu,okra,farm,farm,farm,NOUN,CCSU
 sbarros@my.ccsu.edu,olive,bake,bake,bake,VERB,CCSU
@@ -1240,19 +1229,19 @@ sbarros@my.ccsu.edu,olive,grow,grow,grow,VERB,CCSU
 sbarros@my.ccsu.edu,olive,juice,juice,juice,VERB,CCSU
 sbarros@my.ccsu.edu,olive,moisturize,moisturize,moisturize,VERB,CCSU
 sbarros@my.ccsu.edu,olive,seasoning,seasoning,season,VERB,CCSU
-sbarros@my.ccsu.edu,olive,slingshot,slingshot,slingshot,PART,CCSU
+sbarros@my.ccsu.edu,olive,slingshot,slingshot,slingshot,VERB,CCSU
 lanza.m@my.ccsu.edu,onion,cry,cry,cry,VERB,CCSU
 lanza.m@my.ccsu.edu,onion,food,food,food,NOUN,CCSU
-lanza.m@my.ccsu.edu,onion,get rid of vampires,get,get,VERB,CCSU
+lanza.m@my.ccsu.edu,onion,get rid of vampires,get,get,AUX,CCSU
 lanza.m@my.ccsu.edu,onion,get rid of vampires,rid,rid,VERB,CCSU
 lanza.m@my.ccsu.edu,onion,get rid of vampires,vampires,vampire,NOUN,CCSU
 lanza.m@my.ccsu.edu,onion,make hands smell bad,bad,bad,ADJ,CCSU
 lanza.m@my.ccsu.edu,onion,make hands smell bad,hands,hand,NOUN,CCSU
-lanza.m@my.ccsu.edu,onion,make hands smell bad,make,make,VERB,CCSU
+lanza.m@my.ccsu.edu,onion,make hands smell bad,make,make,AUX,CCSU
 lanza.m@my.ccsu.edu,onion,make hands smell bad,smell,smell,VERB,CCSU
 stefanie.charpentier@gmail.com,orchid,plant,plant,plant,VERB,CCSU
 stefanie.charpentier@gmail.com,orchid,smell,smell,smell,VERB,CCSU
-abeera@my.ccsu.edu,orgy,drawing,drawing,drawe,VERB,CCSU
+abeera@my.ccsu.edu,orgy,drawing,drawing,draw,VERB,CCSU
 abeera@my.ccsu.edu,orgy,painting,painting,paint,VERB,CCSU
 abeera@my.ccsu.edu,orgy,pleasure,pleasure,pleasure,VERB,CCSU
 ariellys.Velazquez@my.ccsu.edu,ottoman,lay,lay,lay,VERB,CCSU
@@ -1262,7 +1251,7 @@ tomassantos@my.ccsu.edu,package,put stuff in,put,put,VERB,CCSU
 tomassantos@my.ccsu.edu,package,put stuff in,stuff,stuff,NOUN,CCSU
 tomassantos@my.ccsu.edu,package,take stuff out,stuff,stuff,NOUN,CCSU
 tomassantos@my.ccsu.edu,package,take stuff out,take,take,VERB,CCSU
-isakowski@my.ccsu.edu,padlock,hiding,hiding,hi,VERB,CCSU
+isakowski@my.ccsu.edu,padlock,hiding,hiding,hide,VERB,CCSU
 isakowski@my.ccsu.edu,padlock,house,house,house,NOUN,CCSU
 isakowski@my.ccsu.edu,padlock,locking something,locking,lock,VERB,CCSU
 isakowski@my.ccsu.edu,padlock,locking something,something,something,PRON,CCSU
@@ -1272,7 +1261,7 @@ reginaldreginald732@gmail.com,page,reference,reference,reference,VERB,CCSU
 ashleywhite@my.ccsu.edu,pail,carry,carry,carry,VERB,CCSU
 ashleywhite@my.ccsu.edu,pail,hold things,hold,hold,VERB,CCSU
 ashleywhite@my.ccsu.edu,pail,hold things,things,thing,NOUN,CCSU
-emond.n@my.ccsu.edu,pajamas,to wear when going to sleep,going,go,VERB,CCSU
+emond.n@my.ccsu.edu,pajamas,to wear when going to sleep,going,go,AUX,CCSU
 emond.n@my.ccsu.edu,pajamas,to wear when going to sleep,sleep,sleep,NOUN,CCSU
 emond.n@my.ccsu.edu,pajamas,to wear when going to sleep,wear,wear,VERB,CCSU
 ashleywhite@my.ccsu.edu,pamphlet,inform,inform,inform,VERB,CCSU
@@ -1281,7 +1270,7 @@ ashleywhite@my.ccsu.edu,pamphlet,write,write,write,VERB,CCSU
 stefanie.charpentier@gmail.com,panties,clean,clean,clean,VERB,CCSU
 stefanie.charpentier@gmail.com,panties,eat,eat,eat,VERB,CCSU
 stefanie.charpentier@gmail.com,panties,fold,fold,fold,VERB,CCSU
-stefanie.charpentier@gmail.com,panties,take off,take,take,VERB,CCSU
+stefanie.charpentier@gmail.com,panties,take off,take,take off,VERB,CCSU
 stefanie.charpentier@gmail.com,panties,wear,wear,wear,VERB,CCSU
 s.a.david@my.ccsu.edu,parchment,claim,claim,claim,VERB,CCSU
 s.a.david@my.ccsu.edu,parchment,manage,manage,manage,NOUN,CCSU
@@ -1290,10 +1279,9 @@ s.a.david@my.ccsu.edu,parchment,write,write,write,VERB,CCSU
 reginaldreginald732@gmail.com,parent,knowledge,knowledge,knowledge,VERB,CCSU
 tomassantos@my.ccsu.edu,passerby,look at,look,look,VERB,CCSU
 reginaldreginald732@gmail.com,pebble,throw,throw,throw,VERB,CCSU
-alexisburns@my.ccsu.edu,pecan,used in food,food,food,NOUN,CCSU
-alexisburns@my.ccsu.edu,pecan,used in food,used,use,VERB,CCSU
+alexisburns@my.ccsu.edu,pecan,bake,bake,bake,VERB,CCSU
 avery.martinez@my.ccsu.edu,pedometer,can probably be useful for poilice if someone goes missing,can,can,AUX,CCSU
-avery.martinez@my.ccsu.edu,pedometer,can probably be useful for poilice if someone goes missing,goes,go,VERB,CCSU
+avery.martinez@my.ccsu.edu,pedometer,can probably be useful for poilice if someone goes missing,goes,go,AUX,CCSU
 avery.martinez@my.ccsu.edu,pedometer,can probably be useful for poilice if someone goes missing,missing,miss,ADJ,CCSU
 avery.martinez@my.ccsu.edu,pedometer,can probably be useful for poilice if someone goes missing,police,police,NOUN,CCSU
 avery.martinez@my.ccsu.edu,pedometer,can probably be useful for poilice if someone goes missing,probably,probably,ADV,CCSU
@@ -1340,7 +1328,7 @@ reginaldreginald732@gmail.com,pilot,fly a plane ,plane,plane,NOUN,CCSU
 p.radziszewski@my.ccsu.edu,pinball,beat high score,beat,beat,VERB,CCSU
 p.radziszewski@my.ccsu.edu,pinball,beat high score,high,high,VERB,CCSU
 p.radziszewski@my.ccsu.edu,pinball,beat high score,score,score,VERB,CCSU
-p.radziszewski@my.ccsu.edu,pinball,get mad about it,get,get,VERB,CCSU
+p.radziszewski@my.ccsu.edu,pinball,get mad about it,get,get,AUX,CCSU
 p.radziszewski@my.ccsu.edu,pinball,get mad about it,mad,mad,ADJ,CCSU
 p.radziszewski@my.ccsu.edu,pinball,lose,lose,lose,VERB,CCSU
 p.radziszewski@my.ccsu.edu,pinball,play,play,play,VERB,CCSU
@@ -1371,8 +1359,7 @@ stefanie.charpentier@gmail.com,plate,wash,wash,wash,VERB,CCSU
 stefanie.charpentier@gmail.com,Platform,stand on,stand,stand,VERB,CCSU
 lanza.m@my.ccsu.edu,playwright,fantasy writing,fantasy,fantasy,NOUN,CCSU
 lanza.m@my.ccsu.edu,playwright,fantasy writing,writing,write,VERB,CCSU
-lanza.m@my.ccsu.edu,playwright,make believe,believe,believe,VERB,CCSU
-lanza.m@my.ccsu.edu,playwright,make believe,make,make,VERB,CCSU
+lanza.m@my.ccsu.edu,playwright,pretend,pretend,pretent,VERB,CCSU
 lanza.m@my.ccsu.edu,playwright,trial run,run,run,NOUN,CCSU
 lanza.m@my.ccsu.edu,playwright,trial run,trial,trial,NOUN,CCSU
 jlgatzen@gmail.com,plexiglas,broken,broken,break,VERB,CCSU
@@ -1381,17 +1368,17 @@ jlgatzen@gmail.com,plexiglas,looked through,looked,look,VERB,CCSU
 alexisburns@my.ccsu.edu,plug,connected electrical sources,connected,connect,VERB,CCSU
 alexisburns@my.ccsu.edu,plug,connected electrical sources,electrical,electrical,ADJ,CCSU
 alexisburns@my.ccsu.edu,plug,connected electrical sources,sources,source,NOUN,CCSU
-lanza.m@my.ccsu.edu,poet,artist,artist,artist,NOUN,CCSU
-lanza.m@my.ccsu.edu,poet,author,author,author,NOUN,CCSU
+lanza.m@my.ccsu.edu,poet,artist,artist,art,VERB,CCSU
+lanza.m@my.ccsu.edu,poet,write,write,write,VERB,CCSU
 lanza.m@my.ccsu.edu,poet,father,father,father,NOUN,CCSU
-lanza.m@my.ccsu.edu,poet,friend,friend,friend,NOUN,CCSU
+lanza.m@my.ccsu.edu,poet,friend,friend,friend,VERB,CCSU
 lanza.m@my.ccsu.edu,poet,grandfather,grandfather,grandfather,NOUN,CCSU
 lanza.m@my.ccsu.edu,poet,grandmother,grandmother,grandmother,NOUN,CCSU
 lanza.m@my.ccsu.edu,poet,mother,mother,mother,NOUN,CCSU
 lanza.m@my.ccsu.edu,poet,son,son,son,NOUN,CCSU
 lanza.m@my.ccsu.edu,policeman,father/mother,father,father,NOUN,CCSU
 lanza.m@my.ccsu.edu,policeman,father/mother,mother,mother,NOUN,CCSU
-lanza.m@my.ccsu.edu,policeman,friend,friend,friend,NOUN,CCSU
+lanza.m@my.ccsu.edu,policeman,friend,friend,friend,VERB,CCSU
 lanza.m@my.ccsu.edu,policeman,helping community,community,community,NOUN,CCSU
 lanza.m@my.ccsu.edu,policeman,helping community,helping,help,VERB,CCSU
 lanza.m@my.ccsu.edu,policeman,integrity,integrity,integrity,NOUN,CCSU
@@ -1402,21 +1389,20 @@ abeera@my.ccsu.edu,poop,health condition,health,health,NOUN,CCSU
 abeera@my.ccsu.edu,poop,internal bleeding,bleeding,bleed,VERB,CCSU
 abeera@my.ccsu.edu,poop,internal bleeding,internal,internal,ADJ,CCSU
 a.cannata@my.ccsu.edu,postcard,get to know what someone else is doing ,else,else,ADJ,CCSU
-a.cannata@my.ccsu.edu,postcard,get to know what someone else is doing ,get,get,VERB,CCSU
+a.cannata@my.ccsu.edu,postcard,get to know what someone else is doing ,get,get,AUX,CCSU
 a.cannata@my.ccsu.edu,postcard,get to know what someone else is doing ,know,know,VERB,CCSU
 a.cannata@my.ccsu.edu,postcard,get to know what someone else is doing ,someone,someone,PRON,CCSU
 a.cannata@my.ccsu.edu,postcard,send a card,card,card,NOUN,CCSU
 a.cannata@my.ccsu.edu,postcard,send a card,send,send,VERB,CCSU
 a.cannata@my.ccsu.edu,postcard,use as spare paper,paper,paper,NOUN,CCSU
 a.cannata@my.ccsu.edu,postcard,use as spare paper,spare,spare,VERB,CCSU
-a.cannata@my.ccsu.edu,postcard,use as spare paper,use,use,VERB,CCSU
+a.cannata@my.ccsu.edu,postcard,use as spare paper,use,use,AUX,CCSU
 stefanie.charpentier@gmail.com,potpourri,decorate,decorate,decorate,VERB,CCSU
 stefanie.charpentier@gmail.com,potpourri,smell,smell,smell,VERB,CCSU
 isakowski@my.ccsu.edu,potty,peeing,peeing,pee,VERB,CCSU
 isakowski@my.ccsu.edu,potty,period,period,period,NOUN,CCSU
 isakowski@my.ccsu.edu,potty,pooping,pooping,poop,VERB,CCSU
 stefanie.charpentier@gmail.com,projector,look at,look,look,VERB,CCSU
-lanza.m@my.ccsu.edu,proprietor,n/a,n,not,PART,CCSU
 briangarrow@my.ccsu.edu,pulley,belts in engines,belts,belts,NOUN,CCSU
 briangarrow@my.ccsu.edu,pulley,belts in engines,engines,engine,NOUN,CCSU
 briangarrow@my.ccsu.edu,pulley,exercise,exercise,exercise,VERB,CCSU
@@ -1441,19 +1427,19 @@ isakowski@my.ccsu.edu,raspberry,bought,bought,buy,VERB,CCSU
 isakowski@my.ccsu.edu,raspberry,business,business,business,NOUN,CCSU
 isakowski@my.ccsu.edu,raspberry,collected,collected,collect,VERB,CCSU
 isakowski@my.ccsu.edu,raspberry,eaten,eaten,eat,VERB,CCSU
-isakowski@my.ccsu.edu,raspberry,farmed,farmed,far,VERB,CCSU
+isakowski@my.ccsu.edu,raspberry,farmed,farmed,farm,VERB,CCSU
 isakowski@my.ccsu.edu,raspberry,grown,grown,grow,VERB,CCSU
 isakowski@my.ccsu.edu,raspberry,sold,sold,sell,VERB,CCSU
-laney.kosakowski@my.ccsu.edu,rat,keep as pet,keep,keep,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,rat,keep as pet,keep,keep,AUX,CCSU
 laney.kosakowski@my.ccsu.edu,rat,keep as pet,pet,pet,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,rat,kill,kill,kill,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,rat,pet,pet,pet,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,rat,snake food,food,food,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,rat,snake food,snake,snake,NOUN,CCSU
 a.cannata@my.ccsu.edu,receptionist,do paperwork ,paperwork,paperwork,VERB,CCSU
-a.cannata@my.ccsu.edu,receptionist,make appointments,make,make,VERB,CCSU
+a.cannata@my.ccsu.edu,receptionist,make appointments,schedule,schedule,VERB,CCSU
 a.cannata@my.ccsu.edu,receptionist,make phone calls,calls,call,VERB,CCSU
-a.cannata@my.ccsu.edu,receptionist,make phone calls,make,make,VERB,CCSU
+a.cannata@my.ccsu.edu,receptionist,make phone calls,make,make,AUX,CCSU
 a.cannata@my.ccsu.edu,receptionist,make phone calls,phone,phone,VERB,CCSU
 a.cannata@my.ccsu.edu,receptionist,type,type,type,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,recorder,record voice,record,record,VERB,CCSU
@@ -1477,8 +1463,6 @@ sbarros@my.ccsu.edu,rifle,weird fetishes,weird,weird,ADJ,CCSU
 laney.kosakowski@my.ccsu.edu,river,canoe ,canoe,canoe,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,river,float,float,float,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,river,swim,swim,swim,VERB,CCSU
-luiseuribe@my.ccsu.edu,riverbank,take money,money,money,NOUN,CCSU
-luiseuribe@my.ccsu.edu,riverbank,take money,take,take,VERB,CCSU
 jlgatzen@gmail.com,road,cracked,cracked,crack,VERB,CCSU
 jlgatzen@gmail.com,road,driven on,driven,drive,VERB,CCSU
 jlgatzen@gmail.com,road,layed on,slayed,slay,VERB,CCSU
@@ -1490,7 +1474,7 @@ a.cannata@my.ccsu.edu,robber,break into a home,home,home,ADV,CCSU
 a.cannata@my.ccsu.edu,robber,break out of jail,jail,jail,NOUN,CCSU
 a.cannata@my.ccsu.edu,robber,go to jail,go,go,VERB,CCSU
 a.cannata@my.ccsu.edu,robber,go to jail,jail,jail,NOUN,CCSU
-a.cannata@my.ccsu.edu,robber,rob a bank ,bank,bank,NOUN,CCSU
+a.cannata@my.ccsu.edu,robber,rob a bank ,bank,rob,VERB,CCSU
 a.cannata@my.ccsu.edu,robber,steal something,something,something,PRON,CCSU
 a.cannata@my.ccsu.edu,robber,steal something,steal,steal,VERB,CCSU
 avery.martinez@my.ccsu.edu,rope,hitting someone,hitting,hit,VERB,CCSU
@@ -1517,7 +1501,7 @@ isakowski@my.ccsu.edu,rosewater,skin treatment,skin,skin,NOUN,CCSU
 s.a.david@my.ccsu.edu,rowboat,water,water,water,NOUN,CCSU
 s.a.david@my.ccsu.edu,ruler,bend,bend,bend,VERB,CCSU
 s.a.david@my.ccsu.edu,ruler,break,break,break,VERB,CCSU
-s.a.david@my.ccsu.edu,ruler,draw,draw,dree,VERB,CCSU
+s.a.david@my.ccsu.edu,ruler,draw,draw,draw,VERB,CCSU
 e.swanson@my.ccsu.edu,runner,decorate table,decorate,decorate,VERB,CCSU
 e.swanson@my.ccsu.edu,runner,decorate table,table,table,NOUN,CCSU
 sbarros@my.ccsu.edu,saddlebag,prevent person from falling off horse,horse,horse,NOUN,CCSU
@@ -1527,16 +1511,16 @@ sbarros@my.ccsu.edu,saddlebag,protects ,protects,protect,VERB,CCSU
 s.a.david@my.ccsu.edu,salamander,pet,pet,pet,VERB,CCSU
 p.radziszewski@my.ccsu.edu,sand,dig hole,dig,dig,VERB,CCSU
 p.radziszewski@my.ccsu.edu,sand,dig hole,hole,hole,NOUN,CCSU
-p.radziszewski@my.ccsu.edu,sand,make sand castle,make,make,VERB,CCSU
+p.radziszewski@my.ccsu.edu,sand,build,build,build,VERB,CCSU
 p.radziszewski@my.ccsu.edu,sand,plants,plants,plant,NOUN,CCSU
 lanza.m@my.ccsu.edu,sapphire,expensive,expensive,expensive,ADJ,CCSU
 lanza.m@my.ccsu.edu,sapphire,jewelry,jewelry,jewelry,NOUN,CCSU
 lanza.m@my.ccsu.edu,sapphire,making someone happy,making,make,NOUN,CCSU
 lanza.m@my.ccsu.edu,sapphire,making someone happy,someone,someone,PRON,CCSU
-ashleywhite@my.ccsu.edu,saucepan,cook,cook,cake,VERB,CCSU
+ashleywhite@my.ccsu.edu,saucepan,cook,cook,cook,VERB,CCSU
 ashleywhite@my.ccsu.edu,saucepan,hold,hold,hold,VERB,CCSU
 p.radziszewski@my.ccsu.edu,scallop,catch,catch,catch,VERB,CCSU
-p.radziszewski@my.ccsu.edu,scallop,cook,cook,cake,VERB,CCSU
+p.radziszewski@my.ccsu.edu,scallop,cook,cook,cook,VERB,CCSU
 p.radziszewski@my.ccsu.edu,scallop,eat,eat,eat,VERB,CCSU
 p.radziszewski@my.ccsu.edu,scallop,find,find,find,VERB,CCSU
 lanza.m@my.ccsu.edu,scapula,assisting medical physicians ,assisting,assist,VERB,CCSU
@@ -1565,16 +1549,15 @@ sbarros@my.ccsu.edu,seamstress,sew linen,sew,sew,VERB,CCSU
 ashleywhite@my.ccsu.edu,sesame,cook,cook,cake,VERB,CCSU
 ashleywhite@my.ccsu.edu,sesame,eat,eat,eat,VERB,CCSU
 ashleywhite@my.ccsu.edu,sesame,season,season,season,VERB,CCSU
-sbarros@my.ccsu.edu,shampoo,bubble bath,bath,bath,NOUN,CCSU
+sbarros@my.ccsu.edu,shampoo,bubble bath,bath,bathe,VERB,CCSU
 sbarros@my.ccsu.edu,shampoo,bubble bath,bubble,bubble,NOUN,CCSU
 sbarros@my.ccsu.edu,shampoo,bubble blower,bubble,bubble,NOUN,CCSU
 sbarros@my.ccsu.edu,shampoo,clean,clean,clean,VERB,CCSU
 sbarros@my.ccsu.edu,shampoo,hygeine,hygiene,hygiene,NOUN,CCSU
-sbarros@my.ccsu.edu,shampoo,slip n slide,n,not,PART,CCSU
 sbarros@my.ccsu.edu,shampoo,slip n slide,slide,slide,VERB,CCSU
 sbarros@my.ccsu.edu,shampoo,slip n slide,slip,slip,VERB,CCSU
 sbarros@my.ccsu.edu,shampoo,wash,wash,wash,VERB,CCSU
-s.a.david@my.ccsu.edu,shank,cook,cook,cake,VERB,CCSU
+s.a.david@my.ccsu.edu,shank,cook,cook,cook,VERB,CCSU
 s.a.david@my.ccsu.edu,shank,eat,eat,eat,VERB,CCSU
 s.a.david@my.ccsu.edu,shank,move,move,move,VERB,CCSU
 s.a.david@my.ccsu.edu,shank,season,season,season,NOUN,CCSU
@@ -1591,29 +1574,29 @@ ariellys.Velazquez@my.ccsu.edu,shipman,control boat,boat,boat,NOUN,CCSU
 ariellys.Velazquez@my.ccsu.edu,shipman,control boat,control,control,VERB,CCSU
 a.cannata@my.ccsu.edu,shoe,buy,buy,buy,VERB,CCSU
 a.cannata@my.ccsu.edu,shoe,fix,fix,fix,VERB,CCSU
-a.cannata@my.ccsu.edu,shoe,put on,put,put,VERB,CCSU
-a.cannata@my.ccsu.edu,shoe,take off,take,take,VERB,CCSU
+a.cannata@my.ccsu.edu,shoe,put on,weawr,wear,VERB,CCSU
+a.cannata@my.ccsu.edu,shoe,take off,take,take off,VERB,CCSU
 e.swanson@my.ccsu.edu,shoehorn,pry things open,open,open,VERB,CCSU
 e.swanson@my.ccsu.edu,shoehorn,pry things open,pry,pry,VERB,CCSU
 e.swanson@my.ccsu.edu,shoehorn,pry things open,things,thing,NOUN,CCSU
 e.swanson@my.ccsu.edu,shoehorn,put on shoes,put,put,VERB,CCSU
 e.swanson@my.ccsu.edu,shoehorn,put on shoes,shoes,shoe,VERB,CCSU
 jlgatzen@gmail.com,shopkeeper,ask question,ask,ask,VERB,CCSU
-jlgatzen@gmail.com,shopkeeper,ask question,question,question,VERB,CCSU
+jlgatzen@gmail.com,shopkeeper,ask question,question,question,NOUN,CCSU
 jlgatzen@gmail.com,shopkeeper,be a friend,friend,friend,NOUN,CCSU
 jlgatzen@gmail.com,shopkeeper,purchase items from,items,item,NOUN,CCSU
 jlgatzen@gmail.com,shopkeeper,purchase items from,purchase,purchase,VERB,CCSU
 jlgatzen@gmail.com,shoulder,dislocated,dislocated,dislocate,VERB,CCSU
 jlgatzen@gmail.com,shoulder,kissed,kissed,kiss,VERB,CCSU
-jlgatzen@gmail.com,shoulder,punched,punched,punche,VERB,CCSU
+jlgatzen@gmail.com,shoulder,punched,punched,punch,VERB,CCSU
 jlgatzen@gmail.com,shoulder,rubbed,rubbed,rub,VERB,CCSU
 jlgatzen@gmail.com,shoulder,used to cry on,cry,cry,VERB,CCSU
-jlgatzen@gmail.com,shoulder,used to cry on,used,use,VERB,CCSU
+jlgatzen@gmail.com,shoulder,used to cry on,used,use,AUX,CCSU
 jlgatzen@gmail.com,shoulder,used to hold something on,hold,hold,VERB,CCSU
 jlgatzen@gmail.com,shoulder,used to hold something on,something,something,PRON,CCSU
-jlgatzen@gmail.com,shoulder,used to hold something on,used,use,VERB,CCSU
+jlgatzen@gmail.com,shoulder,used to hold something on,used,use,AUX,CCSU
 jlgatzen@gmail.com,shoulder,used to lift,lift,lift,VERB,CCSU
-jlgatzen@gmail.com,shoulder,used to lift,used,use,VERB,CCSU
+jlgatzen@gmail.com,shoulder,used to lift,used,use,AUX,CCSU
 a.cannata@my.ccsu.edu,shutter,buy,buy,buy,VERB,CCSU
 a.cannata@my.ccsu.edu,shutter,close,close,close,VERB,CCSU
 a.cannata@my.ccsu.edu,shutter,install,install,install,VERB,CCSU
@@ -1629,7 +1612,7 @@ ashleywhite@my.ccsu.edu,sixpence,money,money,money,NOUN,CCSU
 jlgatzen@gmail.com,skeleton,broken,broken,break,VERB,CCSU
 jlgatzen@gmail.com,skeleton,experimented on,experimented,experiment,VERB,CCSU
 jlgatzen@gmail.com,skeleton,looked at,looked,look,VERB,CCSU
-jlgatzen@gmail.com,skeleton,punched,punched,punche,VERB,CCSU
+jlgatzen@gmail.com,skeleton,punched,punched,punch,VERB,CCSU
 jlgatzen@gmail.com,skeleton,thrown,thrown,throw,VERB,CCSU
 a.cannata@my.ccsu.edu,sketch,buy one,buy,buy,VERB,CCSU
 a.cannata@my.ccsu.edu,sketch,buy one,one,one,NUM,CCSU
@@ -1654,9 +1637,9 @@ e.swanson@my.ccsu.edu,softball,hit,hit,hit,VERB,CCSU
 e.swanson@my.ccsu.edu,softball,play,play,play,VERB,CCSU
 e.swanson@my.ccsu.edu,softball,throw,throw,throw,VERB,CCSU
 jlgatzen@gmail.com,spacesuit,punctured,punctured,puncture,VERB,CCSU
-jlgatzen@gmail.com,spacesuit,used for oxygen,used,use,VERB,CCSU
+jlgatzen@gmail.com,spacesuit,breathe,breathe,breathe,VERB,CCSU
 jlgatzen@gmail.com,spacesuit,used in movie,movie,movie,NOUN,CCSU
-jlgatzen@gmail.com,spacesuit,used in movie,used,use,VERB,CCSU
+jlgatzen@gmail.com,spacesuit,used in movie,used,use,AUX,CCSU
 jlgatzen@gmail.com,spacesuit,worn in space,space,space,NOUN,CCSU
 jlgatzen@gmail.com,spacesuit,worn in space,worn,wear,VERB,CCSU
 jlgatzen@gmail.com,spacesuit,worn on earth,earth,earth,NOUN,CCSU
@@ -1665,10 +1648,10 @@ stefanie.charpentier@gmail.com,speedboat,boat,boat,boat,NOUN,CCSU
 stefanie.charpentier@gmail.com,speedboat,drive,drive,drive,VERB,CCSU
 stefanie.charpentier@gmail.com,speedboat,ride,ride,ride,VERB,CCSU
 stefanie.charpentier@gmail.com,speedboat,speed,speed,speed,NOUN,CCSU
-a.cannata@my.ccsu.edu,spices,make a spell,make,make,VERB,CCSU
+a.cannata@my.ccsu.edu,spices,make a spell,make,make,AUX,CCSU
 a.cannata@my.ccsu.edu,spices,make a spell,spell,spell,VERB,CCSU
 a.cannata@my.ccsu.edu,spices,make something taste better,better,better,ADJ,CCSU
-a.cannata@my.ccsu.edu,spices,make something taste better,make,make,VERB,CCSU
+a.cannata@my.ccsu.edu,spices,make something taste better,make,make,AUX,CCSU
 a.cannata@my.ccsu.edu,spices,make something taste better,something,something,PRON,CCSU
 a.cannata@my.ccsu.edu,spices,make something taste better,taste,taste,VERB,CCSU
 a.cannata@my.ccsu.edu,spices,make you sneeze,make,make,VERB,CCSU
@@ -1707,14 +1690,14 @@ laney.kosakowski@my.ccsu.edu,stall,change clothing,clothing,clothing,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,stall,go to the bathroom,bathroom,bathroom,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,stall,go to the bathroom,go,go,VERB,CCSU
 lanza.m@my.ccsu.edu,staple,staple papers,papers,papers,NOUN,CCSU
-lanza.m@my.ccsu.edu,staple,staple papers,staple,staple,NOUN,CCSU
+lanza.m@my.ccsu.edu,staple,staple papers,staple,staple,VERB,CCSU
 lanza.m@my.ccsu.edu,staple,weapon,weapon,weapon,VERB,CCSU
 a.cannata@my.ccsu.edu,starch,make bread,bread,bread,NOUN,CCSU
 a.cannata@my.ccsu.edu,starch,make bread,make,make,VERB,CCSU
 s.a.david@my.ccsu.edu,stem,eat,eat,eat,VERB,CCSU
 alexisburns@my.ccsu.edu,stencil,any form of art,art,art,NOUN,CCSU
 alexisburns@my.ccsu.edu,stencil,any form of art,form,form,NOUN,CCSU
-alexisburns@my.ccsu.edu,stencil,drawing,drawing,drawe,VERB,CCSU
+alexisburns@my.ccsu.edu,stencil,drawing,drawing,draw,VERB,CCSU
 alexisburns@my.ccsu.edu,stencil,tattooing,tattooing,tattoo,VERB,CCSU
 s.a.david@my.ccsu.edu,stepbrother,friend,friend,friend,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,stepfather,support,support,support,VERB,CCSU
@@ -1745,21 +1728,21 @@ jlgatzen@gmail.com,suds,lathered,lathered,lather,VERB,CCSU
 jlgatzen@gmail.com,suds,rubbed,rubbed,rub,VERB,CCSU
 jlgatzen@gmail.com,suds,thrown,thrown,throw,VERB,CCSU
 jlgatzen@gmail.com,suds,used to clean,clean,clean,VERB,CCSU
-jlgatzen@gmail.com,suds,used to clean,used,use,VERB,CCSU
+jlgatzen@gmail.com,suds,used to clean,used,use,AUX,CCSU
 tomassantos@my.ccsu.edu,sunroof,close,close,close,VERB,CCSU
 tomassantos@my.ccsu.edu,sunroof,open,open,open,VERB,CCSU
 a.cannata@my.ccsu.edu,supervisor,do paperwork,paperwork,paperwork,VERB,CCSU
 a.cannata@my.ccsu.edu,supervisor,help people,help,help,VERB,CCSU
 a.cannata@my.ccsu.edu,supervisor,help people,people,people,NOUN,CCSU
 a.cannata@my.ccsu.edu,supervisor,make sure things are getting done,done,done,VERB,CCSU
-a.cannata@my.ccsu.edu,supervisor,make sure things are getting done,getting,get,VERB,CCSU
-a.cannata@my.ccsu.edu,supervisor,make sure things are getting done,make,make,VERB,CCSU
+a.cannata@my.ccsu.edu,supervisor,make sure things are getting done,getting,get,AUX,CCSU
+a.cannata@my.ccsu.edu,supervisor,make sure things are getting done,make,make,AUX,CCSU
 a.cannata@my.ccsu.edu,supervisor,make sure things are getting done,sure,sure,ADJ,CCSU
 a.cannata@my.ccsu.edu,supervisor,make sure things are getting done,things,thing,NOUN,CCSU
 a.cannata@my.ccsu.edu,supervisor,pay people ,pay,pay,VERB,CCSU
 a.cannata@my.ccsu.edu,supervisor,pay people ,people,people,NOUN,CCSU
 ariellys.Velazquez@my.ccsu.edu,supper,food,food,food,NOUN,CCSU
-e.swanson@my.ccsu.edu,surgeon,surgery,surgery,surgery,NOUN,CCSU
+e.swanson@my.ccsu.edu,surgeon,surgery,surgery,surgery,VERB,CCSU
 avery.martinez@my.ccsu.edu,sweatband,slingshot,slingshot,slingshot,VERB,CCSU
 avery.martinez@my.ccsu.edu,sweatband,soaking up sweat ,soaking,soak,VERB,CCSU
 avery.martinez@my.ccsu.edu,sweatband,soaking up sweat ,sweat,sweat,X,CCSU
@@ -1769,10 +1752,10 @@ s.a.david@my.ccsu.edu,tablecloth,wash,wash,wash,VERB,CCSU
 jlgatzen@gmail.com,tableware,bitten,bitten,bite,VERB,CCSU
 jlgatzen@gmail.com,tableware,broken,broken,break,VERB,CCSU
 jlgatzen@gmail.com,tableware,thrown,thrown,throw,VERB,CCSU
-jlgatzen@gmail.com,tableware,used as weapon,used,use,VERB,CCSU
+jlgatzen@gmail.com,tableware,used as weapon,used,use,AUX,CCSU
 jlgatzen@gmail.com,tableware,used as weapon,weapon,weapon,VERB,CCSU
 jlgatzen@gmail.com,tableware,used to eat,eat,eat,VERB,CCSU
-jlgatzen@gmail.com,tableware,used to eat,used,use,VERB,CCSU
+jlgatzen@gmail.com,tableware,used to eat,used,use,AUX,CCSU
 a.cannata@my.ccsu.edu,tabloid,read,read,read,VERB,CCSU
 a.cannata@my.ccsu.edu,tabloid,write,write,write,VERB,CCSU
 emond.n@my.ccsu.edu,Taco,to eat,eat,eat,VERB,CCSU
@@ -1785,7 +1768,7 @@ a.cannata@my.ccsu.edu,tampon,put in,put,put,VERB,CCSU
 a.cannata@my.ccsu.edu,tampon,stop nose bleed,bleed,bleed,VERB,CCSU
 a.cannata@my.ccsu.edu,tampon,stop nose bleed,nose,nose,PRON,CCSU
 a.cannata@my.ccsu.edu,tampon,stop nose bleed,stop,stop,VERB,CCSU
-a.cannata@my.ccsu.edu,tampon,take out,take,take,VERB,CCSU
+a.cannata@my.ccsu.edu,tampon,take out,take,take out,VERB,CCSU
 a.cannata@my.ccsu.edu,tampon,throw away,throw,throw,VERB,CCSU
 s.a.david@my.ccsu.edu,tangerine,eat,eat,eat,VERB,CCSU
 s.a.david@my.ccsu.edu,tangerine,juice,juice,juice,VERB,CCSU
@@ -1817,7 +1800,7 @@ alexisburns@my.ccsu.edu,thermostat,measure temperature of air,air,air,NOUN,CCSU
 alexisburns@my.ccsu.edu,thermostat,measure temperature of air,measure,measure,VERB,CCSU
 alexisburns@my.ccsu.edu,thermostat,measure temperature of air,temperature,temperature,NOUN,CCSU
 alexisburns@my.ccsu.edu,thermostat,vehicle,vehicle,vehicle,NOUN,CCSU
-isakowski@my.ccsu.edu,thong,comfort,comfort,comfort,NOUN,CCSU
+isakowski@my.ccsu.edu,thong,comfort,comfort,comfort,VERB,CCSU
 isakowski@my.ccsu.edu,thong,dressed,dressed,dress,VERB,CCSU
 isakowski@my.ccsu.edu,thong,outfit,outfit,outfit,NOUN,CCSU
 isakowski@my.ccsu.edu,thong,prevent underwear lines,lines,line,NOUN,CCSU
@@ -1829,17 +1812,17 @@ stefanie.charpentier@gmail.com,throne,place,place,place,VERB,CCSU
 stefanie.charpentier@gmail.com,throne,polish,polish,polish,VERB,CCSU
 stefanie.charpentier@gmail.com,throne,sit on,sit,sit,VERB,CCSU
 s.a.david@my.ccsu.edu,thumbtack,hold,hold,hold,VERB,CCSU
-laney.kosakowski@my.ccsu.edu,thyme,cook with,cook,cake,VERB,CCSU
+laney.kosakowski@my.ccsu.edu,thyme,cook with,cook,cook,VERB,CCSU
 a.cannata@my.ccsu.edu,tickler,tickle people ,people,people,NOUN,CCSU
 a.cannata@my.ccsu.edu,tickler,tickle people ,tickle,tickle,VERB,CCSU
 e.swanson@my.ccsu.edu,tile,art,art,art,NOUN,CCSU
-e.swanson@my.ccsu.edu,tile,bath,bath,bath,NOUN,CCSU
+e.swanson@my.ccsu.edu,tile,bath,bath,bathe,VERB,CCSU
 e.swanson@my.ccsu.edu,tile,decorate house,decorate,decorate,VERB,CCSU
 e.swanson@my.ccsu.edu,tile,decorate house,house,house,NOUN,CCSU
 e.swanson@my.ccsu.edu,tile,floor,floor,floor,NOUN,CCSU
 e.swanson@my.ccsu.edu,tile,shower,shower,shower,NOUN,CCSU
-abeera@my.ccsu.edu,timepiece,foresake,forsake,forake,VERB,CCSU
-avery.martinez@my.ccsu.edu,tinderbox,getting messages on tinder,getting,get,VERB,CCSU
+abeera@my.ccsu.edu,timepiece,foresake,forsake,forsake,VERB,CCSU
+avery.martinez@my.ccsu.edu,tinderbox,getting messages on tinder,getting,get,AUX,CCSU
 laney.kosakowski@my.ccsu.edu,toast,eat,eat,eat,VERB,CCSU
 laney.kosakowski@my.ccsu.edu,toast,spread butter,butter,butter,NOUN,CCSU
 laney.kosakowski@my.ccsu.edu,toast,spread butter,spread,spread,VERB,CCSU
@@ -1852,7 +1835,7 @@ avery.martinez@my.ccsu.edu,tourniquet,stop life threatening bleeding,life,life,N
 avery.martinez@my.ccsu.edu,tourniquet,stop life threatening bleeding,stop,stop,VERB,CCSU
 avery.martinez@my.ccsu.edu,tourniquet,stop life threatening bleeding,threatening,threaten,VERB,CCSU
 p.radziszewski@my.ccsu.edu,townspeople,greet,greet,greet,VERB,CCSU
-avery.martinez@my.ccsu.edu,track,jogging,jogging,jogge,VERB,CCSU
+avery.martinez@my.ccsu.edu,track,jogging,jogging,jog,VERB,CCSU
 avery.martinez@my.ccsu.edu,track,practicing,practicing,practice,VERB,CCSU
 avery.martinez@my.ccsu.edu,track,running,running,run,VERB,CCSU
 avery.martinez@my.ccsu.edu,track,sprinting,sprinting,sprint,VERB,CCSU
@@ -1896,13 +1879,13 @@ avery.martinez@my.ccsu.edu,tuna,make great canned birthday cakes for cats,cakes,
 avery.martinez@my.ccsu.edu,tuna,make great canned birthday cakes for cats,canned,can,VERB,CCSU
 avery.martinez@my.ccsu.edu,tuna,make great canned birthday cakes for cats,cats,cat,NOUN,CCSU
 avery.martinez@my.ccsu.edu,tuna,make great canned birthday cakes for cats,great,great,ADJ,CCSU
-avery.martinez@my.ccsu.edu,tuna,make great canned birthday cakes for cats,make,make,VERB,CCSU
+avery.martinez@my.ccsu.edu,tuna,make great canned birthday cakes for cats,make,make,AUX,CCSU
 ashleywhite@my.ccsu.edu,tunic,sew,sew,sew,VERB,CCSU
 ashleywhite@my.ccsu.edu,tunic,wear,wear,wear,VERB,CCSU
 abeera@my.ccsu.edu,turf,play set,play,play,VERB,CCSU
 abeera@my.ccsu.edu,turf,play set,set,set,VERB,CCSU
 p.radziszewski@my.ccsu.edu,tutu,dance in,dance,dance,VERB,CCSU
-p.radziszewski@my.ccsu.edu,tutu,take off,take,take,VERB,CCSU
+p.radziszewski@my.ccsu.edu,tutu,take off,take,take off,VERB,CCSU
 p.radziszewski@my.ccsu.edu,tutu,wear,wear,wear,VERB,CCSU
 ariellys.Velazquez@my.ccsu.edu,umbrella,cover,cover,cover,VERB,CCSU
 reginaldreginald732@gmail.com,underclothes,comfort,comfort,comfort,VERB,CCSU
@@ -1910,7 +1893,7 @@ s.a.david@my.ccsu.edu,underclothing,wash,wash,wash,VERB,CCSU
 s.a.david@my.ccsu.edu,underclothing,wear,wear,wear,VERB,CCSU
 lanza.m@my.ccsu.edu,urinal,bathroom,bathroom,bathroom,NOUN,CCSU
 lanza.m@my.ccsu.edu,urinal,spit into,spit,spit,VERB,CCSU
-stefanie.charpentier@gmail.com,vanilla,cook,cook,cake,VERB,CCSU
+stefanie.charpentier@gmail.com,vanilla,cook,cook,cook,VERB,CCSU
 stefanie.charpentier@gmail.com,vanilla,extract,extract,extract,VERB,CCSU
 stefanie.charpentier@gmail.com,vanilla,flavor,flavor,flavor,VERB,CCSU
 stefanie.charpentier@gmail.com,vanilla,smell,smell,smell,VERB,CCSU
@@ -1929,14 +1912,14 @@ sbarros@my.ccsu.edu,veranda,shelter from sun,shelter,shelter,VERB,CCSU
 sbarros@my.ccsu.edu,veranda,shelter from sun,sun,sun,NOUN,CCSU
 alexisburns@my.ccsu.edu,videotape,can be put in a bookcase,bookcase,bookcase,NOUN,CCSU
 alexisburns@my.ccsu.edu,videotape,can be put in a bookcase,can,can,AUX,CCSU
-alexisburns@my.ccsu.edu,videotape,can be put in a bookcase,put,put,VERB,CCSU
+alexisburns@my.ccsu.edu,videotape,can be put in a bookcase,put,put,AUX,CCSU
 alexisburns@my.ccsu.edu,videotape,playing movies,playing,play,VERB,CCSU
 alexisburns@my.ccsu.edu,videotape,recording over,recording,record,VERB,CCSU
 alexisburns@my.ccsu.edu,videotape,recording,recording,record,VERB,CCSU
 alexisburns@my.ccsu.edu,videotape,shows,shows,show,VERB,CCSU
-abeera@my.ccsu.edu,villager,befriend,befriend,befriend,VERB,CCSU
+abeera@my.ccsu.edu,villager,befriend,befriend,friend,VERB,CCSU
 abeera@my.ccsu.edu,villager,marry,marry,marry,VERB,CCSU
-ariellys.Velazquez@my.ccsu.edu,violinist,music,music,music,NOUN,CCSU
+ariellys.Velazquez@my.ccsu.edu,violinist,music,music,music,VERB,CCSU
 jlgatzen@gmail.com,volleyball,bumped,bumped,bump,VERB,CCSU
 jlgatzen@gmail.com,volleyball,checked,checked,check,VERB,CCSU
 jlgatzen@gmail.com,volleyball,hit,hit,hit,VERB,CCSU
@@ -1956,7 +1939,7 @@ briangarrow@my.ccsu.edu,waist,hang tools from belt,hang,hang,VERB,CCSU
 briangarrow@my.ccsu.edu,waist,hang tools from belt,tools,tool,NOUN,CCSU
 briangarrow@my.ccsu.edu,wallboard,hang a to do list,hang,hang,VERB,CCSU
 briangarrow@my.ccsu.edu,wallboard,hang a to do list,list,list,VERB,CCSU
-ashleywhite@my.ccsu.edu,walnut,cook,cook,cake,VERB,CCSU
+ashleywhite@my.ccsu.edu,walnut,cook,cook,cook,VERB,CCSU
 ashleywhite@my.ccsu.edu,walnut,eat,eat,eat,VERB,CCSU
 ashleywhite@my.ccsu.edu,walnut,farm,farm,farm,NOUN,CCSU
 tomassantos@my.ccsu.edu,walrus,eat fish,eat,eat,VERB,CCSU
@@ -1988,7 +1971,7 @@ avery.martinez@my.ccsu.edu,weaponry,except maybe pistols for self defence,pistol
 avery.martinez@my.ccsu.edu,weaponry,except maybe pistols for self defence,self,self,NOUN,CCSU
 avery.martinez@my.ccsu.edu,weaponry,literally nothing,literally,literally,ADV,CCSU
 avery.martinez@my.ccsu.edu,weaponry,literally nothing,nothing,nothing,PRON,CCSU
-abeera@my.ccsu.edu,weatherman,befriend,befriend,befriend,VERB,CCSU
+abeera@my.ccsu.edu,weatherman,befriend,befriend,friend,VERB,CCSU
 abeera@my.ccsu.edu,weatherman,knowledge,knowledge,knowledge,NOUN,CCSU
 abeera@my.ccsu.edu,weatherman,marry,marry,marry,VERB,CCSU
 reginaldreginald732@gmail.com,wench,car,car,car,NOUN,CCSU
@@ -1998,8 +1981,8 @@ lanza.m@my.ccsu.edu,wheelbarrow,ride in,ride,ride,VERB,CCSU
 lanza.m@my.ccsu.edu,wheelbarrow,take apart and use for something else ,apart,apart,ADV,CCSU
 lanza.m@my.ccsu.edu,wheelbarrow,take apart and use for something else ,else,else,ADJ,CCSU
 lanza.m@my.ccsu.edu,wheelbarrow,take apart and use for something else ,something,something,PRON,CCSU
-lanza.m@my.ccsu.edu,wheelbarrow,take apart and use for something else ,take,take,VERB,CCSU
-lanza.m@my.ccsu.edu,wheelbarrow,take apart and use for something else ,use,use,VERB,CCSU
+lanza.m@my.ccsu.edu,wheelbarrow,take apart and use for something else ,take,take apart,VERB,CCSU
+lanza.m@my.ccsu.edu,wheelbarrow,take apart and use for something else ,use,use,AUX,CCSU
 a.cannata@my.ccsu.edu,Wheelchair,help mobility,help,help,VERB,CCSU
 a.cannata@my.ccsu.edu,Wheelchair,help mobility,mobility,mobility,NOUN,CCSU
 a.cannata@my.ccsu.edu,Wheelchair,move people around hospital,around,around,ADV,CCSU
@@ -2016,12 +1999,12 @@ a.cannata@my.ccsu.edu,whisker,feel,feel,feel,VERB,CCSU
 a.cannata@my.ccsu.edu,whisker,find,find,find,VERB,CCSU
 a.cannata@my.ccsu.edu,whisker,see,see,see,VERB,CCSU
 jlgatzen@gmail.com,whiskey,used to clean wounds,clean,clean,VERB,CCSU
-jlgatzen@gmail.com,whiskey,used to clean wounds,used,use,VERB,CCSU
+jlgatzen@gmail.com,whiskey,used to clean wounds,used,use,AUX,CCSU
 jlgatzen@gmail.com,whiskey,used to clean wounds,wounds,wound,NOUN,CCSU
-jlgatzen@gmail.com,whiskey,used to cook,cook,cake,VERB,CCSU
-jlgatzen@gmail.com,whiskey,used to cook,used,use,VERB,CCSU
+jlgatzen@gmail.com,whiskey,used to cook,cook,cook,VERB,CCSU
+jlgatzen@gmail.com,whiskey,used to cook,used,use,AUX,CCSU
 jlgatzen@gmail.com,whiskey,used to drink,drink,drink,VERB,CCSU
-jlgatzen@gmail.com,whiskey,used to drink,used,use,VERB,CCSU
+jlgatzen@gmail.com,whiskey,used to drink,used,use,AUX,CCSU
 ariellys.Velazquez@my.ccsu.edu,whistle,blow,blow,blow,VERB,CCSU
 ariellys.Velazquez@my.ccsu.edu,whistle,to call someone ,call,call,NOUN,CCSU
 ariellys.Velazquez@my.ccsu.edu,whistle,to call someone ,someone,someone,PRON,CCSU
@@ -2031,11 +2014,11 @@ alexisburns@my.ccsu.edu,windbreaker,stop the wind,stop,stop,VERB,CCSU
 alexisburns@my.ccsu.edu,windbreaker,stop the wind,wind,wind,NOUN,CCSU
 reginaldreginald732@gmail.com,wineglass,hold alcohol,alcohol,alcohol,NOUN,CCSU
 reginaldreginald732@gmail.com,wineglass,hold alcohol,hold,hold,VERB,CCSU
-ariellys.Velazquez@my.ccsu.edu,wiring,light,light,light,NOUN,CCSU
+ariellys.Velazquez@my.ccsu.edu,wiring,light,light,light,VERB,CCSU
 tomassantos@my.ccsu.edu,workroom,work,work,work,NOUN,CCSU
 s.a.david@my.ccsu.edu,worksheet,bills,bills,bills,NOUN,CCSU
 s.a.david@my.ccsu.edu,worksheet,savings,savings,savings,NOUN,CCSU
-p.radziszewski@my.ccsu.edu,wrestler,get thrown,get,get,VERB,CCSU
+p.radziszewski@my.ccsu.edu,wrestler,get thrown,get,get,AUX,CCSU
 p.radziszewski@my.ccsu.edu,wrestler,get thrown,thrown,throw,VERB,CCSU
 p.radziszewski@my.ccsu.edu,wrestler,throw,throw,throw,VERB,CCSU
 p.radziszewski@my.ccsu.edu,wrestler,wrestle,wrestle,wrestle,VERB,CCSU
@@ -2044,12 +2027,12 @@ briangarrow@my.ccsu.edu,wrist,self-defense,defense,defense,VERB,CCSU
 briangarrow@my.ccsu.edu,wrist,self-defense,self,self,NOUN,CCSU
 briangarrow@my.ccsu.edu,wrist,watch,watch,watch,VERB,CCSU
 ashleywhite@my.ccsu.edu,wristband,fashion,fashion,fashion,NOUN,CCSU
-lanza.m@my.ccsu.edu,xylophone,music,music,music,NOUN,CCSU
+lanza.m@my.ccsu.edu,xylophone,music,music,music,VERB,CCSU
 lanza.m@my.ccsu.edu,xylophone,weapon,weapon,weapon,VERB,CCSU
 lanza.m@my.ccsu.edu,yarn,cat toys,cat,cat,NOUN,CCSU
-lanza.m@my.ccsu.edu,yarn,cat toys,toys,toy,NOUN,CCSU
+lanza.m@my.ccsu.edu,yarn,cat toys,toys,toy,VERB,CCSU
 lanza.m@my.ccsu.edu,yarn,fake hair,fake,fake,ADJ,CCSU
 lanza.m@my.ccsu.edu,yarn,fake hair,hair,hair,NOUN,CCSU
 lanza.m@my.ccsu.edu,yarn,use for knitting,knitting,knitt,VERB,CCSU
-lanza.m@my.ccsu.edu,yarn,use for knitting,use,use,VERB,CCSU
+lanza.m@my.ccsu.edu,yarn,use for knitting,use,use,AUX,CCSU
 ariellys.Velazquez@my.ccsu.edu,zucchini,food,food,food,NOUN,CCSU

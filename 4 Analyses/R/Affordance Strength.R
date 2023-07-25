@@ -6,7 +6,7 @@ library(reshape)
 #read in data
 dat = read.csv("All_responses_FINAL.csv")
 
-dat$CUE = to.lower(dat$CUE)
+dat$CUE = tolower(dat$CUE)
 
 #fix
 dat$CUE[dat$CUE == "ammo"] = "ammunition"
@@ -50,6 +50,7 @@ dat$CUE[dat$CUE == "kids"] = "kid"
 dat$CUE[dat$CUE == "catsup"] = "ketchup"
 dat$CUE[dat$CUE == "kissing"] = "kiss"
 dat$CUE[dat$CUE == "knuckles"] = "knuckle"
+dat$CUE[dat$CUE == "leaves"] = "leaf"
 dat$CUE[dat$CUE == "lilly"] = "lily"
 dat$CUE[dat$CUE == "limes"] = "lime"
 dat$CUE[dat$CUE == "machetes"] = "machete"

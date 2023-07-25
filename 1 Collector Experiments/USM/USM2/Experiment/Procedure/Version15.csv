@@ -1,0 +1,42 @@
+Item,Trial Type,Max Time,Min Time,Text,Procedure Notes,Shuffle
+0,Instruct,-,10,"In this section, you will be presented with a series of objects. Please name as many possible uses for this object as you can think of by typing them in the box below each object.", ,Instruct1
+0,Instruct,-,10,"Please keep in mind that a single object will have more than one use. For example, a ball can be thrown or can be bounced or even stepped on. When listing multiple uses for one object, please separate each use with a comma (i.e., thrown, bounced, stepped on)", ,Instruct2
+0,Instruct,-,-,"Before starting the experiment, you will complete a short practice sesstion. Press ENTER when you are ready to begin.", ,Instruct3
+632,BOI,-,-,, ,n
+633,BOI,-,-,, ,n
+634,BOI,-,-,, ,n
+635,BOI,-,-,, ,n
+636,BOI,-,-,, ,n
+0,Instruct,-,-,You have completed this section. Press ENTER to continue, ,Instruct 5
+0,Instruct,-,-,You will now start the full experiment. Press ENTER when you are ready to begin., ,
+422,BOI,-,-, , ,y
+423,BOI,-,-, , ,y
+424,BOI,-,-, , ,y
+425,BOI,-,-, , ,y
+426,BOI,-,-, , ,y
+427,BOI,-,-, , ,y
+428,BOI,-,-, , ,y
+429,BOI,-,-, , ,y
+430,BOI,-,-, , ,y
+431,BOI,-,-, , ,y
+432,BOI,-,-, , ,y
+433,BOI,-,-, , ,y
+434,BOI,-,-, , ,y
+435,BOI,-,-, , ,y
+436,BOI,-,-, , ,y
+437,BOI,-,-, , ,y
+438,BOI,-,-, , ,y
+439,BOI,-,-, , ,y
+440,BOI,-,-, , ,y
+441,BOI,-,-, , ,y
+442,BOI,-,-, , ,y
+443,BOI,-,-, , ,y
+444,BOI,-,-, , ,y
+445,BOI,-,-, , ,y
+446,BOI,-,-, , ,y
+447,BOI,-,-, , ,y
+448,BOI,-,-, , ,y
+449,BOI,-,-, , ,y
+450,BOI,-,-, , ,y
+451,BOI,-,-, , ,y
+0,Instruct,,,You will now be asked a few questions about your experience today., ,Instruct 4

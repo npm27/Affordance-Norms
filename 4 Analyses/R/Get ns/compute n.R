@@ -60,6 +60,7 @@ dat$Stimuli.Cue[dat$Stimuli.Cue == "kids"] = "kid"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "catsup"] = "ketchup"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "kissing"] = "kiss"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "knuckles"] = "knuckle"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "leaves"] = "leaf"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "lilly"] = "lily"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "limes"] = "lime"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "machetes"] = "machete"
@@ -110,7 +111,7 @@ dat$Stimuli.Cue[dat$Stimuli.Cue == "wounds"] = "wound"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "whisky"] = "whiskey"
 
 ##how many lost from combining?
-110 - 21 #89
+110 - 21 #90
 
 ##words to remove?
 #bathe
@@ -188,9 +189,19 @@ for(i in cuelist){
   temp8 = subset(verb,
                  verb$Stimuli.Cue == i)
   
-  x = length(temp8$Username)
+  count = 0
   
-  temp9 = data.frame(i, x)
+  for (a in unique(temp8$Username)){
+    
+    sub1 = subset(temp8,
+                  temp8$Username == a)
+    
+    xx = length(unique(sub1$affordance_parsed))
+    
+    count = xx + count
+  }
+  
+  temp9 = data.frame(i, count)
   colnames(temp9)[1:2] = c("Cue", "n_all")
   
   temp7 = rbind(temp9, temp7)

@@ -1,3 +1,4 @@
+Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 HenrySoffronoff,accessory,could wear,wear,wear,VERB,Clemson
 HenrySoffronoff,accessory,could give as a gift,give,give,VERB,Clemson
 HenrySoffronoff,accessory,could give as a gift,gift,gift,VERB,Clemson
@@ -297,7 +298,7 @@ BreeReynolds,bathe,to become clean,clean,clean,VERB,Clemson
 BreeReynolds,bathe,to relax,relax,relax,VERB,Clemson
 BreeReynolds,bathe,to pass time,pass,pass,VERB,Clemson
 BreeReynolds,bathe,to pass time,time,time,NOUN,Clemson
-BreeReynolds,bathe,to get warm,get,get,VERB,Clemson
+BreeReynolds,bathe,to get warm,get,get,AUX,Clemson
 BreeReynolds,bathe,to get warm,warm,warm,ADJ,Clemson
 HannahLorch,baton,throw,throw,throw,VERB,Clemson
 HannahLorch,baton,used for entertainment,used,use,AUX,Clemson
@@ -350,7 +351,7 @@ RachelFlor,beach,you can look at the pretty sunrises and sunsets,pretty,pretty,A
 RachelFlor,beach,you can look at the pretty sunrises and sunsets,sunrises,sunrise,NOUN,Clemson
 RachelFlor,beach,you can look at the pretty sunrises and sunsets,sunsets,sunset,NOUN,Clemson
 RachelFlor,beach,you can go to the pier,can,can,AUX,Clemson
-RachelFlor,beach,you can go to the pier,go,go,VERB,Clemson
+RachelFlor,beach,you can go to the pier,go,go,AUX,Clemson
 RachelFlor,beach,you can go to the pier,pier,pier,NOUN,Clemson
 EvelynPage,beef,to make tacos,make,make,VERB,Clemson
 EvelynPage,beef,to make tacos,tacos,taco,NOUN,Clemson
@@ -557,7 +558,7 @@ KeyaniTurner,body,movement,movement,move,VERB,Clemson
 DarianJarrell,bondsman,pay,pay,pay,VERB,Clemson
 MadisonHenry,bong,to smoke weed,smoke,smoke,VERB,Clemson
 MadisonHenry,bong,to smoke weed,weed,we,VERB,Clemson
-MadisonHenry,bong,to get high,get,get,VERB,Clemson
+MadisonHenry,bong,to get high,get,get,AUX,Clemson
 MadisonHenry,bong,to get high,high,high,VERB,Clemson
 MadisonHenry,bong,to hit someone,hit,hit,VERB,Clemson
 MadisonHenry,bong,to hit someone,someone,someone,PRON,Clemson
@@ -648,7 +649,7 @@ HayleyYang,boy,listen,listen,listen,VERB,Clemson
 HayleyYang,boy,pay,pay,pay,VERB,Clemson
 LaylaWheelon,brassiere,wear,wear,wear,VERB,Clemson
 LaylaWheelon,brassiere,not wear,wear,wear,VERB,Clemson
-LaylaWheelon,brassiere,get dirty,get,get,VERB,Clemson
+LaylaWheelon,brassiere,get dirty,get,get,AUX,Clemson
 LaylaWheelon,brassiere,get dirty,dirty,dirty,ADJ,Clemson
 LaylaWheelon,brassiere,clean,clean,clean,VERB,Clemson
 LaylaWheelon,brassiere,leave behind,leave,leave,VERB,Clemson
@@ -792,7 +793,7 @@ ChrisPagano,bystander,argue with,argue,argue,VERB,Clemson
 ChrisPagano,bystander,ask for assistance,ask,ask,VERB,Clemson
 ChrisPagano,bystander,ask for assistance,assistance,assist,VERB,Clemson
 ChrisPagano,bystander,send for help,send,send,VERB,Clemson
-ChrisPagano,bystander,send for help,help,help,VERB,Clemson
+ChrisPagano,bystander,send for help,help,help,AUX,Clemson
 LindseyWaldo,cabbage,eat,eat,eat,VERB,Clemson
 MaddenDudeck,cabbage,eaten,eaten,eat,VERB,Clemson
 MaddenDudeck,cabbage,put in smoothies,put,put,VERB,Clemson
@@ -866,7 +867,7 @@ LydiaHird,cane,pull objects,pull,pull,VERB,Clemson
 LydiaHird,cane,pull objects,objects,object,VERB,Clemson
 LydiaHird,cane,push objects,push,push,VERB,Clemson
 LydiaHird,cane,push objects,objects,object,VERB,Clemson
-Mollyverdell,cane,use to walk,use,use,VERB,Clemson
+Mollyverdell,cane,use to walk,use,use,AUX,Clemson
 Mollyverdell,cane,use to walk,walk,walk,VERB,Clemson
 Mollyverdell,cane,throw,throw,throw,VERB,Clemson
 Mollyverdell,cane,poke,poke,poke,VERB,Clemson
@@ -986,23 +987,23 @@ JusticeBecnel,champagne,drink it,drink,drink,VERB,Clemson
 JusticeBecnel,champagne,pour it,pour,pour,VERB,Clemson
 JusticeBecnel,champagne,chill it,chill,chill,VERB,Clemson
 TaylorKeogh,chapel,to pray,pray,pray,VERB,Clemson
-TaylorKeogh,chapel,to get married,get,get,VERB,Clemson
+TaylorKeogh,chapel,to get married,get,get,AUX,Clemson
 TaylorKeogh,chapel,to get married,married,marry,VERB,Clemson
 TaylorKeogh,chapel,to honor those lost,honor,honor,VERB,Clemson
 TaylorKeogh,chapel,to honor those lost,lost,lose,ADJ,Clemson
 TaylorKeogh,chapel,to find sanctuary,find,find,VERB,Clemson
 TaylorKeogh,chapel,to find sanctuary,sanctuary,sanctuary,ADJ,Clemson
 MadisonHenry,charcoal,to burn,burn,burn,VERB,Clemson
-MadisonHenry,charcoal,to use as industrial fuel,use,use,VERB,Clemson
+MadisonHenry,charcoal,to use as industrial fuel,use,use,AUX,Clemson
 MadisonHenry,charcoal,to use as industrial fuel,industrial,industrial,ADJ,Clemson
 MadisonHenry,charcoal,to use as industrial fuel,fuel,fuel,NOUN,Clemson
 MadisonHenry,charcoal,to put more carbon in the atmosphere,put,put,VERB,Clemson
 MadisonHenry,charcoal,to put more carbon in the atmosphere,carbon,carbon,NOUN,Clemson
 MadisonHenry,charcoal,to put more carbon in the atmosphere,atmosphere,atmosphere,NOUN,Clemson
-MadisonHenry,charcoal,to use in skin care products,use,use,VERB,Clemson
+MadisonHenry,charcoal,to use in skin care products,use,use,AUX,Clemson
 MadisonHenry,charcoal,to use in skin care products,skin,skin care,VERB,Clemson
 MadisonHenry,charcoal,to use in skin care products,products,product,NOUN,Clemson
-MadisonHenry,charcoal,to use as mulch,use,use,VERB,Clemson
+MadisonHenry,charcoal,to use as mulch,use,use,AUX,Clemson
 MadisonHenry,charcoal,to use as mulch,mulch,mulch,VERB,Clemson
 MadisonHenry,charcoal,to draw on something,draw,dree,VERB,Clemson
 MadisonHenry,charcoal,to draw on something,something,something,PRON,Clemson
@@ -1130,7 +1131,7 @@ AshtonRubley,chinaware,nice dishes for nicer occassions,occasions,occasion,NOUN,
 BreeReynolds,chinaware,to decorate,decorate,decorate,VERB,Clemson
 BreeReynolds,chinaware,to collect,collect,collect,VERB,Clemson
 BreeReynolds,chinaware,to eat off of,eat,eat,VERB,Clemson
-BreeReynolds,chinaware,used fo special events/dinners,used,use,VERB,Clemson
+BreeReynolds,chinaware,used fo special events/dinners,used,use,AUX,Clemson
 BreeReynolds,chinaware,used fo special events/dinners,special,special,ADJ,Clemson
 BreeReynolds,chinaware,used fo special events/dinners,events,event,NOUN,Clemson
 BreeReynolds,chinaware,used fo special events/dinners,dinners,dinner,NOUN,Clemson
@@ -1138,7 +1139,7 @@ BreeReynolds,chinaware,to display,display,display,VERB,Clemson
 BreeReynolds,chronograph,record time ,record,record,VERB,Clemson
 BreeReynolds,chronograph,record time ,time,time,NOUN,Clemson
 RachelFlor,clam,you can get a pearl from them,can,can,AUX,Clemson
-RachelFlor,clam,you can get a pearl from them,get,get,VERB,Clemson
+RachelFlor,clam,you can get a pearl from them,get,get,AUX,Clemson
 RachelFlor,clam,you can get a pearl from them,pearl,pearl,NOUN,Clemson
 RachelFlor,clam,you can eat them,can,can,AUX,Clemson
 RachelFlor,clam,you can eat them,eat,eat,VERB,Clemson
@@ -1165,7 +1166,7 @@ LydiaHird,clay,patch repair,patch,patch,VERB,Clemson
 LydiaHird,clay,patch repair,repair,repair,VERB,Clemson
 Mollyverdell,clay,build,build,build,VERB,Clemson
 Mollyverdell,clay,face mask,face,face maks,VERB,Clemson
-Mollyverdell,clay,use for making things,use,use,VERB,Clemson
+Mollyverdell,clay,use for making things,use,use,AUX,Clemson
 Mollyverdell,clay,use for making things,making,make,VERB,Clemson
 Mollyverdell,clay,use for making things,things,thing,NOUN,Clemson
 edwardiannone,cleat,sports,sports,sport,NOUN,Clemson
@@ -1183,13 +1184,13 @@ LaylaWheelon,cleat,take off,take,take,VERB,Clemson
 LaylaWheelon,cleat,put on,put,put,VERB,Clemson
 LaylaWheelon,cleat,store away,store,store,VERB,Clemson
 LaylaWheelon,cleat,store away,away,away,ADV,Clemson
-LaylaWheelon,cleat,get dirty,get,get,VERB,Clemson
+LaylaWheelon,cleat,get dirty,get,get,AUX,Clemson
 LaylaWheelon,cleat,get dirty,dirty,dirty,ADJ,Clemson
 LaylaWheelon,cleat,clean off,clean,clean,VERB,Clemson
 EvelynPage,client,to work with,work,work,VERB,Clemson
 EvelynPage,client,partner with,partner,partner,NOUN,Clemson
 EvelynPage,client,do work for,work,work,VERB,Clemson
-EvelynPage,client,help with research,help,help,VERB,Clemson
+EvelynPage,client,help with research,help,help,AUX,Clemson
 EvelynPage,client,help with research,research,research,VERB,Clemson
 EvelynPage,client,supply with work,supply,supply,NOUN,Clemson
 EvelynPage,client,supply with work,work,work,VERB,Clemson
@@ -1248,7 +1249,7 @@ LilyClark,coal,warming a home,warming,war,NOUN,Clemson
 LilyClark,coal,warming a home,home,home,ADV,Clemson
 LilyClark,coal,cooking food,cooking,cook,VERB,Clemson
 LilyClark,coal,cooking food,food,food,NOUN,Clemson
-LilyClark,coal,used as ingredients in products ,used,use,VERB,Clemson
+LilyClark,coal,used as ingredients in products ,used,use,AUX,Clemson
 LilyClark,coal,used as ingredients in products ,ingredients,ingredient,NOUN,Clemson
 LilyClark,coal,used as ingredients in products ,products,product,NOUN,Clemson
 ChrisPagano,cobweb,avoid,avoid,avoid,VERB,Clemson
@@ -1262,7 +1263,7 @@ JusticeBecnel,cobweb,sweep it,sweep,sweep,VERB,Clemson
 JusticeBecnel,cobweb,hit it,hit,hit,VERB,Clemson
 LilyClark,cocaine,make,make,make,VERB,Clemson
 LilyClark,cocaine,snort,snort,snort,VERB,Clemson
-LilyClark,cocaine,get high,get,get,VERB,Clemson
+LilyClark,cocaine,get high,get,get,AUX,Clemson
 LilyClark,cocaine,get high,high,high,VERB,Clemson
 LilyClark,cocaine,sell,sell,sell,VERB,Clemson
 LilyClark,cocaine,make money,make,make,VERB,Clemson
@@ -1347,10 +1348,10 @@ JosieCicchino,controller,tell people what to do,tell,tell,VERB,Clemson
 JosieCicchino,controller,tell people what to do,people,people,NOUN,Clemson
 LaurenFerrara,controller,play a game,play,play,VERB,Clemson
 LaurenFerrara,controller,play a game,game,game,NOUN,Clemson
-LaurenFerrara,controller,use on a tv,use,use,VERB,Clemson
+LaurenFerrara,controller,use on a tv,use,use,AUX,Clemson
 LaurenFerrara,controller,use on a tv,tv,tv,X,Clemson
 ShilohWyman,cookie,to eat,eat,eat,VERB,Clemson
-ShilohWyman,cookie,to use as treat,use,use,VERB,Clemson
+ShilohWyman,cookie,to use as treat,use,use,AUX,Clemson
 ShilohWyman,cookie,to use as treat,treat,treat,VERB,Clemson
 ShilohWyman,cookie,an award,award,award,NOUN,Clemson
 ShilohWyman,cookie,for parties,parties,party,NOUN,Clemson
@@ -1387,7 +1388,7 @@ DanielBunch,corn,eat it,eat,eat,VERB,Clemson
 DanielBunch,corn,shuck it,shuck,shuck,VERB,Clemson
 DanielBunch,corn,produce it,produce,produce,VERB,Clemson
 DanielBunch,corn,grow it,grow,grow,VERB,Clemson
-DanielBunch,corn,use it in food,use,use,VERB,Clemson
+DanielBunch,corn,use it in food,use,use,AUX,Clemson
 DanielBunch,corn,use it in food,food,food,NOUN,Clemson
 DanielBunch,corn,taste it,taste,taste,VERB,Clemson
 DanielBunch,corn,smell it,smell,smell,VERB,Clemson
@@ -1533,7 +1534,7 @@ AshtonRubley,crystal,engagement,engagement,engagement,NOUN,Clemson
 AshtonRubley,crystal,jewelry,jewelry,jewelry,NOUN,Clemson
 AshtonRubley,crystal,discovering,discovering,discover,VERB,Clemson
 BreeReynolds,crystal,admire,admire,admire,VERB,Clemson
-BreeReynolds,crystal,use,use,use,VERB,Clemson
+BreeReynolds,crystal,use,use,use,AUX,Clemson
 BreeReynolds,crystal,collect,collect,collect,VERB,Clemson
 MeredithMock,cube,rubix,rubix,rubix,SYM,Clemson
 MeredithMock,cube,playing,playing,play,VERB,Clemson
@@ -1574,7 +1575,7 @@ JosieCicchino,daddy,shoulder to cry on,cry,cry,VERB,Clemson
 JosieCicchino,daddy,a name,name,name,NOUN,Clemson
 JosieCicchino,daddy,someone to hug,someone,someone,PRON,Clemson
 JosieCicchino,daddy,someone to hug,hug,hug,VERB,Clemson
-LaurenFerrara,daddy,helps create baby,helps,help,VERB,Clemson
+LaurenFerrara,daddy,helps create baby,helps,help,AUX,Clemson
 LaurenFerrara,daddy,helps create baby,create,create,VERB,Clemson
 LaurenFerrara,daddy,helps create baby,baby,baby,NOUN,Clemson
 LaurenFerrara,daddy,father children,father,father,VERB,Clemson
@@ -1620,7 +1621,7 @@ BreeReynolds,desert,host animals who thrive in dry environments ,animals,animal,
 BreeReynolds,desert,host animals who thrive in dry environments ,thrive,thrive,ADJ,Clemson
 BreeReynolds,desert,host animals who thrive in dry environments ,dry,dry,ADJ,Clemson
 BreeReynolds,desert,host animals who thrive in dry environments ,environments,environment,NOUN,Clemson
-DanielBunch,device,use,use,use,VERB,Clemson
+DanielBunch,device,use,use,use,AUX,Clemson
 DanielBunch,device,ignore,ignore,ignore,VERB,Clemson
 DanielBunch,device,complain about,complain,complain,VERB,Clemson
 DanielBunch,device,break,break,break,NOUN,Clemson
@@ -1636,8 +1637,8 @@ LyndseyBrewer,diaper,hold,hold,hold,VERB,Clemson
 LyndseyBrewer,diaper,carry,carry,carry,VERB,Clemson
 LyndseyBrewer,diaper,smell,smell,smell,VERB,Clemson
 RachelFlor,diaphragm,you can use it to help you breathe,can,can,AUX,Clemson
-RachelFlor,diaphragm,you can use it to help you breathe,use,use,VERB,Clemson
-RachelFlor,diaphragm,you can use it to help you breathe,help,help,VERB,Clemson
+RachelFlor,diaphragm,you can use it to help you breathe,use,use,AUX,Clemson
+RachelFlor,diaphragm,you can use it to help you breathe,help,help,AUX,Clemson
 RachelFlor,diaphragm,you can use it to help you breathe,breathe,breato,VERB,Clemson
 HannahLorch,dice,game playing,game,game,NOUN,Clemson
 HannahLorch,dice,game playing,playing,play,VERB,Clemson
@@ -1653,7 +1654,7 @@ DanielBunch,dirt,house worms,house,house,NOUN,Clemson
 DanielBunch,dirt,house worms,worms,worm,NOUN,Clemson
 DarianJarrell,dirt,dig,dig,dig,VERB,Clemson
 DarianJarrell,dirt,compact,compact,compact,VERB,Clemson
-HayleyYang,dishwasher,use,use,use,VERB,Clemson
+HayleyYang,dishwasher,use,use,use,AUX,Clemson
 HayleyYang,dishwasher,play,play,play,VERB,Clemson
 HayleyYang,dishwasher,watch,watch,watch,VERB,Clemson
 HayleyYang,dishwasher,wash,wash,wash,VERB,Clemson
@@ -1773,7 +1774,7 @@ RachelFlor,drone,you can make night light shows with one,night,night,NOUN,Clemso
 RachelFlor,drone,you can make night light shows with one,light,light,VERB,Clemson
 RachelFlor,drone,you can make night light shows with one,shows,show,NOUN,Clemson
 RachelFlor,drone,you can make night light shows with one,one,one,NUM,Clemson
-EvelynPage,drug,to get high,get,get,VERB,Clemson
+EvelynPage,drug,to get high,get,get,AUX,Clemson
 EvelynPage,drug,to get high,high,high,VERB,Clemson
 EvelynPage,drug,focus,focus,focus,NOUN,Clemson
 EvelynPage,drug,feel less depressed,feel,feel,VERB,Clemson
@@ -1815,7 +1816,7 @@ HannahLorch,dude,eating,eating,eat,VERB,Clemson
 HannahLorch,dude,drinking,drinking,drink,VERB,Clemson
 ChrisPagano,dumbbell,lift,lift,lift,VERB,Clemson
 ChrisPagano,dumbbell,workout with,workout,workout,VERB,Clemson
-ChrisPagano,dumbbell,use as a doorstop,use,use,VERB,Clemson
+ChrisPagano,dumbbell,use as a doorstop,use,use,AUX,Clemson
 ChrisPagano,dumbbell,use as a doorstop,doorstop,doorstop,VERB,Clemson
 ChrisPagano,dumbbell,hit someone with,hit,hit,VERB,Clemson
 ChrisPagano,dumbbell,hit someone with,someone,someone,PRON,Clemson
@@ -1863,7 +1864,7 @@ Mollyverdell,elbow,fracture,fracture,fracture,VERB,Clemson
 HayleyYang,Elevator,transport,transport,transport,VERB,Clemson
 HayleyYang,Elevator,hit the ground,hit,hit,VERB,Clemson
 HayleyYang,Elevator,hit the ground,ground,ground,NOUN,Clemson
-HayleyYang,Elevator,get people inside hurt,get,get,VERB,Clemson
+HayleyYang,Elevator,get people inside hurt,get,get,AUX,Clemson
 HayleyYang,Elevator,get people inside hurt,people,people,NOUN,Clemson
 HayleyYang,Elevator,get people inside hurt,inside,inside,ADV,Clemson
 HayleyYang,Elevator,get people inside hurt,hurt,hurt,VERB,Clemson
@@ -1877,7 +1878,7 @@ HayleyYang,Elevator,take a picture,picture,picture,NOUN,Clemson
 ShilohWyman,enamel,to keep teeth safe,keep,keep,VERB,Clemson
 ShilohWyman,enamel,to keep teeth safe,teeth,tooth,NOUN,Clemson
 ShilohWyman,enamel,to keep teeth safe,safe,safe,ADJ,Clemson
-ShilohWyman,enamel,helps nerves and sensitivity ,helps,help,VERB,Clemson
+ShilohWyman,enamel,helps nerves and sensitivity ,helps,help,AUX,Clemson
 ShilohWyman,enamel,helps nerves and sensitivity ,nerves,nerve,NOUN,Clemson
 ShilohWyman,enamel,helps nerves and sensitivity ,sensitivity,sensitivity,NOUN,Clemson
 MadisonHenry,enemy,to learn from them,learn,learn,VERB,Clemson
@@ -1932,7 +1933,7 @@ LaurenFerrara,eyelid,protection,protection,protect,VERB,Clemson
 LaurenFerrara,eyelid,keeps eyes moist,keeps,keep,VERB,Clemson
 LaurenFerrara,eyelid,keeps eyes moist,eyes,eyes,NOUN,Clemson
 LaurenFerrara,eyelid,keeps eyes moist,moist,moist,NOUN,Clemson
-LindseyWaldo,eyepiece,help you see,help,help,VERB,Clemson
+LindseyWaldo,eyepiece,help you see,help,help,AUX,Clemson
 LindseyWaldo,eyepiece,help you see,see,see,VERB,Clemson
 LindseyWaldo,eyepiece,wear as an accessory,wear,wear,VERB,Clemson
 LindseyWaldo,eyepiece,wear as an accessory,accessory,accesorize,VERB,Clemson
@@ -1946,7 +1947,7 @@ BreeReynolds,family,compassion and care,care,care,VERB,Clemson
 BreeReynolds,family,learn lessons,learn,learn,VERB,Clemson
 BreeReynolds,family,learn lessons,lessons,lesson,NOUN,Clemson
 BreeReynolds,family,ask for help,ask,ask,VERB,Clemson
-BreeReynolds,family,ask for help,help,help,VERB,Clemson
+BreeReynolds,family,ask for help,help,help,AUX,Clemson
 BreeReynolds,family,visit,visit,visit,VERB,Clemson
 ShakiraEllerbe,fastener,tighten,tighten,tighten,VERB,Clemson
 ShakiraEllerbe,fastener,screws,screws,screw,VERB,Clemson
@@ -1978,7 +1979,7 @@ MadisonHenry,fir,to make a wreath from the leaves,leaves,leave,VERB,Clemson
 MadisonHenry,fir,to make a door from the wood,make,make,VERB,Clemson
 MadisonHenry,fir,to make a door from the wood,door,door,NOUN,Clemson
 MadisonHenry,fir,to make a door from the wood,wood,wood,NOUN,Clemson
-MadisonHenry,fir,to get lumber,get,get,VERB,Clemson
+MadisonHenry,fir,to get lumber,get,get,AUX,Clemson
 MadisonHenry,fir,to get lumber,lumber,lumber,NOUN,Clemson
 MadisonHenry,fir,to block the view of the road from a house,block,block,VERB,Clemson
 MadisonHenry,fir,to block the view of the road from a house,view,view,VERB,Clemson
@@ -2018,7 +2019,7 @@ LaylaWheelon,flannels,forgotten,forgotten,forget,VERB,Clemson
 LaylaWheelon,flannels,buttoned,buttoned,button,VERB,Clemson
 LaylaWheelon,flannels,unbottoned,unbuttoned,unbutton,VERB,Clemson
 LaylaWheelon,flannels,passed over,passed,pass,VERB,Clemson
-LaylaWheelon,flannels,used as hood,used,use,VERB,Clemson
+LaylaWheelon,flannels,used as hood,used,use,AUX,Clemson
 LaylaWheelon,flannels,used as hood,hood,hood,VERB,Clemson
 LaylaWheelon,flannels,given as gift,given,give,VERB,Clemson
 LaylaWheelon,flannels,given as gift,gift,gift,VERB,Clemson
@@ -2038,7 +2039,7 @@ HaleighPressley,flapjack,freeze,freeze,freeze,VERB,Clemson
 HaleighPressley,flapjack,buy,buy,buy,VERB,Clemson
 DanielBunch,flatiron,play golf,play,play,VERB,Clemson
 DanielBunch,flatiron,play golf,golf,golf,VERB,Clemson
-DanielBunch,flatiron,use it as a weapon,use,use,VERB,Clemson
+DanielBunch,flatiron,use it as a weapon,use,use,AUX,Clemson
 DanielBunch,flatiron,use it as a weapon,weapon,weapon,VERB,Clemson
 MeredithMock,fleece,warmth,warmth,warm,VERB,Clemson
 MeredithMock,fleece,comfort,comfort,comfort,VERB,Clemson
@@ -2071,7 +2072,7 @@ ChrisPagano,flower,purchase,purchase,purchase,VERB,Clemson
 ChrisPagano,flower,plant,plant,plant,VERB,Clemson
 ChrisPagano,flower,put in a vase,put,put,VERB,Clemson
 ChrisPagano,flower,put in a vase,vase,vase,NOUN,Clemson
-ChrisPagano,flower,use as subject of drawing or painting,use,use,VERB,Clemson
+ChrisPagano,flower,use as subject of drawing or painting,use,use,AUX,Clemson
 ChrisPagano,flower,use as subject of drawing or painting,subject,subject,NOUN,Clemson
 ChrisPagano,flower,use as subject of drawing or painting,drawing,draw,VERB,Clemson
 ChrisPagano,flower,use as subject of drawing or painting,painting,paint,VERB,Clemson
@@ -2093,9 +2094,9 @@ DanielBunch,flowerpot,take care of,take,take,VERB,Clemson
 DanielBunch,flowerpot,take care of,care,care,VERB,Clemson
 DarianJarrell,flowerpot,plant,plant,plant,VERB,Clemson
 DarianJarrell,flowerpot,break,break,break,VERB,Clemson
-BreeReynolds,footballer,used for entertainment,used,use,VERB,Clemson
+BreeReynolds,footballer,used for entertainment,used,use,AUX,Clemson
 BreeReynolds,footballer,used for entertainment,entertainment,entertain,VERB,Clemson
-BreeReynolds,footballer,used for exercise ,used,use,VERB,Clemson
+BreeReynolds,footballer,used for exercise ,used,use,AUX,Clemson
 BreeReynolds,footballer,used for exercise ,exercise,exercise,VERB,Clemson
 ShakiraEllerbe,footplate,firemen,firemen,fireman,INTJ,Clemson
 ShakiraEllerbe,footplate,train,train,train,NOUN,Clemson
@@ -2104,7 +2105,7 @@ TaylorKeogh,frame,to house a photo,house,house,VERB,Clemson
 TaylorKeogh,frame,to house a photo,photo,photo,NOUN,Clemson
 TaylorKeogh,frame,to display,display,display,VERB,Clemson
 LaurenGiordano,frog,hop,hop,hop,VERB,Clemson
-LaurenGiordano,frog,get rid of flies,get,get,VERB,Clemson
+LaurenGiordano,frog,get rid of flies,get,get,AUX,Clemson
 LaurenGiordano,frog,get rid of flies,rid,rid,VERB,Clemson
 LaurenGiordano,frog,get rid of flies,flies,flie,VERB,Clemson
 LaurenGiordano,frog,ribbit,ribbit,ribbit,VERB,Clemson
@@ -2125,7 +2126,7 @@ JusticeBecnel,fungus,eat it,eat,eat,VERB,Clemson
 JusticeBecnel,fungus,study it,study,study,VERB,Clemson
 JusticeBecnel,fungus,clean it,clean,clean,VERB,Clemson
 JusticeBecnel,fungus,cut it,cut,cut,VERB,Clemson
-JosieCicchino,funnel,get liquid in a container,get,get,VERB,Clemson
+JosieCicchino,funnel,get liquid in a container,get,get,AUX,Clemson
 JosieCicchino,funnel,get liquid in a container,liquid,liquid,AUX,Clemson
 JosieCicchino,funnel,get liquid in a container,container,container,NOUN,Clemson
 JosieCicchino,funnel,play with sand,play,play,VERB,Clemson
@@ -2135,16 +2136,16 @@ LaurenFerrara,funnel,pour things into other containers,things,thing,NOUN,Clemson
 LaurenFerrara,funnel,pour things into other containers,containers,container,NOUN,Clemson
 LaurenFerrara,funnel,art supplies ,art,art,NOUN,Clemson
 LaurenFerrara,funnel,art supplies ,supplies,supplies,NOUN,Clemson
-DanielBunch,furnace,use for cooking,use,use,VERB,Clemson
+DanielBunch,furnace,use for cooking,use,use,AUX,Clemson
 DanielBunch,furnace,use for cooking,cooking,cook,VERB,Clemson
-DanielBunch,furnace,use for smelting,use,use,VERB,Clemson
+DanielBunch,furnace,use for smelting,use,use,AUX,Clemson
 DanielBunch,furnace,use for smelting,smelting,smelt,VERB,Clemson
-DanielBunch,furnace,use for warmth,use,use,VERB,Clemson
+DanielBunch,furnace,use for warmth,use,use,AUX,Clemson
 DanielBunch,furnace,use for warmth,warmth,warm,VERB,Clemson
 DarianJarrell,furnace,light,light,light,NOUN,Clemson
-LaurenGiordano,gangster,get drugs,get,get,VERB,Clemson
+LaurenGiordano,gangster,get drugs,get,get,AUX,Clemson
 LaurenGiordano,gangster,get drugs,drugs,drug,NOUN,Clemson
-LaurenGiordano,gangster,get money,get,get,VERB,Clemson
+LaurenGiordano,gangster,get money,get,get,AUX,Clemson
 LaurenGiordano,gangster,get money,money,money,NOUN,Clemson
 LaurenGiordano,gangster,murder,murder,murder,VERB,Clemson
 HaleighPressley,garage,store,store,store,VERB,Clemson
@@ -2163,7 +2164,7 @@ LilyClark,genital,bodily functions,functions,function,VERB,Clemson
 LilyClark,genital,sex,sex,sex,VERB,Clemson
 LilyClark,genital,reproduce,reproduce,reproduce,VERB,Clemson
 MadisonHenry,giblets,to eat,eat,eat,VERB,Clemson
-MadisonHenry,giblets,use as ingredient in gravy,use,use,VERB,Clemson
+MadisonHenry,giblets,use as ingredient in gravy,use,use,AUX,Clemson
 MadisonHenry,giblets,use as ingredient in gravy,ingredient,ingredient,NOUN,Clemson
 MadisonHenry,giblets,use as ingredient in gravy,gravy,gravy,NOUN,Clemson
 MadisonHenry,giblets,to feed farm life,feed,feed,VERB,Clemson
@@ -2183,9 +2184,9 @@ AshtonRubley,ginger,put in smoothies or sushi,put,put,VERB,Clemson
 AshtonRubley,ginger,put in smoothies or sushi,smoothies,smoothie,NOUN,Clemson
 AshtonRubley,ginger,put in smoothies or sushi,sushi,sushi,NOUN,Clemson
 BreeReynolds,ginger,to cook,cook,cake,VERB,Clemson
-BreeReynolds,ginger,used for health,used,use,VERB,Clemson
+BreeReynolds,ginger,used for health,used,use,AUX,Clemson
 BreeReynolds,ginger,used for health,health,health,NOUN,Clemson
-BreeReynolds,ginger,used for scents,used,use,VERB,Clemson
+BreeReynolds,ginger,used for scents,used,use,AUX,Clemson
 BreeReynolds,ginger,used for scents,scents,scent,NOUN,Clemson
 TaylorKeogh,gingersnap,to eat,eat,eat,VERB,Clemson
 TaylorKeogh,gingersnap,to make,make,make,VERB,Clemson
@@ -2257,8 +2258,8 @@ LaylaWheelon,granddaughter,like,like,like,VERB,Clemson
 LaylaWheelon,granddaughter,hate,hate,hate,VERB,Clemson
 LaylaWheelon,granddaughter,ignore,ignore,ignore,VERB,Clemson
 LaylaWheelon,granddaughter,hug,hug,hug,VERB,Clemson
-LaylaWheelon,granddaughter,get help from,get,get,VERB,Clemson
-LaylaWheelon,granddaughter,get help from,help,help,VERB,Clemson
+LaylaWheelon,granddaughter,get help from,get,get,AUX,Clemson
+LaylaWheelon,granddaughter,get help from,help,help,AUX,Clemson
 LaylaWheelon,granddaughter,help,help,help,VERB,Clemson
 LaylaWheelon,granddaughter,drive to,drive,drive,VERB,Clemson
 AllieBorcherts,grandma,cookies,cookies,cookie,NOUN,Clemson
@@ -2275,7 +2276,7 @@ JosieCicchino,grandniece,do the dishes,dishes,dish,NOUN,Clemson
 LaurenFerrara,grandniece,emotional support,emotional,emotional,ADJ,Clemson
 LaurenFerrara,grandniece,emotional support,support,support,VERB,Clemson
 HannahLorch,grape,eat,eat,eat,VERB,Clemson
-HannahLorch,grape,use for a painting,use,use,VERB,Clemson
+HannahLorch,grape,use for a painting,use,use,AUX,Clemson
 HannahLorch,grape,use for a painting,painting,paint,VERB,Clemson
 HannahLorch,grape,throw ,throw,throw,VERB,Clemson
 JosieCicchino,grapevine,grow grapes,grow,grow,VERB,Clemson
@@ -2370,13 +2371,13 @@ LaylaWheelon,hairpin,leave behind,leave,leave,VERB,Clemson
 LaylaWheelon,hairpin,leave behind,behind,behind,ADP,Clemson
 LaylaWheelon,hairpin,drop,drop,drop,VERB,Clemson
 LaylaWheelon,hairpin,find,find,find,VERB,Clemson
-LaylaWheelon,hairpin,use to clip other items (like chip bags),use,use,VERB,Clemson
+LaylaWheelon,hairpin,use to clip other items (like chip bags),use,use,AUX,Clemson
 LaylaWheelon,hairpin,use to clip other items (like chip bags),clip,clip,VERB,Clemson
 LaylaWheelon,hairpin,use to clip other items (like chip bags),items,item,NOUN,Clemson
 LaylaWheelon,hairpin,use to clip other items (like chip bags),like,like,VERB,Clemson
 LaylaWheelon,hairpin,use to clip other items (like chip bags),chip,chip,NOUN,Clemson
 LaylaWheelon,hairpin,use to clip other items (like chip bags),bags,bag,NOUN,Clemson
-LaylaWheelon,hairpin,use to slice open box,use,use,VERB,Clemson
+LaylaWheelon,hairpin,use to slice open box,use,use,AUX,Clemson
 LaylaWheelon,hairpin,use to slice open box,slice,slice,VERB,Clemson
 LaylaWheelon,hairpin,use to slice open box,open,open,VERB,Clemson
 LaylaWheelon,hairpin,use to slice open box,box,box,NOUN,Clemson
@@ -2388,7 +2389,7 @@ edwardiannone,hamstring,stretch ,stretch,stretch,VERB,Clemson
 LaylaWheelon,hamstring,stretch,stretch,stretch,VERB,Clemson
 LaylaWheelon,hamstring,strain,strain,strain,VERB,Clemson
 LaylaWheelon,hamstring,tear,tear,tear,VERB,Clemson
-LaylaWheelon,hamstring,target,target,target,VERB,Clemson
+LaylaWheelon,hamstring,target,target,target,AUX,Clemson
 LaylaWheelon,hamstring,utilize,utilize,utilize,VERB,Clemson
 TaylorKeogh,handbook,to read,read,read,VERB,Clemson
 TaylorKeogh,handbook,to gain insight,gain,gain,VERB,Clemson
@@ -2403,15 +2404,15 @@ HenrySoffronoff,handsaw,could saw a person in a horror movie,saw,see,VERB,Clemso
 HenrySoffronoff,handsaw,could saw a person in a horror movie,person,person,NOUN,Clemson
 HenrySoffronoff,handsaw,could saw a person in a horror movie,horror,horror,NOUN,Clemson
 HenrySoffronoff,handsaw,could saw a person in a horror movie,movie,movie,NOUN,Clemson
-HenrySoffronoff,handsaw,could use two people,use,use,VERB,Clemson
+HenrySoffronoff,handsaw,could use two people,use,use,AUX,Clemson
 HenrySoffronoff,handsaw,could use two people,two,two,NUM,Clemson
 HenrySoffronoff,handsaw,could use two people,people,people,NOUN,Clemson
-HenrySoffronoff,handsaw,could use one person,use,use,VERB,Clemson
+HenrySoffronoff,handsaw,could use one person,use,use,AUX,Clemson
 HenrySoffronoff,handsaw,could use one person,one,one,NUM,Clemson
 HenrySoffronoff,handsaw,could use one person,person,person,NOUN,Clemson
 HenrySoffronoff,handsaw,could cut branches,cut,cut,VERB,Clemson
 HenrySoffronoff,handsaw,could cut branches,branches,branch,NOUN,Clemson
-MaggieDankert,handsaw,use,use,use,VERB,Clemson
+MaggieDankert,handsaw,use,use,use,AUX,Clemson
 MaggieDankert,handsaw,cut things,cut,cut,VERB,Clemson
 MaggieDankert,handsaw,cut things,things,thing,NOUN,Clemson
 MaggieDankert,handsaw,wield,wield,wield,VERB,Clemson
@@ -2440,7 +2441,7 @@ MadisonHenry,harp,to create calluses on your hands,calluses,calluse,NOUN,Clemson
 MadisonHenry,harp,to create calluses on your hands,hands,hand,NOUN,Clemson
 AshtonRubley,harvest,foods,foods,food,NOUN,Clemson
 AshtonRubley,harvest,farming,farming,farm,VERB,Clemson
-BreeReynolds,harvest,used as a seperation o time during fall,used,use,VERB,Clemson
+BreeReynolds,harvest,used as a seperation o time during fall,used,use,AUX,Clemson
 BreeReynolds,harvest,used as a seperation o time during fall,separation,separation,NOUN,Clemson
 BreeReynolds,harvest,used as a seperation o time during fall,o,of,ADP,Clemson
 BreeReynolds,harvest,used as a seperation o time during fall,time,time,NOUN,Clemson
@@ -2522,7 +2523,7 @@ MadisonHenry,hibiscus,to dry and frame,dry,dry,VERB,Clemson
 MadisonHenry,hibiscus,to dry and frame,frame,frame,NOUN,Clemson
 MadisonHenry,hibiscus,to feed to a turtle,feed,feed,VERB,Clemson
 MadisonHenry,hibiscus,to feed to a turtle,turtle,turtle,NOUN,Clemson
-MadisonHenry,hibiscus,to use as a muse for a painting,use,use,VERB,Clemson
+MadisonHenry,hibiscus,to use as a muse for a painting,use,use,AUX,Clemson
 MadisonHenry,hibiscus,to use as a muse for a painting,muse,muse,NOUN,Clemson
 MadisonHenry,hibiscus,to use as a muse for a painting,painting,paint,VERB,Clemson
 MadisonHenry,hibiscus,to step on,step,step on,VERB,Clemson
@@ -2566,7 +2567,7 @@ HenrySoffronoff,horsewhip,sharing with a friend,friend,friend,NOUN,Clemson
 HenrySoffronoff,horsewhip,whipping another person,whipping,whip,VERB,Clemson
 HenrySoffronoff,horsewhip,whipping another person,another,another,DET,Clemson
 HenrySoffronoff,horsewhip,whipping another person,person,person,NOUN,Clemson
-MaggieDankert,horsewhip,use,use,use,VERB,Clemson
+MaggieDankert,horsewhip,use,use,use,AUX,Clemson
 MaggieDankert,horsewhip,whip,whip,whip,VERB,Clemson
 MaggieDankert,horsewhip,wield,wield,wield,VERB,Clemson
 MaggieDankert,horsewhip,lash,lash,lash,VERB,Clemson
@@ -2581,7 +2582,7 @@ ChrisPagano,hourglass,give as gift,give,give,VERB,Clemson
 ChrisPagano,hourglass,give as gift,gift,gift,VERB,Clemson
 ChrisPagano,hourglass,purchase,purchase,purchase,VERB,Clemson
 ChrisPagano,hourglass,throw,throw,throw,VERB,Clemson
-ChrisPagano,hourglass,use in a game,use,use,VERB,Clemson
+ChrisPagano,hourglass,use in a game,use,use,AUX,Clemson
 ChrisPagano,hourglass,use in a game,game,game,NOUN,Clemson
 JusticeBecnel,hourglass,tell time with it,tell,tell,VERB,Clemson
 JusticeBecnel,hourglass,tell time with it,time,time,NOUN,Clemson
@@ -2648,7 +2649,7 @@ AllieBorcherts,investigator,solve things,things,thing,NOUN,Clemson
 AllieBorcherts,investigator,inform people on findings,inform,inform,VERB,Clemson
 AllieBorcherts,investigator,inform people on findings,people,people,NOUN,Clemson
 AllieBorcherts,investigator,inform people on findings,findings,find,VERB,Clemson
-AllieBorcherts,investigator,used to find details,used,use,VERB,Clemson
+AllieBorcherts,investigator,used to find details,used,use,AUX,Clemson
 AllieBorcherts,investigator,used to find details,find,find,VERB,Clemson
 AllieBorcherts,investigator,used to find details,details,detail,VERB,Clemson
 TaylorKeogh,jacket,to keep warm,keep,keep,VERB,Clemson
@@ -2663,8 +2664,8 @@ HaleighPressley,jam,sell,sell,sell,VERB,Clemson
 LilyClark,jean,wear,wear,wear,VERB,Clemson
 LilyClark,jean,create art,create,create,VERB,Clemson
 LilyClark,jean,create art,art,art,NOUN,Clemson
-SanaaGreene,jogger,help get inspiration,help,help,VERB,Clemson
-SanaaGreene,jogger,help get inspiration,get,get,VERB,Clemson
+SanaaGreene,jogger,help get inspiration,help,help,AUX,Clemson
+SanaaGreene,jogger,help get inspiration,get,get,AUX,Clemson
 SanaaGreene,jogger,help get inspiration,inspiration,inspire,VERB,Clemson
 KennaZeitz,joint,roll it,roll,roll,VERB,Clemson
 KennaZeitz,joint,smoke it,smoke,smoke,VERB,Clemson
@@ -2855,7 +2856,7 @@ LilyClark,lip,eating,eating,eat,VERB,Clemson
 LilyClark,lip,sucking,sucking,suck,VERB,Clemson
 LilyClark,lip,applying makeup,applying,apply,VERB,Clemson
 LilyClark,lip,applying makeup,makeup,makeup,NOUN,Clemson
-LilyClark,lip,used in singing,used,use,VERB,Clemson
+LilyClark,lip,used in singing,used,use,AUX,Clemson
 LilyClark,lip,used in singing,singing,singe,VERB,Clemson
 SanaaGreene,liqueur,drink,drink,drink,VERB,Clemson
 SanaaGreene,liqueur,cook with,cook,cake,VERB,Clemson
@@ -2892,7 +2893,7 @@ HenrySoffronoff,locker,putting away backpack,backpack,backpack,NOUN,Clemson
 HenrySoffronoff,locker,putting away books,putting,put,VERB,Clemson
 HenrySoffronoff,locker,putting away books,away,away,ADV,Clemson
 HenrySoffronoff,locker,putting away books,books,book,NOUN,Clemson
-MaggieDankert,locker,use,use,use,VERB,Clemson
+MaggieDankert,locker,use,use,use,AUX,Clemson
 MaggieDankert,locker,store books,store,store,VERB,Clemson
 MaggieDankert,locker,store books,books,book,NOUN,Clemson
 LyndseyBrewer,lodge,stay in,stay,stay,VERB,Clemson
@@ -2924,7 +2925,7 @@ ChrisPagano,mall,walk around in,around,around,ADV,Clemson
 ChrisPagano,mall,eat in,eat,eat,VERB,Clemson
 ChrisPagano,mall,kill time in,kill,kill,VERB,Clemson
 ChrisPagano,mall,kill time in,time,time,NOUN,Clemson
-ChrisPagano,mall,get lost in,get,get,VERB,Clemson
+ChrisPagano,mall,get lost in,get,get,AUX,Clemson
 ChrisPagano,mall,get lost in,lost,lose,VERB,Clemson
 JusticeBecnel,mall,buy from it,buy,buy,VERB,Clemson
 ChrisPagano,man,talk to,talk,talk,VERB,Clemson
@@ -2944,7 +2945,7 @@ JusticeBecnel,man,talk to it,talk,talk,VERB,Clemson
 JusticeBecnel,man,touch it,touch,touch,VERB,Clemson
 JusticeBecnel,man,listen to it,listen,listen,VERB,Clemson
 KennaZeitz,map,fold,fold,fold,VERB,Clemson
-KennaZeitz,map,get directions from it,get,get,VERB,Clemson
+KennaZeitz,map,get directions from it,get,get,AUX,Clemson
 KennaZeitz,map,get directions from it,directions,direction,NOUN,Clemson
 KennaZeitz,map,hold it,hold,hold,VERB,Clemson
 KennaZeitz,map,write on it,write,write,VERB,Clemson
@@ -2968,7 +2969,7 @@ ChrisPagano,mayonnaise,throw away,throw,throw,VERB,Clemson
 ChrisPagano,mayonnaise,throw away,away,away,ADV,Clemson
 ChrisPagano,mayonnaise,make a sandwich with,make,make,VERB,Clemson
 ChrisPagano,mayonnaise,make a sandwich with,sandwich,sandwich,NOUN,Clemson
-ChrisPagano,mayonnaise,use in a spelling bee ,use,use,VERB,Clemson
+ChrisPagano,mayonnaise,use in a spelling bee ,use,use,AUX,Clemson
 ChrisPagano,mayonnaise,use in a spelling bee ,spelling,spell,VERB,Clemson
 ChrisPagano,mayonnaise,use in a spelling bee ,spelling bee,spelling bee,NOUN,Clemson
 JusticeBecnel,mayonnaise,eat it,eat,eat,VERB,Clemson
@@ -2983,7 +2984,7 @@ LydiaHird,mayor,public speaking,public,public,ADJ,Clemson
 LydiaHird,mayor,public speaking,speaking,speak,VERB,Clemson
 LydiaHird,mayor,influencing,influencing,influence,VERB,Clemson
 Mollyverdell,mayor,vote for,vote,vote,VERB,Clemson
-JosieCicchino,medic,help people,help,help,VERB,Clemson
+JosieCicchino,medic,help people,help,help,AUX,Clemson
 JosieCicchino,medic,help people,people,people,NOUN,Clemson
 JosieCicchino,medic,put bandages on,put,put,VERB,Clemson
 JosieCicchino,medic,put bandages on,bandages,bandage,NOUN,Clemson
@@ -2994,12 +2995,12 @@ JosieCicchino,medic,save lives,save,save,VERB,Clemson
 JosieCicchino,medic,save lives,lives,life,NOUN,Clemson
 LaurenFerrara,medic,save your life,save,save,VERB,Clemson
 LaurenFerrara,medic,save your life,life,life,NOUN,Clemson
-LaurenFerrara,medic,help with injuries,help,help,VERB,Clemson
+LaurenFerrara,medic,help with injuries,help,help,AUX,Clemson
 LaurenFerrara,medic,help with injuries,injuries,injury,NOUN,Clemson
-LindseyWaldo,medication,use to feel better,use,use,VERB,Clemson
+LindseyWaldo,medication,use to feel better,use,use,AUX,Clemson
 LindseyWaldo,medication,use to feel better,feel,feel,VERB,Clemson
 LindseyWaldo,medication,use to feel better,better,better,ADJ,Clemson
-LindseyWaldo,medication,use to change something about yourself,use,use,VERB,Clemson
+LindseyWaldo,medication,use to change something about yourself,use,use,AUX,Clemson
 LindseyWaldo,medication,use to change something about yourself,change,change,VERB,Clemson
 LindseyWaldo,medication,use to change something about yourself,something,something,PRON,Clemson
 MaddenDudeck,medication,lower mental issues,lower,lower,VERB,Clemson
@@ -3312,7 +3313,7 @@ HayleyYang,packaging,clean,clean,clean,VERB,Clemson
 HayleyYang,packaging,wash,wash,wash,VERB,Clemson
 HayleyYang,packaging,decorate,decorate,decorate,VERB,Clemson
 HayleyYang,packaging,as a decoration,decoration,decorate,VERB,Clemson
-HayleyYang,packaging,use,use,use,VERB,Clemson
+HayleyYang,packaging,use,use,use,AUX,Clemson
 HayleyYang,packaging,open,open,open,VERB,Clemson
 HayleyYang,packaging,close,close,close,VERB,Clemson
 HayleyYang,packaging,seal,seal,seal,VERB,Clemson
@@ -3385,10 +3386,10 @@ MaddenDudeck,paprika,seasoning,seasoning,season,VERB,Clemson
 MaddenDudeck,paprika,cure illnesses,cure,cure,NOUN,Clemson
 MaddenDudeck,paprika,cure illnesses,illnesses,illness,NOUN,Clemson
 RachelFlor,parachute,you can use it when skydiving,can,can,AUX,Clemson
-RachelFlor,parachute,you can use it when skydiving,use,use,VERB,Clemson
+RachelFlor,parachute,you can use it when skydiving,use,use,AUX,Clemson
 RachelFlor,parachute,you can use it when skydiving,skydiving,skydive,VERB,Clemson
 RachelFlor,parachute,you can use it to stay safe in a plane,can,can,AUX,Clemson
-RachelFlor,parachute,you can use it to stay safe in a plane,use,use,VERB,Clemson
+RachelFlor,parachute,you can use it to stay safe in a plane,use,use,AUX,Clemson
 RachelFlor,parachute,you can use it to stay safe in a plane,stay,stay,VERB,Clemson
 RachelFlor,parachute,you can use it to stay safe in a plane,safe,safe,ADJ,Clemson
 RachelFlor,parachute,you can use it to stay safe in a plane,plane,plane,NOUN,Clemson
@@ -3484,7 +3485,7 @@ RachelFlor,peephole,looking through it,looking,look,VERB,Clemson
 RachelFlor,peephole,hearing through it,hearing,hear,VERB,Clemson
 RachelFlor,peephole,putting a pipe through it,putting,put,VERB,Clemson
 RachelFlor,peephole,putting a pipe through it,pipe,pipe,NOUN,Clemson
-RachelFlor,peephole,used to see when visitors are outside your door,used,use,VERB,Clemson
+RachelFlor,peephole,used to see when visitors are outside your door,used,use,AUX,Clemson
 RachelFlor,peephole,used to see when visitors are outside your door,see,see,VERB,Clemson
 RachelFlor,peephole,used to see when visitors are outside your door,visitors,visitor,NOUN,Clemson
 RachelFlor,peephole,used to see when visitors are outside your door,outside,outside,ADV,Clemson
@@ -3499,7 +3500,7 @@ JosieCicchino,people,hide in a crowd,hide,hide,VERB,Clemson
 JosieCicchino,people,hide in a crowd,crowd,crowd,NOUN,Clemson
 JosieCicchino,people,a shield,shield,shield,VERB,Clemson
 JosieCicchino,people,entertainment,entertainment,entertain,VERB,Clemson
-JosieCicchino,people,use as models,use,use,VERB,Clemson
+JosieCicchino,people,use as models,use,use,AUX,Clemson
 JosieCicchino,people,use as models,models,models,NOUN,Clemson
 LaurenFerrara,people,group activities,group,group,NOUN,Clemson
 LaurenFerrara,people,group activities,activities,activity,NOUN,Clemson
@@ -3515,11 +3516,11 @@ JosieCicchino,person,smile at them,smile,smile,VERB,Clemson
 JosieCicchino,person,high five them,high,high,VERB,Clemson
 JosieCicchino,person,high five them,five,five,NUM,Clemson
 JosieCicchino,person,laugh with them,laugh,laugh,VERB,Clemson
-JosieCicchino,person,use them as a shield,use,use,VERB,Clemson
+JosieCicchino,person,use them as a shield,use,use,AUX,Clemson
 JosieCicchino,person,use them as a shield,shield,shield,VERB,Clemson
 JosieCicchino,person,hid behind them,hid,hide,VERB,Clemson
 JosieCicchino,person,hid behind them,behind,behind,ADP,Clemson
-LaurenFerrara,person,help with things,help,help,VERB,Clemson
+LaurenFerrara,person,help with things,help,help,AUX,Clemson
 LaurenFerrara,person,help with things,things,thing,NOUN,Clemson
 LaurenFerrara,person,emotional support,emotional,emotional,ADJ,Clemson
 LaurenFerrara,person,emotional support,support,support,VERB,Clemson
@@ -3536,15 +3537,15 @@ KeyaniTurner,phalanges,fingers,fingers,finger,NOUN,Clemson
 IsabellaGualtiere,pharmacist,works,works,work,VERB,Clemson
 IsabellaGualtiere,pharmacist,studies,studies,study,VERB,Clemson
 IsabellaGualtiere,pharmacist,researches,researches,research,VERB,Clemson
-SanaaGreene,pharmacist,get medicine from,get,get,VERB,Clemson
+SanaaGreene,pharmacist,get medicine from,get,get,AUX,Clemson
 SanaaGreene,pharmacist,get medicine from,medicine,medicine,NOUN,Clemson
 SanaaGreene,pharmacist,ask questions to,ask,ask,VERB,Clemson
 SanaaGreene,pharmacist,ask questions to,questions,question,NOUN,Clemson
-AshtonRubley,physician,getting diagnosed,getting,get,VERB,Clemson
+AshtonRubley,physician,getting diagnosed,getting,get,AUX,Clemson
 AshtonRubley,physician,getting diagnosed,diagnosed,diagnose,VERB,Clemson
 AshtonRubley,physician,doctor,doctor,doctor,NOUN,Clemson
-AshtonRubley,physician,getting help,getting,get,VERB,Clemson
-AshtonRubley,physician,getting help,help,help,VERB,Clemson
+AshtonRubley,physician,getting help,getting,get,AUX,Clemson
+AshtonRubley,physician,getting help,help,help,AUX,Clemson
 BreeReynolds,physician,healthcare needs,healthcare,healthcare,NOUN,Clemson
 BreeReynolds,physician,healthcare needs,needs,need,NOUN,Clemson
 BreeReynolds,physician,medical advice,medical,medical,ADJ,Clemson
@@ -3577,7 +3578,7 @@ HenrySoffronoff,pickle,could take it from a pickle bar,bar,bar,NOUN,Clemson
 HenrySoffronoff,pickle,could smash a pickle jar to get one,smash,smash,VERB,Clemson
 HenrySoffronoff,pickle,could smash a pickle jar to get one,pickle,pickle,NOUN,Clemson
 HenrySoffronoff,pickle,could smash a pickle jar to get one,jar,jar,NOUN,Clemson
-HenrySoffronoff,pickle,could smash a pickle jar to get one,get,get,VERB,Clemson
+HenrySoffronoff,pickle,could smash a pickle jar to get one,get,get,AUX,Clemson
 HenrySoffronoff,pickle,could smash a pickle jar to get one,one,one,NUM,Clemson
 MaggieDankert,pickle,eat,eat,eat,VERB,Clemson
 MaggieDankert,pickle,cut,cut,cut,VERB,Clemson
@@ -3695,7 +3696,7 @@ ShakiraEllerbe,plow,farm,farm,farm,VERB,Clemson
 ShakiraEllerbe,plow,planting,planting,plan,VERB,Clemson
 ShakiraEllerbe,plow,seed,seed,see,VERB,Clemson
 EvelynPage,plum,to eat,eat,eat,VERB,Clemson
-EvelynPage,plum,use to make a recipe,use,use,VERB,Clemson
+EvelynPage,plum,use to make a recipe,use,use,AUX,Clemson
 EvelynPage,plum,use to make a recipe,make,make,VERB,Clemson
 EvelynPage,plum,use to make a recipe,recipe,recipe,NOUN,Clemson
 KeyaniTurner,plum,food,food,food,VERB,Clemson
@@ -3738,7 +3739,7 @@ HannahLorch,polyester,pleat,pleat,pleat,VERB,Clemson
 HannahLorch,polyester,fabric,fabric,fabric,NOUN,Clemson
 HannahLorch,polyester,brown,brown,brown,ADJ,Clemson
 LindseyWaldo,pomegranate,eat,eat,eat,VERB,Clemson
-LindseyWaldo,pomegranate,use for color,use,use,VERB,Clemson
+LindseyWaldo,pomegranate,use for color,use,use,AUX,Clemson
 LindseyWaldo,pomegranate,use for color,color,color,NOUN,Clemson
 LindseyWaldo,pomegranate,decorate with during holidays,decorate,decorate,VERB,Clemson
 LindseyWaldo,pomegranate,decorate with during holidays,holidays,holiday,NOUN,Clemson
@@ -3830,7 +3831,7 @@ MadisonHenry,puck,to hit with a stick,stick,stick,NOUN,Clemson
 MadisonHenry,puck,to give as a gift,give,give,VERB,Clemson
 MadisonHenry,puck,to give as a gift,gift,gift,NOUN,Clemson
 MadisonHenry,puck,to autograph,autograph,autograph,NOUN,Clemson
-MadisonHenry,puck,to use as a coaster,use,use,VERB,Clemson
+MadisonHenry,puck,to use as a coaster,use,use,AUX,Clemson
 MadisonHenry,puck,to use as a coaster,coaster,coaster,NOUN,Clemson
 MadisonHenry,puck,to decorate,decorate,decorate,VERB,Clemson
 MadisonHenry,puck,to frame ,frame,frame,VERB,Clemson
@@ -3842,11 +3843,11 @@ RachelFlor,puddle,you can walk around one,walk,walk,VERB,Clemson
 RachelFlor,puddle,you can walk around one,around,around,ADV,Clemson
 RachelFlor,puddle,you can walk around one,one,one,NUM,Clemson
 RachelFlor,puddle,you can use it to make mud,can,can,AUX,Clemson
-RachelFlor,puddle,you can use it to make mud,use,use,VERB,Clemson
+RachelFlor,puddle,you can use it to make mud,use,use,AUX,Clemson
 RachelFlor,puddle,you can use it to make mud,make,make,VERB,Clemson
 RachelFlor,puddle,you can use it to make mud,mud,mud,NOUN,Clemson
 RachelFlor,puddle,you can use it to tell if it is raining or not,can,can,AUX,Clemson
-RachelFlor,puddle,you can use it to tell if it is raining or not,use,use,VERB,Clemson
+RachelFlor,puddle,you can use it to tell if it is raining or not,use,use,AUX,Clemson
 RachelFlor,puddle,you can use it to tell if it is raining or not,tell,tell,VERB,Clemson
 RachelFlor,puddle,you can use it to tell if it is raining or not,raining,raine,VERB,Clemson
 RachelFlor,pumpernickel,you can eat it,can,can,AUX,Clemson
@@ -3933,7 +3934,7 @@ ShilohWyman,raft,to store jet skis ,store,store,NOUN,Clemson
 ShilohWyman,raft,to store jet skis ,jet,jet,X,Clemson
 ShilohWyman,raft,to store jet skis ,skis,jetski,NOUN,Clemson
 HannahLorch,railroad,train use,train,train,NOUN,Clemson
-HannahLorch,railroad,train use,use,use,VERB,Clemson
+HannahLorch,railroad,train use,use,use,AUX,Clemson
 HannahLorch,railroad,make items out of wood,make,make,VERB,Clemson
 HannahLorch,railroad,make items out of wood,items,item,NOUN,Clemson
 HannahLorch,railroad,make items out of wood,wood,wood,NOUN,Clemson
@@ -4038,7 +4039,7 @@ MadisonHenry,rock,to tie to something so it will sink,tie,tie,VERB,Clemson
 MadisonHenry,rock,to tie to something so it will sink,something,something,PRON,Clemson
 MadisonHenry,rock,to tie to something so it will sink,sink,sink,VERB,Clemson
 MadisonHenry,rock,to be a pet,pet,pet,NOUN,Clemson
-MadisonHenry,rock,to use for a craft,use,use,VERB,Clemson
+MadisonHenry,rock,to use for a craft,use,use,AUX,Clemson
 MadisonHenry,rock,to use for a craft,craft,craft,VERB,Clemson
 MadisonHenry,rock,to make a terrarium,make,make,VERB,Clemson
 MadisonHenry,rock,to make a terrarium,terrarium,terrarium,NOUN,Clemson
@@ -4113,7 +4114,7 @@ JosieCicchino,salesman,talk to people in person,people,people,NOUN,Clemson
 JosieCicchino,salesman,talk to people in person,person,person,NOUN,Clemson
 JosieCicchino,salesman,dress nice,dress,dress,NOUN,Clemson
 JosieCicchino,salesman,dress nice,nice,nice,ADJ,Clemson
-LaurenFerrara,salesman,help sell things,help,help,VERB,Clemson
+LaurenFerrara,salesman,help sell things,help,help,AUX,Clemson
 LaurenFerrara,salesman,help sell things,sell,sell,VERB,Clemson
 LaurenFerrara,salesman,help sell things,things,thing,NOUN,Clemson
 LaurenFerrara,salesman,network,network,network,VERB,Clemson
@@ -4131,7 +4132,7 @@ ShilohWyman,saltwater,to relieve sore throat,throat,throat,NOUN,Clemson
 ShilohWyman,saltwater,to salt pasta when boiling,salt,salt,NOUN,Clemson
 ShilohWyman,saltwater,to salt pasta when boiling,pasta,pasta,NOUN,Clemson
 ShilohWyman,saltwater,to salt pasta when boiling,boiling,boil,VERB,Clemson
-ShilohWyman,saltwater,to help fish,help,help,VERB,Clemson
+ShilohWyman,saltwater,to help fish,help,help,AUX,Clemson
 ShilohWyman,saltwater,to help fish,fish,fish,NOUN,Clemson
 ShilohWyman,saltwater,to scrub something,scrub,scrub,VERB,Clemson
 ShilohWyman,saltwater,to scrub something,something,something,PRON,Clemson
@@ -4141,7 +4142,7 @@ HannahLorch,sandbag,make a play sand pit,make,make,VERB,Clemson
 HannahLorch,sandbag,make a play sand pit,play,play,VERB,Clemson
 HannahLorch,sandbag,make a play sand pit,sand,sand,NOUN,Clemson
 HannahLorch,sandbag,make a play sand pit,pit,pit,NOUN,Clemson
-HannahLorch,sandbag,use as a weight,use,use,VERB,Clemson
+HannahLorch,sandbag,use as a weight,use,use,AUX,Clemson
 HannahLorch,sandbag,use as a weight,weight,weight,VERB,Clemson
 LindseyWaldo,sandbank,keep water back,keep,keep,VERB,Clemson
 LindseyWaldo,sandbank,keep water back,water,water,NOUN,Clemson
@@ -4292,7 +4293,7 @@ HannahLorch,sheep,pet,pet,pet,VERB,Clemson
 LindseyWaldo,sheepskin,keep something warm,keep,keep,VERB,Clemson
 LindseyWaldo,sheepskin,keep something warm,something,something,PRON,Clemson
 LindseyWaldo,sheepskin,keep something warm,warm,warm,VERB,Clemson
-LindseyWaldo,sheepskin,use it as a rug,use,use,VERB,Clemson
+LindseyWaldo,sheepskin,use it as a rug,use,use,AUX,Clemson
 LindseyWaldo,sheepskin,use it as a rug,rug,rug,NOUN,Clemson
 MaddenDudeck,sheepskin,make wool,make,make,VERB,Clemson
 MaddenDudeck,sheepskin,make wool,wool,wool,INTJ,Clemson
@@ -4316,10 +4317,10 @@ EvelynPage,shelter,provide protection,provide,provide,VERB,Clemson
 EvelynPage,shelter,provide protection,protection,protect,VERB,Clemson
 KeyaniTurner,shelter,protection,protection,protect,VERB,Clemson
 RachelFlor,shield,you can use it to protect yourself,can,can,AUX,Clemson
-RachelFlor,shield,you can use it to protect yourself,use,use,VERB,Clemson
+RachelFlor,shield,you can use it to protect yourself,use,use,AUX,Clemson
 RachelFlor,shield,you can use it to protect yourself,protect,protect,VERB,Clemson
 RachelFlor,shield,you can use it to protect others,can,can,AUX,Clemson
-RachelFlor,shield,you can use it to protect others,use,use,VERB,Clemson
+RachelFlor,shield,you can use it to protect others,use,use,AUX,Clemson
 RachelFlor,shield,you can use it to protect others,protect,protect,VERB,Clemson
 RachelFlor,shield,you can use it to protect others,others,other,NOUN,Clemson
 RachelFlor,shield,you can decorate it,can,can,AUX,Clemson
@@ -4345,7 +4346,7 @@ ChrisPagano,shot,load as ammunition,load,load,VERB,Clemson
 ChrisPagano,shot,load as ammunition,ammunition,ammunition,VERB,Clemson
 ChrisPagano,shot,fire from weapon,fire,fire,VERB,Clemson
 ChrisPagano,shot,fire from weapon,weapon,weapon,NOUN,Clemson
-ChrisPagano,shot,use as weights,use,use,VERB,Clemson
+ChrisPagano,shot,use as weights,use,use,AUX,Clemson
 ChrisPagano,shot,use as weights,weights,weight,NOUN,Clemson
 JusticeBecnel,shot,administer it,administer,administer,VERB,Clemson
 JusticeBecnel,shot,take it,take,take,VERB,Clemson
@@ -4424,7 +4425,7 @@ HaleighPressley,smock,warmth,warmth,warm,VERB,Clemson
 MadisonHenry,smuggler,to steal,steal,steal,VERB,Clemson
 MadisonHenry,smuggler,to hide something,hide,hide,VERB,Clemson
 MadisonHenry,smuggler,to hide something,something,something,PRON,Clemson
-MadisonHenry,smuggler,to get your groceries,get,get,VERB,Clemson
+MadisonHenry,smuggler,to get your groceries,get,get,AUX,Clemson
 MadisonHenry,smuggler,to get your groceries,groceries,grocery,NOUN,Clemson
 MadisonHenry,smuggler,to save money,save,save,VERB,Clemson
 MadisonHenry,smuggler,to save money,money,money,NOUN,Clemson
@@ -4452,9 +4453,9 @@ BreeReynolds,snowfall,to accommodate winter weather,accommodate,accommodate,NOUN
 BreeReynolds,snowfall,to accommodate winter weather,winter,winter,NOUN,Clemson
 BreeReynolds,snowfall,to accommodate winter weather,weather,weather,NOUN,Clemson
 HannahLorch,snowflake,eat,eat,eat,VERB,Clemson
-HannahLorch,snowflake,use as ice,use,use,VERB,Clemson
+HannahLorch,snowflake,use as ice,use,use,AUX,Clemson
 HannahLorch,snowflake,use as ice,ice,ice,NOUN,Clemson
-HannahLorch,snowflake,use a decoration,use,use,VERB,Clemson
+HannahLorch,snowflake,use a decoration,use,use,AUX,Clemson
 HannahLorch,snowflake,use a decoration,decoration,decorate,VERB,Clemson
 LaurenGiordano,snowshoe,walk,walk,walk,VERB,Clemson
 LaurenGiordano,snowshoe,wear,wear,wear,VERB,Clemson
@@ -4477,7 +4478,7 @@ ChrisPagano,someone,make friends with,friends,friend,VERB,Clemson
 ChrisPagano,someone,argue with,argue,argue,VERB,Clemson
 ChrisPagano,someone,teach,teach,teach,VERB,Clemson
 ChrisPagano,someone,learn from,learn,learn,VERB,Clemson
-ChrisPagano,someone,go places with,go,go,VERB,Clemson
+ChrisPagano,someone,go places with,go,go,AUX,Clemson
 ChrisPagano,someone,go places with,places,place,NOUN,Clemson
 ChrisPagano,someone,play games with,play,play,VERB,Clemson
 ChrisPagano,someone,play games with,games,game,NOUN,Clemson
@@ -4524,7 +4525,7 @@ LaurenGiordano,splint,set bone,set,set,VERB,Clemson
 LaurenGiordano,splint,set bone,bone,bone,NOUN,Clemson
 LaurenGiordano,splint,protect body,protect,protect,VERB,Clemson
 LaurenGiordano,splint,protect body,body,body,NOUN,Clemson
-LaurenGiordano,splint,help heal,help,help,VERB,Clemson
+LaurenGiordano,splint,help heal,help,help,AUX,Clemson
 LaurenGiordano,splint,help heal,heal,heal,VERB,Clemson
 LaurenGiordano,splint,rest,rest,rest,VERB,Clemson
 ShilohWyman,splinter,to hurt? ,hurt,hurt,VERB,Clemson
@@ -4539,7 +4540,7 @@ KennaZeitz,spyglass,magnify things ,things,thing,NOUN,Clemson
 SanaaGreene,squirrel,look at,look,look,VERB,Clemson
 SanaaGreene,squirrel,study/experiment,study,study,VERB,Clemson
 SanaaGreene,squirrel,study/experiment,experiment,experiment,VERB,Clemson
-LindseyWaldo,stableman,use to keep horses,use,use,VERB,Clemson
+LindseyWaldo,stableman,use to keep horses,use,use,AUX,Clemson
 LindseyWaldo,stableman,use to keep horses,keep,keep,VERB,Clemson
 LindseyWaldo,stableman,use to keep horses,horses,horse,NOUN,Clemson
 MaddenDudeck,stableman,take care of horses,take,take,VERB,Clemson
@@ -4549,7 +4550,7 @@ GraceGaston,stake,carry,carry,carry,VERB,Clemson
 GraceGaston,stake,stab,stab,stab,VERB,Clemson
 GraceGaston,stake,throw,throw,throw,VERB,Clemson
 ShakiraEllerbe,stake,money,money,money,NOUN,Clemson
-LyndseyBrewer,stapler,use,use,use,VERB,Clemson
+LyndseyBrewer,stapler,use,use,use,AUX,Clemson
 LyndseyBrewer,stapler,touch,touch,touch,VERB,Clemson
 LyndseyBrewer,stapler,throw,throw,throw,VERB,Clemson
 LyndseyBrewer,stapler,refill,refill,refill,VERB,Clemson
@@ -4597,7 +4598,7 @@ HenrySoffronoff,stewardess,serving food,food,food,NOUN,Clemson
 HenrySoffronoff,stewardess,serving a rich family,serving,serive,VERB,Clemson
 HenrySoffronoff,stewardess,serving a rich family,rich,rich,ADJ,Clemson
 HenrySoffronoff,stewardess,serving a rich family,family,family,NOUN,Clemson
-HenrySoffronoff,stewardess,going home to her family or house,going,go,VERB,Clemson
+HenrySoffronoff,stewardess,going home to her family or house,going,go,AUX,Clemson
 HenrySoffronoff,stewardess,going home to her family or house,home,home,ADV,Clemson
 HenrySoffronoff,stewardess,going home to her family or house,family,family,NOUN,Clemson
 HenrySoffronoff,stewardess,going home to her family or house,house,house,NOUN,Clemson
@@ -4611,10 +4612,9 @@ EvelynPage,stick,arts and crafts,arts,arts,NOUN,Clemson
 EvelynPage,stick,arts and crafts,crafts,craft,NOUN,Clemson
 KeyaniTurner,stick,poking,poking,pok,VERB,Clemson
 KeyaniTurner,stick,pointing,pointing,point,VERB,Clemson
-Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 RachelFlor,stockbroker,you can go to them for help with stocks,can,can,AUX,Clemson
-RachelFlor,stockbroker,you can go to them for help with stocks,go,go,VERB,Clemson
-RachelFlor,stockbroker,you can go to them for help with stocks,help,help,VERB,Clemson
+RachelFlor,stockbroker,you can go to them for help with stocks,go,go,AUX,Clemson
+RachelFlor,stockbroker,you can go to them for help with stocks,help,help,AUX,Clemson
 RachelFlor,stockbroker,you can go to them for help with stocks,stocks,stock,NOUN,Clemson
 ChrisPagano,stockings,put on feet and legs,put,put,VERB,Clemson
 ChrisPagano,stockings,put on feet and legs,feet,foot,NOUN,Clemson
@@ -4624,7 +4624,7 @@ ChrisPagano,stockings,wash,wash,wash,VERB,Clemson
 ChrisPagano,stockings,put away,put,put,VERB,Clemson
 ChrisPagano,stockings,put away,away,away,ADV,Clemson
 ChrisPagano,stockings,pack,pack,pack,VERB,Clemson
-ChrisPagano,stockings,use as a filter,use,use,VERB,Clemson
+ChrisPagano,stockings,use as a filter,use,use,AUX,Clemson
 ChrisPagano,stockings,use as a filter,filter,filter,VERB,Clemson
 JusticeBecnel,stockings,hang it,hang,hang,VERB,Clemson
 JusticeBecnel,stockings,put things in it,put,put,VERB,Clemson
@@ -4642,7 +4642,7 @@ ShakiraEllerbe,stone,houses,houses,house,NOUN,Clemson
 RachelFlor,stool,you can sit on it,can,can,AUX,Clemson
 RachelFlor,stool,you can sit on it,sit,sit,VERB,Clemson
 RachelFlor,stool,you can use it to reach high places,can,can,AUX,Clemson
-RachelFlor,stool,you can use it to reach high places,use,use,VERB,Clemson
+RachelFlor,stool,you can use it to reach high places,use,use,AUX,Clemson
 RachelFlor,stool,you can use it to reach high places,reach,reach,VERB,Clemson
 RachelFlor,stool,you can use it to reach high places,high,high,VERB,Clemson
 RachelFlor,stool,you can use it to reach high places,places,place,NOUN,Clemson
@@ -4657,7 +4657,7 @@ RachelFlor,stool,you can move one around,move,move,VERB,Clemson
 RachelFlor,stool,you can move one around,one,one,NUM,Clemson
 RachelFlor,stool,you can move one around,around,around,ADV,Clemson
 RachelFlor,stool,you can use them to decorate your kitchen,can,can,AUX,Clemson
-RachelFlor,stool,you can use them to decorate your kitchen,use,use,VERB,Clemson
+RachelFlor,stool,you can use them to decorate your kitchen,use,use,AUX,Clemson
 RachelFlor,stool,you can use them to decorate your kitchen,decorate,decorate,VERB,Clemson
 RachelFlor,stool,you can use them to decorate your kitchen,kitchen,kitchen,NOUN,Clemson
 LilyClark,stoop,sit on,sit,sit,VERB,Clemson
@@ -4749,7 +4749,7 @@ LaylaWheelon,suede,make clothes with,make,make,VERB,Clemson
 LaylaWheelon,suede,make clothes with,clothes,clothes,NOUN,Clemson
 LaylaWheelon,suede,wear,wear,wear,VERB,Clemson
 LaylaWheelon,suede,clean,clean,clean,VERB,Clemson
-LaylaWheelon,suede,get dirty,get,get,VERB,Clemson
+LaylaWheelon,suede,get dirty,get,get,AUX,Clemson
 LaylaWheelon,suede,get dirty,dirty,dirty,ADJ,Clemson
 LaylaWheelon,suede,run hands along,run,run,VERB,Clemson
 LaylaWheelon,suede,run hands along,hands,hand,NOUN,Clemson
@@ -4784,7 +4784,7 @@ LydiaHird,suit,expression of wealth,wealth,wealth,NOUN,Clemson
 LydiaHird,suit,confidence,confidence,confidence,NOUN,Clemson
 LydiaHird,suit,fashion,fashion,fashion,NOUN,Clemson
 Mollyverdell,suit,wear,wear,wear,VERB,Clemson
-Mollyverdell,suit,get dirty,get,get,VERB,Clemson
+Mollyverdell,suit,get dirty,get,get,AUX,Clemson
 Mollyverdell,suit,get dirty,dirty,dirty,ADJ,Clemson
 Mollyverdell,suit,take off,take,take,VERB,Clemson
 Mollyverdell,suit,put on,put,put,VERB,Clemson
@@ -4873,14 +4873,14 @@ AllieBorcherts,teapot,hold tea,tea,tea,VERB,Clemson
 AllieBorcherts,teapot,make tea,make,make,AUX,Clemson
 AllieBorcherts,teapot,make tea,tea,tea,VERB,Clemson
 AllieBorcherts,teapot,decoration,decoration,decorate,VERB,Clemson
-ShilohWyman,tear,to get something out of eyeball,get,get,VERB,Clemson
+ShilohWyman,tear,to get something out of eyeball,get,get,AUX,Clemson
 ShilohWyman,tear,to get something out of eyeball,something,something,PRON,Clemson
 ShilohWyman,tear,to get something out of eyeball,eyeball,eyeball,NOUN,Clemson
 ShilohWyman,tear,to release emotions,release,release,VERB,Clemson
 ShilohWyman,tear,to release emotions,emotions,emotion,NOUN,Clemson
 DanielBunch,teaspoonful,eat it?,eat,eat,VERB,Clemson
 DanielBunch,teaspoonful,mix it,mix,mix,VERB,Clemson
-DanielBunch,teaspoonful,use as an ingredient,use,use,VERB,Clemson
+DanielBunch,teaspoonful,use as an ingredient,use,use,AUX,Clemson
 DanielBunch,teaspoonful,use as an ingredient,ingredient,ingredient,NOUN,Clemson
 DarianJarrell,teaspoonful,put in,put,put,VERB,Clemson
 DarianJarrell,teaspoonful,take out,take,take,VERB,Clemson
@@ -4905,7 +4905,7 @@ HenrySoffronoff,teeth,could lose an adult tooth because of bad hygiene,adult,adu
 HenrySoffronoff,teeth,could lose an adult tooth because of bad hygiene,tooth,tooth,NOUN,Clemson
 HenrySoffronoff,teeth,could lose an adult tooth because of bad hygiene,bad,bad,ADJ,Clemson
 HenrySoffronoff,teeth,could lose an adult tooth because of bad hygiene,hygiene,hygiene,NOUN,Clemson
-HenrySoffronoff,teeth,could get it cleaned at the dentist,get,get,VERB,Clemson
+HenrySoffronoff,teeth,could get it cleaned at the dentist,get,get,AUX,Clemson
 HenrySoffronoff,teeth,could get it cleaned at the dentist,cleaned,clean,VERB,Clemson
 HenrySoffronoff,teeth,could get it cleaned at the dentist,dentist,dentist,NOUN,Clemson
 HenrySoffronoff,teeth,could brush your teeth,brush,brush,VERB,Clemson
@@ -4930,9 +4930,9 @@ RachelFlor,television,you can watch movies,can,can,AUX,Clemson
 RachelFlor,television,you can watch movies,watch,watch,VERB,Clemson
 RachelFlor,television,you can watch movies,movies,movie,NOUN,Clemson
 RachelFlor,television,you can use the remote to use this object,can,can,AUX,Clemson
-RachelFlor,television,you can use the remote to use this object,use,use,VERB,Clemson
+RachelFlor,television,you can use the remote to use this object,use,use,AUX,Clemson
 RachelFlor,television,you can use the remote to use this object,remote,remite,ADJ,Clemson
-RachelFlor,television,you can use the remote to use this object,use,use,VERB,Clemson
+RachelFlor,television,you can use the remote to use this object,use,use,AUX,Clemson
 RachelFlor,television,you can use the remote to use this object,object,object,ADV,Clemson
 HayleyYang,tenderloin,eat,eat,eat,VERB,Clemson
 HayleyYang,tenderloin,cook,cook,cake,VERB,Clemson
@@ -4985,7 +4985,7 @@ HayleyYang,thread,pretend as a snake,pretend,pretend,VERB,Clemson
 HayleyYang,thread,pretend as a snake,snake,snake,NOUN,Clemson
 HayleyYang,thread,educate,educate,educate,VERB,Clemson
 HayleyYang,thread,hide,hide,hide,VERB,Clemson
-AshtonRubley,ticket,to get into an event,get,get,VERB,Clemson
+AshtonRubley,ticket,to get into an event,get,get,AUX,Clemson
 AshtonRubley,ticket,to get into an event,event,event,NOUN,Clemson
 BreeReynolds,ticket,to inform of offense,inform,inform,VERB,Clemson
 BreeReynolds,ticket,to inform of offense,offense,offense,NOUN,Clemson
@@ -5000,7 +5000,7 @@ ShakiraEllerbe,tights,clothes,clothes,clothes,NOUN,Clemson
 AshtonRubley,tinfoil,to keep things covered,keep,keep,VERB,Clemson
 AshtonRubley,tinfoil,to keep things covered,things,thing,NOUN,Clemson
 AshtonRubley,tinfoil,to keep things covered,covered,cover,VERB,Clemson
-AshtonRubley,tinfoil,to use for cooking,use,use,VERB,Clemson
+AshtonRubley,tinfoil,to use for cooking,use,use,AUX,Clemson
 AshtonRubley,tinfoil,to use for cooking,cooking,cook,VERB,Clemson
 BreeReynolds,tinfoil,to produce and conduct heat,produce,produce,VERB,Clemson
 BreeReynolds,tinfoil,to produce and conduct heat,conduct,conduct,VERB,Clemson
@@ -5078,7 +5078,7 @@ HannahLorch,toupee,wear for hair,hair,hair,NOUN,Clemson
 LindseyWaldo,tranquilizers,on animals,animals,animal,NOUN,Clemson
 LindseyWaldo,tranquilizers,on people,people,people,NOUN,Clemson
 LindseyWaldo,tranquilizers,hunt with,hunt,hunt,VERB,Clemson
-LindseyWaldo,tranquilizers,use in a zoo,use,use,VERB,Clemson
+LindseyWaldo,tranquilizers,use in a zoo,use,use,AUX,Clemson
 LindseyWaldo,tranquilizers,use in a zoo,zoo,zoo,NOUN,Clemson
 MaddenDudeck,tranquilizers,reduce stress,reduce,reduce,VERB,Clemson
 MaddenDudeck,tranquilizers,reduce stress,stress,stress,NOUN,Clemson
@@ -5175,9 +5175,9 @@ LyndseyBrewer,turtleneck,fold,fold,fold,VERB,Clemson
 LyndseyBrewer,turtleneck,dry,dry,dry,VERB,Clemson
 LyndseyBrewer,turtleneck,wash,wash,wash,VERB,Clemson
 RachelFlor,tutor,you can go to get help from them with hard classes or assignments,can,can,AUX,Clemson
-RachelFlor,tutor,you can go to get help from them with hard classes or assignments,go,go,VERB,Clemson
-RachelFlor,tutor,you can go to get help from them with hard classes or assignments,get,get,VERB,Clemson
-RachelFlor,tutor,you can go to get help from them with hard classes or assignments,help,help,VERB,Clemson
+RachelFlor,tutor,you can go to get help from them with hard classes or assignments,go,go,AUX,Clemson
+RachelFlor,tutor,you can go to get help from them with hard classes or assignments,get,get,AUX,Clemson
+RachelFlor,tutor,you can go to get help from them with hard classes or assignments,help,help,AUX,Clemson
 RachelFlor,tutor,you can go to get help from them with hard classes or assignments,hard,hard,ADJ,Clemson
 RachelFlor,tutor,you can go to get help from them with hard classes or assignments,classes,class,NOUN,Clemson
 RachelFlor,tutor,you can go to get help from them with hard classes or assignments,assignments,assignment,NOUN,Clemson
@@ -5224,7 +5224,7 @@ MeredithMock,valet,pracitce,practice,practice,NOUN,Clemson
 TaylorPittman,valet,to park,park,park,NOUN,Clemson
 TaylorPittman,valet,to serve,serve,serve,VERB,Clemson
 AshtonRubley,van,to drive,drive,drive,VERB,Clemson
-AshtonRubley,van,go somewhere,go,go,VERB,Clemson
+AshtonRubley,van,go somewhere,go,go,AUX,Clemson
 AshtonRubley,van,go somewhere,somewhere,somewhere,ADV,Clemson
 BreeReynolds,van,to transport people,transport,transport,VERB,Clemson
 BreeReynolds,van,to transport people,people,people,NOUN,Clemson
@@ -5238,7 +5238,7 @@ SanaaGreene,vein,for blood housing,blood,blood,NOUN,Clemson
 SanaaGreene,vein,for blood housing,housing,house,VERB,Clemson
 SanaaGreene,vein,blood movement,blood,blood,NOUN,Clemson
 SanaaGreene,vein,blood movement,movement,movement,NOUN,Clemson
-SanaaGreene,vein,to get blood from,get,get,VERB,Clemson
+SanaaGreene,vein,to get blood from,get,get,AUX,Clemson
 SanaaGreene,vein,to get blood from,blood,blood,NOUN,Clemson
 LydiaHird,vessel,transportation,transportation,transport,VERB,Clemson
 LydiaHird,vessel,biological transportation,biological,biological,ADJ,Clemson
@@ -5271,7 +5271,7 @@ SanaaGreene,wagon,put things in,things,thing,NOUN,Clemson
 SanaaGreene,wagon,pull heavy objects,pull,pull,NOUN,Clemson
 SanaaGreene,wagon,pull heavy objects,heavy,heavy,ADJ,Clemson
 SanaaGreene,wagon,pull heavy objects,objects,object,VERB,Clemson
-SanaaGreene,wagon,use as decoration,use,use,VERB,Clemson
+SanaaGreene,wagon,use as decoration,use,use,AUX,Clemson
 SanaaGreene,wagon,use as decoration,decoration,decorate,VERB,Clemson
 AshtonRubley,wand,magic,magic,magic,NOUN,Clemson
 AshtonRubley,wand,costumes,costumes,costume,NOUN,Clemson
@@ -5283,7 +5283,7 @@ TaylorKeogh,washerwoman,to wash,wash,wash,VERB,Clemson
 TaylorKeogh,washerwoman,to clean,clean,clean,VERB,Clemson
 LaurenGiordano,washroom,wash hands,wash,wash,VERB,Clemson
 LaurenGiordano,washroom,wash hands,hands,hand,NOUN,Clemson
-LaurenGiordano,washroom,use toilet,use,use,VERB,Clemson
+LaurenGiordano,washroom,use toilet,use,use,AUX,Clemson
 LaurenGiordano,washroom,use toilet,toilet,toilet,NOUN,Clemson
 LaurenGiordano,washroom,brush teeth,brush,brush,VERB,Clemson
 LaurenGiordano,washroom,brush teeth,teeth,tooth,NOUN,Clemson
@@ -5306,7 +5306,7 @@ TaylorKeogh,wastebasket,to transport garbage,garbage,garbage,VERB,Clemson
 TaylorKeogh,wastebasket,to throw up in,throw,throw,VERB,Clemson
 MaddenDudeck,watercress,eaten,eaten,eat,VERB,Clemson
 AshtonRubley,whisky,to drink,drink,drink,VERB,Clemson
-AshtonRubley,whisky,get drunk,get,get,VERB,Clemson
+AshtonRubley,whisky,get drunk,get,get,AUX,Clemson
 AshtonRubley,whisky,get drunk,drunk,drink,ADJ,Clemson
 BreeReynolds,whisky,two drink,two,two,NUM,Clemson
 BreeReynolds,whisky,two drink,drink,drink,VERB,Clemson
@@ -5329,12 +5329,12 @@ RachelFlor,wigmaker,you can post pictures of it,pictures,picture,NOUN,Clemson
 MadisonHenry,wildlife,to study,study,study,VERB,Clemson
 MadisonHenry,wildlife,to observe,observe,observe,VERB,Clemson
 MadisonHenry,wildlife,to nurture,nurture,nurture,VERB,Clemson
-MadisonHenry,wildlife,to use as a muse for a painting,use,use,VERB,Clemson
+MadisonHenry,wildlife,to use as a muse for a painting,use,use,AUX,Clemson
 MadisonHenry,wildlife,to use as a muse for a painting,muse,muse,VERB,Clemson
 MadisonHenry,wildlife,to use as a muse for a painting,painting,paint,VERB,Clemson
 MadisonHenry,wildlife,to eat,eat,eat,VERB,Clemson
 MadisonHenry,wildlife,to kill,kill,kill,VERB,Clemson
-MadisonHenry,wildlife,to use as bait,use,use,VERB,Clemson
+MadisonHenry,wildlife,to use as bait,use,use,AUX,Clemson
 MadisonHenry,wildlife,to use as bait,bait,bait,VERB,Clemson
 MadisonHenry,wildlife,to enclose in a zoo,enclose,enclose,VERB,Clemson
 MadisonHenry,wildlife,to enclose in a zoo,zoo,zoo,NOUN,Clemson

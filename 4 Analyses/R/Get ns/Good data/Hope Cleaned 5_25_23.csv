@@ -1,8 +1,8 @@
 Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
 addison.haadsma@hope.edu,traveler,tourist,tourist,tour,VERB,Hope
-addison.haadsma@hope.edu,traveler,vacation,vacation,vacation,NOUN,Hope
+addison.haadsma@hope.edu,traveler,vacation,vacation,vacation,VERB,Hope
 addison.haadsma@hope.edu,traveler,spring break,spring,spring break,NOUN,Hope
-addison.haadsma@hope.edu,traveler,work trip,work,work,NOUN,Hope
+addison.haadsma@hope.edu,traveler,work trip,work,work,VERB,Hope
 addison.haadsma@hope.edu,traveler,work trip,trip,trip,VERB,Hope
 addison.haadsma@hope.edu,traveler,job,job,job,NOUN,Hope
 addison.haadsma@hope.edu,dart,throw,throw,throw,VERB,Hope
@@ -652,7 +652,7 @@ alison.wegner@hope.edu,mandolin,smash,smash,smash,VERB,Hope
 alison.wegner@hope.edu,mandolin,listen,listen,listen,VERB,Hope
 alison.wegner@hope.edu,throat,swallow,swallow,swallow,VERB,Hope
 alison.wegner@hope.edu,throat,choke,choke,choke,VERB,Hope
-alison.wegner@hope.edu,throat,breathe,breathe,breato,VERB,Hope
+alison.wegner@hope.edu,throat,breathe,breathe,breathe,VERB,Hope
 alison.wegner@hope.edu,throat,slit,slit,slit,VERB,Hope
 alison.wegner@hope.edu,throat,hold ,hold,hold,VERB,Hope
 alison.wegner@hope.edu,terrier,walk,walk,walk,VERB,Hope
@@ -1307,7 +1307,7 @@ amelia.graham@hope.edu,horsefly,farms,farms,farm,NOUN,Hope
 amelia.graham@hope.edu,horsefly,swat,swat,swat,VERB,Hope
 amelia.graham@hope.edu,canvas,paint,paint,paint,VERB,Hope
 amelia.graham@hope.edu,canvas,watercolor,watercolor,color,VERB,Hope
-amelia.graham@hope.edu,canvas,draw,draw,dree,VERB,Hope
+amelia.graham@hope.edu,canvas,draw,draw,draw,VERB,Hope
 amelia.graham@hope.edu,canvas,sculptures,sculptures,sculpt,VERB,Hope
 amelia.graham@hope.edu,cassette,listen to music,listen,listen,VERB,Hope
 amelia.graham@hope.edu,cassette,listen to music,music,music,VERB,Hope
@@ -1393,8 +1393,8 @@ anna.tank@hope.edu,rain,grow plants,grow,grow,VERB,Hope
 anna.tank@hope.edu,rain,grow plants,plants,plant,NOUN,Hope
 anna.tank@hope.edu,manicure,looked at,looked,look,VERB,Hope
 anna.tank@hope.edu,flashbulb,brighten,brighten,brighten,VERB,Hope
-anna.tank@hope.edu,flashbulb,shed light,shed,she,NOUN,Hope
-anna.tank@hope.edu,flashbulb,shed light,light,light,NOUN,Hope
+anna.tank@hope.edu,flashbulb,shed light,shed,shed,NOUN,Hope
+anna.tank@hope.edu,flashbulb,shed light,light,light,VERB,Hope
 anna.tank@hope.edu,lambskin,case meat,case,case,NOUN,Hope
 anna.tank@hope.edu,lambskin,case meat,meat,meat,NOUN,Hope
 anna.tank@hope.edu,llama,shaven,shaven,shave,VERB,Hope
@@ -1449,7 +1449,7 @@ ashley.adams@hope.edu,terrier,dog,dog,dog,NOUN,Hope
 ashley.adams@hope.edu,terrier,pet,pet,pet,VERB,Hope
 ashley.adams@hope.edu,mutt,pet,pet,pet,VERB,Hope
 ashley.adams@hope.edu,wallpaper,hang,hang,hang,VERB,Hope
-ashley.adams@hope.edu,wallpaper,draw on,draw,dree,VERB,Hope
+ashley.adams@hope.edu,wallpaper,draw on,draw,draw,VERB,Hope
 ashley.adams@hope.edu,wallpaper,stick to wall,stick,stick,VERB,Hope
 ashley.adams@hope.edu,wallpaper,stick to wall,wall,wall,NOUN,Hope
 ashley.adams@hope.edu,wallpaper,decorate,decorate,decorate,VERB,Hope
@@ -1932,7 +1932,7 @@ brianna.johnson@hope.edu,outfit,learning types of styles,learning,learn,VERB,Hop
 brianna.johnson@hope.edu,outfit,learning types of styles,types,type,NOUN,Hope
 brianna.johnson@hope.edu,outfit,learning types of styles,styles,styles,NOUN,Hope
 brianna.johnson@hope.edu,outfit,provide warmth,provide,provide,VERB,Hope
-brianna.johnson@hope.edu,outfit,provide warmth,warmth,warmth,VERB,Hope
+brianna.johnson@hope.edu,outfit,provide warmth,warmth,warm,VERB,Hope
 brianna.johnson@hope.edu,outfit,provide coverage,provide,provide,VERB,Hope
 brianna.johnson@hope.edu,outfit,provide coverage,coverage,cover,VERB,Hope
 brianna.johnson@hope.edu,outfit,provide less coverage,provide,provide,VERB,Hope
@@ -2054,7 +2054,7 @@ brianna.johnson@hope.edu,mansions,can use to learn about history,use,use,VERB,Ho
 brianna.johnson@hope.edu,mansions,can use to learn about history,learn,learn,VERB,Hope
 brianna.johnson@hope.edu,mansions,can use to learn about history,history,history,NOUN,Hope
 brianna.johnson@hope.edu,goatee,provide warmth,provide,provide,VERB,Hope
-brianna.johnson@hope.edu,goatee,provide warmth,warmth,warmth,VERB,Hope
+brianna.johnson@hope.edu,goatee,provide warmth,warmth,warm,VERB,Hope
 brianna.johnson@hope.edu,goatee,for style,style,style,VERB,Hope
 brianna.johnson@hope.edu,goatee,to use as a disguise ,use,use,VERB,Hope
 brianna.johnson@hope.edu,goatee,to use as a disguise ,disguise,disguise,VERB,Hope
@@ -2113,13 +2113,13 @@ brianna.johnson@hope.edu,worm,to provide food for other organisums,provide,provi
 brianna.johnson@hope.edu,worm,to provide food for other organisums,food,food,NOUN,Hope
 brianna.johnson@hope.edu,worm,to provide food for other organisums,organisms,organisms,NOUN,Hope
 brianna.johnson@hope.edu,hairstyle,fashion,fashion,fashion,NOUN,Hope
-brianna.johnson@hope.edu,hairstyle,warmth,warmth,warmth,VERB,Hope
+brianna.johnson@hope.edu,hairstyle,warmth,warmth,warm,VERB,Hope
 brianna.johnson@hope.edu,hairstyle,since of expression,since,since,ADV,Hope
 brianna.johnson@hope.edu,hairstyle,since of expression,expression,expression,NOUN,Hope
 brianna.johnson@hope.edu,hairstyle,art,art,art,VERB,Hope
 brianna.johnson@hope.edu,hairstyle,towel,towel,towel,NOUN,Hope
 brianna.johnson@hope.edu,hairstyle,cutting it off,cutting,cut,VERB,Hope
-brianna.johnson@hope.edu,pub,for warmth,warmth,warmth,VERB,Hope
+brianna.johnson@hope.edu,pub,for warmth,warmth,warm,VERB,Hope
 brianna.johnson@hope.edu,pub,place to go,place,place,NOUN,Hope
 brianna.johnson@hope.edu,pub,place to go,go,go,VERB,Hope
 brooke.fox@hope.edu,crowbar,farm work,farm,farm,NOUN,Hope
@@ -2238,7 +2238,7 @@ caden.seabaugh@hope.edu,finger,type,type,type,VERB,Hope
 caden.seabaugh@hope.edu,finger,grab,grab,grab,VERB,Hope
 caden.seabaugh@hope.edu,finger,throw,throw,throw,VERB,Hope
 caden.seabaugh@hope.edu,finger,eat,eat,eat,VERB,Hope
-caden.seabaugh@hope.edu,finger,draw,draw,dree,VERB,Hope
+caden.seabaugh@hope.edu,finger,draw,draw,draw,VERB,Hope
 caden.seabaugh@hope.edu,finger,write,write,write,VERB,Hope
 caden.seabaugh@hope.edu,finger,use,use,use,VERB,Hope
 caden.seabaugh@hope.edu,finger,tap,tap,tap,VERB,Hope
@@ -2810,9 +2810,9 @@ christian.clark@hope.edu,hatchet,shape wood,shape,shape,VERB,Hope
 christian.clark@hope.edu,hatchet,shape wood,wood,wood,NOUN,Hope
 christian.clark@hope.edu,hatchet,kill stuff,kill,kill,VERB,Hope
 christian.clark@hope.edu,hatchet,kill stuff,stuff,stuff,NOUN,Hope
-christian.clark@hope.edu,wallet,keep money,keep,keep,VERB,Hope
+christian.clark@hope.edu,wallet,keep money,keep,store,VERB,Hope
 christian.clark@hope.edu,wallet,keep money,money,money,NOUN,Hope
-christian.clark@hope.edu,wallet,keep cards,keep,keep,VERB,Hope
+christian.clark@hope.edu,wallet,keep cards,keep,store,VERB,Hope
 christian.clark@hope.edu,wallet,keep cards,cards,card,NOUN,Hope
 christian.clark@hope.edu,wallet,personal belongings,personal,personal,ADJ,Hope
 christian.clark@hope.edu,wallet,personal belongings,belongings,belonging,NOUN,Hope
@@ -2822,7 +2822,7 @@ christian.clark@hope.edu,mat,door mat,door,door,NOUN,Hope
 christian.clark@hope.edu,mat,door mat,mat,mat,NOUN,Hope
 christian.clark@hope.edu,mat,step on,step,step on,VERB,Hope
 christian.clark@hope.edu,mat,clean shoes,clean,clean,VERB,Hope
-christian.clark@hope.edu,mat,clean shoes,shoes,shoe,VERB,Hope
+christian.clark@hope.edu,mat,clean shoes,shoes,shoe,NOUN,Hope
 christian.clark@hope.edu,marble,game,game,game,NOUN,Hope
 christian.clark@hope.edu,marble,countertop,countertop,countertop,NOUN,Hope
 christian.clark@hope.edu,pincushion,put pins in,put,put,VERB,Hope
@@ -2843,7 +2843,7 @@ christian.clark@hope.edu,crepe,food,food,food,NOUN,Hope
 christian.clark@hope.edu,beverage,drink,drink,drink,VERB,Hope
 christian.clark@hope.edu,beverage,make sure staying hydrated,make,make,VERB,Hope
 christian.clark@hope.edu,beverage,make sure staying hydrated,sure,sure,ADJ,Hope
-christian.clark@hope.edu,beverage,make sure staying hydrated,staying,stay,VERB,Hope
+christian.clark@hope.edu,beverage,make sure staying hydrated,staying,stay,AUX,Hope
 christian.clark@hope.edu,beverage,make sure staying hydrated,hydrated,hydrate,VERB,Hope
 christopher.alcaraz@hope.edu,penny,currency,currency,currency,NOUN,Hope
 christopher.alcaraz@hope.edu,penny,exchange,exchange,exchange,VERB,Hope
@@ -2856,17 +2856,16 @@ christopher.alcaraz@hope.edu,boulder,protection,protection,protect,VERB,Hope
 christopher.alcaraz@hope.edu,doorbell,notice,notice,notice,NOUN,Hope
 christopher.alcaraz@hope.edu,puke,disposla,disposal,dispose,VERB,Hope
 christopher.alcaraz@hope.edu,motorist,transportation,transportation,transport,VERB,Hope
-christopher.alcaraz@hope.edu,gauze,first aid,first,first,ADV,Hope
 christopher.alcaraz@hope.edu,gauze,first aid,aid,first aid,VERB,Hope
 christopher.alcaraz@hope.edu,crowbar,defense tool,defense,defense,VERB,Hope
 christopher.alcaraz@hope.edu,crowbar,defense tool,tool,tool,NOUN,Hope
 christopher.alcaraz@hope.edu,sink,storage,storage,store,VERB,Hope
 christopher.alcaraz@hope.edu,environment,entertainment,entertainment,entertain,VERB,Hope
 christopher.alcaraz@hope.edu,environment,food,food,food,VERB,Hope
-christopher.alcaraz@hope.edu,chrysanthemum,entertainment,entertainment,entertainment,NOUN,Hope
+christopher.alcaraz@hope.edu,chrysanthemum,entertainment,entertainment,entertain,VERB,Hope
 christopher.alcaraz@hope.edu,chrysanthemum,learning,learning,learn,VERB,Hope
 christopher.alcaraz@hope.edu,prosthesis,everyday use,everyday,everyday,INTJ,Hope
-christopher.alcaraz@hope.edu,prosthesis,everyday use,use,use,VERB,Hope
+christopher.alcaraz@hope.edu,prosthesis,everyday use,use,use,AUX,Hope
 christopher.alcaraz@hope.edu,maid,help,help,help,VERB,Hope
 christopher.alcaraz@hope.edu,maid,cleaning,cleaning,clean,VERB,Hope
 christopher.alcaraz@hope.edu,minister,authorize,authorize,authorize,VERB,Hope
@@ -2883,8 +2882,8 @@ christopher.alcaraz@hope.edu,bathroom,waste,waste,waste,NOUN,Hope
 christopher.alcaraz@hope.edu,waiter,food,food,food,VERB,Hope
 christopher.alcaraz@hope.edu,waiter,direction,direction,direct,VERB,Hope
 christopher.alcaraz@hope.edu,suspenders,pants,pants,pants,NOUN,Hope
-christopher.alcaraz@hope.edu,holster,storage,storage,store,NOUN,Hope
-christopher.alcaraz@hope.edu,bunkhouse,housing,housing,housing,NOUN,Hope
+christopher.alcaraz@hope.edu,holster,storage,storage,store,VERB,Hope
+christopher.alcaraz@hope.edu,bunkhouse,housing,housing,house,VERB,Hope
 christopher.alcaraz@hope.edu,daughter,love,love,love,VERB,Hope
 christopher.alcaraz@hope.edu,daughter,care,care,care,VERB,Hope
 christopher.alcaraz@hope.edu,daughter,help,help,help,VERB,Hope
@@ -2916,7 +2915,6 @@ coleman.woods@hope.edu,coke,felony controlled substance ,substance,substance,NOU
 coleman.woods@hope.edu,genitalia,study,study,study,VERB,Hope
 coleman.woods@hope.edu,genitalia,google,google,google,PROPN,Hope
 coleman.woods@hope.edu,genitalia,sexual intercourse,sexual,sex,VERB,Hope
-coleman.woods@hope.edu,genitalia,sexual intercourse,intercourse,sex,VERB,Hope
 coleman.woods@hope.edu,genitalia,contracting stds,contracting,contract,NOUN,Hope
 coleman.woods@hope.edu,farmhand,hire,hire,hire,VERB,Hope
 coleman.woods@hope.edu,farmhand,farm,farm,farm,NOUN,Hope
@@ -2956,7 +2954,7 @@ coleman.woods@hope.edu,nurse,pay,pay,pay,VERB,Hope
 coleman.woods@hope.edu,nurse,receive care,receive,receive,VERB,Hope
 coleman.woods@hope.edu,nurse,receive care,care,care,VERB,Hope
 coleman.woods@hope.edu,corvette,drive,drive,drive,VERB,Hope
-coleman.woods@hope.edu,corvette,speed,speed,speed,NOUN,Hope
+coleman.woods@hope.edu,corvette,speed,speed,speed,VERB,Hope
 coleman.woods@hope.edu,corvette,buy,buy,buy,VERB,Hope
 coleman.woods@hope.edu,corvette,sell,sell,sell,VERB,Hope
 coleman.woods@hope.edu,corvette,build,build,build,VERB,Hope
@@ -2990,9 +2988,9 @@ coleman.woods@hope.edu,tobacco,smell,smell,smell,VERB,Hope
 coleman.woods@hope.edu,tobacco,gum,gum,gum,NOUN,Hope
 coleman.woods@hope.edu,tobacco,patch,patch,patch,NOUN,Hope
 coleman.woods@hope.edu,fountain,drinking,drinking,drink,VERB,Hope
-coleman.woods@hope.edu,fountain,make wishes,make,make,VERB,Hope
-coleman.woods@hope.edu,fountain,make wishes,wishes,wish,NOUN,Hope
-coleman.woods@hope.edu,fountain,get wet,get,get,VERB,Hope
+coleman.woods@hope.edu,fountain,make wishes,make,make,AUX,Hope
+coleman.woods@hope.edu,fountain,make wishes,wishes,wish,VERB,Hope
+coleman.woods@hope.edu,fountain,get wet,get,get,AUX,Hope
 coleman.woods@hope.edu,fountain,get wet,wet,wet,ADJ,Hope
 coleman.woods@hope.edu,fountain,swim,swim,swim,VERB,Hope
 coleman.woods@hope.edu,fountain,spectacle,spectacle,spectacle,NOUN,Hope
@@ -3014,13 +3012,13 @@ coleman.woods@hope.edu,watchmaker,hire,hire,hire,VERB,Hope
 coleman.woods@hope.edu,patrolman,hire,hire,hire,VERB,Hope
 coleman.woods@hope.edu,patrolman,fire,fire,fire,NOUN,Hope
 coleman.woods@hope.edu,patrolman,pay,pay,pay,VERB,Hope
-coleman.woods@hope.edu,patrolman,keep watch,keep,keep,VERB,Hope
+coleman.woods@hope.edu,patrolman,keep watch,keep,keep,AUX,Hope
 coleman.woods@hope.edu,patrolman,keep watch,watch,watch,VERB,Hope
 coleman.woods@hope.edu,watch, wear,wear,wear,VERB,Hope
 coleman.woods@hope.edu,watch,buy,buy,buy,VERB,Hope
 coleman.woods@hope.edu,watch,sell,sell,sell,VERB,Hope
-coleman.woods@hope.edu,watch,tell time,tell,tell,VERB,Hope
-coleman.woods@hope.edu,watch,tell time,time,time,NOUN,Hope
+coleman.woods@hope.edu,watch,tell time,tell,tell,AUX,Hope
+coleman.woods@hope.edu,watch,tell time,time,time,VERB,Hope
 coleman.woods@hope.edu,watch,display,display,display,VERB,Hope
 coleman.woods@hope.edu,watch,break,break,break,NOUN,Hope
 coleman.woods@hope.edu,watch,fix,fix,fix,VERB,Hope
@@ -3082,7 +3080,7 @@ collin.genuise@hope.edu,intern,working,working,work,VERB,Hope
 collin.genuise@hope.edu,intern,learning,learning,learn,VERB,Hope
 collin.genuise@hope.edu,eel,electricity,electricity,electricity,NOUN,Hope
 collin.genuise@hope.edu,eel,eating,eating,eat,VERB,Hope
-collin.genuise@hope.edu,eel,swimming,swimming,swimm,VERB,Hope
+collin.genuise@hope.edu,eel,swimming,swimming,swim,VERB,Hope
 collin.genuise@hope.edu,eel,fishing,fishing,fish,VERB,Hope
 collin.genuise@hope.edu,watchdog,hunting,hunting,hunt,VERB,Hope
 collin.genuise@hope.edu,watchdog,protecting,protecting,protect,VERB,Hope
@@ -3166,7 +3164,7 @@ cora.adam@hope.edu,salesgirl,buy products,products,product,NOUN,Hope
 cora.adam@hope.edu,salesgirl,showcase products,showcase,showcase,NOUN,Hope
 cora.adam@hope.edu,salesgirl,showcase products,products,product,NOUN,Hope
 cora.adam@hope.edu,salesgirl,talk,talk,talk,VERB,Hope
-cora.adam@hope.edu,salesgirl,call,call,call,NOUN,Hope
+cora.adam@hope.edu,salesgirl,call,call,call,VERB,Hope
 cora.adam@hope.edu,salesgirl,email,email,email,NOUN,Hope
 cora.adam@hope.edu,salesgirl,argue,argue,argue,VERB,Hope
 cora.adam@hope.edu,bratwurst,eat,eat,eat,VERB,Hope
@@ -3216,7 +3214,7 @@ cora.adam@hope.edu,hearse,wash,wash,wash,VERB,Hope
 cora.adam@hope.edu,hearse,hide,hide,hide,VERB,Hope
 cora.adam@hope.edu,hearse,pray over,pray,pray,VERB,Hope
 cora.adam@hope.edu,hearse,park,park,park,VERB,Hope
-cora.adam@hope.edu,hearse,add gasoline,add,add,VERB,Hope
+cora.adam@hope.edu,hearse,add gasoline,add,add,AUX,Hope
 cora.adam@hope.edu,hearse,add gasoline,gasoline,gasoline,NOUN,Hope
 cora.adam@hope.edu,hearse,navigate,navigate,navigate,VERB,Hope
 cora.adam@hope.edu,hearse,carry a coffin,carry,carry,VERB,Hope
@@ -3395,9 +3393,9 @@ eden.comer@hope.edu,antihistamine,to stop an allergic reaction,reaction,reaction
 eden.comer@hope.edu,carnival,for entertainment,entertainment,entertain,VERB,Hope
 eden.comer@hope.edu,tightrope,for a balancing act,balancing,balance,VERB,Hope
 eden.comer@hope.edu,tightrope,for a balancing act,act,act,NOUN,Hope
-eden.comer@hope.edu,fluid,to get something wet,get,get,VERB,Hope
+eden.comer@hope.edu,fluid,to get something wet,get,get,AUX,Hope
 eden.comer@hope.edu,fluid,to get something wet,something,something,PRON,Hope
-eden.comer@hope.edu,fluid,to get something wet,wet,wet,ADJ,Hope
+eden.comer@hope.edu,fluid,to get something wet,wet,wet,VERB,Hope
 eden.comer@hope.edu,cornfield,to grow corn,grow,grow,VERB,Hope
 eden.comer@hope.edu,cornfield,to grow corn,corn,corn,NOUN,Hope
 eden.comer@hope.edu,cornfield,to hide in,hide,hide,VERB,Hope
@@ -3409,13 +3407,13 @@ eden.comer@hope.edu,ramp,to walk to a higher surface without stairs,stairs,stair
 eden.comer@hope.edu,ramp,to drive to a higher surface,drive,drive,VERB,Hope
 eden.comer@hope.edu,ramp,to drive to a higher surface,higher,higher,ADJ,Hope
 eden.comer@hope.edu,ramp,to drive to a higher surface,surface,surface,NOUN,Hope
-eden.comer@hope.edu,ramp,to get on a highway,get,get,VERB,Hope
+eden.comer@hope.edu,ramp,to get on a highway,get,get,AUX,Hope
 eden.comer@hope.edu,ramp,to get on a highway,highway,highway,INTJ,Hope
-eden.comer@hope.edu,ramp,to get a wheelchair to a higher surface,get,get,VERB,Hope
+eden.comer@hope.edu,ramp,to get a wheelchair to a higher surface,get,get,AUX,Hope
 eden.comer@hope.edu,ramp,to get a wheelchair to a higher surface,wheelchair,wheelchair,NOUN,Hope
 eden.comer@hope.edu,ramp,to get a wheelchair to a higher surface,higher,higher,ADJ,Hope
 eden.comer@hope.edu,ramp,to get a wheelchair to a higher surface,surface,surface,NOUN,Hope
-eden.comer@hope.edu,ramp,to get a skateboarder/rollerblader to a higher surface,get,get,VERB,Hope
+eden.comer@hope.edu,ramp,to get a skateboarder/rollerblader to a higher surface,get,get,AUX,Hope
 eden.comer@hope.edu,ramp,to get a skateboarder/rollerblader to a higher surface,skateboarder,skateboarder,VERB,Hope
 eden.comer@hope.edu,ramp,to get a skateboarder/rollerblader to a higher surface,rollerblade,rollerblade,VERB,Hope
 eden.comer@hope.edu,ramp,to get a skateboarder/rollerblader to a higher surface,higher,higher,ADJ,Hope
@@ -3431,10 +3429,9 @@ eden.comer@hope.edu,flashlight,to see in the dark,dark,dark,ADJ,Hope
 eden.comer@hope.edu,flashlight,to signal to someone in the dark,signal,signal,NOUN,Hope
 eden.comer@hope.edu,flashlight,to signal to someone in the dark,someone,someone,PRON,Hope
 eden.comer@hope.edu,flashlight,to signal to someone in the dark,dark,dark,ADJ,Hope
-eden.comer@hope.edu,flashlight,to make shadow puppets,make,make,VERB,Hope
-eden.comer@hope.edu,flashlight,to make shadow puppets,shadow,shadow,NOUN,Hope
-eden.comer@hope.edu,flashlight,to make shadow puppets,puppets,puppet,NOUN,Hope
-eden.comer@hope.edu,chaplain,to get spiritual help,get,get,VERB,Hope
+eden.comer@hope.edu,flashlight,to make shadow puppets,make,make,AUX,Hope
+eden.comer@hope.edu,flashlight,to make shadow puppets,shadow,shadow pupper,VERB,Hope
+eden.comer@hope.edu,chaplain,to get spiritual help,get,get,AUX,Hope
 eden.comer@hope.edu,chaplain,to get spiritual help,spiritual,spiritual,ADJ,Hope
 eden.comer@hope.edu,chaplain,to get spiritual help,help,help,VERB,Hope
 eden.comer@hope.edu,tree,to make wood,make,make,VERB,Hope
@@ -3442,14 +3439,14 @@ eden.comer@hope.edu,tree,to make wood,wood,wood,VERB,Hope
 eden.comer@hope.edu,tree,to grow food,grow,grow,VERB,Hope
 eden.comer@hope.edu,tree,to grow food,food,food,VERB,Hope
 eden.comer@hope.edu,tree,as shelter,shelter,shelter,VERB,Hope
-eden.comer@hope.edu,tree,to make a treehouse,make,make,VERB,Hope
+eden.comer@hope.edu,tree,to make a treehouse,make,make,AUX,Hope
 eden.comer@hope.edu,tree,to make a treehouse,treehouse,treehouse,VERB,Hope
 eden.comer@hope.edu,tree,to mount a swing,mount,mount,VERB,Hope
 eden.comer@hope.edu,tree,to mount a swing,swing,swing,VERB,Hope
 eden.comer@hope.edu,tree,to climb,climb,climb,VERB,Hope
 eden.comer@hope.edu,cracker,to eat,eat,eat,VERB,Hope
-eden.comer@hope.edu,grandparent,to get advice,get,get,VERB,Hope
-eden.comer@hope.edu,grandparent,to get advice,advice,advice,NOUN,Hope
+eden.comer@hope.edu,grandparent,to get advice,get,get,AUX,Hope
+eden.comer@hope.edu,grandparent,to get advice,advice,advice,VERB,Hope
 eden.comer@hope.edu,grandparent,to learn about the past,learn,learn,VERB,Hope
 eden.comer@hope.edu,grandparent,to learn about the past,past,past,ADJ,Hope
 eden.comer@hope.edu,moneybags,to hold money,hold,hold,VERB,Hope
@@ -3472,18 +3469,18 @@ elisabeth.arrondo@hope.edu,extinguisher,to pass the acredidation of safety,accre
 elisabeth.arrondo@hope.edu,extinguisher,to pass the acredidation of safety,safety,safety,VERB,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to decorate the room,decorate,decorate,VERB,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to decorate the room,room,room,NOUN,Hope
-elisabeth.arrondo@hope.edu,extinguisher,to get someone's attention,get,get,VERB,Hope
+elisabeth.arrondo@hope.edu,extinguisher,to get someone's attention,get,get,AUX,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to get someone's attention,attention,attention,VERB,Hope
-elisabeth.arrondo@hope.edu,extinguisher,to make people panick,make,make,VERB,Hope
+elisabeth.arrondo@hope.edu,extinguisher,to make people panick,make,make,AUX,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to make people panick,people,people,NOUN,Hope
-elisabeth.arrondo@hope.edu,extinguisher,to make people panick,panic,panic,NOUN,Hope
+elisabeth.arrondo@hope.edu,extinguisher,to make people panick,panic,panic,VERB,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to make people believe that there is a fire,make,make,VERB,Hope
-elisabeth.arrondo@hope.edu,extinguisher,to make people believe that there is a fire,people,people,NOUN,Hope
+elisabeth.arrondo@hope.edu,extinguisher,to make people believe that there is a fire,people,people,AUX,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to make people believe that there is a fire,believe,believe,VERB,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to make people believe that there is a fire,fire,fire,NOUN,Hope
-elisabeth.arrondo@hope.edu,extinguisher,to make a chemical reaction,make,make,VERB,Hope
+elisabeth.arrondo@hope.edu,extinguisher,to make a chemical reaction,make,make,AUX,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to make a chemical reaction,chemical,chemical,ADJ,Hope
-elisabeth.arrondo@hope.edu,extinguisher,to make a chemical reaction,reaction,reaction,NOUN,Hope
+elisabeth.arrondo@hope.edu,extinguisher,to make a chemical reaction,reaction,reaction,VERB,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to hit someone on the head,hit,hit,VERB,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to hit someone on the head,someone,someone,PRON,Hope
 elisabeth.arrondo@hope.edu,extinguisher,to hit someone on the head,head,head,NOUN,Hope
@@ -3529,7 +3526,7 @@ elisabeth.arrondo@hope.edu,residence,to have animals,animals,animal,NOUN,Hope
 elisabeth.arrondo@hope.edu,residence,to create a buisness,create,create,VERB,Hope
 elisabeth.arrondo@hope.edu,residence,to create a buisness,business,business,NOUN,Hope
 elisabeth.arrondo@hope.edu,beer,to drink,drink,drink,VERB,Hope
-elisabeth.arrondo@hope.edu,beer,to get inhibriated,get,get,VERB,Hope
+elisabeth.arrondo@hope.edu,beer,to get inhibriated,get,get,AUX,Hope
 elisabeth.arrondo@hope.edu,beer,to get inhibriated,inebriated,inebriate,VERB,Hope
 elisabeth.arrondo@hope.edu,beer,to paint,paint,paint,VERB,Hope
 elisabeth.arrondo@hope.edu,beer,to create art,create,create,VERB,Hope
@@ -3547,18 +3544,18 @@ elisabeth.arrondo@hope.edu,beer,to get fat,fat,fat,NOUN,Hope
 elisabeth.arrondo@hope.edu,beer,to die if your celiac,die,die,VERB,Hope
 elisabeth.arrondo@hope.edu,braid,to look pretty,look,look,VERB,Hope
 elisabeth.arrondo@hope.edu,braid,to look pretty,pretty,pretty,ADV,Hope
-elisabeth.arrondo@hope.edu,braid,to pull,pull,pull,NOUN,Hope
-elisabeth.arrondo@hope.edu,braid,to tie up,tie,tie,NOUN,Hope
+elisabeth.arrondo@hope.edu,braid,to pull,pull,pull,VERB,Hope
+elisabeth.arrondo@hope.edu,braid,to tie up,tie,tie,VERB,Hope
 elisabeth.arrondo@hope.edu,braid,for sex,sex,sex,VERB,Hope
 elisabeth.arrondo@hope.edu,braid,to decorate,decorate,decorate,VERB,Hope
 elisabeth.arrondo@hope.edu,braid,to gift,gift,gift,NOUN,Hope
 elisabeth.arrondo@hope.edu,braid,to think,think,think,VERB,Hope
-elisabeth.arrondo@hope.edu,braid,to worship,worship,worship,NOUN,Hope
-elisabeth.arrondo@hope.edu,braid,to meditate,meditate,meditate,NOUN,Hope
+elisabeth.arrondo@hope.edu,braid,to worship,worship,worship,VERB,Hope
+elisabeth.arrondo@hope.edu,braid,to meditate,meditate,meditate,VERB,Hope
 elisabeth.arrondo@hope.edu,braid,to leave a trail (like in the maze greek mythology),leave,leave,VERB,Hope
 elisabeth.arrondo@hope.edu,braid,to leave a trail (like in the maze greek mythology),like,like,INTJ,Hope
 elisabeth.arrondo@hope.edu,braid,to leave a trail (like in the maze greek mythology),greek,greek,ADJ,Hope
-elisabeth.arrondo@hope.edu,newsman,to announce to news,announce,announce,NOUN,Hope
+elisabeth.arrondo@hope.edu,newsman,to announce to news,announce,announce,VERB,Hope
 elisabeth.arrondo@hope.edu,newsman,to announce to news,news,news,VERB,Hope
 elisabeth.arrondo@hope.edu,newsman,to wake you up,wake,wake,NOUN,Hope
 elisabeth.arrondo@hope.edu,newsman,to be funny,funny,funny,ADJ,Hope
@@ -3579,12 +3576,12 @@ elisabeth.arrondo@hope.edu,newsman,to admire,admire,admire,NOUN,Hope
 elisabeth.arrondo@hope.edu,pepper,to make your food have taste,make,make,VERB,Hope
 elisabeth.arrondo@hope.edu,pepper,to make your food have taste,food,food,VERB,Hope
 elisabeth.arrondo@hope.edu,pepper,to make your food have taste,taste,taste,VERB,Hope
-elisabeth.arrondo@hope.edu,pepper,to make your food too peppery,make,make,VERB,Hope
+elisabeth.arrondo@hope.edu,pepper,to make your food too peppery,make,make,AUX,Hope
 elisabeth.arrondo@hope.edu,pepper,to make your food too peppery,food,food,VERB,Hope
 elisabeth.arrondo@hope.edu,pepper,to make your food too peppery,peppery,peppery,NOUN,Hope
 elisabeth.arrondo@hope.edu,pepper,to blind someone,blind,blind,ADJ,Hope
 elisabeth.arrondo@hope.edu,pepper,to blind someone,someone,someone,PRON,Hope
-elisabeth.arrondo@hope.edu,pepper,to make them sneeze,make,make,VERB,Hope
+elisabeth.arrondo@hope.edu,pepper,to make them sneeze,make,make,AUX,Hope
 elisabeth.arrondo@hope.edu,pepper,to make them sneeze,sneeze,sneeze,VERB,Hope
 elisabeth.arrondo@hope.edu,pepper,to leave a trail,leave,leave,VERB,Hope
 elisabeth.arrondo@hope.edu,pepper,to find a way home,find,find,VERB,Hope
@@ -3592,7 +3589,7 @@ elisabeth.arrondo@hope.edu,pepper,to find a way home,home,home,ADV,Hope
 elisabeth.arrondo@hope.edu,pepper,art,art,art,NOUN,Hope
 elisabeth.arrondo@hope.edu,pepper,for medicine,medicine,medicine,NOUN,Hope
 elisabeth.arrondo@hope.edu,pepper,for rituals,rituals,ritual,NOUN,Hope
-elisabeth.arrondo@hope.edu,handbag,to keep stuff,keep,keep,VERB,Hope
+elisabeth.arrondo@hope.edu,handbag,to keep stuff,keep,keep,AUX,Hope
 elisabeth.arrondo@hope.edu,handbag,to keep stuff,stuff,stuff,NOUN,Hope
 elisabeth.arrondo@hope.edu,handbag,to decorate,decorate,decorate,VERB,Hope
 elisabeth.arrondo@hope.edu,handbag,art,art,art,NOUN,Hope
@@ -3604,7 +3601,7 @@ elisabeth.arrondo@hope.edu,handbag,to eat (if leather),eat,eat,VERB,Hope
 elisabeth.arrondo@hope.edu,handbag,to eat (if leather),leather,leather,NOUN,Hope
 elisabeth.arrondo@hope.edu,handbag,to sell,sell,sell,VERB,Hope
 elisabeth.arrondo@hope.edu,yearbook,to reminisce,reminisce,reminisce,VERB,Hope
-elisabeth.arrondo@hope.edu,yearbook,to get ptsd,get,get,VERB,Hope
+elisabeth.arrondo@hope.edu,yearbook,to get ptsd,get,get,AUX,Hope
 elisabeth.arrondo@hope.edu,yearbook,to bore your kids,bore,bore,VERB,Hope
 elisabeth.arrondo@hope.edu,yearbook,to bore your kids,kids,kid,NOUN,Hope
 elisabeth.arrondo@hope.edu,yearbook,to find your old friends,find,find,VERB,Hope
@@ -3620,27 +3617,27 @@ elisabeth.arrondo@hope.edu,watermelon,to spit at ppl,people,people,NOUN,Hope
 elisabeth.arrondo@hope.edu,watermelon,to throw on someone,throw,throw,VERB,Hope
 elisabeth.arrondo@hope.edu,watermelon,to throw on someone,someone,someone,PRON,Hope
 elisabeth.arrondo@hope.edu,watermelon,to have a hat,hat,hat,NOUN,Hope
-elisabeth.arrondo@hope.edu,watermelon,to make juice,make,make,VERB,Hope
+elisabeth.arrondo@hope.edu,watermelon,to make juice,make,make,AUX,Hope
 elisabeth.arrondo@hope.edu,watermelon,to make juice,juice,juice,VERB,Hope
 elisabeth.arrondo@hope.edu,watermelon,to decorate,decorate,decorate,VERB,Hope
 elisabeth.arrondo@hope.edu,watermelon,to attract animals,attract,attract,NOUN,Hope
 elisabeth.arrondo@hope.edu,watermelon,to attract animals,animals,animal,NOUN,Hope
-elisabeth.arrondo@hope.edu,lyre,to get insipred,get,get,VERB,Hope
-elisabeth.arrondo@hope.edu,lyre,to get insipred,inspire,inspire,ADV,Hope
+elisabeth.arrondo@hope.edu,lyre,to get insipred,get,get,AUX,Hope
+elisabeth.arrondo@hope.edu,lyre,to get insipred,inspire,inspire,VERB,Hope
 elisabeth.arrondo@hope.edu,lyre,to feel old,feel,feel,VERB,Hope
 elisabeth.arrondo@hope.edu,lyre,to feel old,old,old,ADJ,Hope
 elisabeth.arrondo@hope.edu,lyre,to paint,paint,paint,VERB,Hope
 elisabeth.arrondo@hope.edu,lyre,to hit someone,hit,hit,VERB,Hope
 elisabeth.arrondo@hope.edu,lyre,to hit someone,someone,someone,PRON,Hope
 elisabeth.arrondo@hope.edu,lyre,to burn,burn,burn,VERB,Hope
-elisabeth.arrondo@hope.edu,cradle,to put to sleep,put,put,VERB,Hope
+elisabeth.arrondo@hope.edu,cradle,to put to sleep,put,put,AUX,Hope
 elisabeth.arrondo@hope.edu,cradle,to put to sleep,sleep,sleep,VERB,Hope
 elisabeth.arrondo@hope.edu,cradle,to show love,show,show,VERB,Hope
 elisabeth.arrondo@hope.edu,cradle,to show love,love,love,VERB,Hope
 elisabeth.arrondo@hope.edu,cradle,to burn for fire,burn,burn,VERB,Hope
 elisabeth.arrondo@hope.edu,cradle,to burn for fire,fire,fire,NOUN,Hope
 elisabeth.arrondo@hope.edu,cradle,burn for warmth,burn,burn,VERB,Hope
-elisabeth.arrondo@hope.edu,cradle,burn for warmth,warmth,warmth,VERB,Hope
+elisabeth.arrondo@hope.edu,cradle,burn for warmth,warmth,warm,VERB,Hope
 elisabeth.arrondo@hope.edu,cradle,to build something else,build,build,VERB,Hope
 elisabeth.arrondo@hope.edu,cradle,to build something else,something,something,PRON,Hope
 elisabeth.arrondo@hope.edu,cradle,to build something else,else,else,ADJ,Hope
@@ -3689,7 +3686,7 @@ elisabeth.arrondo@hope.edu,glassware,to cut,cut,cut,VERB,Hope
 elisabeth.arrondo@hope.edu,glassware,to protect,protect,protect,VERB,Hope
 elisabeth.arrondo@hope.edu,glassware,to decorate,decorate,decorate,VERB,Hope
 elisabeth.arrondo@hope.edu,pillar,to decorate,decorate,decorate,VERB,Hope
-elisabeth.arrondo@hope.edu,pillar,to go to church,go,go,VERB,Hope
+elisabeth.arrondo@hope.edu,pillar,to go to church,go,go,AUX,Hope
 elisabeth.arrondo@hope.edu,pillar,to go to church,church,church,NOUN,Hope
 elisabeth.arrondo@hope.edu,pillar,to hold up buildings,hold,hold,VERB,Hope
 elisabeth.arrondo@hope.edu,pillar,to hold up buildings,buildings,build,VERB,Hope
@@ -3719,7 +3716,7 @@ elisabeth.arrondo@hope.edu,cow,to pet,pet,pet,VERB,Hope
 elisabeth.arrondo@hope.edu,cow,to ride,ride,ride,VERB,Hope
 elisabeth.arrondo@hope.edu,cow,to hunt,hunt,hunt,VERB,Hope
 elisabeth.arrondo@hope.edu,divorcee,to fight,fight,fight,VERB,Hope
-elisabeth.arrondo@hope.edu,divorcee,to rob,rob,rob,NOUN,Hope
+elisabeth.arrondo@hope.edu,divorcee,to rob,rob,rob,VERB,Hope
 elisabeth.arrondo@hope.edu,divorcee,to blame,blame,blame,VERB,Hope
 elisabeth.arrondo@hope.edu,divorcee,to hate,hate,hate,VERB,Hope
 elisabeth.arrondo@hope.edu,headdress,to wear,wear,wear,VERB,Hope
@@ -3774,7 +3771,7 @@ elise.marshall@hope.edu,horseshoe,as a tracing pattern,pattern,pattern,NOUN,Hope
 elise.marshall@hope.edu,horseshoe,paperweight,paperweight,paperweight,NOUN,Hope
 elise.marshall@hope.edu,horseshoe,to melt down to metal and make something else,melt,melt,VERB,Hope
 elise.marshall@hope.edu,horseshoe,to melt down to metal and make something else,metal,metal,NOUN,Hope
-elise.marshall@hope.edu,horseshoe,to melt down to metal and make something else,make,make,VERB,Hope
+elise.marshall@hope.edu,horseshoe,to melt down to metal and make something else,make,make,AUX,Hope
 elise.marshall@hope.edu,horseshoe,to melt down to metal and make something else,something,something,PRON,Hope
 elise.marshall@hope.edu,horseshoe,to melt down to metal and make something else,else,else,ADJ,Hope
 elise.marshall@hope.edu,bridegroom,for wedding pictures,wedding,wedding,VERB,Hope
@@ -3793,7 +3790,7 @@ elise.marshall@hope.edu,lei,to tear apart and use for the pretty flowers,pretty,
 elise.marshall@hope.edu,lei,to tear apart and use for the pretty flowers,flowers,flower,NOUN,Hope
 elise.marshall@hope.edu,lei,to decorate a hawaiian themed party,decorate,decorate,VERB,Hope
 elise.marshall@hope.edu,lei,to decorate a hawaiian themed party,hawaiian,hawaiian,ADJ,Hope
-elise.marshall@hope.edu,lei,to decorate a hawaiian themed party,themed,the,VERB,Hope
+elise.marshall@hope.edu,lei,to decorate a hawaiian themed party,themed,theme,ADJ,Hope
 elise.marshall@hope.edu,lei,to decorate a hawaiian themed party,party,party,NOUN,Hope
 elise.marshall@hope.edu,broccoli,health and wellness,health,health,VERB,Hope
 elise.marshall@hope.edu,broccoli,health and wellness,wellness,heatlh,VERB,Hope
@@ -3826,8 +3823,8 @@ elise.marshall@hope.edu,tepee,to test your survival skills,survival,survive,VERB
 elise.marshall@hope.edu,tepee,to test your survival skills,skills,skill,NOUN,Hope
 elise.marshall@hope.edu,tepee,to learn more about other cultures,learn,learn,VERB,Hope
 elise.marshall@hope.edu,tepee,to learn more about other cultures,cultures,culture,NOUN,Hope
-elise.marshall@hope.edu,tepee,to start fires,start,start,VERB,Hope
-elise.marshall@hope.edu,tepee,to start fires,fires,fire,NOUN,Hope
+elise.marshall@hope.edu,tepee,to start fires,start,start,AUX,Hope
+elise.marshall@hope.edu,tepee,to start fires,fires,fire,VERB,Hope
 elise.marshall@hope.edu,tepee,to throw on someone's house,throw,throw,VERB,Hope
 elise.marshall@hope.edu,tepee,to throw on someone's house,house,house,NOUN,Hope
 elise.marshall@hope.edu,damsel,as a fish you can eat,fish,fish,NOUN,Hope
@@ -3844,7 +3841,7 @@ elise.marshall@hope.edu,narcotics,to feel better about life,better,better,ADJ,Ho
 elise.marshall@hope.edu,narcotics,to feel better about life,life,life,NOUN,Hope
 elise.marshall@hope.edu,cologne,to smell better when you haven't showered,smell,smell,VERB,Hope
 elise.marshall@hope.edu,cologne,to smell better when you haven't showered,better,better,ADJ,Hope
-elise.marshall@hope.edu,cologne,to smell better when you haven't showered,showered,showere,VERB,Hope
+elise.marshall@hope.edu,cologne,to smell better when you haven't showered,showered,shower,VERB,Hope
 elise.marshall@hope.edu,cologne,to steal from someone to make them mad,steal,steal,NOUN,Hope
 elise.marshall@hope.edu,cologne,to steal from someone to make them mad,someone,someone,PRON,Hope
 elise.marshall@hope.edu,cologne,to steal from someone to make them mad,make,make,VERB,Hope
@@ -3856,7 +3853,7 @@ elise.marshall@hope.edu,cologne,to try to impress society or a girl in particula
 elise.marshall@hope.edu,cologne,to try to impress society or a girl in particular,particular,particular,ADJ,Hope
 elise.marshall@hope.edu,cologne,to make you seem put together or rich,make,make,VERB,Hope
 elise.marshall@hope.edu,cologne,to make you seem put together or rich,seem,seem,VERB,Hope
-elise.marshall@hope.edu,cologne,to make you seem put together or rich,put,put,VERB,Hope
+elise.marshall@hope.edu,cologne,to make you seem put together or rich,put,put,AUX,Hope
 elise.marshall@hope.edu,cologne,to make you seem put together or rich,together,together,ADV,Hope
 elise.marshall@hope.edu,cologne,to make you seem put together or rich,rich,rich,ADJ,Hope
 elise.marshall@hope.edu,binoculars,to see things far away,see,see,VERB,Hope
@@ -3890,9 +3887,9 @@ elise.marshall@hope.edu,salt,to make the ocean different from lakes,make,make,VE
 elise.marshall@hope.edu,salt,to make the ocean different from lakes,ocean,ocean,NOUN,Hope
 elise.marshall@hope.edu,salt,to make the ocean different from lakes,different,different,ADJ,Hope
 elise.marshall@hope.edu,salt,to make the ocean different from lakes,lakes,lakes,NOUN,Hope
-elise.marshall@hope.edu,salt,to trick someone into not using sugar,trick,trick,NOUN,Hope
+elise.marshall@hope.edu,salt,to trick someone into not using sugar,trick,trick,VERB,Hope
 elise.marshall@hope.edu,salt,to trick someone into not using sugar,someone,someone,PRON,Hope
-elise.marshall@hope.edu,salt,to trick someone into not using sugar,using,use,VERB,Hope
+elise.marshall@hope.edu,salt,to trick someone into not using sugar,using,use,AUX,Hope
 elise.marshall@hope.edu,salt,to trick someone into not using sugar,sugar,sugar,NOUN,Hope
 elise.marshall@hope.edu,nutcracker,to crack nuts,crack,crack,VERB,Hope
 elise.marshall@hope.edu,nutcracker,to crack nuts,nuts,nut,NOUN,Hope
@@ -3907,8 +3904,8 @@ elise.marshall@hope.edu,gift,to make someone feel better after a death in the fa
 elise.marshall@hope.edu,gift,to make someone feel better after a death in the family,death,death,NOUN,Hope
 elise.marshall@hope.edu,gift,to make someone feel better after a death in the family,family,family,NOUN,Hope
 elise.marshall@hope.edu,gift,to show love or appreciation,show,show,VERB,Hope
-elise.marshall@hope.edu,gift,to show love or appreciation,love,love,VERB,Hope
-elise.marshall@hope.edu,gift,to show love or appreciation,appreciation,appreciation,NOUN,Hope
+elise.marshall@hope.edu,gift,to show love or appreciation,love,love,AUX,Hope
+elise.marshall@hope.edu,gift,to show love or appreciation,appreciation,appreciate,VERB,Hope
 elise.marshall@hope.edu,gift,to manipulate someone into liking you,manipulate,manipulate,VERB,Hope
 elise.marshall@hope.edu,gift,to manipulate someone into liking you,someone,someone,PRON,Hope
 elise.marshall@hope.edu,gift,to manipulate someone into liking you,liking,like,VERB,Hope
@@ -3922,7 +3919,7 @@ elise.marshall@hope.edu,suitcase,as a stroller for your tired kids to sit on so 
 elise.marshall@hope.edu,suitcase,as a stroller for your tired kids to sit on so you can pull them,sit,sit,VERB,Hope
 elise.marshall@hope.edu,suitcase,as a stroller for your tired kids to sit on so you can pull them,can,can,AUX,Hope
 elise.marshall@hope.edu,suitcase,as a stroller for your tired kids to sit on so you can pull them,pull,pull,VERB,Hope
-elise.marshall@hope.edu,brickwork,to make a building,make,make,VERB,Hope
+elise.marshall@hope.edu,brickwork,to make a building,make,make,AUX,Hope
 elise.marshall@hope.edu,brickwork,to make a building,building,build,VERB,Hope
 elise.marshall@hope.edu,brickwork,to fortify a building,fortify,fortify,VERB,Hope
 elise.marshall@hope.edu,brickwork,to fortify a building,building,build,NOUN,Hope
@@ -3968,7 +3965,7 @@ elise.marshall@hope.edu,fedora,to protect from weather,protect,protect,VERB,Hope
 elise.marshall@hope.edu,fedora,to protect from weather,weather,weather,NOUN,Hope
 elise.marshall@hope.edu,fedora,disguise,disguise,disguise,VERB,Hope
 elise.marshall@hope.edu,mammal,to care for,care,care,VERB,Hope
-elise.marshall@hope.edu,mammal,to make your life less lonely,make,make,VERB,Hope
+elise.marshall@hope.edu,mammal,to make your life less lonely,make,make,AUX,Hope
 elise.marshall@hope.edu,mammal,to make your life less lonely,life,life,NOUN,Hope
 elise.marshall@hope.edu,mammal,to make your life less lonely,less,less,ADJ,Hope
 elise.marshall@hope.edu,mammal,to make your life less lonely,lonely,lonely,ADJ,Hope
@@ -3991,7 +3988,7 @@ ella.harris@hope.edu,gate,landscape style,style,style,NOUN,Hope
 ella.harris@hope.edu,comb,brush,brush,brush,VERB,Hope
 ella.harris@hope.edu,comb,style,style,style,VERB,Hope
 ella.harris@hope.edu,floorboard,renovation,renovation,renovation,NOUN,Hope
-ella.harris@hope.edu,comforter,warmth,warmth,warmth,VERB,Hope
+ella.harris@hope.edu,comforter,warmth,warmth,warm,VERB,Hope
 ella.harris@hope.edu,comforter,comfort,comfort,comfort,VERB,Hope
 ella.harris@hope.edu,chest,breathing,breathing,breathe,VERB,Hope
 ella.harris@hope.edu,chest,to lay on,lay,lay,VERB,Hope
@@ -4007,7 +4004,7 @@ ella.harris@hope.edu,keepsake,to gift,gift,gift,VERB,Hope
 ella.harris@hope.edu,keepsake,to remember something special,remember,remember,VERB,Hope
 ella.harris@hope.edu,keepsake,to remember something special,something,something,PRON,Hope
 ella.harris@hope.edu,keepsake,to remember something special,special,special,ADJ,Hope
-ella.harris@hope.edu,pot,cook,cook,cake,VERB,Hope
+ella.harris@hope.edu,pot,cook,cook,cook,VERB,Hope
 ella.harris@hope.edu,pot,eat with,eat,eat,VERB,Hope
 ella.harris@hope.edu,pot,store food in,store,store,VERB,Hope
 ella.harris@hope.edu,pot,store food in,food,food,VERB,Hope
@@ -4017,23 +4014,23 @@ ella.harris@hope.edu,pet,emotional support,emotional,emotional,ADJ,Hope
 ella.harris@hope.edu,pet,emotional support,support,support,VERB,Hope
 ella.harris@hope.edu,animal,care for,care,care,VERB,Hope
 ella.harris@hope.edu,animal,eat,eat,eat,VERB,Hope
-ella.harris@hope.edu,animal,take care of,take,take,VERB,Hope
+ella.harris@hope.edu,animal,take care of,take,take,AUX,Hope
 ella.harris@hope.edu,animal,take care of,care,care,VERB,Hope
 ella.harris@hope.edu,confetti,to celebrate,celebrate,celebrate,VERB,Hope
 ella.harris@hope.edu,confetti,to decorate,decorate,decorate,VERB,Hope
 ella.harris@hope.edu,stream,flow,flow,flow,VERB,Hope
-ella.harris@hope.edu,stream,to use as a resource,use,use,VERB,Hope
+ella.harris@hope.edu,stream,to use as a resource,use,use,AUX,Hope
 ella.harris@hope.edu,stream,to use as a resource,resource,resource,VERB,Hope
 ella.harris@hope.edu,spear,to kill,kill,kill,VERB,Hope
 ella.harris@hope.edu,spear,to scare,scare,scare,VERB,Hope
 ella.harris@hope.edu,handkerchief,blow one's nose,blow,blow,VERB,Hope
 ella.harris@hope.edu,handkerchief,blow one's nose,nose,nose,PRON,Hope
 ella.harris@hope.edu,axle,to replace,replace,replace,VERB,Hope
-ella.harris@hope.edu,axle,use as a part,use,use,VERB,Hope
+ella.harris@hope.edu,axle,use as a part,use,use,AUX,Hope
 ella.harris@hope.edu,axle,use as a part,part,part,NOUN,Hope
 ella.harris@hope.edu,hamster,care for,care,care,VERB,Hope
 ella.harris@hope.edu,hamster,love,love,love,VERB,Hope
-ella.harris@hope.edu,hamster,take care of,take,take,VERB,Hope
+ella.harris@hope.edu,hamster,take care of,take,take,AUX,Hope
 ella.harris@hope.edu,hamster,take care of,care,care,VERB,Hope
 ella.harris@hope.edu,radiologist,to retain information,retain,retain,AUX,Hope
 ella.harris@hope.edu,radiologist,to retain information,information,inform,VERB,Hope
@@ -4051,13 +4048,13 @@ emily.doty@hope.edu,watermelon,sold,sold,sell,VERB,Hope
 emily.doty@hope.edu,headdress,worn,worn,wear,VERB,Hope
 emily.doty@hope.edu,extinguisher,to put out a fire,put,put,VERB,Hope
 emily.doty@hope.edu,extinguisher,to put out a fire,fire,fire,NOUN,Hope
-emily.doty@hope.edu,extinguisher,used a a weapon,used,use,VERB,Hope
+emily.doty@hope.edu,extinguisher,used a a weapon,used,use,AUX,Hope
 emily.doty@hope.edu,extinguisher,used a a weapon,weapon,weapon,VERB,Hope
 emily.doty@hope.edu,cow,obtain milk,obtain,aobtain,VERB,Hope
 emily.doty@hope.edu,cow,obtain milk,milk,milk,VERB,Hope
-emily.doty@hope.edu,cow,used for meat,used,use,VERB,Hope
+emily.doty@hope.edu,cow,used for meat,used,use,AUX,Hope
 emily.doty@hope.edu,cow,used for meat,meat,meat,VERB,Hope
-emily.doty@hope.edu,cow,used as a pet,used,use,VERB,Hope
+emily.doty@hope.edu,cow,used as a pet,used,use,AUX,Hope
 emily.doty@hope.edu,cow,used as a pet,pet,pet,VERB,Hope
 emily.doty@hope.edu,cow,potentially ride the cow,potentially,potentially,ADV,Hope
 emily.doty@hope.edu,cow,potentially ride the cow,ride,ride,VERB,Hope
@@ -4067,8 +4064,8 @@ emily.doty@hope.edu,beer,mix with other things to eat or drink,mix,mix,VERB,Hope
 emily.doty@hope.edu,beer,mix with other things to eat or drink,things,thing,NOUN,Hope
 emily.doty@hope.edu,beer,mix with other things to eat or drink,eat,eat,VERB,Hope
 emily.doty@hope.edu,beer,mix with other things to eat or drink,drink,drink,VERB,Hope
-emily.doty@hope.edu,beer,to get drunk with or make others drunk,get,get,VERB,Hope
-emily.doty@hope.edu,beer,to get drunk with or make others drunk,drunk,drink,VERB,Hope
+emily.doty@hope.edu,beer,to get drunk with or make others drunk,get,get,AUX,Hope
+emily.doty@hope.edu,beer,to get drunk with or make others drunk,drunk,drunk,VERB,Hope
 emily.doty@hope.edu,beer,to get drunk with or make others drunk,make,make,VERB,Hope
 emily.doty@hope.edu,beer,to get drunk with or make others drunk,others,other,NOUN,Hope
 emily.doty@hope.edu,beer,to get drunk with or make others drunk,drunk,drink,VERB,Hope
@@ -4077,9 +4074,9 @@ emily.doty@hope.edu,cabin,a place to stay,stay,stay,VERB,Hope
 emily.doty@hope.edu,cabin,a place to do outdoor activities ,place,place,NOUN,Hope
 emily.doty@hope.edu,cabin,a place to do outdoor activities ,outdoor,outdoor,ADJ,Hope
 emily.doty@hope.edu,cabin,a place to do outdoor activities ,activities,activity,NOUN,Hope
-emily.doty@hope.edu,braid,used to make a rope,used,use,VERB,Hope
-emily.doty@hope.edu,braid,used to make a rope,make,make,VERB,Hope
-emily.doty@hope.edu,braid,used to make a rope,rope,rope,NOUN,Hope
+emily.doty@hope.edu,braid,used to make a rope,used,use,AUX,Hope
+emily.doty@hope.edu,braid,used to make a rope,make,make,AUX,Hope
+emily.doty@hope.edu,braid,used to make a rope,rope,rope,VERB,Hope
 emily.doty@hope.edu,braid,used to put hair up,used,use,VERB,Hope
 emily.doty@hope.edu,braid,used to put hair up,put,put,VERB,Hope
 emily.doty@hope.edu,braid,used to put hair up,hair,hair,NOUN,Hope
@@ -4099,7 +4096,7 @@ emily.doty@hope.edu,handbag,a thing that can show social status,can,can,AUX,Hope
 emily.doty@hope.edu,handbag,a thing that can show social status,show,show,VERB,Hope
 emily.doty@hope.edu,handbag,a thing that can show social status,social,social,ADJ,Hope
 emily.doty@hope.edu,handbag,a thing that can show social status,status,status,VERB,Hope
-emily.doty@hope.edu,yearbook,used to show pictures,used,use,VERB,Hope
+emily.doty@hope.edu,yearbook,used to show pictures,used,use,AUX,Hope
 emily.doty@hope.edu,yearbook,used to show pictures,show,show,VERB,Hope
 emily.doty@hope.edu,yearbook,used to show pictures,pictures,picture,NOUN,Hope
 emily.doty@hope.edu,yearbook,portrays memories and ideas from the year,portrays,portray,NOUN,Hope
@@ -4108,26 +4105,26 @@ emily.doty@hope.edu,yearbook,portrays memories and ideas from the year,ideas,ide
 emily.doty@hope.edu,yearbook,portrays memories and ideas from the year,year,year,NOUN,Hope
 emily.doty@hope.edu,yearbook,tells a story ,tells,tell,NOUN,Hope
 emily.doty@hope.edu,yearbook,tells a story ,story,story,VERB,Hope
-emily.doty@hope.edu,pepper,used as a spice,used,use,VERB,Hope
+emily.doty@hope.edu,pepper,used as a spice,used,use,AUX,Hope
 emily.doty@hope.edu,pepper,used as a spice,spice,spice,VERB,Hope
 emily.doty@hope.edu,pepper,also can be eaten straight up,also,also,ADV,Hope
 emily.doty@hope.edu,pepper,also can be eaten straight up,can,can,AUX,Hope
 emily.doty@hope.edu,pepper,also can be eaten straight up,eaten,eat,VERB,Hope
 emily.doty@hope.edu,pepper,also can be eaten straight up,straight,straight,ADV,Hope
-emily.doty@hope.edu,racehorse,used to race,used,use,VERB,Hope
+emily.doty@hope.edu,racehorse,used to race,used,use,AUX,Hope
 emily.doty@hope.edu,racehorse,used to race,race,race,VERB,Hope
 emily.doty@hope.edu,racehorse,you can bet on a racehorse,can,can,AUX,Hope
 emily.doty@hope.edu,racehorse,you can bet on a racehorse,bet,bet,VERB,Hope
 emily.doty@hope.edu,shortbread,eaten,eaten,eat,VERB,Hope
 emily.doty@hope.edu,shortbread,thrown,thrown,throw,VERB,Hope
-emily.doty@hope.edu,vodka,used to drink casually with friends,used,use,VERB,Hope
+emily.doty@hope.edu,vodka,used to drink casually with friends,used,use,AUX,Hope
 emily.doty@hope.edu,vodka,used to drink casually with friends,drink,drink,VERB,Hope
 emily.doty@hope.edu,vodka,used to drink casually with friends,casually,casually,ADV,Hope
 emily.doty@hope.edu,vodka,used to drink casually with friends,friends,friend,NOUN,Hope
 emily.doty@hope.edu,vodka,used to get drunk,used,use,VERB,Hope
 emily.doty@hope.edu,vodka,used to get drunk,get,get,VERB,Hope
 emily.doty@hope.edu,vodka,used to get drunk,drunk,drink,VERB,Hope
-emily.doty@hope.edu,divorcee,use this person to relate to if you are also divorced ,use,use,VERB,Hope
+emily.doty@hope.edu,divorcee,use this person to relate to if you are also divorced ,use,use,AUX,Hope
 emily.doty@hope.edu,divorcee,use this person to relate to if you are also divorced ,person,person,NOUN,Hope
 emily.doty@hope.edu,divorcee,use this person to relate to if you are also divorced ,relate,relate,VERB,Hope
 emily.doty@hope.edu,divorcee,use this person to relate to if you are also divorced ,also,also,ADV,Hope
@@ -4138,7 +4135,7 @@ emily.doty@hope.edu,porch,stand on,stand,stand,VERB,Hope
 emily.doty@hope.edu,porch,eat on top of,eat,eat,VERB,Hope
 emily.doty@hope.edu,porch,eat on top of,top,top,ADJ,Hope
 emily.doty@hope.edu,porch,look out,look,look,VERB,Hope
-emily.doty@hope.edu,carpeting,used as a place to sit,used,use,VERB,Hope
+emily.doty@hope.edu,carpeting,used as a place to sit,used,use,AUX,Hope
 emily.doty@hope.edu,carpeting,used as a place to sit,place,place,NOUN,Hope
 emily.doty@hope.edu,carpeting,used as a place to sit,sit,sit,VERB,Hope
 emily.doty@hope.edu,carpeting,to soften where you walk,soften,soften,VERB,Hope
@@ -4151,30 +4148,30 @@ emily.doty@hope.edu,pliers,grab or twist a small object,grab,grab,VERB,Hope
 emily.doty@hope.edu,pliers,grab or twist a small object,twist,twist,VERB,Hope
 emily.doty@hope.edu,pliers,grab or twist a small object,small,small,ADJ,Hope
 emily.doty@hope.edu,pliers,grab or twist a small object,object,object,ADV,Hope
-emily.doty@hope.edu,sauna,used to distress,used,use,VERB,Hope
+emily.doty@hope.edu,sauna,used to distress,used,use,AUX,Hope
 emily.doty@hope.edu,sauna,used to distress,distress,relax,VERB,Hope
 emily.doty@hope.edu,sauna,relaxation,relaxation,relax,VERB,Hope
 emily.doty@hope.edu,glassware,used as a tool for eating and drinking,used,use,VERB,Hope
 emily.doty@hope.edu,glassware,used as a tool for eating and drinking,tool,tool,VERB,Hope
 emily.doty@hope.edu,glassware,used as a tool for eating and drinking,eating,eat,VERB,Hope
 emily.doty@hope.edu,glassware,used as a tool for eating and drinking,drinking,drink,VERB,Hope
-emily.doty@hope.edu,glassware,used as a weapon potentially ,used,use,VERB,Hope
+emily.doty@hope.edu,glassware,used as a weapon potentially ,used,use,AUX,Hope
 emily.doty@hope.edu,glassware,used as a weapon potentially ,weapon,weapon,VERB,Hope
 emily.doty@hope.edu,glassware,used as a weapon potentially ,potentially,potentially,ADV,Hope
-emily.doty@hope.edu,footstool,used for leg and foot support,used,use,VERB,Hope
+emily.doty@hope.edu,footstool,used for leg and foot support,used,use,AUX,Hope
 emily.doty@hope.edu,footstool,used for leg and foot support,leg,leg,NOUN,Hope
 emily.doty@hope.edu,footstool,used for leg and foot support,foot,foot,NOUN,Hope
 emily.doty@hope.edu,footstool,used for leg and foot support,support,support,VERB,Hope
 emily.doty@hope.edu,footstool,comfort while sitting ,comfort,comfort,NOUN,Hope
 emily.doty@hope.edu,footstool,comfort while sitting ,sitting,sit,VERB,Hope
-emily.doty@hope.edu,cellophane,used to keep food fresh,used,use,VERB,Hope
-emily.doty@hope.edu,cellophane,used to keep food fresh,keep,keep,VERB,Hope
+emily.doty@hope.edu,cellophane,used to keep food fresh,used,use,AUX,Hope
+emily.doty@hope.edu,cellophane,used to keep food fresh,keep,keep,AUX,Hope
 emily.doty@hope.edu,cellophane,used to keep food fresh,food,food,NOUN,Hope
-emily.doty@hope.edu,cellophane,used to keep food fresh,fresh,fresh,ADJ,Hope
-emily.doty@hope.edu,barricade,used to block off something,used,use,VERB,Hope
+emily.doty@hope.edu,cellophane,used to keep food fresh,fresh,fresh,VERB,Hope
+emily.doty@hope.edu,barricade,used to block off something,used,use,AUX,Hope
 emily.doty@hope.edu,barricade,used to block off something,block,block,VERB,Hope
 emily.doty@hope.edu,barricade,used to block off something,something,something,PRON,Hope
-emily.doty@hope.edu,pillar,used for support of a structure,used,use,VERB,Hope
+emily.doty@hope.edu,pillar,used for support of a structure,used,use,AUX,Hope
 emily.doty@hope.edu,pillar,used for support of a structure,support,support,VERB,Hope
 emily.doty@hope.edu,pillar,used for support of a structure,structure,structure,VERB,Hope
 emily.doty@hope.edu,pillar,also used as decoration ,also,also,ADV,Hope
@@ -4200,7 +4197,7 @@ grace.anderson@hope.edu,macaroon,dipping,dipping,dip,VERB,Hope
 grace.anderson@hope.edu,popcorn,entertainment,entertainment,entertain,VERB,Hope
 grace.anderson@hope.edu,popcorn,eating,eating,eat,VERB,Hope
 grace.anderson@hope.edu,popcorn,popping,popping,pop,VERB,Hope
-grace.anderson@hope.edu,popcorn,shaking,shaking,shak,VERB,Hope
+grace.anderson@hope.edu,popcorn,shaking,shaking,shake,VERB,Hope
 grace.anderson@hope.edu,tongue,licking,licking,lick,VERB,Hope
 grace.anderson@hope.edu,tongue,twirling,twirling,twirl,VERB,Hope
 grace.anderson@hope.edu,tongue,tasting,tasting,taste,VERB,Hope
@@ -4219,7 +4216,7 @@ grace.anderson@hope.edu,scoop,moving,moving,move,VERB,Hope
 grace.anderson@hope.edu,beanstalk,climbing,climbing,climb,VERB,Hope
 grace.anderson@hope.edu,beanstalk,harvesting,harvesting,harvest,VERB,Hope
 grace.anderson@hope.edu,beanstalk,growing,growing,grow,VERB,Hope
-grace.anderson@hope.edu,beanstalk,admiring,admiring,admir,VERB,Hope
+grace.anderson@hope.edu,beanstalk,admiring,admiring,admire,VERB,Hope
 grace.anderson@hope.edu,beanstalk,nurturing,nurturing,nurture,VERB,Hope
 grace.anderson@hope.edu,gold,jewelry,jewelry,jewelry,NOUN,Hope
 grace.anderson@hope.edu,gold,dental work,dental,dental,ADJ,Hope
@@ -4265,7 +4262,7 @@ grace.anderson@hope.edu,anklet,swinging,swinging,swing,VERB,Hope
 grace.anderson@hope.edu,anklet,clasping,clasping,clasp,VERB,Hope
 grace.anderson@hope.edu,anklet,playing,playing,play,VERB,Hope
 grace.anderson@hope.edu,anklet,decorating,decorating,decorate,VERB,Hope
-grace.anderson@hope.edu,catfish,swimming,swimming,swimm,VERB,Hope
+grace.anderson@hope.edu,catfish,swimming,swimming,swim,VERB,Hope
 grace.anderson@hope.edu,catfish,eating,eating,eat,VERB,Hope
 grace.anderson@hope.edu,catfish,splashing,splashing,spashe,VERB,Hope
 grace.anderson@hope.edu,catfish,catching,catching,catch,VERB,Hope
@@ -4340,7 +4337,7 @@ grace.medalen@hope.edu,kneecap,bending,bending,bend,VERB,Hope
 grace.medalen@hope.edu,kneecap,kicking,kicking,kick,VERB,Hope
 grace.medalen@hope.edu,auto,driving,driving,drive,VERB,Hope
 grace.medalen@hope.edu,auto,simplifying,simplifying,simplify,VERB,Hope
-grace.medalen@hope.edu,jet,flying,flying,flie,VERB,Hope
+grace.medalen@hope.edu,jet,flying,flying,fly,VERB,Hope
 grace.medalen@hope.edu,jet,traveling,traveling,travel,VERB,Hope
 grace.medalen@hope.edu,jet,propulsion,propulsion,propel,VERB,Hope
 grace.medalen@hope.edu,critter,pet,pet,pet,VERB,Hope
@@ -5217,7 +5214,7 @@ jacquelin.dlamater@hope.edu,leftovers,store,store,store,VERB,Hope
 jacquelin.dlamater@hope.edu,leftovers,package,package,package,NOUN,Hope
 jacquelin.dlamater@hope.edu,harmonica,make music,make,make,VERB,Hope
 jacquelin.dlamater@hope.edu,harmonica,make music,music,music,NOUN,Hope
-jacquelin.dlamater@hope.edu,harmonica,breathe through,breathe,breato,VERB,Hope
+jacquelin.dlamater@hope.edu,harmonica,breathe through,breathe,breathe,VERB,Hope
 jacquelin.dlamater@hope.edu,curler,hair,hair,hair,NOUN,Hope
 jacquelin.dlamater@hope.edu,curler,perm,perm,perm,X,Hope
 jacquelin.dlamater@hope.edu,curler,curl,curl,curl,VERB,Hope
@@ -5778,7 +5775,7 @@ jeffrey.clapp@hope.edu,cherry,squish,squish,squish,VERB,Hope
 jeffrey.clapp@hope.edu,cherry,sell,sell,sell,VERB,Hope
 jeffrey.clapp@hope.edu,cherry,step on it,step,step on,VERB,Hope
 jeffrey.clapp@hope.edu,cherry,cook,cook,cake,VERB,Hope
-jeffrey.clapp@hope.edu,cherry,draw,draw,dree,VERB,Hope
+jeffrey.clapp@hope.edu,cherry,draw,draw,draw,VERB,Hope
 jeffrey.clapp@hope.edu,scythe,throw,throw,throw,VERB,Hope
 jeffrey.clapp@hope.edu,scythe,harvest,harvest,harvest,VERB,Hope
 jeffrey.clapp@hope.edu,scythe,sell,sell,sell,VERB,Hope
@@ -6103,7 +6100,7 @@ jennifer.rabahy@hope.edu,swamp,live in,live,live,VERB,Hope
 jennifer.rabahy@hope.edu,swamp,tread,tread,tread,VERB,Hope
 jennifer.rabahy@hope.edu,swamp,grow,grow,grow,VERB,Hope
 jennifer.rabahy@hope.edu,ink,write,write,write,VERB,Hope
-jennifer.rabahy@hope.edu,ink,draw,draw,dree,VERB,Hope
+jennifer.rabahy@hope.edu,ink,draw,draw,draw,VERB,Hope
 jennifer.rabahy@hope.edu,ink,doodle,doodle,doodle,VERB,Hope
 jennifer.rabahy@hope.edu,ink,smear,smear,smear,VERB,Hope
 jennifer.rabahy@hope.edu,ink,smudge ,smudge,smudge,VERB,Hope
@@ -6314,7 +6311,7 @@ jessica.eggleston@hope.edu,paper,make origami,make,make,VERB,Hope
 jessica.eggleston@hope.edu,paper,make origami,origami,origami,VERB,Hope
 jessica.eggleston@hope.edu,paper,make cards,make,make,VERB,Hope
 jessica.eggleston@hope.edu,paper,make cards,cards,card,NOUN,Hope
-jessica.eggleston@hope.edu,paper,draw on,draw,dree,VERB,Hope
+jessica.eggleston@hope.edu,paper,draw on,draw,draw,VERB,Hope
 jessica.eggleston@hope.edu,paper,fold,fold,fold,VERB,Hope
 jessica.eggleston@hope.edu,paper,crease,crease,crease,NOUN,Hope
 jessica.eggleston@hope.edu,paper,title,title,title,NOUN,Hope
@@ -6546,7 +6543,7 @@ jillian.hickok@hope.edu,icing,decorate food with it,decorate,decorate,VERB,Hope
 jillian.hickok@hope.edu,icing,decorate food with it,food,food,NOUN,Hope
 jillian.hickok@hope.edu,icing,throw it at someone,throw,throw,VERB,Hope
 jillian.hickok@hope.edu,icing,throw it at someone,someone,someone,PRON,Hope
-jillian.hickok@hope.edu,pillowcase,put a pillow in it,put,put,VERB,Hope
+jillian.hickok@hope.edu,pillowcase,put a pillow in it,put,put,AUX,Hope
 jillian.hickok@hope.edu,pillowcase,put a pillow in it,pillow,pillow,NOUN,Hope
 jillian.hickok@hope.edu,pillowcase,halloween treat bag,halloween,halloween,AUX,Hope
 jillian.hickok@hope.edu,pillowcase,halloween treat bag,treat,treat,VERB,Hope
@@ -6555,23 +6552,23 @@ jillian.hickok@hope.edu,pillowcase,carry stuff in it,carry,carry,VERB,Hope
 jillian.hickok@hope.edu,pillowcase,carry stuff in it,stuff,stuff,NOUN,Hope
 jillian.hickok@hope.edu,pillowcase,store things in it,store,store,VERB,Hope
 jillian.hickok@hope.edu,pillowcase,store things in it,things,thing,NOUN,Hope
-jillian.hickok@hope.edu,pillowcase,use it in a craft,use,use,VERB,Hope
+jillian.hickok@hope.edu,pillowcase,use it in a craft,use,use,AUX,Hope
 jillian.hickok@hope.edu,pillowcase,use it in a craft,craft,craft,NOUN,Hope
 jillian.hickok@hope.edu,lobe,touch,touch,touch,VERB,Hope
 jillian.hickok@hope.edu,lobe,bite,bite,bite,VERB,Hope
 jillian.hickok@hope.edu,lobe,pierce,pierce,pierce,VERB,Hope
-jillian.hickok@hope.edu,neckwear,keep neck warm,keep,keep,VERB,Hope
+jillian.hickok@hope.edu,neckwear,keep neck warm,keep,keep,AUX,Hope
 jillian.hickok@hope.edu,neckwear,keep neck warm,neck,neck,NOUN,Hope
 jillian.hickok@hope.edu,neckwear,keep neck warm,warm,warm,VERB,Hope
-jillian.hickok@hope.edu,neckwear,use it as a tie,use,use,VERB,Hope
+jillian.hickok@hope.edu,neckwear,use it as a tie,use,use,AUX,Hope
 jillian.hickok@hope.edu,neckwear,use it as a tie,tie,tie,VERB,Hope
 jillian.hickok@hope.edu,neckwear,tie something together,tie,tie,VERB,Hope
 jillian.hickok@hope.edu,neckwear,tie something together,something,something,PRON,Hope
 jillian.hickok@hope.edu,neckwear,tie something together,together,together,ADV,Hope
 jillian.hickok@hope.edu,thumb,hold things,hold,hold,VERB,Hope
 jillian.hickok@hope.edu,thumb,hold things,things,thing,NOUN,Hope
-jillian.hickok@hope.edu,thumb,makee a thumbprint,make,make,VERB,Hope
-jillian.hickok@hope.edu,thumb,makee a thumbprint,thumbprint,thumbprint,NOUN,Hope
+jillian.hickok@hope.edu,thumb,makee a thumbprint,make,make,AUX,Hope
+jillian.hickok@hope.edu,thumb,makee a thumbprint,thumbprint,thumbprint,VERB,Hope
 jillian.hickok@hope.edu,thumb,poke someone,poke,poke,VERB,Hope
 jillian.hickok@hope.edu,thumb,poke someone,someone,someone,PRON,Hope
 jillian.hickok@hope.edu,thumb,push a button,push,push,VERB,Hope
@@ -6580,7 +6577,7 @@ jillian.hickok@hope.edu,thumb,type,type,type,VERB,Hope
 jillian.hickok@hope.edu,thumb,paint,paint,paint,VERB,Hope
 jillian.hickok@hope.edu,thumb,knock something over,knock,knock,VERB,Hope
 jillian.hickok@hope.edu,thumb,knock something over,something,something,PRON,Hope
-jillian.hickok@hope.edu,gavel,make a loud noise,make,make,VERB,Hope
+jillian.hickok@hope.edu,gavel,make a loud noise,make,make,AUX,Hope
 jillian.hickok@hope.edu,gavel,make a loud noise,loud,loud,ADV,Hope
 jillian.hickok@hope.edu,gavel,make a loud noise,noise,noise,VERB,Hope
 jillian.hickok@hope.edu,gavel,signal the end of a meeting,signal,signal,VERB,Hope
@@ -6591,9 +6588,9 @@ jillian.hickok@hope.edu,gavel,hit someone,someone,someone,PRON,Hope
 jillian.hickok@hope.edu,gavel,paint with it,paint,paint,VERB,Hope
 jillian.hickok@hope.edu,gavel,hit a button,hit,hit,VERB,Hope
 jillian.hickok@hope.edu,gavel,hit a button,button,button,NOUN,Hope
-jillian.hickok@hope.edu,gavel,use as paper weight,use,use,VERB,Hope
+jillian.hickok@hope.edu,gavel,use as paper weight,use,use,AUX,Hope
 jillian.hickok@hope.edu,gavel,use as paper weight,paper,paper,NOUN,Hope
-jillian.hickok@hope.edu,gavel,use as paper weight,weight,weight,NOUN,Hope
+jillian.hickok@hope.edu,gavel,use as paper weight,weight,weight,VERB,Hope
 jillian.hickok@hope.edu,finger,push a button,push,push,VERB,Hope
 jillian.hickok@hope.edu,finger,push a button,button,button,NOUN,Hope
 jillian.hickok@hope.edu,finger,type,type,type,VERB,Hope
@@ -6621,9 +6618,9 @@ jillian.hickok@hope.edu,abdomen,push a button,button,button,NOUN,Hope
 jillian.hickok@hope.edu,abdomen,rest something on it,rest,rest,VERB,Hope
 jillian.hickok@hope.edu,abdomen,rest something on it,something,something,PRON,Hope
 jillian.hickok@hope.edu,Food,eat it,eat,eat,VERB,Hope
-jillian.hickok@hope.edu,Food,cook it,cook,cake,VERB,Hope
+jillian.hickok@hope.edu,Food,cook it,cook,cookie,VERB,Hope
 jillian.hickok@hope.edu,Food,freeze it,freeze,freeze,VERB,Hope
-jillian.hickok@hope.edu,Food,make art with it,make,make,VERB,Hope
+jillian.hickok@hope.edu,Food,make art with it,make,make,AUX,Hope
 jillian.hickok@hope.edu,Food,make art with it,art,art,NOUN,Hope
 jillian.hickok@hope.edu,Food,give it to others,give,give,VERB,Hope
 jillian.hickok@hope.edu,Food,give it to others,others,other,NOUN,Hope
@@ -6672,13 +6669,13 @@ jillian.hickok@hope.edu,lawyer,talk,talk,talk,VERB,Hope
 jillian.hickok@hope.edu,lawyer,argue,argue,argue,VERB,Hope
 jillian.hickok@hope.edu,fixture,hang things on it,hang,hang,VERB,Hope
 jillian.hickok@hope.edu,fixture,hang things on it,things,thing,NOUN,Hope
-jillian.hickok@hope.edu,latrine,use as bathroom,use,use,VERB,Hope
+jillian.hickok@hope.edu,latrine,use as bathroom,use,use,AUX,Hope
 jillian.hickok@hope.edu,latrine,use as bathroom,bathroom,bathroom,VERB,Hope
 jillian.hickok@hope.edu,latrine,fill with objects,fill,fill,VERB,Hope
 jillian.hickok@hope.edu,latrine,fill with objects,objects,object,VERB,Hope
 jillian.hickok@hope.edu,latrine,lock someone in there,lock,lock,VERB,Hope
 jillian.hickok@hope.edu,latrine,lock someone in there,someone,someone,PRON,Hope
-jillian.hickok@hope.edu,opium,get high,get,get,VERB,Hope
+jillian.hickok@hope.edu,opium,get high,get,get,AUX,Hope
 jillian.hickok@hope.edu,opium,get high,high,high,VERB,Hope
 jillian.hickok@hope.edu,opium,relieve pain,relieve,relieve,VERB,Hope
 jillian.hickok@hope.edu,opium,relieve pain,pain,pain,NOUN,Hope
@@ -6723,7 +6720,7 @@ jillian.hickok@hope.edu,mail,tell stories,tell,tell,VERB,Hope
 jillian.hickok@hope.edu,mail,tell stories,stories,story,NOUN,Hope
 jillian.hickok@hope.edu,mail,communicate,communicate,communicate,VERB,Hope
 jillian.hickok@hope.edu,mail,throw,throw,throw,VERB,Hope
-jillian.hickok@hope.edu,mail,shred,shred,shr,VERB,Hope
+jillian.hickok@hope.edu,mail,shred,shred,shred,VERB,Hope
 jillian.hickok@hope.edu,mail,pay bills,pay,pay,VERB,Hope
 jillian.hickok@hope.edu,mail,pay bills,bills,bills,NOUN,Hope
 jillian.hickok@hope.edu,hearse,transport things,transport,transport,VERB,Hope
@@ -6737,11 +6734,11 @@ jillian.hickok@hope.edu,roadway,ride bike,bike,bike,NOUN,Hope
 jillian.hickok@hope.edu,roadway,roll ball,roll,roll,VERB,Hope
 jillian.hickok@hope.edu,roadway,roll ball,ball,ball,NOUN,Hope
 jillian.hickok@hope.edu,undershirt,wear,wear,wear,VERB,Hope
-jillian.hickok@hope.edu,undershirt,use as flag,use,use,VERB,Hope
+jillian.hickok@hope.edu,undershirt,use as flag,use,use,AUX,Hope
 jillian.hickok@hope.edu,undershirt,use as flag,flag,flag,NOUN,Hope
 jillian.hickok@hope.edu,undershirt,throw it,throw,throw,VERB,Hope
 jillian.hickok@hope.edu,dietician,ask advice,ask,ask,VERB,Hope
-jillian.hickok@hope.edu,dietician,ask advice,advice,advice,VERB,Hope
+jillian.hickok@hope.edu,dietician,ask advice,advice,advice,NOUN,Hope
 jillian.hickok@hope.edu,dietician,talk,talk,talk,VERB,Hope
 jillian.hickok@hope.edu,dietician,dance,dance,dance,VERB,Hope
 jillian.hickok@hope.edu,shipmate,running a ship,running,run,VERB,Hope
@@ -6750,7 +6747,7 @@ jillian.hickok@hope.edu,shipmate,talk,talk,talk,VERB,Hope
 jillian.hickok@hope.edu,shipmate,lead a rebellion,lead,lead,VERB,Hope
 jillian.hickok@hope.edu,shipmate,lead a rebellion,rebellion,rebellion,NOUN,Hope
 jillian.hickok@hope.edu,bratwurst,eat,eat,eat,VERB,Hope
-jillian.hickok@hope.edu,bratwurst,cook,cook,cake,VERB,Hope
+jillian.hickok@hope.edu,bratwurst,cook,cook,cook,VERB,Hope
 jillian.hickok@hope.edu,bratwurst,serve,serve,serve,VERB,Hope
 jillian.hickok@hope.edu,bratwurst,push a button,push,push,VERB,Hope
 jillian.hickok@hope.edu,bratwurst,push a button,button,button,NOUN,Hope
@@ -6800,14 +6797,14 @@ jillian.hickok@hope.edu,fingerprint,make art,make,make,VERB,Hope
 jillian.hickok@hope.edu,fingerprint,make art,art,art,VERB,Hope
 jillian.hickok@hope.edu,salesgirl,ask questions,ask,ask,VERB,Hope
 jillian.hickok@hope.edu,salesgirl,ask questions,questions,question,NOUN,Hope
-jillian.hickok@hope.edu,salesgirl,get clothes,get,get,VERB,Hope
+jillian.hickok@hope.edu,salesgirl,get clothes,get,get,AUX,Hope
 jillian.hickok@hope.edu,salesgirl,get clothes,clothes,clothes,NOUN,Hope
-jillian.hickok@hope.edu,salesgirl,get more sizes,get,get,VERB,Hope
-jillian.hickok@hope.edu,salesgirl,get more sizes,sizes,size,VERB,Hope
+jillian.hickok@hope.edu,salesgirl,get more sizes,get,get,AUX,Hope
+jillian.hickok@hope.edu,salesgirl,get more sizes,sizes,size,NOUN,Hope
 jillian.hickok@hope.edu,liquid,drink,drink,drink,VERB,Hope
 jillian.hickok@hope.edu,liquid,paint,paint,paint,VERB,Hope
 jillian.hickok@hope.edu,liquid,pour,pour,pour,VERB,Hope
-jillian.hickok@hope.edu,liquid,cook,cook,cake,VERB,Hope
+jillian.hickok@hope.edu,liquid,cook,cook,cook,VERB,Hope
 jillian.hickok@hope.edu,liquid,bake,bake,bake,VERB,Hope
 jillian.hickok@hope.edu,liquid,splash,splash,splash,VERB,Hope
 jillian.hickok@hope.edu,liquid,swim,swim,swim,VERB,Hope
@@ -6826,7 +6823,7 @@ jillian.hickok@hope.edu,shorts,wear,wear,wear,VERB,Hope
 jillian.hickok@hope.edu,shorts,do crafts,crafts,craft,VERB,Hope
 jillian.hickok@hope.edu,shorts,paint,paint,paint,VERB,Hope
 jillian.hickok@hope.edu,pea,eat,eat,eat,VERB,Hope
-jillian.hickok@hope.edu,pea,cook,cook,cake,VERB,Hope
+jillian.hickok@hope.edu,pea,cook,cook,cook,VERB,Hope
 jillian.hickok@hope.edu,pea,throw,throw,throw,VERB,Hope
 jillian.hickok@hope.edu,pea,hit someone,hit,hit,VERB,Hope
 jillian.hickok@hope.edu,pea,hit someone,someone,someone,PRON,Hope
@@ -6868,7 +6865,6 @@ jonathan.ricofajard@hope.edu,bedroom,hangout,hangout,hangout,VERB,Hope
 jonathan.ricofajard@hope.edu,bedroom,homework,homework,homework,NOUN,Hope
 jonathan.ricofajard@hope.edu,bedroom,videogames,videogame,videogame,NOUN,Hope
 jonathan.ricofajard@hope.edu,bedroom,sexual intercourse,sexual,sex,VERB,Hope
-jonathan.ricofajard@hope.edu,bedroom,sexual intercourse,intercourse,sex,VERB,Hope
 jonathan.ricofajard@hope.edu,bedroom,eating,eating,eat,VERB,Hope
 jonathan.ricofajard@hope.edu,magician,birthday party,birthday,birthday,NOUN,Hope
 jonathan.ricofajard@hope.edu,magician,birthday party,party,party,NOUN,Hope
@@ -6921,7 +6917,7 @@ jonathan.ricofajard@hope.edu,senorita,dating,dating,date,VERB,Hope
 jonathan.ricofajard@hope.edu,straw,drinking,drinking,drink,VERB,Hope
 jonathan.ricofajard@hope.edu,straw,absorbs moisture,absorbs,absorb,VERB,Hope
 jonathan.ricofajard@hope.edu,straw,absorbs moisture,moisture,moisture,NOUN,Hope
-jonathan.ricofajard@hope.edu,straw,feeds animals,feeds,feed,NOUN,Hope
+jonathan.ricofajard@hope.edu,straw,feeds animals,feeds,feed,VERB,Hope
 jonathan.ricofajard@hope.edu,straw,feeds animals,animals,animal,NOUN,Hope
 jonathan.ricofajard@hope.edu,straw,decorations,decorations,decorate,VERB,Hope
 jonathan.ricofajard@hope.edu,straw,stairs,stairs,stair,NOUN,Hope
@@ -6956,13 +6952,12 @@ jonathan.ricofajard@hope.edu,bobsleigh,sliding,sliding,slide,VERB,Hope
 jonathan.ricofajard@hope.edu,bobsleigh,shield,shield,shield,VERB,Hope
 jonathan.ricofajard@hope.edu,bobsleigh,weapon,weapon,weapon,VERB,Hope
 jonathan.ricofajard@hope.edu,reindeer,santa's sleigh,sleigh,sleigh,INTJ,Hope
-jonathan.ricofajard@hope.edu,hose,spraying water,spraying,spraie,VERB,Hope
+jonathan.ricofajard@hope.edu,hose,spraying water,spraying,spray,VERB,Hope
 jonathan.ricofajard@hope.edu,hose,spraying water,water,water,VERB,Hope
 jonathan.ricofajard@hope.edu,hose,watering plants,watering,wate,VERB,Hope
 jonathan.ricofajard@hope.edu,hose,watering plants,plants,plant,NOUN,Hope
 jonathan.ricofajard@hope.edu,hose,bathing animals,bathing,bathe,VERB,Hope
 jonathan.ricofajard@hope.edu,hose,bathing animals,animals,animal,NOUN,Hope
-jonathan.ricofajard@hope.edu,hose,1960's oppression of african americans,s,'s,PART,Hope
 jonathan.ricofajard@hope.edu,hose,1960's oppression of african americans,oppression,oppression,NOUN,Hope
 jonathan.ricofajard@hope.edu,hose,1960's oppression of african americans,african,african,ADJ,Hope
 jonathan.ricofajard@hope.edu,hose,1960's oppression of african americans,americans,american,PROPN,Hope
@@ -6998,7 +6993,7 @@ jonathan.ricofajard@hope.edu,luggage,exchanging items,items,item,NOUN,Hope
 jonathan.ricofajard@hope.edu,luggage,transporting items,transporting,transport,VERB,Hope
 jonathan.ricofajard@hope.edu,luggage,transporting items,items,item,NOUN,Hope
 jonathan.ricofajard@hope.edu,luggage,traveling,traveling,travel,VERB,Hope
-josephine.farrell@hope.edu,fence,keep in,keep,keep,VERB,Hope
+josephine.farrell@hope.edu,fence,keep in,keep,keep,AUX,Hope
 josephine.farrell@hope.edu,fence,protect,protect,protect,VERB,Hope
 josephine.farrell@hope.edu,fence,keep out,keep,keep,VERB,Hope
 josephine.farrell@hope.edu,fence,guard,guard,guard,VERB,Hope
@@ -7022,17 +7017,17 @@ josephine.farrell@hope.edu,lint,collect,collect,collect,VERB,Hope
 josephine.farrell@hope.edu,receipt,return,return,return,VERB,Hope
 josephine.farrell@hope.edu,receipt,proof of purchase,proof,proof,VERB,Hope
 josephine.farrell@hope.edu,receipt,proof of purchase,purchase,purchase,VERB,Hope
-josephine.farrell@hope.edu,receipt,shred,shred,shr,VERB,Hope
+josephine.farrell@hope.edu,receipt,shred,shred,shred,VERB,Hope
 josephine.farrell@hope.edu,receipt,read,read,read,VERB,Hope
 josephine.farrell@hope.edu,receipt,reuse,reuse,reuse,NOUN,Hope
 josephine.farrell@hope.edu,receipt,survey,survey,survey,VERB,Hope
 josephine.farrell@hope.edu,receipt,coupons ,coupons,coupon,VERB,Hope
 josephine.farrell@hope.edu,nurse,health,health,health,VERB,Hope
 josephine.farrell@hope.edu,nurse,nurture,nurture,nurture,VERB,Hope
-josephine.farrell@hope.edu,nurse,take care of,take,take,VERB,Hope
+josephine.farrell@hope.edu,nurse,take care of,take,take,AUX,Hope
 josephine.farrell@hope.edu,nurse,take care of,care,care,VERB,Hope
 josephine.farrell@hope.edu,nurse,medicine,medicine,medicine,NOUN,Hope
-josephine.farrell@hope.edu,nurse,check ups,check,check,VERB,Hope
+josephine.farrell@hope.edu,nurse,check ups,check,check up,VERB,Hope
 josephine.farrell@hope.edu,nurse,check ups,ups,ups,NOUN,Hope
 josephine.farrell@hope.edu,nurse,vitals,vitals,vitals,NOUN,Hope
 josephine.farrell@hope.edu,encyclopedia,read,read,read,VERB,Hope
@@ -7041,8 +7036,8 @@ josephine.farrell@hope.edu,encyclopedia,study,study,study,VERB,Hope
 josephine.farrell@hope.edu,encyclopedia,memorize,memorize,memorize,VERB,Hope
 josephine.farrell@hope.edu,encyclopedia,learn,learn,learn,VERB,Hope
 josephine.farrell@hope.edu,encyclopedia,decorate,decorate,decorate,VERB,Hope
-josephine.farrell@hope.edu,watch,keep time,keep,keep,VERB,Hope
-josephine.farrell@hope.edu,watch,keep time,time,time,NOUN,Hope
+josephine.farrell@hope.edu,watch,keep time,keep,keep,AUX,Hope
+josephine.farrell@hope.edu,watch,keep time,time,time,VERB,Hope
 josephine.farrell@hope.edu,watch,accessorize,accessorize,accessorize,VERB,Hope
 josephine.farrell@hope.edu,watch,stay responsible,stay,stay,VERB,Hope
 josephine.farrell@hope.edu,watch,stay responsible,responsible,responsible,ADJ,Hope
@@ -7096,7 +7091,7 @@ josephine.farrell@hope.edu,watchmaker,tell time,tell,tell,VERB,Hope
 josephine.farrell@hope.edu,watchmaker,tell time,time,time,NOUN,Hope
 josephine.farrell@hope.edu,watchmaker,craft,craft,craft,NOUN,Hope
 josephine.farrell@hope.edu,cream,thicken,thicken,thicken,VERB,Hope
-josephine.farrell@hope.edu,cream,cook,cook,cake,VERB,Hope
+josephine.farrell@hope.edu,cream,cook,cook,cook,VERB,Hope
 josephine.farrell@hope.edu,cream,bake,bake,bake,VERB,Hope
 josephine.farrell@hope.edu,neck,connect head and torso,connect,connect,NOUN,Hope
 josephine.farrell@hope.edu,neck,connect head and torso,head,head,NOUN,Hope
@@ -7104,7 +7099,7 @@ josephine.farrell@hope.edu,neck,connect head and torso,torso,torso,INTJ,Hope
 josephine.farrell@hope.edu,neck,contain esophagus,contain,contain,NOUN,Hope
 josephine.farrell@hope.edu,neck,contain esophagus,esophagus,esophagus,NOUN,Hope
 josephine.farrell@hope.edu,neck,allow breath,allow,allow,VERB,Hope
-josephine.farrell@hope.edu,neck,allow breath,breath,breate,VERB,Hope
+josephine.farrell@hope.edu,neck,allow breath,breath,breathe,VERB,Hope
 josephine.farrell@hope.edu,neck,swallow food,swallow,swallow,VERB,Hope
 josephine.farrell@hope.edu,neck,swallow food,food,food,NOUN,Hope
 josephine.farrell@hope.edu,caseworker,work cases,work,work,VERB,Hope
@@ -7156,7 +7151,7 @@ josephine.farrell@hope.edu,Toilet,throw up,throw,throw,VERB,Hope
 josephine.farrell@hope.edu,Toilet,flush,flush,flush,VERB,Hope
 josephine.farrell@hope.edu,Toilet,clean,clean,clean,VERB,Hope
 josephine.farrell@hope.edu,Toilet,bleed,bleed,bleed,VERB,Hope
-josephine.farrell@hope.edu,toboggan,sled,sled,sl,VERB,Hope
+josephine.farrell@hope.edu,toboggan,sled,sled,sled,VERB,Hope
 josephine.farrell@hope.edu,toboggan,slide,slide,slide,VERB,Hope
 josephine.farrell@hope.edu,toboggan,race,race,race,VERB,Hope
 josephine.farrell@hope.edu,coke,drink,drink,drink,VERB,Hope
@@ -7197,34 +7192,34 @@ joy.holian@hope.edu,loin,pet,pet,pet,VERB,Hope
 joy.holian@hope.edu,axle,wheel,wheel,wheel,NOUN,Hope
 joy.holian@hope.edu,animal,pet,pet,pet,VERB,Hope
 joy.holian@hope.edu,mink,pet,pet,pet,VERB,Hope
-joy.holian@hope.edu,hamster,keep as pet,keep,keep,VERB,Hope
+joy.holian@hope.edu,hamster,keep as pet,keep,keep,AUX,Hope
 joy.holian@hope.edu,hamster,keep as pet,pet,pet,VERB,Hope
 joy.holian@hope.edu,headrest,rest head on,rest,rest,VERB,Hope
 joy.holian@hope.edu,headrest,rest head on,head,head,NOUN,Hope
-joy.holian@hope.edu,tortoise,keep as pet,keep,keep,VERB,Hope
+joy.holian@hope.edu,tortoise,keep as pet,keep,keep,AUX,Hope
 joy.holian@hope.edu,tortoise,keep as pet,pet,pet,VERB,Hope
 joy.holian@hope.edu,handkerchief,blow nose on,blow,blow,VERB,Hope
 joy.holian@hope.edu,handkerchief,blow nose on,nose,nose,PRON,Hope
-joy.holian@hope.edu,chest,breathe,breathe,breato,VERB,Hope
+joy.holian@hope.edu,chest,breathe,breathe,breathe,VERB,Hope
 joy.holian@hope.edu,gate,open,open,open,VERB,Hope
-joy.holian@hope.edu,secretary,take calls,take,take,VERB,Hope
+joy.holian@hope.edu,secretary,take calls,take,take,AUX,Hope
 joy.holian@hope.edu,secretary,take calls,calls,call,VERB,Hope
 joy.holian@hope.edu,newt,pet,pet,pet,VERB,Hope
 joy.holian@hope.edu,apron,wipe things on,wipe,wipe,VERB,Hope
 joy.holian@hope.edu,apron,wipe things on,things,thing,NOUN,Hope
-joy.holian@hope.edu,pot,cook in,cook,cake,VERB,Hope
+joy.holian@hope.edu,pot,cook in,cook,cook,VERB,Hope
 kaitlin.vanlangevel@hope.edu,primrose,plant,plant,plant,VERB,Hope
 kaitlin.vanlangevel@hope.edu,primrose,pick,pick,pick,VERB,Hope
 kaitlin.vanlangevel@hope.edu,primrose,smell,smell,smell,VERB,Hope
 kaitlin.vanlangevel@hope.edu,brass,pick up,pick,pick,VERB,Hope
-kaitlin.vanlangevel@hope.edu,brass,use,use,use,VERB,Hope
+kaitlin.vanlangevel@hope.edu,brass,use,use,use,AUX,Hope
 kaitlin.vanlangevel@hope.edu,hut,shelter,shelter,shelter,VERB,Hope
 kaitlin.vanlangevel@hope.edu,hut,enter,enter,enter,VERB,Hope
 kaitlin.vanlangevel@hope.edu,bone,eat,eat,eat,VERB,Hope
-kaitlin.vanlangevel@hope.edu,bone,draw,draw,dree,VERB,Hope
+kaitlin.vanlangevel@hope.edu,bone,draw,draw,draw,VERB,Hope
 kaitlin.vanlangevel@hope.edu,bone,paint,paint,paint,VERB,Hope
 kaitlin.vanlangevel@hope.edu,bone,sculpt,sculpt,sculpt,VERB,Hope
-kaitlin.vanlangevel@hope.edu,detergent,use,use,use,VERB,Hope
+kaitlin.vanlangevel@hope.edu,detergent,use,use,use,AUX,Hope
 kaitlin.vanlangevel@hope.edu,detergent,smell,smell,smell,VERB,Hope
 kaitlin.vanlangevel@hope.edu,detergent,touch,touch,touch,VERB,Hope
 kaitlin.vanlangevel@hope.edu,detergent,eat,eat,eat,VERB,Hope
@@ -7251,7 +7246,7 @@ kaitlin.vanlangevel@hope.edu,maize,eat,eat,eat,VERB,Hope
 kaitlin.vanlangevel@hope.edu,maize,grow,grow,grow,VERB,Hope
 kaitlin.vanlangevel@hope.edu,maize,touch,touch,touch,VERB,Hope
 kaitlin.vanlangevel@hope.edu,childbirth,reproduce,reproduce,reproduce,VERB,Hope
-kaitlin.vanlangevel@hope.edu,pencil,draw,draw,dree,VERB,Hope
+kaitlin.vanlangevel@hope.edu,pencil,draw,draw,draw,VERB,Hope
 kaitlin.vanlangevel@hope.edu,pencil,stab,stab,stab,VERB,Hope
 kaitlin.vanlangevel@hope.edu,tape,silence,silence,silence,NOUN,Hope
 kaitlin.vanlangevel@hope.edu,tape,stick,stick,stick,VERB,Hope
@@ -7283,7 +7278,7 @@ kaitlin.vanlangevel@hope.edu,yoga,fitness,fitness,fitness,NOUN,Hope
 kaitlin.vanlangevel@hope.edu,yoga,balance,balance,balance,NOUN,Hope
 kaitlin.vanlangevel@hope.edu,yoga,emntalhealth,mental,mental,ADJ,Hope
 kaitlin.vanlangevel@hope.edu,yoga,emntalhealth,health,health,VERB,Hope
-kaitlyn.heaman@hope.edu,flashlight,for finding things,finding,find,NOUN,Hope
+kaitlyn.heaman@hope.edu,flashlight,for finding things,finding,find,VERB,Hope
 kaitlyn.heaman@hope.edu,flashlight,for finding things,things,thing,NOUN,Hope
 kaitlyn.heaman@hope.edu,flashlight,for dramatic effect when telling scary stories,dramatic,dramatic,ADJ,Hope
 kaitlyn.heaman@hope.edu,flashlight,for dramatic effect when telling scary stories,effect,effect,NOUN,Hope
@@ -7335,9 +7330,9 @@ kaitlyn.heaman@hope.edu,beefcake,cooking,cooking,cook,NOUN,Hope
 kaitlyn.heaman@hope.edu,beefcake,chewing,chewing,chew,VERB,Hope
 kaitlyn.heaman@hope.edu,beefcake,giving to dog,giving,give,VERB,Hope
 kaitlyn.heaman@hope.edu,beefcake,giving to dog,dog,dog,NOUN,Hope
-kaitlyn.heaman@hope.edu,carnival,entertaining yourself,entertaining,entertaine,VERB,Hope
-kaitlyn.heaman@hope.edu,carnival,going on a date,going,go,VERB,Hope
-kaitlyn.heaman@hope.edu,carnival,going on a date,date,date,NOUN,Hope
+kaitlyn.heaman@hope.edu,carnival,entertaining yourself,entertaining,entertain,VERB,Hope
+kaitlyn.heaman@hope.edu,carnival,going on a date,going,go,AUX,Hope
+kaitlyn.heaman@hope.edu,carnival,going on a date,date,date,VERB,Hope
 kaitlyn.heaman@hope.edu,carnival,eating carnival food,eating,eat,VERB,Hope
 kaitlyn.heaman@hope.edu,carnival,eating carnival food,carnival,carnival,PROPN,Hope
 kaitlyn.heaman@hope.edu,carnival,eating carnival food,food,food,NOUN,Hope
@@ -7350,7 +7345,7 @@ kaitlyn.heaman@hope.edu,carnival,riding rides,rides,ride,VERB,Hope
 kaitlyn.heaman@hope.edu,tightrope,walking on,walking,walk,VERB,Hope
 kaitlyn.heaman@hope.edu,tightrope,tying in knots,tying,tie,VERB,Hope
 kaitlyn.heaman@hope.edu,tightrope,tying in knots,knots,knot,NOUN,Hope
-kaitlyn.heaman@hope.edu,tightrope,singing about like in the greatest showman,singing,singe,VERB,Hope
+kaitlyn.heaman@hope.edu,tightrope,singing about like in the greatest showman,singing,singer,VERB,Hope
 kaitlyn.heaman@hope.edu,tightrope,singing about like in the greatest showman,like,like,INTJ,Hope
 kaitlyn.heaman@hope.edu,tightrope,singing about like in the greatest showman,greatest,greatest,ADJ,Hope
 kaitlyn.heaman@hope.edu,tightrope,singing about like in the greatest showman,showman,showman,NOUN,Hope
@@ -7369,22 +7364,21 @@ kaitlyn.heaman@hope.edu,deerskin,wearing,wearing,wear,VERB,Hope
 kaitlyn.heaman@hope.edu,deerskin,washing,washing,wash,VERB,Hope
 kaitlyn.heaman@hope.edu,deerskin,sewing with,sewing,sew,VERB,Hope
 kaitlyn.heaman@hope.edu,deerskin,making into blanket,making,make,NOUN,Hope
-kaitlyn.heaman@hope.edu,deerskin,making into blanket,blanket,blanket,NOUN,Hope
+kaitlyn.heaman@hope.edu,deerskin,making into blanket,blanket,blanket,VERB,Hope
 kaitlyn.heaman@hope.edu,cornfield,harvesting corn,harvesting,harvest,VERB,Hope
 kaitlyn.heaman@hope.edu,cornfield,harvesting corn,corn,corn,NOUN,Hope
 kaitlyn.heaman@hope.edu,cornfield,running through,running,run,VERB,Hope
-kaitlyn.heaman@hope.edu,cornfield,taking pictures in,taking,take,VERB,Hope
-kaitlyn.heaman@hope.edu,cornfield,taking pictures in,pictures,picture,NOUN,Hope
-kaitlyn.heaman@hope.edu,cornfield,hiding,hiding,hi,VERB,Hope
+kaitlyn.heaman@hope.edu,cornfield,taking pictures in,taking,take,AUX,Hope
+kaitlyn.heaman@hope.edu,cornfield,taking pictures in,pictures,photograph,VERB,Hope
+kaitlyn.heaman@hope.edu,cornfield,hiding,hiding,hide,VERB,Hope
 kaitlyn.heaman@hope.edu,cornfield,making a maze,making,make,NOUN,Hope
 kaitlyn.heaman@hope.edu,cornfield,making a maze,maze,maze,VERB,Hope
 kaitlyn.heaman@hope.edu,fossil,making jewelry,making,make,NOUN,Hope
 kaitlyn.heaman@hope.edu,fossil,making jewelry,jewelry,jewelry,NOUN,Hope
 kaitlyn.heaman@hope.edu,fossil,carving,carving,carve,VERB,Hope
 kaitlyn.heaman@hope.edu,fossil,preserving,preserving,preserve,VERB,Hope
-kaitlyn.heaman@hope.edu,fossil,observing,observing,obserive,VERB,Hope
-kaitlyn.heaman@hope.edu,fossil,putting together with other fossils,putting,put,VERB,Hope
-kaitlyn.heaman@hope.edu,fossil,putting together with other fossils,together,together,ADV,Hope
+kaitlyn.heaman@hope.edu,fossil,observing,observing,observe,VERB,Hope
+kaitlyn.heaman@hope.edu,fossil,putting together with other fossils,putting,put together,VERB,Hope
 kaitlyn.heaman@hope.edu,fossil,putting together with other fossils,fossils,fossil,NOUN,Hope
 kaitlyn.heaman@hope.edu,fossil,studying,studying,study,VERB,Hope
 kaitlyn.heaman@hope.edu,fossil,archeology,archaeology,archaeology,NOUN,Hope
@@ -7514,7 +7508,7 @@ kaitlyn.heaman@hope.edu,grandparent,for talking to,talking,talk,VERB,Hope
 kaitlyn.heaman@hope.edu,grandparent,for shopping with,shopping,shop,VERB,Hope
 kaitlyn.heaman@hope.edu,grandparent,for reading with,reading,read,VERB,Hope
 kaitlyn.heaman@hope.edu,grandparent,for hugging,hugging,hug,VERB,Hope
-kaitlyn.heaman@hope.edu,grandparent,for going out to eat with,going,go,VERB,Hope
+kaitlyn.heaman@hope.edu,grandparent,for going out to eat with,going,go,AUX,Hope
 kaitlyn.heaman@hope.edu,grandparent,for going out to eat with,eat,eat,VERB,Hope
 kaitlyn.heaman@hope.edu,grandparent,for sleepovers,sleepovers,sleepover,VERB,Hope
 kaitlyn.heaman@hope.edu,ramp,for walking up,walking,walk,VERB,Hope
@@ -7534,7 +7528,7 @@ kaitlyn.heaman@hope.edu,label,for tricking people,tricking,tricke,VERB,Hope
 kaitlyn.heaman@hope.edu,label,for tricking people,people,people,NOUN,Hope
 kaitlyn.heaman@hope.edu,commode,for using the restroom,using,use,VERB,Hope
 kaitlyn.heaman@hope.edu,commode,for using the restroom,restroom,restroom,NOUN,Hope
-kaitlyn.heaman@hope.edu,commode,for hiding in,hiding,hi,VERB,Hope
+kaitlyn.heaman@hope.edu,commode,for hiding in,hiding,hide,VERB,Hope
 kaitlyn.heaman@hope.edu,commode,for eating inside of,eating,eat,VERB,Hope
 kaitlyn.heaman@hope.edu,commode,for eating inside of,inside,inside,ADV,Hope
 kaitlyn.heaman@hope.edu,commode,for cleaning ,cleaning,clean,VERB,Hope
@@ -7608,7 +7602,7 @@ katelyn.moyer@hope.edu,hut,shelter,shelter,shelter,VERB,Hope
 katelyn.moyer@hope.edu,hut,home,home,home,ADV,Hope
 katelyn.moyer@hope.edu,hut,storage,storage,store,VERB,Hope
 katelyn.moyer@hope.edu,cuisine,food,food,food,NOUN,Hope
-katelyn.moyer@hope.edu,cuisine,design,design,design,NOUN,Hope
+katelyn.moyer@hope.edu,cuisine,design,design,design,VERB,Hope
 katelyn.moyer@hope.edu,cuisine,culture,culture,culture,NOUN,Hope
 katelyn.moyer@hope.edu,latex,gloves,gloves,glove,NOUN,Hope
 katelyn.moyer@hope.edu,latex,swim caps,swim,swim,NOUN,Hope
@@ -7648,8 +7642,8 @@ katelyn.moyer@hope.edu,maize,harvest,harvest,harvest,VERB,Hope
 katelyn.moyer@hope.edu,maize,food,food,food,NOUN,Hope
 katelyn.moyer@hope.edu,maize,color,color,color,NOUN,Hope
 katelyn.moyer@hope.edu,pegboard,tools,tools,tool,NOUN,Hope
-katelyn.moyer@hope.edu,pegboard,storage,storage,store,NOUN,Hope
-katelyn.moyer@hope.edu,pegboard,design,design,design,NOUN,Hope
+katelyn.moyer@hope.edu,pegboard,storage,storage,store,VERB,Hope
+katelyn.moyer@hope.edu,pegboard,design,design,design,VERB,Hope
 katelyn.moyer@hope.edu,pegboard,homeware,homeward,homeward,NOUN,Hope
 katelyn.moyer@hope.edu,condom,sex,sex,sex,VERB,Hope
 katelyn.moyer@hope.edu,condom,penis,penis,penis,NOUN,Hope
@@ -7715,7 +7709,7 @@ katherine.callaghan@hope.edu,buckle,add style to a hat,style,style,NOUN,Hope
 katherine.callaghan@hope.edu,buckle,add style to a hat,hat,hat,NOUN,Hope
 katherine.callaghan@hope.edu,buckle,add style to shoes,add,add,VERB,Hope
 katherine.callaghan@hope.edu,buckle,add style to shoes,style,style,NOUN,Hope
-katherine.callaghan@hope.edu,buckle,add style to shoes,shoes,shoe,VERB,Hope
+katherine.callaghan@hope.edu,buckle,add style to shoes,shoes,shoe,NOUN,Hope
 katherine.callaghan@hope.edu,buckle,can be melted for metal,can,can,AUX,Hope
 katherine.callaghan@hope.edu,buckle,can be melted for metal,melted,melt,VERB,Hope
 katherine.callaghan@hope.edu,buckle,can be melted for metal,metal,metal,NOUN,Hope
@@ -7729,7 +7723,7 @@ katherine.callaghan@hope.edu,buckle,can secure a purse,purse,purse,NOUN,Hope
 katherine.callaghan@hope.edu,buckle,can secure a breifcase,can,can,AUX,Hope
 katherine.callaghan@hope.edu,buckle,can secure a breifcase,secure,secure,VERB,Hope
 katherine.callaghan@hope.edu,buckle,can secure a breifcase,briefcase,briefcase,INTJ,Hope
-katherine.callaghan@hope.edu,bleacher,make clothes white,make,make,VERB,Hope
+katherine.callaghan@hope.edu,bleacher,make clothes white,make,make,AUX,Hope
 katherine.callaghan@hope.edu,bleacher,make clothes white,clothes,clothes,NOUN,Hope
 katherine.callaghan@hope.edu,bleacher,make clothes white,white,white,ADJ,Hope
 katherine.callaghan@hope.edu,bleacher,clean surfaces,clean,clean,VERB,Hope
@@ -7739,10 +7733,10 @@ katherine.callaghan@hope.edu,bleacher,disinfectant agent in endodontic treatment
 katherine.callaghan@hope.edu,bleacher,disinfectant agent in endodontic treatment,treatment,treatment,NOUN,Hope
 katherine.callaghan@hope.edu,bleacher,remove stains,remove,remove,VERB,Hope
 katherine.callaghan@hope.edu,bleacher,remove stains,stains,stain,NOUN,Hope
-katherine.callaghan@hope.edu,bleacher,used in chemical experiments,used,use,VERB,Hope
+katherine.callaghan@hope.edu,bleacher,used in chemical experiments,used,use,AUX,Hope
 katherine.callaghan@hope.edu,bleacher,used in chemical experiments,chemical,chemical,ADJ,Hope
 katherine.callaghan@hope.edu,bleacher,used in chemical experiments,experiments,experiment,NOUN,Hope
-katherine.callaghan@hope.edu,bleacher,used to clean pipes,used,use,VERB,Hope
+katherine.callaghan@hope.edu,bleacher,used to clean pipes,used,use,AUX,Hope
 katherine.callaghan@hope.edu,bleacher,used to clean pipes,clean,clean,VERB,Hope
 katherine.callaghan@hope.edu,bleacher,used to clean pipes,pipes,pipe,NOUN,Hope
 katherine.callaghan@hope.edu,bleacher,used to clean sinks,used,use,VERB,Hope
@@ -7785,13 +7779,12 @@ katherine.callaghan@hope.edu,tank,drive through rough terrain,terrain,terrain,NO
 katherine.callaghan@hope.edu,tank,shelter,shelter,shelter,NOUN,Hope
 katherine.callaghan@hope.edu,baklava,eaten,eaten,eat,VERB,Hope
 katherine.callaghan@hope.edu,baklava,baked,baked,bake,VERB,Hope
-katherine.callaghan@hope.edu,baklava,given as gift,given,give,VERB,Hope
+katherine.callaghan@hope.edu,baklava,given as gift,given,give,AUX,Hope
 katherine.callaghan@hope.edu,baklava,given as gift,gift,gift,VERB,Hope
 katherine.callaghan@hope.edu,baklava,sold,sold,sell,VERB,Hope
 katherine.callaghan@hope.edu,baklava,bought,bought,buy,VERB,Hope
-katherine.callaghan@hope.edu,baklava,devoured,devoured,devoure,VERB,Hope
-katherine.callaghan@hope.edu,baklava,thrown away,thrown,throw,VERB,Hope
-katherine.callaghan@hope.edu,baklava,thrown away,away,away,ADV,Hope
+katherine.callaghan@hope.edu,baklava,devoured,devoured,devour,VERB,Hope
+katherine.callaghan@hope.edu,baklava,thrown away,thrown,throw away,VERB,Hope
 katherine.callaghan@hope.edu,denims,worn,worn,wear,VERB,Hope
 katherine.callaghan@hope.edu,denims,made,made,make,VERB,Hope
 katherine.callaghan@hope.edu,denims,bought,bought,buy,VERB,Hope
@@ -7802,19 +7795,18 @@ katherine.callaghan@hope.edu,salad,eaten,eaten,eat,VERB,Hope
 katherine.callaghan@hope.edu,salad,sold,sold,sell,VERB,Hope
 katherine.callaghan@hope.edu,salad,ordered,ordered,order,VERB,Hope
 katherine.callaghan@hope.edu,salad,bought,bought,buy,VERB,Hope
-katherine.callaghan@hope.edu,salad,made,made,make,VERB,Hope
-katherine.callaghan@hope.edu,salad,thrown away,thrown,throw,VERB,Hope
-katherine.callaghan@hope.edu,salad,thrown away,away,away,ADV,Hope
-katherine.callaghan@hope.edu,salad,get fiber,get,get,VERB,Hope
+katherine.callaghan@hope.edu,salad,made,made,make,AUX,Hope
+katherine.callaghan@hope.edu,salad,thrown away,thrown,throw away,VERB,Hope
+katherine.callaghan@hope.edu,salad,get fiber,get,get,AUX,Hope
 katherine.callaghan@hope.edu,salad,get fiber,fiber,fiber,NOUN,Hope
 katherine.callaghan@hope.edu,straitjacket,restrain,restrain,restrain,VERB,Hope
 katherine.callaghan@hope.edu,straitjacket,constrain mentally ill people,mentally,mentally,ADV,Hope
 katherine.callaghan@hope.edu,straitjacket,constrain mentally ill people,ill,ill,ADJ,Hope
 katherine.callaghan@hope.edu,straitjacket,constrain mentally ill people,people,people,NOUN,Hope
-katherine.callaghan@hope.edu,straitjacket,used in a magic show,used,use,VERB,Hope
-katherine.callaghan@hope.edu,straitjacket,used in a magic show,magic,magic,NOUN,Hope
+katherine.callaghan@hope.edu,straitjacket,used in a magic show,used,use,AUX,Hope
+katherine.callaghan@hope.edu,straitjacket,used in a magic show,magic,magic,VERB,Hope
 katherine.callaghan@hope.edu,straitjacket,used in a magic show,show,show,VERB,Hope
-katherine.callaghan@hope.edu,straitjacket,used in a talent show,used,use,VERB,Hope
+katherine.callaghan@hope.edu,straitjacket,used in a talent show,used,use,AUX,Hope
 katherine.callaghan@hope.edu,straitjacket,used in a talent show,talent,talent,NOUN,Hope
 katherine.callaghan@hope.edu,straitjacket,used in a talent show,show,show,VERB,Hope
 katherine.callaghan@hope.edu,straitjacket,used by an escape artist,used,use,VERB,Hope
@@ -7854,11 +7846,11 @@ katherine.callaghan@hope.edu,walker,provide support,provide,provide,VERB,Hope
 katherine.callaghan@hope.edu,walker,provide support,support,support,VERB,Hope
 katherine.callaghan@hope.edu,walker,aid in walking,assist,assist,VERB,Hope
 katherine.callaghan@hope.edu,walker,aid in walking,walking,walk,VERB,Hope
-katherine.callaghan@hope.edu,walker,help maintain balance,help,help,VERB,Hope
-katherine.callaghan@hope.edu,walker,help maintain balance,maintain,maintain,VERB,Hope
+katherine.callaghan@hope.edu,walker,help maintain balance,help,help,AUX,Hope
+katherine.callaghan@hope.edu,walker,help maintain balance,maintain,maintain,AUX,Hope
 katherine.callaghan@hope.edu,walker,help maintain balance,balance,balance,VERB,Hope
 katherine.callaghan@hope.edu,walker,help get up from a sitting position,help,help,VERB,Hope
-katherine.callaghan@hope.edu,walker,help get up from a sitting position,get,get,VERB,Hope
+katherine.callaghan@hope.edu,walker,help get up from a sitting position,get,get,AUX,Hope
 katherine.callaghan@hope.edu,walker,help get up from a sitting position,sitting,sit,VERB,Hope
 katherine.callaghan@hope.edu,walker,help get up from a sitting position,position,position,NOUN,Hope
 katherine.callaghan@hope.edu,walker,thrown,thrown,throw,VERB,Hope
@@ -7879,9 +7871,8 @@ katherine.callaghan@hope.edu,porridge,eaten,eaten,eat,VERB,Hope
 katherine.callaghan@hope.edu,porridge,made,made,make,VERB,Hope
 katherine.callaghan@hope.edu,porridge,bought,bought,buy,VERB,Hope
 katherine.callaghan@hope.edu,porridge,sold,sold,sell,VERB,Hope
-katherine.callaghan@hope.edu,porridge,thrown away,thrown,throw,VERB,Hope
-katherine.callaghan@hope.edu,porridge,thrown away,away,away,ADV,Hope
-katherine.callaghan@hope.edu,porridge,devoured,devoured,devoure,VERB,Hope
+katherine.callaghan@hope.edu,porridge,thrown away,thrown,throw away,VERB,Hope
+katherine.callaghan@hope.edu,porridge,devoured,devoured,devour,VERB,Hope
 katherine.callaghan@hope.edu,newspaperman,distribute newspaper,distribute,distribute,VERB,Hope
 katherine.callaghan@hope.edu,newspaperman,distribute newspaper,newspaper,newspaper,NOUN,Hope
 katherine.callaghan@hope.edu,twine,tie things together,tie,tie,VERB,Hope
@@ -7890,19 +7881,18 @@ katherine.callaghan@hope.edu,twine,tie things together,together,together,ADV,Hop
 katherine.callaghan@hope.edu,twine,hold things in place,hold,hold,INTJ,Hope
 katherine.callaghan@hope.edu,twine,hold things in place,things,thing,NOUN,Hope
 katherine.callaghan@hope.edu,twine,hold things in place,place,place,NOUN,Hope
-katherine.callaghan@hope.edu,twine,used for crafts,used,use,VERB,Hope
+katherine.callaghan@hope.edu,twine,used for crafts,used,use,AUX,Hope
 katherine.callaghan@hope.edu,twine,used for crafts,crafts,craft,VERB,Hope
-katherine.callaghan@hope.edu,twine,used for decoration,used,use,VERB,Hope
+katherine.callaghan@hope.edu,twine,used for decoration,used,use,AUX,Hope
 katherine.callaghan@hope.edu,twine,used for decoration,decoration,decorate,VERB,Hope
-katherine.callaghan@hope.edu,oilcan,used as a container,used,use,VERB,Hope
-katherine.callaghan@hope.edu,oilcan,used as a container,container,container,NOUN,Hope
-katherine.callaghan@hope.edu,oilcan,used for scrap metal,used,use,VERB,Hope
+katherine.callaghan@hope.edu,oilcan,used as a container,used,use,AUX,Hope
+katherine.callaghan@hope.edu,oilcan,used as a container,container,contain,VERB,Hope
+katherine.callaghan@hope.edu,oilcan,used for scrap metal,used,use,AUX,Hope
 katherine.callaghan@hope.edu,oilcan,used for scrap metal,scrap,scrap,VERB,Hope
 katherine.callaghan@hope.edu,oilcan,used for scrap metal,metal,metal,NOUN,Hope
 katherine.callaghan@hope.edu,oilcan,melted,melted,melt,VERB,Hope
 katherine.callaghan@hope.edu,oilcan,crushed,crushed,crush,VERB,Hope
-katherine.callaghan@hope.edu,oilcan,thrown away,thrown,throw,VERB,Hope
-katherine.callaghan@hope.edu,oilcan,thrown away,away,away,ADV,Hope
+katherine.callaghan@hope.edu,oilcan,thrown away,thrown,throw away,VERB,Hope
 katherine.callaghan@hope.edu,oilcan,cut,cut,cut,VERB,Hope
 katherine.callaghan@hope.edu,oilcan,start fires,start,start,VERB,Hope
 katherine.callaghan@hope.edu,oilcan,start fires,fires,fire,VERB,Hope
@@ -7910,7 +7900,7 @@ katherine.callaghan@hope.edu,oilcan,light lamps,light,light,VERB,Hope
 katherine.callaghan@hope.edu,oilcan,light lamps,lamps,lamp,NOUN,Hope
 katherine.callaghan@hope.edu,canteen,store liquid,store,store,VERB,Hope
 katherine.callaghan@hope.edu,canteen,store liquid,liquid,liquid,AUX,Hope
-katherine.callaghan@hope.edu,canteen,used as container,used,use,VERB,Hope
+katherine.callaghan@hope.edu,canteen,used as container,used,use,AUX,Hope
 katherine.callaghan@hope.edu,canteen,storage,storage,store,NOUN,Hope
 katherine.callaghan@hope.edu,sushi,eaten,eaten,eat,VERB,Hope
 katherine.callaghan@hope.edu,sushi,made,made,make,VERB,Hope
@@ -7924,36 +7914,36 @@ katherine.callaghan@hope.edu,sushi,sought after,sought,seek,VERB,Hope
 katherine.callaghan@hope.edu,sushi,devoured,devoured,devoure,VERB,Hope
 katherine.callaghan@hope.edu,bat,eaten,eaten,eat,VERB,Hope
 katherine.callaghan@hope.edu,bat,studied,studied,study,VERB,Hope
-katherine.callaghan@hope.edu,acorn,stepped on,stepped,step,VERB,Hope
+katherine.callaghan@hope.edu,acorn,stepped on,stepped,step on,VERB,Hope
 katherine.callaghan@hope.edu,acorn,planted,planted,plan,VERB,Hope
 katherine.callaghan@hope.edu,piccolo,played,played,play,VERB,Hope
 katherine.callaghan@hope.edu,piccolo,display musical talent,display,display,VERB,Hope
 katherine.callaghan@hope.edu,piccolo,display musical talent,musical,musical,ADJ,Hope
 katherine.callaghan@hope.edu,piccolo,display musical talent,talent,talent,NOUN,Hope
-katherine.callaghan@hope.edu,piccolo,used in marching band,used,use,VERB,Hope
+katherine.callaghan@hope.edu,piccolo,used in marching band,used,use,AUX,Hope
 katherine.callaghan@hope.edu,piccolo,used in marching band,marching,marching band,NOUN,Hope
-katherine.callaghan@hope.edu,piccolo,used in orchestra,used,use,VERB,Hope
+katherine.callaghan@hope.edu,piccolo,used in orchestra,used,use,AUX,Hope
 katherine.callaghan@hope.edu,piccolo,used in orchestra,orchestra,orchestra,X,Hope
 katherine.callaghan@hope.edu,piercing,display jewelry,display,display,NOUN,Hope
 katherine.callaghan@hope.edu,piercing,display jewelry,jewelry,jewelry,NOUN,Hope
 katherine.callaghan@hope.edu,piercing,look stylish,look,look,VERB,Hope
 katherine.callaghan@hope.edu,piercing,look stylish,stylish,stylish,NOUN,Hope
-katherine.callaghan@hope.edu,bedspread,used for warmth,used,use,VERB,Hope
-katherine.callaghan@hope.edu,bedspread,used for warmth,warmth,warmth,VERB,Hope
-katherine.callaghan@hope.edu,bedspread,used for comfort,used,use,VERB,Hope
+katherine.callaghan@hope.edu,bedspread,used for warmth,used,use,AUX,Hope
+katherine.callaghan@hope.edu,bedspread,used for warmth,warmth,warm,VERB,Hope
+katherine.callaghan@hope.edu,bedspread,used for comfort,used,use,AUX,Hope
 katherine.callaghan@hope.edu,bedspread,used for comfort,comfort,comfort,VERB,Hope
 katherine.callaghan@hope.edu,bedspread,folded,folded,fold,VERB,Hope
 katherine.callaghan@hope.edu,bedspread,washed,washed,washed,VERB,Hope
 katherine.callaghan@hope.edu,bedspread,dried,dried,dry,VERB,Hope
 katherine.callaghan@hope.edu,bedspread,spread,spread,spread,NOUN,Hope
-katherine.callaghan@hope.edu,bedspread,used for pillow fort,used,use,VERB,Hope
+katherine.callaghan@hope.edu,bedspread,used for pillow fort,used,use,AUX,Hope
 katherine.callaghan@hope.edu,bedspread,used for pillow fort,pillow,pillow,NOUN,Hope
 katherine.callaghan@hope.edu,bedspread,used for pillow fort,fort,fort,NOUN,Hope
 katherine.callaghan@hope.edu,stopwatch,time something,time,time,NOUN,Hope
 katherine.callaghan@hope.edu,stopwatch,time something,something,something,PRON,Hope
 katherine.callaghan@hope.edu,stopwatch,set an alarm,set,set,VERB,Hope
 katherine.callaghan@hope.edu,stopwatch,set an alarm,alarm,alarm,NOUN,Hope
-katherine.callaghan@hope.edu,stopwatch,used for parts,used,use,VERB,Hope
+katherine.callaghan@hope.edu,stopwatch,used for parts,used,use,AUX,Hope
 katherine.callaghan@hope.edu,stopwatch,used for parts,parts,part,NOUN,Hope
 katherine.callaghan@hope.edu,pie,eaten,eaten,eat,VERB,Hope
 katherine.callaghan@hope.edu,pie,baked,baked,bake,VERB,Hope
@@ -8003,16 +7993,16 @@ katherine.lane@hope.edu,mothball,prevent moths from eating clothing,prevent,prev
 katherine.lane@hope.edu,mothball,prevent moths from eating clothing,moths,moth,NOUN,Hope
 katherine.lane@hope.edu,mothball,prevent moths from eating clothing,eating,eat,VERB,Hope
 katherine.lane@hope.edu,mothball,prevent moths from eating clothing,clothing,clothing,NOUN,Hope
-katherine.lane@hope.edu,appliance,used as a tool to make life easier,used,use,VERB,Hope
+katherine.lane@hope.edu,appliance,used as a tool to make life easier,used,use,AUX,Hope
 katherine.lane@hope.edu,appliance,used as a tool to make life easier,tool,tool,NOUN,Hope
 katherine.lane@hope.edu,appliance,used as a tool to make life easier,make,make,VERB,Hope
 katherine.lane@hope.edu,appliance,used as a tool to make life easier,life,life,NOUN,Hope
 katherine.lane@hope.edu,appliance,used as a tool to make life easier,easier,easier,ADJ,Hope
-katherine.lane@hope.edu,scythe,used to reap crops,used,use,VERB,Hope
+katherine.lane@hope.edu,scythe,used to reap crops,used,use,AUX,Hope
 katherine.lane@hope.edu,scythe,used to reap crops,reap,reap,VERB,Hope
 katherine.lane@hope.edu,scythe,used to reap crops,crops,crop,NOUN,Hope
 katherine.lane@hope.edu,scythe,a weapon,weapon,weapon,VERB,Hope
-katherine.lane@hope.edu,kaleidoscope,used for entertainment especially for young children,used,use,VERB,Hope
+katherine.lane@hope.edu,kaleidoscope,used for entertainment especially for young children,used,use,AUX,Hope
 katherine.lane@hope.edu,kaleidoscope,used for entertainment especially for young children,entertainment,entertain,VERB,Hope
 katherine.lane@hope.edu,kaleidoscope,used for entertainment especially for young children,especially,especially,ADV,Hope
 katherine.lane@hope.edu,kaleidoscope,used for entertainment especially for young children,young,young,ADJ,Hope
@@ -8041,45 +8031,45 @@ katherine.lane@hope.edu,electronics,online shopping,shopping,shop,VERB,Hope
 katherine.lane@hope.edu,electronics,online social medias,online,online,ADV,Hope
 katherine.lane@hope.edu,electronics,online social medias,social,social,ADJ,Hope
 katherine.lane@hope.edu,electronics,online social medias,medias,media,NOUN,Hope
-katherine.lane@hope.edu,gambler,used by casinos or horse races to earn revenue,used,use,VERB,Hope
+katherine.lane@hope.edu,gambler,used by casinos or horse races to earn revenue,used,use,AUX,Hope
 katherine.lane@hope.edu,gambler,used by casinos or horse races to earn revenue,casinos,casino,NOUN,Hope
 katherine.lane@hope.edu,gambler,used by casinos or horse races to earn revenue,horse,horse,NOUN,Hope
 katherine.lane@hope.edu,gambler,used by casinos or horse races to earn revenue,races,races,NOUN,Hope
 katherine.lane@hope.edu,gambler,used by casinos or horse races to earn revenue,earn,earn,VERB,Hope
 katherine.lane@hope.edu,gambler,used by casinos or horse races to earn revenue,revenue,revenue,NOUN,Hope
-katherine.lane@hope.edu,lingerie,used as underwear,used,use,VERB,Hope
+katherine.lane@hope.edu,lingerie,used as underwear,used,use,AUX,Hope
 katherine.lane@hope.edu,lingerie,used as underwear,underwear,underwear,ADJ,Hope
-katherine.lane@hope.edu,lingerie,used for seduction or persuasion,used,use,VERB,Hope
+katherine.lane@hope.edu,lingerie,used for seduction or persuasion,used,use,AUX,Hope
 katherine.lane@hope.edu,lingerie,used for seduction or persuasion,seduction,seduce,VERB,Hope
-katherine.lane@hope.edu,lingerie,used for seduction or persuasion,persuasion,persuasion,NOUN,Hope
+katherine.lane@hope.edu,lingerie,used for seduction or persuasion,persuasion,persuade,VERB,Hope
 katherine.lane@hope.edu,fondue,baking,baking,bake,VERB,Hope
 katherine.lane@hope.edu,fondue,dessert,dessert,dessert,NOUN,Hope
 katherine.lane@hope.edu,fondue,a dip,dip,dip,VERB,Hope
 katherine.lane@hope.edu,subway,transportation,transportation,transport,VERB,Hope
-katherine.lane@hope.edu,subway,going to work,going,go,VERB,Hope
+katherine.lane@hope.edu,subway,going to work,going,go,AUX,Hope
 katherine.lane@hope.edu,subway,going to work,work,travel,VERB,Hope
 katherine.lane@hope.edu,subway,leaving work,leaving,leave,VERB,Hope
 katherine.lane@hope.edu,subway,leaving work,work,travel,VERB,Hope
-katherine.lane@hope.edu,subway,going to school,going,go,VERB,Hope
+katherine.lane@hope.edu,subway,going to school,going,go,AUX,Hope
 katherine.lane@hope.edu,subway,going to school,school,travel,VERB,Hope
 katherine.lane@hope.edu,subway,leaving school,leaving,leave,VERB,Hope
 katherine.lane@hope.edu,subway,leaving school,school,travel,VERB,Hope
-katherine.lane@hope.edu,subway,going to the store,going,go,VERB,Hope
+katherine.lane@hope.edu,subway,going to the store,going,go,AUX,Hope
 katherine.lane@hope.edu,subway,going to the store,store,travel,VERB,Hope
-katherine.lane@hope.edu,subway,going home,going,go,VERB,Hope
+katherine.lane@hope.edu,subway,going home,going,go,AUX,Hope
 katherine.lane@hope.edu,subway,going home,home,home,ADV,Hope
 katherine.lane@hope.edu,receipts,recording what was purchased,recording,record,VERB,Hope
 katherine.lane@hope.edu,receipts,recording what was purchased,purchased,purchase,VERB,Hope
-katherine.lane@hope.edu,receipts,used to return items,used,use,VERB,Hope
+katherine.lane@hope.edu,receipts,used to return items,used,use,AUX,Hope
 katherine.lane@hope.edu,receipts,used to return items,return,return,VERB,Hope
 katherine.lane@hope.edu,receipts,used to return items,items,item,NOUN,Hope
-katherine.lane@hope.edu,Grasshopper,used as food for people or pets that require it in their diet,used,use,VERB,Hope
+katherine.lane@hope.edu,Grasshopper,used as food for people or pets that require it in their diet,used,use,AUX,Hope
 katherine.lane@hope.edu,Grasshopper,used as food for people or pets that require it in their diet,food,food,NOUN,Hope
 katherine.lane@hope.edu,Grasshopper,used as food for people or pets that require it in their diet,people,people,NOUN,Hope
 katherine.lane@hope.edu,Grasshopper,used as food for people or pets that require it in their diet,pets,pets,NOUN,Hope
 katherine.lane@hope.edu,Grasshopper,used as food for people or pets that require it in their diet,require,require,VERB,Hope
 katherine.lane@hope.edu,Grasshopper,used as food for people or pets that require it in their diet,diet,diet,NOUN,Hope
-katherine.lane@hope.edu,Grasshopper,used as a way for young students to learn about ecology,used,use,VERB,Hope
+katherine.lane@hope.edu,Grasshopper,used as a way for young students to learn about ecology,used,use,AUX,Hope
 katherine.lane@hope.edu,Grasshopper,used as a way for young students to learn about ecology,way,way,NOUN,Hope
 katherine.lane@hope.edu,Grasshopper,used as a way for young students to learn about ecology,young,young,ADJ,Hope
 katherine.lane@hope.edu,Grasshopper,used as a way for young students to learn about ecology,students,student,NOUN,Hope
@@ -8117,13 +8107,13 @@ katherine.lane@hope.edu,housekeeper,cooking meals,meals,meal,NOUN,Hope
 katherine.lane@hope.edu,fridge,keeping food fresh,keeping,keep,VERB,Hope
 katherine.lane@hope.edu,fridge,keeping food fresh,food,food,VERB,Hope
 katherine.lane@hope.edu,fridge,keeping food fresh,fresh,fresh,ADJ,Hope
-katherine.lane@hope.edu,fridge,keeping food from becoming spoiled,keeping,keep,VERB,Hope
-katherine.lane@hope.edu,fridge,keeping food from becoming spoiled,food,food,VERB,Hope
+katherine.lane@hope.edu,fridge,keeping food from becoming spoiled,keeping,keep,AUX,Hope
+katherine.lane@hope.edu,fridge,keeping food from becoming spoiled,food,food,NOUN,Hope
 katherine.lane@hope.edu,fridge,keeping food from becoming spoiled,becoming,become,VERB,Hope
 katherine.lane@hope.edu,fridge,keeping food from becoming spoiled,spoiled,spoil,VERB,Hope
-katherine.lane@hope.edu,fridge,keeping drinks cool,keeping,keep,VERB,Hope
+katherine.lane@hope.edu,fridge,keeping drinks cool,keeping,keep,AUX,Hope
 katherine.lane@hope.edu,fridge,keeping drinks cool,drinks,drink,NOUN,Hope
-katherine.lane@hope.edu,fridge,keeping drinks cool,cool,cool,ADJ,Hope
+katherine.lane@hope.edu,fridge,keeping drinks cool,cool,cool,VERB,Hope
 katherine.lane@hope.edu,fridge,water dispenser,water,water,NOUN,Hope
 katherine.lane@hope.edu,fridge,water dispenser,dispenser,dispenser,NOUN,Hope
 katherine.lane@hope.edu,daiquiri,alcoholic drinking,alcoholic,alcoholic,X,Hope
@@ -8157,26 +8147,26 @@ katherine.lane@hope.edu,sedative,use in humans and animals,humans,human,NOUN,Hop
 katherine.lane@hope.edu,sedative,use in humans and animals,animals,animal,NOUN,Hope
 katherine.lane@hope.edu,vermicelli,eat,eat,eat,VERB,Hope
 katherine.lane@hope.edu,vermicelli,sell,sell,sell,VERB,Hope
-katherine.lane@hope.edu,vermicelli,cook,cook,cake,VERB,Hope
+katherine.lane@hope.edu,vermicelli,cook,cook,cook,VERB,Hope
 katherine.lane@hope.edu,marshmallow,eat,eat,eat,VERB,Hope
 katherine.lane@hope.edu,marshmallow,make s'mores,make,make,VERB,Hope
 katherine.lane@hope.edu,marshmallow,make s'mores,smores,smore,NOUN,Hope
-katherine.lane@hope.edu,marshmallow,use in baking,use,use,VERB,Hope
+katherine.lane@hope.edu,marshmallow,use in baking,use,use,AUX,Hope
 katherine.lane@hope.edu,marshmallow,use in baking,baking,bake,VERB,Hope
-katherine.lane@hope.edu,marshmallow,use to teach students engineering a tower,use,use,VERB,Hope
+katherine.lane@hope.edu,marshmallow,use to teach students engineering a tower,use,use,AUX,Hope
 katherine.lane@hope.edu,marshmallow,use to teach students engineering a tower,teach,teach,VERB,Hope
 katherine.lane@hope.edu,marshmallow,use to teach students engineering a tower,students,student,NOUN,Hope
 katherine.lane@hope.edu,marshmallow,use to teach students engineering a tower,engineering,engineer,NOUN,Hope
 katherine.lane@hope.edu,marshmallow,use to teach students engineering a tower,tower,tower,NOUN,Hope
 katherine.lane@hope.edu,skin,animal skin is used in food and in clothing,animal,animal,NOUN,Hope
 katherine.lane@hope.edu,skin,animal skin is used in food and in clothing,skin,skin,NOUN,Hope
-katherine.lane@hope.edu,skin,animal skin is used in food and in clothing,used,use,VERB,Hope
+katherine.lane@hope.edu,skin,animal skin is used in food and in clothing,used,use,AUX,Hope
 katherine.lane@hope.edu,skin,animal skin is used in food and in clothing,food,food,NOUN,Hope
 katherine.lane@hope.edu,skin,animal skin is used in food and in clothing,clothing,clothing,NOUN,Hope
 katherine.lane@hope.edu,skin,human skin can be used in skin transplants,human,human,ADJ,Hope
 katherine.lane@hope.edu,skin,human skin can be used in skin transplants,skin,skin,NOUN,Hope
 katherine.lane@hope.edu,skin,human skin can be used in skin transplants,can,can,AUX,Hope
-katherine.lane@hope.edu,skin,human skin can be used in skin transplants,used,use,VERB,Hope
+katherine.lane@hope.edu,skin,human skin can be used in skin transplants,used,use,AUX,Hope
 katherine.lane@hope.edu,skin,human skin can be used in skin transplants,skin,skin,NOUN,Hope
 katherine.lane@hope.edu,skin,human skin can be used in skin transplants,transplants,transplant,NOUN,Hope
 kathleen.schnorberger@hope.edu,handshake,holding,holding,hold,NOUN,Hope
@@ -8184,7 +8174,7 @@ kathleen.schnorberger@hope.edu,handshake,greeting someone,greeting,greet,VERB,Ho
 kathleen.schnorberger@hope.edu,handshake,greeting someone,someone,someone,PRON,Hope
 kathleen.schnorberger@hope.edu,handshake,meeting someone,meeting,meet,VERB,Hope
 kathleen.schnorberger@hope.edu,handshake,meeting someone,someone,someone,PRON,Hope
-kathleen.schnorberger@hope.edu,handshake,thanking someone ,thanking,thanke,VERB,Hope
+kathleen.schnorberger@hope.edu,handshake,thanking someone ,thanking,thank,VERB,Hope
 kathleen.schnorberger@hope.edu,handshake,thanking someone ,someone,someone,PRON,Hope
 kathleen.schnorberger@hope.edu,senorita,calling someone formally,calling,call,VERB,Hope
 kathleen.schnorberger@hope.edu,senorita,calling someone formally,someone,someone,PRON,Hope
@@ -8229,7 +8219,7 @@ kathleen.schnorberger@hope.edu,bonbon,chew,chew,chew,VERB,Hope
 kathleen.schnorberger@hope.edu,bonbon,smell,smell,smell,VERB,Hope
 kathleen.schnorberger@hope.edu,hose,spray water,spray,spray,VERB,Hope
 kathleen.schnorberger@hope.edu,hose,spray water,water,water,VERB,Hope
-kathleen.schnorberger@hope.edu,drawing,draw things,draw,dree,VERB,Hope
+kathleen.schnorberger@hope.edu,drawing,draw things,draw,draw,VERB,Hope
 kathleen.schnorberger@hope.edu,drawing,draw things,things,thing,NOUN,Hope
 kathleen.schnorberger@hope.edu,mannequin,dress,dress,dress,NOUN,Hope
 kathleen.schnorberger@hope.edu,mannequin,admire,admire,admire,VERB,Hope
@@ -8247,7 +8237,7 @@ kathleen.schnorberger@hope.edu,straw,feed animals,feed,feed,VERB,Hope
 kathleen.schnorberger@hope.edu,straw,feed animals,animals,animal,NOUN,Hope
 kathleen.schnorberger@hope.edu,straw,make things,make,make,VERB,Hope
 kathleen.schnorberger@hope.edu,straw,make things,things,thing,NOUN,Hope
-kathleen.schnorberger@hope.edu,bobsleigh,sled,sled,sl,VERB,Hope
+kathleen.schnorberger@hope.edu,bobsleigh,sled,sled,sled,VERB,Hope
 kathleen.schnorberger@hope.edu,reindeer,eat,eat,eat,VERB,Hope
 kathleen.schnorberger@hope.edu,reindeer,admire,admire,admire,VERB,Hope
 kathleen.schnorberger@hope.edu,magician,watch,watch,watch,VERB,Hope
@@ -8255,11 +8245,11 @@ kathleen.schnorberger@hope.edu,bedroom,eat,eat,eat,VERB,Hope
 kathleen.schnorberger@hope.edu,bedroom,sleep,sleep,sleep,VERB,Hope
 kathleen.schnorberger@hope.edu,bedroom,do homework,homework,homework,NOUN,Hope
 kathleen.schnorberger@hope.edu,bedroom,hang out,hang,hang,VERB,Hope
-kathleen.schnorberger@hope.edu,bedroom,get dressed,get,get,VERB,Hope
+kathleen.schnorberger@hope.edu,bedroom,get dressed,get,get,AUX,Hope
 kathleen.schnorberger@hope.edu,bedroom,get dressed,dressed,dress,VERB,Hope
-kathleen.schnorberger@hope.edu,bedroom,get ready,get,get,VERB,Hope
-kathleen.schnorberger@hope.edu,bedroom,get ready,ready,ready,ADJ,Hope
-kathleen.schnorberger@hope.edu,bedroom,store things,store,store,NOUN,Hope
+kathleen.schnorberger@hope.edu,bedroom,get ready,get,get,AUX,Hope
+kathleen.schnorberger@hope.edu,bedroom,get ready,ready,dress,ADJ,Hope
+kathleen.schnorberger@hope.edu,bedroom,store things,store,store,VERB,Hope
 kathleen.schnorberger@hope.edu,bedroom,store things,things,thing,NOUN,Hope
 kathleen.schnorberger@hope.edu,termite,step on,step,step on,VERB,Hope
 kathleen.schnorberger@hope.edu,luggage,hold,hold,hold,VERB,Hope
@@ -8290,7 +8280,7 @@ kevin.miller@hope.edu,harmonica,blow leaf blower through it,leaf,leaf,NOUN,Hope
 kevin.miller@hope.edu,harmonica,blow leaf blower through it,blower,blower,NOUN,Hope
 kevin.miller@hope.edu,harmonica,weapon,weapon,weapon,VERB,Hope
 kevin.miller@hope.edu,harmonica,melt down and use for a pot or art project ,melt,melt,VERB,Hope
-kevin.miller@hope.edu,harmonica,melt down and use for a pot or art project ,use,use,VERB,Hope
+kevin.miller@hope.edu,harmonica,melt down and use for a pot or art project ,use,use,AUX,Hope
 kevin.miller@hope.edu,harmonica,melt down and use for a pot or art project ,pot,pot,NOUN,Hope
 kevin.miller@hope.edu,harmonica,melt down and use for a pot or art project ,art,art,NOUN,Hope
 kevin.miller@hope.edu,harmonica,melt down and use for a pot or art project ,project,project,NOUN,Hope
@@ -8318,14 +8308,14 @@ kevin.miller@hope.edu,barber,to go on a road trip with,road,road,NOUN,Hope
 kevin.miller@hope.edu,barber,to go on a road trip with,trip,trip,NOUN,Hope
 kevin.miller@hope.edu,flashbulb,blind someone,blind,blind,ADJ,Hope
 kevin.miller@hope.edu,flashbulb,blind someone,someone,someone,PRON,Hope
-kevin.miller@hope.edu,flashbulb,put in a flashlight,put,put,VERB,Hope
+kevin.miller@hope.edu,flashbulb,put in a flashlight,put,put,AUX,Hope
 kevin.miller@hope.edu,flashbulb,put in a flashlight,flashlight,flashlight,NOUN,Hope
 kevin.miller@hope.edu,flashbulb,put in a lamp,put,put,VERB,Hope
 kevin.miller@hope.edu,flashbulb,put in a lamp,lamp,lamp,NOUN,Hope
 kevin.miller@hope.edu,flashbulb,replace a lightbulb with,replace,replace,VERB,Hope
 kevin.miller@hope.edu,flashbulb,replace a lightbulb with,lightbulb,lightbulb,NOUN,Hope
 kevin.miller@hope.edu,flashbulb,weapon,weapon,weapon,VERB,Hope
-kevin.miller@hope.edu,mentor,a teacher,teacher,teacher,NOUN,Hope
+kevin.miller@hope.edu,mentor,a teacher,teacher,teach,VERB,Hope
 kevin.miller@hope.edu,mentor,a friend,friend,friend,VERB,Hope
 kevin.miller@hope.edu,mentor,to rob a bank with,rob,rob,NOUN,Hope
 kevin.miller@hope.edu,mentor,to rob a bank with,bank,bank,NOUN,Hope
@@ -8334,7 +8324,7 @@ kevin.miller@hope.edu,mentor,to learn about a trade,trade,trade,NOUN,Hope
 kevin.miller@hope.edu,mentor,to cook with,cook,cake,VERB,Hope
 kevin.miller@hope.edu,mentor,to eat dinner with,eat,eat,VERB,Hope
 kevin.miller@hope.edu,mentor,to eat dinner with,dinner,dinner,NOUN,Hope
-kevin.miller@hope.edu,edibles,get high off of,get,get,VERB,Hope
+kevin.miller@hope.edu,edibles,get high off of,get,get,AUX,Hope
 kevin.miller@hope.edu,edibles,get high off of,high,high,VERB,Hope
 kevin.miller@hope.edu,edibles,give to friends,give,give,VERB,Hope
 kevin.miller@hope.edu,edibles,give to friends,friends,friend,NOUN,Hope
@@ -8344,7 +8334,7 @@ kevin.miller@hope.edu,edibles,make a pool out of,make,make,VERB,Hope
 kevin.miller@hope.edu,edibles,make a pool out of,pool,pool,INTJ,Hope
 kevin.miller@hope.edu,edibles,separate back into weed,separate,separate,VERB,Hope
 kevin.miller@hope.edu,edibles,separate back into weed,back,back,ADV,Hope
-kevin.miller@hope.edu,edibles,separate back into weed,weed,we,VERB,Hope
+kevin.miller@hope.edu,edibles,separate back into weed,weed,weed,NOUN,Hope
 kevin.miller@hope.edu,edibles,sell at a bakery as normal brownies,sell,sell,VERB,Hope
 kevin.miller@hope.edu,edibles,sell at a bakery as normal brownies,bakery,bakery,NOUN,Hope
 kevin.miller@hope.edu,edibles,sell at a bakery as normal brownies,normal,normal,ADJ,Hope
@@ -8355,7 +8345,7 @@ kevin.miller@hope.edu,houseboat,start a social media channel about getting rich 
 kevin.miller@hope.edu,houseboat,start a social media channel about getting rich while having every video be you on the houseboat smoking a cigar.,social,social,ADJ,Hope
 kevin.miller@hope.edu,houseboat,start a social media channel about getting rich while having every video be you on the houseboat smoking a cigar.,media,media,NOUN,Hope
 kevin.miller@hope.edu,houseboat,start a social media channel about getting rich while having every video be you on the houseboat smoking a cigar.,channel,channel,NOUN,Hope
-kevin.miller@hope.edu,houseboat,start a social media channel about getting rich while having every video be you on the houseboat smoking a cigar.,getting,get,VERB,Hope
+kevin.miller@hope.edu,houseboat,start a social media channel about getting rich while having every video be you on the houseboat smoking a cigar.,getting,get,AUX,Hope
 kevin.miller@hope.edu,houseboat,start a social media channel about getting rich while having every video be you on the houseboat smoking a cigar.,rich,rich,ADJ,Hope
 kevin.miller@hope.edu,houseboat,start a social media channel about getting rich while having every video be you on the houseboat smoking a cigar.,every,every,DET,Hope
 kevin.miller@hope.edu,houseboat,start a social media channel about getting rich while having every video be you on the houseboat smoking a cigar.,video,video,NOUN,Hope
@@ -8368,9 +8358,9 @@ kevin.miller@hope.edu,ductwork,put pipes underground. cut your neighbor's pipes,
 kevin.miller@hope.edu,ductwork,put pipes underground. cut your neighbor's pipes,cut,cut,VERB,Hope
 kevin.miller@hope.edu,ductwork,put pipes underground. cut your neighbor's pipes,pipes,pipe,NOUN,Hope
 kevin.miller@hope.edu,ductwork,as a business,business,business,NOUN,Hope
-kevin.miller@hope.edu,ductwork,make your pipes go into the ocean,make,make,VERB,Hope
+kevin.miller@hope.edu,ductwork,make your pipes go into the ocean,make,make,AUX,Hope
 kevin.miller@hope.edu,ductwork,make your pipes go into the ocean,pipes,pipe,NOUN,Hope
-kevin.miller@hope.edu,ductwork,make your pipes go into the ocean,go,go,VERB,Hope
+kevin.miller@hope.edu,ductwork,make your pipes go into the ocean,go,go,AUX,Hope
 kevin.miller@hope.edu,ductwork,make your pipes go into the ocean,ocean,ocean,NOUN,Hope
 kevin.miller@hope.edu,ductwork,art in front of a house. horse art. ,art,art,NOUN,Hope
 kevin.miller@hope.edu,ductwork,art in front of a house. horse art. ,front,front,ADJ,Hope
@@ -8388,7 +8378,7 @@ kevin.miller@hope.edu,alfalfa,give to a girlfriend,girlfriend,girlfriend,NOUN,Ho
 kevin.miller@hope.edu,alfalfa,eat with friends raw,eat,eat,VERB,Hope
 kevin.miller@hope.edu,alfalfa,eat with friends raw,friends,friend,NOUN,Hope
 kevin.miller@hope.edu,alfalfa,eat with friends raw,raw,raw,ADJ,Hope
-kevin.miller@hope.edu,alfalfa,make a garden in another more climate-appropriate region. ,make,make,VERB,Hope
+kevin.miller@hope.edu,alfalfa,make a garden in another more climate-appropriate region. ,make,make,AUX,Hope
 kevin.miller@hope.edu,alfalfa,make a garden in another more climate-appropriate region. ,garden,garden,VERB,Hope
 kevin.miller@hope.edu,alfalfa,make a garden in another more climate-appropriate region. ,another,another,DET,Hope
 kevin.miller@hope.edu,alfalfa,make a garden in another more climate-appropriate region. ,climate,climate,NOUN,Hope
@@ -8408,13 +8398,13 @@ kevin.miller@hope.edu,saltshaker,sauce,sauce,sauce,NOUN,Hope
 kevin.miller@hope.edu,saltshaker,throwing weapon,throwing,throw,VERB,Hope
 kevin.miller@hope.edu,saltshaker,throwing weapon,weapon,weapon,VERB,Hope
 kevin.miller@hope.edu,saltshaker,pencil holder,pencil,pencil,NOUN,Hope
-kevin.miller@hope.edu,saltshaker,pencil holder,holder,holder,NOUN,Hope
+kevin.miller@hope.edu,saltshaker,pencil holder,holder,hold,VERB,Hope
 kevin.miller@hope.edu,saltshaker,candle,candle,candle,NOUN,Hope
 kevin.miller@hope.edu,manicure,impress mates,impress,impress,VERB,Hope
 kevin.miller@hope.edu,manicure,impress mates,mates,mate,NOUN,Hope
 kevin.miller@hope.edu,manicure,to stop the habit of picking nails,stop,stop,VERB,Hope
 kevin.miller@hope.edu,manicure,to stop the habit of picking nails,habit,habit,NOUN,Hope
-kevin.miller@hope.edu,manicure,to stop the habit of picking nails,picking,pick,VERB,Hope
+kevin.miller@hope.edu,manicure,to stop the habit of picking nails,picking,pick,AUX,Hope
 kevin.miller@hope.edu,manicure,to stop the habit of picking nails,nails,nails,NOUN,Hope
 kevin.miller@hope.edu,lambskin,lightshade,shade,shade,VERB,Hope
 kevin.miller@hope.edu,lambskin,rug,rug,rug,VERB,Hope
@@ -8472,7 +8462,6 @@ kevin.miller@hope.edu,engine,power an all-electric watermelon-sized battery-oper
 kevin.miller@hope.edu,engine,power an all-electric watermelon-sized battery-operated 1500 pound motor for 2012 tesla model s. train,motor,motor,NOUN,Hope
 kevin.miller@hope.edu,engine,power an all-electric watermelon-sized battery-operated 1500 pound motor for 2012 tesla model s. train,teals,teal,NOUN,Hope
 kevin.miller@hope.edu,engine,power an all-electric watermelon-sized battery-operated 1500 pound motor for 2012 tesla model s. train,model,model,NOUN,Hope
-kevin.miller@hope.edu,engine,power an all-electric watermelon-sized battery-operated 1500 pound motor for 2012 tesla model s. train,s,'s,PART,Hope
 kevin.miller@hope.edu,engine,power an all-electric watermelon-sized battery-operated 1500 pound motor for 2012 tesla model s. train,train,train,NOUN,Hope
 kevin.miller@hope.edu,engine,other cars,cars,cars,NOUN,Hope
 kevin.miller@hope.edu,engine,rockets,rockets,rockets,NOUN,Hope
@@ -8504,9 +8493,9 @@ kevin.miller@hope.edu,switchboard,desktops,desktops,desktop,NOUN,Hope
 kevin.miller@hope.edu,switchboard,control theater lights,control,control,VERB,Hope
 kevin.miller@hope.edu,switchboard,control theater lights,theater,theater,NOUN,Hope
 kevin.miller@hope.edu,switchboard,control theater lights,lights,light,NOUN,Hope
-kevin.miller@hope.edu,switchboard,make a gamecube work,make,make,VERB,Hope
+kevin.miller@hope.edu,switchboard,make a gamecube work,make,make,AUX,Hope
 kevin.miller@hope.edu,switchboard,make a gamecube work,work,work,NOUN,Hope
-kevin.miller@hope.edu,switchboard,communicate a rocket to enter 2nd stage of flight. ,communicate,communicate,ADJ,Hope
+kevin.miller@hope.edu,switchboard,communicate a rocket to enter 2nd stage of flight. ,communicate,communicate,VERB,Hope
 kevin.miller@hope.edu,switchboard,communicate a rocket to enter 2nd stage of flight. ,rocket,rocket,NOUN,Hope
 kevin.miller@hope.edu,switchboard,communicate a rocket to enter 2nd stage of flight. ,enter,enter,NOUN,Hope
 kevin.miller@hope.edu,switchboard,communicate a rocket to enter 2nd stage of flight. ,stage,stage,NOUN,Hope
@@ -8562,7 +8551,7 @@ kevin.miller@hope.edu,tombstone,to put in video games as necromancers. ,put,put,
 kevin.miller@hope.edu,tombstone,to put in video games as necromancers. ,video,video,NOUN,Hope
 kevin.miller@hope.edu,tombstone,to put in video games as necromancers. ,games,game,NOUN,Hope
 kevin.miller@hope.edu,tombstone,to put in video games as necromancers. ,necromancers,necromancer,NOUN,Hope
-kevin.miller@hope.edu,laxative,to play shit roulette ,play,play,VERB,Hope
+kevin.miller@hope.edu,laxative,to play shit roulette ,play,play,AUX,Hope
 kevin.miller@hope.edu,laxative,to play shit roulette ,shit,shit,VERB,Hope
 kevin.miller@hope.edu,laxative,to play shit roulette ,roulette,roulette,NOUN,Hope
 kevin.miller@hope.edu,motorcycle,take apart and rebuild,take,take,VERB,Hope
@@ -8606,7 +8595,7 @@ kevin.miller@hope.edu,male,can be a father go to work plan a vacation inspire ot
 kevin.miller@hope.edu,male,fly a plane but a house get a dog find a girlfriend be semi-independent,fly,fly,VERB,Hope
 kevin.miller@hope.edu,male,fly a plane but a house get a dog find a girlfriend be semi-independent,plane,plane,NOUN,Hope
 kevin.miller@hope.edu,male,fly a plane but a house get a dog find a girlfriend be semi-independent,house,house,NOUN,Hope
-kevin.miller@hope.edu,male,fly a plane but a house get a dog find a girlfriend be semi-independent,get,get,VERB,Hope
+kevin.miller@hope.edu,male,fly a plane but a house get a dog find a girlfriend be semi-independent,get,get,AUX,Hope
 kevin.miller@hope.edu,male,fly a plane but a house get a dog find a girlfriend be semi-independent,dog,dog,NOUN,Hope
 kevin.miller@hope.edu,male,fly a plane but a house get a dog find a girlfriend be semi-independent,find,find,VERB,Hope
 kevin.miller@hope.edu,male,fly a plane but a house get a dog find a girlfriend be semi-independent,girlfriend,girlfriend,NOUN,Hope
@@ -9746,7 +9735,7 @@ lydia.hawkins@hope.edu,tinplate,cook food in oven,food,food,VERB,Hope
 lydia.hawkins@hope.edu,tinplate,cook food in oven,oven,oven,ADV,Hope
 lydia.hawkins@hope.edu,sidewalk,walk,walk,walk,VERB,Hope
 lydia.hawkins@hope.edu,sidewalk,hopscotch,hopscotch,hopscotch,VERB,Hope
-lydia.hawkins@hope.edu,sidewalk,draw on with chalk,draw,dree,VERB,Hope
+lydia.hawkins@hope.edu,sidewalk,draw on with chalk,draw,draw,VERB,Hope
 lydia.hawkins@hope.edu,sidewalk,draw on with chalk,chalk,chalk,NOUN,Hope
 lydia.hawkins@hope.edu,sidewalk,run,run,run,VERB,Hope
 lydia.hawkins@hope.edu,sidewalk,bike,bike,bike,VERB,Hope
@@ -9932,7 +9921,7 @@ maureen.cole@hope.edu,tracksuit,wear,wear,wear,VERB,Hope
 maureen.cole@hope.edu,tracksuit,sell,sell,sell,VERB,Hope
 maureen.cole@hope.edu,tracksuit,advertise,advertise,advertise,NOUN,Hope
 maureen.cole@hope.edu,tracksuit,to run,run,run,VERB,Hope
-maureen.cole@hope.edu,tracksuit,to draw attention to,draw,dree,VERB,Hope
+maureen.cole@hope.edu,tracksuit,to draw attention to,draw,draw,VERB,Hope
 maureen.cole@hope.edu,tracksuit,to draw attention to,attention,attention,NOUN,Hope
 maureen.cole@hope.edu,pal,friend,friend,friend,NOUN,Hope
 maureen.cole@hope.edu,pal,helper,helper,help,VERB,Hope
@@ -10223,7 +10212,7 @@ morgan.imirowicz@hope.edu,chambermaid,helping,helping,help,VERB,Hope
 morgan.imirowicz@hope.edu,ass,sitting,sitting,sit,VERB,Hope
 morgan.imirowicz@hope.edu,honey,eating,eating,eat,VERB,Hope
 morgan.imirowicz@hope.edu,honey,cooking,cooking,cook,VERB,Hope
-morgan.imirowicz@hope.edu,poncho,warmth,warmth,warmth,VERB,Hope
+morgan.imirowicz@hope.edu,poncho,warmth,warmth,warm,VERB,Hope
 morgan.imirowicz@hope.edu,dart,throwing,throwing,throw,VERB,Hope
 morgan.imirowicz@hope.edu,manhole,going into the ground,going,go,VERB,Hope
 morgan.imirowicz@hope.edu,manhole,going into the ground,ground,ground,NOUN,Hope
@@ -11544,7 +11533,7 @@ samuel.penniall@hope.edu,melon,used as an ingredient,ingredient,ingredient,NOUN,
 samuel.penniall@hope.edu,melon,gifted,gifted,gift,VERB,Hope
 samuel.penniall@hope.edu,wool,used as clothing,used,use,VERB,Hope
 samuel.penniall@hope.edu,wool,used as clothing,clothing,clothing,NOUN,Hope
-samuel.penniall@hope.edu,wool,for warmth,warmth,warmth,VERB,Hope
+samuel.penniall@hope.edu,wool,for warmth,warmth,warm,VERB,Hope
 samuel.penniall@hope.edu,wool,for crafting,crafting,craft,VERB,Hope
 samuel.penniall@hope.edu,drawers,used for storing items,used,use,VERB,Hope
 samuel.penniall@hope.edu,drawers,used for storing items,storing,store,VERB,Hope
@@ -12530,7 +12519,7 @@ zoey.cappatocio@hope.edu,dartboard,playing games,playing,play,VERB,Hope
 zoey.cappatocio@hope.edu,dartboard,playing games,games,game,NOUN,Hope
 zoey.cappatocio@hope.edu,dartboard,fun,fun,fun,NOUN,Hope
 zoey.cappatocio@hope.edu,wool,clothing,clothing,clothing,NOUN,Hope
-zoey.cappatocio@hope.edu,wool,warmth,warmth,warmth,VERB,Hope
+zoey.cappatocio@hope.edu,wool,warmth,warmth,warm,VERB,Hope
 zoey.cappatocio@hope.edu,wool,comfort,comfort,comfort,VERB,Hope
 zoey.cappatocio@hope.edu,dancer,entertainment,entertainment,entertain,VERB,Hope
 zoey.cappatocio@hope.edu,dancer,discovering and observing art,discovering,discover,VERB,Hope

@@ -184,6 +184,8 @@ dat$CUE[dat$CUE == "almanac"] = NA
 dat$CUE[dat$CUE == "fieldstone"] = NA
 dat$CUE[dat$CUE == "persimmon"] = NA
 dat$CUE[dat$CUE == "emerald"] = NA
+dat$CUE[dat$CUE == "youngster"] = NA
+dat$CUE[dat$CUE == "petroleum"] = NA
 
 ##Need to sum each unique response to a cue then divide by all cues
 ##Will only want to look at verb responses

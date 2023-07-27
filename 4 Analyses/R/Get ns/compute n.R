@@ -198,8 +198,10 @@ dat$Stimuli.Cue[dat$Stimuli.Cue == "almanac"] = NA
 dat$Stimuli.Cue[dat$Stimuli.Cue == "fieldstone"] = NA
 dat$Stimuli.Cue[dat$Stimuli.Cue == "persimmon"] = NA
 dat$Stimuli.Cue[dat$Stimuli.Cue == "emerald"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "youngster"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "petroleum"] = NA
 
-d3 = 191 - 200
+d3 = 202 - 191
 
 ##total drops
 total = d1 + d2 + d3

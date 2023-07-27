@@ -111,22 +111,103 @@ dat$Stimuli.Cue[dat$Stimuli.Cue == "wounds"] = "wound"
 dat$Stimuli.Cue[dat$Stimuli.Cue == "whisky"] = "whiskey"
 
 ##how many lost from combining?
-110 - 21 #90
+d1 = 111 - 21 #90
 
-##words to remove?
-#bathe
-#childbirth
-#crap
-#fag
-#him
-#lick
-#holding
-#me
-#myself
-#piss
-#poop
-#you
-#yourself
+##Remove low words
+dat$Stimuli.Cue[dat$Stimuli.Cue == "saucer"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "grain"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "paperwork"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "spaghetti"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "shortening"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "masturbate"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "massage"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "tripe"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "abacus"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "stenographer"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "casebook"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "rawhide"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "fag"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "turnstile"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "cellist"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "herring"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "rupee"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "gramophone"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "mastiff"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "gardenia"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "solicitor"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "pew"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "wigwam"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "blowpipe"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "tit"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "cavalryman"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "excrement"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "hashish"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "orangutan"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "firebox"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "liverwurst"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "petticoat"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "whore"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "rickshaw"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "fender"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "morphine"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "roadster"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "topaz"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "crankshaft"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "saloonkeeper"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "breadboard"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "sixpence"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "groin"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "hosiery"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "workbox"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "footman"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "lesion"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "matchwood"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "veranda"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "anvil"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "cervix"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "drunkard"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "springboard"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "garter"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "stepsister"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "underbrush"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "amphetamine"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "cryptographer"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "bisque"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "nightstick"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "passerby"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "navel"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "clergyman"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "stepparent"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "suppository"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "stationmaster"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "aircraftsman"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "cob"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "tyke"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "sphincter"] = NA
+
+d2 = 186 - 117 #69
+
+##Additional drops?
+dat$Stimuli.Cue[dat$Stimuli.Cue == "massager"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "percolator"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "bran"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "kin"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "midshipman"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "greenback"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "almanac"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "fieldstone"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "persimmon"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "emerald"] = NA
+
+d3 = 191 - 200
+
+##total drops
+total = d1 + d2 + d3
+
+total - 5 #account for practice items
+
+#get rid of NAs
+dat = na.omit(dat)
 
 ####Write a loop?####
 ##subset by cue, get each n?

@@ -200,13 +200,27 @@ dat$Stimuli.Cue[dat$Stimuli.Cue == "persimmon"] = NA
 dat$Stimuli.Cue[dat$Stimuli.Cue == "emerald"] = NA
 dat$Stimuli.Cue[dat$Stimuli.Cue == "youngster"] = NA
 dat$Stimuli.Cue[dat$Stimuli.Cue == "petroleum"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "sod"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "capacitor"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "asphalt"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "matter"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "lick"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "piss"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "cosmetician"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "privates"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "tee"] = NA
+dat$Stimuli.Cue[dat$Stimuli.Cue == "newsreader"] = NA
 
-d3 = 202 - 191
+d3 = 212 - 191
 
 ##total drops
 total = d1 + d2 + d3
 
 total - 5 #account for practice items
+
+##fix my spelling mistakes
+dat$Stimuli.Cue[dat$Stimuli.Cue == "turbin"] = "turban"
+dat$Stimuli.Cue[dat$Stimuli.Cue == "newlywed"] = "newlyweds"
 
 #get rid of NAs
 dat = na.omit(dat)

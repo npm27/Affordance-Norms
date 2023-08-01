@@ -1,0 +1,1659 @@
+Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
+M20248065JAO,deck,play,play,play,VERB,MSU Texas
+M20248065JAO,deck,arrange,arrange,arrange,VERB,MSU Texas
+M20248065JAO,deck,distribute,distribute,distribute,VERB,MSU Texas
+M20248065JAO,deck,lay,lay,lay,VERB,MSU Texas
+M20248065JAO,wallboard,climb,climb,climb,VERB,MSU Texas
+M20248065JAO,wallboard,strengthen,strengthen,strengthen,ADV,MSU Texas
+M20248065JAO,wallboard,build,build,build,VERB,MSU Texas
+M20248065JAO,wallboard,break,break,break,VERB,MSU Texas
+M20248065JAO,knickers,eat,eat,eat,VERB,MSU Texas
+M20248065JAO,knickers,make,make,make,VERB,MSU Texas
+M20248065JAO,knickers,open,open,open,VERB,MSU Texas
+M20248065JAO,knickers,throw,throw,throw,VERB,MSU Texas
+M20248065JAO,guardrail,balance,balance,balance,VERB,MSU Texas
+M20248065JAO,guardrail,destroy,destroy,destroy,VERB,MSU Texas
+M20248065JAO,guardrail,sit,sit,sit,VERB,MSU Texas
+M20248065JAO,guardrail,hold,hold,hold,VERB,MSU Texas
+M20248065JAO,centipede,touch,touch,touch,VERB,MSU Texas
+M20248065JAO,centipede,play,play,play,VERB,MSU Texas
+M20248065JAO,centipede,step on,step,step on,VERB,MSU Texas
+M20248065JAO,greenhouse,build,build,build,VERB,MSU Texas
+M20248065JAO,greenhouse,farm,farm,farm,VERB,MSU Texas
+M20248065JAO,topaz,paint,paint,paint,VERB,MSU Texas
+M20248065JAO,topaz,color,color,color,VERB,MSU Texas
+M20248065JAO,topaz,wear,wear,wear,VERB,MSU Texas
+M20248065JAO,topaz,design,design,design,VERB,MSU Texas
+M20248065JAO,earplugs,remove,remove,remove,VERB,MSU Texas
+M20248065JAO,earplugs,wear,wear,wear,VERB,MSU Texas
+M20248065JAO,earplugs,buy,buy,buy,VERB,MSU Texas
+M20248065JAO,earplugs,distribute,distribute,distribute,VERB,MSU Texas
+M20248065JAO,earplugs,fit,fit,fit,VERB,MSU Texas
+M20248065JAO,pulley,buy,buy,buy,VERB,MSU Texas
+M20248065JAO,pulley,push,push,push,VERB,MSU Texas
+M20248065JAO,pulley,connect,connect,connect,VERB,MSU Texas
+M20248065JAO,waffle,prepare,prepare,prepare,VERB,MSU Texas
+M20248065JAO,waffle,buy,buy,buy,VERB,MSU Texas
+M20248065JAO,waffle,throw,throw,throw,VERB,MSU Texas
+M20248065JAO,waffle,eat,eat,eat,VERB,MSU Texas
+M20248065JAO,bowling,organize,organize,organize,VERB,MSU Texas
+M20248065JAO,bowling,plan,plan,plan,VERB,MSU Texas
+M20248065JAO,bowling,go,go,go,AUX,MSU Texas
+M20248065JAO,tee,wear,wear,wear,VERB,MSU Texas
+M20248065JAO,tee,design,design,design,VERB,MSU Texas
+M20248065JAO,tee,purchase,purchase,purchase,VERB,MSU Texas
+M20248065JAO,fieldstone,rub,rub,rub,VERB,MSU Texas
+M20248065JAO,fieldstone,throw,throw,throw,VERB,MSU Texas
+M20248065JAO,fieldstone,collect,collect,collect,VERB,MSU Texas
+M20248065JAO,Fern,prop,prop,prop,VERB,MSU Texas
+M20248065JAO,Fern,plant,plant,plant,VERB,MSU Texas
+M20248065JAO,Fern,decorate,decorate,decorate,VERB,MSU Texas
+M20248065JAO,hound,hunt,hunt,hunt,VERB,MSU Texas
+M20248065JAO,hound,pet,pet,pet,VERB,MSU Texas
+M20248065JAO,breadboard,clean,clean,clean,VERB,MSU Texas
+M20248065JAO,breadboard,build,build,build,VERB,MSU Texas
+M20248065JAO,breadboard,buy,buy,buy,VERB,MSU Texas
+M20248065JAO,marketeer,listen,listen,listen,VERB,MSU Texas
+M20248065JAO,marketeer,question,question,question,VERB,MSU Texas
+M20248065JAO,marketeer,hire,hire,hire,VERB,MSU Texas
+M20248065JAO,wrist,break,break,break,VERB,MSU Texas
+M20248065JAO,wrist,twist,twist,twist,VERB,MSU Texas
+M20248065JAO,respirator,breathe,breathe,breathe,VERB,MSU Texas
+M20248065JAO,respirator,connect,connect,connect,VERB,MSU Texas
+M20248065JAO,brow,shape,shape,shape,VERB,MSU Texas
+M20248065JAO,brow,color,color,color,VERB,MSU Texas
+M20248065JAO,brow,design,design,design,VERB,MSU Texas
+M20248065JAO,badminton,play,play,play,VERB,MSU Texas
+M20248065JAO,badminton,purchase,purchase,purchase,VERB,MSU Texas
+M20248065JAO,debris,dust,dust,dust,NOUN,MSU Texas
+M20248065JAO,debris,shake,shake,shake,VERB,MSU Texas
+M20248065JAO,debris,wipe off,wipe,wipe,VERB,MSU Texas
+M20248065JAO,dish,wash,wash,wash,VERB,MSU Texas
+M20248065JAO,dish,dry,dry,dry,VERB,MSU Texas
+M20248065JAO,dish,eat from,eat,eat,VERB,MSU Texas
+M20248065JAO,waist,cinch,cinch,cinch,VERB,MSU Texas
+M20248065JAO,waist,construct,construct,construct,VERB,MSU Texas
+M20248065JAO,waist,draw,draw,dree,VERB,MSU Texas
+M20248065JAO,waist,repair,repair,repair,VERB,MSU Texas
+M20248065JAO,dye,paint,paint,paint,VERB,MSU Texas
+M20248065JAO,dye,mix,mix,mix,VERB,MSU Texas
+M20248065JAO,dye,prepare,prepare,prepare,VERB,MSU Texas
+M20248065JAO,trampoline,jump,jump,jump,VERB,MSU Texas
+M20248065JAO,trampoline,fix,fix,fix,VERB,MSU Texas
+M20248065JAO,limb,stretch,stretch,stretch,VERB,MSU Texas
+M20248065JAO,limb,flex,flex,flex,VERB,MSU Texas
+M20263954AL,blower,throw,throw,throw,VERB,MSU Texas
+M20263954AL,blower,clean,clean,clean,VERB,MSU Texas
+M20263954AL,turban,wear it,wear,wear,VERB,MSU Texas
+M20263954AL,turban,sit on,sit,sit,VERB,MSU Texas
+M20263954AL,turban,throw,throw,throw,VERB,MSU Texas
+M20263954AL,turban,kick,kick,kick,VERB,MSU Texas
+M20263954AL,courtyard,sit in,sit,sit,VERB,MSU Texas
+M20263954AL,courtyard,walk,walk,walk,VERB,MSU Texas
+M20263954AL,tripe,eat,eat,eat,VERB,MSU Texas
+M20263954AL,tripe,throw,throw,throw,VERB,MSU Texas
+M20263954AL,tripe,kick,kick,kick,VERB,MSU Texas
+M20263954AL,tripe,cook,cook,cook,VERB,MSU Texas
+M20263954AL,gondola,sit in,sit,sit,VERB,MSU Texas
+M20263954AL,gondola,wash,wash,wash,VERB,MSU Texas
+M20263954AL,gondola,travel,travel,travel,VERB,MSU Texas
+M20263954AL,gondola,step on,step,step on,VERB,MSU Texas
+M20263954AL,boot,wear,wear,wear,VERB,MSU Texas
+M20263954AL,boot,throw,throw,throw,VERB,MSU Texas
+M20263954AL,boot,kick,kick,kick,VERB,MSU Texas
+M20263954AL,boot,sit on,sit,sit,VERB,MSU Texas
+M20263954AL,barman,serve,serve,serve,VERB,MSU Texas
+M20263954AL,barman,talk to,talk,talk,VERB,MSU Texas
+M20263954AL,barman,laugh ,laugh,laugh,VERB,MSU Texas
+M20263954AL,hotplate,heat up food,heat,heat,VERB,MSU Texas
+M20263954AL,hotplate,heat up food,food,food,NOUN,MSU Texas
+M20263954AL,hotplate,throw it,throw,throw,VERB,MSU Texas
+M20263954AL,godmother,hug,hug,hug,VERB,MSU Texas
+M20263954AL,godmother,talk to,talk,talk,VERB,MSU Texas
+M20263954AL,godmother,laugh with,laugh,laugh,VERB,MSU Texas
+M20263954AL,godmother,protect,protect,protect,VERB,MSU Texas
+M20263954AL,godmother,compassionate,compassionate,compassion,VERB,MSU Texas
+M20263954AL,trap,step on,step,step on,VERB,MSU Texas
+M20263954AL,trap,throw,throw,throw,VERB,MSU Texas
+M20263954AL,trap,kick ,kick,kick,VERB,MSU Texas
+M20263954AL,bottle,brake,brake,break,VERB,MSU Texas
+M20263954AL,bottle,build,build,build,VERB,MSU Texas
+M20263954AL,bottle,hydrate,hydrate,hydrate,VERB,MSU Texas
+M20263954AL,bottle,cut ,cut,cut,VERB,MSU Texas
+M20263954AL,rainwater,drink,drink,drink,VERB,MSU Texas
+M20263954AL,rainwater,throw,throw,throw,VERB,MSU Texas
+M20263954AL,rainwater,step in,step,step in,VERB,MSU Texas
+M20263954AL,gunpowder,throw,throw,throw,VERB,MSU Texas
+M20263954AL,newscaster,share information,share,share,VERB,MSU Texas
+M20263954AL,newscaster,share information,information,information,NOUN,MSU Texas
+M20263954AL,newscaster,dangerous situations,dangerous,danger,VERB,MSU Texas
+M20263954AL,newscaster,dangerous situations,situations,situation,NOUN,MSU Texas
+M20263954AL,yogurt,eat,eat,eat,VERB,MSU Texas
+M20263954AL,yogurt,throw,throw,throw,VERB,MSU Texas
+M20263954AL,yogurt,sit in,sit,sit,VERB,MSU Texas
+M20263954AL,yogurt,kick,kick,kick,VERB,MSU Texas
+M20263954AL,choreographer,dance,dance,dance,VERB,MSU Texas
+M20263954AL,choreographer,plan,plan,plan,VERB,MSU Texas
+M20263954AL,choreographer,organize ,organize,organize,VERB,MSU Texas
+M20263954AL,coverall,wear,wear,wear,VERB,MSU Texas
+M20263954AL,coverall,protect oneself,protect,protect,VERB,MSU Texas
+M20263954AL,coverall,protect oneself,oneself,oneself,PRON,MSU Texas
+M20263954AL,coverall,throw,throw,throw,VERB,MSU Texas
+M20263954AL,coverall,sit on,sit,sit,VERB,MSU Texas
+M20263954AL,lettuce,eat,eat,eat,VERB,MSU Texas
+M20263954AL,lettuce,disregard (throw away),disregard,disregard,NOUN,MSU Texas
+M20263954AL,lettuce,disregard (throw away),throw,throw away,VERB,MSU Texas
+M20263954AL,lettuce,disregard (throw away),away,away,ADV,MSU Texas
+M20263954AL,undergarment,wear,wear,wear,VERB,MSU Texas
+M20263954AL,undergarment,burn it,burn,burn,VERB,MSU Texas
+M20263954AL,undergarment,throw,throw,throw,VERB,MSU Texas
+M20263954AL,toy,play with,play,play,VERB,MSU Texas
+M20263954AL,toy,kick,kick,kick,VERB,MSU Texas
+M20263954AL,toy,step on,step,step on,VERB,MSU Texas
+M20263954AL,satchel,wear,wear,wear,VERB,MSU Texas
+M20263954AL,satchel,throw,throw,throw,VERB,MSU Texas
+M20263954AL,satchel,carry,carry,carry,VERB,MSU Texas
+M20263954AL,satchel,kick,kick,kick,VERB,MSU Texas
+M20263954AL,mice,step on,step,step on,VERB,MSU Texas
+M20263954AL,mice,kill,kill,kill,VERB,MSU Texas
+M20263954AL,mice,kick,kick,kick,VERB,MSU Texas
+M20263954AL,antibiotics,consume,consume,consume,VERB,MSU Texas
+M20263954AL,prankster,surprise someone,surprise,surprise,VERB,MSU Texas
+M20263954AL,prankster,surprise someone,someone,someone,PRON,MSU Texas
+M20263954AL,prankster,improve someones mood,improve,improve,VERB,MSU Texas
+M20263954AL,prankster,improve someones mood,someones,someone,NOUN,MSU Texas
+M20263954AL,prankster,improve someones mood,mood,mood,NOUN,MSU Texas
+M20263954AL,prankster,make someone angry,make,make,VERB,MSU Texas
+M20263954AL,prankster,make someone angry,someone,someone,PRON,MSU Texas
+M20263954AL,prankster,make someone angry,angry,anger,VERB,MSU Texas
+M20263954AL,goalpost,keep ball out,keep,keep,AUX,MSU Texas
+M20263954AL,goalpost,keep ball out,ball,ball,NOUN,MSU Texas
+M20263954AL,assemblyman,legislative organization,legislative,legislative,ADJ,MSU Texas
+M20263954AL,assemblyman,legislative organization,organization,organization,NOUN,MSU Texas
+M20263954AL,dolphin,swim,swim,swim,VERB,MSU Texas
+M20263954AL,dolphin,flip,flip,flip,VERB,MSU Texas
+M20263954AL,dolphin,talk ,talk,talk,VERB,MSU Texas
+M20263954AL,yourself,nothing,nothing,nothing,PRON,MSU Texas
+M20263954AL,yourself,talk,talk,talk,VERB,MSU Texas
+M20263954AL,yourself,laugh,laugh,laugh,VERB,MSU Texas
+M20263954AL,skittles,eat,eat,eat,VERB,MSU Texas
+M20263954AL,skittles,share,share,share,VERB,MSU Texas
+M20263954AL,skittles,buy,buy,buy,VERB,MSU Texas
+M20263954AL,teabag,consume,consume,consume,VERB,MSU Texas
+M20263954AL,teabag,heat up,heat,heat,VERB,MSU Texas
+M20263954AL,teabag,cup,cup,cup,NOUN,MSU Texas
+M20263954AL,teabag,smells good or bad,smells,smell,VERB,MSU Texas
+M20263954AL,teabag,smells good or bad,good,good,ADJ,MSU Texas
+M20263954AL,teabag,smells good or bad,bad,bad,ADJ,MSU Texas
+M20294769,magnet,pull things,pull,pull,VERB,MSU Texas
+M20294769,magnet,pull things,things,thing,NOUN,MSU Texas
+M20294769,magnet,attaching stuff,attaching,attach,VERB,MSU Texas
+M20294769,magnet,attaching stuff,stuff,stuff,NOUN,MSU Texas
+M20294769,lens,seeing,seeing,see,VERB,MSU Texas
+M20294769,lens,glasses,glasses,glasses,NOUN,MSU Texas
+M20294769,lens,tools,tools,tool,NOUN,MSU Texas
+M20294769,hiker,outside,outside,outside,ADV,MSU Texas
+M20294769,hiker,nature,nature,nature,NOUN,MSU Texas
+M20294769,hiker,weather ,weather,weather,NOUN,MSU Texas
+M20294769,quarterback,football,football,football,NOUN,MSU Texas
+M20294769,quarterback,athlete,athlete,athlete,X,MSU Texas
+M20294769,quarterback,big,big,big,ADJ,MSU Texas
+M20294769,quarterback,fast,fast,fast,ADJ,MSU Texas
+M20294769,fender,car,car,car,NOUN,MSU Texas
+M20294769,buttercup,saying,saying,say,VERB,MSU Texas
+M20294769,buttercup,candy ,candy,candy,NOUN,MSU Texas
+M20294769,pinball,game,game,game,NOUN,MSU Texas
+M20294769,pinball,old games ,old,old,ADJ,MSU Texas
+M20294769,pinball,old games ,games,game,NOUN,MSU Texas
+M20294769,document,assignment,assignment,assignment,NOUN,MSU Texas
+M20294769,document,government ,government,government,NOUN,MSU Texas
+M20294769,tutu,wear it,wear,wear,VERB,MSU Texas
+M20294769,tutu,pink,pink,pink,ADJ,MSU Texas
+M20294769,tutu,sport ,sport,sport,NOUN,MSU Texas
+M20294769,sand,beach,beach,beach,NOUN,MSU Texas
+M20294769,sand,lake,lake,lake,NOUN,MSU Texas
+M20294769,sand,hot,hot,hot,ADJ,MSU Texas
+M20294769,sand,summer,summer,summer,NOUN,MSU Texas
+M20294769,companion,partner,partner,partner,NOUN,MSU Texas
+M20294769,aluminum,used to cover stuff,used,use,VERB,MSU Texas
+M20294769,aluminum,used to cover stuff,cover,cover,VERB,MSU Texas
+M20294769,aluminum,used to cover stuff,stuff,stuff,NOUN,MSU Texas
+M20294769,townspeople,people,people,people,NOUN,MSU Texas
+M20294769,townspeople,city ,city,city,NOUN,MSU Texas
+M20294769,harness,animals,animals,animal,NOUN,MSU Texas
+M20294769,harness,restriction ,restriction,restrict,VERB,MSU Texas
+M20294769,hostel,captured,captured,capture,VERB,MSU Texas
+M20294769,busman,driver,driver,drive,VERB,MSU Texas
+M20294769,busman,school bus,school,school,NOUN,MSU Texas
+M20294769,busman,school bus,bus,bus,NOUN,MSU Texas
+M20294769,cowhide,off a animal,animal,animal,NOUN,MSU Texas
+M20294769,cowhide,cow rug ,cow,cow,NOUN,MSU Texas
+M20294769,cowhide,cow rug ,rug,rug,VERB,MSU Texas
+M20294769,meteorologist,weather man,weather,weather,NOUN,MSU Texas
+M20294769,meteorologist,weather man,man,man,NOUN,MSU Texas
+M20294769,meteorologist,read weather ,read,read,VERB,MSU Texas
+M20294769,meteorologist,read weather ,weather,weather,NOUN,MSU Texas
+M20294769,astronaut,outter space,outer,outer,ADJ,MSU Texas
+M20294769,astronaut,outter space,space,space,NOUN,MSU Texas
+M20294769,astronaut,rocket ship,rocket,rocket,NOUN,MSU Texas
+M20294769,astronaut,rocket ship,ship,ship,NOUN,MSU Texas
+M20294769,nipple,part of persons body ,part,part,NOUN,MSU Texas
+M20294769,nipple,part of persons body ,persons,person,NOUN,MSU Texas
+M20294769,nipple,part of persons body ,body,body,NOUN,MSU Texas
+M20294769,nipple,animals body ,animals,animal,NOUN,MSU Texas
+M20294769,nipple,animals body ,body,body,NOUN,MSU Texas
+M20294769,schoolwork,homework,homework,homework,NOUN,MSU Texas
+M20294769,schoolwork,work in class ,work,work,VERB,MSU Texas
+M20294769,schoolwork,work in class ,class,class,NOUN,MSU Texas
+M20294769,clothes,what we wear ,wear,wear,VERB,MSU Texas
+M20294769,kale,food,food,food,NOUN,MSU Texas
+M20294769,kale,healthy,healthy,health,VERB,MSU Texas
+M20294769,kale,green ,green,green,ADJ,MSU Texas
+M20294769,knot,shoe knot,shoe,shoe,NOUN,MSU Texas
+M20294769,knot,shoe knot,knot,knot,NOUN,MSU Texas
+M20294769,knot,tie knots ,tie,tie,VERB,MSU Texas
+M20294769,knot,tie knots ,knots,knot,NOUN,MSU Texas
+M20294769,gun,shooting,shooting,shoot,VERB,MSU Texas
+M20294769,gun,gun show,gun,gun,NOUN,MSU Texas
+M20294769,gun,gun show,show,show,VERB,MSU Texas
+M20294769,gun,police ,police,police,NOUN,MSU Texas
+M20294769,wrestler,sport,sport,sport,NOUN,MSU Texas
+M20294769,wrestler,athlete,athlete,athlete,X,MSU Texas
+M20294769,wrestler,big ,big,big,ADJ,MSU Texas
+M20295725,clay,play,play,play,VERB,MSU Texas
+M20295725,clay,mold,mold,mold,VERB,MSU Texas
+M20295725,clay,make,make,make,VERB,MSU Texas
+M20295725,asparagus,eat,eat,eat,VERB,MSU Texas
+M20295725,asparagus,serve,serve,serve,VERB,MSU Texas
+M20295725,asparagus,love,love,love,VERB,MSU Texas
+M20295725,purse,use,use,use,VERB,MSU Texas
+M20295725,purse,carry,carry,carry,VERB,MSU Texas
+M20295725,purse,hold,hold,hold,VERB,MSU Texas
+M20295725,block,play,play,play,VERB,MSU Texas
+M20295725,block,kid,kid,kid,NOUN,MSU Texas
+M20295725,coleslaw,eat,eat,eat,VERB,MSU Texas
+M20295725,coleslaw,serve,serve,serve,VERB,MSU Texas
+M20295725,shell,gas,gas,gas,NOUN,MSU Texas
+M20295725,shell,eat,eat,eat,VERB,MSU Texas
+M20295725,shell,send,send,send,VERB,MSU Texas
+M20295725,saleslady,listen,listen,listen,VERB,MSU Texas
+M20295725,tyke,send,send,send,VERB,MSU Texas
+M20295725,elbow,use,use,use,VERB,MSU Texas
+M20295725,bench,sit,sit,sit,VERB,MSU Texas
+M20295725,orchard,eat,eat,eat,VERB,MSU Texas
+M20295725,wrapper,use,use,use,VERB,MSU Texas
+M20295725,duck,walk,walk,walk,VERB,MSU Texas
+M20295725,vessel,work,work,work,VERB,MSU Texas
+M20295725,tube,use,use,use,VERB,MSU Texas
+M20295725,strainer,use,use,use,VERB,MSU Texas
+M20295725,mayor,leader,leader,lead,VERB,MSU Texas
+M20295725,token,game,game,game,NOUN,MSU Texas
+M20295725,chemicals,science,science,science,NOUN,MSU Texas
+M20295725,wound,hurt,hurt,hurt,VERB,MSU Texas
+M20295725,platter,serve,serve,serve,VERB,MSU Texas
+M20295725,belly,button,button,button,NOUN,MSU Texas
+M20295725,suit,tie,tie,tie,VERB,MSU Texas
+M20295725,suit,wear,wear,wear,VERB,MSU Texas
+M20295725,cane,candy,candy,candy,NOUN,MSU Texas
+M20295725,rancher,barn,barn,barn,NOUN,MSU Texas
+M20295725,landscape,worker,worker,work,VERB,MSU Texas
+M20295725,hardware,lowes,lowed,low,VERB,MSU Texas
+M20301552_caf,plant,plant,plant,plant,VERB,MSU Texas
+M20301552_caf,plant,harvest,harvest,harvest,VERB,MSU Texas
+M20301552_caf,plant,trim,trim,trim,VERB,MSU Texas
+M20301552_caf,plant,cut,cut,cut,VERB,MSU Texas
+M20301552_caf,plant,view,view,view,VERB,MSU Texas
+M20301552_caf,building,offices,offices,office,NOUN,MSU Texas
+M20301552_caf,building,entertainment,entertainment,entertain,VERB,MSU Texas
+M20301552_caf,building,organizations,organizations,organizations,NOUN,MSU Texas
+M20301552_caf,building,communities,communities,communities,NOUN,MSU Texas
+M20301552_caf,building,gatherings,gatherings,gather,VERB,MSU Texas
+M20301552_caf,forefinger,touch,touch,touch,VERB,MSU Texas
+M20301552_caf,forefinger,flick,flick,flick,VERB,MSU Texas
+M20301552_caf,forefinger,point,point,point,VERB,MSU Texas
+M20301552_caf,forefinger,scrape,scrape,scrape,VERB,MSU Texas
+M20301552_caf,forefinger,scratch,scratch,scratch,VERB,MSU Texas
+M20301552_caf,forefinger,hold an item,hold,hold,VERB,MSU Texas
+M20301552_caf,forefinger,hold an item,item,item,NOUN,MSU Texas
+M20301552_caf,river,flow,flow,flow,VERB,MSU Texas
+M20301552_caf,river,use for power,use,use,VERB,MSU Texas
+M20301552_caf,river,use for power,power,power,NOUN,MSU Texas
+M20301552_caf,river,water to drink,water,water,NOUN,MSU Texas
+M20301552_caf,river,water to drink,drink,drink,VERB,MSU Texas
+M20301552_caf,river,water to wash,water,water,NOUN,MSU Texas
+M20301552_caf,river,water to wash,wash,wash,VERB,MSU Texas
+M20301552_caf,river,water to fish,water,water,NOUN,MSU Texas
+M20301552_caf,river,water to fish,fish,fish,VERB,MSU Texas
+M20301552_caf,flour,use for cooking,use,use,VERB,MSU Texas
+M20301552_caf,flour,use for cooking,cooking,cook,VERB,MSU Texas
+M20301552_caf,employer,work,work,work,VERB,MSU Texas
+M20301552_caf,employer,boss others,boss,boss,NOUN,MSU Texas
+M20301552_caf,employer,boss others,others,other,NOUN,MSU Texas
+M20301552_caf,employer,pay employees,pay,pay,VERB,MSU Texas
+M20301552_caf,employer,pay employees,employees,employee,NOUN,MSU Texas
+M20301552_caf,employer,run business,run,run,AUX,MSU Texas
+M20301552_caf,employer,run business,business,business,VERB,MSU Texas
+M20301552_caf,mitt,catch,catch,catch,VERB,MSU Texas
+M20301552_caf,mitt,remove things from oven,remove,remove,VERB,MSU Texas
+M20301552_caf,mitt,remove things from oven,things,thing,NOUN,MSU Texas
+M20301552_caf,mitt,remove things from oven,oven,oven,ADV,MSU Texas
+M20301552_caf,calender,mark dates,mark,mark,VERB,MSU Texas
+M20301552_caf,calender,mark dates,dates,date,NOUN,MSU Texas
+M20301552_caf,calender,know the date,know,know,VERB,MSU Texas
+M20301552_caf,calender,know the date,date,date,NOUN,MSU Texas
+M20301552_caf,calender,schedule events,schedule,schedule,VERB,MSU Texas
+M20301552_caf,calender,schedule events,events,event,NOUN,MSU Texas
+M20301552_caf,toast,eat,eat,eat,VERB,MSU Texas
+M20301552_caf,toast,propose at a gathering,propose,propose,VERB,MSU Texas
+M20301552_caf,toast,propose at a gathering,gathering,gather,VERB,MSU Texas
+M20301552_caf,builder,construct something,construct,construct,VERB,MSU Texas
+M20301552_caf,builder,construct something,something,something,PRON,MSU Texas
+M20301552_caf,concert,play music,play,play,VERB,MSU Texas
+M20301552_caf,concert,play music,music,music,NOUN,MSU Texas
+M20301552_caf,concert,listen to music,listen,listen,VERB,MSU Texas
+M20301552_caf,concert,listen to music,music,music,NOUN,MSU Texas
+M20301552_caf,concert,hangout with friends/family,hangout,hangout,VERB,MSU Texas
+M20301552_caf,concert,hangout with friends/family,friends,friend,NOUN,MSU Texas
+M20301552_caf,concert,hangout with friends/family,family,family,NOUN,MSU Texas
+M20301552_caf,concert,drink,drink,drink,VERB,MSU Texas
+M20301552_caf,horseradish,eat,eat,eat,VERB,MSU Texas
+M20301552_caf,horseradish,cook,cook,cook,VERB,MSU Texas
+M20301552_caf,rat,study/use for studies,study,study,VERB,MSU Texas
+M20301552_caf,rat,study/use for studies,use,use,VERB,MSU Texas
+M20301552_caf,rat,study/use for studies,studies,study,NOUN,MSU Texas
+M20301552_caf,vaseline,chapped lips,chapped,chap,VERB,MSU Texas
+M20301552_caf,vaseline,chapped lips,lips,lip,NOUN,MSU Texas
+M20301552_caf,vaseline,grease/lubricate things,grease,grease,VERB,MSU Texas
+M20301552_caf,vaseline,grease/lubricate things,lubricate,lubricate,VERB,MSU Texas
+M20301552_caf,vaseline,grease/lubricate things,things,thing,NOUN,MSU Texas
+M20301552_caf,doughnut,eat,eat,eat,VERB,MSU Texas
+M20301552_caf,doughnut,give to someone else,give,give,VERB,MSU Texas
+M20301552_caf,doughnut,give to someone else,someone,someone,PRON,MSU Texas
+M20301552_caf,doughnut,give to someone else,else,else,ADJ,MSU Texas
+M20301552_caf,horseman,ride the horse,ride,ride,VERB,MSU Texas
+M20301552_caf,horseman,ride the horse,horse,horse,NOUN,MSU Texas
+M20301552_caf,horseman,train the horse,train,train,VERB,MSU Texas
+M20301552_caf,horseman,train the horse,horse,horse,NOUN,MSU Texas
+M20301552_caf,horseman,feed/water the horse,feed,feed,VERB,MSU Texas
+M20301552_caf,horseman,feed/water the horse,water,water,VERB,MSU Texas
+M20301552_caf,horseman,feed/water the horse,horse,horse,NOUN,MSU Texas
+M20301552_caf,recorder,tape an event/conversation ,tape,tape,VERB,MSU Texas
+M20301552_caf,recorder,tape an event/conversation ,event,event,NOUN,MSU Texas
+M20301552_caf,recorder,tape an event/conversation ,conversation,conversation,NOUN,MSU Texas
+M20301552_caf,stall,store something,store,store,VERB,MSU Texas
+M20301552_caf,stall,store something,something,something,PRON,MSU Texas
+M20301552_caf,stall,restroom stall,restroom,restroom,NOUN,MSU Texas
+M20301552_caf,stall,restroom stall,stall,stall,NOUN,MSU Texas
+M20301552_caf,springboard,bounce,bounce,bounce,VERB,MSU Texas
+M20301552_caf,springboard,reduce impact,reduce,reduce,VERB,MSU Texas
+M20301552_caf,springboard,reduce impact,impact,impact,VERB,MSU Texas
+M20301552_caf,garbage,be thrown away,thrown,throw,VERB,MSU Texas
+M20301552_caf,garbage,recycled,recycled,recycle,VERB,MSU Texas
+M20301552_caf,garbage,compacted,compacted,compact,VERB,MSU Texas
+M20301552_caf,thyme,spice,spice,spice,VERB,MSU Texas
+M20301552_caf,thyme,used for seasoning foods,used,use,VERB,MSU Texas
+M20301552_caf,thyme,used for seasoning foods,seasoning,season,VERB,MSU Texas
+M20301552_caf,thyme,used for seasoning foods,foods,food,NOUN,MSU Texas
+M20301552_caf,aunt,babysit,babysit,babysit,VERB,MSU Texas
+M20301552_caf,aunt,meet at gatherings,meet,meet,VERB,MSU Texas
+M20301552_caf,aunt,meet at gatherings,gatherings,gatherings,NOUN,MSU Texas
+M20301552_caf,aunt,hangout with,hangout,hangout,VERB,MSU Texas
+M20301552_caf,contraceptive,medications used for various reasons,medications,medicine,VERB,MSU Texas
+M20301552_caf,contraceptive,medications used for various reasons,used,use,VERB,MSU Texas
+M20301552_caf,contraceptive,medications used for various reasons,various,various,ADJ,MSU Texas
+M20301552_caf,contraceptive,medications used for various reasons,reasons,reason,NOUN,MSU Texas
+M20301552_caf,bomb,explode,explode,explode,VERB,MSU Texas
+M20301552_caf,bomb,kill,kill,kill,VERB,MSU Texas
+M20301552_caf,bomb,destroy,destroy,destroy,VERB,MSU Texas
+M20301552_caf,stepfather,parent,parent,parent,VERB,MSU Texas
+M20301552_caf,stepfather,protect child,protect,protect,VERB,MSU Texas
+M20301552_caf,stepfather,protect child,child,child,NOUN,MSU Texas
+M20301552_caf,stepfather,care for child,care,care,VERB,MSU Texas
+M20301552_caf,stepfather,care for child,child,child,NOUN,MSU Texas
+M20301552_caf,cattle,food,food,food,NOUN,MSU Texas
+M20301552_caf,cattle,graze land,graze,graze,VERB,MSU Texas
+M20301552_caf,cattle,graze land,land,land,NOUN,MSU Texas
+M20301552_caf,cattle,leather goods,leather,leather,VERB,MSU Texas
+M20301552_caf,cattle,leather goods,goods,goods,NOUN,MSU Texas
+M20301552_caf,cattle,dairy goods,dairy,dairy,VERB,MSU Texas
+M20301552_caf,cattle,dairy goods,goods,goods,NOUN,MSU Texas
+M20301552_caf,casebook,textbook material,textbook,textbook,NOUN,MSU Texas
+M20301552_caf,casebook,textbook material,material,material,NOUN,MSU Texas
+M20301552_caf,actor,create movies/shows,create,create,VERB,MSU Texas
+M20301552_caf,actor,create movies/shows,movies,move,NOUN,MSU Texas
+M20301552_caf,actor,create movies/shows,shows,show,NOUN,MSU Texas
+M20301552_caf,actor,entertain,entertain,entertain,VERB,MSU Texas
+M20301552_caf,tar,roads,roads,roads,NOUN,MSU Texas
+M20301552_caf,tar,fill cracks/holes,fill,fill,VERB,MSU Texas
+M20301552_caf,tar,fill cracks/holes,cracks,crack,NOUN,MSU Texas
+M20301552_caf,tar,fill cracks/holes,holes,hole,NOUN,MSU Texas
+M20301552_caf,tar,stick roofing,stick,stick,VERB,MSU Texas
+M20301552_caf,tar,stick roofing,roofing,roofing,NOUN,MSU Texas
+M20302929_gjb,car,drive,drive,drive,VERB,MSU Texas
+M20302929_gjb,car,ride in,ride,ride,VERB,MSU Texas
+M20302929_gjb,car,storage,storage,store,VERB,MSU Texas
+M20302929_gjb,car,weapon,weapon,weapon,VERB,MSU Texas
+M20302929_gjb,trainer,motivate,motivate,motivate,VERB,MSU Texas
+M20302929_gjb,trainer,confide in,confide,confide,VERB,MSU Texas
+M20302929_gjb,trainer,friend,friend,friend,VERB,MSU Texas
+M20302929_gjb,flyswatter,kill flies/insects,kill,kill,VERB,MSU Texas
+M20302929_gjb,flyswatter,kill flies/insects,flies,flie,VERB,MSU Texas
+M20302929_gjb,flyswatter,kill flies/insects,insects,insects,NOUN,MSU Texas
+M20302929_gjb,penthouse,live in,live,live,VERB,MSU Texas
+M20302929_gjb,penthouse,party/date/event location,party,party,VERB,MSU Texas
+M20302929_gjb,penthouse,party/date/event location,date,date,NOUN,MSU Texas
+M20302929_gjb,penthouse,party/date/event location,event,event,NOUN,MSU Texas
+M20302929_gjb,penthouse,party/date/event location,location,location,NOUN,MSU Texas
+M20302929_gjb,crocodile,zoo exhibit,zoo,zoo,NOUN,MSU Texas
+M20302929_gjb,crocodile,zoo exhibit,exhibit,exhibit,VERB,MSU Texas
+M20302929_gjb,crocodile,clothing material,clothing,clothing,NOUN,MSU Texas
+M20302929_gjb,crocodile,clothing material,material,material,NOUN,MSU Texas
+M20302929_gjb,crocodile,evil base guard,evil,evil,ADJ,MSU Texas
+M20302929_gjb,crocodile,evil base guard,base,base,NOUN,MSU Texas
+M20302929_gjb,crocodile,evil base guard,guard,guard,VERB,MSU Texas
+M20302929_gjb,physiologist,therapist,therapist,therapy,VERB,MSU Texas
+M20302929_gjb,physiologist,criminal case investigator,criminal,criminal,ADJ,MSU Texas
+M20302929_gjb,physiologist,criminal case investigator,case,case,NOUN,MSU Texas
+M20302929_gjb,physiologist,criminal case investigator,investigator,investigate,VERB,MSU Texas
+M20302929_gjb,moustache,disguise,disguise,disguise,VERB,MSU Texas
+M20302929_gjb,moustache,fashion statement,fashion,fashion,NOUN,MSU Texas
+M20302929_gjb,moustache,fashion statement,statement,statement,NOUN,MSU Texas
+M20302929_gjb,wigwam,house,house,house,VERB,MSU Texas
+M20302929_gjb,wigwam,storage location,storage,store,VERB,MSU Texas
+M20302929_gjb,wigwam,storage location,location,location,NOUN,MSU Texas
+M20302929_gjb,chopstick,eat food,eat,eat,VERB,MSU Texas
+M20302929_gjb,chopstick,eat food,food,food,NOUN,MSU Texas
+M20302929_gjb,chopstick,cooking utensil,cooking,cook,VERB,MSU Texas
+M20302929_gjb,chopstick,cooking utensil,utensil,utensil,NOUN,MSU Texas
+M20302929_gjb,chopstick,hair ornament,hair,hair,NOUN,MSU Texas
+M20302929_gjb,chopstick,hair ornament,ornament,ornament,VERB,MSU Texas
+M20302929_gjb,chopstick,science-fair project material,science,science,NOUN,MSU Texas
+M20302929_gjb,chopstick,science-fair project material,fair,fair,ADJ,MSU Texas
+M20302929_gjb,chopstick,science-fair project material,project,project,NOUN,MSU Texas
+M20302929_gjb,chopstick,science-fair project material,material,material,NOUN,MSU Texas
+M20302929_gjb,kleenex,to clean eyes,clean,clean,VERB,MSU Texas
+M20302929_gjb,kleenex,to clean eyes,eyes,eyes,NOUN,MSU Texas
+M20302929_gjb,kleenex,nose,nose,nose,PRON,MSU Texas
+M20302929_gjb,kleenex,bodily fluids,bodily,bodily,ADV,MSU Texas
+M20302929_gjb,kleenex,bodily fluids,fluids,fluid,NOUN,MSU Texas
+M20302929_gjb,kleenex,small spills,small,small,ADJ,MSU Texas
+M20302929_gjb,kleenex,small spills,spills,spill,NOUN,MSU Texas
+M20302929_gjb,kleenex,improvised bandage,improvised,improvise,VERB,MSU Texas
+M20302929_gjb,kleenex,improvised bandage,bandage,bandage,NOUN,MSU Texas
+M20302929_gjb,pedicurist,perform pedicures,perform,perform,VERB,MSU Texas
+M20302929_gjb,pedicurist,perform pedicures,pedicures,pedicure,NOUN,MSU Texas
+M20302929_gjb,sister,friend,friend,friend,VERB,MSU Texas
+M20302929_gjb,sister,solve family matters,solve,solve,VERB,MSU Texas
+M20302929_gjb,sister,solve family matters,family,family,NOUN,MSU Texas
+M20302929_gjb,sister,solve family matters,matters,matter,NOUN,MSU Texas
+M20302929_gjb,acrobat,performer,performer,perform,VERB,MSU Texas
+M20302929_gjb,acrobat,aid in revenue generation,aid,aid,NOUN,MSU Texas
+M20302929_gjb,acrobat,aid in revenue generation,revenue,revenue,VERB,MSU Texas
+M20302929_gjb,acrobat,aid in revenue generation,generation,generation,NOUN,MSU Texas
+M20302929_gjb,acrobat,entertainer,entertainer,entertain,VERB,MSU Texas
+M20302929_gjb,nugget,money if precious metal,money,money,VERB,MSU Texas
+M20302929_gjb,nugget,money if precious metal,precious,precious,ADJ,MSU Texas
+M20302929_gjb,nugget,money if precious metal,metal,metal,NOUN,MSU Texas
+M20302929_gjb,nugget,food if chicken based,food,food,NOUN,MSU Texas
+M20302929_gjb,nugget,food if chicken based,chicken,chicken,NOUN,MSU Texas
+M20302929_gjb,nugget,food if chicken based,based,base,VERB,MSU Texas
+M20302929_gjb,horse,travel method,travel,travel,VERB,MSU Texas
+M20302929_gjb,horse,travel method,method,method,NOUN,MSU Texas
+M20302929_gjb,horse,revenue generation,revenue,revenue,VERB,MSU Texas
+M20302929_gjb,horse,revenue generation,generation,generation,NOUN,MSU Texas
+M20302929_gjb,horse,food if necessary,food,food,NOUN,MSU Texas
+M20302929_gjb,horse,food if necessary,necessary,necessary,ADJ,MSU Texas
+M20302929_gjb,practitioner,a person who can do a specific thing,person,person,NOUN,MSU Texas
+M20302929_gjb,practitioner,a person who can do a specific thing,can,can,AUX,MSU Texas
+M20302929_gjb,practitioner,a person who can do a specific thing,specific,specific,ADJ,MSU Texas
+M20302929_gjb,practitioner,a person who can do a specific thing,thing,thing,NOUN,MSU Texas
+M20302929_gjb,present,give to someone or yourself,give,give,VERB,MSU Texas
+M20302929_gjb,present,give to someone or yourself,someone,someone,PRON,MSU Texas
+M20302929_gjb,present,hide a practical joke,hide,hide,VERB,MSU Texas
+M20302929_gjb,present,hide a practical joke,practical,practical,ADJ,MSU Texas
+M20302929_gjb,present,hide a practical joke,joke,joke,VERB,MSU Texas
+M20302929_gjb,hairstylist,style someone's hair,style,style,VERB,MSU Texas
+M20302929_gjb,hairstylist,style someone's hair,hair,hair,NOUN,MSU Texas
+M20302929_gjb,hairstylist,small talk,small,small,ADJ,MSU Texas
+M20302929_gjb,hairstylist,small talk,talk,talk,VERB,MSU Texas
+M20302929_gjb,shirtsleeve,improvised tissue/bandage,improvised,improvise,VERB,MSU Texas
+M20302929_gjb,shirtsleeve,improvised tissue/bandage,tissue,tissue,VERB,MSU Texas
+M20302929_gjb,shirtsleeve,improvised tissue/bandage,bandage,bandage,VERB,MSU Texas
+M20302929_gjb,shirtsleeve,fashion statement,fashion,fashion,VERB,MSU Texas
+M20302929_gjb,shirtsleeve,fashion statement,statement,statement,NOUN,MSU Texas
+M20302929_gjb,record,store data,store,store,VERB,MSU Texas
+M20302929_gjb,record,store data,data,data,NOUN,MSU Texas
+M20302929_gjb,record,movie/set prop,movie,movie,NOUN,MSU Texas
+M20302929_gjb,record,movie/set prop,set,set,VERB,MSU Texas
+M20302929_gjb,record,movie/set prop,prop,prop,NOUN,MSU Texas
+M20302929_gjb,pelvis,attach legs to back,attach,attach,VERB,MSU Texas
+M20302929_gjb,pelvis,attach legs to back,legs,leg,NOUN,MSU Texas
+M20302929_gjb,pelvis,attach legs to back,back,back,ADV,MSU Texas
+M20302929_gjb,pelvis,part of birthing process in mammals. ,part,part,NOUN,MSU Texas
+M20302929_gjb,pelvis,part of birthing process in mammals. ,birthing,birth,VERB,MSU Texas
+M20302929_gjb,pelvis,part of birthing process in mammals. ,process,process,NOUN,MSU Texas
+M20302929_gjb,pelvis,part of birthing process in mammals. ,mammals,mammal,NOUN,MSU Texas
+M20302929_gjb,stepsister,friend,friend,friend,VERB,MSU Texas
+M20302929_gjb,stepsister,solve family matters,solve,solve,VERB,MSU Texas
+M20302929_gjb,stepsister,solve family matters,family,family,NOUN,MSU Texas
+M20302929_gjb,stepsister,solve family matters,matters,matter,NOUN,MSU Texas
+M20302929_gjb,hailstone,storm data collection,storm,storm,NOUN,MSU Texas
+M20302929_gjb,hailstone,storm data collection,data,data,NOUN,MSU Texas
+M20302929_gjb,hailstone,storm data collection,collection,collect,VERB,MSU Texas
+M20302929_gjb,hailstone,ice for drink/cooler,ice,ice,VERB,MSU Texas
+M20302929_gjb,hailstone,ice for drink/cooler,drink,drink,NOUN,MSU Texas
+M20302929_gjb,hailstone,ice for drink/cooler,cooler,cooler,ADJ,MSU Texas
+M20302929_gjb,ant,prank someone,prank,prank,VERB,MSU Texas
+M20302929_gjb,ant,prank someone,someone,someone,PRON,MSU Texas
+M20302929_gjb,ant,study for pack animal behavior,study,study,NOUN,MSU Texas
+M20302929_gjb,ant,study for pack animal behavior,pack,pack,VERB,MSU Texas
+M20302929_gjb,ant,study for pack animal behavior,animal,animal,NOUN,MSU Texas
+M20302929_gjb,ant,study for pack animal behavior,behavior,behavior,NOUN,MSU Texas
+M20302929_gjb,ant,squish,squish,squish,VERB,MSU Texas
+M20302929_gjb,clothesline,dry clothes,dry,dry,VERB,MSU Texas
+M20302929_gjb,clothesline,dry clothes,clothes,clothe,NOUN,MSU Texas
+M20302929_gjb,clothesline,hang items,hang,hang,VERB,MSU Texas
+M20302929_gjb,clothesline,hang items,items,item,NOUN,MSU Texas
+M20302929_gjb,clothesline,improvised rope,improvised,improvise,VERB,MSU Texas
+M20302929_gjb,clothesline,improvised rope,rope,rope,NOUN,MSU Texas
+M20302929_gjb,goulash,eat,eat,eat,VERB,MSU Texas
+M20302929_gjb,housewife,lover,lover,love,VERB,MSU Texas
+M20302929_gjb,housewife,friend,friend,friend,VERB,MSU Texas
+M20302929_gjb,housewife,mother,mother,mother,NOUN,MSU Texas
+M20302929_gjb,housewife,house chores,house,house,NOUN,MSU Texas
+M20302929_gjb,housewife,house chores,chores,chore,VERB,MSU Texas
+M20302929_gjb,gin,drink,drink,drink,VERB,MSU Texas
+M20302929_gjb,gin,disinfect wounds,disinfect,disinfect,VERB,MSU Texas
+M20302929_gjb,gin,disinfect wounds,wounds,wound,NOUN,MSU Texas
+M20302929_gjb,gin,burn/fuel,burn,burn,VERB,MSU Texas
+M20302929_gjb,gin,burn/fuel,fuel,fuel,NOUN,MSU Texas
+M20302929_gjb,blackhead,pop,pop,pop,VERB,MSU Texas
+M20302929_gjb,blackhead,extract,extract,extract,VERB,MSU Texas
+M20302929_gjb,midget,circus act,circus,circus act,VERB,MSU Texas
+M20302929_gjb,midget,actor,actor,act,VERB,MSU Texas
+M20302929_gjb,midget,friend,friend,friend,VERB,MSU Texas
+M20302929_gjb,midget,lover,lover,love,VERB,MSU Texas
+M20304329_alm,handrail,grab it,grab,grab,VERB,MSU Texas
+M20304329_alm,handrail,slide down it,slide,slide,VERB,MSU Texas
+M20304329_alm,handrail,hold it going up stairs,hold,hold,VERB,MSU Texas
+M20304329_alm,handrail,hold it going up stairs,going,go,AUX,MSU Texas
+M20304329_alm,handrail,hold it going up stairs,stairs,stair,NOUN,MSU Texas
+M20304329_alm,grease,cook,cook,cook,VERB,MSU Texas
+M20304329_alm,Massage,feet,feet,foot,NOUN,MSU Texas
+M20304329_alm,Massage,back,back,back,ADV,MSU Texas
+M20304329_alm,Massage,neck,neck,neck,NOUN,MSU Texas
+M20304329_alm,Massage,shoulders,shoulders,shoulder,NOUN,MSU Texas
+M20304329_alm,map,directions,directions,direction,VERB,MSU Texas
+M20304329_alm,wishbone,to make a wish,make,make,VERB,MSU Texas
+M20304329_alm,wishbone,to make a wish,wish,wish,VERB,MSU Texas
+M20304329_alm,wishbone,stocks to cook with ,stocks,stock,NOUN,MSU Texas
+M20304329_alm,wishbone,stocks to cook with ,cook,cook,VERB,MSU Texas
+M20304329_alm,solicitor,stand,stand,stand,VERB,MSU Texas
+M20304329_alm,solicitor,sit,sit,sit,VERB,MSU Texas
+M20304329_alm,solicitor,speak ,speak,speak,VERB,MSU Texas
+M20304329_alm,bloomers,wear them under cheer skirt ,wear,wear,VERB,MSU Texas
+M20304329_alm,bloomers,wear them under cheer skirt ,cheer,cheer,VERB,MSU Texas
+M20304329_alm,bloomers,wear them under cheer skirt ,skirt,skirt,NOUN,MSU Texas
+M20304329_alm,mint,eat,eat,eat,VERB,MSU Texas
+M20304329_alm,mint,cook,cook,cook,VERB,MSU Texas
+M20304329_alm,mint,smells good,smells,smell,VERB,MSU Texas
+M20304329_alm,mint,smells good,good,good,ADJ,MSU Texas
+M20304329_alm,mint,toothpaste ,toothpaste,toothpaste,NOUN,MSU Texas
+M20304329_alm,briefcase,carry,carry,carry,VERB,MSU Texas
+M20304329_alm,briefcase,store,store,store,VERB,MSU Texas
+M20304329_alm,briefcase,business man ,business,business,NOUN,MSU Texas
+M20304329_alm,briefcase,business man ,man,man,NOUN,MSU Texas
+M20304329_alm,hosiery,wear it ,wear,wear,VERB,MSU Texas
+M20304329_alm,orangutan,hunt,hunt,hunt,VERB,MSU Texas
+M20304329_alm,orangutan,eat,eat,eat,VERB,MSU Texas
+M20304329_alm,orangutan,wear ,wear,wear,VERB,MSU Texas
+M20304329_alm,petticoat,wear it,wear,wear,VERB,MSU Texas
+M20304329_alm,petticoat,wash it ,wash,wash,VERB,MSU Texas
+M20304329_alm,cayenne,cook with it,cook,cook,VERB,MSU Texas
+M20304329_alm,cayenne,liver cleanse ,liver,liver,NOUN,MSU Texas
+M20304329_alm,cayenne,liver cleanse ,cleanse,cleanse,VERB,MSU Texas
+M20304329_alm,lanyard,wear it around neck,wear,wear,VERB,MSU Texas
+M20304329_alm,lanyard,wear it around neck,around,around,ADV,MSU Texas
+M20304329_alm,lanyard,wear it around neck,neck,neck,NOUN,MSU Texas
+M20304329_alm,lanyard,key chain ,key,key chain,VERB,MSU Texas
+M20304329_alm,lanyard,key chain ,chain,chain,NOUN,MSU Texas
+M20304329_alm,ladle,scoop ,scoop,scoop,VERB,MSU Texas
+M20304329_alm,joint,bend it,bend,bend,VERB,MSU Texas
+M20304329_alm,joint,pops sometimes ,pops,pop,VERB,MSU Texas
+M20304329_alm,joint,pops sometimes ,sometimes,sometimes,ADV,MSU Texas
+M20304329_alm,spyglass,wear them,wear,wear,VERB,MSU Texas
+M20304329_alm,spyglass,stalk people ,stalk,stalk,VERB,MSU Texas
+M20304329_alm,spyglass,stalk people ,people,people,NOUN,MSU Texas
+M20304329_alm,sandbox,play,play,play,VERB,MSU Texas
+M20304329_alm,sandbox,sand castle ,sand,sandcastle,NOUN,MSU Texas
+M20304329_alm,parsley,cook,cook,cook,VERB,MSU Texas
+M20304329_alm,florist,sell flowers,sell,sell,VERB,MSU Texas
+M20304329_alm,florist,sell flowers,flowers,flower,NOUN,MSU Texas
+M20304329_alm,florist,deliver flowers ,deliver,deliver,VERB,MSU Texas
+M20304329_alm,florist,deliver flowers ,flowers,flower,NOUN,MSU Texas
+M20304329_alm,decor,hang pictures,hang,hang,VERB,MSU Texas
+M20304329_alm,decor,hang pictures,pictures,picture,NOUN,MSU Texas
+M20304329_alm,decor,gives things color and fun ,gives,give,VERB,MSU Texas
+M20304329_alm,decor,gives things color and fun ,things,thing,NOUN,MSU Texas
+M20304329_alm,decor,gives things color and fun ,color,color,NOUN,MSU Texas
+M20304329_alm,decor,gives things color and fun ,fun,fun,NOUN,MSU Texas
+M20304329_alm,boa,wear it around neck,wear,wear,VERB,MSU Texas
+M20304329_alm,boa,wear it around neck,around,around,ADV,MSU Texas
+M20304329_alm,boa,wear it around neck,neck,neck,NOUN,MSU Texas
+M20304329_alm,boa,dance ,dance,dance,VERB,MSU Texas
+M20304329_alm,seat,sit,sit,sit,VERB,MSU Texas
+M20304329_alm,seat,lay down,lay,lay,VERB,MSU Texas
+M20304329_alm,seat,listen in my school seat,listen,listen,VERB,MSU Texas
+M20304329_alm,seat,listen in my school seat,school,school,NOUN,MSU Texas
+M20304329_alm,seat,listen in my school seat,seat,seat,NOUN,MSU Texas
+M20304329_alm,bread,toast,toast,toast,VERB,MSU Texas
+M20304329_alm,bread,eat,eat,eat,VERB,MSU Texas
+M20304329_alm,pin,wear on jacket,wear,wear,VERB,MSU Texas
+M20304329_alm,pin,wear on jacket,jacket,jacket,NOUN,MSU Texas
+M20304329_alm,merchandise,sell,sell,sell,VERB,MSU Texas
+M20304329_alm,merchandise,collect ,collect,collect,VERB,MSU Texas
+M20304329_alm,stationary,still,still,still,ADV,MSU Texas
+M20304329_alm,stationary,big machines ,big,big,ADJ,MSU Texas
+M20304329_alm,stationary,big machines ,machines,machine,NOUN,MSU Texas
+M20304329_alm,tablespoon,cook,cook,cook,VERB,MSU Texas
+M20304329_alm,tablespoon,measure,measure,measure,VERB,MSU Texas
+M20304329_alm,tablespoon,eat ,eat,eat,VERB,MSU Texas
+M20304329_alm,tit,bird in new zealand ,bird,bird,NOUN,MSU Texas
+M20304329_alm,tit,bird in new zealand ,new,new,ADJ,MSU Texas
+M20304329_alm,tit,bird in new zealand ,zealand,zealand,NOUN,MSU Texas
+M20304329_alm,tomahawk,ax,ax,ax,SYM,MSU Texas
+M20304329_alm,tomahawk,throwing ,throwing,throw,VERB,MSU Texas
+M20304862_krn,chinaware,plate,plate,plate,VERB,MSU Texas
+M20304862_krn,screw,nail,nail,nail,NOUN,MSU Texas
+M20304862_krn,footballer,hot,hot,hot,ADJ,MSU Texas
+M20304862_krn,bathe,slide,slide,slide,VERB,MSU Texas
+M20304862_krn,canvass,paint,paint,paint,VERB,MSU Texas
+M20304862_krn,physician,doctor,doctor,doctor,NOUN,MSU Texas
+M20304862_krn,balcony,sitting,sitting,sit,VERB,MSU Texas
+M20304862_krn,tinfoil,aluminum,aluminum,aluminum,X,MSU Texas
+M20304862_krn,scale,pounds and weight,pounds,pound,NOUN,MSU Texas
+M20304862_krn,scale,pounds and weight,weight,weigh,VERB,MSU Texas
+M20304862_krn,harvest,crops,crops,crop,NOUN,MSU Texas
+M20304862_krn,tabasco,hot,hot,heat,VERB,MSU Texas
+M20304862_krn,tabasco,spicy,spicy,spice,VERB,MSU Texas
+M20304862_krn,tofu,vegan,vegan,vegan,ADJ,MSU Texas
+M20304862_krn,parsnip,oregano,oregano,oregano,INTJ,MSU Texas
+M20304862_krn,berry,raspberry,raspberry,raspberry,NOUN,MSU Texas
+M20304862_krn,van,car,car,car,NOUN,MSU Texas
+M20304862_krn,ginger,red,red,red,ADJ,MSU Texas
+M20304862_krn,family,friends,friends,friend,VERB,MSU Texas
+M20304862_krn,bicep,tricep,tricep,tricep,NOUN,MSU Texas
+M20304862_krn,crystal,diamond,diamond,diamond,NOUN,MSU Texas
+M20304862_krn,snowfall,cold ,cold,cold,ADJ,MSU Texas
+M20304862_krn,desert,sweet,sweet,sweet,ADJ,MSU Texas
+M20304862_krn,myself,love,love,love,VERB,MSU Texas
+M20304862_krn,ticket,speed,speed,speed,VERB,MSU Texas
+M20304862_krn,blindfold,can't see,see,see,VERB,MSU Texas
+M20304862_krn,whisky,coke,coke,coke,NOUN,MSU Texas
+M20304862_krn,wand,throw,throw,throw,VERB,MSU Texas
+M20304862_krn,bird,fly,fly,fly,VERB,MSU Texas
+M20305947AB,teaspoonful,measuring powders,measuring,measure,VERB,MSU Texas
+M20305947AB,teaspoonful,measuring powders,powders,powder,NOUN,MSU Texas
+M20305947AB,teaspoonful,eat a teaspoonful,eat,eat,VERB,MSU Texas
+M20305947AB,teaspoonful,eat a teaspoonful,teaspoonful,teaspoonful,INTJ,MSU Texas
+M20305947AB,crust,eat it,eat,eat,VERB,MSU Texas
+M20305947AB,crust,use it for bird feed,use,use,VERB,MSU Texas
+M20305947AB,crust,use it for bird feed,bird,bird,NOUN,MSU Texas
+M20305947AB,crust,use it for bird feed,feed,feed,VERB,MSU Texas
+M20305947AB,crust,cut off of a sandwich,cut,cut,VERB,MSU Texas
+M20305947AB,crust,cut off of a sandwich,sandwich,sandwich,NOUN,MSU Texas
+M20305947AB,crust,thrown out,thrown,throw,VERB,MSU Texas
+M20305947AB,crust,made for a pie,made,make,VERB,MSU Texas
+M20305947AB,crust,made for a pie,pie,pie,NOUN,MSU Texas
+M20305947AB,raincoat,worn to stay dry,worn,wear,VERB,MSU Texas
+M20305947AB,raincoat,worn to stay dry,stay,stay,VERB,MSU Texas
+M20305947AB,raincoat,worn to stay dry,dry,dry,VERB,MSU Texas
+M20305947AB,raincoat,hung on a coat rack,hung,hang,VERB,MSU Texas
+M20305947AB,raincoat,hung on a coat rack,coat,coat,NOUN,MSU Texas
+M20305947AB,raincoat,hung on a coat rack,rack,rack,NOUN,MSU Texas
+M20305947AB,raincoat,worn as a fashion piece,worn,wear,VERB,MSU Texas
+M20305947AB,raincoat,worn as a fashion piece,fashion,fashion,NOUN,MSU Texas
+M20305947AB,raincoat,worn as a fashion piece,piece,piece,NOUN,MSU Texas
+M20305947AB,bondsman,someone who provides bail bonds,someone,someone,PRON,MSU Texas
+M20305947AB,bondsman,someone who provides bail bonds,provides,provide,NOUN,MSU Texas
+M20305947AB,bondsman,someone who provides bail bonds,bail,bail,VERB,MSU Texas
+M20305947AB,bondsman,someone who provides bail bonds,bonds,bond,VERB,MSU Texas
+M20305947AB,acupuncture,alternative and painful form of medicine,alternative,alternative,ADJ,MSU Texas
+M20305947AB,acupuncture,alternative and painful form of medicine,painful,pain,VERB,MSU Texas
+M20305947AB,acupuncture,alternative and painful form of medicine,form,form,NOUN,MSU Texas
+M20305947AB,acupuncture,alternative and painful form of medicine,medicine,medicine,NOUN,MSU Texas
+M20305947AB,acupuncture,pseudoscience,pseudoscience,pseudoscience,NOUN,MSU Texas
+M20305947AB,mongoose,a bird!,bird,bird,NOUN,MSU Texas
+M20305947AB,rectum,used to excrete waste,used,use,VERB,MSU Texas
+M20305947AB,rectum,used to excrete waste,excrete,excrete,VERB,MSU Texas
+M20305947AB,rectum,used to excrete waste,waste,waste,NOUN,MSU Texas
+M20305947AB,rectum,fart,fart,fart,VERB,MSU Texas
+M20305947AB,kettledrum,instrument,instrument,instrument,NOUN,MSU Texas
+M20305947AB,grandchild,your child's offspring,offspring,offspring,NOUN,MSU Texas
+M20305947AB,grandchild,someone you can spoil,someone,someone,PRON,MSU Texas
+M20305947AB,grandchild,someone you can spoil,can,can,AUX,MSU Texas
+M20305947AB,grandchild,someone you can spoil,spoil,spoil,VERB,MSU Texas
+M20305947AB,pan,cook food,cook,cook,VERB,MSU Texas
+M20305947AB,pan,cook food,food,food,NOUN,MSU Texas
+M20305947AB,pan,wash,wash,wash,VERB,MSU Texas
+M20305947AB,pan,use as an instrument,use,use,VERB,MSU Texas
+M20305947AB,pan,use as an instrument,instrument,instrument,NOUN,MSU Texas
+M20305947AB,furnace,minecraft furnace,furnace,furnace,NOUN,MSU Texas
+M20305947AB,furnace,smelt objects,smelt,smelt,VERB,MSU Texas
+M20305947AB,furnace,smelt objects,objects,object,VERB,MSU Texas
+M20305947AB,furnace,can be used for food,can,can,AUX,MSU Texas
+M20305947AB,furnace,can be used for food,used,use,VERB,MSU Texas
+M20305947AB,furnace,can be used for food,food,food,NOUN,MSU Texas
+M20305947AB,corn,eaten,eaten,eat,VERB,MSU Texas
+M20305947AB,corn,popped and turned into popcorn,popped,pop,VERB,MSU Texas
+M20305947AB,corn,popped and turned into popcorn,turned,turn,VERB,MSU Texas
+M20305947AB,corn,popped and turned into popcorn,popcorn,popcorn,NOUN,MSU Texas
+M20305947AB,corn,grown,grown,grow,VERB,MSU Texas
+M20305947AB,corn,something that is harvested,something,something,PRON,MSU Texas
+M20305947AB,corn,something that is harvested,harvested,harvest,VERB,MSU Texas
+M20305947AB,corn,something that can be sold,something,something,PRON,MSU Texas
+M20305947AB,corn,something that can be sold,can,can,AUX,MSU Texas
+M20305947AB,corn,something that can be sold,sold,sell,VERB,MSU Texas
+M20305947AB,device,something you interact with,something,something,PRON,MSU Texas
+M20305947AB,device,something you interact with,interact,interact,VERB,MSU Texas
+M20305947AB,device,a phone,phone,phone,NOUN,MSU Texas
+M20305947AB,device,technology,technology,technology,NOUN,MSU Texas
+M20305947AB,casserole,eat,eat,eat,VERB,MSU Texas
+M20305947AB,casserole,smell,smell,smell,VERB,MSU Texas
+M20305947AB,casserole,taste,taste,taste,VERB,MSU Texas
+M20305947AB,casserole,touch,touch,touch,VERB,MSU Texas
+M20305947AB,casserole,cook,cook,cook,VERB,MSU Texas
+M20305947AB,casserole,enjoyable,enjoyable,enjoy,VERB,MSU Texas
+M20305947AB,casserole,or dislikeable,dislike,dislike,VERB,MSU Texas
+M20305947AB,nut,garnish,garnish,garnish,VERB,MSU Texas
+M20305947AB,nut,squirrel food,squirrel,squirrel,NOUN,MSU Texas
+M20305947AB,nut,squirrel food,food,food,NOUN,MSU Texas
+M20305947AB,nut,snack,snack,snack,VERB,MSU Texas
+M20305947AB,village,minecraft village,village,village,NOUN,MSU Texas
+M20305947AB,village,a small town with close knit families,small,small,ADJ,MSU Texas
+M20305947AB,village,a small town with close knit families,town,town,NOUN,MSU Texas
+M20305947AB,village,a small town with close knit families,close,close,ADJ,MSU Texas
+M20305947AB,village,a small town with close knit families,knit,knit,NOUN,MSU Texas
+M20305947AB,village,a small town with close knit families,families,family,NOUN,MSU Texas
+M20305947AB,billiards,a game that makes you look cool,game,game,NOUN,MSU Texas
+M20305947AB,billiards,a game that makes you look cool,makes,make,VERB,MSU Texas
+M20305947AB,billiards,a game that makes you look cool,look,look,VERB,MSU Texas
+M20305947AB,billiards,a game that makes you look cool,cool,cool,ADJ,MSU Texas
+M20305947AB,flatiron,used to get wrinkles out of clothes,used,use,VERB,MSU Texas
+M20305947AB,flatiron,used to get wrinkles out of clothes,get,get,AUX,MSU Texas
+M20305947AB,flatiron,used to get wrinkles out of clothes,wrinkles,de-wrinkle,VERB,MSU Texas
+M20305947AB,flatiron,used to get wrinkles out of clothes,clothes,clothe,NOUN,MSU Texas
+M20305947AB,flatiron,perm press clothes,perm,perm,X,MSU Texas
+M20305947AB,flatiron,perm press clothes,press,press,VERB,MSU Texas
+M20305947AB,flatiron,perm press clothes,clothes,clothe,NOUN,MSU Texas
+M20305947AB,molasses,used in baking,used,use,VERB,MSU Texas
+M20305947AB,molasses,used in baking,baking,bake,VERB,MSU Texas
+M20305947AB,molasses,"""slow as molasses""",slow,slow,ADJ,MSU Texas
+M20305947AB,molasses,"""slow as molasses""",molasses,molasses,NOUN,MSU Texas
+M20305947AB,molasses,can be eaten,can,can,AUX,MSU Texas
+M20305947AB,molasses,can be eaten,eaten,eat,VERB,MSU Texas
+M20305947AB,mullets,ugly hair style,ugly,ugly,ADJ,MSU Texas
+M20305947AB,mullets,ugly hair style,hair,hair,NOUN,MSU Texas
+M20305947AB,mullets,ugly hair style,style,style,NOUN,MSU Texas
+M20305947AB,mullets,touchable,touchable,touch,VERB,MSU Texas
+M20305947AB,mullets,can be seen,can,can,AUX,MSU Texas
+M20305947AB,mullets,can be seen,seen,see,VERB,MSU Texas
+M20305947AB,mullets,makes me grossed out,makes,make,VERB,MSU Texas
+M20305947AB,mullets,makes me grossed out,grossed,grosse,VERB,MSU Texas
+M20305947AB,apartments,a place to live,place,place,NOUN,MSU Texas
+M20305947AB,apartments,a place to live,live,live,VERB,MSU Texas
+M20305947AB,apartments,seen as a poor persons home,seen,see,VERB,MSU Texas
+M20305947AB,apartments,seen as a poor persons home,poor,poor,ADJ,MSU Texas
+M20305947AB,apartments,seen as a poor persons home,persons,person,NOUN,MSU Texas
+M20305947AB,apartments,seen as a poor persons home,home,home,ADV,MSU Texas
+M20305947AB,apartments,a place to have parties,place,place,NOUN,MSU Texas
+M20305947AB,apartments,a place to have parties,parties,party,NOUN,MSU Texas
+M20305947AB,flowerpot,plant flowers or greenery in,plant,plant,NOUN,MSU Texas
+M20305947AB,flowerpot,plant flowers or greenery in,flowers,flower,NOUN,MSU Texas
+M20305947AB,flowerpot,plant flowers or greenery in,greenery,greenery,NOUN,MSU Texas
+M20305947AB,flowerpot,used as decoration,used,use,VERB,MSU Texas
+M20305947AB,flowerpot,used as decoration,decoration,decorate,VERB,MSU Texas
+M20305947AB,belt,worn,worn,wear,VERB,MSU Texas
+M20305947AB,belt,used to hit someone,used,use,VERB,MSU Texas
+M20305947AB,belt,used to hit someone,hit,hit,VERB,MSU Texas
+M20305947AB,belt,used to hit someone,someone,someone,PRON,MSU Texas
+M20305947AB,stepdaughter,a person the relationship can be awkward with,person,person,NOUN,MSU Texas
+M20305947AB,stepdaughter,a person the relationship can be awkward with,relationship,relationship,NOUN,MSU Texas
+M20305947AB,stepdaughter,a person the relationship can be awkward with,can,can,AUX,MSU Texas
+M20305947AB,stepdaughter,a person the relationship can be awkward with,awkward,awkward,ADV,MSU Texas
+M20305947AB,hibachi,delicious food,delicious,delicious,ADJ,MSU Texas
+M20305947AB,hibachi,delicious food,food,food,NOUN,MSU Texas
+M20305947AB,hibachi,eaten,eaten,eat,VERB,MSU Texas
+M20305947AB,hibachi,seen,seen,see,VERB,MSU Texas
+M20305947AB,hibachi,tasted,tasted,taste,VERB,MSU Texas
+M20305947AB,hibachi,smelled,smelled,smell,VERB,MSU Texas
+M20305947AB,hibachi,delicious,delicious,delicious,ADJ,MSU Texas
+M20305947AB,butt,funny for jokes,funny,funny,ADJ,MSU Texas
+M20305947AB,butt,funny for jokes,jokes,joke,NOUN,MSU Texas
+M20305947AB,butt,farting again,farting,far,VERB,MSU Texas
+M20305947AB,parakeet,a loud bird,loud,loud,ADV,MSU Texas
+M20305947AB,parakeet,a loud bird,bird,bird,NOUN,MSU Texas
+M20305947AB,parakeet,smelly,smelly,smell,VERB,MSU Texas
+M20305947AB,parakeet,loud,loud,noise,VERB,MSU Texas
+M20305947AB,trigger,anything that causes a response,anything,anything,PRON,MSU Texas
+M20305947AB,trigger,anything that causes a response,causes,cause,NOUN,MSU Texas
+M20305947AB,trigger,anything that causes a response,response,response,NOUN,MSU Texas
+M20305947AB,trigger,on a gun,gun,gun,NOUN,MSU Texas
+M20305947AB,trigger,a persons negative reaction,persons,person,NOUN,MSU Texas
+M20305947AB,trigger,a persons negative reaction,negative,negative,ADJ,MSU Texas
+M20305947AB,trigger,a persons negative reaction,reaction,reaction,NOUN,MSU Texas
+M20305947AB,dirt,soil,soil,soil,NOUN,MSU Texas
+M20305947AB,dirt,used for gardening and farming,used,use,VERB,MSU Texas
+M20305947AB,dirt,used for gardening and farming,gardening,garde,VERB,MSU Texas
+M20305947AB,dirt,used for gardening and farming,farming,farm,VERB,MSU Texas
+M20305947AB,dirt,life,life,life,VERB,MSU Texas
+M20305947AB,taffy,a candy,candy,candy,NOUN,MSU Texas
+M20306094_JM,man,date,date,date,VERB,MSU Texas
+M20306094_JM,man,marry,marry,marry,VERB,MSU Texas
+M20306094_JM,man,help,help,help,VERB,MSU Texas
+M20306094_JM,man,abuse,abuse,abuse,VERB,MSU Texas
+M20306094_JM,man,kill,kill,kill,VERB,MSU Texas
+M20306094_JM,man,suppress,suppress,suppress,VERB,MSU Texas
+M20306094_JM,man,elevate,elevate,elevate,ADJ,MSU Texas
+M20306094_JM,man,educate,educate,educate,VERB,MSU Texas
+M20306094_JM,man,nurture,nurture,nurture,VERB,MSU Texas
+M20306094_JM,bartender,talk to,talk,talk,VERB,MSU Texas
+M20306094_JM,bartender,ask for a drink,ask,ask,VERB,MSU Texas
+M20306094_JM,bartender,ask for a drink,drink,drink,NOUN,MSU Texas
+M20306094_JM,bartender,tip,tip,tip,VERB,MSU Texas
+M20306094_JM,dairy,read,read,read,VERB,MSU Texas
+M20306094_JM,dairy,write,write,write,VERB,MSU Texas
+M20306094_JM,bass,listen too,listen,listen,VERB,MSU Texas
+M20306094_JM,bass,play,play,play,VERB,MSU Texas
+M20306094_JM,bass,harness,harness,harness,NOUN,MSU Texas
+M20306094_JM,certificate,earn,earn,earn,VERB,MSU Texas
+M20306094_JM,certificate,use,use,use,VERB,MSU Texas
+M20306094_JM,certificate,display,display,display,VERB,MSU Texas
+M20306094_JM,beet,eat,eat,eat,VERB,MSU Texas
+M20306094_JM,beet,throw,throw,throw,VERB,MSU Texas
+M20306094_JM,beet,plant,plant,plant,VERB,MSU Texas
+M20306094_JM,beet,grind,grind,grind,VERB,MSU Texas
+M20306094_JM,beet,liqudate,liquidate,liquidate,VERB,MSU Texas
+M20306094_JM,ruby,sell,sell,sell,VERB,MSU Texas
+M20306094_JM,ruby,mine,mine,mine,VERB,MSU Texas
+M20306094_JM,ruby,engrave,engrave,engrave,VERB,MSU Texas
+M20306094_JM,ruby,break,break,break,VERB,MSU Texas
+M20306094_JM,ruby,buy,buy,buy,VERB,MSU Texas
+M20306094_JM,shot,inject,inject,inject,VERB,MSU Texas
+M20306094_JM,shot,heal ,heal,heal,VERB,MSU Texas
+M20306094_JM,shot,kill,kill,kill,VERB,MSU Texas
+M20306094_JM,shot,pacify,pacify,pacify,VERB,MSU Texas
+M20306094_JM,toddler,nurture,nurture,nurture,VERB,MSU Texas
+M20306094_JM,toddler,care for,care,care,VERB,MSU Texas
+M20306094_JM,toddler,educate,educate,educate,VERB,MSU Texas
+M20306094_JM,toddler,keep safe,keep,keep,AUX,MSU Texas
+M20306094_JM,toddler,keep safe,safe,safety,VERB,MSU Texas
+M20306094_JM,necklace,wear,wear,wear,VERB,MSU Texas
+M20306094_JM,necklace,break,break,break,VERB,MSU Texas
+M20306094_JM,necklace,buy and sell,buy,buy,VERB,MSU Texas
+M20306094_JM,necklace,buy and sell,sell,sell,VERB,MSU Texas
+M20306094_JM,showerhead,twist,twist,twist,VERB,MSU Texas
+M20306094_JM,showerhead,use to shower,use,use,VERB,MSU Texas
+M20306094_JM,showerhead,use to shower,shower,shower,VERB,MSU Texas
+M20306094_JM,showerhead,turn,turn,turn,VERB,MSU Texas
+M20306094_JM,showerhead,bend,bend,bend,VERB,MSU Texas
+M20306094_JM,cobweb,destroy,destroy,destroy,VERB,MSU Texas
+M20306094_JM,hip,exercise,exercise,exercise,VERB,MSU Texas
+M20306094_JM,hip,massage,massage,massage,VERB,MSU Texas
+M20306094_JM,hip,break or fix,break,break,VERB,MSU Texas
+M20306094_JM,hip,break or fix,fix,fix,VERB,MSU Texas
+M20306094_JM,fungus,grow,grow,grow,VERB,MSU Texas
+M20306094_JM,fungus,eat,eat,eat,VERB,MSU Texas
+M20306094_JM,fungus,study,study,study,VERB,MSU Texas
+M20306094_JM,pinkie,use for everyday things,use,use,VERB,MSU Texas
+M20306094_JM,pinkie,use for everyday things,everyday,everyday,INTJ,MSU Texas
+M20306094_JM,pinkie,use for everyday things,things,thing,NOUN,MSU Texas
+M20306094_JM,bystander,greet,greet,greet,VERB,MSU Texas
+M20306094_JM,bystander,ignore,ignore,ignore,VERB,MSU Texas
+M20306094_JM,sifter,use to declump flour,use,use,VERB,MSU Texas
+M20306094_JM,sifter,use to declump flour,declump,declump,VERB,MSU Texas
+M20306094_JM,sifter,use to declump flour,flour,flour,NOUN,MSU Texas
+M20306094_JM,flower,grow,grow,grow,VERB,MSU Texas
+M20306094_JM,flower,step on,step,step on,VERB,MSU Texas
+M20306094_JM,flower,nurture,nurture,nurture,VERB,MSU Texas
+M20306094_JM,flower,eat,eat,eat,VERB,MSU Texas
+M20306094_JM,flower,water,water,water,VERB,MSU Texas
+M20306094_JM,stockings,wear,wear,wear,VERB,MSU Texas
+M20306094_JM,stockings,buy,buy,buy,VERB,MSU Texas
+M20306094_JM,dumbbell,lift,lift,lift,VERB,MSU Texas
+M20306094_JM,condiment,apply to foods,apply,apply,VERB,MSU Texas
+M20306094_JM,condiment,apply to foods,foods,food,NOUN,MSU Texas
+M20306094_JM,champagne,drink,drink,drink,VERB,MSU Texas
+M20306094_JM,champagne,or spray,spray,spray,VERB,MSU Texas
+M20306094_JM,someone,i dont know how to use someone,know,know,VERB,MSU Texas
+M20306094_JM,someone,i dont know how to use someone,use,use,VERB,MSU Texas
+M20306094_JM,someone,i dont know how to use someone,someone,someone,PRON,MSU Texas
+M20306094_JM,String,pull,pull,pull,VERB,MSU Texas
+M20306094_JM,String,cut,cut,cut,VERB,MSU Texas
+M20306094_JM,String,wrap,wrap,wrap,VERB,MSU Texas
+M20306094_JM,String,twist,twist,twist,VERB,MSU Texas
+M20306094_JM,mayonnaise,eat,eat,eat,VERB,MSU Texas
+M20306094_JM,mayonnaise,make,make,make,VERB,MSU Texas
+M20306094_JM,mayonnaise,apply to food,apply,apply,VERB,MSU Texas
+M20306094_JM,mayonnaise,apply to food,food,food,NOUN,MSU Texas
+M20306094_JM,mall,shop,shop,shop,VERB,MSU Texas
+M20306094_JM,closet,store clothes,store,store,VERB,MSU Texas
+M20306094_JM,closet,store clothes,clothes,clothe,NOUN,MSU Texas
+M20306094_JM,closet,hide in,hide,hide,VERB,MSU Texas
+M20306094_JM,hourglass,track time,track,track,VERB,MSU Texas
+M20306094_JM,hourglass,track time,time,time,NOUN,MSU Texas
+M20306094_JM,dock,to park boats,park,park,VERB,MSU Texas
+M20306094_JM,dock,to park boats,boats,boats,NOUN,MSU Texas
+M20308980,jurist,in a jury,jury,jury,NOUN,MSU Texas
+M20308980,petal,for painting,painting,paint,VERB,MSU Texas
+M20308980,petal,plucking,plucking,pluck,VERB,MSU Texas
+M20308980,petal,thrown at weddings,thrown,throw,VERB,MSU Texas
+M20308980,petal,thrown at weddings,weddings,wedding,NOUN,MSU Texas
+M20308980,petal,used for arts and crafts,used,use,VERB,MSU Texas
+M20308980,petal,used for arts and crafts,arts,art,VERB,MSU Texas
+M20308980,petal,used for arts and crafts,crafts,craft,VERB,MSU Texas
+M20308980,cross,religious purposes,religious,religious,ADJ,MSU Texas
+M20308980,cross,religious purposes,purposes,purpose,NOUN,MSU Texas
+M20308980,cross,decoration,decoration,decorate,VERB,MSU Texas
+M20308980,handgun,killing,killing,kill,VERB,MSU Texas
+M20308980,handgun,injuring someone,injuring,injur,VERB,MSU Texas
+M20308980,handgun,injuring someone,someone,someone,PRON,MSU Texas
+M20308980,politician,to help within the political world ,help,help,VERB,MSU Texas
+M20308980,politician,to help within the political world ,within,within,ADP,MSU Texas
+M20308980,politician,to help within the political world ,political,political,ADJ,MSU Texas
+M20308980,politician,to help within the political world ,world,world,NOUN,MSU Texas
+M20308980,glider,transportation,transportation,transport,VERB,MSU Texas
+M20308980,machine,can be used to clean,can,can,AUX,MSU Texas
+M20308980,machine,can be used to clean,used,use,VERB,MSU Texas
+M20308980,machine,can be used to clean,clean,clean,VERB,MSU Texas
+M20308980,machine,used in workplaces,used,use,VERB,MSU Texas
+M20308980,machine,used in workplaces,workplaces,workplace,NOUN,MSU Texas
+M20308980,machine,used in classrooms,used,use,VERB,MSU Texas
+M20308980,machine,used in classrooms,classrooms,classroom,NOUN,MSU Texas
+M20308980,machine,used to work on cars ,used,use,VERB,MSU Texas
+M20308980,machine,used to work on cars ,work,work,VERB,MSU Texas
+M20308980,machine,used to work on cars ,cars,cars,NOUN,MSU Texas
+M20308980,javelin,used in track events ,used,use,VERB,MSU Texas
+M20308980,javelin,used in track events ,track,track,NOUN,MSU Texas
+M20308980,javelin,used in track events ,events,event,NOUN,MSU Texas
+M20308980,gadget,used for assisting with certain jobs,used,use,VERB,MSU Texas
+M20308980,gadget,used for assisting with certain jobs,assisting,assist,VERB,MSU Texas
+M20308980,gadget,used for assisting with certain jobs,certain,certain,ADJ,MSU Texas
+M20308980,gadget,used for assisting with certain jobs,jobs,job,NOUN,MSU Texas
+M20308980,cardboard,arts and crafts,arts,art,VERB,MSU Texas
+M20308980,cardboard,arts and crafts,crafts,craft,VERB,MSU Texas
+M20308980,cardboard,pizza holder,pizza,pizza,NOUN,MSU Texas
+M20308980,cardboard,pizza holder,holder,hold,VERB,MSU Texas
+M20308980,cardboard,used to delivery items,used,use,VERB,MSU Texas
+M20308980,cardboard,used to delivery items,delivery,deliver,VERB,MSU Texas
+M20308980,cardboard,used to delivery items,items,item,NOUN,MSU Texas
+M20308980,cardboard,used for food packaging ,used,use,VERB,MSU Texas
+M20308980,cardboard,used for food packaging ,food,food,NOUN,MSU Texas
+M20308980,cardboard,used for food packaging ,packaging,package,VERB,MSU Texas
+M20308980,duffel,used to carry clothes,used,use,VERB,MSU Texas
+M20308980,duffel,used to carry clothes,carry,carry,VERB,MSU Texas
+M20308980,duffel,used to carry clothes,clothes,clothe,NOUN,MSU Texas
+M20308980,duffel,shoes,shoes,shoe,NOUN,MSU Texas
+M20308980,duffel,hair products,hair,hair,NOUN,MSU Texas
+M20308980,duffel,hair products,products,product,NOUN,MSU Texas
+M20308980,duffel,makeup products ,makeup,makeup,NOUN,MSU Texas
+M20308980,duffel,makeup products ,products,product,NOUN,MSU Texas
+M20308980,cone,traffic stops,traffic,traffic,NOUN,MSU Texas
+M20308980,cone,traffic stops,stops,stop,VERB,MSU Texas
+M20308980,cone,games,games,game,NOUN,MSU Texas
+M20308980,cone,construction sites,construction,construct,VERB,MSU Texas
+M20308980,cone,construction sites,sites,site,NOUN,MSU Texas
+M20308980,guidebook,traveling,traveling,travel,VERB,MSU Texas
+M20308980,guidebook,driving,driving,drive,VERB,MSU Texas
+M20308980,guidebook,exploring ,exploring,explore,VERB,MSU Texas
+M20308980,bullfrog,experiments,experiments,experiment,VERB,MSU Texas
+M20308980,bullfrog,pets ,pets,pet,VERB,MSU Texas
+M20308980,cashier,grocery stores,grocery,grocery,NOUN,MSU Texas
+M20308980,cashier,grocery stores,stores,store,NOUN,MSU Texas
+M20308980,cashier,department store,department,department,NOUN,MSU Texas
+M20308980,cashier,department store,store,store,NOUN,MSU Texas
+M20308980,cashier,shoe store,shoe,shoe,NOUN,MSU Texas
+M20308980,cashier,shoe store,store,store,NOUN,MSU Texas
+M20308980,cashier,makeup store,makeup,makeup,NOUN,MSU Texas
+M20308980,cashier,makeup store,store,store,NOUN,MSU Texas
+M20308980,dinnerware,eating,eating,eat,VERB,MSU Texas
+M20308980,dinnerware,injuring someone,injuring,injur,VERB,MSU Texas
+M20308980,dinnerware,injuring someone,someone,someone,PRON,MSU Texas
+M20308980,Taco,eat ,eat,eat,VERB,MSU Texas
+M20308980,pajamas,wear to bed,wear,wear,VERB,MSU Texas
+M20308980,pajamas,wear to bed,bed,bed,NOUN,MSU Texas
+M20308980,pajamas,blanket ,blanket,blanket,VERB,MSU Texas
+M20308980,farm,animal habitat,animal,animal,NOUN,MSU Texas
+M20308980,farm,animal habitat,habitat,habitat,VERB,MSU Texas
+M20308980,farm,growth of herbs,growth,grow,VERB,MSU Texas
+M20308980,farm,growth of herbs,herbs,herb,NOUN,MSU Texas
+M20308980,lemon,in tea,tea,tea,NOUN,MSU Texas
+M20308980,lemon,in water,water,water,NOUN,MSU Texas
+M20308980,lemon,flavoring,flavoring,flavor,VERB,MSU Texas
+M20308980,lemon,cleaning,cleaning,clean,VERB,MSU Texas
+M20308980,lemon,eating,eating,eat,VERB,MSU Texas
+M20308980,guillotine,cutting someones head off,cutting,cut,VERB,MSU Texas
+M20308980,guillotine,cutting someones head off,someones,someone,NOUN,MSU Texas
+M20308980,guillotine,cutting someones head off,head,head,NOUN,MSU Texas
+M20308980,nutmeg,flavoring,flavoring,flavor,VERB,MSU Texas
+M20308980,nutmeg,baking,baking,bake,VERB,MSU Texas
+M20308980,nutmeg,eating ,eating,eat,VERB,MSU Texas
+M20308980,farmer,grow crops,grow,grow,VERB,MSU Texas
+M20308980,farmer,grow crops,crops,crop,NOUN,MSU Texas
+M20308980,farmer,produce meat,produce,produce,VERB,MSU Texas
+M20308980,farmer,produce meat,meat,meat,NOUN,MSU Texas
+M20308980,farmer,help animals grow,help,help,VERB,MSU Texas
+M20308980,farmer,help animals grow,animals,animal,NOUN,MSU Texas
+M20308980,farmer,help animals grow,grow,grow,VERB,MSU Texas
+M20308980,streets,traveling,traveling,travel,VERB,MSU Texas
+M20308980,streets,partying,partying,party,VERB,MSU Texas
+M20308980,streets,parking cars,parking,park,VERB,MSU Texas
+M20308980,streets,parking cars,cars,cars,NOUN,MSU Texas
+M20308980,streets,running,running,run,VERB,MSU Texas
+M20308980,streets,walking,walking,walk,VERB,MSU Texas
+M20308980,pitcher,throw a baseball,throw,throw,VERB,MSU Texas
+M20308980,pitcher,throw a baseball,baseball,baseball,NOUN,MSU Texas
+M20308980,custodian,cleaning ,cleaning,clean,VERB,MSU Texas
+M20308980,nightshirt,sleeping in ,sleeping,sleep,VERB,MSU Texas
+M20308980,corkscrew,overing an opening to a bottle ,covering,cover,VERB,MSU Texas
+M20308980,corkscrew,overing an opening to a bottle ,opening,open,VERB,MSU Texas
+M20308980,corkscrew,overing an opening to a bottle ,bottle,bottle,NOUN,MSU Texas
+M20308980,pony,riding,riding,ride,VERB,MSU Texas
+M20308980,pony,transportation,transportation,transport,VERB,MSU Texas
+M20308980,pony,racing,racing,race,VERB,MSU Texas
+M20308980,pony,doing yard work ,yard,yard,X,MSU Texas
+M20308980,pony,doing yard work ,work,work,VERB,MSU Texas
+M20309933,goldfish,eat,eat,eat,VERB,MSU Texas
+M20309933,goldfish,fish,fish,fish,NOUN,MSU Texas
+M20309933,grapevine,decoration,decoration,decorate,VERB,MSU Texas
+M20309933,grapevine,fruit,fruit,fruit,NOUN,MSU Texas
+M20309933,tent,sleep,sleep,sleep,VERB,MSU Texas
+M20309933,tent,relax,relax,relax,VERB,MSU Texas
+M20309933,store,storage,storage,store,VERB,MSU Texas
+M20309933,store,shopping,shopping,shop,VERB,MSU Texas
+M20309933,store,eat,eat,eat,VERB,MSU Texas
+M20309933,suspender,outfit,outfit,outfit,NOUN,MSU Texas
+M20309933,suspender,hold pants,hold,hold,VERB,MSU Texas
+M20309933,suspender,hold pants,pants,pants,NOUN,MSU Texas
+M20309933,suspender,style,style,style,VERB,MSU Texas
+M20309933,grandniece,family,family,family,NOUN,MSU Texas
+M20309933,mucous,sickness,sickness,sickness,NOUN,MSU Texas
+M20309933,kilt,blanket,blanket,blanket,VERB,MSU Texas
+M20309933,silk,blanket,blanket,blanket,VERB,MSU Texas
+M20309933,silk,bonnet,bonnet,bonnet,VERB,MSU Texas
+M20309933,silk,pillow,pillow,pillow,VERB,MSU Texas
+M20309933,silk,dress,dress,dress,VERB,MSU Texas
+M20309933,silk,shirt,shirt,shirt,VERB,MSU Texas
+M20309933,Guitar,instrument,instrument,instrument,NOUN,MSU Texas
+M20309933,Guitar,playing,playing,play,VERB,MSU Texas
+M20309933,cushion,chair,chair,chair,NOUN,MSU Texas
+M20309933,cushion,matress,mattress,mattress,VERB,MSU Texas
+M20309933,radish,vegetables,vegetables,vegetables,NOUN,MSU Texas
+M20309933,pad,cushion,cushion,cushion,VERB,MSU Texas
+M20309933,person,breathe,breathe,breathe,VERB,MSU Texas
+M20309933,daddy,person,person,person,NOUN,MSU Texas
+M20309933,medic,person,person,person,NOUN,MSU Texas
+M20309933,motorboat,travel,travel,travel,VERB,MSU Texas
+M20309933,conductor,motor in car,motor,motor,NOUN,MSU Texas
+M20309933,conductor,motor in car,car,car,NOUN,MSU Texas
+M20309933,eyelid,eyeshadow,eyeshadow,eyeshadow,NOUN,MSU Texas
+M20309933,eyelid,makeup,makeup,makeup,NOUN,MSU Texas
+M20309933,cheese,sandwich,sandwich,sandwich,NOUN,MSU Texas
+M20309933,cheese,egg,egg,egg,NOUN,MSU Texas
+M20309933,funnel,cook,cook,cook,VERB,MSU Texas
+M20309933,funnel,oil,oil,oil,NOUN,MSU Texas
+M20309933,peanut,butter,butter,butter,NOUN,MSU Texas
+M20309933,salesman,person,person,person,NOUN,MSU Texas
+M20309933,storeroom,objects,objects,object,VERB,MSU Texas
+M20309933,controller,game,game,game,NOUN,MSU Texas
+M20309933,pine,tree,tree,tree,NOUN,MSU Texas
+M20309933,people,friends,friends,friend,NOUN,MSU Texas
+M20309972,matchwood,burn,burn,burn,VERB,MSU Texas
+M20309972,matchwood,collect,collect,collect,NOUN,MSU Texas
+M20309972,matchwood,dispose,dispose,dispose,NOUN,MSU Texas
+M20309972,matchwood,throw,throw,throw,VERB,MSU Texas
+M20309972,sixpence,toss,toss,toss,VERB,MSU Texas
+M20309972,sixpence,collect,collect,collect,VERB,MSU Texas
+M20309972,sixpence,use,use,use,VERB,MSU Texas
+M20309972,sixpence,give,give,give,VERB,MSU Texas
+M20309972,sixpence,melt,melt,melt,VERB,MSU Texas
+M20309972,clerk,work,work,work,NOUN,MSU Texas
+M20309972,clerk,help,help,help,VERB,MSU Texas
+M20309972,clerk,organize,organize,organize,VERB,MSU Texas
+M20309972,clerk,pay,pay,pay,VERB,MSU Texas
+M20309972,jumper,help,help,help,VERB,MSU Texas
+M20309972,jumper,work,work,work,NOUN,MSU Texas
+M20309972,jumper,praise,praise,praise,VERB,MSU Texas
+M20309972,jumper,pay,pay,pay,VERB,MSU Texas
+M20309972,aquarium,sightsee,sightsee,sightsee,VERB,MSU Texas
+M20309972,aquarium,watch,watch,watch,VERB,MSU Texas
+M20309972,aquarium,pay,pay,pay,VERB,MSU Texas
+M20309972,aquarium,work,work,work,VERB,MSU Texas
+M20309972,aquarium,entertain,entertain,entertain,VERB,MSU Texas
+M20309972,walnut,eat,eat,eat,VERB,MSU Texas
+M20309972,walnut,throw,throw,throw,VERB,MSU Texas
+M20309972,walnut,grow,grow,grow,VERB,MSU Texas
+M20309972,walnut,collect,collect,collect,VERB,MSU Texas
+M20309972,walnut,cook,cook,cook,VERB,MSU Texas
+M20309972,walnut,feed,feed,feed,VERB,MSU Texas
+M20309972,walnut,dispose,dispose,dispose,VERB,MSU Texas
+M20309972,pail,fill,fill,fill,VERB,MSU Texas
+M20309972,pail,dump,dump,dump,VERB,MSU Texas
+M20309972,pail,throw,throw,throw,VERB,MSU Texas
+M20309972,pail,give,give,give,VERB,MSU Texas
+M20309972,pail,steal,steal,steal,VERB,MSU Texas
+M20309972,dustbin,trash,trash,throw away,VERB,MSU Texas
+M20309972,dustbin,dispose,dispose,dispose,VERB,MSU Texas
+M20309972,dustbin,fill,fill,fill,VERB,MSU Texas
+M20309972,dustbin,empty,empty,empty,VERB,MSU Texas
+M20309972,dustbin,give,give,give,VERB,MSU Texas
+M20309972,dustbin,buy,buy,buy,VERB,MSU Texas
+M20309972,backscratcher,scratch,scratch,scratch,VERB,MSU Texas
+M20309972,backscratcher,give,give,give,VERB,MSU Texas
+M20309972,backscratcher,buy,buy,buy,VERB,MSU Texas
+M20309972,backscratcher,steal,steal,steal,VERB,MSU Texas
+M20309972,backscratcher,borrow,borrow,borrow,VERB,MSU Texas
+M20309972,backscratcher,throw,throw,throw,VERB,MSU Texas
+M20309972,stomach,transplant,transplant,transplant,VERB,MSU Texas
+M20309972,stomach,buy,buy,buy,VERB,MSU Texas
+M20309972,stomach,fill,fill,fill,VERB,MSU Texas
+M20309972,stomach,eat,eat,eat,VERB,MSU Texas
+M20309972,stomach,dispose,dispose,dispose,VERB,MSU Texas
+M20309972,stomach,donate,donate,donate,VERB,MSU Texas
+M20309972,equipment,use,use,use,VERB,MSU Texas
+M20309972,equipment,borrow,borrow,borrow,VERB,MSU Texas
+M20309972,equipment,steal,steal,steal,VERB,MSU Texas
+M20309972,equipment,buy,buy,buy,VERB,MSU Texas
+M20309972,equipment,give,give,give,VERB,MSU Texas
+M20309972,equipment,create,create,create,VERB,MSU Texas
+M20309972,okra,eat,eat,eat,VERB,MSU Texas
+M20309972,okra,trash,trash,throw away,VERB,MSU Texas
+M20309972,okra,throw,throw,throw,VERB,MSU Texas
+M20309972,okra,buy,buy,buy,VERB,MSU Texas
+M20309972,okra,give,give,give,VERB,MSU Texas
+M20309972,okra,donate,donate,donate,VERB,MSU Texas
+M20309972,okra,farm,farm,farm,VERB,MSU Texas
+M20309972,leather,wear,wear,wear,VERB,MSU Texas
+M20309972,leather,buy,buy,buy,VERB,MSU Texas
+M20309972,leather,make,make,make,VERB,MSU Texas
+M20309972,leather,give,give,give,VERB,MSU Texas
+M20309972,leather,steal,steal,steal,VERB,MSU Texas
+M20309972,leather,dispose,dispose,dispose,VERB,MSU Texas
+M20309972,wristband,wear,wear,wear,VERB,MSU Texas
+M20309972,wristband,buy,buy,buy,VERB,MSU Texas
+M20309972,wristband,give,give,give,VERB,MSU Texas
+M20309972,wristband,donate,donate,donate,VERB,MSU Texas
+M20309972,wristband,take,take,take,VERB,MSU Texas
+M20309972,wristband,make,make,make,VERB,MSU Texas
+M20309972,wristband,throw,throw,throw,VERB,MSU Texas
+M20309972,lad,praise,praise,praise,VERB,MSU Texas
+M20309972,lad,help,help,help,VERB,MSU Texas
+M20309972,lad,work,work,work,VERB,MSU Texas
+M20309972,lad,pay,pay,pay,VERB,MSU Texas
+M20309972,saucepan,create,create,create,VERB,MSU Texas
+M20309972,saucepan,use,use,use,VERB,MSU Texas
+M20309972,saucepan,throw,throw,throw,VERB,MSU Texas
+M20309972,saucepan,buy,buy,buy,VERB,MSU Texas
+M20309972,saucepan,borrow,borrow,borrow,VERB,MSU Texas
+M20309972,saucepan,steal,steal,steal,VERB,MSU Texas
+M20309972,saucepan,hit,hit,hit,VERB,MSU Texas
+M20309972,educator,listen,listen,listen,VERB,MSU Texas
+M20309972,educator,pay,pay,pay,VERB,MSU Texas
+M20309972,educator,work,work,work,VERB,MSU Texas
+M20309972,educator,praise,praise,praise,VERB,MSU Texas
+M20309972,educator,submit,submit,submit,VERB,MSU Texas
+M20309972,awning,shade,shade,shade,VERB,MSU Texas
+M20309972,awning,buy,buy,buy,VERB,MSU Texas
+M20309972,awning,make,make,make,VERB,MSU Texas
+M20309972,awning,rest,rest,rest,VERB,MSU Texas
+M20309972,awning,relax,relax,relax,VERB,MSU Texas
+M20309972,awning,read,read,read,VERB,MSU Texas
+M20309972,awning,hide,hide,hide,VERB,MSU Texas
+M20309972,pamphlet,read,read,read,VERB,MSU Texas
+M20309972,pamphlet,use,use,use,VERB,MSU Texas
+M20309972,pamphlet,burn,burn,burn,VERB,MSU Texas
+M20309972,pamphlet,give,give,give,VERB,MSU Texas
+M20309972,pamphlet,buy,buy,buy,VERB,MSU Texas
+M20309972,pamphlet,take,take,take,VERB,MSU Texas
+M20309972,pamphlet,collect,collect,collect,VERB,MSU Texas
+M20309972,cornflakes,eat,eat,eat,VERB,MSU Texas
+M20309972,cornflakes,dispose,dispose,dispose,VERB,MSU Texas
+M20309972,cornflakes,buy,buy,buy,VERB,MSU Texas
+M20309972,cornflakes,give,give,give,VERB,MSU Texas
+M20309972,cornflakes,donate,donate,donate,VERB,MSU Texas
+M20309972,cornflakes,throw,throw,throw,VERB,MSU Texas
+M20309972,leaflet,read,read,read,VERB,MSU Texas
+M20309972,leaflet,dispose,dispose,dispose,VERB,MSU Texas
+M20309972,leaflet,give,give,give,VERB,MSU Texas
+M20309972,leaflet,receive,receive,receive,VERB,MSU Texas
+M20309972,leaflet,collect,collect,collect,VERB,MSU Texas
+M20309972,pen,write,write,write,VERB,MSU Texas
+M20309972,pen,throw,throw,throw,VERB,MSU Texas
+M20309972,pen,buy,buy,buy,VERB,MSU Texas
+M20309972,pen,give,give,give,VERB,MSU Texas
+M20309972,pen,donate,donate,donate,VERB,MSU Texas
+M20309972,pen,collect,collect,collect,VERB,MSU Texas
+M20309972,scrapbook,read,read,read,VERB,MSU Texas
+M20309972,scrapbook,create,create,create,VERB,MSU Texas
+M20309972,scrapbook,remember,remember,remember,VERB,MSU Texas
+M20309972,scrapbook,burn,burn,burn,VERB,MSU Texas
+M20309972,scrapbook,give,give,give,VERB,MSU Texas
+M20309972,scrapbook,receive,receive,receive,VERB,MSU Texas
+M20309972,scrapbook,donate,donate,donate,VERB,MSU Texas
+M20309972,tunic,wear,wear,wear,VERB,MSU Texas
+M20309972,tunic,donate,donate,donate,VERB,MSU Texas
+M20309972,tunic,buy,buy,buy,VERB,MSU Texas
+M20309972,tunic,steal,steal,steal,VERB,MSU Texas
+M20309972,tunic,collect,collect,collect,VERB,MSU Texas
+M20309972,licence,fish,fish,fish,VERB,MSU Texas
+M20309972,licence,hunt,hunt,hunt,VERB,MSU Texas
+M20309972,licence,drive,drive,drive,VERB,MSU Texas
+M20309972,licence,fly,fly,fly,VERB,MSU Texas
+M20309972,licence,work,work,work,VERB,MSU Texas
+M20309972,licence,cook,cook,cook,VERB,MSU Texas
+M20309972,honeycomb,eat,eat,eat,VERB,MSU Texas
+M20309972,honeycomb,make,make,make,VERB,MSU Texas
+M20309972,honeycomb,take,take,take,VERB,MSU Texas
+M20309972,honeycomb,give,give,give,VERB,MSU Texas
+M20309972,honeycomb,donate,donate,donate,VERB,MSU Texas
+M20309972,honeycomb,buy,buy,buy,VERB,MSU Texas
+M20309972,atlas,navigate,navigate,navigate,VERB,MSU Texas
+M20309972,atlas,buy,buy,buy,VERB,MSU Texas
+M20309972,atlas,borrow,borrow,borrow,VERB,MSU Texas
+M20309972,clock,study,study,study,VERB,MSU Texas
+M20309972,clock,read,read,read,VERB,MSU Texas
+M20309972,clock,prepare,prepare,prepare,VERB,MSU Texas
+M20309972,sesame,make,make,make,VERB,MSU Texas
+M20309972,sesame,eat,eat,eat,VERB,MSU Texas
+M20309972,sesame,farm,farm,farm,VERB,MSU Texas
+M20309972,sesame,buy,buy,buy,VERB,MSU Texas
+M20309972,sesame,give,give,give,VERB,MSU Texas
+M20309972,sesame,take,take,take,VERB,MSU Texas
+M20309972,stocking,fill,fill,fill,VERB,MSU Texas
+M20309972,stocking,empty,empty,empty,VERB,MSU Texas
+M20309972,stocking,give,give,give,VERB,MSU Texas
+M20309972,stocking,donate,donate,donate,VERB,MSU Texas
+M20309972,stocking,buy,buy,buy,VERB,MSU Texas
+M20309972,stocking,steal,steal,steal,VERB,MSU Texas
+m20310925S.H,turnip,pull,pull,pull,VERB,MSU Texas
+m20310925S.H,turnip,cook,cook,cook,VERB,MSU Texas
+m20310925S.H,turnip,eat,eat,eat,VERB,MSU Texas
+m20310925S.H,turnip,plant,plant,plant,VERB,MSU Texas
+m20310925S.H,cord,pull,pull,pull,VERB,MSU Texas
+m20310925S.H,vagina,giving birth,giving,give,VERB,MSU Texas
+m20310925S.H,vagina,giving birth,birth,birth,VERB,MSU Texas
+m20310925S.H,clip,put your hair up,put,put,AUX,MSU Texas
+m20310925S.H,clip,put your hair up,hair,hair,NOUN,MSU Texas
+m20310925S.H,clip,close a bag of chips,close,close,VERB,MSU Texas
+m20310925S.H,clip,close a bag of chips,bag,bag,NOUN,MSU Texas
+m20310925S.H,clip,close a bag of chips,chips,chip,NOUN,MSU Texas
+m20310925S.H,clip,watch,watch,watch,VERB,MSU Texas
+m20310925S.H,clip,record,record,record,VERB,MSU Texas
+m20310925S.H,crayon,color,color,color,VERB,MSU Texas
+m20310925S.H,crayon,write,write,write,VERB,MSU Texas
+m20310925S.H,crayon,draw,draw,dree,VERB,MSU Texas
+m20310925S.H,doctor,get healthy,get,get,AUX,MSU Texas
+m20310925S.H,doctor,get healthy,healthy,healthy,ADJ,MSU Texas
+m20310925S.H,doctor,check your health,check,check,VERB,MSU Texas
+m20310925S.H,doctor,check your health,health,heal,VERB,MSU Texas
+m20310925S.H,flannels,wear,wear,wear,VERB,MSU Texas
+m20310925S.H,flannels,decorate,decorate,decorate,VERB,MSU Texas
+m20310925S.H,tuba,make music,make,make,VERB,MSU Texas
+m20310925S.H,tuba,make music,music,music,VERB,MSU Texas
+m20310925S.H,tuba,entertain people,entertain,entertain,VERB,MSU Texas
+m20310925S.H,tuba,entertain people,people,people,NOUN,MSU Texas
+m20310925S.H,brassiere,wear,wear,wear,VERB,MSU Texas
+m20310925S.H,brassiere,hold your chest,hold,hold,VERB,MSU Texas
+m20310925S.H,brassiere,hold your chest,chest,chest,NOUN,MSU Texas
+m20310925S.H,brassiere,protect your chest,protect,protect,VERB,MSU Texas
+m20310925S.H,brassiere,protect your chest,chest,chest,NOUN,MSU Texas
+m20310925S.H,milkshake,drink,drink,drink,VERB,MSU Texas
+m20310925S.H,milkshake,make,make,make,VERB,MSU Texas
+m20310925S.H,milkshake,throw,throw,throw,VERB,MSU Texas
+m20310925S.H,cocktail,drink,drink,drink,VERB,MSU Texas
+m20310925S.H,cocktail,throw,throw,throw,VERB,MSU Texas
+m20310925S.H,cocktail,make,make,make,VERB,MSU Texas
+m20310925S.H,cleat,wear,wear,wear,VERB,MSU Texas
+m20310925S.H,cleat,run,run,run,VERB,MSU Texas
+m20310925S.H,author,read their books,read,read,VERB,MSU Texas
+m20310925S.H,author,read their books,books,book,NOUN,MSU Texas
+m20310925S.H,author,critique,critique,critique,VERB,MSU Texas
+m20310925S.H,fisherman,fish,fish,fish,VERB,MSU Texas
+m20310925S.H,earring,wear,wear,wear,VERB,MSU Texas
+m20310925S.H,earring,protect,protect,protect,VERB,MSU Texas
+m20310925S.H,earring,attract attention,attract,attract,AUX,MSU Texas
+m20310925S.H,earring,attract attention,attention,attention,VERB,MSU Texas
+m20310925S.H,paperhanger,hang,hang,hang,VERB,MSU Texas
+m20310925S.H,driftwood,float,float,float,VERB,MSU Texas
+m20310925S.H,driftwood,hold onto,hold,hold,VERB,MSU Texas
+m20310925S.H,driftwood,hold onto,onto,onto,ADP,MSU Texas
+m20310925S.H,hairpin,hold hair up,hold,hold,VERB,MSU Texas
+m20310925S.H,hairpin,hold hair up,hair,hair,NOUN,MSU Texas
+m20310925S.H,hamstring,stretch,stretch,stretch,VERB,MSU Texas
+m20310925S.H,hamstring,run,run,run,VERB,MSU Texas
+m20310925S.H,hamstring,move,move,move,VERB,MSU Texas
+m20310925S.H,granddaughter,comfort,comfort,comfort,VERB,MSU Texas
+m20310925S.H,granddaughter,respect,respect,respect,VERB,MSU Texas
+m20310925S.H,booth,sit,sit,sit,VERB,MSU Texas
+m20310925S.H,pedestal,stand,stand,stand,VERB,MSU Texas
+m20310925S.H,pedestal,speech,speech,speech,VERB,MSU Texas
+m20310925S.H,seasoning,make food taste good,make,make,VERB,MSU Texas
+m20310925S.H,seasoning,make food taste good,food,food,NOUN,MSU Texas
+m20310925S.H,seasoning,make food taste good,taste,taste,VERB,MSU Texas
+m20310925S.H,seasoning,make food taste good,good,good,ADJ,MSU Texas
+m20310925S.H,doorstep,walk,walk,walk,VERB,MSU Texas
+m20310925S.H,doorstep,decorate,decorate,decorate,VERB,MSU Texas
+m20310925S.H,Cheeseburger,eat,eat,eat,VERB,MSU Texas
+m20310925S.H,Cheeseburger,throw,throw,throw,VERB,MSU Texas
+M20313679,testes,reproduction,reproduction,reproduce,VERB,MSU Texas
+M20313679,testes,cause pleasure,cause,cause,NOUN,MSU Texas
+M20313679,testes,cause pleasure,pleasure,pleasure,VERB,MSU Texas
+M20313679,testes,cause pain,cause,cause,NOUN,MSU Texas
+M20313679,testes,cause pain,pain,pain,VERB,MSU Texas
+M20313679,testes,step on,step,step on,VERB,MSU Texas
+M20313679,testes,crush,crush,crush,VERB,MSU Texas
+M20313679,testes,pop,pop,pop,VERB,MSU Texas
+M20313679,testes,eat them (animals),eat,eat,VERB,MSU Texas
+M20313679,testes,eat them (animals),animals,animal,NOUN,MSU Texas
+M20313679,trinket,wear,wear,wear,VERB,MSU Texas
+M20313679,trinket,throw,throw,throw,VERB,MSU Texas
+M20313679,trinket,use as fashion,use,use,VERB,MSU Texas
+M20313679,trinket,use as fashion,fashion,fashion,NOUN,MSU Texas
+M20313679,trinket,build,build,build,VERB,MSU Texas
+M20313679,eraser,remove writing,remove,remove,VERB,MSU Texas
+M20313679,eraser,remove writing,writing,write,VERB,MSU Texas
+M20313679,eraser,throw,throw,throw,VERB,MSU Texas
+M20313679,eraser,bounce,bounce,bounce,VERB,MSU Texas
+M20313679,eraser,use as stress ball,use,use,VERB,MSU Texas
+M20313679,eraser,use as stress ball,stress,stress ball,VERB,MSU Texas
+M20313679,eraser,fidget object,fidget,fidget,VERB,MSU Texas
+M20313679,eraser,fidget object,object,object,ADV,MSU Texas
+M20313679,rake,collect leaves in piles,collect,collect,VERB,MSU Texas
+M20313679,rake,collect leaves in piles,leaves,leave,VERB,MSU Texas
+M20313679,rake,collect leaves in piles,piles,pile,VERB,MSU Texas
+M20313679,rake,spread out dirt,spread,spread,VERB,MSU Texas
+M20313679,rake,spread out dirt,dirt,dirt,NOUN,MSU Texas
+M20313679,rake,swing it,swing,swing,VERB,MSU Texas
+M20313679,rake,poke hornets nest,poke,poke,VERB,MSU Texas
+M20313679,rake,poke hornets nest,hornets,hornet,NOUN,MSU Texas
+M20313679,rake,poke hornets nest,nest,nest,NOUN,MSU Texas
+M20313679,crawfish,cook,cook,cook,VERB,MSU Texas
+M20313679,crawfish,eat,eat,eat,VERB,MSU Texas
+M20313679,crawfish,use as bait,use,use,VERB,MSU Texas
+M20313679,crawfish,use as bait,bait,bait,VERB,MSU Texas
+M20313679,crawfish,tear apart,tear,tear,VERB,MSU Texas
+M20313679,crawfish,tear apart,apart,apart,ADV,MSU Texas
+M20313679,crawfish,make stock,make,make,VERB,MSU Texas
+M20313679,crawfish,make stock,stock,stock,VERB,MSU Texas
+M20313679,crawfish,breed them,breed,breed,VERB,MSU Texas
+M20313679,kelp,make seasoning,make,make,VERB,MSU Texas
+M20313679,kelp,make seasoning,seasoning,season,VERB,MSU Texas
+M20313679,kelp,eat it,eat,eat,VERB,MSU Texas
+M20313679,kelp,make salad,make,make,VERB,MSU Texas
+M20313679,kelp,make salad,salad,salad,NOUN,MSU Texas
+M20313679,kelp,wrap,wrap,wrap,VERB,MSU Texas
+M20313679,wagon,transport,transport,transport,VERB,MSU Texas
+M20313679,wagon,pull kids around in,pull,pull,VERB,MSU Texas
+M20313679,wagon,pull kids around in,kids,kid,NOUN,MSU Texas
+M20313679,wagon,pull kids around in,around,around,ADV,MSU Texas
+M20313679,vine,tie things,tie,tie,VERB,MSU Texas
+M20313679,vine,tie things,things,thing,NOUN,MSU Texas
+M20313679,vine,make rope,make,make,VERB,MSU Texas
+M20313679,vine,make rope,rope,rope,VERB,MSU Texas
+M20313679,vine,build traps,build,build,VERB,MSU Texas
+M20313679,vine,build traps,traps,trap,NOUN,MSU Texas
+M20313679,vine,swing from,swing,swing,VERB,MSU Texas
+M20313679,soil,grow plants,grow,grow,VERB,MSU Texas
+M20313679,soil,grow plants,plants,plant,NOUN,MSU Texas
+M20313679,soil,level ground,level,level,VERB,MSU Texas
+M20313679,soil,level ground,ground,ground,NOUN,MSU Texas
+M20313679,soil,play in,play,play,VERB,MSU Texas
+M20313679,pharmacist,receive drugs,receive,receive,VERB,MSU Texas
+M20313679,pharmacist,receive drugs,drugs,drug,NOUN,MSU Texas
+M20313679,pharmacist,get information about drugs,get,get,AUX,MSU Texas
+M20313679,pharmacist,get information about drugs,information,inform,VERB,MSU Texas
+M20313679,pharmacist,get information about drugs,drugs,drug,NOUN,MSU Texas
+M20313679,pharmacist,fulfill prescriptions,fulfill,fulfill,VERB,MSU Texas
+M20313679,pharmacist,fulfill prescriptions,prescriptions,prescribe,VERB,MSU Texas
+M20313679,spareribs,cook,cook,cook,VERB,MSU Texas
+M20313679,spareribs,smoke,smoke,smoke,VERB,MSU Texas
+M20313679,spareribs,bake,bake,bake,VERB,MSU Texas
+M20313679,spareribs,eat,eat,eat,VERB,MSU Texas
+M20313679,spareribs,cut,cut,cut,VERB,MSU Texas
+M20313679,spareribs,season,season,season,VERB,MSU Texas
+M20313679,spareribs,broil,broil,broil,VERB,MSU Texas
+M20313679,blackberry,call someone(phone),call,call,VERB,MSU Texas
+M20313679,blackberry,call someone(phone),someone,someone,PRON,MSU Texas
+M20313679,blackberry,call someone(phone),phone,phone,NOUN,MSU Texas
+M20313679,blackberry,eat,eat,eat,VERB,MSU Texas
+M20313679,blackberry,plant,plant,plant,VERB,MSU Texas
+M20313679,blackberry,grow,grow,grow,VERB,MSU Texas
+M20313679,blackberry,make jam,make,make,VERB,MSU Texas
+M20313679,blackberry,make jam,jam,jam,VERB,MSU Texas
+M20313679,blackberry,make jelly,make,make,VERB,MSU Texas
+M20313679,blackberry,make jelly,jelly,jelly,ADV,MSU Texas
+M20313679,blackberry,top desserts,top,top,ADJ,MSU Texas
+M20313679,blackberry,top desserts,desserts,dessert,NOUN,MSU Texas
+M20313679,blackberry,crush,crush,crush,VERB,MSU Texas
+M20313679,topsoil,grow plant,grow,grow,VERB,MSU Texas
+M20313679,topsoil,grow plant,plant,plant,NOUN,MSU Texas
+M20313679,topsoil,use as nutrition for worms,use,use,VERB,MSU Texas
+M20313679,topsoil,use as nutrition for worms,nutrition,nutrition,VERB,MSU Texas
+M20313679,topsoil,use as nutrition for worms,worms,worm,NOUN,MSU Texas
+M20313679,kitty,pet,pet,pet,VERB,MSU Texas
+M20313679,kitty,hold,hold,hold,VERB,MSU Texas
+M20313679,kitty,hug,hug,hug,VERB,MSU Texas
+M20313679,kitty,feed,feed,feed,VERB,MSU Texas
+M20313679,kitty,stress support,stress,stress,VERB,MSU Texas
+M20313679,kitty,stress support,support,support,NOUN,MSU Texas
+M20313679,menu,read,read,read,VERB,MSU Texas
+M20313679,menu,inform availability of food,inform,inform,VERB,MSU Texas
+M20313679,menu,inform availability of food,availability,availability,NOUN,MSU Texas
+M20313679,menu,inform availability of food,food,food,NOUN,MSU Texas
+M20313679,menu,write on,write,write,VERB,MSU Texas
+M20313679,menu,order from,order,order,VERB,MSU Texas
+M20313679,menu,price of meal,price,price,NOUN,MSU Texas
+M20313679,menu,price of meal,meal,meal,NOUN,MSU Texas
+M20313679,anus,fart,fart,fart,VERB,MSU Texas
+M20313679,anus,cause pain,cause,cause,NOUN,MSU Texas
+M20313679,anus,cause pain,pain,pain,VERB,MSU Texas
+M20313679,anus,cause pleasure,cause,cause,NOUN,MSU Texas
+M20313679,anus,cause pleasure,pleasure,pleasure,VERB,MSU Texas
+M20313679,anus,defecating,defecating,defecat,VERB,MSU Texas
+M20313679,copybook,write,write,write,VERB,MSU Texas
+M20313679,copybook,trace,trace,trace,VERB,MSU Texas
+M20313679,copybook,copy,copy,copy,VERB,MSU Texas
+M20313679,copybook,learn,learn,learn,VERB,MSU Texas
+M20313679,copybook,kindling,kindling,kindle,VERB,MSU Texas
+M20313679,cotton,make clothes,make,make,VERB,MSU Texas
+M20313679,cotton,make clothes,clothes,clothe,NOUN,MSU Texas
+M20313679,cotton,pick it,pick,pick,VERB,MSU Texas
+M20313679,cotton,grow it,grow,grow,VERB,MSU Texas
+M20313679,cotton,burn it,burn,burn,VERB,MSU Texas
+M20313679,amulet,wear,wear,wear,VERB,MSU Texas
+M20313679,amulet,throw,throw,throw,VERB,MSU Texas
+M20313679,amulet,place a curse,place,place,NOUN,MSU Texas
+M20313679,amulet,place a curse,curse,curse,VERB,MSU Texas
+M20313679,amulet,place a piece of your soul in,place,place,NOUN,MSU Texas
+M20313679,amulet,place a piece of your soul in,piece,piece,NOUN,MSU Texas
+M20313679,amulet,place a piece of your soul in,soul,soul,X,MSU Texas
+M20313679,cabinet,hold books,hold,hold,VERB,MSU Texas
+M20313679,cabinet,hold books,books,book,NOUN,MSU Texas
+M20313679,cabinet,store food or snacks,store,store,VERB,MSU Texas
+M20313679,cabinet,store food or snacks,food,food,NOUN,MSU Texas
+M20313679,cabinet,store food or snacks,snacks,snack,VERB,MSU Texas
+M20313679,cabinet,break apart and make raised garden bed,break,break,VERB,MSU Texas
+M20313679,cabinet,break apart and make raised garden bed,apart,apart,ADV,MSU Texas
+M20313679,cabinet,break apart and make raised garden bed,make,make,VERB,MSU Texas
+M20313679,cabinet,break apart and make raised garden bed,raised,raise,VERB,MSU Texas
+M20313679,cabinet,break apart and make raised garden bed,garden,garden,NOUN,MSU Texas
+M20313679,cabinet,break apart and make raised garden bed,bed,bed,NOUN,MSU Texas
+M20313679,cabinet,burn it,burn,burn,VERB,MSU Texas
+M20313679,playroom,run in,run,run,VERB,MSU Texas
+M20313679,playroom,put games in,put,put,AUX,MSU Texas
+M20313679,playroom,put games in,games,game,NOUN,MSU Texas
+M20313679,playroom,storage closet,storage,store,VERB,MSU Texas
+M20313679,playroom,storage closet,closet,closet,NOUN,MSU Texas
+M20313679,squirrel,cook it,cook,cook,VERB,MSU Texas
+M20313679,squirrel,kill it,kill,kill,VERB,MSU Texas
+M20313679,squirrel,pet it,pet,pet,VERB,MSU Texas
+M20313679,squirrel,hold it,hold,hold,VERB,MSU Texas
+M20313679,squirrel,feed it,feed,feed,VERB,MSU Texas
+M20313679,jogger,run,run,run,VERB,MSU Texas
+M20313679,jogger,walk,walk,walk,VERB,MSU Texas
+M20313679,jogger,wear it(jogger suit),wear,wear,VERB,MSU Texas
+M20313679,jogger,wear it(jogger suit),jogger,jogger,NOUN,MSU Texas
+M20313679,jogger,wear it(jogger suit),suit,suit,NOUN,MSU Texas
+M20313679,jogger,chase,chase,chase,VERB,MSU Texas
+M20313679,vest,wear it,wear,wear,VERB,MSU Texas
+M20313679,vest,sell it,sell,sell,VERB,MSU Texas
+M20313679,vest,fold it,fold,fold,VERB,MSU Texas
+M20313679,vest,step on it,step,step on,VERB,MSU Texas
+M20313679,vest,loan it,loan,loan,VERB,MSU Texas
+M20313679,vein,transportation od blood,transportation,transport,VERB,MSU Texas
+M20313679,vein,transportation od blood,blood,blood,NOUN,MSU Texas
+M20313679,vein,donate blood,donate,donate,VERB,MSU Texas
+M20313679,vein,donate blood,blood,blood,NOUN,MSU Texas
+M20313679,vein,transportation of nutrients and waste,transportation,transport,VERB,MSU Texas
+M20313679,vein,transportation of nutrients and waste,nutrients,nutrient,NOUN,MSU Texas
+M20313679,vein,transportation of nutrients and waste,waste,waste,NOUN,MSU Texas
+M20313679,vein,blow,blow,blow,VERB,MSU Texas
+M20313679,vein,collapse,collapse,collapse,VERB,MSU Texas
+M20313679,liqueur,drink it,drink,drink,VERB,MSU Texas
+M20313679,liqueur,place in food,place,place,NOUN,MSU Texas
+M20313679,liqueur,place in food,food,food,NOUN,MSU Texas
+M20313679,liqueur,make drinks,make,make,VERB,MSU Texas
+M20313679,liqueur,make drinks,drinks,drink,VERB,MSU Texas
+M20313679,addict,get drugs from,get,get,AUX,MSU Texas
+M20313679,addict,get drugs from,drugs,drug,NOUN,MSU Texas
+M20313679,addict,test drugs on,test,test,NOUN,MSU Texas
+M20313679,addict,test drugs on,drugs,drug,NOUN,MSU Texas
+M20313679,oxtail,cook it,cook,cook,VERB,MSU Texas
+M20313679,oxtail,boil,boil,boil,VERB,MSU Texas
+M20313679,oxtail,broil,broil,broil,VERB,MSU Texas
+M20313679,oxtail,season,season,season,VERB,MSU Texas
+M20313679,oxtail,make a meal,make,make,VERB,MSU Texas
+M20313679,oxtail,make a meal,meal,meal,VERB,MSU Texas
+M20313679,panhandler,give money,give,give,VERB,MSU Texas
+M20313679,panhandler,give money,money,money,NOUN,MSU Texas
+M20318418OED,toothpaste,brush,brush,brush,VERB,MSU Texas
+M20318418OED,toothpaste,clean,clean,clean,VERB,MSU Texas
+M20318418OED,toothpaste,wash,wash,wash,VERB,MSU Texas
+M20318418OED,jeep,drive,drive,drive,VERB,MSU Texas
+M20318418OED,cheerleader,dance,dance,dance,VERB,MSU Texas
+M20318418OED,booze,drink,drink,drink,VERB,MSU Texas
+M20318418OED,garland,hang,hang,hang,VERB,MSU Texas
+M20318418OED,aircraft,fly,fly,fly,VERB,MSU Texas
+M20318418OED,omelet,eat,eat,eat,VERB,MSU Texas
+M20318418OED,kernel,house for dogs,house,house,NOUN,MSU Texas
+M20318418OED,kernel,house for dogs,dogs,dog,NOUN,MSU Texas
+M20318418OED,fishbone,grind,grind,grind,VERB,MSU Texas
+M20318418OED,fishbone,chew,chew,chew,VERB,MSU Texas
+M20318418OED,sheet,draw,draw,dree,VERB,MSU Texas
+M20318418OED,sheet,sing,sing,se,VERB,MSU Texas
+M20318418OED,sheet,write,write,write,VERB,MSU Texas
+M20318418OED,cigar,smoke,smoke,smoke,VERB,MSU Texas
+M20318418OED,sack,trash,trash,throw away,VERB,MSU Texas
+M20318418OED,sack,store,store,store,VERB,MSU Texas
+M20318418OED,cafe,browse,browse,browse,VERB,MSU Texas
+M20318418OED,retriever,get something back,get,get,AUX,MSU Texas
+M20318418OED,retriever,get something back,something,something,PRON,MSU Texas
+M20318418OED,retriever,get something back,back,back,ADV,MSU Texas
+M20318418OED,nutcrackers,crack nuts,crack,crack,VERB,MSU Texas
+M20318418OED,nutcrackers,crack nuts,nuts,nut,NOUN,MSU Texas
+M20318418OED,pork,eat,eat,eat,VERB,MSU Texas
+M20318418OED,pork,fry,fry,fry,VERB,MSU Texas
+M20318418OED,pork,bake,bake,bake,VERB,MSU Texas
+M20318418OED,pork,grill,grill,grill,VERB,MSU Texas
+M20318418OED,bridge,climb,climb,climb,VERB,MSU Texas
+M20318418OED,sax,play,play,play,VERB,MSU Texas
+M20318418OED,dispenser,drink,drink,drink,NOUN,MSU Texas
+M20318418OED,dispenser,fetch water,fetch,fetch,VERB,MSU Texas
+M20318418OED,dispenser,fetch water,water,water,VERB,MSU Texas
+M20321084LYCCH,shelter,give food,give,give,VERB,MSU Texas
+M20321084LYCCH,shelter,give food,food,food,NOUN,MSU Texas
+M20321084LYCCH,pantry,put in food,put,put,AUX,MSU Texas
+M20321084LYCCH,pantry,put in food,food,food,NOUN,MSU Texas
+M20321084LYCCH,pantry,organize,organize,organize,VERB,MSU Texas
+M20321084LYCCH,pantry,clean,clean,clean,VERB,MSU Texas
+M20321084LYCCH,creek,water,water,water,NOUN,MSU Texas
+M20321084LYCCH,creek,swim,swim,swim,VERB,MSU Texas
+M20321084LYCCH,creek,energy,energy,energy,NOUN,MSU Texas
+M20321084LYCCH,creek,drink,drink,drink,VERB,MSU Texas
+M20321084LYCCH,fruit,eat,eat,eat,VERB,MSU Texas
+M20321084LYCCH,fruit,wash,wash,wash,VERB,MSU Texas
+M20321084LYCCH,fruit,make food,make,make,VERB,MSU Texas
+M20321084LYCCH,fruit,make food,food,food,NOUN,MSU Texas
+M20321084LYCCH,fruit,make drinks,make,make,VERB,MSU Texas
+M20321084LYCCH,fruit,make drinks,drinks,drink,VERB,MSU Texas
+M20321084LYCCH,fruit,cut,cut,cut,VERB,MSU Texas
+M20321084LYCCH,fruit,slice,slice,slice,VERB,MSU Texas
+M20321084LYCCH,fruit,desserts,desserts,dessert,NOUN,MSU Texas
+M20321084LYCCH,fruit,baking,baking,bake,VERB,MSU Texas
+M20321084LYCCH,excavator,excavate,excavate,excavate,VERB,MSU Texas
+M20321084LYCCH,excavator,make holes,make,make,VERB,MSU Texas
+M20321084LYCCH,excavator,make holes,holes,hole,NOUN,MSU Texas
+M20321084LYCCH,excavator,break,break,break,VERB,MSU Texas
+M20321084LYCCH,tailcoat,wear,wear,wear,VERB,MSU Texas
+M20321084LYCCH,tailcoat,wash,wash,wash,VERB,MSU Texas
+M20321084LYCCH,client,buy,buy,buy,VERB,MSU Texas
+M20321084LYCCH,client,conversate,converse,converse,VERB,MSU Texas
+M20321084LYCCH,client,ask questions,ask,ask,VERB,MSU Texas
+M20321084LYCCH,client,ask questions,questions,question,NOUN,MSU Texas
+M20321084LYCCH,roll,i cant explain,cant,cant,NOUN,MSU Texas
+M20321084LYCCH,roll,i cant explain,explain,explain,VERB,MSU Texas
+M20321084LYCCH,body,piercings,piercings,pierce,VERB,MSU Texas
+M20321084LYCCH,body,tattoos,tattoos,tattoo,VERB,MSU Texas
+M20321084LYCCH,body,examinate,examine,examine,VERB,MSU Texas
+M20321084LYCCH,seating,seat,seat,sit,VERB,MSU Texas
+M20321084LYCCH,seating,step on it,step,step on,VERB,MSU Texas
+M20321084LYCCH,seating,read,read,read,VERB,MSU Texas
+M20321084LYCCH,seating,write on it,write,write,VERB,MSU Texas
+M20321084LYCCH,accordion,music,music,music,VERB,MSU Texas
+M20321084LYCCH,accordion,play,play,play,VERB,MSU Texas
+M20321084LYCCH,accordion,listen,listen,listen,VERB,MSU Texas
+M20321084LYCCH,accordion,create songs,create,create,VERB,MSU Texas
+M20321084LYCCH,accordion,create songs,songs,songs,NOUN,MSU Texas
+M20321084LYCCH,phalanges,move,move,move,VERB,MSU Texas
+M20321084LYCCH,phalanges,stretch,stretch,stretch,VERB,MSU Texas
+M20321084LYCCH,phalanges,workout,workout,workout,VERB,MSU Texas
+M20321084LYCCH,linoleum,paint,paint,paint,VERB,MSU Texas
+M20321084LYCCH,linoleum,oil,oil,oil,NOUN,MSU Texas
+M20321084LYCCH,linoleum,canvas,canvas,canvas,NOUN,MSU Texas
+M20321084LYCCH,linoleum,make art work,make,make,VERB,MSU Texas
+M20321084LYCCH,linoleum,make art work,art,art,VERB,MSU Texas
+M20321084LYCCH,linoleum,make art work,work,work,VERB,MSU Texas
+M20321084LYCCH,linoleum,art,art,art,VERB,MSU Texas
+M20321084LYCCH,ashcan,recycling,recycling,recycl,VERB,MSU Texas
+M20321084LYCCH,beef,eat,eat,eat,VERB,MSU Texas
+M20321084LYCCH,beef,tacos,tacos,taco,NOUN,MSU Texas
+M20321084LYCCH,beef,flavor,flavor,flavor,VERB,MSU Texas
+M20321084LYCCH,beef,cook,cook,cook,VERB,MSU Texas
+M20321084LYCCH,beef,fry,fry,fry,VERB,MSU Texas
+M20321084LYCCH,beef,burritos.,burritos,burrito,NOUN,MSU Texas
+M20321084LYCCH,eggplant,salads,salads,salad,NOUN,MSU Texas
+M20321084LYCCH,eggplant,chop,chop,chop,VERB,MSU Texas
+M20321084LYCCH,eggplant,slice,slice,slice,VERB,MSU Texas
+M20321084LYCCH,eggplant,dressings,dressings,dressing,NOUN,MSU Texas
+M20321084LYCCH,eggplant,smash,smash,smash,VERB,MSU Texas
+M20321084LYCCH,torchlight,light,light,light,VERB,MSU Texas
+M20321084LYCCH,torchlight,able to see,able,able,ADJ,MSU Texas
+M20321084LYCCH,torchlight,able to see,see,see,VERB,MSU Texas
+M20321084LYCCH,torchlight,clarity,clarity,clarity,VERB,MSU Texas
+M20321084LYCCH,arrow,kill,kill,kill,VERB,MSU Texas
+M20321084LYCCH,plum,healthy,healthy,health,VERB,MSU Texas
+M20321084LYCCH,plum,eat,eat,eat,VERB,MSU Texas
+M20321084LYCCH,drug,consume,consume,consume,VERB,MSU Texas
+M20321084LYCCH,drug,addictions,addictions,addiction,VERB,MSU Texas
+M20321084LYCCH,drug,medication,medication,medicine,VERB,MSU Texas
+M20321084LYCCH,groundsman,maintenance,maintenance,maintenance,VERB,MSU Texas
+M20321084LYCCH,strongbox,store,store,store,VERB,MSU Texas
+M20321084LYCCH,case,protect,protect,protect,VERB,MSU Texas
+M20321084LYCCH,avocado,eat,eat,eat,VERB,MSU Texas
+M20321084LYCCH,avocado,slice,slice,slice,VERB,MSU Texas
+M20321084LYCCH,motel,sleep,sleep,sleep,VERB,MSU Texas
+M20321084LYCCH,illustrator,write,write,write,VERB,MSU Texas
+M20321084LYCCH,paperback,reprint,reprint,reprint,VERB,MSU Texas
+M20321084LYCCH,matter,life,life,life,VERB,MSU Texas
+M20321084LYCCH,stick,play,play,play,VERB,MSU Texas
+M20321084LYCCH,stick,point,point,point,VERB,MSU Texas

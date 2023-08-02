@@ -332,3 +332,5 @@ for(z in grouplist){
   group1 = rbind(group3, group1)
   
 }
+
+sum(group1$n)

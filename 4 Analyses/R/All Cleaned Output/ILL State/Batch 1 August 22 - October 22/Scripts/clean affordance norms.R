@@ -24,7 +24,7 @@ library(udpipe)
 library(stopwords)
 
 ##read in data
-master = read.csv("0-Data/Merged_IL_State_10_18.csv", stringsAsFactors = F)
+master = read.csv("0-Data/Merged_IL_State_Batch1.csv", stringsAsFactors = F)
 
 ##only keep the columns we need
 dat = master[ , c(1, 5, 11, 13, 19, 33)]
@@ -202,4 +202,4 @@ combined$lemma[combined$lemma == "smoothy"] = "smoothie"
 #might be a good idea to open this up in excel and spot check
 
 ##Write to .csv
-#write.csv(combined, file = "ILL STATE  Cleaned 10_18_22_2.csv", row.names = F)
+#write.csv(combined, file = "ILL STATE  Cleaned Batch1.csv", row.names = F)

@@ -1,5 +1,5 @@
 ####Combine .csv files into master datasheet####
-setwd("./IL State Batch 2")
+setwd("./IL State Batch 1")
 
 #Get the files names
 files = list.files(pattern = "*.csv")
@@ -15,10 +15,11 @@ unique(dat$Procedure.Trial.Type)
 dat2 = subset(dat,
               dat$Procedure.Trial.Type != "Instruct")
 
+dat2$Procedure.Item = as.numeric(dat2$Procedure.Item)
+
 ##Remove practice trials
 dat2 = subset(dat2,
               dat2$Procedure.Item < 3001)
 
 ##Write to .csv
-#write.csv(dat2, file = "Merged_IL_State_7_21.csv", row.names = F)
-
+#write.csv(dat2, file = "Merged_IL_State_Batch1.csv", row.names = F)

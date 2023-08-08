@@ -260,7 +260,7 @@ for(k in cuelist){
   temp4 = subset(Affordance_Strength,
                  Affordance_Strength$cue == k)
   
-  temp4 = temp4[order(temp4$AFS, decreasing=TRUE), ]
+  temp4 = temp4[order(temp4$AFS, decreasing = TRUE), ]
   
   Affordance_Strength2 = rbind(Affordance_Strength2, temp4)
   

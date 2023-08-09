@@ -215,15 +215,6 @@ cuelist = sort(cuelist)
 #now order verbs dataset alphabetically by cue
 verbs2 = verbs[order(verbs$CUE), ]
 
-##Test here
-test = subset(verbs2,
-              verbs2$CUE == "abacus")
-
-test2 = subset(test,
-               test$RESPONSE.LEMMA == "count")
-
-AFS = nrow(test2)/nrow(test)
-
 ##Maybe write a loop? Outer loop that moves through cues, inner loop then moves through lemma responses
 ##at the end of each iteration, write cue, lemma.response, and value to DF?
 Affordance_Strength = data.frame(matrix(ncol = 4,nrow = 0, dimnames = list(NULL, c("cue", "response", "AFS", "AFSS"))))

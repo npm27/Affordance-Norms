@@ -206,6 +206,31 @@ dat$CUE[dat$CUE == "newlywed"] = "newlyweds"
 verbs = subset(dat,
                dat$POS == "VERB")
 
+ADJ = subset(dat,
+             dat$POS == "ADJ")
+
+ADV = subset(dat,
+             dat$POS == "ADV")
+
+AUX = subset(dat,
+             dat$POS == "AUX")
+
+NOUN = subset(dat,
+              dat$POS == "NOUN")
+
+INTJ = subset(dat,
+             dat$POS == "INTJ")
+
+X = subset(dat,
+           dat$POS == "X")
+
+(nrow(X) + nrow(ADV) + nrow(INTJ) + nrow(ADJ)) / nrow(dat)
+
+nrow(verbs) / nrow(dat) #verb responses accounted for ~60% of total responses
+
+
+###What percentage of final responses is this?
+
 #Extract all unique cues
 cuelist = unique(verbs$CUE)
 
@@ -258,4 +283,4 @@ for(k in cuelist){
 }
 
 #write to file
-#write.csv(Affordance_Strength2, file = "Affordance Norms.csv", row.names = F)
+write.csv(Affordance_Strength2, file = "Affordance Norms.csv", row.names = F)

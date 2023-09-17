@@ -1,0 +1,2953 @@
+Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
+10059201,clothesline,hanging,hanging,hang,VERB,USM
+10059201,clothesline,hitting obstecle,hitting,hit,VERB,USM
+10059201,clothesline,hitting obstecle,obstacle,obstacle,NOUN,USM
+10059201,basil,shredded,shredded,shred,VERB,USM
+10059201,basil,crushed,crushed,crush,VERB,USM
+10059201,basil,sprinkled,sprinkled,sprinkle,VERB,USM
+10059201,deck,stood upon,stood,stand,VERB,USM
+10059201,deck,stood upon,upon,upon,ADP,USM
+10059201,deck,hitting someone,hitting,hit,VERB,USM
+10059201,deck,hitting someone,someone,someone,PRON,USM
+10059201,tablespoon,measurement,measurement,measure,VERB,USM
+10059201,monument,structure,structure,structure,NOUN,USM
+10059201,monument,achievment,achievement,achievement,NOUN,USM
+10059201,wristwatch,telling time,telling,tell,VERB,USM
+10059201,wristwatch,telling time,time,time,NOUN,USM
+10059201,wristwatch,styling choice,styling,style,VERB,USM
+10059201,wristwatch,styling choice,choice,choice,NOUN,USM
+10059201,periscope,looking through,looking,look,VERB,USM
+10059201,periscope,scouting,scouting,scout,VERB,USM
+10059201,periscope,locating,locating,locate,VERB,USM
+10059201,sweatshirt,style,style,style,NOUN,USM
+10059201,sweatshirt,wearing,wearing,wear,VERB,USM
+10059201,sweatshirt,tied,tied,tie,VERB,USM
+10059201,sweatshirt,tossed,tossed,toss,VERB,USM
+10059201,coachman,yelling,yelling,yell,VERB,USM
+10059201,coachman,coaching,coaching,coach,NOUN,USM
+10059201,handclap,loud sound,loud,loud,VERB,USM
+10059201,handclap,loud sound,sound,sound,VERB,USM
+10059201,sangria,mixing,mixing,mix,VERB,USM
+10059201,gumbo,eating,eating,eat,VERB,USM
+10059201,gumbo,mixing,mixing,mix,VERB,USM
+10059201,gumbo,cooking,cooking,cook,VERB,USM
+10059201,shank,stabbing,stabbing,stab,VERB,USM
+10059201,defendant,on the defensive,defensive,defend,VERB,USM
+10059201,defendant,in court,court,court,NOUN,USM
+10059201,nylon,clothing,clothing,clothing,NOUN,USM
+10059201,gentleman,in control of himself,control,control,NOUN,USM
+10059201,jurist,weighing the life of someone on trial,weighing,weigh,VERB,USM
+10059201,jurist,weighing the life of someone on trial,life,life,NOUN,USM
+10059201,jurist,weighing the life of someone on trial,someone,someone,PRON,USM
+10059201,jurist,weighing the life of someone on trial,trial,trial,NOUN,USM
+10059201,tee,shirt,shirt,shirt,NOUN,USM
+10059201,tee,what a golf ball rests on,golf,golf,NOUN,USM
+10059201,tee,what a golf ball rests on,ball,ball,NOUN,USM
+10059201,tee,what a golf ball rests on,rests,rest,NOUN,USM
+10059201,chestnut,nut,nut,nut,ADV,USM
+10059201,vacuum,cleaning,cleaning,clean,VERB,USM
+10059201,harness,control,control,control,NOUN,USM
+10059201,chef,cook,cook,cook,VERB,USM
+10059201,chef,yell orders,yell,yell,VERB,USM
+10059201,chef,yell orders,orders,order,NOUN,USM
+10059201,helicopter,fly,fly,fly,VERB,USM
+10059201,helicopter,scout,scout,scout,VERB,USM
+10059201,helicopter,carry,carry,carry,VERB,USM
+10059201,cattle,cow,cow,cow,NOUN,USM
+10059201,chow,food,food,food,NOUN,USM
+10059201,councilman,leader,leader,lead,VERB,USM
+10059201,councilman,in a commitee,committee,committee,NOUN,USM
+10059201,teahouse,barbie,barbie,barbie,NOUN,USM
+10059201,tourist,foreginer,foreigner,foreigner,NOUN,USM
+10059201,wrist,anatomical location,anatomical,anatomical,ADJ,USM
+10059201,wrist,anatomical location,location,location,NOUN,USM
+10059201,technician,support,support,support,VERB,USM
+10141580,cheek,lay on,lay,lay,VERB,USM
+10141580,cheek,slap,slap,slap,VERB,USM
+10141580,cheek,kiss,kiss,kiss,VERB,USM
+10141580,cheek,punch,punch,punch,VERB,USM
+10141580,cheek,bite,bite,bite,VERB,USM
+10141580,forefinger,flip off,flip,flip,VERB,USM
+10141580,forefinger,poke,poke,poke,VERB,USM
+10141580,companion,marriage,marriage,marry,VERB,USM
+10141580,companion,friend,friend,friend,NOUN,USM
+10141580,companion,neighbor,neighbor,neighbor,NOUN,USM
+10141580,companion,best friend,best,best,ADJ,USM
+10141580,companion,best friend,friend,friend,NOUN,USM
+10141580,companion,adventures,adventures,adventure,NOUN,USM
+10141580,companion,group work,group,group,NOUN,USM
+10141580,companion,group work,work,work,VERB,USM
+10141580,companion,missions,missions,missions,NOUN,USM
+10141580,companion,etc,etc,etc,X,USM
+10141580,grandfather,stories,stories,story,NOUN,USM
+10141580,grandfather,nice conversations,nice,nice,ADJ,USM
+10141580,grandfather,nice conversations,conversations,converse,VERB,USM
+10141580,grandfather,historical information,historical,historical,ADJ,USM
+10141580,grandfather,historical information,information,inform,VERB,USM
+10141580,grandfather,love from a family member,love,love,VERB,USM
+10141580,grandfather,love from a family member,family,family,NOUN,USM
+10141580,grandfather,love from a family member,member,member,NOUN,USM
+10141580,choreographer,could choreograph dance,choreograph,choreograph,NOUN,USM
+10141580,choreographer,could choreograph dance,dance,dance,VERB,USM
+10141580,choreographer,marching movements,marching,march,VERB,USM
+10141580,choreographer,marching movements,movements,movement,NOUN,USM
+10141580,choreographer,camera movements,camera,camera,NOUN,USM
+10141580,choreographer,camera movements,movements,movement,NOUN,USM
+10141580,choreographer,specific routines,specific,specific,ADJ,USM
+10141580,choreographer,specific routines,routines,routine,NOUN,USM
+10141580,junk,significant value,significant,significant,ADJ,USM
+10141580,junk,significant value,value,value,NOUN,USM
+10141580,junk,trash,trash,trash,VERB,USM
+10141580,junk,recycle,recycle,recycle,VERB,USM
+10141580,earmuff,keep ears warm,keep,keep,AUX,USM
+10141580,earmuff,keep ears warm,ears,ears,NOUN,USM
+10141580,earmuff,keep ears warm,warm,warm,VERB,USM
+10141580,earmuff,keep neck warm,keep,keep,AUX,USM
+10141580,earmuff,keep neck warm,neck,neck,NOUN,USM
+10141580,earmuff,keep neck warm,warm,warm,VERB,USM
+10141580,gravestone,funeral service,funeral,funeral,NOUN,USM
+10141580,gravestone,funeral service,service,service,NOUN,USM
+10141580,garment,daily use of wear,daily,daily,ADV,USM
+10141580,garment,daily use of wear,use,use,AUX,USM
+10141580,garment,daily use of wear,wear,wear,VERB,USM
+10141580,garment,wash it,wash,wash,VERB,USM
+10141580,garment,make it dirty,make,make,AUX,USM
+10141580,garment,make it dirty,dirty,dirty,ADJ,USM
+10141580,garment,bite it,bite,bite,VERB,USM
+10141580,garment,tear it,tear,tear,NOUN,USM
+10141580,garment,destroy its fabrics,destroy,destroy,VERB,USM
+10141580,garment,destroy its fabrics,fabrics,fabric,NOUN,USM
+10141580,cantaloupe,consume,consume,consume,VERB,USM
+10141580,cantaloupe,throw,throw,throw,VERB,USM
+10141580,cantaloupe,step on,step,step on,VERB,USM
+10141580,cantaloupe,throw up,throw,throw up,VERB,USM
+10141580,cantaloupe,hug,hug,hug,VERB,USM
+10141580,cantaloupe,smash,smash,smash,VERB,USM
+10141580,cantaloupe,etc,etc,etc,X,USM
+10141580,chronograph,timing a marathon,timing,time,VERB,USM
+10141580,chronograph,timing a marathon,marathon,marathon,NOUN,USM
+10141580,chronograph,a simple job or run,simple,simple,ADJ,USM
+10141580,chronograph,a simple job or run,job,job,NOUN,USM
+10141580,chronograph,a simple job or run,run,run,NOUN,USM
+10141580,brow,tweeze the brow,tweeze,tweeze,VERB,USM
+10141580,brow,tweeze the brow,brow,brow,NOUN,USM
+10141580,brow,raise it,raise,raise,VERB,USM
+10141580,brow,kiss it,kiss,kiss,VERB,USM
+10141580,brow,punch it,punch,punch,VERB,USM
+10141580,gin,consume,consume,consume,VERB,USM
+10141580,gin,toss,toss,toss,VERB,USM
+10141580,gin,hit someone with,hit,hit,VERB,USM
+10141580,gin,hit someone with,someone,someone,PRON,USM
+10141580,gin,throw up,throw,throw up,VERB,USM
+10141580,gin,bathe in it,bathe,bathe,VERB,USM
+10141580,gin,cook with it,cook,cook,VERB,USM
+10141580,gumdrop,chew it,chew,chew,VERB,USM
+10141580,gumdrop,swallow it,swallow,swallow,VERB,USM
+10141580,gumdrop,stick it to the ceiling or wall or floor or desk,stick,stick,VERB,USM
+10141580,gumdrop,stick it to the ceiling or wall or floor or desk,ceiling,ceiling,NOUN,USM
+10141580,gumdrop,stick it to the ceiling or wall or floor or desk,wall,wall,NOUN,USM
+10141580,gumdrop,stick it to the ceiling or wall or floor or desk,floor,floor,NOUN,USM
+10141580,gumdrop,stick it to the ceiling or wall or floor or desk,desk,desk,NOUN,USM
+10141580,gumdrop,throw it at someone,throw,throw,VERB,USM
+10141580,gumdrop,throw it at someone,someone,someone,PRON,USM
+10141580,gumdrop,step on it,step,step on,VERB,USM
+10141580,gumdrop,burn it,burn,burn,VERB,USM
+10141580,gumdrop,freeze it,freeze,freeze,VERB,USM
+10141580,lamp,turn it on,turn,turn,VERB,USM
+10141580,lamp,turn it off,turn,turn,VERB,USM
+10141580,lamp,smash it,smash,smash,VERB,USM
+10141580,lamp,bite it,bite,bite,VERB,USM
+10141580,lamp,sit on it,sit,sit,VERB,USM
+10141580,lamp,step on it,step,step on,VERB,USM
+10141580,lamp,clean it,clean,clean,VERB,USM
+10141580,guillotine,killing people,killing,kill,VERB,USM
+10141580,guillotine,killing people,people,people,NOUN,USM
+10141580,guillotine,cutting fruit or vegetables,cutting,cut,VERB,USM
+10141580,guillotine,cutting fruit or vegetables,fruit,fruit,NOUN,USM
+10141580,guillotine,cutting fruit or vegetables,vegetables,vegetables,NOUN,USM
+10141580,guillotine,cut wood,cut,cut,VERB,USM
+10141580,guillotine,cut wood,wood,wood,NOUN,USM
+10141580,chip,eat,eat,eat,VERB,USM
+10141580,chip,smash,smash,smash,VERB,USM
+10141580,chip,throw,throw,throw,VERB,USM
+10141580,chip,punch,punch,punch,VERB,USM
+10141580,chip,kiss it,kiss,kiss,VERB,USM
+10141580,chip,smell it,smell,smell,VERB,USM
+10141580,chip,swallow it whole,swallow,swallow,VERB,USM
+10141580,chip,swallow it whole,whole,whole,ADJ,USM
+10141580,chip,step on it,step,step on,VERB,USM
+10141580,chip,talk to it,talk,talk,VERB,USM
+10141580,carp,feed cats,feed,feed,VERB,USM
+10141580,carp,feed cats,cats,cat,NOUN,USM
+10141580,carp,eat it,eat,eat,VERB,USM
+10141580,carp,skin it,skin,skin,NOUN,USM
+10141580,carp,keep it as a pet,keep,keep,AUX,USM
+10141580,carp,keep it as a pet,pet,pet,VERB,USM
+10141580,carp,pet it,pet,pet,VERB,USM
+10141580,carp,kick it,kick,kick,VERB,USM
+10141580,carp,swim with it,swim,swim,VERB,USM
+10141580,carp,fling it around on a fishpole,fling,fling,VERB,USM
+10141580,carp,fling it around on a fishpole,around,around,ADV,USM
+10141580,carp,fling it around on a fishpole,fish,fish,NOUN,USM
+10141580,carp,sit on it,sit,sit,VERB,USM
+10141580,carp,run with it,run,run,NOUN,USM
+10141580,carp,squeeze it,squeeze,squeeze,VERB,USM
+10141580,cigar,use it,use,use,AUX,USM
+10141580,cigar,burn people with it,burn,burn,VERB,USM
+10141580,cigar,burn people with it,people,people,NOUN,USM
+10141580,cigar,bite it,bite,bite,VERB,USM
+10141580,cigar,throw it,throw,throw,VERB,USM
+10141580,classmate,talk to,talk,talk,VERB,USM
+10141580,classmate,do group work with,group,group,NOUN,USM
+10141580,classmate,do group work with,work,work,VERB,USM
+10141580,classmate,study with,study,study,VERB,USM
+10141580,classmate,befriend,befriend,friend,VERB,USM
+10141580,buck,eat it,eat,eat,VERB,USM
+10141580,buck,pet it,pet,pet,VERB,USM
+10141580,buck,keep it as a pet,keep,keep,AUX,USM
+10141580,buck,keep it as a pet,pet,pet,VERB,USM
+10141580,buck,punch it,punch,punch,VERB,USM
+10141580,buck,hunt for it,hunt,hunt,VERB,USM
+10141580,buck,ride it,ride,ride,VERB,USM
+10141580,buck,talk to it,talk,talk,VERB,USM
+10141580,buck,hang it on the wall,hang,hang,VERB,USM
+10141580,buck,hang it on the wall,wall,wall,NOUN,USM
+10141580,hairstylist,make hairstyles,make,make,AUX,USM
+10141580,hairstylist,make hairstyles,hairstyles,style,VERB,USM
+10141580,donkey,pet it,pet,pet,VERB,USM
+10141580,donkey,smack it,smack,smack,VERB,USM
+10141580,donkey,eat it,eat,eat,VERB,USM
+10141580,donkey,ride it,ride,ride,VERB,USM
+10141580,donkey,make it a pet,make,make,AUX,USM
+10141580,donkey,make it a pet,pet,pet,VERB,USM
+10141580,doughnut,eat it,eat,eat,VERB,USM
+10141580,doughnut,throw it,throw,throw,VERB,USM
+10141580,doughnut,stick your finger through the hole,stick,stick,NOUN,USM
+10141580,doughnut,stick your finger through the hole,finger,finger,NOUN,USM
+10141580,doughnut,stick your finger through the hole,hole,hole,NOUN,USM
+10141580,doughnut,sit on it,sit,sit,VERB,USM
+10141580,doughnut,share it with someone,share,share,NOUN,USM
+10141580,doughnut,share it with someone,someone,someone,PRON,USM
+10141580,doornail,nail it in the door,nail,nail,VERB,USM
+10141580,doornail,nail it in the door,door,door,NOUN,USM
+10141580,doornail,use it to stab someone,use,use,AUX,USM
+10141580,doornail,use it to stab someone,stab,stab,VERB,USM
+10141580,doornail,use it to stab someone,someone,someone,PRON,USM
+10141580,doornail,use it for other wooden matieral,use,use,AUX,USM
+10141580,doornail,use it for other wooden matieral,wooden,wooden,ADV,USM
+10141580,doornail,use it for other wooden matieral,material,material,NOUN,USM
+10141580,chocolate,eat it,eat,eat,VERB,USM
+10141580,chocolate,step on it,step,step on,VERB,USM
+10141580,chocolate,sit on it,sit,sit,VERB,USM
+10141580,chocolate,throw it,throw,throw,VERB,USM
+10141580,chocolate,share it with someone,share,share,VERB,USM
+10141580,chocolate,share it with someone,someone,someone,PRON,USM
+10141580,chocolate,use it in a recipe,use,use,AUX,USM
+10141580,chocolate,use it in a recipe,recipe,recipe,NOUN,USM
+10141580,chocolate,use it for a shake or a drink,use,use,AUX,USM
+10141580,chocolate,use it for a shake or a drink,shake,shake,NOUN,USM
+10141580,chocolate,use it for a shake or a drink,drink,drink,NOUN,USM
+10163652,joint,smoke,smoke,smoke,VERB,USM
+10163652,joint,bend,bend,bend,VERB,USM
+10163652,joint,connection,connection,connect,VERB,USM
+10163652,toast,eat,eat,eat,VERB,USM
+10163652,toast,make sandwiches with,make,make,AUX,USM
+10163652,toast,make sandwiches with,sandwiches,sandwich,NOUN,USM
+10163652,scarf,fashion,fashion,fashion,NOUN,USM
+10163652,scarf,warmth,warmth,warm,VERB,USM
+10163652,stomp,make noise,make,make,AUX,USM
+10163652,stomp,make noise,noise,noise,VERB,USM
+10163652,stomp,create attention,create,create,VERB,USM
+10163652,stomp,create attention,attention,attention,VERB,USM
+10163652,stem,transport water and nutrients,transport,transport,VERB,USM
+10163652,stem,transport water and nutrients,water,water,NOUN,USM
+10163652,stem,transport water and nutrients,nutrients,nutrient,NOUN,USM
+10163652,thorn,prick finger,prick,prick,VERB,USM
+10163652,thorn,prick finger,finger,finger,NOUN,USM
+10163652,thorn,deter predators,deter,deter,VERB,USM
+10163652,thorn,deter predators,predators,predator,NOUN,USM
+10163652,shopper,spend money,spend,spend,VERB,USM
+10163652,shopper,spend money,money,money,NOUN,USM
+10163652,roosters,wake up call,wake,wake,VERB,USM
+10163652,roosters,wake up call,call,call,NOUN,USM
+10163652,roosters,fertilize eggs,fertilize,fertilize,VERB,USM
+10163652,roosters,fertilize eggs,eggs,egg,NOUN,USM
+10163652,spine,movement,movement,move,VERB,USM
+10163652,spine,structure,structure,structure,NOUN,USM
+10163652,thread,sew,sew,sew,VERB,USM
+10163652,sandbox,play,play,play,VERB,USM
+10163652,thimble,protect finger,protect,protect,VERB,USM
+10163652,thimble,protect finger,finger,finger,NOUN,USM
+10163652,sex,pleasure,pleasure,pleasure,VERB,USM
+10163652,sex,reproduction,reproduction,reproduce,VERB,USM
+10163652,homemaker,clean,clean,clean,VERB,USM
+10163652,mouthpiece,protect mouth in sports,protect,protect,VERB,USM
+10163652,mouthpiece,protect mouth in sports,mouth,mouth,NOUN,USM
+10163652,mouthpiece,protect mouth in sports,sports,sport,NOUN,USM
+10163652,riverboat,transport,transport,transport,VERB,USM
+10163652,teacher,interact with kids,interact,interact,NOUN,USM
+10163652,teacher,interact with kids,kids,kid,NOUN,USM
+10163652,teacher,explore new bound,explore,explore,VERB,USM
+10163652,teacher,explore new bound,new,new,ADJ,USM
+10163652,teacher,explore new bound,bound,bound,ADJ,USM
+10163652,toastmaster,make toast,make,make,AUX,USM
+10163652,toastmaster,make toast,toast,toast,NOUN,USM
+10163652,teabag,make tea,make,make,AUX,USM
+10163652,teabag,make tea,tea,tea,NOUN,USM
+10163652,rhubarb,eat,eat,eat,VERB,USM
+10163652,publication,share information,share,share,VERB,USM
+10163652,publication,share information,information,inform,VERB,USM
+10163652,jawbreaker,eat,eat,eat,VERB,USM
+10163652,smuggler,transport things illegally,transport,transport,VERB,USM
+10163652,smuggler,transport things illegally,things,thing,NOUN,USM
+10163652,smuggler,transport things illegally,illegally,illegally,ADV,USM
+10163652,schoolhouse,learn,learn,learn,VERB,USM
+10163652,strawberry,eat,eat,eat,VERB,USM
+10163652,strawberry,smell good,smell,smell,VERB,USM
+10163652,strawberry,smell good,good,good,ADJ,USM
+10163652,lizard,watch play,watch,watch,VERB,USM
+10163652,lizard,watch play,play,play,VERB,USM
+10163652,sister,friend,friend,friend,VERB,USM
+10163652,sleeve,warmth,warmth,warm,VERB,USM
+10163652,turf,play soccer/sports,play,play,VERB,USM
+10163652,turf,play soccer/sports,soccer,soccer,NOUN,USM
+10163652,turf,play soccer/sports,sports,sport,NOUN,USM
+470603,publication,reading,reading,read,NOUN,USM
+470603,publication,writing,writing,write,VERB,USM
+470603,publication,exposure,exposure,expose,VERB,USM
+470603,publication,learning,learning,learn,VERB,USM
+470603,publication,journaling,journalism,journalism,NOUN,USM
+470603,mouthpiece,instrument,instrument,instrument,NOUN,USM
+470603,mouthpiece,talking,talking,talk,VERB,USM
+470603,mouthpiece,guard,guard,guard,VERB,USM
+470603,mouthpiece,teeth,teeth,tooth,NOUN,USM
+470603,mouthpiece,cover,cover,cover,VERB,USM
+470603,mouthpiece,sleep,sleep,sleep,VERB,USM
+470603,shopper,groceries,groceries,grocery,NOUN,USM
+470603,shopper,items,items,item,NOUN,USM
+470603,shopper,delivery,delivery,deliver,VERB,USM
+470603,shopper,need,need,need,VERB,USM
+470603,shopper,clothes,clothes,clothe,NOUN,USM
+470603,homemaker,wife,wife,wife,NOUN,USM
+470603,homemaker,husband,husband,husband,NOUN,USM
+470603,homemaker,cleaning,cleaning,clean,VERB,USM
+470603,homemaker,teaching,teaching,teach,VERB,USM
+470603,homemaker,child rearing,child,child,NOUN,USM
+470603,homemaker,child rearing,rearing,rear,VERB,USM
+470603,homemaker,friend,friend,friend,VERB,USM
+470603,sister,friend,friend,friend,VERB,USM
+470603,sister,confidant,confidant,confident,NOUN,USM
+470603,schoolhouse,learning,learning,learn,VERB,USM
+470603,schoolhouse,teaching,teaching,teach,VERB,USM
+470603,schoolhouse,helping,helping,help,VERB,USM
+470603,schoolhouse,books,books,book,NOUN,USM
+470603,schoolhouse,work,work,work,VERB,USM
+470603,schoolhouse,scheduling,scheduling,schedule,NOUN,USM
+470603,schoolhouse,shelter,shelter,shelter,VERB,USM
+470603,schoolhouse,playing,playing,play,VERB,USM
+470603,schoolhouse,singing,singing,singe,VERB,USM
+470603,schoolhouse,writing,writing,write,VERB,USM
+470603,schoolhouse,drawing,drawing,drawe,VERB,USM
+470603,teacher,learning,learning,learn,VERB,USM
+470603,teacher,working,working,work,VERB,USM
+470603,teacher,grading,grading,grade,VERB,USM
+470603,teacher,ideas,ideas,idea,NOUN,USM
+470603,teacher,friend,friend,friend,VERB,USM
+470603,teacher,employee,employee,employee,NOUN,USM
+470603,stomp,foot,foot,foot,NOUN,USM
+470603,stomp,noise,noise,noise,NOUN,USM
+470603,stomp,distraction,distraction,distract,VERB,USM
+470603,stomp,hurt,hurt,hurt,VERB,USM
+470603,sleeve,wiping,wiping,wipe,VERB,USM
+470603,sleeve,chewing,chewing,chew,VERB,USM
+470603,sleeve,warmth,warmth,warm,VERB,USM
+470603,sleeve,covering,covering,cover,VERB,USM
+470603,sleeve,hiding,hiding,hi,VERB,USM
+470603,joint,pipe,pipe,pipe,NOUN,USM
+470603,joint,faucets,faucets,faucet,NOUN,USM
+470603,joint,water,water,water,NOUN,USM
+470603,joint,body,body,body,NOUN,USM
+470603,joint,weed,weed,we,VERB,USM
+470603,joint,building,building,building,NOUN,USM
+470603,scarf,hiding,hiding,hi,VERB,USM
+470603,scarf,warmth,warmth,warm,VERB,USM
+470603,scarf,fashion,fashion,fashion,NOUN,USM
+470603,scarf,blanket,blanket,blanket,NOUN,USM
+470603,scarf,decoration,decoration,decorate,VERB,USM
+470603,toastmaster,food,food,food,NOUN,USM
+470603,toastmaster,bread,bread,bread,NOUN,USM
+470603,toastmaster,pizza,pizza,pizza,NOUN,USM
+470603,toastmaster,heating,heating,heat,VERB,USM
+470603,toastmaster,toasting,toasting,toast,VERB,USM
+470603,smuggler,drugs,drugs,drug,NOUN,USM
+470603,smuggler,money,money,money,NOUN,USM
+470603,smuggler,items,items,item,NOUN,USM
+470603,smuggler,crossing,crossing,cross,VERB,USM
+470603,smuggler,items,items,item,NOUN,USM
+470603,smuggler,work,work,work,VERB,USM
+470603,smuggler,hiding,hiding,hi,VERB,USM
+470603,strawberry,jam,jam,jam,NOUN,USM
+470603,strawberry,eat,eat,eat,VERB,USM
+470603,strawberry,plants,plants,plant,VERB,USM
+470603,strawberry,nutrients,nutrients,nutrient,NOUN,USM
+470603,strawberry,vitamins,vitamins,vitamin,NOUN,USM
+470603,strawberry,animals,animals,animal,NOUN,USM
+470603,strawberry,coloring,coloring,coloring,NOUN,USM
+470603,strawberry,drawing,drawing,drawe,VERB,USM
+470603,turf,baseball,baseball,baseball,NOUN,USM
+470603,turf,football,football,football,NOUN,USM
+470603,turf,soccer,soccer,soccer,NOUN,USM
+470603,turf,grass,grass,grass,NOUN,USM
+470603,turf,yard,yard,yard,X,USM
+470603,turf,replacing,replacing,replace,VERB,USM
+470603,turf,looks,looks,look,VERB,USM
+470603,turf,ease,ease,ease,INTJ,USM
+470603,jawbreaker,candy,candy,candy,NOUN,USM
+470603,jawbreaker,food,food,food,NOUN,USM
+470603,jawbreaker,sugar,sugar,sugar,NOUN,USM
+470603,jawbreaker,kids,kids,kid,NOUN,USM
+470603,jawbreaker,choking,choking,chok,VERB,USM
+470603,stem,plant,plant,plant,NOUN,USM
+470603,stem,tree,tree,tree,NOUN,USM
+470603,stem,rooting,rooting,rooting,NOUN,USM
+470603,stem,propagate,propagate,propagate,VERB,USM
+470603,stem,learning,learning,learn,VERB,USM
+470603,stem,work,work,work,NOUN,USM
+470603,stem,entertainment,entertainment,entertainment,NOUN,USM
+470603,stem,kids ,kids,kid,NOUN,USM
+470603,sex,fun,fun,fun,VERB,USM
+470603,sex,children,children,child,NOUN,USM
+470603,sex,pleasure,pleasure,pleasure,VERB,USM
+470603,sex,pain,pain,pain,VERB,USM
+470603,sex,domination,domination,dominate,VERB,USM
+470603,sex,fear,fear,fear,NOUN,USM
+470603,sex,dependence,dependence,dependence,NOUN,USM
+470603,sex,sexuality,sexuality,sexuality,NOUN,USM
+470603,sex,orgasm,orgasm,orgasm,VERB,USM
+470603,teabag,drink,drink,drink,VERB,USM
+470603,teabag,water,water,water,NOUN,USM
+470603,teabag,caffeine,caffeine,caffeine,VERB,USM
+470603,teabag,dehydration,dehydration,dehydrate,VERB,USM
+470603,teabag,liquid,liquid,liquid,AUX,USM
+470603,teabag,illness,illness,illness,NOUN,USM
+470603,teabag,dry mouth,dry,dry,ADJ,USM
+470603,teabag,dry mouth,mouth,mouth,NOUN,USM
+470603,toast,food,food,food,NOUN,USM
+470603,toast,illness,illness,illness,NOUN,USM
+470603,toast,eating,eating,eat,VERB,USM
+470603,toast,nutrients,nutrients,nutrient,NOUN,USM
+470603,toast,calories,calories,calory,NOUN,USM
+470603,toast,butter,butter,butter,NOUN,USM
+470603,toast,sandwich,sandwich,sandwich,NOUN,USM
+470603,toast,lunch,lunch,lunch,NOUN,USM
+470603,toast,dinner,dinner,dinner,NOUN,USM
+470603,toast,breakfast,breakfast,breakfast,NOUN,USM
+470603,toast,spaghetti,spaghetti,spaghetti,NOUN,USM
+470603,toast,cheese ,cheese,cheese,NOUN,USM
+470603,riverboat,fun,fun,fun,VERB,USM
+470603,riverboat,living,living,live,VERB,USM
+470603,riverboat,casino,casino,casino,NOUN,USM
+470603,riverboat,cruise,cruise,cruise,NOUN,USM
+470603,riverboat,tour,tour,tour,VERB,USM
+470603,riverboat,fishing,fishing,fish,VERB,USM
+470603,riverboat,swimming,swimming,swimm,VERB,USM
+470603,riverboat,travel,travel,travel,VERB,USM
+470603,riverboat,destination,destination,destination,NOUN,USM
+470603,riverboat,rescue,rescue,rescue,VERB,USM
+470603,rhubarb,food,food,food,NOUN,USM
+470603,rhubarb,painting,painting,paint,NOUN,USM
+470603,rhubarb,coloring,coloring,coloring,NOUN,USM
+470603,rhubarb,remedies,remedies,remedy,VERB,USM
+470603,thimble,needle,needle,needle,NOUN,USM
+470603,thimble,string,string,str,VERB,USM
+470603,thimble,finger,finger,finger,NOUN,USM
+470603,thimble,protection,protection,protect,VERB,USM
+470603,thimble,decoration,decoration,decorate,VERB,USM
+470603,thimble,collection,collection,collect,VERB,USM
+470603,thimble,antique,antique,antique,ADJ,USM
+470603,spine,stand,stand,stand,VERB,USM
+470603,spine,move,move,move,VERB,USM
+470603,spine,balance,balance,balance,VERB,USM
+470603,spine,book,book,book,NOUN,USM
+470603,spine,bones,bones,bone,NOUN,USM
+470603,spine,protection,protection,protect,VERB,USM
+470603,thread,sewing,sewing,sew,VERB,USM
+470603,thread,clothes,clothes,clothe,NOUN,USM
+470603,thread,decoration,decoration,decorate,VERB,USM
+470603,thread,fixing,fixing,fix,NOUN,USM
+470603,thread,funiture,furniture,furniture,NOUN,USM
+470603,thread,tying,tying,tie,VERB,USM
+470603,thread,lasso,lasso,lasso,INTJ,USM
+470603,thread,bunching,bunching,bunch,NOUN,USM
+470603,thread,gathering,gathering,gather,VERB,USM
+470603,thread,material,material,material,NOUN,USM
+470603,roosters,chicks,chicks,chick,NOUN,USM
+470603,roosters,fertilization,fertilization,fertilize,VERB,USM
+470603,roosters,protection,protection,protect,VERB,USM
+470603,roosters,noise,noise,noise,NOUN,USM
+470603,roosters,friend,friend,friend,NOUN,USM
+470603,roosters,money,money,money,NOUN,USM
+470603,negligee,sex,sex,sex,VERB,USM
+470603,negligee,cover,cover,cover,VERB,USM
+470603,negligee,body,body,body,NOUN,USM
+470603,negligee,seduction,seduction,seduce,VERB,USM
+470603,negligee,teasing,teasing,tease,VERB,USM
+470603,negligee,wedding,wedding,wedding,NOUN,USM
+470603,negligee,day,day,day,NOUN,USM
+470603,negligee,night,night,night,NOUN,USM
+470603,negligee,temptation,temptation,tempt,VERB,USM
+470603,negligee,play,play,play,VERB,USM
+470603,thorn,pike,pike,pike,NOUN,USM
+470603,thorn,weeds,weeds,weed,NOUN,USM
+470603,thorn,decoration,decoration,decorate,VERB,USM
+470603,thorn,pain,pain,pain,NOUN,USM
+470603,thorn,protection,protection,protect,VERB,USM
+470603,thorn,safety,safety,safety,VERB,USM
+470603,thorn,cover,cover,cover,NOUN,USM
+470603,thorn,hiding,hiding,hi,VERB,USM
+470603,thorn,fruit,fruit,fruit,NOUN,USM
+470603,thorn,plant,plant,plant,NOUN,USM
+470603,lizard,bugs,bugs,bug,NOUN,USM
+470603,lizard,pet,pet,pet,NOUN,USM
+470603,lizard,protection,protection,protect,VERB,USM
+470603,sandbox,play,play,play,VERB,USM
+470603,sandbox,animals,animals,animal,NOUN,USM
+470603,sandbox,sand,sand,sand,NOUN,USM
+470603,sandbox,soil,soil,soil,NOUN,USM
+470603,sandbox,chickens,chickens,chicken,NOUN,USM
+470603,sandbox,storage,storage,store,VERB,USM
+470603,sandbox,kids,kids,kid,NOUN,USM
+470603,sandbox,yard,yard,yard,X,USM
+470603,sandbox,play,play,play,VERB,USM
+annakate_pettis1,mathematician,tutor,tutor,tutor,VERB,USM
+annakate_pettis1,mathematician,study,study,study,VERB,USM
+annakate_pettis1,mathematician,teacher,teacher,teacher,NOUN,USM
+annakate_pettis1,swimsuit,worn,worn,wear,VERB,USM
+annakate_pettis1,swimsuit,bought,bought,buy,NOUN,USM
+annakate_pettis1,swimsuit,cover up,cover,cover,VERB,USM
+annakate_pettis1,swimsuit,swim,swim,swim,VERB,USM
+annakate_pettis1,alcohol,drink,drink,drink,VERB,USM
+annakate_pettis1,alcohol,cook,cook,cook,VERB,USM
+annakate_pettis1,alcohol,rub,rub,rub,NOUN,USM
+annakate_pettis1,alcohol,disinfect,disinfect,disinfect,VERB,USM
+annakate_pettis1,gun,shoot,shoot,shoot,VERB,USM
+annakate_pettis1,gun,clean,clean,clean,ADJ,USM
+annakate_pettis1,gun,collect,collect,collect,VERB,USM
+annakate_pettis1,gun,protect,protect,protect,VERB,USM
+annakate_pettis1,gun,hunt,hunt,hunt,VERB,USM
+annakate_pettis1,gun,practice,practice,practice,VERB,USM
+annakate_pettis1,crate,hold,hold,hold,INTJ,USM
+annakate_pettis1,crate,keep,keep,keep,VERB,USM
+annakate_pettis1,crate,collect,collect,collect,VERB,USM
+annakate_pettis1,crate,dog bed,dog,dog bed,VERB,USM
+annakate_pettis1,cornflakes,eat,eat,eat,VERB,USM
+annakate_pettis1,cornflakes,cook,cook,cook,VERB,USM
+annakate_pettis1,cornflakes,bake,bake,bake,VERB,USM
+annakate_pettis1,cornflakes,store,store,store,VERB,USM
+annakate_pettis1,clipper,trim nails,trim,trim,VERB,USM
+annakate_pettis1,clipper,trim nails,nails,nails,NOUN,USM
+annakate_pettis1,clipper,trim bushes,trim,trim,VERB,USM
+annakate_pettis1,clipper,trim bushes,bushes,bushes,NOUN,USM
+annakate_pettis1,clipper,trim hair,trim,trim,VERB,USM
+annakate_pettis1,clipper,trim hair,hair,hair,NOUN,USM
+annakate_pettis1,marigold,smell,smell,smell,VERB,USM
+annakate_pettis1,marigold,grow,grow,grow,VERB,USM
+annakate_pettis1,marigold,collect,collect,collect,VERB,USM
+annakate_pettis1,marigold,look at,look,look,VERB,USM
+annakate_pettis1,calender,reminder,reminder,remind,VERB,USM
+annakate_pettis1,calender,events,events,event,NOUN,USM
+annakate_pettis1,calender,bills,bills,bills,NOUN,USM
+annakate_pettis1,tangerine,eat,eat,eat,VERB,USM
+annakate_pettis1,tangerine,grow,grow,grow,VERB,USM
+annakate_pettis1,tangerine,plant,plant,plant,NOUN,USM
+annakate_pettis1,tangerine,cook,cook,cook,VERB,USM
+annakate_pettis1,tangerine,bake,bake,bake,VERB,USM
+annakate_pettis1,tangerine,store,store,store,NOUN,USM
+annakate_pettis1,handwork,model,model,model,NOUN,USM
+annakate_pettis1,toga,wear,wear,wear,VERB,USM
+annakate_pettis1,toga,hang,hang,hang,VERB,USM
+annakate_pettis1,toga,party,party,party,VERB,USM
+annakate_pettis1,neckerchief,sweat,sweat,sweat,VERB,USM
+annakate_pettis1,neckerchief,napkin,napkin,napkin,NOUN,USM
+annakate_pettis1,neckerchief,wipe,wipe,wipe,VERB,USM
+annakate_pettis1,neckerchief,tear,tear,tear,NOUN,USM
+annakate_pettis1,neckerchief,wear,wear,wear,VERB,USM
+annakate_pettis1,concrete,drive,drive,drive,VERB,USM
+annakate_pettis1,concrete,park,park,park,NOUN,USM
+annakate_pettis1,concrete,walk,walk,walk,VERB,USM
+annakate_pettis1,concrete,foundation ,foundation,foundation,NOUN,USM
+annakate_pettis1,licence,drive,drive,drive,VERB,USM
+annakate_pettis1,licence,id,id,identify,VERB,USM
+annakate_pettis1,licence,carry,carry,carry,VERB,USM
+annakate_pettis1,licence,hold,hold,hold,VERB,USM
+annakate_pettis1,licence,show,show,show,VERB,USM
+annakate_pettis1,licence,keep,keep,keep,VERB,USM
+annakate_pettis1,peony,smell,smell,smell,VERB,USM
+annakate_pettis1,peony,grow,grow,grow,VERB,USM
+annakate_pettis1,peony,show,show,show,VERB,USM
+annakate_pettis1,peony,bouquet,bouquet,bouquet,NOUN,USM
+annakate_pettis1,peony,plant,plant,plant,NOUN,USM
+annakate_pettis1,peony,harvest,harvest,harvest,VERB,USM
+annakate_pettis1,river,swim,swim,swim,VERB,USM
+annakate_pettis1,river,fish,fish,fish,NOUN,USM
+annakate_pettis1,river,raft,raft,raft,VERB,USM
+annakate_pettis1,river,kayak,kayak,kayak,VERB,USM
+annakate_pettis1,river,canoe,canoe,canoe,VERB,USM
+annakate_pettis1,river,camp,camp,camp,VERB,USM
+annakate_pettis1,river,boat,boat,boat,NOUN,USM
+annakate_pettis1,river,float,float,float,VERB,USM
+annakate_pettis1,river,drink,drink,drink,VERB,USM
+annakate_pettis1,fertilizer,fertilize,fertilize,fertilize,VERB,USM
+annakate_pettis1,fertilizer,harvest,harvest,harvest,VERB,USM
+annakate_pettis1,fertilizer,plant,plant,plant,NOUN,USM
+annakate_pettis1,fertilizer,grow,grow,grow,VERB,USM
+annakate_pettis1,padding,protect,protect,protect,VERB,USM
+annakate_pettis1,padding,barrier,barrier,barrier,NOUN,USM
+annakate_pettis1,padding,sleep,sleep,sleep,VERB,USM
+annakate_pettis1,padding,cushion,cushion,cushion,NOUN,USM
+annakate_pettis1,airman,fly,fly,fly,VERB,USM
+annakate_pettis1,airman,protect,protect,protect,VERB,USM
+annakate_pettis1,airman,service,service,service,NOUN,USM
+annakate_pettis1,airplane,fly,fly,fly,VERB,USM
+annakate_pettis1,airplane,travel,travel,travel,VERB,USM
+annakate_pettis1,airplane,land,land,land,NOUN,USM
+annakate_pettis1,airplane,carry,carry,carry,VERB,USM
+annakate_pettis1,airplane,feed,feed,feed,VERB,USM
+annakate_pettis1,airplane,sleep,sleep,sleep,VERB,USM
+annakate_pettis1,airplane,read,read,read,VERB,USM
+annakate_pettis1,vermicelli,eat?,eat,eat,VERB,USM
+annakate_pettis1,mantelpiece,decorate,decorate,decorate,VERB,USM
+annakate_pettis1,mantelpiece,hang,hang,hang,VERB,USM
+annakate_pettis1,mantelpiece,show,show,show,VERB,USM
+annakate_pettis1,dustbin,trash,trash,trash,INTJ,USM
+annakate_pettis1,dustbin,collect,collect,collect,VERB,USM
+annakate_pettis1,dustbin,hold,hold,hold,VERB,USM
+annakate_pettis1,dustbin,store,store,store,VERB,USM
+annakate_pettis1,cymbals,play,play,play,VERB,USM
+annakate_pettis1,cymbals,march,march,march,VERB,USM
+annakate_pettis1,cymbals,hold,hold,hold,VERB,USM
+annakate_pettis1,cymbals,crash,crash,crash,VERB,USM
+annakate_pettis1,log,sit,sit,sit,VERB,USM
+annakate_pettis1,log,burn,burn,burn,VERB,USM
+annakate_pettis1,log,build,build,build,VERB,USM
+annakate_pettis1,log,roll,roll,roll,VERB,USM
+annakate_pettis1,supermarket,buy,buy,buy,VERB,USM
+annakate_pettis1,supermarket,store,store,store,VERB,USM
+annakate_pettis1,supermarket,food,food,food,NOUN,USM
+annakate_pettis1,supermarket,cart,cart,cart,NOUN,USM
+annakate_pettis1,supermarket,walk,walk,walk,VERB,USM
+annakate_pettis1,supermarket,check out,check,check,VERB,USM
+annakate_pettis1,package,deliver,deliver,deliver,VERB,USM
+annakate_pettis1,package,send,send,send,VERB,USM
+annakate_pettis1,package,transport,transport,transport,VERB,USM
+annakate_pettis1,package,travel,travel,travel,VERB,USM
+annakate_pettis1,package,hold,hold,hold,VERB,USM
+annakate_pettis1,package,contain,contain,contain,VERB,USM
+annakate_pettis1,armor,protect,protect,protect,VERB,USM
+annakate_pettis1,armor,shield,shield,shield,VERB,USM
+annakate_pettis1,armor,wear,wear,wear,VERB,USM
+annakate_pettis1,leaflet,hold,hold,hold,VERB,USM
+annakate_pettis1,leaflet,divide,divide,divide,VERB,USM
+w10066664_ah,wrestler,fight,fight,fight,VERB,USM
+w10066664_ah,chain,wear,wear,wear,VERB,USM
+w10066664_ah,chain,break,break,break,VERB,USM
+w10066664_ah,blanket,cover,cover,cover,VERB,USM
+w10066664_ah,blanket,keep warm,keep,keep,AUX,USM
+w10066664_ah,blanket,keep warm,warm,warm,VERB,USM
+w10066664_ah,blowgun,make ballons,make,make,AUX,USM
+w10066664_ah,blowgun,make ballons,balloon,balloon,NOUN,USM
+w10066664_ah,bamboo,eat,eat,eat,VERB,USM
+w10066664_ah,bamboo,break,break,break,VERB,USM
+w10066664_ah,automotive,drive,drive,drive,VERB,USM
+w10066664_ah,camisole,use,use,use,AUX,USM
+w10066664_ah,vegetation,eat,eat,eat,VERB,USM
+w10066664_ah,vegetation,grow,grow,grow,VERB,USM
+w10066664_ah,bib,wipe baby face,wipe,wipe,VERB,USM
+w10066664_ah,bib,wipe baby face,baby,baby,NOUN,USM
+w10066664_ah,bib,wipe baby face,face,face,NOUN,USM
+w10066664_ah,villager,create a family,create,create,VERB,USM
+w10066664_ah,villager,create a family,family,family,NOUN,USM
+w10066664_ah,bread,eat,eat,eat,VERB,USM
+w10066664_ah,bread,make,make,make,AUX,USM
+w10066664_ah,bread,break,break,break,VERB,USM
+w10066664_ah,blender,make food,make,make,AUX,USM
+w10066664_ah,blender,make food,food,food,NOUN,USM
+w10066664_ah,blender,make juices,make,make,AUX,USM
+w10066664_ah,blender,make juices,juices,juice,VERB,USM
+w10066664_ah,colleague,friend,friend,friend,VERB,USM
+w10066664_ah,colleague,teamwork,teamwork,teamwork,NOUN,USM
+w10066664_ah,colleague,collaborate,collaborate,collaborate,VERB,USM
+w10066664_ah,wheelhouse,wheel,wheel,wheel,NOUN,USM
+w10066664_ah,crab,eat,eat,eat,VERB,USM
+w10066664_ah,board,write,write,write,VERB,USM
+w10066664_ah,birdbath,for birds,birds,bird,NOUN,USM
+w10066664_ah,windsock,wind,wind,wind,NOUN,USM
+w10066664_ah,buttercup,eat,eat,eat,VERB,USM
+w10066664_ah,bell,ring,ring,ring,NOUN,USM
+w10066664_ah,drum,beat,beat,beat,VERB,USM
+w10066664_ah,drum,hit,hit,hit,VERB,USM
+w10066664_ah,diaphragm,models,models,models,NOUN,USM
+w10066664_ah,concert,listen to music,listen,listen,VERB,USM
+w10066664_ah,concert,listen to music,music,music,VERB,USM
+w10066664_ah,aftershave,shave face,shave,shave,VERB,USM
+w10066664_ah,aftershave,shave face,face,face,NOUN,USM
+w10066664_ah,cement,build buildings,build,build,VERB,USM
+w10066664_ah,cement,build buildings,buildings,building,NOUN,USM
+w10066664_ah,cement,create sidewalk,create,create,VERB,USM
+w10066664_ah,cement,create sidewalk,sidewalk,sidewalk,NOUN,USM
+w10066664_ah,briefcase,for paperwork,paperwork,paperwork,NOUN,USM
+w10066664_ah,uniform,wear for work,wear,wear,VERB,USM
+w10066664_ah,uniform,wear for work,work,work,NOUN,USM
+w10066664_ah,uniform,or school,school,school,NOUN,USM
+w10066664_ah,cookhouse,make food,make,make,AUX,USM
+w10066664_ah,cookhouse,make food,food,food,NOUN,USM
+w10066664_ah,bunk,sleep,sleep,sleep,VERB,USM
+w10066664_ah,barman,get a drink,get,get,AUX,USM
+w10066664_ah,barman,get a drink,drink,drink,VERB,USM
+w10066961,horseman,ride,ride,ride,VERB,USM
+w10066961,horseman,race,race,race,VERB,USM
+w10066961,horseman,sport,sport,sport,NOUN,USM
+w10066961,horseman,leadership,leadership,leadership,NOUN,USM
+w10066961,horseman,control,control,control,VERB,USM
+w10066961,horseman,speed,speed,speed,NOUN,USM
+w10066961,workroom,study,study,study,VERB,USM
+w10066961,workroom,focus,focus,focus,VERB,USM
+w10066961,workroom,learn,learn,learn,VERB,USM
+w10066961,workroom,complete assignement,complete,complete,ADJ,USM
+w10066961,workroom,complete assignement,assignment,assignment,NOUN,USM
+w10066961,workroom,document,document,document,NOUN,USM
+w10066961,workroom,print,print,print,VERB,USM
+w10066961,workroom,file,file,file,VERB,USM
+w10066961,workroom,write,write,write,VERB,USM
+w10066961,workroom,draw,draw,dree,VERB,USM
+w10066961,workroom,meetings,meetings,meeting,NOUN,USM
+w10066961,workroom,storage,storage,store,NOUN,USM
+w10066961,fawn,populate,populate,populate,VERB,USM
+w10066961,fawn,eat,eat,eat,VERB,USM
+w10066961,applicator,makeup,makeup,makeup,NOUN,USM
+w10066961,applicator,skincare,skincare,skincare,NOUN,USM
+w10066961,applicator,apply,apply,apply,VERB,USM
+w10066961,trainer,clients,clients,clients,NOUN,USM
+w10066961,trainer,assist,assist,assist,VERB,USM
+w10066961,trainer,guide,guide,guide,VERB,USM
+w10066961,trainer,motivate,motivate,motivate,VERB,USM
+w10066961,trainer,teach,teach,teach,VERB,USM
+w10066961,trainer,risk prevention,risk,risk,NOUN,USM
+w10066961,trainer,risk prevention,prevention,prevent,VERB,USM
+w10066961,trainer,encourage,encourage,encourage,VERB,USM
+w10066961,trainer,document,document,document,VERB,USM
+w10066961,trainer,measure,measure,measure,VERB,USM
+w10066961,trainer,creativity,creativity,creativity,NOUN,USM
+w10066961,trainer,leadership,leadership,lead,VERB,USM
+w10066961,wiper,clean,clean,clean,VERB,USM
+w10066961,wiper,clear,clear,clear,VERB,USM
+w10066961,wiper,disinfect,disinfect,disinfect,VERB,USM
+w10066961,nursemaid,assist,assist,assist,VERB,USM
+w10066961,nursemaid,encourage,encourage,encourage,VERB,USM
+w10066961,nursemaid,motivate,motivate,motivate,VERB,USM
+w10066961,nursemaid,care,care,care,VERB,USM
+w10066961,parchment,baking,baking,bake,VERB,USM
+w10066961,parchment,cooking,cooking,cook,VERB,USM
+w10066961,parchment,crafting,crafting,craft,VERB,USM
+w10066961,tablecloth,decoration,decoration,decorate,VERB,USM
+w10066961,tablecloth,clean,clean,clean,VERB,USM
+w10066961,tablecloth,organize,organize,organize,VERB,USM
+w10066961,tablecloth,crafting ,crafting,craft,VERB,USM
+w10066961,trench,hide,hide,hide,VERB,USM
+w10066961,trench,dig,dig,dig,VERB,USM
+w10066961,teacup,drink,drink,drink,VERB,USM
+w10066961,teacup,decoration,decoration,decorate,VERB,USM
+w10066961,teacup,sip,sip,sip,VERB,USM
+w10066961,teacup,hold,hold,hold,VERB,USM
+w10066961,tonic,sip,sip,sip,VERB,USM
+w10066961,tonic,drink,drink,drink,VERB,USM
+w10066961,ballot,vote,vote,vote,VERB,USM
+w10066961,ballot,toll,toll,toll,NOUN,USM
+w10066961,ballot,poll,poll,poll,VERB,USM
+w10066961,optician,look,look,look,VERB,USM
+w10066961,optician,diagnose,diagnose,diagnose,VERB,USM
+w10066961,optician,document,document,document,NOUN,USM
+w10066961,building,company,company,company,NOUN,USM
+w10066961,building,food,food,food,NOUN,USM
+w10066961,building,store,store,store,VERB,USM
+w10066961,building,storage,storage,store,VERB,USM
+w10066961,building,office,office,office,VERB,USM
+w10066961,building,shelter,shelter,shelter,VERB,USM
+w10066961,building,hotel,hotel,hotel,NOUN,USM
+w10066961,building,motel,motel,motel,NOUN,USM
+w10066961,building,center,center,center,NOUN,USM
+w10066961,building,meetings,meetings,meet,VERB,USM
+w10066961,building,marketing,marketing,market,VERB,USM
+w10066961,torso,core,core,core,NOUN,USM
+w10066961,torso,abs,abs,ab,NOUN,USM
+w10066961,torso,fashion,fashion,fashion,NOUN,USM
+w10066961,torso,measure,measure,measure,VERB,USM
+w10066961,ore,steer,steer,steer,NOUN,USM
+w10066961,piss,pee,pee,pee,NOUN,USM
+w10066961,piss,urinate,urinate,urine,NOUN,USM
+w10066961,thumbnail,protection,protection,protect,VERB,USM
+w10066961,wheat,eat,eat,eat,VERB,USM
+w10066961,wheat,cook,cook,cook,VERB,USM
+w10066961,wheat,bake,bake,bake,VERB,USM
+w10066961,wheat,farm,farm,farm,VERB,USM
+w10066961,teakwood,build,build,build,VERB,USM
+w10066961,teakwood,smell,smell,smell,VERB,USM
+w10066961,teakwood,scent,scent,scent,NOUN,USM
+w10066961,teakwood,candle,candle,candle,NOUN,USM
+w10066961,walrus,protection,protection,protect,VERB,USM
+w10066961,walrus,study,study,study,NOUN,USM
+w10066961,walrus,research,research,research,VERB,USM
+w10066961,walrus,watch,watch,watch,VERB,USM
+w10066961,walrus,observe,observe,observe,VERB,USM
+w10066961,walrus,photograph,photograph,photograph,VERB,USM
+w10066961,walrus,draw,draw,dree,VERB,USM
+w10066961,bodice,shaping,shaping,shape,VERB,USM
+w10066961,bodice,slimming,slimming,slimm,VERB,USM
+w10066961,bodice,aesthetic,aesthetic,aesthetic,ADJ,USM
+w10066961,urn,storage,storage,store,VERB,USM
+w10066961,urn,decoration,decoration,decorate,VERB,USM
+w10066961,eclair,eat,eat,eat,VERB,USM
+w10066961,eclair,bake,bake,bake,VERB,USM
+w10066961,eclair,photograph,photograph,photograph,VERB,USM
+w10066961,worksheet,study,study,study,NOUN,USM
+w10066961,worksheet,draw,draw,dree,VERB,USM
+w10066961,worksheet,write,write,write,VERB,USM
+w10066961,worksheet,activity,activity,activity,NOUN,USM
+w10066961,worksheet,group work,group,group,NOUN,USM
+w10066961,worksheet,group work,work,work,VERB,USM
+w10066961,barrette,clip,clip,clip,NOUN,USM
+w10066961,barrette,fashion,fashion,fashion,NOUN,USM
+w10066961,globe,study,study,study,NOUN,USM
+w10066961,globe,observe,observe,observe,VERB,USM
+w10066961,globe,decoration,decoration,decorate,VERB,USM
+w10066961,globe,find,find,find,VERB,USM
+w10066961,globe,pinpoint,pinpoint,pinpoint,NOUN,USM
+w10095267_bat,hug,with people ,people,people,NOUN,USM
+w10095267_bat,napkin,when eating,eating,eat,VERB,USM
+w10095267_bat,napkin,blowing nose,blowing,blow,VERB,USM
+w10095267_bat,napkin,blowing nose,nose,nose,PRON,USM
+w10095267_bat,shirtsleeve,to roll up,roll,roll,VERB,USM
+w10095267_bat,shirtsleeve,to wipe something,wipe,wipe,VERB,USM
+w10095267_bat,shirtsleeve,to wipe something,something,something,PRON,USM
+w10095267_bat,bomb,to throw ,throw,throw,VERB,USM
+w10095267_bat,desk,homework,homework,homework,NOUN,USM
+w10095267_bat,desk,make up ,make,make,AUX,USM
+w10095267_bat,bong,hit someone ,hit,hit,VERB,USM
+w10095267_bat,bong,hit someone ,someone,someone,PRON,USM
+w10095267_bat,fig,a type of tree,type,type,NOUN,USM
+w10095267_bat,fig,a type of tree,tree,tree,NOUN,USM
+w10095267_bat,lunch,to eat,eat,eat,VERB,USM
+w10095267_bat,lunch,to go to,go,go,AUX,USM
+w10095267_bat,duster,to clean,clean,clean,VERB,USM
+w10095267_bat,tearoom,to drink in ,drink,drink,VERB,USM
+w10095267_bat,candy,to eat,eat,eat,VERB,USM
+w10095267_bat,candy,to share,share,share,NOUN,USM
+w10095267_bat,wishbone,to make a wish,make,make,AUX,USM
+w10095267_bat,wishbone,to make a wish,wish,wish,VERB,USM
+w10095267_bat,boomerang,to come back,come,come,VERB,USM
+w10095267_bat,boomerang,to come back,back,back,ADV,USM
+w10095267_bat,boomerang,to throw,throw,throw,VERB,USM
+w10095267_bat,beachwear,to go to beach,go,go,AUX,USM
+w10095267_bat,beachwear,to go to beach,beach,beach,NOUN,USM
+w10095267_bat,beachwear,to wear,wear,wear,VERB,USM
+w10095267_bat,beachwear,to get sun in ,get,get,AUX,USM
+w10095267_bat,beachwear,to get sun in ,sun,sun,NOUN,USM
+w10095267_bat,football,to throw,throw,throw,VERB,USM
+w10095267_bat,football,to catch,catch,catch,VERB,USM
+w10095267_bat,crossbow,to fire,fire,fire,NOUN,USM
+w10095267_bat,crossbow,to use,use,use,AUX,USM
+w10095267_bat,crossbow,to shoot,shoot,shoot,VERB,USM
+w10095267_bat,dachshund,to play with,play,play,VERB,USM
+w10095267_bat,kleenex,to wipe nose,wipe,wipe,VERB,USM
+w10095267_bat,kleenex,to wipe nose,nose,nose,PRON,USM
+w10095267_bat,kleenex,to wipe eyes,wipe,wipe,VERB,USM
+w10095267_bat,kleenex,to wipe eyes,eyes,eyes,NOUN,USM
+w10095267_bat,environmentalist,to study,study,study,VERB,USM
+w10095267_bat,environmentalist,to learn from ,learn,learn,VERB,USM
+w10095267_bat,scrapbook,to made,made,make,AUX,USM
+w10095267_bat,scrapbook,to look at,look,look,VERB,USM
+w10095267_bat,scrapbook,to be creative,creative,create,VERB,USM
+w10095267_bat,cannonball,to jump in pool,jump,jump,VERB,USM
+w10095267_bat,cannonball,to jump in pool,pool,pool,INTJ,USM
+w10095267_bat,trout,to catch,catch,catch,VERB,USM
+w10095267_bat,trout,to eat,eat,eat,VERB,USM
+w10095267_bat,trout,to throw back,throw,throw,VERB,USM
+w10095267_bat,trout,to throw back,back,back,ADV,USM
+w10095267_bat,flour,to bake,bake,bake,VERB,USM
+w10095267_bat,flour,to cook,cook,cook,VERB,USM
+w10095267_bat,wife,to make children,make,make,AUX,USM
+w10095267_bat,wife,to make children,children,child,NOUN,USM
+w10110417_vfc,scanner,scanning,scanning,scan,VERB,USM
+w10110417_vfc,cheesecloth,wiping,wiping,wipe,VERB,USM
+w10110417_vfc,bookshelf,book holder,book,book,NOUN,USM
+w10110417_vfc,bookshelf,book holder,holder,hold,VERB,USM
+w10110417_vfc,tinsel,for costumes,costumes,costume,NOUN,USM
+w10110417_vfc,tinsel,for decorating,decorating,decorate,VERB,USM
+w10110417_vfc,tinsel,for crafts,crafts,craft,VERB,USM
+w10110417_vfc,sugarcane,for eating,eating,eat,VERB,USM
+w10110417_vfc,sugarcane,added to recipes,added,add,AUX,USM
+w10110417_vfc,sugarcane,added to recipes,recipes,recipe,NOUN,USM
+w10110417_vfc,scooter,to be ridden,ridden,ride,VERB,USM
+w10110417_vfc,canoe,to ride down the river,ride,ride,VERB,USM
+w10110417_vfc,canoe,to ride down the river,river,river,NOUN,USM
+w10110417_vfc,burglar,to steal,steal,steal,VERB,USM
+w10110417_vfc,bookseller,to sell items,sell,sell,VERB,USM
+w10110417_vfc,bookseller,to sell items,items,item,NOUN,USM
+w10110417_vfc,bookseller,to learn about books,learn,learn,VERB,USM
+w10110417_vfc,bookseller,to learn about books,books,book,NOUN,USM
+w10110417_vfc,bookseller,to get information,get,get,AUX,USM
+w10110417_vfc,bookseller,to get information,information,inform,VERB,USM
+w10110417_vfc,shellfish,to be eaten,eaten,eat,VERB,USM
+w10110417_vfc,chalk,for hopscotch,hopscotch,hopscotch,NOUN,USM
+w10110417_vfc,chalk,to draw,draw,dree,VERB,USM
+w10110417_vfc,chalk,to break for asmr,break,break,VERB,USM
+w10110417_vfc,chalk,to break for asmr,arms,arms,NOUN,USM
+w10110417_vfc,altarpiece,to use in weddings,use,use,AUX,USM
+w10110417_vfc,altarpiece,to use in weddings,weddings,wedding,NOUN,USM
+w10110417_vfc,sea,to swim in,swim,swim,VERB,USM
+w10110417_vfc,sea,to fish in,fish,fish,VERB,USM
+w10110417_vfc,slaw,to be eaten,eaten,eat,VERB,USM
+w10110417_vfc,anchovy,to be eaten,eaten,eat,VERB,USM
+w10110417_vfc,anchovy,to use for bait,use,use,AUX,USM
+w10110417_vfc,anchovy,to use for bait,bait,bait,VERB,USM
+w10110417_vfc,beach,to walk on,walk,walk,VERB,USM
+w10110417_vfc,beach,to watch sunsets,watch,watch,VERB,USM
+w10110417_vfc,beach,to watch sunsets,sunsets,sunset,NOUN,USM
+w10110417_vfc,beach,to find shells,find,find,VERB,USM
+w10110417_vfc,beach,to find shells,shells,shell,NOUN,USM
+w10110417_vfc,beach,for vacations,vacations,vacation,VERB,USM
+w10110417_vfc,rubbish,for garbage,garbage,garbage,NOUN,USM
+w10110417_vfc,stroller,to transport kids/babies,transport,transport,VERB,USM
+w10110417_vfc,stroller,to transport kids/babies,kids,kid,NOUN,USM
+w10110417_vfc,stroller,to transport kids/babies,babies,baby,NOUN,USM
+w10110417_vfc,stroller,to carry things,carry,carry,VERB,USM
+w10110417_vfc,stroller,to carry things,things,thing,NOUN,USM
+w10110417_vfc,clock,to see time,see,see,VERB,USM
+w10110417_vfc,clock,to see time,time,time,VERB,USM
+w10110417_vfc,sportswoman,to learn about sports,learn,learn,VERB,USM
+w10110417_vfc,sportswoman,to learn about sports,sports,sport,NOUN,USM
+w10110417_vfc,sportswoman,to hear about the sports news,hear,hear,VERB,USM
+w10110417_vfc,sportswoman,to hear about the sports news,sports,sport,NOUN,USM
+w10110417_vfc,sportswoman,to hear about the sports news,news,news,NOUN,USM
+w10110417_vfc,bodyguard,to get protection,get,get,AUX,USM
+w10110417_vfc,bodyguard,to get protection,protection,protect,VERB,USM
+w10110417_vfc,balloonist,to get a cool balloon,get,get,AUX,USM
+w10110417_vfc,balloonist,to get a cool balloon,cool,cool,VERB,USM
+w10110417_vfc,balloonist,to get a cool balloon,balloon,balloon,NOUN,USM
+w10110417_vfc,derriere,to use the bathroom,use,use,AUX,USM
+w10110417_vfc,derriere,to use the bathroom,bathroom,bathroom,NOUN,USM
+w10110417_vfc,derriere,to sit down,sit,sit,VERB,USM
+w10110417_vfc,ventilator,to help you breathe,help,help,VERB,USM
+w10110417_vfc,ventilator,to help you breathe,breathe,breato,VERB,USM
+w10110417_vfc,snow,to play in,play,play,VERB,USM
+w10110417_vfc,snow,to make snowballs,make,make,AUX,USM
+w10110417_vfc,snow,to make snowballs,snowballs,snowball,NOUN,USM
+w10110417_vfc,snow,to slide down a hill,slide,slide,VERB,USM
+w10110417_vfc,snow,to slide down a hill,hill,hill,ADV,USM
+w10110417_vfc,spyglass,to see things ,see,see,VERB,USM
+w10110417_vfc,spyglass,to see things ,things,thing,NOUN,USM
+w10110417_vfc,bonnet,to cover your head,cover,cover,VERB,USM
+w10110417_vfc,bonnet,to cover your head,head,head,NOUN,USM
+w10110417_vfc,diagram,to see complicated numbers,see,see,VERB,USM
+w10110417_vfc,diagram,to see complicated numbers,complicated,complicate,ADJ,USM
+w10110417_vfc,diagram,to see complicated numbers,numbers,number,NOUN,USM
+w10110417_vfc,booze,to drink,drink,drink,VERB,USM
+w10110417_vfc,booze,to cook with,cook,cook,VERB,USM
+w10110417_vfc,booze,to add flavor,add,add,AUX,USM
+w10110417_vfc,booze,to add flavor,flavor,flavor,VERB,USM
+w10110417_vfc,satchel,to carry things,carry,carry,VERB,USM
+w10110417_vfc,satchel,to carry things,things,thing,NOUN,USM
+w10118149,stocking,christmas,christmas,christmas,PROPN,USM
+w10118149,stocking,cold,cold,cold,ADJ,USM
+w10118149,awning,house,house,house,NOUN,USM
+w10118149,awning,school,school,school,NOUN,USM
+w10118149,awning,stand,stand,stand,VERB,USM
+w10118149,awning,cover,cover,cover,VERB,USM
+w10118149,quilt,cover,cover,cover,VERB,USM
+w10118149,quilt,blanket,blanket,blanket,VERB,USM
+w10118149,quilt,sheet,sheet,sheet,NOUN,USM
+w10118149,cutlery,silverware,silverware,silverware,NOUN,USM
+w10118149,cutlery,fork,fork,fork,NOUN,USM
+w10118149,cutlery,eating,eating,eat,VERB,USM
+w10118149,cutlery,cooking,cooking,cook,VERB,USM
+w10118149,cutlery,spoon,spoon,spoon,NOUN,USM
+w10118149,cutlery,knife,knife,knife,NOUN,USM
+w10118149,spinach,eating,eating,eat,VERB,USM
+w10118149,spinach,smoothie,smoothie,smoothie,NOUN,USM
+w10118149,spinach,shake,shake,shake,VERB,USM
+w10118149,spinach,protein,protein,protein,NOUN,USM
+w10118149,spinach,vegetable,vegetable,vegetable,NOUN,USM
+w10118149,you,together,together,together,ADV,USM
+w10118149,holding,hand,hand,hand,NOUN,USM
+w10118149,holding,keep,keep,keep,VERB,USM
+w10118149,glitter,chunk,chunk,chunk,NOUN,USM
+w10118149,glitter,shiny,shiny,shiny,NOUN,USM
+w10118149,glitter,bright,bright,bright,ADJ,USM
+w10118149,grill,cooking,cooking,cook,VERB,USM
+w10118149,grill,food,food,food,NOUN,USM
+w10118149,grill,burger,burger,burger,NOUN,USM
+w10118149,grill,hot dog,hot,hot,ADJ,USM
+w10118149,grill,hot dog,dog,dog,NOUN,USM
+w10118149,shield,cover,cover,cover,VERB,USM
+w10118149,shield,knight,knight,knight,NOUN,USM
+w10118149,shield,medieval,medieval,medieval,NOUN,USM
+w10118149,packaging,present,present,present,ADJ,USM
+w10118149,packaging,gift,gift,gift,VERB,USM
+w10118149,packaging,mail,mail,mail,VERB,USM
+w10118149,equipment,tool,tool,tool,NOUN,USM
+w10118149,horse,ride,ride,ride,VERB,USM
+w10118149,horse,cattle,cattle,cattle,NOUN,USM
+w10118149,lunchroom,eat,eat,eat,VERB,USM
+w10118149,lunchroom,talk,talk,talk,VERB,USM
+w10118149,lunchroom,friends,friends,friend,VERB,USM
+w10118149,lunchroom,cafeteria,cafeteria,cafeteria,NOUN,USM
+w10118149,lunchroom,school,school,school,NOUN,USM
+w10118149,fingernail,paint,paint,paint,VERB,USM
+w10118149,fingernail,claw,claw,claw,NOUN,USM
+w10118149,bill,money,money,money,NOUN,USM
+w10118149,bill,pay,pay,pay,VERB,USM
+w10118149,bill,law,law,law,NOUN,USM
+w10118149,hallway,walk,walk,walk,VERB,USM
+w10118149,hallway,run,run,run,VERB,USM
+w10118149,hallway,sleep,sleep,sleep,VERB,USM
+w10118149,bacon,eat,eat,eat,VERB,USM
+w10118149,bacon,food,food,food,NOUN,USM
+w10118149,bacon,breakfast,breakfast,breakfast,NOUN,USM
+w10118149,bacon,topping,topping,topping,VERB,USM
+w10118149,wrench,tool,tool,tool,NOUN,USM
+w10118149,wrench,use,use,use,AUX,USM
+w10118149,bookmark,hold,hold,hold,VERB,USM
+w10118149,bookmark,pages,pages,page,NOUN,USM
+w10118149,bookmark,read,read,read,VERB,USM
+w10118149,tea,drink,drink,drink,VERB,USM
+w10118149,searchlight,lighthouse,lighthouse,lighthouse,NOUN,USM
+w10118149,searchlight,find,find,find,VERB,USM
+w10118149,aquarium,animals,animals,animal,NOUN,USM
+w10118149,aquarium,watch,watch,watch,VERB,USM
+w10118149,aquarium,show,show,show,VERB,USM
+w10118149,aquarium,water,water,water,NOUN,USM
+w10118149,assassin,kill,kill,kill,VERB,USM
+w10118149,assassin,hunt,hunt,hunt,VERB,USM
+w10118149,face,eyes,eyes,eyes,NOUN,USM
+w10118149,face,nose,nose,nose,PRON,USM
+w10118149,face,mouth,mouth,mouth,NOUN,USM
+w10118149,dishwasher,clean,clean,clean,VERB,USM
+w10118149,dish,clean,clean,clean,VERB,USM
+w10118149,dish,eat,eat,eat,VERB,USM
+w10118149,nutmeg,spice,spice,spice,VERB,USM
+w10118149,nutmeg,food,food,food,NOUN,USM
+w10118149,nutmeg,cooking,cooking,cook,VERB,USM
+w10118240_hmf,holding,hold,hold,hold,VERB,USM
+w10118240_hmf,foodstuff,eat,eat,eat,VERB,USM
+w10118240_hmf,foodstuff,cook,cook,cook,VERB,USM
+w10118240_hmf,foodstuff,sell,sell,sell,VERB,USM
+w10118240_hmf,foodstuff,buy,buy,buy,VERB,USM
+w10118240_hmf,hallway,walk,walk,walk,VERB,USM
+w10118240_hmf,hallway,run,run,run,VERB,USM
+w10118240_hmf,hallway,skip,skip,skip,VERB,USM
+w10118240_hmf,horse,ride,ride,ride,VERB,USM
+w10118240_hmf,horse,brush,brush,brush,VERB,USM
+w10118240_hmf,horse,feed,feed,feed,VERB,USM
+w10118240_hmf,bacon,eat,eat,eat,VERB,USM
+w10118240_hmf,bacon,cook,cook,cook,VERB,USM
+w10118240_hmf,bacon,sell,sell,sell,VERB,USM
+w10118240_hmf,bacon,buy,buy,buy,VERB,USM
+w10118240_hmf,cutlery,eat,eat,eat,VERB,USM
+w10118240_hmf,cutlery,cut food,cut,cut,VERB,USM
+w10118240_hmf,cutlery,cut food,food,food,NOUN,USM
+w10118240_hmf,tea,make,make,make,AUX,USM
+w10118240_hmf,tea,drink,drink,drink,VERB,USM
+w10118240_hmf,tea,buy,buy,buy,VERB,USM
+w10118240_hmf,tea,sell,sell,sell,VERB,USM
+w10118240_hmf,assassin,kill,kill,kill,VERB,USM
+w10118240_hmf,spinach,eat,eat,eat,VERB,USM
+w10118240_hmf,spinach,buy,buy,buy,VERB,USM
+w10118240_hmf,spinach,sell,sell,sell,VERB,USM
+w10118240_hmf,glitter,decorate,decorate,decorate,VERB,USM
+w10118240_hmf,equipment,use,use,use,AUX,USM
+w10118240_hmf,you,run,run,run,VERB,USM
+w10118240_hmf,you,walk,walk,walk,VERB,USM
+w10118240_hmf,you,skip,skip,skip,VERB,USM
+w10118240_hmf,you,think,think,think,VERB,USM
+w10118240_hmf,you,eat,eat,eat,VERB,USM
+w10118240_hmf,you,sleep,sleep,sleep,VERB,USM
+w10118240_hmf,you,drink,drink,drink,VERB,USM
+w10118240_hmf,searchlight,move,move,move,VERB,USM
+w10118240_hmf,searchlight,light up,light,light,VERB,USM
+w10118240_hmf,dish,hold food,hold,hold,VERB,USM
+w10118240_hmf,dish,hold food,food,food,NOUN,USM
+w10118240_hmf,shield,hold,hold,hold,VERB,USM
+w10118240_hmf,shield,protect,protect,protect,VERB,USM
+w10118240_hmf,shield,use,use,use,AUX,USM
+w10118240_hmf,packaging,wrap,wrap,wrap,VERB,USM
+w10118240_hmf,packaging,send,send,send,VERB,USM
+w10118240_hmf,packaging,receive,receive,receive,VERB,USM
+w10118240_hmf,aquarium,view,view,view,VERB,USM
+w10118240_hmf,aquarium,hold fish,hold,hold,VERB,USM
+w10118240_hmf,aquarium,hold fish,fish,fish,NOUN,USM
+w10118240_hmf,dishwasher,load,load,load,VERB,USM
+w10118240_hmf,dishwasher,unload,unload,unload,VERB,USM
+w10118240_hmf,dishwasher,clean,clean,clean,VERB,USM
+w10118240_hmf,fingernail,scratch,scratch,scratch,VERB,USM
+w10118240_hmf,fingernail,pick,pick,pick,VERB,USM
+w10118240_hmf,fingernail,pluck,pluck,pluck,VERB,USM
+w10118240_hmf,fingernail,paint,paint,paint,VERB,USM
+w10118240_hmf,nutmeg,season,season,season,VERB,USM
+w10118240_hmf,nutmeg,eat,eat,eat,VERB,USM
+w10118240_hmf,stocking,hang,hang,hang,VERB,USM
+w10118240_hmf,stocking,decorate,decorate,decorate,VERB,USM
+w10118240_hmf,stocking,wear,wear,wear,VERB,USM
+w10118240_hmf,grill,cook,cook,cook,VERB,USM
+w10118240_hmf,quilt,use,use,use,AUX,USM
+w10118240_hmf,quilt,cover,cover,cover,VERB,USM
+w10118240_hmf,quilt,make,make,make,AUX,USM
+w10118240_hmf,face,expression,expression,express,VERB,USM
+w10118240_hmf,face,kiss,kiss,kiss,VERB,USM
+w10118240_hmf,face,talk,talk,talk,VERB,USM
+w10118240_hmf,face,smell,smell,smell,VERB,USM
+w10118240_hmf,face,see,see,see,VERB,USM
+w10118240_hmf,wrench,tighten,tighten,tighten,VERB,USM
+w10118240_hmf,wrench,loosen,loosen,loosen,VERB,USM
+w10118240_hmf,bill,pay,pay,pay,VERB,USM
+w10118240_hmf,bill,receive,receive,receive,VERB,USM
+w10118240_hmf,bookmark,place,place,place,VERB,USM
+w10118240_hmf,bookmark,use,use,use,AUX,USM
+w10118240_hmf,lunchroom,sit,sit,sit,VERB,USM
+w10118240_hmf,lunchroom,eat,eat,eat,VERB,USM
+w10118240_hmf,lunchroom,talk,talk,talk,VERB,USM
+w10118240_hmf,awning,use,use,use,AUX,USM
+w10118240_hmf,awning,cover,cover,cover,VERB,USM
+w10118240_hmf,awning,give shade,give,give,VERB,USM
+w10118240_hmf,awning,give shade,shade,shade,VERB,USM
+w10118240_hmf,gunnysack,carry,carry,carry,VERB,USM
+w10118240_hmf,gunnysack,hold,hold,hold,VERB,USM
+w10118240_hmf,gunnysack,hop,hop,hop,VERB,USM
+w10130685,stepbrother,family,family,family,NOUN,USM
+w10130685,stepbrother,different,different,different,ADJ,USM
+w10130685,coconut,eat,eat,eat,VERB,USM
+w10130685,coconut,cook with,cook,cook,VERB,USM
+w10130685,coconut,grow,grow,grow,VERB,USM
+w10130685,gunfighter,fight,fight,fight,NOUN,USM
+w10130685,gunfighter,dangerous,dangerous,dangerous,ADJ,USM
+w10130685,gunfighter,aggressive,aggressive,aggressive,ADJ,USM
+w10130685,builder,craft,craft,craft,NOUN,USM
+w10130685,builder,make,make,make,AUX,USM
+w10130685,builder,wood,wood,wood,NOUN,USM
+w10130685,hookers,party,party,party,VERB,USM
+w10130685,hookers,explicit,explicit,explicit,VERB,USM
+w10130685,hookers,inappropriate,inappropriate,inappropriate,ADJ,USM
+w10130685,trashcan,dirty,dirty,dirty,ADJ,USM
+w10130685,trashcan,protects,protects,protect,VERB,USM
+w10130685,basement,storage,storage,store,NOUN,USM
+w10130685,basement,house,house,house,NOUN,USM
+w10130685,knot,intricate,intricate,intricate,NOUN,USM
+w10130685,knot,difficult,difficult,difficult,ADJ,USM
+w10130685,knot,twisted,twisted,twiste,VERB,USM
+w10130685,sausage,food,food,food,NOUN,USM
+w10130685,sausage,ingredient,ingredient,ingredient,NOUN,USM
+w10130685,sausage,cook,cook,cook,VERB,USM
+w10130685,sausage,eat,eat,eat,VERB,USM
+w10130685,engineer,build,build,build,VERB,USM
+w10130685,engineer,intelligent,intelligent,intelligent,NOUN,USM
+w10130685,earplugs,protects,protects,protect,VERB,USM
+w10130685,earplugs,volume,volume,volume,NOUN,USM
+w10130685,earplugs,music,music,music,NOUN,USM
+w10130685,curd,ingredient,ingredient,ingredient,NOUN,USM
+w10130685,headmistress,authoritative,authoritative,authoritative,ADJ,USM
+w10130685,headmistress,strict,strict,strict,ADJ,USM
+w10130685,headmistress,in charge,charge,charge,NOUN,USM
+w10130685,cop,protects,protects,protect,VERB,USM
+w10130685,cop,fights,fights,fight,NOUN,USM
+w10130685,marksman,marks,marks,mark,NOUN,USM
+w10130685,stepfather,family,family,family,NOUN,USM
+w10130685,dip,dipping sauce for food,dipping,dip,VERB,USM
+w10130685,dip,dipping sauce for food,sauce,sauce,NOUN,USM
+w10130685,dip,dipping sauce for food,food,food,NOUN,USM
+w10130685,busman,driver,driver,drive,VERB,USM
+w10130685,bus,transportation,transportation,transport,VERB,USM
+w10130685,goblet,ring,ring,ring,NOUN,USM
+w10130685,candidate,professional,professional,professional,ADJ,USM
+w10130685,candidate,elect,elect,elect,ADJ,USM
+w10130685,grapefruit,fruit,fruit,fruit,NOUN,USM
+w10130685,grapefruit,food,food,food,NOUN,USM
+w10130685,leopard,animal,animal,animal,NOUN,USM
+w10130685,leopard,jungle,jungle,jungle,NOUN,USM
+w10130685,macaroni,noodle,noodle,noodle,NOUN,USM
+w10130685,macaroni,food,food,food,NOUN,USM
+w10130685,bookend,book,book,book,NOUN,USM
+w10130685,condominium,room,room,room,NOUN,USM
+w10130685,typewriter,writing,writing,write,VERB,USM
+w10130685,accountant,professional,professional,professional,ADJ,USM
+w10130685,accountant,money,money,money,NOUN,USM
+w10130685,bunny,animal,animal,animal,NOUN,USM
+w10132628,earwax,gross,gross,gross,ADJ,USM
+w10132628,earwax,qtip,tip,tip,NOUN,USM
+w10132628,earwax,cleaning,cleaning,clean,VERB,USM
+w10132628,croquet,sport,sport,sport,NOUN,USM
+w10132628,croquet,play,play,play,VERB,USM
+w10132628,antiseptics,cleaning,cleaning,clean,VERB,USM
+w10132628,antiseptics,sterile,sterile,sterile,NOUN,USM
+w10132628,pulley,machine,machine,machine,NOUN,USM
+w10132628,pulley,physics,physics,physic,NOUN,USM
+w10132628,erection,sexual,sexual,sex,VERB,USM
+w10132628,debris,trash,trash,trash,VERB,USM
+w10132628,debris,fries,fries,fries,NOUN,USM
+w10132628,debris,damage,damage,damage,NOUN,USM
+w10132628,rook,hook,hook,hook,NOUN,USM
+w10132628,mint,clean,clean,clean,ADJ,USM
+w10132628,mint,breath,breath,breath,NOUN,USM
+w10132628,mint,flavor,flavor,flavor,VERB,USM
+w10132628,mint,scent,scent,scent,VERB,USM
+w10132628,poker,game,game,game,NOUN,USM
+w10132628,poker,cards,cards,card,NOUN,USM
+w10132628,poker,vegas,vegas,vegas,NOUN,USM
+w10132628,poker,casino,casino,casino,NOUN,USM
+w10132628,fern,plant,plant,plant,VERB,USM
+w10132628,fern,book,book,book,NOUN,USM
+w10132628,fern,water,water,water,VERB,USM
+w10132628,fern,nature,nature,nature,NOUN,USM
+w10132628,orphan,no parents,parents,parent,NOUN,USM
+w10132628,orphan,home,home,home,ADV,USM
+w10132628,orphan,sad,sad,sad,ADJ,USM
+w10132628,granite,table,table,table,NOUN,USM
+w10132628,granite,polish,polish,polish,VERB,USM
+w10132628,granite,cleaner,cleaner,clean,VERB,USM
+w10132628,uncle,family,family,family,NOUN,USM
+w10132628,uncle,relative,relative,relative,ADV,USM
+w10132628,uncle,reunion,reunion,reunion,NOUN,USM
+w10132628,hitchhiker,unsafe,unsafe,unsafe,ADJ,USM
+w10132628,hitchhiker,poor,poor,poor,ADJ,USM
+w10132628,hitchhiker,scary,scary,scary,ADJ,USM
+w10132628,kazoo,instrument,instrument,instrument,NOUN,USM
+w10132628,insole,shoe,shoe,shoe,NOUN,USM
+w10132628,crap,bathroom,bathroom,bathroom,NOUN,USM
+w10132628,penknife,weapon,weapon,weapon,VERB,USM
+w10132628,knickers,clothing,clothing,clothing,NOUN,USM
+w10132628,pedicurist,spa,spa,spa,NOUN,USM
+w10132628,pedicurist,nails,nails,nails,NOUN,USM
+w10132628,coverall,clothing,clothing,clothing,NOUN,USM
+w10132628,coverall,warmth,warmth,warm,VERB,USM
+w10132628,clothespin,hanging,hanging,hang,VERB,USM
+w10132628,clothespin,drying,drying,dry,VERB,USM
+w10132628,clothespin,clothesline,clothesline,clothesline,NOUN,USM
+w10132628,blister,foot,foot,foot,NOUN,USM
+w10132628,blister,heel,heel,heel,NOUN,USM
+w10132628,blister,wrist,wrist,wrist,NOUN,USM
+w10132628,blister,popped,popped,pop,VERB,USM
+w10132628,marketeer,worker,worker,worker,NOUN,USM
+w10132628,seashore,sunset,sunset,sunset,NOUN,USM
+w10132628,seashore,sunrise,sunrise,sunrise,NOUN,USM
+w10132628,seashore,layoit,layout,layout,NOUN,USM
+w10132628,stockbroker,profession,profession,profession,NOUN,USM
+w10132628,swing,play,play,play,VERB,USM
+w10132740_fmm,garbage,throw away,throw,throw away,VERB,USM
+w10132740_fmm,pony,riding,riding,ride,VERB,USM
+w10132740_fmm,lavatory,peeing,peeing,pee,VERB,USM
+w10132740_fmm,lavatory,going through bathroom,going,go,AUX,USM
+w10132740_fmm,lavatory,going through bathroom,bathroom,bathroom,NOUN,USM
+w10132740_fmm,newsprint,read,read,read,VERB,USM
+w10132740_fmm,newsprint,news,news,news,VERB,USM
+w10132740_fmm,newsprint,information,information,inform,VERB,USM
+w10132740_fmm,handrail,walking,walking,walk,VERB,USM
+w10132740_fmm,handrail,running,running,run,VERB,USM
+w10132740_fmm,handrail,helping walk,helping,help,VERB,USM
+w10132740_fmm,handrail,helping walk,walk,walk,VERB,USM
+w10132740_fmm,entertainer,singing,singing,singe,VERB,USM
+w10132740_fmm,entertainer,dancing,dancing,dance,VERB,USM
+w10132740_fmm,entertainer,reading,reading,read,VERB,USM
+w10132740_fmm,planner,organizing,organizing,organize,VERB,USM
+w10132740_fmm,planner,helping,helping,help,VERB,USM
+w10132740_fmm,planner,planning,planning,plan,VERB,USM
+w10132740_fmm,printout,study,study,study,VERB,USM
+w10132740_fmm,printout,read,read,read,VERB,USM
+w10132740_fmm,printout,helping,helping,help,VERB,USM
+w10132740_fmm,printout,notes,notes,note,VERB,USM
+w10132740_fmm,penthouse,living,living,live,VERB,USM
+w10132740_fmm,limousine,riding,riding,ride,VERB,USM
+w10132740_fmm,limousine,famous,famous,famous,ADJ,USM
+w10132740_fmm,pants,wearing,wearing,wear,VERB,USM
+w10132740_fmm,pants,keeping cool,keeping,keep,AUX,USM
+w10132740_fmm,pants,keeping cool,cool,cool,ADJ,USM
+w10132740_fmm,raspberry,eating,eating,eat,VERB,USM
+w10132740_fmm,raspberry,good health,good,good,ADJ,USM
+w10132740_fmm,raspberry,good health,health,health,NOUN,USM
+w10132740_fmm,punter,kicking,kicking,kick,VERB,USM
+w10132740_fmm,punter,football,football,football,NOUN,USM
+w10132740_fmm,pecan,eating,eating,eat,VERB,USM
+w10132740_fmm,pecan,baking wiht,baking,bake,VERB,USM
+w10132740_fmm,housewife,cleaning,cleaning,clean,VERB,USM
+w10136088,bullfrog,chase,chase,chase,VERB,USM
+w10136088,bullfrog,kill ,kill,kill,VERB,USM
+w10136088,chronometer,use,use,use,AUX,USM
+w10136088,chronometer,repair,repair,repair,VERB,USM
+w10136088,camel,train,train,train,VERB,USM
+w10136088,camel,buy,buy,buy,VERB,USM
+w10136088,camel,sell,sell,sell,VERB,USM
+w10136088,camel,ride,ride,ride,VERB,USM
+w10136088,camel,feed,feed,feed,VERB,USM
+w10136088,astronaut,visit,visit,visit,VERB,USM
+w10136088,astronaut,question,question,question,VERB,USM
+w10136088,grease,cook,cook,cook,VERB,USM
+w10136088,grease,clean,clean,clean,VERB,USM
+w10136088,grease,wipe,wipe,wipe,VERB,USM
+w10136088,grease,discard,discard,discard,VERB,USM
+w10136088,adapter,charge phone,charge,charge,VERB,USM
+w10136088,adapter,charge phone,phone,phone,NOUN,USM
+w10136088,adapter,discard,discard,discard,VERB,USM
+w10136088,adapter,plug in ,plug,plug,VERB,USM
+w10136088,adapter,unplug ,unplug,unplug,VERB,USM
+w10136088,flounder,n/a,n,not,PART,USM
+w10136088,cadillac,drive,drive,drive,VERB,USM
+w10136088,cadillac,clean,clean,clean,VERB,USM
+w10136088,cadillac,sell,sell,sell,VERB,USM
+w10136088,cadillac,buy,buy,buy,VERB,USM
+w10136088,cadillac,destroy ,destroy,destroy,VERB,USM
+w10136088,root,pull,pull,pull,VERB,USM
+w10136088,root,watch ,watch,watch,VERB,USM
+w10136088,beggar,help,help,help,VERB,USM
+w10136088,beggar,ignore ,ignore,ignore,VERB,USM
+w10136088,beggar,advise,advise,advise,VERB,USM
+w10136088,bridesmaid,surprise,surprise,surprise,VERB,USM
+w10136088,bridesmaid,choose,choose,choose,NOUN,USM
+w10136088,bridesmaid,replace,replace,replace,VERB,USM
+w10136088,muffler,clean,clean,clean,VERB,USM
+w10136088,muffler,replace,replace,replace,VERB,USM
+w10136088,muffler,use ,use,use,AUX,USM
+w10136088,muffler,discard,discard,discard,VERB,USM
+w10136088,chihuahua,buy,buy,buy,VERB,USM
+w10136088,chihuahua,pet,pet,pet,VERB,USM
+w10136088,chihuahua,feed,feed,feed,VERB,USM
+w10136088,chihuahua,sell,sell,sell,VERB,USM
+w10136088,chihuahua,clean ,clean,clean,VERB,USM
+w10136088,sidecar,clean,clean,clean,VERB,USM
+w10136088,sidecar,use,use,use,AUX,USM
+w10136088,sidecar,replace,replace,replace,VERB,USM
+w10136088,sidecar,sell ,sell,sell,VERB,USM
+w10136088,graphite,use,use,use,AUX,USM
+w10136088,creature,study,study,study,VERB,USM
+w10136088,creature,feed ,feed,feed,VERB,USM
+w10136088,creature,sell,sell,sell,VERB,USM
+w10136088,creature,buy,buy,buy,VERB,USM
+w10136088,handbrake,use,use,use,AUX,USM
+w10136088,handbrake,replace,replace,replace,VERB,USM
+w10136088,handbrake,fix,fix,fix,VERB,USM
+w10136088,handbrake,buy,buy,buy,VERB,USM
+w10136088,brooch,n/a,n,not,PART,USM
+w10136088,guardsman,pay,pay,pay,VERB,USM
+w10136088,guardsman,question ,question,question,VERB,USM
+w10136088,guardsman,replace ,replace,replace,VERB,USM
+w10136088,guardsman,hire,hire,hire,VERB,USM
+w10136088,zipper,fix,fix,fix,VERB,USM
+w10136088,zipper,use,use,use,AUX,USM
+w10136088,slut,inappropriate ,inappropriate,inappropriate,ADJ,USM
+w10136088,dryer,use,use,use,AUX,USM
+w10136088,dryer,repair,repair,repair,VERB,USM
+w10136088,dryer,sell,sell,sell,VERB,USM
+w10136088,dryer,buy,buy,buy,VERB,USM
+w10136088,dryer,replace,replace,replace,VERB,USM
+w10136088,dryer,clean ,clean,clean,VERB,USM
+w10136088,picnicker,n-a,n,not,PART,USM
+w10136088,cottage,sell,sell,sell,VERB,USM
+w10136088,cottage,buy,buy,buy,VERB,USM
+w10136088,cottage,rent,rent,rent,VERB,USM
+w10136088,cottage,decorate,decorate,decorate,VERB,USM
+w10136088,cottage,live,live,live,VERB,USM
+w10136088,cottage,repair ,repair,repair,VERB,USM
+w10136088,perspiration,clean ,clean,clean,VERB,USM
+w10136088,groom,choose,choose,choose,VERB,USM
+w10136088,groom,replace ,replace,replace,VERB,USM
+w10136088,groom,gift,gift,gift,VERB,USM
+w10136088,kindling,n/a,n,not,PART,USM
+w10136088,adult,advice,advice,advice,VERB,USM
+w10136088,adult,help,help,help,VERB,USM
+w10136088,adult,question,question,question,VERB,USM
+w10136088,adult,independent ,independent,independent,ADJ,USM
+w10136088,dice,throw,throw,throw,VERB,USM
+w10136088,dice,buy,buy,buy,VERB,USM
+w10136088,dice,sell,sell,sell,VERB,USM
+w10136088,dice,play ,play,play,VERB,USM
+w10136088,ladle,use,use,use,AUX,USM
+w10136088,ladle,repair ,repair,repair,VERB,USM
+w10136088,ladle,buy,buy,buy,VERB,USM
+w10137415_tj,photocopier,copy photos,copy,copy,VERB,USM
+w10137415_tj,photocopier,copy photos,photos,photo,NOUN,USM
+w10137415_tj,lager,drink,drink,drink,VERB,USM
+w10137415_tj,lager,throw,throw,throw,VERB,USM
+w10137415_tj,smoothie,drink,drink,drink,VERB,USM
+w10137415_tj,smoothie,make,make,make,AUX,USM
+w10137415_tj,dye,change color,change,change,AUX,USM
+w10137415_tj,dye,change color,color,color,VERB,USM
+w10137415_tj,chalet,live,live,live,VERB,USM
+w10137415_tj,chalet,vacation,vacation,vacation,VERB,USM
+w10137415_tj,scribbling,scribble,scribble,scribble,VERB,USM
+w10137415_tj,conch,throw,throw,throw,VERB,USM
+w10137415_tj,conch,listen to,listen,listen,VERB,USM
+w10137415_tj,committeewoman,talk,talk,talk,VERB,USM
+w10137415_tj,committeewoman,plan,plan,plan,VERB,USM
+w10137415_tj,cayenne,cook,cook,cook,VERB,USM
+w10137415_tj,cayenne,eat,eat,eat,VERB,USM
+w10137415_tj,buttonhook,sewing,sewing,sew,VERB,USM
+w10137415_tj,breeches,wear,wear,wear,VERB,USM
+w10137415_tj,dipper,cook,cook,cook,VERB,USM
+w10137415_tj,workshop,learn,learn,learn,VERB,USM
+w10137415_tj,workshop,work,work,work,VERB,USM
+w10137415_tj,plaything,play,play,play,VERB,USM
+w10137415_tj,plaything,break,break,break,VERB,USM
+w10137415_tj,crabgrass,eat,eat,eat,VERB,USM
+w10137415_tj,crabgrass,rip out of the ground,rip,rip,VERB,USM
+w10137415_tj,crabgrass,rip out of the ground,ground,ground,NOUN,USM
+w10137415_tj,tomahawk,throw,throw,throw,VERB,USM
+w10137415_tj,tomahawk,kill,kill,kill,VERB,USM
+w10137415_tj,tomahawk,stab,stab,stab,VERB,USM
+w10137415_tj,school,learn,learn,learn,VERB,USM
+w10137415_tj,school,socialize,socialize,socialize,VERB,USM
+w10137415_tj,school,waste away,waste,waste,NOUN,USM
+w10137415_tj,rucksack,store items,store,store,VERB,USM
+w10137415_tj,rucksack,store items,items,item,NOUN,USM
+w10137415_tj,rucksack,carry,carry,carry,VERB,USM
+w10137415_tj,armoire,store clothes,store,store,VERB,USM
+w10137415_tj,armoire,store clothes,clothes,clothe,NOUN,USM
+w10137415_tj,armoire,organize,organize,organize,VERB,USM
+w10137415_tj,beefsteak,eat,eat,eat,VERB,USM
+w10137415_tj,beefsteak,cook,cook,cook,VERB,USM
+w10137415_tj,stage,perform,perform,perform,VERB,USM
+w10137415_tj,stage,present,present,present,ADJ,USM
+w10137415_tj,colt,ride,ride,ride,VERB,USM
+w10137415_tj,colt,domesticate,domesticate,domesticate,VERB,USM
+w10137415_tj,coat,wear,wear,wear,VERB,USM
+w10137415_tj,goulash,eat,eat,eat,VERB,USM
+w10137415_tj,goulash,cook,cook,cook,VERB,USM
+w10137415_tj,garland,decorate,decorate,decorate,VERB,USM
+w10137415_tj,screen,watch,watch,watch,VERB,USM
+w10137415_tj,screen,program,program,program,NOUN,USM
+w10137415_tj,screen,display,display,display,VERB,USM
+w10137415_tj,flaxseed,eat,eat,eat,VERB,USM
+w10137415_tj,cowhide,wear,wear,wear,VERB,USM
+w10137415_tj,cowhide,make into clothes,make,make,AUX,USM
+w10137415_tj,cowhide,make into clothes,clothes,clothe,NOUN,USM
+w10137415_tj,pumpernickel,cook,cook,cook,VERB,USM
+w10137415_tj,pumpernickel,eat,eat,eat,VERB,USM
+w10137415_tj,schoolwork,throw away,throw,throw away,VERB,USM
+w10137415_tj,schoolwork,complete,complete,complete,VERB,USM
+w10147854_mlr,earplugs,protection,protection,protect,VERB,USM
+w10147854_mlr,earplugs,throw,throw,throw,VERB,USM
+w10147854_mlr,condominium,protection,protection,protect,VERB,USM
+w10147854_mlr,leopard,die from,die,die,VERB,USM
+w10147854_mlr,leopard,pet,pet,pet,VERB,USM
+w10147854_mlr,stepbrother,fight,fight,fight,VERB,USM
+w10147854_mlr,curd,dip,dip,dip,VERB,USM
+w10147854_mlr,busman,pay,pay,pay,VERB,USM
+w10147854_mlr,bookend,hold books on shelves,hold,hold,VERB,USM
+w10147854_mlr,bookend,hold books on shelves,books,book,NOUN,USM
+w10147854_mlr,bookend,hold books on shelves,shelves,shelf,NOUN,USM
+w10147854_mlr,bookend,keeping doors open,keeping,keep,AUX,USM
+w10147854_mlr,bookend,keeping doors open,doors,doorstop,VERB,USM
+w10147854_mlr,bookend,keeping doors open,open,open,VERB,USM
+w10147854_mlr,bookend,throwing,throwing,throw,VERB,USM
+w10147854_mlr,coconut,throw,throw,throw,VERB,USM
+w10147854_mlr,coconut,step on,step,step on,VERB,USM
+w10147854_mlr,coconut,break,break,break,VERB,USM
+w10147854_mlr,coconut,eat,eat,eat,VERB,USM
+w10147854_mlr,coconut,drink,drink,drink,VERB,USM
+w10147854_mlr,tumbler,put fluids in,put,put,AUX,USM
+w10147854_mlr,tumbler,put fluids in,fluids,fluid,NOUN,USM
+w10147854_mlr,tumbler,throw,throw,throw,VERB,USM
+w10147854_mlr,tumbler,roll,roll,roll,VERB,USM
+w10147854_mlr,stepfather,fight,fight,fight,VERB,USM
+w10147854_mlr,stepfather,ask for help,ask,ask,VERB,USM
+w10147854_mlr,stepfather,ask for help,help,help,VERB,USM
+w10147854_mlr,bus,ride,ride,ride,VERB,USM
+w10147854_mlr,bus,drive,drive,drive,VERB,USM
+w10147854_mlr,bus,crash,crash,crash,VERB,USM
+w10147854_mlr,hookers,pay,pay,pay,VERB,USM
+w10147854_mlr,bunny,skin,skin,skin,NOUN,USM
+w10147854_mlr,bunny,bake,bake,bake,VERB,USM
+w10147854_mlr,bunny,pet,pet,pet,VERB,USM
+w10147854_mlr,basement,storage,storage,store,VERB,USM
+w10147854_mlr,basement,bedroom,bedroom,bedroom,NOUN,USM
+w10147854_mlr,basement,game room,game,game,NOUN,USM
+w10147854_mlr,basement,game room,room,room,NOUN,USM
+w10147854_mlr,basement,walk in,walk,walk,VERB,USM
+w10147854_mlr,basement,walk out,walk,walk,VERB,USM
+w10147854_mlr,builder,building objects,building,build,VERB,USM
+w10147854_mlr,builder,building objects,objects,object,VERB,USM
+w10147854_mlr,builder,construct,construct,construct,VERB,USM
+w10147854_mlr,marksman,shooting rifles,shooting,shoot,VERB,USM
+w10147854_mlr,marksman,shooting rifles,rifles,rifle,NOUN,USM
+w10147854_mlr,marksman,hunting,hunting,hunt,VERB,USM
+w10147854_mlr,gunfighter,killing,killing,kill,VERB,USM
+w10147854_mlr,accountant,managing finances,managing,manage,VERB,USM
+w10147854_mlr,accountant,managing finances,finances,finances,NOUN,USM
+w10147854_mlr,macaroni,crafts,crafts,craft,VERB,USM
+w10147854_mlr,macaroni,baking,baking,bake,VERB,USM
+w10147854_mlr,macaroni,boiling,boiling,boil,VERB,USM
+w10147854_mlr,headmistress,managing schools,managing,manage,VERB,USM
+w10147854_mlr,headmistress,managing schools,schools,school,NOUN,USM
+w10147854_mlr,dip,chips,chips,chip,NOUN,USM
+w10147854_mlr,dip,bread,bread,bread,NOUN,USM
+w10147854_mlr,knot,tie,tie,tie,VERB,USM
+w10147854_mlr,knot,hang,hang,hang,VERB,USM
+w10147854_mlr,typewriter,writing,writing,write,VERB,USM
+w10147854_mlr,typewriter,editing,editing,edit,VERB,USM
+w10147854_mlr,cop,fighting,fighting,fight,VERB,USM
+w10147854_mlr,cop,asking for help,asking,ask,VERB,USM
+w10147854_mlr,cop,asking for help,help,help,VERB,USM
+w10147854_mlr,sausage,baking,baking,bake,VERB,USM
+w10147854_mlr,sausage,frying,frying,fry,VERB,USM
+w10147854_mlr,sausage,feeding,feeding,feed,VERB,USM
+w10147854_mlr,sausage,eating,eating,eat,VERB,USM
+w10147854_mlr,trashcan,throw things away,throw,throw away,VERB,USM
+w10147854_mlr,trashcan,throw things away,things,thing,NOUN,USM
+w10147854_mlr,trashcan,keep a door open,keep,keep,AUX,USM
+w10147854_mlr,trashcan,keep a door open,door,door,NOUN,USM
+w10147854_mlr,trashcan,keep a door open,open,open,VERB,USM
+w10147854_mlr,trashcan,roll,roll,roll,VERB,USM
+w10147854_mlr,grapefruit,eat,eat,eat,VERB,USM
+w10147854_mlr,grapefruit,throw away,throw,throw away,VERB,USM
+w10147854_mlr,grapefruit,feed to someone,feed,feed,VERB,USM
+w10147854_mlr,grapefruit,feed to someone,someone,someone,PRON,USM
+w10147854_mlr,candidate,vote for,vote,vote,VERB,USM
+w10147854_mlr,candidate,advocate,advocate,advocate,VERB,USM
+w10147854_mlr,engineer,coding,coding,code,VERB,USM
+w10147854_mlr,engineer,planning,planning,plan,VERB,USM
+w10147854_mlr,goblet,holds drinks,holds,hold,VERB,USM
+w10147854_mlr,goblet,holds drinks,drinks,drink,VERB,USM
+w10147854_mlr,goblet,small food,small,small,ADJ,USM
+w10147854_mlr,goblet,small food,food,food,NOUN,USM
+w10147854_mlr,goblet,throw,throw,throw,VERB,USM
+w10147854,plexiglas,window,window,window,NOUN,USM
+w10147854,plexiglas,breaking,breaking,break,VERB,USM
+w10147854,plexiglas,looking out of,looking,look,VERB,USM
+w10147854,custard,filling donuts,filling,fill,VERB,USM
+w10147854,custard,filling donuts,donuts,donut,NOUN,USM
+w10147854,custard,eating,eating,eat,VERB,USM
+w10147854,custard,putting on pastries,putting,put,AUX,USM
+w10147854,custard,putting on pastries,pastries,pastry,NOUN,USM
+w10147854,custard,cakes,cakes,cake,NOUN,USM
+w10147854,broomstick,hitting,hitting,hit,VERB,USM
+w10147854,broomstick,burning,burning,burn,VERB,USM
+w10147854,broomstick,throwing,throwing,throw,VERB,USM
+w10147854,gown,wearing,wearing,wear,VERB,USM
+w10147854,gown,burning,burning,burn,VERB,USM
+w10147854,gown,tearing up,tearing,tear,VERB,USM
+w10147854,cartridge,replace with,replace,replace,VERB,USM
+w10147854,cartridge,throw away,throw,throw away,VERB,USM
+w10147854,clerk,ask questions,ask,ask,VERB,USM
+w10147854,clerk,ask questions,questions,question,NOUN,USM
+w10147854,clerk,check out,check,check,VERB,USM
+w10147854,bosom,sitting,sitting,sit,VERB,USM
+w10147854,plaque,hanging,hanging,hang,VERB,USM
+w10147854,plaque,laying down,laying,lay,VERB,USM
+w10147854,plaque,propping up,propping,prop,NOUN,USM
+w10147854,lump,squeeze,squeeze,squeeze,VERB,USM
+w10147854,lump,cut out,cut,cut,VERB,USM
+w10147854,lump,rub,rub,rub,VERB,USM
+w10147854,backboard,punch it,punch,punch,VERB,USM
+w10147854,backboard,put behind bed,put,put,AUX,USM
+w10147854,backboard,put behind bed,behind,behind,ADP,USM
+w10147854,backboard,put behind bed,bed,bed,NOUN,USM
+w10147854,fillet,cooking,cooking,cook,VERB,USM
+w10147854,fillet,baking,baking,bake,VERB,USM
+w10147854,fillet,broiling,broiling,broil,VERB,USM
+w10147854,fillet,cutting,cutting,cut,VERB,USM
+w10147854,dermatologist,doctor for skin,doctor,doctor,NOUN,USM
+w10147854,dermatologist,doctor for skin,skin,skin,NOUN,USM
+w10147854,appendage,hitting something,hitting,hit,VERB,USM
+w10147854,appendage,hitting something,something,something,PRON,USM
+w10147854,children,play,play,play,VERB,USM
+w10147854,children,raise,raise,raise,VERB,USM
+w10147854,children,cook for,cook,cook,VERB,USM
+w10147854,children,care for,care,care,VERB,USM
+w10147854,giblets,fry,fry,fry,VERB,USM
+w10147854,giblets,put in stew,put,put,AUX,USM
+w10147854,giblets,put in stew,stew,stew,VERB,USM
+w10147854,giblets,cook,cook,cook,VERB,USM
+w10147854,limb,burn,burn,burn,VERB,USM
+w10147854,limb,break,break,break,VERB,USM
+w10147854,foliage,burn,burn,burn,VERB,USM
+w10147854,foliage,smoke,smoke,smoke,VERB,USM
+w10147854,foliage,decorate,decorate,decorate,VERB,USM
+w10147854,coaster,put glass on,put,put,AUX,USM
+w10147854,coaster,put glass on,glass,glass,NOUN,USM
+w10147854,coaster,throw,throw,throw,VERB,USM
+w10147854,greens,eat,eat,eat,VERB,USM
+w10147854,fishbone,throw away,throw,throw away,VERB,USM
+w10147854,hutch,storage,storage,store,VERB,USM
+w10147854,chin,rest on hand,rest,rest,VERB,USM
+w10147854,chin,rest on hand,hand,hand,NOUN,USM
+w10147854,chin,rub with finger,rub,rub,VERB,USM
+w10147854,chin,rub with finger,finger,finger,NOUN,USM
+w10147854,lens,look through,look,look,VERB,USM
+w10147854,lens,break,break,break,VERB,USM
+w10147854,lens,crack,crack,crack,VERB,USM
+w10147854,aluminum,wrap,wrap,wrap,VERB,USM
+w10147854,aluminum,bake,bake,bake,VERB,USM
+w10147854,ledger,record,record,record,VERB,USM
+w10147854,assemblyman,talk,talk,talk,VERB,USM
+w10147854,hickory,burn,burn,burn,VERB,USM
+w10147854,hickory,build,build,build,VERB,USM
+w10147854,hickory,construct,construct,construct,NOUN,USM
+w10147854,bugle,play,play,play,VERB,USM
+w10147854,capsule,take meds,take,take,AUX,USM
+w10147854,capsule,take meds,mess,medicine,NOUN,USM
+w10147854,capsule,break in half,break,break,VERB,USM
+w10147854,capsule,break in half,half,half,NOUN,USM
+w10147854,capsule,spit out,spit,spit,VERB,USM
+w10147854,cruiser,drive,drive,drive,VERB,USM
+w10147854,cruiser,crash,crash,crash,VERB,USM
+w10148076,sandwich,eaten,eaten,eat,VERB,USM
+w10148076,sandwich,thrown,thrown,throw,VERB,USM
+w10148076,sandwich,made,made,make,AUX,USM
+w10148076,sandwich,handled,handled,handle,VERB,USM
+w10148076,sandwich,cooked,cooked,cook,VERB,USM
+w10148076,sandwich,microwaved,microwaved,microwave,VERB,USM
+w10148076,sandwich,grilled,grilled,grill,VERB,USM
+w10148076,sandwich,toasted,toasted,toast,VERB,USM
+w10148076,puddle,jump,jump,jump,VERB,USM
+w10148076,puddle,hop,hop,hop,VERB,USM
+w10148076,puddle,dry,dry,dry,VERB,USM
+w10148076,puddle,dive,dive,dive,VERB,USM
+w10148076,puddle,skid,skid,skid,AUX,USM
+w10148076,toy,played,played,play,VERB,USM
+w10148076,toy,used,used,use,AUX,USM
+w10148076,toy,bounced,bounced,bounce,VERB,USM
+w10148076,toy,stepped,stepped,step on,VERB,USM
+w10148076,toy,built,built,build,VERB,USM
+w10148076,toy,assembled,assembled,assemble,VERB,USM
+w10148076,toy,broken,broken,break,VERB,USM
+w10148076,toy,smashed,smashed,smash,VERB,USM
+w10148076,toy,burned,burned,burn,VERB,USM
+w10148076,toy,melted,melted,melt,VERB,USM
+w10148076,tapestry,hung,hung,hang,VERB,USM
+w10148076,tapestry,used,used,use,AUX,USM
+w10148076,tapestry,plastered,plastered,plaster,VERB,USM
+w10148076,tapestry,taped,taped,tap,VERB,USM
+w10148076,tapestry,nailed,nailed,nai,VERB,USM
+w10148076,tapestry,burned,burned,burn,VERB,USM
+w10148076,tapestry,thrown,thrown,throw,VERB,USM
+w10148076,vulva,passed,passed,pass,VERB,USM
+w10148076,plant,eat,eat,eat,VERB,USM
+w10148076,plant,grow,grow,grow,VERB,USM
+w10148076,plant,feed,feed,feed,VERB,USM
+w10148076,plant,dig,dig,dig,VERB,USM
+w10148076,plant,planted,planted,plan,VERB,USM
+w10148076,plant,cut,cut,cut,VERB,USM
+w10148076,plant,mowed,mowed,mow,VERB,USM
+w10148076,spokesman,use,use,use,AUX,USM
+w10148076,spokesman,introduce,introduce,introduce,NOUN,USM
+w10148076,spokesman,represent,represent,represent,VERB,USM
+w10148076,spokesman,demand,demand,demand,VERB,USM
+w10148076,spokesman,order,order,order,VERB,USM
+w10148076,spokesman,socialize,socialize,socialize,VERB,USM
+w10148076,spokesman,injure,injure,injure,VERB,USM
+w10148076,spokesman,kill,kill,kill,VERB,USM
+w10148076,paperhanger,hang,hang,hang,VERB,USM
+w10148076,paperhanger,set,set,set,VERB,USM
+w10148076,paperhanger,use,use,use,AUX,USM
+w10148076,paperhanger,break,break,break,VERB,USM
+w10148076,treat,eat,eat,eat,VERB,USM
+w10148076,treat,use,use,use,AUX,USM
+w10148076,treat,experience,experience,experience,NOUN,USM
+w10148076,treat,drink,drink,drink,VERB,USM
+w10148076,pug,pet,pet,pet,VERB,USM
+w10148076,pug,feed,feed,feed,VERB,USM
+w10148076,pug,water,water,water,VERB,USM
+w10148076,pug,play,play,play,VERB,USM
+w10148076,pug,command,command,command,VERB,USM
+w10148076,pug,kill,kill,kill,VERB,USM
+w10148076,pug,injure,injure,injure,VERB,USM
+w10148076,pug,hit,hit,hit,VERB,USM
+w10148076,pug,walk,walk,walk,VERB,USM
+w10148076,bath,take,take,take,AUX,USM
+w10148076,bath,buy,buy,buy,VERB,USM
+w10148076,bath,break,break,break,VERB,USM
+w10148076,bath,install,install,install,VERB,USM
+w10148076,bath,replace,replace,replace,VERB,USM
+w10148076,tradesman,use,use,use,AUX,USM
+w10148076,tradesman,socialize,socialize,socialize,VERB,USM
+w10148076,tradesman,trade,trade,trade,VERB,USM
+w10148076,tradesman,injure,injure,injure,VERB,USM
+w10148076,tradesman,kill,kill,kill,VERB,USM
+w10148076,pinewood,use,use,use,AUX,USM
+w10148076,pinewood,cut,cut,cut,VERB,USM
+w10148076,pinewood,shampoo,shampoo,shampoo,NOUN,USM
+w10148076,pinewood,soap,soap,soap,NOUN,USM
+w10148076,bricklayer,lay,lay,lay,VERB,USM
+w10148076,bricklayer,socialize,socialize,socialize,VERB,USM
+w10148076,bricklayer,injure,injure,injure,VERB,USM
+w10148076,bricklayer,kill,kill,kill,VERB,USM
+w10148076,wristband,wear,wear,wear,VERB,USM
+w10148076,wristband,slingshot,slingshot,slingshot,VERB,USM
+w10148076,wristband,cut,cut,cut,VERB,USM
+w10148076,wristband,stretch,stretch,stretch,VERB,USM
+w10148076,wristband,fidget,fidget,fidget,VERB,USM
+w10148076,sawhorse,use,use,use,AUX,USM
+w10148076,sawhorse,balance,balance,balance,VERB,USM
+w10148076,sawhorse,set,set,set,VERB,USM
+w10148076,sawhorse,place,place,place,NOUN,USM
+w10148076,sawhorse,drag,drag,drag,VERB,USM
+w10148076,sawhorse,carry,carry,carry,VERB,USM
+w10148076,sawhorse,break,break,break,VERB,USM
+w10148076,sawhorse,burn,burn,burn,VERB,USM
+w10148076,therapist,talk,talk,talk,VERB,USM
+w10148076,therapist,socialize,socialize,socialize,VERB,USM
+w10148076,therapist,ask,ask,ask,VERB,USM
+w10148076,therapist,seek,seek,seek,VERB,USM
+w10148076,therapist,injure,injure,injure,VERB,USM
+w10148076,therapist,kill,kill,kill,VERB,USM
+w10148076,toiletry,bring,bring,bring,VERB,USM
+w10148076,toiletry,use,use,use,AUX,USM
+w10148076,toiletry,forget,forget,forget,VERB,USM
+w10148076,toiletry,replace,replace,replace,VERB,USM
+w10148076,toiletry,clean,clean,clean,VERB,USM
+w10148076,toiletry,hygeine,hygiene,hygiene,VERB,USM
+w10148076,yourself,think,think,think,VERB,USM
+w10148076,yourself,talk,talk,talk,VERB,USM
+w10148076,yourself,play,play,play,VERB,USM
+w10148076,yourself,wake,wake,wake,VERB,USM
+w10148076,yourself,sleep,sleep,sleep,VERB,USM
+w10148076,yourself,laugh,laugh,laugh,VERB,USM
+w10148076,yourself,cry,cry,cry,VERB,USM
+w10148076,yourself,pleasure,pleasure,pleasure,VERB,USM
+w10148076,yourself,pain,pain,pain,NOUN,USM
+w10148076,yourself,work,work,work,VERB,USM
+w10148076,yourself,eat,eat,eat,VERB,USM
+w10148076,yourself,drink,drink,drink,VERB,USM
+w10148076,yourself,use,use,use,AUX,USM
+w10148076,yourself,exercise,exercise,exercise,VERB,USM
+w10148076,yourself,kill,kill,kill,VERB,USM
+w10148076,magnet,use,use,use,AUX,USM
+w10148076,magnet,bring,bring,bring,VERB,USM
+w10148076,magnet,throw,throw,throw,VERB,USM
+w10148076,map,read,read,read,VERB,USM
+w10148076,map,use,use,use,AUX,USM
+w10148076,map,scrap,scrap,scrap,VERB,USM
+w10148076,map,draw,draw,dree,VERB,USM
+w10148076,map,trace,trace,trace,VERB,USM
+w10148076,map,burn,burn,burn,VERB,USM
+w10148076,windowpane,install,install,install,VERB,USM
+w10148076,windowpane,buy,buy,buy,VERB,USM
+w10148076,windowpane,replace,replace,replace,VERB,USM
+w10148076,windowpane,break,break,break,VERB,USM
+w10148076,mattress,lay,lay,lay,VERB,USM
+w10148076,mattress,buy,buy,buy,VERB,USM
+w10148076,mattress,replace,replace,replace,VERB,USM
+w10148076,mattress,cover,cover,cover,VERB,USM
+w10148076,mattress,make,make,make,AUX,USM
+w10148076,mattress,break,break,break,VERB,USM
+w10148076,mattress,dispose,dispose,dispose,VERB,USM
+w10148076,scallion,plant,plant,plant,NOUN,USM
+w10148076,scallion,grow,grow,grow,VERB,USM
+w10148076,scallion,eat,eat,eat,VERB,USM
+w10148076,scallion,feed,feed,feed,VERB,USM
+w10148076,scallion,water,water,water,VERB,USM
+w10148076,scallion,dispose,dispose,dispose,VERB,USM
+w10148076,skullcap,wear,wear,wear,VERB,USM
+w10148076,skullcap,keep,keep,keep,VERB,USM
+w10148076,skullcap,swim,swim,swim,VERB,USM
+w10148076,skullcap,pray,pray,pray,VERB,USM
+w10148076,skullcap,prostrate,prostrate,prostrate,VERB,USM
+w10148076,skullcap,dispose,dispose,dispose,VERB,USM
+w10148076,rod,hit,hit,hit,VERB,USM
+w10148076,rod,swing,swing,swing,VERB,USM
+w10148076,rod,fish,fish,fish,VERB,USM
+w10148076,rod,balance,balance,balance,VERB,USM
+w10148076,rod,twirl,twirl,twirl,VERB,USM
+w10148076,basket,fill,fill,fill,VERB,USM
+w10148076,basket,hold,hold,hold,VERB,USM
+w10148076,basket,swing,swing,swing,VERB,USM
+w10148076,basket,hide,hide,hide,VERB,USM
+w10148076,basket,break,break,break,VERB,USM
+w10148076,thyme,grow,grow,grow,VERB,USM
+w10148076,thyme,water,water,water,VERB,USM
+w10148076,thyme,plant,plant,plant,VERB,USM
+w10148076,thyme,cook,cook,cook,VERB,USM
+w10148076,thyme,eat,eat,eat,VERB,USM
+w10148076,strudel,cook,cook,cook,VERB,USM
+w10148076,strudel,microwave,microwave,microwave,VERB,USM
+w10148076,strudel,make,make,make,AUX,USM
+w10148076,strudel,eat,eat,eat,VERB,USM
+w10148076,strudel,share,share,share,VERB,USM
+w10148076,pilaf,make,make,make,AUX,USM
+w10148076,pilaf,cook,cook,cook,VERB,USM
+w10148076,pilaf,stir,stir,stir,VERB,USM
+w10148076,pilaf,eat,eat,eat,VERB,USM
+w10152527_jmt,seashore,vacation,vacation,vacation,VERB,USM
+w10152527_jmt,seashore,photography,photography,photograph,VERB,USM
+w10152527_jmt,seashore,boating,boating,boate,VERB,USM
+w10152527_jmt,seashore,fishing,fishing,fish,VERB,USM
+w10152527_jmt,seashore,drinking,drinking,drink,VERB,USM
+w10152527_jmt,seashore,sports,sports,sport,NOUN,USM
+w10152527_jmt,seashore,seashell hunting,seashell,seashell,NOUN,USM
+w10152527_jmt,seashore,seashell hunting,hunting,hunt,VERB,USM
+w10152527_jmt,seashore,metal detecting,metal,metal,NOUN,USM
+w10152527_jmt,seashore,metal detecting,detecting,detect,VERB,USM
+w10152527_jmt,seashore,relaxing,relaxing,relax,VERB,USM
+w10152527_jmt,knickers,clothes,clothes,clothe,NOUN,USM
+w10152527_jmt,knickers,rags,rags,rag,NOUN,USM
+w10152527_jmt,buckwheat,cereal,cereal,cereal,NOUN,USM
+w10152527_jmt,buckwheat,baking,baking,bake,VERB,USM
+w10152527_jmt,buckwheat,animal feed,animal,animal,NOUN,USM
+w10152527_jmt,buckwheat,animal feed,feed,feed,VERB,USM
+w10152527_jmt,erection,sex,sex,sex,VERB,USM
+w10152527_jmt,erection,flagpole,flagpole,flagpole,NOUN,USM
+w10152527_jmt,erection,walls,walls,wall,NOUN,USM
+w10152527_jmt,pedicurist,pedicures,pedicures,pedicure,NOUN,USM
+w10152527_jmt,pedicurist,friend,friend,friend,NOUN,USM
+w10152527_jmt,pedicurist,employee,employee,employee,NOUN,USM
+w10152527_jmt,antiseptics,sterilization,sterilization,sterilize,VERB,USM
+w10152527_jmt,antiseptics,preperation,preparation,prepare,VERB,USM
+w10152527_jmt,coverall,clothes,clothes,clothe,NOUN,USM
+w10152527_jmt,coverall,yardword,yard,yard,X,USM
+w10152527_jmt,coverall,yardword,word,word,NOUN,USM
+w10152527_jmt,coverall,farmwork,farm,farm,VERB,USM
+w10152527_jmt,fern,plant,plant,plant,NOUN,USM
+w10152527_jmt,fern,food,food,food,NOUN,USM
+w10152527_jmt,fern,decoration,decoration,decorate,VERB,USM
+w10152527_jmt,kazoo,music,music,music,VERB,USM
+w10152527_jmt,kazoo,toy ,toy,toy,NOUN,USM
+w10152527_jmt,insole,cushioning,cushioning,cushioning,VERB,USM
+w10152527_jmt,pulley,move heavy things,move,move,VERB,USM
+w10152527_jmt,pulley,move heavy things,heavy,heavy,ADJ,USM
+w10152527_jmt,pulley,move heavy things,things,thing,NOUN,USM
+w10152527_jmt,orphan,friend,friend,friend,VERB,USM
+w10152527_jmt,granite,building,building,build,VERB,USM
+w10152527_jmt,granite,walkway,walkway,walkway,NOUN,USM
+w10152527_jmt,hitchhiker,friend,friend,friend,VERB,USM
+w10152527_jmt,stockbroker,employee,employee,employee,NOUN,USM
+w10152527_jmt,stockbroker,handling stocks,handling,handle,VERB,USM
+w10152527_jmt,stockbroker,handling stocks,stocks,stock,NOUN,USM
+w10152527_jmt,uncle,friend,friend,friend,NOUN,USM
+w10152527_jmt,uncle,monetary assisstance,monetary,monetary,NOUN,USM
+w10152527_jmt,uncle,monetary assisstance,assist,assist,VERB,USM
+w10152527_jmt,debris,trash,trash,trash,INTJ,USM
+w10152527_jmt,debris,recycling,recycling,recycl,VERB,USM
+w10152527_jmt,swing,toy,toy,toy,NOUN,USM
+w10152527_jmt,swing,ride,ride,ride,NOUN,USM
+w10152527_jmt,swing,science experiment,science,science,NOUN,USM
+w10152527_jmt,swing,science experiment,experiment,experiment,NOUN,USM
+w10152527_jmt,clothespin,diaper pin,diaper,diaper,NOUN,USM
+w10152527_jmt,clothespin,diaper pin,pin,pin,VERB,USM
+w10152527_jmt,clothespin,pin someting on clothes,pin,pin,VERB,USM
+w10152527_jmt,clothespin,pin someting on clothes,something,something,PRON,USM
+w10152527_jmt,clothespin,pin someting on clothes,clothes,clothe,NOUN,USM
+w10152527_jmt,rook,sacrifice,sacrifice,sacrifice,VERB,USM
+w10152527_jmt,rook,take the queen,take,take,AUX,USM
+w10152527_jmt,rook,take the queen,queen,queen,NOUN,USM
+w10152527_jmt,rook,checkmate,checkmate,checkmate,NOUN,USM
+w10152527_jmt,poker,gambling,gambling,gamble,VERB,USM
+w10152527_jmt,poker,profits,profits,profit,VERB,USM
+w10152527_jmt,me,sona points,points,point,NOUN,USM
+w10152527_jmt,penknife,to write,write,write,VERB,USM
+w10152527_jmt,penknife,to stab,stab,stab,VERB,USM
+w10152527_jmt,marketeer,to advertise,advertise,advertise,VERB,USM
+w10152527_jmt,crap,manure,manure,manure,NOUN,USM
+w10152527_jmt,mint,flavoring,flavoring,flavor,VERB,USM
+w10152527_jmt,mint,medicine,medicine,medicine,NOUN,USM
+w10152527_jmt,blister,heal,heal,heal,VERB,USM
+w10152790,pony,ride,ride,ride,VERB,USM
+w10152790,pony,wash,wash,wash,VERB,USM
+w10152790,pony,groom,groom,groom,NOUN,USM
+w10152790,pony,feed,feed,feed,VERB,USM
+w10152790,pony,dress up,dress,dress,VERB,USM
+w10152790,mice,killed,killed,kill,VERB,USM
+w10152790,mice,experiment,experiment,experiment,NOUN,USM
+w10152790,mice,pet,pet,pet,VERB,USM
+w10152790,handrail,hold,hold,hold,VERB,USM
+w10152790,handrail,pulled,pulled,pull,VERB,USM
+w10152790,handrail,slid down,slid,slid,AUX,USM
+w10152790,entertainer,birthday parties,birthday,birthday,NOUN,USM
+w10152790,entertainer,birthday parties,parties,party,NOUN,USM
+w10152790,entertainer,events,events,event,NOUN,USM
+w10152790,prune,eaten,eaten,eat,VERB,USM
+w10152790,hound,pet,pet,pet,VERB,USM
+w10152790,hound,named,named,name,VERB,USM
+w10152790,hound,play with,play,play,VERB,USM
+w10152790,pellet,put in cages,put,put,AUX,USM
+w10152790,pellet,put in cages,cages,cage,VERB,USM
+w10152790,pellet,thrown away,thrown,throw,VERB,USM
+w10152790,medallion,awarded,awarded,award,VERB,USM
+w10152790,medallion,gifted,gifted,gift,VERB,USM
+w10152790,medallion,made,made,make,AUX,USM
+w10152790,newsprint,read,read,read,VERB,USM
+w10152790,raspberry,eat,eat,eat,VERB,USM
+w10152790,raspberry,squash,squash,squish,VERB,USM
+w10152790,raspberry,smash,smash,smash,VERB,USM
+w10152790,raspberry,chew,chew,chew,VERB,USM
+w10152790,prankster,pranks,pranks,prank,VERB,USM
+w10152790,prankster,jokes,jokes,joke,VERB,USM
+w10152790,fingertip,type,type,type,VERB,USM
+w10152790,fingertip,feel,feel,feel,VERB,USM
+w10152790,fingertip,touch,touch,touch,VERB,USM
+w10152790,lighthouse,see,see,see,VERB,USM
+w10152790,lighthouse,guide boats,guide,guide,VERB,USM
+w10152790,lighthouse,guide boats,boats,boats,NOUN,USM
+w10152790,landlady,pay rent to,pay,pay,VERB,USM
+w10152790,landlady,pay rent to,rent,rent,VERB,USM
+w10152790,punter,football game,football,football,NOUN,USM
+w10152790,punter,football game,game,game,NOUN,USM
+w10152790,planner,school work,school,school,NOUN,USM
+w10152790,planner,school work,work,work,VERB,USM
+w10152790,planner,organized,organized,organize,VERB,USM
+w10152790,planner,plan events,plan,plan,VERB,USM
+w10152790,planner,plan events,events,event,NOUN,USM
+w10152790,poop,thrown,thrown,throw,VERB,USM
+w10152790,poop,flushed,flushed,flush,VERB,USM
+w10152790,garbage,crushed,crushed,crush,VERB,USM
+w10152790,garbage,burned,burned,burn,VERB,USM
+w10152790,printout,printed,printed,print,VERB,USM
+w10152790,printout,stapled,stapled,stapl,VERB,USM
+w10152790,printout,read,read,read,VERB,USM
+w10152790,limousine,ride in,ride,ride,VERB,USM
+w10152790,limousine,drive,drive,drive,VERB,USM
+w10152790,limousine,party ,party,party,VERB,USM
+w10152790,pecan,eat,eat,eat,VERB,USM
+w10152790,pecan,pecan pie,pecan,pecan,ADJ,USM
+w10152790,pecan,pecan pie,pie,pie,NOUN,USM
+w10152790,pecan,pie crust,pie,pie,NOUN,USM
+w10152790,pecan,pie crust,crust,crust,NOUN,USM
+w10152790,frog,touched,touched,touch,VERB,USM
+w10152790,frog,held,held,hold,VERB,USM
+w10152790,frog,squash,squash,squish,VERB,USM
+w10152790,golf,play,play,play,VERB,USM
+w10152790,golf,watch ,watch,watch,VERB,USM
+w10152790,needlework,make,make,make,AUX,USM
+w10152790,needlework,sell,sell,sell,VERB,USM
+w10152790,needlework,gift it to someone,gift,gift,NOUN,USM
+w10152790,needlework,gift it to someone,someone,someone,PRON,USM
+w10152790,pants,wear,wear,wear,VERB,USM
+w10152790,pants,wash,wash,wash,VERB,USM
+w10152790,pants,steam,steam,steam,NOUN,USM
+w10152790,pants,iron,iron,iron,VERB,USM
+w10152790,pants,ripped,ripped,rip,VERB,USM
+w10152790,pants,paint,paint,paint,VERB,USM
+w10152790,penthouse,live in ,live,live,VERB,USM
+w10152790,penthouse,admire,admire,admire,VERB,USM
+w10152790,housewife,cook,cook,cook,VERB,USM
+w10152790,housewife,clean,clean,clean,VERB,USM
+w10152790,housewife,laundry,laundry,laundry,NOUN,USM
+w10152790,housewife,have fun with,fun,fun,NOUN,USM
+w10152790,noose,kill,kill,kill,VERB,USM
+w10152790,jumper,wear,wear,wear,VERB,USM
+w10153807_mlp,dice,play,play,play,VERB,USM
+w10153807_mlp,adapter,hook to something,hook,hook,VERB,USM
+w10153807_mlp,adapter,hook to something,something,something,PRON,USM
+w10153807_mlp,adult,give birth,give,give,VERB,USM
+w10153807_mlp,adult,give birth,birth,birth,VERB,USM
+w10153807_mlp,adult,make love,make,make,AUX,USM
+w10153807_mlp,adult,make love,love,love,VERB,USM
+w10153807_mlp,groom,married,married,marry,VERB,USM
+w10153807_mlp,guardsman,watch,watch,watch,VERB,USM
+w10153807_mlp,guardsman,protect,protect,protect,VERB,USM
+w10153807_mlp,root,growund,ground,ground,NOUN,USM
+w10153807_mlp,root,dirt,dirt,dirt,NOUN,USM
+w10153807_mlp,cadillac,small,small,small,ADJ,USM
+w10153807_mlp,cadillac,pretty,pretty,pretty,ADV,USM
+w10153807_mlp,astronaut,space,space,space,NOUN,USM
+w10153807_mlp,astronaut,white,white,white,ADJ,USM
+w10153807_mlp,handbrake,hands,hands,hand,NOUN,USM
+w10153807_mlp,bridesmaid,married,married,marry,VERB,USM
+w10153807_mlp,bridesmaid,groom,groom,groom,NOUN,USM
+w10153807_mlp,dryer,clean,clean,clean,VERB,USM
+w10153807_mlp,dryer,hot,hot,hot,ADJ,USM
+w10153807_mlp,slut,lost,lost,lose,ADJ,USM
+w10153807_mlp,graphite,pretty,pretty,pretty,ADV,USM
+w10153807_mlp,camel,back,back,back,ADV,USM
+w10153807_mlp,kindling,together,together,together,ADV,USM
+w10153807_mlp,kindling,sparking,sparking,spark,VERB,USM
+w10153807_mlp,muffler,loud,loud,loud,ADV,USM
+w10153807_mlp,chihuahua,small,small,small,ADJ,USM
+w10153807_mlp,chihuahua,fiesty,feisty,feisty,NOUN,USM
+w10153807_mlp,zipper,close,close,close,ADJ,USM
+w10153807_mlp,bullfrog,loud,loud,loud,ADV,USM
+w10153807_mlp,bullfrog,big,big,big,ADJ,USM
+w10153807_mlp,bullfrog,ugly,ugly,ugly,ADJ,USM
+w10153807_mlp,grease,slick,slick,slick,ADJ,USM
+w10153807_mlp,grease,cook,cook,cook,VERB,USM
+w10153807_mlp,creature,big,big,big,ADJ,USM
+w10153807_mlp,creature,small,small,small,ADJ,USM
+w10153807_mlp,creature,ugly,ugly,ugly,ADJ,USM
+w10153807_mlp,beggar,lost,lost,lose,ADJ,USM
+w10157910,shuffleboard,play,play,play,VERB,USM
+w10157910,shuffleboard,collaborate,collaborate,collaborate,NOUN,USM
+w10157910,shuffleboard,win,win,win,VERB,USM
+w10157910,shuffleboard,lose,lose,lose,VERB,USM
+w10157910,shuffleboard,experience,experience,experience,NOUN,USM
+w10157910,parachute,fly,fly,fly,VERB,USM
+w10157910,parachute,float,float,float,VERB,USM
+w10157910,parachute,protect,protect,protect,VERB,USM
+w10157910,parachute,hover,hover,hover,VERB,USM
+w10157910,parachute,expand,expand,expand,VERB,USM
+w10157910,parachute,deploy,deploy,deploy,VERB,USM
+w10157910,parachute,pull,pull,pull,VERB,USM
+w10157910,parachute,protect,protect,protect,VERB,USM
+w10157910,parachute,save,save,save,VERB,USM
+w10157910,soldier,protect,protect,protect,VERB,USM
+w10157910,soldier,shoot,shoot,shoot,VERB,USM
+w10157910,soldier,serve,serve,serve,VERB,USM
+w10157910,soldier,support,support,support,VERB,USM
+w10157910,soldier,combat,combat,combat,VERB,USM
+w10157910,soldier,exercise,exercise,exercise,VERB,USM
+w10157910,soldier,kill,kill,kill,VERB,USM
+w10157910,soldier,work,work,work,VERB,USM
+w10157910,placard,identify,identify,identify,VERB,USM
+w10157910,placard,name,name,name,NOUN,USM
+w10157910,placard,label,label,label,VERB,USM
+w10157910,placard,decorate,decorate,decorate,VERB,USM
+w10157910,oar,paddle,paddle,paddle,VERB,USM
+w10157910,oar,swim,swim,swim,VERB,USM
+w10157910,oar,float,float,float,VERB,USM
+w10157910,oar,travel,travel,travel,VERB,USM
+w10157910,nose,smell,smell,smell,VERB,USM
+w10157910,nose,breathe,breathe,breato,VERB,USM
+w10157910,nose,huff,huff,huff,VERB,USM
+w10157910,nose,sniff,sniff,sniff,VERB,USM
+w10157910,nose,sniffle,sniffle,sniff,VERB,USM
+w10157910,nose,run,run,run,VERB,USM
+w10157910,nose,bleed,bleed,bleed,VERB,USM
+w10157910,nose,identify,identify,identify,VERB,USM
+w10157910,nose,sense,sense,sense,NOUN,USM
+w10157910,peppermint,minty,minty,minty,NOUN,USM
+w10157910,peppermint,breathe,breathe,breato,VERB,USM
+w10157910,peppermint,freshen,freshen,freshen,VERB,USM
+w10157910,peppermint,enhance,enhance,enhance,NOUN,USM
+w10157910,peppermint,eat,eat,eat,VERB,USM
+w10157910,peppermint,taste,taste,taste,VERB,USM
+w10157910,peppermint,consume,consume,consume,NOUN,USM
+w10157910,orgy,sex,sex,sex,VERB,USM
+w10157910,scab,heal,heal,heal,VERB,USM
+w10157910,scab,strengthen,strengthen,strengthen,ADV,USM
+w10157910,scab,protect,protect,protect,VERB,USM
+w10157910,scab,replenish,replenish,replenish,VERB,USM
+w10157910,practitioner,heal,heal,heal,VERB,USM
+w10157910,practitioner,health,health,health,NOUN,USM
+w10157910,practitioner,inform,inform,inform,VERB,USM
+w10157910,practitioner,study,study,study,VERB,USM
+w10157910,practitioner,protect,protect,protect,VERB,USM
+w10157910,practitioner,strengthen,strengthen,strengthen,ADV,USM
+w10157910,salve,lotion,lotion,lotion,NOUN,USM
+w10157910,salve,protect,protect,protect,VERB,USM
+w10157910,salve,moisturize,moisturize,moisturize,VERB,USM
+w10157910,salve,ointment,ointment,ointment,NOUN,USM
+w10157910,salve,replenish,replenish,replenish,VERB,USM
+w10157910,robe,dry,dry,dry,ADJ,USM
+w10157910,robe,cover,cover,cover,VERB,USM
+w10157910,robe,warm,warm,warm,VERB,USM
+w10157910,robe,shield,shield,shield,VERB,USM
+w10157910,robe,protect,protect,protect,VERB,USM
+w10157910,robe,comfort,comfort,comfort,VERB,USM
+w10157910,vaseline,moisturize,moisturize,moisturize,VERB,USM
+w10157910,vaseline,protect,protect,protect,VERB,USM
+w10157910,vaseline,lotion,lotion,lotion,NOUN,USM
+w10157910,vaseline,chapstick,chopstick,chopstick,NOUN,USM
+w10157910,vaseline,eyelashes,eyelashes,eyelash,NOUN,USM
+w10157910,vaseline,skincare,skincare,skincare,NOUN,USM
+w10157910,organ,survive,survive,survive,VERB,USM
+w10157910,organ,vital,vital,vital,ADJ,USM
+w10157910,organ,healthy,healthy,healthy,ADJ,USM
+w10157910,organ,save,save,save,VERB,USM
+w10157910,organ,crutial,crucial,crucial,ADJ,USM
+w10157910,organ,pump,pump,pump,VERB,USM
+w10157910,organ,bleed,bleed,bleed,VERB,USM
+w10157910,organ,survive,survive,survive,VERB,USM
+w10157910,moccasin,shoes,shoes,shoe,VERB,USM
+w10157910,moccasin,warm,warm,warm,VERB,USM
+w10157910,moccasin,comfort,comfort,comfort,VERB,USM
+w10157910,moccasin,protect,protect,protect,VERB,USM
+w10157910,publisher,write,write,write,VERB,USM
+w10157910,publisher,read,read,read,VERB,USM
+w10157910,publisher,publish,publish,publish,VERB,USM
+w10157910,publisher,correct,correct,correct,VERB,USM
+w10157910,publisher,edit,edit,edit,NOUN,USM
+w10157910,publisher,supply,supply,supply,NOUN,USM
+w10157910,mommy,comfort,comfort,comfort,NOUN,USM
+w10157910,mommy,love,love,love,VERB,USM
+w10157910,mommy,protect,protect,protect,VERB,USM
+w10157910,mommy,console,console,console,VERB,USM
+w10157910,nugget,eat,eat,eat,VERB,USM
+w10157910,nugget,consume,consume,consume,VERB,USM
+w10157910,nugget,diet,diet,diet,NOUN,USM
+w10157910,vomit,expel,expel,expel,VERB,USM
+w10157910,vomit,illness,illness,illness,NOUN,USM
+w10157910,vomit,sick,sick,sick,ADJ,USM
+w10157910,tunic,warm,warm,warm,VERB,USM
+w10157910,tunic,protect,protect,protect,VERB,USM
+w10157910,tunic,wear,wear,wear,VERB,USM
+w10157910,pear,eat,eat,eat,VERB,USM
+w10157910,pear,diet,diet,diet,NOUN,USM
+w10157910,pear,nutrients,nutrients,nutrient,NOUN,USM
+w10157910,pear,consume,consume,consume,VERB,USM
+w10157910,spout,water,water,water,VERB,USM
+w10157910,spout,hydrate,hydrate,hydrate,VERB,USM
+w10157910,spout,moisturize,moisturize,moisturize,VERB,USM
+w10157910,wallboard,inform,inform,inform,VERB,USM
+w10157910,shrine,worship,worship,worship,VERB,USM
+w10157910,shrine,religion,religion,religion,NOUN,USM
+w10157910,shrine,admire,admire,admire,VERB,USM
+w10157910,shrine,adore,adore,adore,ADV,USM
+w10157910,skirt,fashion,fashion,fashion,NOUN,USM
+w10157910,skirt,wear,wear,wear,VERB,USM
+w10157910,skirt,cheer,cheer,cheer,VERB,USM
+w10157910,snowman,snow,snow,snow,NOUN,USM
+w10157910,snowman,freeze,freeze,freeze,VERB,USM
+w10157910,snowman,ice,ice,ice,NOUN,USM
+w10157910,snowman,play,play,play,VERB,USM
+w10157910,sauerkraut,eat,eat,eat,VERB,USM
+w10157910,sauerkraut,consume,consume,consume,VERB,USM
+w10157910,sauerkraut,devour,devour,devour,VERB,USM
+w10157910,storehouse,store,store,store,VERB,USM
+w10157910,storehouse,protect,protect,protect,VERB,USM
+w10157910,storehouse,hide,hide,hide,VERB,USM
+w10157910,storehouse,lock,lock,lock,VERB,USM
+w10157910,lozenge,soothe,soothe,soothe,VERB,USM
+w10157910,lozenge,heal,heal,heal,VERB,USM
+w10157910,lozenge,comfort,comfort,comfort,VERB,USM
+w10157910,lozenge,eat,eat,eat,VERB,USM
+w10157910,lozenge,consume,consume,consume,VERB,USM
+w10157910,mule,donkey,donkey,donkey,NOUN,USM
+w10157910,mule,travel,travel,travel,VERB,USM
+w10157910,mule,transport,transport,transport,VERB,USM
+w10157910,mule,eat,eat,eat,VERB,USM
+w10157956,dustbin,sweep,sweep,sweep,VERB,USM
+w10157956,fertilizer,grass,grass,grass,NOUN,USM
+w10157956,neckerchief,suit,suit,suit,NOUN,USM
+w10157956,tangerine,orange,orange,orange,ADJ,USM
+w10157956,cymbals,clash,clash,clash,VERB,USM
+w10157956,mathematician,professor,professor,professor,NOUN,USM
+w10157956,log,natural log,natural,natural,ADJ,USM
+w10157956,log,natural log,log,log,VERB,USM
+w10157956,gun,die,die,die,VERB,USM
+w10157956,clipper,nails,nails,nails,NOUN,USM
+w10157956,calender,year,year,year,NOUN,USM
+w10157956,mantelpiece,furnace,furnace,furnace,NOUN,USM
+w10157956,swimsuit,swimming,swimming,swimm,VERB,USM
+w10157956,package,box,box,box,NOUN,USM
+w10157956,supermarket,store,store,store,NOUN,USM
+w10157956,crate,box,box,box,NOUN,USM
+w10157956,peony,stupid,stupid,stupid,ADJ,USM
+w10157956,handwork,masterpiece,masterpiece,masterpiece,NOUN,USM
+w10157956,airplane,sky,sky,sky,NOUN,USM
+w10157956,leaflet,book,book,book,NOUN,USM
+w10157956,concrete,ground,ground,ground,NOUN,USM
+w10157956,concrete,hard,hard,hard,ADJ,USM
+w10157956,concrete,rough,rough,rough,ADJ,USM
+w10157956,licence,ability,ability,ability,NOUN,USM
+w10157956,river,drink,drink,drink,VERB,USM
+w10157956,river,swim,swim,swim,VERB,USM
+w10157956,marigold,decorate,decorate,decorate,VERB,USM
+w10157956,armor,shield,shield,shield,VERB,USM
+w10157956,armor,protect,protect,protect,VERB,USM
+w10157956,cornflakes,eat,eat,eat,VERB,USM
+w10157956,alcohol,consume,consume,consume,VERB,USM
+w10157956,alcohol,make,make,make,AUX,USM
+w10157956,alcohol,brew,brew,brew,VERB,USM
+w10157956,padding,protect,protect,protect,VERB,USM
+w10157956,padding,comfort,comfort,comfort,VERB,USM
+w10157956,airman,flies,flies,flie,VERB,USM
+w10157956,vermicelli,eat,eat,eat,VERB,USM
+w10158262,spokesman,inform,inform,inform,VERB,USM
+w10158262,spokesman,listen,listen,listen,VERB,USM
+w10158262,spokesman,relay a message,relay,relay,VERB,USM
+w10158262,spokesman,relay a message,message,message,NOUN,USM
+w10158262,map,draw,draw,dree,VERB,USM
+w10158262,map,locate,locate,locate,VERB,USM
+w10158262,map,explore,explore,explore,VERB,USM
+w10158262,scallion,cook,cook,cook,VERB,USM
+w10158262,scallion,eat,eat,eat,VERB,USM
+w10158262,scallion,observe,observe,observe,VERB,USM
+w10158262,scallion,sea creature food,sea,sea,NOUN,USM
+w10158262,scallion,sea creature food,creature,creature,NOUN,USM
+w10158262,scallion,sea creature food,food,food,NOUN,USM
+w10158262,scallion,study,study,study,NOUN,USM
+w10158262,yourself,walk,walk,walk,VERB,USM
+w10158262,yourself,run,run,run,VERB,USM
+w10158262,yourself,dance,dance,dance,VERB,USM
+w10158262,yourself,jump,jump,jump,VERB,USM
+w10158262,yourself,eat,eat,eat,VERB,USM
+w10158262,yourself,breathe,breathe,breato,VERB,USM
+w10158262,yourself,heal,heal,heal,VERB,USM
+w10158262,yourself,think,think,think,VERB,USM
+w10158262,yourself,study,study,study,VERB,USM
+w10158262,yourself,learn,learn,learn,VERB,USM
+w10158262,plant,grow,grow,grow,VERB,USM
+w10158262,plant,feed,feed,feed,VERB,USM
+w10158262,plant,water,water,water,NOUN,USM
+w10158262,plant,pick,pick,pick,VERB,USM
+w10158262,plant,eat,eat,eat,VERB,USM
+w10158262,plant,admire,admire,admire,VERB,USM
+w10158262,puddle,jump in,jump,jump,VERB,USM
+w10158262,puddle,splash,splash,splash,VERB,USM
+w10158262,puddle,see reflection,see,see,VERB,USM
+w10158262,puddle,see reflection,reflection,reflection,NOUN,USM
+w10158262,sawhorse,support board,support,support,NOUN,USM
+w10158262,sawhorse,support board,board,board,NOUN,USM
+w10158262,sawhorse,build,build,build,VERB,USM
+w10158262,sawhorse,destroy,destroy,destroy,VERB,USM
+w10158262,windowpane,create window,create,create,VERB,USM
+w10158262,windowpane,create window,window,window,NOUN,USM
+w10158262,windowpane,look through,look,look,VERB,USM
+w10158262,windowpane,cover,cover,cover,VERB,USM
+w10158262,tapestry,decor,decor,decorate,VERB,USM
+w10158262,tapestry,purses,purses,purse,NOUN,USM
+w10158262,tapestry,clothing,clothing,clothing,NOUN,USM
+w10158262,tapestry,art,art,art,NOUN,USM
+w10158262,pilaf,cook,cook,cook,VERB,USM
+w10158262,pilaf,serve,serve,serve,VERB,USM
+w10158262,pilaf,eat,eat,eat,VERB,USM
+w10158262,strudel,bake,bake,bake,VERB,USM
+w10158262,strudel,eat,eat,eat,VERB,USM
+w10158262,strudel,serve,serve,serve,VERB,USM
+w10158262,strudel,sell,sell,sell,VERB,USM
+w10158262,strudel,smell,smell,smell,VERB,USM
+w10158262,mattress,comfort,comfort,comfort,VERB,USM
+w10158262,mattress,sleep,sleep,sleep,VERB,USM
+w10158262,mattress,make bed,make,make,AUX,USM
+w10158262,mattress,make bed,bed,bed,NOUN,USM
+w10158262,mattress,jump on,jump,jump,VERB,USM
+w10158262,basket,carry things,carry,carry,VERB,USM
+w10158262,basket,carry things,things,thing,NOUN,USM
+w10158262,basket,organize,organize,organize,VERB,USM
+w10158262,basket,hold items,hold,hold,VERB,USM
+w10158262,basket,hold items,items,item,NOUN,USM
+w10158262,toy,play,play,play,VERB,USM
+w10158262,toy,create,create,create,VERB,USM
+w10158262,toy,gift,gift,gift,VERB,USM
+w10158262,toy,break,break,break,VERB,USM
+w10158262,therapist,counsel,counsel,counsel,VERB,USM
+w10158262,therapist,talk to,talk,talk,VERB,USM
+w10158262,therapist,confide,confide,confide,VERB,USM
+w10158262,treat,halloween,halloween,halloween,AUX,USM
+w10158262,treat,reward,reward,reward,VERB,USM
+w10158262,magnet,hang photos,hang,hang,VERB,USM
+w10158262,magnet,hang photos,photos,photo,NOUN,USM
+w10158262,magnet,decorate,decorate,decorate,VERB,USM
+w10158262,bricklayer,build a home,build,build,VERB,USM
+w10158262,bricklayer,build a home,home,home,ADV,USM
+w10158262,bricklayer,build a building,build,build,VERB,USM
+w10158262,bricklayer,build a building,building,building,NOUN,USM
+w10158262,bricklayer,remodel,remodel,remodel,VERB,USM
+w10158262,bricklayer,work,work,work,VERB,USM
+w10158262,tradesman,plumber,plumber,plumber,NOUN,USM
+w10158262,tradesman,electrician,electrician,electrician,ADJ,USM
+w10158262,tradesman,welder,welder,welder,NOUN,USM
+w10158262,skullcap,sleep,sleep,sleep,VERB,USM
+w10158262,skullcap,knock out,knock,knock,VERB,USM
+w10158262,skullcap,sedate,sedate,sedate,VERB,USM
+w10158262,rod,curtain,curtain,curtain,NOUN,USM
+w10158262,rod,tapestry,tapestry,tapestry,NOUN,USM
+w10158262,rod,lights,lights,light,NOUN,USM
+w10158262,toiletry,shower,shower,shower,VERB,USM
+w10158262,toiletry,bath,bath,bathe,VERB,USM
+w10158262,toiletry,brush teeth,brush,brush,VERB,USM
+w10158262,toiletry,brush teeth,teeth,tooth,NOUN,USM
+w10158262,toiletry,hair,hair,hair,NOUN,USM
+w10158262,toiletry,deodorize,deodorize,deodorize,VERB,USM
+w10158262,toiletry,hygiene ,hygiene,hygiene,VERB,USM
+w10158262,bath,soak,soak,soak,NOUN,USM
+w10158262,bath,bubbles,bubbles,bubble,NOUN,USM
+w10158262,bath,cleanse,cleanse,clean,VERB,USM
+w10158262,bath,clean pet,clean,clean,ADJ,USM
+w10158262,bath,clean pet,pet,pet,NOUN,USM
+w10158262,pinewood,build,build,build,VERB,USM
+w10158262,pinewood,burn,burn,burn,VERB,USM
+w10158262,pinewood,grow,grow,grow,VERB,USM
+w10158262,pinewood,sap,sap,sap,NOUN,USM
+w10158262,sandwich,eat,eat,eat,VERB,USM
+w10158262,sandwich,make,make,make,AUX,USM
+w10158262,sandwich,give,give,give,VERB,USM
+w10158262,sandwich,nourish,nourish,nourish,VERB,USM
+w10158262,thyme,flavor food,flavor,flavor,VERB,USM
+w10158262,thyme,flavor food,food,food,NOUN,USM
+w10158262,thyme,make meds,make,make,AUX,USM
+w10158262,thyme,make meds,mess,mess,NOUN,USM
+w10158262,paperhanger,decorate,decorate,decorate,VERB,USM
+w10158262,paperhanger,work,work,work,VERB,USM
+w10158262,wristband,wear,wear,wear,VERB,USM
+w10158262,wristband,accessorize,accessorize,accessorize,VERB,USM
+w10158262,wristband,gift,gift,gift,NOUN,USM
+w10158262,wristband,entrance to events,entrance,entrance,NOUN,USM
+w10158262,wristband,entrance to events,events,event,NOUN,USM
+w10158262,wristband,eligibility to drink,eligibility,eligibility,NOUN,USM
+w10158262,wristband,eligibility to drink,drink,drink,VERB,USM
+w10158262,wristband,tickets,tickets,ticket,VERB,USM
+w10158262,pug,pet,pet,pet,VERB,USM
+w10158262,pug,comfort,comfort,comfort,VERB,USM
+w10158262,pug,hold,hold,hold,VERB,USM
+w10158602,tar,for gas,gas,gas,NOUN,USM
+w10158602,tar,you could burn it,burn,burn,VERB,USM
+w10158602,tar,you could freeze it,freeze,freeze,VERB,USM
+w10158602,tar,eat it,eat,eat,VERB,USM
+w10158602,tar,play with it,play,play,VERB,USM
+w10158602,tar,throw it away,throw,throw away,VERB,USM
+w10158602,straightedge,to measure,measure,measure,VERB,USM
+w10158602,straightedge,draw lines,draw,dree,VERB,USM
+w10158602,straightedge,draw lines,lines,line,NOUN,USM
+w10158602,straightedge,give a haircut,give,give,VERB,USM
+w10158602,straightedge,give a haircut,haircut,haircut,NOUN,USM
+w10158602,tapioca,cut it,cut,cut,VERB,USM
+w10158602,boy,hard labor,hard,hard,ADJ,USM
+w10158602,boy,hard labor,labor,labor,NOUN,USM
+w10158602,boy,sports,sports,sport,NOUN,USM
+w10158602,boy,chef,chef,chef,VERB,USM
+w10158602,boy,plumber,plumber,plumber,NOUN,USM
+w10158602,boy,electrcian,electrician,electrician,ADJ,USM
+w10158602,boy,doctor,doctor,doctor,NOUN,USM
+w10158602,boy,athelete,athlete,athlete,X,USM
+w10158602,boy,traveler,traveler,traveler,NOUN,USM
+w10158602,boy,theif,thief,thief,NOUN,USM
+w10158602,boy,criminal,criminal,criminal,ADJ,USM
+w10158602,boy,officer,officer,officer,NOUN,USM
+w10158602,jaguar,fight it,fight,fight,NOUN,USM
+w10158602,jaguar,a car,car,car,NOUN,USM
+w10158602,jaguar,eat it,eat,eat,VERB,USM
+w10158602,jaguar,race it,race,race,VERB,USM
+w10158602,jaguar,sell it,sell,sell,VERB,USM
+w10158602,jaguar,a cat,cat,cat,NOUN,USM
+w10158602,jaguar,a pet,pet,pet,VERB,USM
+w10158602,asshole,to shit,shit,shit,VERB,USM
+w10158602,medal,praise,praise,praise,VERB,USM
+w10158602,medal,to brag,brag,brag,VERB,USM
+w10158602,medal,honor,honor,honor,VERB,USM
+w10158602,medal,respect,respect,respect,VERB,USM
+w10158602,medal,resolve,resolve,resolve,VERB,USM
+w10158602,medal,hope,hope,hope,VERB,USM
+w10158602,sod,grass,grass,grass,NOUN,USM
+w10158602,sod,sand,sand,sand,NOUN,USM
+w10158602,sod,fix a lawn,fix,fix,VERB,USM
+w10158602,sod,fix a lawn,lawn,lawn,NOUN,USM
+w10158602,hookah,smoking,smoking,smoke,VERB,USM
+w10158602,packet,of salt,salt,salt,NOUN,USM
+w10158602,packet,pepper,pepper,pepper,NOUN,USM
+w10158602,packet,ginger,ginger,ginger,NOUN,USM
+w10158602,packet,condoms,condoms,condom,NOUN,USM
+w10158602,packet,food,food,food,NOUN,USM
+w10158602,packet,juice,juice,juice,NOUN,USM
+w10158602,aunt,relative,relative,relative,ADV,USM
+w10158602,aunt,money,money,money,NOUN,USM
+w10158602,aunt,food,food,food,NOUN,USM
+w10158602,aunt,housing,housing,housing,NOUN,USM
+w10158602,munitions,ammo,ammo,ammo,INTJ,USM
+w10158602,munitions,gunfire,gunfire,fire,VERB,USM
+w10158602,munitions,war,war,war,VERB,USM
+w10158602,munitions,threats,threats,threats,NOUN,USM
+w10158602,cashmere,wear it,wear,wear,VERB,USM
+w10158602,cashmere,burn it,burn,burn,VERB,USM
+w10158602,cashmere,cut it ,cut,cut,VERB,USM
+w10158602,cashmere,dye it,dye,dye,VERB,USM
+w10158602,juror,convict,convict,convict,VERB,USM
+w10158602,crossbar,hurt somone,hurt,hurt,VERB,USM
+w10158602,crossbar,hurt somone,someone,someone,PRON,USM
+w10158602,crossbar,break in,break,break,VERB,USM
+w10158602,crossbar,life something,life,life,NOUN,USM
+w10158602,crossbar,life something,something,something,PRON,USM
+w10158602,crossbar,break something,break,break,VERB,USM
+w10158602,crossbar,break something,something,something,PRON,USM
+w10158602,waistcoat,make you skinny,make,make,AUX,USM
+w10158602,waistcoat,make you skinny,skinny,skinny,ADJ,USM
+w10158602,waistcoat,strangle sumone,strangle,strangle,VERB,USM
+w10158602,capacitor,cut heads off,cut,cut,VERB,USM
+w10158602,capacitor,cut heads off,heads,head,NOUN,USM
+w10161022,bloomers,worn,worn,wear,VERB,USM
+w10161022,bloomers,torn,torn,tear,NOUN,USM
+w10161022,bloomers,stepped on,stepped,step on,VERB,USM
+w10161022,bloomers,ripped,ripped,rip,VERB,USM
+w10161022,pail,held,held,hold,VERB,USM
+w10161022,pail,thrown,thrown,throw,VERB,USM
+w10161022,pail,crushed,crushed,crush,VERB,USM
+w10161022,rye,put in bread,put,put,AUX,USM
+w10161022,rye,put in bread,bread,bread,NOUN,USM
+w10161022,rye,eaten,eaten,eat,VERB,USM
+w10161022,rye,cooked,cooked,cook,VERB,USM
+w10161022,ballplayer,watch,watch,watch,VERB,USM
+w10161022,ballplayer,play,play,play,VERB,USM
+w10161022,ballplayer,bet on,bet,bet,VERB,USM
+w10161022,lick,taste,taste,taste,VERB,USM
+w10161022,lick,eating,eating,eat,VERB,USM
+w10161022,lick,ice cream,ice,ice cream,NOUN,USM
+w10161022,wreath,hang from door,hang,hang,VERB,USM
+w10161022,wreath,hang from door,door,door,NOUN,USM
+w10161022,wreath,hang from tree,hang,hang,VERB,USM
+w10161022,wreath,hang from tree,tree,tree,NOUN,USM
+w10161022,wreath,hang on wall,hang,hang,VERB,USM
+w10161022,wreath,hang on wall,wall,wall,NOUN,USM
+w10161022,wreath,put on head,put,put,AUX,USM
+w10161022,wreath,put on head,head,head,NOUN,USM
+w10161022,bowling,roll,roll,roll,VERB,USM
+w10161022,bowling,knock down pins,knock,knock down,VERB,USM
+w10161022,bowling,knock down pins,pins,pin,NOUN,USM
+w10161022,thong,worn,worn,wear,VERB,USM
+w10161022,thong,washed,washed,washed,VERB,USM
+w10161022,thong,dried,dried,dry,VERB,USM
+w10161022,thong,folded,folded,fold,VERB,USM
+w10161022,thong,ripped,ripped,rip,VERB,USM
+w10161022,polyester,ironed,ironed,irone,VERB,USM
+w10161022,polyester,worn,worn,wear,VERB,USM
+w10161022,polyester,burned,burned,burn,VERB,USM
+w10161022,proprietor,build,build,build,VERB,USM
+w10161022,azalea,banks,banks,bank,NOUN,USM
+w10161022,azalea,rapper,rapper,rapper,NOUN,USM
+w10161022,azalea,evil,evil,evil,NOUN,USM
+w10161022,ant,stepped on,stepped,step on,VERB,USM
+w10161022,ant,eaten,eaten,eat,VERB,USM
+w10161022,ant,smushed,smash,smash,VERB,USM
+w10161022,ant,cut,cut,cut,VERB,USM
+w10161022,ant,lit on fire,lit,light,AUX,USM
+w10161022,ant,lit on fire,fire,burn,VERB,USM
+w10161022,ant,hit,hit,hit,VERB,USM
+w10161022,ant,drown,drown,drown,VERB,USM
+w10161022,walnut,eaten,eaten,eat,VERB,USM
+w10161022,walnut,cracked,cracked,crack,VERB,USM
+w10161022,walnut,burned,burned,burn,VERB,USM
+w10161022,lanyard,wear,wear,wear,VERB,USM
+w10161022,lanyard,step on,step,step on,VERB,USM
+w10161022,fir,burnt,burnt,burn,VERB,USM
+w10161022,loaf,eaten,eaten,eat,VERB,USM
+w10161022,loaf,cut,cut,cut,VERB,USM
+w10161022,loaf,burned,burned,burn,VERB,USM
+w10161022,loaf,thrown,thrown,throw,VERB,USM
+w10161022,loaf,bought,bought,buy,VERB,USM
+w10161022,physiologist,help,help,help,VERB,USM
+w10161022,hostel,slept in,slept,sleep,VERB,USM
+w10161022,hostel,burnt down,burnt,burn,VERB,USM
+w10161022,hostel,lived in,lived,liv,VERB,USM
+w10161022,hostel,eaten in,eaten,eat,VERB,USM
+w10161022,paintbrush,paint,paint,paint,VERB,USM
+w10161022,paintbrush,makeup,makeup,makeup,NOUN,USM
+w10161022,paintbrush,nail polish,nail,nail,NOUN,USM
+w10161022,paintbrush,nail polish,polish,polish,NOUN,USM
+w10161022,paintbrush,face art,face,face,NOUN,USM
+w10161022,paintbrush,face art,art,art,NOUN,USM
+w10161022,paintbrush,hair,hair,hair,NOUN,USM
+w10161022,paintbrush,glue,glue,glue,NOUN,USM
+w10161022,suds,soap,soap,soap,NOUN,USM
+w10161022,suds,bubbles,bubbles,bubble,NOUN,USM
+w10161022,suds,dish soap,dish,dish,NOUN,USM
+w10161022,suds,dish soap,soap,soap,NOUN,USM
+w10161022,suds,cleaning,cleaning,clean,VERB,USM
+w10161022,fork,eating,eating,eat,VERB,USM
+w10161022,fork,broken,broken,break,VERB,USM
+w10161022,fork,stab,stab,stab,VERB,USM
+w10161022,shipman,boat,boat,boat,NOUN,USM
+w10161022,shipman,ship,ship,ship,NOUN,USM
+w10161022,shipman,kayak,kayak,kayak,NOUN,USM
+w10161022,sandpaper,smooth,smooth,smooth,VERB,USM
+w10161022,sandpaper,soft,soft,soft,ADJ,USM
+w10161022,quill,step on,step,step on,VERB,USM
+w10161022,quill,wrap around oneself,around,around,ADV,USM
+w10161022,quill,wrap around oneself,oneself,oneself,PRON,USM
+w10161022,smooch,lips,lips,lip,NOUN,USM
+w10161022,smooch,love,love,love,VERB,USM
+w10161022,smooch,kiss,kiss,kiss,NOUN,USM
+w10161022,goalpost,soccer,soccer,soccer,NOUN,USM
+w10161022,goalpost,ball,ball,ball,NOUN,USM
+w10161022,goalpost,knocked over,knocked,knock,VERB,USM
+w10161022,sledge,ride,ride,ride,VERB,USM
+w10161022,sledge,push,push,push,VERB,USM
+w10161022,sledge,pull,pull,pull,VERB,USM
+w10161022,sledge,slide,slide,slide,VERB,USM
+w10161022,cuttlefish,eat,eat,eat,VERB,USM
+w10161022,cuttlefish,cook,cook,cook,VERB,USM
+w10161022,cuttlefish,burn,burn,burn,VERB,USM
+w10161022,cuttlefish,kill,kill,kill,VERB,USM
+w10161022,cuttlefish,raise,raise,raise,VERB,USM
+w10161022,workbench,sit,sit,sit,VERB,USM
+w10161022,workbench,stand,stand,stand,VERB,USM
+w10161022,workbench,sleep,sleep,sleep,VERB,USM
+w10161022,workbench,lay,lay,lay,VERB,USM
+w10161022,workbench,relax,relax,relax,VERB,USM
+W10161911,dove,bird,bird,bird,NOUN,USM
+W10161911,dove,soap,soap,soap,NOUN,USM
+W10161911,dove,fly,fly,fly,VERB,USM
+W10161911,dove,represent love,represent,represent,VERB,USM
+W10161911,dove,represent love,love,love,VERB,USM
+W10161911,tissue,body cartilage,body,body,NOUN,USM
+W10161911,tissue,body cartilage,cartilage,cartilage,NOUN,USM
+W10161911,tissue,to dry,dry,dry,ADJ,USM
+W10161911,bed,sleep,sleep,sleep,VERB,USM
+W10161911,bed,to sit,sit,sit,VERB,USM
+W10161911,bed,to rest,rest,rest,VERB,USM
+W10161911,pen,to write,write,write,VERB,USM
+W10161911,pen,to draw,draw,dree,VERB,USM
+W10161911,stool,to sit,sit,sit,VERB,USM
+W10161911,stool,to stand,stand,stand,VERB,USM
+W10161911,rowboat,fishing,fishing,fish,VERB,USM
+W10161911,rowboat,rowing,rowing,row,VERB,USM
+W10161911,rowboat,floating,floating,float,VERB,USM
+W10161911,boa,snake,snake,snake,NOUN,USM
+W10161911,boa,decorative accsesory,decorative,decorate,VERB,USM
+W10161911,boa,decorative accsesory,accessory,accessory,INTJ,USM
+W10161911,ukulele,to play music,play,play,AUX,USM
+W10161911,ukulele,to play music,music,music,VERB,USM
+W10161911,ukulele,sound,sound,sound,VERB,USM
+W10161911,stall,to wait,wait,wait,VERB,USM
+W10161911,stall,a small complex,small,small,ADJ,USM
+W10161911,stall,a small complex,complex,complex,NOUN,USM
+W10161911,table,to eat,eat,eat,VERB,USM
+W10161911,table,to sit,sit,sit,VERB,USM
+W10161911,table,to do work,work,work,NOUN,USM
+W10161911,table,to hold,hold,hold,VERB,USM
+W10161911,fruitcake,to eat,eat,eat,VERB,USM
+W10161911,fruitcake,to describe,describe,describe,VERB,USM
+W10161911,saucepan,cook,cook,cook,VERB,USM
+W10161911,saucepan,to melt,melt,melt,VERB,USM
+W10161911,thumbtack,to hold,hold,hold,VERB,USM
+W10161911,thumbtack,secure,secure,secure,VERB,USM
+W10161911,outfielder,to catch,catch,catch,VERB,USM
+W10161911,outfielder,receive ,receive,receive,VERB,USM
+W10161911,terrace,view,view,view,VERB,USM
+W10161911,swan,to represent love,represent,represent,VERB,USM
+W10161911,swan,to represent love,love,love,NOUN,USM
+W10161911,swan,animal ,animal,animal,NOUN,USM
+W10161911,goddaughter,woman,woman,woman,NOUN,USM
+W10161911,goddaughter,girl,girl,girl,NOUN,USM
+W10161911,corduroy,material,material,material,NOUN,USM
+W10161911,corduroy,fabric,fabric,fabric,NOUN,USM
+W10161911,cosmetician,makeup,makeup,makeup,NOUN,USM
+W10161911,cosmetician,hair,hair,hair,NOUN,USM
+W10161911,stomach,digestion,digestion,digest,VERB,USM
+W10161911,stomach,eating,eating,eat,VERB,USM
+W10161911,stomach,holding organs,holding,hold,NOUN,USM
+W10161911,stomach,holding organs,organs,organ,NOUN,USM
+W10161911,flyswatter,kill flys,kill,kill,VERB,USM
+W10161911,flyswatter,kill flys,fly,fly,VERB,USM
+W10161911,flyswatter,protect,protect,protect,VERB,USM
+W10161911,okra,to eat,eat,eat,VERB,USM
+W10161911,okra,to grow,grow,grow,VERB,USM
+W10161911,mountain,to climb,climb,climb,VERB,USM
+W10161911,mountain,view,view,view,NOUN,USM
+W10161911,mouth,to eat,eat,eat,VERB,USM
+W10161911,mouth,to talk,talk,talk,VERB,USM
+W10161911,smock,protect,protect,protect,VERB,USM
+W10161911,smock,keep clean,keep,keep,AUX,USM
+W10161911,smock,keep clean,clean,clean,VERB,USM
+w10161935_ep,colt,training,training,training,NOUN,USM
+w10161935_ep,colt,selling,selling,sell,VERB,USM
+w10161935_ep,buttonhook,buttoning shirts,buttoning,button,VERB,USM
+w10161935_ep,buttonhook,buttoning shirts,shirts,shirt,NOUN,USM
+w10161935_ep,scribbling,drawing,drawing,drawe,VERB,USM
+w10161935_ep,scribbling,shading,shading,shade,NOUN,USM
+w10161935_ep,flaxseed,eating,eating,eat,VERB,USM
+w10161935_ep,flaxseed,cooking,cooking,cook,VERB,USM
+w10161935_ep,flaxseed,baking,baking,bake,VERB,USM
+w10161935_ep,coat,wearing,wearing,wear,VERB,USM
+w10161935_ep,coat,sitting on,sitting,sit,VERB,USM
+w10161935_ep,smoothie,eating,eating,eat,VERB,USM
+w10161935_ep,smoothie,drinking,drinking,drink,VERB,USM
+w10161935_ep,armoire,storing clothes,storing,store,VERB,USM
+w10161935_ep,armoire,storing clothes,clothes,clothe,NOUN,USM
+w10161935_ep,armoire,storing shoes ,storing,store,VERB,USM
+w10161935_ep,armoire,storing shoes ,shoes,shoe,VERB,USM
+w10161935_ep,workshop,making things,making,make,AUX,USM
+w10161935_ep,workshop,making things,things,thing,NOUN,USM
+w10161935_ep,workshop,fixing things,fixing,fix,VERB,USM
+w10161935_ep,workshop,fixing things,things,thing,NOUN,USM
+w10161935_ep,dipper,getting soup,getting,get,AUX,USM
+w10161935_ep,dipper,getting soup,soup,soup,NOUN,USM
+w10161935_ep,dipper,scooping something,scooping,scooping,VERB,USM
+w10161935_ep,dipper,scooping something,something,something,PRON,USM
+w10161935_ep,cayenne,seasoning food,seasoning,season,VERB,USM
+w10161935_ep,cayenne,seasoning food,food,food,NOUN,USM
+w10161935_ep,lager,getting drunk,getting,get,AUX,USM
+w10161935_ep,lager,getting drunk,drunk,drink,VERB,USM
+w10161935_ep,lager,cooking,cooking,cook,VERB,USM
+w10161935_ep,pumpernickel,eating,eating,eat,VERB,USM
+w10161935_ep,pumpernickel,baking,baking,bake,VERB,USM
+w10161935_ep,pumpernickel,cooking,cooking,cook,VERB,USM
+w10161935_ep,garland,decorating for holidays,decorating,decorate,VERB,USM
+w10161935_ep,garland,decorating for holidays,holidays,holiday,NOUN,USM
+w10161935_ep,dye,tiedying a shirt,tidying,tidy,VERB,USM
+w10161935_ep,dye,tiedying a shirt,shirt,shirt,NOUN,USM
+w10161935_ep,dye,dying clothes,dying,die,VERB,USM
+w10161935_ep,dye,dying clothes,clothes,clothe,NOUN,USM
+w10161935_ep,dye,dying hair,dying,die,VERB,USM
+w10161935_ep,dye,dying hair,hair,hair,NOUN,USM
+w10161935_ep,beefsteak,eating,eating,eat,VERB,USM
+w10161935_ep,beefsteak,cooking,cooking,cook,VERB,USM
+w10161935_ep,stage,performing,performing,perform,VERB,USM
+w10161935_ep,stage,dancing,dancing,dance,VERB,USM
+w10161935_ep,stage,singing,singing,singe,VERB,USM
+w10161935_ep,stage,speech,speech,speech,NOUN,USM
+w10161935_ep,breeches,riding a horse,riding,ride,VERB,USM
+w10161935_ep,breeches,riding a horse,horse,horse,NOUN,USM
+w10161935_ep,plaything,playing,playing,play,VERB,USM
+w10161935_ep,goulash,eating,eating,eat,VERB,USM
+w10161935_ep,goulash,cooking,cooking,cook,VERB,USM
+w10161935_ep,schoolwork,getting good grades,getting,get,AUX,USM
+w10161935_ep,schoolwork,getting good grades,good,good,ADJ,USM
+w10161935_ep,schoolwork,getting good grades,grades,grade,NOUN,USM
+w10161935_ep,rucksack,storing clothes,storing,store,VERB,USM
+w10161935_ep,rucksack,storing clothes,clothes,clothe,NOUN,USM
+w10161935_ep,rucksack,storing books,storing,store,VERB,USM
+w10161935_ep,rucksack,storing books,books,book,VERB,USM
+w10161935_ep,rucksack,carrying things,carrying,carry,VERB,USM
+w10161935_ep,rucksack,carrying things,things,thing,NOUN,USM
+w10161935_ep,school,getting smarter,getting,get,AUX,USM
+w10161935_ep,school,getting smarter,smarter,smarter,ADJ,USM
+w10161935_ep,school,getting into college,getting,get,AUX,USM
+w10161935_ep,school,getting into college,college,college,NOUN,USM
+w10161935_ep,school,getting a career,getting,get,AUX,USM
+w10161935_ep,school,getting a career,career,career,NOUN,USM
+w10161935_ep,photocopier,copying papers,copying,copy,NOUN,USM
+w10161935_ep,photocopier,copying papers,papers,papers,NOUN,USM
+w10161935_ep,photocopier,scanning papers,scanning,scan,VERB,USM
+w10161935_ep,photocopier,scanning papers,papers,papers,NOUN,USM
+w10161935_ep,screen,watching shows,watching,watch,VERB,USM
+w10161935_ep,screen,watching shows,shows,show,NOUN,USM
+w10161935_ep,screen,texting people,texting,text,VERB,USM
+w10161935_ep,screen,texting people,people,people,NOUN,USM
+w10161935_ep,screen,doing schoolwork,schoolwork,schoolwork,NOUN,USM
+w10161935_ep,conch,collections,collections,collect,VERB,USM
+w10161935_ep,conch,listening to the ocean,listening,listen,VERB,USM
+w10161935_ep,conch,listening to the ocean,ocean,ocean,NOUN,USM
+w10161935_ep,tomahawk,eating,eating,eat,VERB,USM
+w10161935_ep,tomahawk,cooking,cooking,cook,VERB,USM
+w10161935_ep,cowhide,wearing,wearing,wear,VERB,USM
+w10161935_ep,cowhide,make a rug,make,make,AUX,USM
+w10161935_ep,cowhide,make a rug,rug,rug,NOUN,USM
+w10161935_ep,cowhide,make boots,make,make,AUX,USM
+w10161935_ep,cowhide,make boots,boots,boot,NOUN,USM
+w10161935_ep,cowhide,make furniture,make,make,AUX,USM
+w10161935_ep,cowhide,make furniture,furniture,furniture,NOUN,USM
+w10163667_kg,bong,smoking weed/tobacco,smoking,smoke,VERB,USM
+w10163667_kg,bong,smoking weed/tobacco,weed,we,VERB,USM
+w10163667_kg,bong,smoking weed/tobacco,tobacco,tobacco,INTJ,USM
+w10163667_kg,duster,clean,clean,clean,VERB,USM
+w10163667_kg,trout,eat,eat,eat,VERB,USM
+w10163667_kg,kleenex,clean,clean,clean,VERB,USM
+w10163667_kg,kleenex,sneeze,sneeze,sneeze,VERB,USM
+w10163667_kg,flour,bake,bake,bake,VERB,USM
+w10163667_kg,flour,cook,cook,cook,VERB,USM
+w10163667_kg,flour,no stickiness,stickiness,stickiness,NOUN,USM
+w10163667_kg,candy,eat,eat,eat,VERB,USM
+w10163667_kg,candy,decorate,decorate,decorate,VERB,USM
+w10163667_kg,tearoom,drink,drink,drink,VERB,USM
+w10163667_kg,tearoom,talk,talk,talk,VERB,USM
+w10163667_kg,tearoom,hangout,hangout,hangout,VERB,USM
+w10163667_kg,napkin,dab,dab,dab,VERB,USM
+w10163667_kg,napkin,clean,clean,clean,VERB,USM
+w10163667_kg,scrapbook,memories,memories,memory,VERB,USM
+w10163667_kg,scrapbook,hobby,hobby,hobby,NOUN,USM
+w10163667_kg,scrapbook,time-consumer,time,time,NOUN,USM
+w10163667_kg,scrapbook,time-consumer,consumer,consumer,NOUN,USM
+w10163667_kg,wishbone,wish making,wish,wish,VERB,USM
+w10163667_kg,wishbone,wish making,making,make,AUX,USM
+w10163667_kg,shirtsleeve,as an emergency to stop blood flow,emergency,emergency,NOUN,USM
+w10163667_kg,shirtsleeve,as an emergency to stop blood flow,stop,stop,VERB,USM
+w10163667_kg,shirtsleeve,as an emergency to stop blood flow,blood,blood,NOUN,USM
+w10163667_kg,shirtsleeve,as an emergency to stop blood flow,flow,flow,VERB,USM
+w10163667_kg,shirtsleeve,keep warm,keep,keep,AUX,USM
+w10163667_kg,shirtsleeve,keep warm,warm,warm,VERB,USM
+w10163667_kg,corridor,walk,walk,walk,VERB,USM
+w10163667_kg,desk,organization,organization,organize,VERB,USM
+w10163667_kg,desk,work,work,work,VERB,USM
+w10163667_kg,boomerang,throw,throw,throw,VERB,USM
+w10163667_kg,boomerang,catch,catch,catch,VERB,USM
+w10163667_kg,manure,fertilizer,fertilizer,fertilize,VERB,USM
+w10163667_kg,hug,heal,heal,heal,VERB,USM
+w10163667_kg,hug,happiness,happiness,happiness,NOUN,USM
+w10163667_kg,hug,content,content,content,NOUN,USM
+w10163667_kg,lunch,eat,eat,eat,VERB,USM
+w10163667_kg,lunch,energy,energy,energy,VERB,USM
+w10163667_kg,bomb,blow up,blow,blow,VERB,USM
+w10163667_kg,bomb,ignite,ignite,ignite,VERB,USM
+w10163667_kg,beachwear,tan,tan,tan,NOUN,USM
+w10163667_kg,beachwear,get in water,get,get,AUX,USM
+w10163667_kg,beachwear,get in water,water,water,NOUN,USM
+w10163667_kg,football,throw,throw,throw,VERB,USM
+w10163667_kg,football,catch,catch,catch,VERB,USM
+w10163667_kg,football,hold,hold,hold,VERB,USM
+w10163667_kg,football,score,score,score,VERB,USM
+w10163667_kg,fig,eat,eat,eat,VERB,USM
+w10163667_kg,environmentalist,bring awareness,bring,bring,VERB,USM
+w10163667_kg,environmentalist,bring awareness,awareness,awareness,NOUN,USM
+w10163667_kg,cannonball,throw,throw,throw,VERB,USM
+w10163667_kg,cannonball,blow up; jump,blow,blow,VERB,USM
+w10163667_kg,cannonball,blow up; jump,jump,jump,VERB,USM
+w10163667_kg,wife,love,love,love,VERB,USM
+w10163667_kg,slipknot,tie,tie,tie,VERB,USM
+w10163667_kg,dachshund,guard,guard,guard,VERB,USM
+w10163783,blanket,wearing,wearing,wear,VERB,USM
+w10163783,blanket,folding,folding,fold,VERB,USM
+w10163783,blanket,buying,buying,buy,VERB,USM
+w10163783,blanket,selling,selling,sell,VERB,USM
+w10163783,blanket,decorating,decorating,decorate,VERB,USM
+w10163783,blanket,warming,warming,warm,VERB,USM
+w10163783,blanket,comforting,comforting,comfort,VERB,USM
+w10163783,colleague,consulting,consulting,consult,VERB,USM
+w10163783,colleague,befriending,befriending,befriend,VERB,USM
+w10163783,colleague,arguing,arguing,argue,VERB,USM
+w10163783,colleague,collaborating,collaborating,collaborate,VERB,USM
+w10163783,colleague,gossiping,gossiping,gossip,VERB,USM
+w10163783,colleague,confiding,confiding,confid,VERB,USM
+w10163783,blowgun,blowing,blowing,blow,VERB,USM
+w10163783,blowgun,attacking,attacking,attack,VERB,USM
+w10163783,blowgun,target practicing,target,target,NOUN,USM
+w10163783,blowgun,target practicing,practicing,practice,VERB,USM
+w10163783,blowgun,killing,killing,kill,VERB,USM
+w10163783,blowgun,hunting,hunting,hunt,VERB,USM
+w10163783,blowgun,self defense,self,self,NOUN,USM
+w10163783,blowgun,self defense,defense,defense,VERB,USM
+w10163783,board,cooking,cooking,cook,VERB,USM
+w10163783,board,cutting,cutting,cut,VERB,USM
+w10163783,board,playing games,playing,play,VERB,USM
+w10163783,board,playing games,games,game,NOUN,USM
+w10163783,board,building,building,build,VERB,USM
+w10163783,board,balancing,balancing,balance,VERB,USM
+w10163783,board,repairing,repairing,repaire,VERB,USM
+w10163783,aftershave,wearing,wearing,wear,VERB,USM
+w10163783,aftershave,smelling,smelling,smell,VERB,USM
+w10163783,aftershave,shopping,shopping,shop,VERB,USM
+w10163783,aftershave,selling,selling,sell,VERB,USM
+w10163783,aftershave,gifting,gifting,gift,VERB,USM
+w10163783,blender,blending,blending,blend,VERB,USM
+w10163783,blender,mincing,mincing,mince,VERB,USM
+w10163783,blender,mixing,mixing,mix,VERB,USM
+w10163783,blender,liquifying,liquefying,liquefy,VERB,USM
+w10163783,villager,housing,housing,housing,NOUN,USM
+w10163783,villager,farming,farming,farm,VERB,USM
+w10163783,villager,building,building,build,VERB,USM
+w10163783,villager,repairing,repairing,repaire,VERB,USM
+w10163783,villager,befriending,befriending,befriend,VERB,USM
+w10163783,villager,hiring,hiring,hi,VERB,USM
+w10163783,villager,firing,firing,fi,VERB,USM
+w10163783,villager,romancing,romancing,romance,NOUN,USM
+w10163783,bell,ringing,ringing,ring,VERB,USM
+w10163783,bell,displaying,displaying,display,VERB,USM
+w10163783,bell,collecting,collecting,collect,VERB,USM
+w10163783,bell,trading,trading,trade,VERB,USM
+w10163783,bell,buying,buying,buy,VERB,USM
+w10163783,bell,selling,selling,sell,VERB,USM
+w10163783,bell,signaling,signaling,signal,VERB,USM
+w10163783,bell,psychological conditioning,psychological,psychological,ADJ,USM
+w10163783,bell,psychological conditioning,conditioning,condition,VERB,USM
+w10163783,uniform,wearing,wearing,wear,VERB,USM
+w10163783,uniform,tailoring,tailoring,tailor,VERB,USM
+w10163783,uniform,selling,selling,sell,VERB,USM
+w10163783,uniform,buying,buying,buy,VERB,USM
+w10163783,uniform,designing,designing,designe,VERB,USM
+w10163783,chain,binding,binding,bind,VERB,USM
+w10163783,chain,linking,linking,link,VERB,USM
+w10163783,chain,restraining,restraining,restrain,VERB,USM
+w10163783,chain,upholding,upholding,upholding,NOUN,USM
+w10163783,chain,withholding,withholding,withholding,NOUN,USM
+w10163783,chain,locking,locking,lock,VERB,USM
+w10163783,chain,lifting,lifting,lift,VERB,USM
+w10163783,chain,lowering,lowering,lowere,VERB,USM
+w10163783,buttercup,picking,picking,pick,VERB,USM
+w10163783,buttercup,growing,growing,grow,VERB,USM
+w10163783,buttercup,arranging,arranging,arrange,VERB,USM
+w10163783,buttercup,eating,eating,eat,VERB,USM
+w10163783,buttercup,gifting,gifting,gift,VERB,USM
+w10163783,buttercup,painting,painting,paint,VERB,USM
+w10163783,buttercup,photographing,photographing,photographing,VERB,USM
+w10163783,buttercup,pressing,pressing,press,VERB,USM
+w10163783,buttercup,perfume making,perfume,perfume,NOUN,USM
+w10163783,buttercup,perfume making,making,make,AUX,USM
+w10163783,bamboo,eating,eating,eat,VERB,USM
+w10163783,bamboo,building,building,build,VERB,USM
+w10163783,bamboo,self defense,self,self,NOUN,USM
+w10163783,bamboo,self defense,defense,defense,VERB,USM
+w10163783,bamboo,growing,growing,grow,VERB,USM
+w10163783,bamboo,painting,painting,paint,VERB,USM
+w10163783,bamboo,farming,farming,farm,VERB,USM
+w10163783,bamboo,trading,trading,trade,VERB,USM
+w10163783,bamboo,selling,selling,sell,VERB,USM
+w10163783,bamboo,buying,buying,buy,VERB,USM
+w10163783,birdbath,bathing,bathing,bathe,VERB,USM
+w10163783,birdbath,drinking,drinking,drink,VERB,USM
+w10163783,birdbath,birdwatching,bird,bird,NOUN,USM
+w10163783,birdbath,birdwatching,watching,watch,VERB,USM
+w10163783,birdbath,decorating,decorating,decorate,VERB,USM
+w10163783,birdbath,selling,selling,sell,VERB,USM
+w10163783,crab,farming,farming,farm,VERB,USM
+w10163783,crab,fishing,fishing,fish,VERB,USM
+w10163783,crab,cooking,cooking,cook,VERB,USM
+w10163783,crab,eating,eating,eat,VERB,USM
+w10163783,crab,caring for,caring,care,VERB,USM
+w10163783,crab,watching,watching,watch,VERB,USM
+w10163783,crab,catching,catching,catch,VERB,USM
+w10163783,crab,teaching,teaching,teach,VERB,USM
+w10163783,wheelhouse,living in,living,live,VERB,USM
+w10163783,wheelhouse,working in,working,work,VERB,USM
+w10163783,wheelhouse,storage,storage,store,VERB,USM
+w10163783,vegetation,growing,growing,grow,VERB,USM
+w10163783,vegetation,harvesting,harvesting,harvest,VERB,USM
+w10163783,vegetation,cooking,cooking,cook,VERB,USM
+w10163783,vegetation,preserving,preserving,preserve,VERB,USM
+w10163783,vegetation,selling,selling,sell,VERB,USM
+w10163783,vegetation,buying,buying,buy,VERB,USM
+w10163783,vegetation,trading,trading,trade,VERB,USM
+w10163783,vegetation,fertilizing,fertilizing,fertilize,VERB,USM
+w10163783,briefcase,carrying,carrying,carry,VERB,USM
+w10163783,briefcase,holding,holding,hold,VERB,USM
+w10163783,briefcase,storing,storing,store,VERB,USM
+w10163783,briefcase,styling,styling,style,VERB,USM
+w10163783,briefcase,gifting,gifting,gift,VERB,USM
+w10163783,cookhouse,cooking,cooking,cook,VERB,USM
+w10163783,camisole,wearing,wearing,wear,VERB,USM
+w10163783,camisole,styling,styling,style,VERB,USM
+w10163783,camisole,buying,buying,buy,VERB,USM
+w10163783,camisole,selling,selling,sell,VERB,USM
+w10163783,camisole,stitching,stitching,stitch,VERB,USM
+w10163783,camisole,designing,designing,designe,VERB,USM
+w10163783,barman,employing,employing,employ,VERB,USM
+w10163783,barman,ordering,ordering,order,VERB,USM
+w10163783,barman,cleaning,cleaning,clean,VERB,USM
+w10163783,bib,wearing,wearing,wear,VERB,USM
+w10163783,bib,cleaning,cleaning,clean,VERB,USM
+w10163783,cement,mixing,mixing,mix,VERB,USM
+w10163783,cement,pouring,pouring,pour,VERB,USM
+w10163783,cement,drying,drying,dry,VERB,USM
+w10163783,cement,building,building,build,VERB,USM
+w10163783,cement,anchoring,anchoring,anchor,VERB,USM
+w10163783,cement,repairing,repairing,repaire,VERB,USM
+w10163783,drum,beating,beating,beat,VERB,USM
+w10163783,drum,building,building,build,VERB,USM
+w10163783,drum,dismantling,dismantling,dismantle,VERB,USM
+w10163783,drum,music therapy,music,music,AUX,USM
+w10163783,drum,music therapy,therapy,therapy,VERB,USM
+w10163783,wrestler,watching,watching,watch,VERB,USM
+w10163783,wrestler,betting on,betting,bet,VERB,USM
+w10163783,wrestler,hiring,hiring,hi,VERB,USM
+w10163783,wrestler,training,training,train,VERB,USM
+w10163783,wrestler,becoming one,becoming,become,VERB,USM
+w10163783,wrestler,becoming one,one,one,NUM,USM
+w10163783,windsock,watching,watching,watch,VERB,USM
+w10163783,windsock,measuring,measuring,measure,VERB,USM
+w10163783,bread,baking,baking,bake,VERB,USM
+w10163783,bread,slicing,slicing,slice,VERB,USM
+w10163783,bread,eating,eating,eat,VERB,USM
+w10163783,bread,sharing,sharing,share,VERB,USM
+w10163783,bread,buying,buying,buy,VERB,USM
+w10163783,bread,selling,selling,sell,VERB,USM
+w10163783,bread,experimenting with recipe,experimenting,experiment,VERB,USM
+w10163783,bread,experimenting with recipe,recipe,recipe,NOUN,USM
+w10163783,bunk,sleeping,sleeping,sleep,VERB,USM
+w10163783,bunk,stacking,stacking,stack,VERB,USM
+w10163783,bunk,storing,storing,store,VERB,USM
+w10163783,concert,attending,attending,attend,VERB,USM
+w10163783,concert,recording,recording,record,VERB,USM
+w10163783,concert,monetizing,monetizing,money,VERB,USM
+w10163783,concert,remembering,remembering,remember,VERB,USM
+w10163783,concert,bonding,bonding,bond,VERB,USM
+w10163783,concert,sentimentality,sentimentality,sentimentality,NOUN,USM
+w10163783,automotive,driving,driving,drive,VERB,USM
+w10163783,automotive,building,building,build,VERB,USM
+w10163783,automotive,repairing,repairing,repaire,VERB,USM
+w10163783,automotive,buying,buying,buy,VERB,USM
+w10163783,automotive,selling,selling,sell,VERB,USM
+w10163783,automotive,collecting,collecting,collect,VERB,USM
+w10163783,automotive,customizing,customizing,customize,VERB,USM
+w10163783,automotive,riding,riding,ride,VERB,USM
+w10163783,diaphragm,breathing,breathing,breathe,VERB,USM
+w10163783,diaphragm,playing instruments,playing,play,VERB,USM
+w10163783,diaphragm,playing instruments,instruments,instrument,NOUN,USM
+w10163783,diaphragm,singing,singing,singe,VERB,USM
+w10164613',chestnut,crush it,crush,crush,VERB,USM
+w10164613',chestnut,eat it,eat,eat,VERB,USM
+w10164613',chestnut,crack it,crack,crack,VERB,USM
+w10164613',chestnut,throw it,throw,throw,VERB,USM
+w10164613',nylon,wear,wear,wear,VERB,USM
+w10164613',nylon,rip apart,rip,rip,VERB,USM
+w10164613',nylon,rip apart,apart,apart,ADV,USM
+w10164613',nylon,cut into pieces,cut,cut,VERB,USM
+w10164613',nylon,cut into pieces,pieces,piece,NOUN,USM
+w10164613',vacuum,clean up a mess,clean,clean,VERB,USM
+w10164613',vacuum,clean up a mess,mess,mess,NOUN,USM
+w10164613',chef,make food,make,make,AUX,USM
+w10164613',chef,make food,food,food,NOUN,USM
+w10164613',chef,deliver the food,deliver,deliver,VERB,USM
+w10164613',chef,deliver the food,food,food,NOUN,USM
+w10164613',periscope,look through it,look,look,VERB,USM
+w10164613',monument,take pictures,take,take,AUX,USM
+w10164613',monument,take pictures,pictures,photograph,VERB,USM
+w10164613',monument,touch,touch,touch,VERB,USM
+w10164613',tee,hold my golf ball,hold,hold,VERB,USM
+w10164613',tee,hold my golf ball,golf,golf,NOUN,USM
+w10164613',tee,hold my golf ball,ball,ball,NOUN,USM
+w10164613',helicopter,use to fly,use,use,AUX,USM
+w10164613',helicopter,use to fly,fly,fly,VERB,USM
+w10164613',helicopter,crash,crash,crash,VERB,USM
+w10164613',clothesline,hang up my clothes,hang,hang,VERB,USM
+w10164613',clothesline,hang up my clothes,clothes,clothe,NOUN,USM
+w10164613',wrist,control the direction in which my hand goes,control,control,VERB,USM
+w10164613',wrist,control the direction in which my hand goes,direction,direction,NOUN,USM
+w10164613',wrist,control the direction in which my hand goes,hand,hand,NOUN,USM
+w10164613',wrist,control the direction in which my hand goes,goes,go,AUX,USM
+w10164613',wrist,allows my hand to twist different ways,allows,allow,NOUN,USM
+w10164613',wrist,allows my hand to twist different ways,hand,hand,NOUN,USM
+w10164613',wrist,allows my hand to twist different ways,twist,twist,VERB,USM
+w10164613',wrist,allows my hand to twist different ways,different,different,ADJ,USM
+w10164613',wrist,allows my hand to twist different ways,ways,way,NOUN,USM
+w10164613',sangria,eat,eat,eat,VERB,USM
+w10164613',shank,to create hole in something,create,create,VERB,USM
+w10164613',shank,to create hole in something,hole,hole,NOUN,USM
+w10164613',shank,to create hole in something,something,something,PRON,USM
+w10164613',cattle,use it as a means of transportation,use,use,AUX,USM
+w10164613',cattle,use it as a means of transportation,means,mean,VERB,USM
+w10164613',cattle,use it as a means of transportation,transportation,transport,VERB,USM
+w10164613',cattle,food,food,food,NOUN,USM
+w10164613',cattle,drinks,drinks,drink,NOUN,USM
+w10164613',cattle,and clothing,clothing,clothing,NOUN,USM
+w10164613',basil,eat,eat,eat,VERB,USM
+w10164613',basil,use as seasoning,use,use,AUX,USM
+w10164613',basil,use as seasoning,seasoning,season,VERB,USM
+w10164613',basil,and a repellent,repellent,repell,VERB,USM
+w10164613',tablespoon,used to measure,used,use,AUX,USM
+w10164613',tablespoon,used to measure,measure,measure,VERB,USM
+w10164613',handclap,to make sound,make,make,AUX,USM
+w10164613',handclap,to make sound,sound,sound,VERB,USM
+w10164613',handclap,get someone's attention,get,get,AUX,USM
+w10164613',handclap,get someone's attention,attention,attention,VERB,USM
+w10164613',wristwatch,to tell time,tell,tell,VERB,USM
+w10164613',wristwatch,to tell time,time,time,NOUN,USM
+w10164613',gumbo,eat,eat,eat,VERB,USM
+w10164613',gumbo,drink,drink,drink,VERB,USM
+w10164613',gumbo,throw,throw,throw,VERB,USM
+w10164613',coachman,used to give a ride,used,use,AUX,USM
+w10164613',coachman,used to give a ride,give,give,VERB,USM
+w10164613',coachman,used to give a ride,ride,ride,VERB,USM
+w10164613',technician,fix technology,fix,fix,VERB,USM
+w10164613',technician,fix technology,technology,technology,NOUN,USM
+w10164613',technician,help with other tech related problems,help,help,VERB,USM
+w10164613',technician,help with other tech related problems,tech,tech,NOUN,USM
+w10164613',technician,help with other tech related problems,related,relate,ADJ,USM
+w10164613',technician,help with other tech related problems,problems,problem,NOUN,USM
+w10164613',chow,eat,eat,eat,VERB,USM
+w10164613',chow,throw,throw,throw,VERB,USM
+w10164613',harness,used to keep something in place,used,use,AUX,USM
+w10164613',harness,used to keep something in place,keep,keep,AUX,USM
+w10164613',harness,used to keep something in place,something,something,PRON,USM
+w10164613',harness,used to keep something in place,place,place,NOUN,USM
+w10164613',sweatshirt,used to as clothing,used,use,AUX,USM
+w10164613',sweatshirt,used to as clothing,clothing,clothing,NOUN,USM
+w10170895,backboard,basketball,basketball,basketball,NOUN,USM
+w10170895,children,fun activities,fun,fun,NOUN,USM
+w10170895,children,fun activities,activities,activity,NOUN,USM
+w10170895,bugle,music,music,music,VERB,USM
+w10170895,custard,food,food,food,NOUN,USM
+w10170895,dermatologist,skin checkup,skin,skin,NOUN,USM
+w10170895,dermatologist,skin checkup,checkup,checkup,VERB,USM
+w10170895,giblets,chicken curry,chicken,chicken,NOUN,USM
+w10170895,giblets,chicken curry,curry,curry,NOUN,USM
+w10170895,ledger,wallets,wallets,wallets,NOUN,USM
+w10170895,clerk,keep records,keep,keep,AUX,USM
+w10170895,clerk,keep records,records,record,NOUN,USM
+w10170895,broomstick,to clean floors,clean,clean,VERB,USM
+w10170895,broomstick,to clean floors,floors,floor,NOUN,USM
+w10170895,foliage,greenery,greenery,greenery,NOUN,USM
+w10170895,cruiser,war,war,war,VERB,USM
+w10170895,hutch,as cage,cage,cage,NOUN,USM
+w10170895,coaster,mat,mat,mat,NOUN,USM
+w10170895,plaque,ornament,ornament,ornament,NOUN,USM
+w10170895,chin,chewing,chewing,chew,VERB,USM
+w10170895,cartridge,as tube,tube,tube,NOUN,USM
+w10170895,gown,dress,dress,dress,NOUN,USM
+w10170895,limb,walking,walking,walk,VERB,USM
+w10170895,fillet,food,food,food,NOUN,USM
+w10170895,lens,to see,see,see,VERB,USM
+w10170895,greens,for animals,animals,animal,NOUN,USM
+w10170895,fishbone,as food,food,food,NOUN,USM
+w10170895,aluminum,make plates,make,make,AUX,USM
+w10170895,aluminum,make plates,plates,plate,NOUN,USM
+w10170895,bosom,hug,hug,hug,VERB,USM

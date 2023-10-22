@@ -129,3 +129,10 @@ summary(model8)
 model9 = lm(AFS ~ COS, data = cos2) #tiny effect
 summary(model9) #non-sig
 
+####UPDATED CORRELATIONS####
+cor.test(cue_table$AoA, cue_table$BOI) #.13 #BOI
+cor.test(cue_table$AoA, cue_table$Concrete) #.03 #CONCRETE
+cor.test(cue_table$AoA, cue_table$SUBTLEX) #.33 #SUBTLEX
+cor.test(cue_table$BOI, cue_table$AoA) #-.22 #AoA 
+
+

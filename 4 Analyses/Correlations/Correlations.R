@@ -69,10 +69,11 @@ cor.test(cos2$AFSS, cos2$COS) #-.08
 
 ###Lexical Correlations
 ##strongest affordance
-cue_table$cues = tolower(cue_table$cues)
+cue_table$Cue = tolower(cue_table$Cue)
 aff2$Cue = tolower(aff2$Cue)
 
-combined = merge(aff2, cue_table, by.x = "Cue", by.y = "cues")
+combined = merge(aff2, cue_table, by.x = "Cue", by.y = "Cue")
+
 
 ##set size
 cor.test(combined$AFSS, combined$BOI) #.13 #BOI
@@ -85,6 +86,7 @@ cor.test(combined$AFS, combined$BOI) #.10 #BOI
 cor.test(combined$AFS, combined$Concrete) #.07 #CONCRETE
 cor.test(combined$AFS, combined$SUBTLEX) #-.11 #SUBTLEX
 cor.test(combined$AFS, combined$AoA) #.01 #AOA #Non-sig
+cor.test(combined$AFS, combined$AFSS) #-.44
 
 mean(combined$AFS); sd(combined$AFS)
 mean(combined$AFS); sd(combined$AFS)
@@ -135,4 +137,5 @@ cor.test(cue_table$AoA, cue_table$Concrete) #.03 #CONCRETE
 cor.test(cue_table$AoA, cue_table$SUBTLEX) #.33 #SUBTLEX
 cor.test(cue_table$BOI, cue_table$AoA) #-.22 #AoA 
 
-
+mean(cue_table$AoA, na.rm = T)
+sd(cue_table$AoA, na.rm = T)

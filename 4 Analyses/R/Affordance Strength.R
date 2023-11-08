@@ -283,4 +283,4 @@ for(k in cuelist){
 }
 
 #write to file
-#write.csv(Affordance_Strength2, file = "Affordance Norms.csv", row.names = F)
+write.csv(Affordance_Strength2, file = "Affordance Norms.csv", row.names = F)

@@ -1,7 +1,7 @@
 ####Set up####
 ##Combine data into master file
 #Start w/ cleaned data
-dat = read.csv("All_responses.csv")
+dat = read.csv("All_responses_Final.csv")
 
 options(scipen = 999)
 
@@ -9,6 +9,13 @@ library(memisc)
 
 percent(dat$POS)
 
+##get percent removed in round 1
+percent(dat$POS)[1] + percent(dat$POS)[2] + percent(dat$POS)[3] +
+  percent(dat$POS)[4] + percent(dat$POS)[6] + percent(dat$POS)[7] +
+  percent(dat$POS)[8] + percent(dat$POS)[10] + percent(dat$POS)[11] +
+  percent(dat$POS)[12] + percent(dat$POS)[13] + percent(dat$POS)[14] +
+  percent(dat$POS)[15]
+  
 #setwd("..")
 
 #Now do the pre-cleaning (this is to pull subIDs)
@@ -117,6 +124,8 @@ max(temp4$RESPONSE_NUM) ##On average, 7 verb responses
 ###total number of NOUN responses
 NOUN = subset(dat,
               dat$POS == "NOUN")
+aux = subset(dat,
+             dat$POS == "AUX")
 
 temp6 = data.frame()
 

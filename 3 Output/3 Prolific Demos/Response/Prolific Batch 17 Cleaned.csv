@@ -1,0 +1,527 @@
+Username,Stimuli.Cue,affordance_parsed,word,lemma,POS,Group
+5b0d0beed282ff00015b9972,thong,grab,grab,grab,VERB,Prolific
+5b0d0beed282ff00015b9972,thong,cook,cook,cook,VERB,Prolific
+5b0d0beed282ff00015b9972,thong,separate,separate,separate,VERB,Prolific
+5b0d0beed282ff00015b9972,thong,flip,flip,flip,VERB,Prolific
+5b0d0beed282ff00015b9972,thong,turn,turn,turn,VERB,Prolific
+5b0d0beed282ff00015b9972,virgin,cook,cook,cook,VERB,Prolific
+5b0d0beed282ff00015b9972,virgin,bake,bake,bake,VERB,Prolific
+5b0d0beed282ff00015b9972,tampon,period,period,period,VERB,Prolific
+5b0d0beed282ff00015b9972,tampon,toilet paper,toilet,toilet paper,NOUN,Prolific
+5b0d0beed282ff00015b9972,tampon,toilet paper,paper,paper,NOUN,Prolific
+5b0d0beed282ff00015b9972,newlywed,talk,talk,talk,VERB,Prolific
+5b0d0beed282ff00015b9972,newlywed,joke,joke,joke,VERB,Prolific
+5b0d0beed282ff00015b9972,newlywed,travel with,travel,travel,VERB,Prolific
+5b0d0beed282ff00015b9972,newlywed,phone,phone,phone,VERB,Prolific
+5b0d0beed282ff00015b9972,plaintiff,sue,sue,sue,VERB,Prolific
+5b0d0beed282ff00015b9972,plaintiff,talk,talk,talk,VERB,Prolific
+5b0d0beed282ff00015b9972,plaintiff,ask,ask,ask,VERB,Prolific
+5b0d0beed282ff00015b9972,mitt,wear,wear,wear,VERB,Prolific
+5b0d0beed282ff00015b9972,mitt,play,play,play,VERB,Prolific
+5b0d0beed282ff00015b9972,mitt,warm hands,warm,warm,VERB,Prolific
+5b0d0beed282ff00015b9972,mitt,warm hands,hands,hand,NOUN,Prolific
+5b0d0beed282ff00015b9972,velvet,touch,touch,touch,VERB,Prolific
+5b0d0beed282ff00015b9972,velvet,wear,wear,wear,VERB,Prolific
+5b0d0beed282ff00015b9972,velvet,show off,show,show,VERB,Prolific
+5b0d0beed282ff00015b9972,velvet,create,create,create,VERB,Prolific
+5b0d0beed282ff00015b9972,velvet,sew,sew,sew,VERB,Prolific
+5b0d0beed282ff00015b9972,cattle,feed,feed,feed,VERB,Prolific
+5b0d0beed282ff00015b9972,cattle,pet,pet,pet,VERB,Prolific
+5b0d0beed282ff00015b9972,cattle,count,count,count,VERB,Prolific
+5b0d0beed282ff00015b9972,cattle,consume,consume,consume,VERB,Prolific
+5b0d0beed282ff00015b9972,cattle,milk,milk,milk,VERB,Prolific
+5b0d0beed282ff00015b9972,sheep,sheer,sheer,shear,VERB,Prolific
+5b0d0beed282ff00015b9972,sheep,pet,pet,pet,VERB,Prolific
+5b0d0beed282ff00015b9972,sheep,consume,consume,consume,VERB,Prolific
+5b0d0beed282ff00015b9972,panhandler,give,give,give,VERB,Prolific
+5b0d0beed282ff00015b9972,panhandler,ignore,ignore,ignore,VERB,Prolific
+5b0d0beed282ff00015b9972,panhandler,talk to,talk,talk,VERB,Prolific
+5b0d0beed282ff00015b9972,tonic,drink,drink,drink,VERB,Prolific
+5b0d0beed282ff00015b9972,tonic,mix,mix,mix,VERB,Prolific
+5b0d0beed282ff00015b9972,tonic,sip,sip,sip,VERB,Prolific
+5b0d0beed282ff00015b9972,polyester,wear,wear,wear,VERB,Prolific
+5b0d0beed282ff00015b9972,polyester,touch,touch,touch,VERB,Prolific
+5b0d0beed282ff00015b9972,polyester,create,create,create,VERB,Prolific
+5b0d0beed282ff00015b9972,polyester,sew,sew,sew,VERB,Prolific
+5b0d0beed282ff00015b9972,ham,eat,eat,eat,VERB,Prolific
+5b0d0beed282ff00015b9972,ham,cook,cook,cook,VERB,Prolific
+5b0d0beed282ff00015b9972,ham,grill,grill,grill,VERB,Prolific
+5b0d0beed282ff00015b9972,ham,bake,bake,bake,VERB,Prolific
+5b0d0beed282ff00015b9972,paperback,read,read,read,VERB,Prolific
+5b0d0beed282ff00015b9972,paperback,trade,trade,trade,VERB,Prolific
+5b0d0beed282ff00015b9972,paperback,lend,lend,lend,VERB,Prolific
+5b0d0beed282ff00015b9972,paperback,borrow,borrow,borrow,VERB,Prolific
+5b0d0beed282ff00015b9972,paperback,write on,write,write,VERB,Prolific
+5b0d0beed282ff00015b9972,timber,build,build,build,VERB,Prolific
+5b0d0beed282ff00015b9972,timber,saw,saw,see,VERB,Prolific
+5b0d0beed282ff00015b9972,timber,attach,attach,attach,VERB,Prolific
+5b0d0beed282ff00015b9972,pigtail,pull,pull,pull,VERB,Prolific
+5b0d0beed282ff00015b9972,pigtail,cut,cut,cut,VERB,Prolific
+5b0d0beed282ff00015b9972,pigtail,touch,touch,touch,VERB,Prolific
+5b0d0beed282ff00015b9972,pigtail,tie,tie,tie,VERB,Prolific
+5b0d0beed282ff00015b9972,cross,look,look,look,VERB,Prolific
+5b0d0beed282ff00015b9972,cross,touch,touch,touch,VERB,Prolific
+5b0d0beed282ff00015b9972,cardigan,wear,wear,wear,VERB,Prolific
+5b0d0beed282ff00015b9972,cardigan,show off,show,show,VERB,Prolific
+5b0d0beed282ff00015b9972,cardigan,warm yourself,warm,warm,VERB,Prolific
+5b0d0beed282ff00015b9972,bully,punch,punch,punch,VERB,Prolific
+5b0d0beed282ff00015b9972,bully,ignore,ignore,ignore,VERB,Prolific
+5b0d0beed282ff00015b9972,bully,report,report,report,VERB,Prolific
+5b0d0beed282ff00015b9972,bully,join,join,join,VERB,Prolific
+5b0d0beed282ff00015b9972,turbin,wear for traditional reasons,wear,wear,VERB,Prolific
+5b0d0beed282ff00015b9972,turbin,wear for traditional reasons,traditional,traditional,ADJ,Prolific
+5b0d0beed282ff00015b9972,turbin,wear for traditional reasons,reasons,reason,NOUN,Prolific
+5b0d0beed282ff00015b9972,turbin,warmth for head,warmth,warm,VERB,Prolific
+5b0d0beed282ff00015b9972,turbin,warmth for head,head,head,NOUN,Prolific
+5b0d0beed282ff00015b9972,jurist,convince,convince,convince,VERB,Prolific
+5b0d0beed282ff00015b9972,jurist,speak to,speak,speak,VERB,Prolific
+5b0d0beed282ff00015b9972,jurist,argue with,argue,argue,VERB,Prolific
+5b0d0beed282ff00015b9972,stall,sit inside,sit,sit,VERB,Prolific
+5b0d0beed282ff00015b9972,stall,sit inside,inside,inside,ADV,Prolific
+5b0d0beed282ff00015b9972,stall,wait inside,wait,wait,VERB,Prolific
+5b0d0beed282ff00015b9972,stall,wait inside,inside,inside,ADV,Prolific
+5b0d0beed282ff00015b9972,stall,use chair for sitting,use,use,AUX,Prolific
+5b0d0beed282ff00015b9972,stall,use chair for sitting,chair,chair,NOUN,Prolific
+5b0d0beed282ff00015b9972,stall,use chair for sitting,sitting,sit,VERB,Prolific
+5b0d0beed282ff00015b9972,nylon,wear,wear,wear,VERB,Prolific
+5b0d0beed282ff00015b9972,nylon,use it to hide marks,use,use,AUX,Prolific
+5b0d0beed282ff00015b9972,nylon,use it to hide marks,hide,hide,VERB,Prolific
+5b0d0beed282ff00015b9972,nylon,use it to hide marks,marks,mark,NOUN,Prolific
+5b0d0beed282ff00015b9972,leather,wear,wear,wear,VERB,Prolific
+5b0d0beed282ff00015b9972,leather,show off,show,show,VERB,Prolific
+5b0d0beed282ff00015b9972,leather,use as bag,use,use,AUX,Prolific
+5b0d0beed282ff00015b9972,leather,use as bag,bag,bag,VERB,Prolific
+5b0d0beed282ff00015b9972,dude,talk to,talk,talk,VERB,Prolific
+5b0d0beed282ff00015b9972,dude,hang out with,hang,hang,VERB,Prolific
+5b0d0beed282ff00015b9972,dude,go for drinks with,go,go,AUX,Prolific
+5b0d0beed282ff00015b9972,dude,go for drinks with,drinks,drink,VERB,Prolific
+5b0d0beed282ff00015b9972,dude,joke along with,joke,joke,VERB,Prolific
+5b0d0beed282ff00015b9972,dude,joke along with,along,along,ADV,Prolific
+5b0d0beed282ff00015b9972,tiller,break up dirt,break,break,VERB,Prolific
+5b0d0beed282ff00015b9972,tiller,break up dirt,dirt,dirt,NOUN,Prolific
+5b0d0beed282ff00015b9972,tiller,get garden ready,get,get,AUX,Prolific
+5b0d0beed282ff00015b9972,tiller,get garden ready,garden,garden,VERB,Prolific
+5b0d0beed282ff00015b9972,tiller,get garden ready,ready,ready,ADJ,Prolific
+5b0d0beed282ff00015b9972,tiller,plant seeds,plant,plant,VERB,Prolific
+5b0d0beed282ff00015b9972,tiller,plant seeds,seeds,seed,NOUN,Prolific
+5b0d0beed282ff00015b9972,pup,pet,pet,pet,VERB,Prolific
+5b0d0beed282ff00015b9972,pup,talk to,talk,talk,VERB,Prolific
+5b0d0beed282ff00015b9972,pup,feed,feed,feed,VERB,Prolific
+5b0d0beed282ff00015b9972,pup,play with,play,play,VERB,Prolific
+5b0d0beed282ff00015b9972,pup,walk with,walk,walk,VERB,Prolific
+5b0d0beed282ff00015b9972,motor,turn on,turn,turn,VERB,Prolific
+5b0d0beed282ff00015b9972,motor,turn off,turn,turn,VERB,Prolific
+5b0d0beed282ff00015b9972,motor,use to start machines,use,use,AUX,Prolific
+5b0d0beed282ff00015b9972,motor,use to start machines,start,start,VERB,Prolific
+5b0d0beed282ff00015b9972,motor,use to start machines,machines,machine,NOUN,Prolific
+5b0d0beed282ff00015b9972,apparatus,store liquid in,store,store,VERB,Prolific
+5b0d0beed282ff00015b9972,apparatus,store liquid in,liquid,liquid,AUX,Prolific
+5b0d0beed282ff00015b9972,apparatus,heat up,heat,heat,VERB,Prolific
+5b0d0beed282ff00015b9972,apparatus,examine,examine,examine,VERB,Prolific
+5b0d0beed282ff00015b9972,apparatus,document how it reacts,document,document,NOUN,Prolific
+5b0d0beed282ff00015b9972,apparatus,document how it reacts,reacts,react,VERB,Prolific
+5b0d0beed282ff00015b9972,rat,kill,kill,kill,VERB,Prolific
+5b0d0beed282ff00015b9972,rat,pet,pet,pet,VERB,Prolific
+5b0d0beed282ff00015b9972,rat,watch,watch,watch,VERB,Prolific
+5c4592d7f608210001a4b0a8,pigtail,pull,pull,pull,VERB,Prolific
+5c4592d7f608210001a4b0a8,pigtail,combine with another pigtail,combine,combine,VERB,Prolific
+5c4592d7f608210001a4b0a8,pigtail,combine with another pigtail,another,another,DET,Prolific
+5c4592d7f608210001a4b0a8,pigtail,combine with another pigtail,pigtail,pigtail,NOUN,Prolific
+5c4592d7f608210001a4b0a8,pigtail,weave thread through,weave,weave,VERB,Prolific
+5c4592d7f608210001a4b0a8,pigtail,weave thread through,thread,thread,NOUN,Prolific
+5c4592d7f608210001a4b0a8,pigtail,to escape a tower,escape,escape,NOUN,Prolific
+5c4592d7f608210001a4b0a8,pigtail,to escape a tower,tower,tower,NOUN,Prolific
+5c4592d7f608210001a4b0a8,thong,to wear,wear,wear,VERB,Prolific
+5c4592d7f608210001a4b0a8,thong,to use as a catapult,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,thong,to use as a catapult,catapult,catapult,VERB,Prolific
+5c4592d7f608210001a4b0a8,thong,to wear on your head as a scrunchie,wear,wear,VERB,Prolific
+5c4592d7f608210001a4b0a8,thong,to wear on your head as a scrunchie,head,head,NOUN,Prolific
+5c4592d7f608210001a4b0a8,thong,to wear on your head as a scrunchie,scrunchie,scrunchie,VERB,Prolific
+5c4592d7f608210001a4b0a8,velvet,to stroke,stroke,stroke,VERB,Prolific
+5c4592d7f608210001a4b0a8,velvet,to make clothing,make,make,VERB,Prolific
+5c4592d7f608210001a4b0a8,velvet,to make clothing,clothing,clothing,NOUN,Prolific
+5c4592d7f608210001a4b0a8,velvet,to cover a sofa,cover,cover,NOUN,Prolific
+5c4592d7f608210001a4b0a8,velvet,to cover a sofa,sofa,sofa,NOUN,Prolific
+5c4592d7f608210001a4b0a8,paperback,to read,read,read,VERB,Prolific
+5c4592d7f608210001a4b0a8,paperback,to make into a tower,make,make,AUX,Prolific
+5c4592d7f608210001a4b0a8,paperback,to make into a tower,tower,stack,VERB,Prolific
+5c4592d7f608210001a4b0a8,paperback,to use as kindling,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,paperback,to use as kindling,kindling,kindle,VERB,Prolific
+5c4592d7f608210001a4b0a8,panhandler,to handle a pan,handle,handle,VERB,Prolific
+5c4592d7f608210001a4b0a8,panhandler,to handle a pan,pan,pan,VERB,Prolific
+5c4592d7f608210001a4b0a8,panhandler,to use for something else which is hot,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,panhandler,to use for something else which is hot,something,something,PRON,Prolific
+5c4592d7f608210001a4b0a8,panhandler,to use for something else which is hot,else,else,ADJ,Prolific
+5c4592d7f608210001a4b0a8,panhandler,to use for something else which is hot,hot,hot,ADJ,Prolific
+5c4592d7f608210001a4b0a8,leather,to make a saddle,make,make,VERB,Prolific
+5c4592d7f608210001a4b0a8,leather,to make a saddle,saddle,saddle,NOUN,Prolific
+5c4592d7f608210001a4b0a8,leather,to make a handbag,make,make,VERB,Prolific
+5c4592d7f608210001a4b0a8,leather,to make a handbag,handbag,handbag,NOUN,Prolific
+5c4592d7f608210001a4b0a8,leather,to make shoes,make,make,VERB,Prolific
+5c4592d7f608210001a4b0a8,leather,to make shoes,shoes,shoe,NOUN,Prolific
+5c4592d7f608210001a4b0a8,leather,to use as sharpening,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,leather,to use as sharpening,sharpening,sharpen,VERB,Prolific
+5c4592d7f608210001a4b0a8,apparatus,to use for an experiment,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,apparatus,to use for an experiment,experiment,experiment,VERB,Prolific
+5c4592d7f608210001a4b0a8,apparatus,to use to climb if in a gym,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,apparatus,to use to climb if in a gym,climb,climb,VERB,Prolific
+5c4592d7f608210001a4b0a8,apparatus,to use to climb if in a gym,gym,gym,NOUN,Prolific
+5c4592d7f608210001a4b0a8,bully,to stand up to,stand,stand,VERB,Prolific
+5c4592d7f608210001a4b0a8,bully,to pity,pity,pity,NOUN,Prolific
+5c4592d7f608210001a4b0a8,bully,to avoid,avoid,avoid,VERB,Prolific
+5c4592d7f608210001a4b0a8,virgin,to be a religious idol,religious,religious,ADJ,Prolific
+5c4592d7f608210001a4b0a8,virgin,to be a religious idol,idol,idol,INTJ,Prolific
+5c4592d7f608210001a4b0a8,virgin,to be pure ,pure,purity,VERB,Prolific
+5c4592d7f608210001a4b0a8,timber,to build a house with,build,build,VERB,Prolific
+5c4592d7f608210001a4b0a8,timber,to build a house with,house,house,NOUN,Prolific
+5c4592d7f608210001a4b0a8,timber,to dam a river,dam,dam,VERB,Prolific
+5c4592d7f608210001a4b0a8,timber,to dam a river,river,river,NOUN,Prolific
+5c4592d7f608210001a4b0a8,timber,to build a fire,build,build,VERB,Prolific
+5c4592d7f608210001a4b0a8,timber,to build a fire,fire,fire,NOUN,Prolific
+5c4592d7f608210001a4b0a8,stall,to put a horse in,put,put,VERB,Prolific
+5c4592d7f608210001a4b0a8,stall,to put a horse in,horse,horse,NOUN,Prolific
+5c4592d7f608210001a4b0a8,stall,to sit in a theatre,sit,sit,VERB,Prolific
+5c4592d7f608210001a4b0a8,stall,to sit in a theatre,theater,theater,NOUN,Prolific
+5c4592d7f608210001a4b0a8,polyester,to make clothing,make,make,VERB,Prolific
+5c4592d7f608210001a4b0a8,polyester,to make clothing,clothing,clothing,NOUN,Prolific
+5c4592d7f608210001a4b0a8,polyester,to make tents,make,make,VERB,Prolific
+5c4592d7f608210001a4b0a8,polyester,to make tents,tents,tent,NOUN,Prolific
+5c4592d7f608210001a4b0a8,cattle,to drive,drive,drive,VERB,Prolific
+5c4592d7f608210001a4b0a8,cattle,to herd,herd,herd,VERB,Prolific
+5c4592d7f608210001a4b0a8,cattle,to milk,milk,milk,VERB,Prolific
+5c4592d7f608210001a4b0a8,cattle,to look after,look,look,VERB,Prolific
+5c4592d7f608210001a4b0a8,newlywed,to congratulate,congratulate,congratulate,VERB,Prolific
+5c4592d7f608210001a4b0a8,newlywed,to envy,envy,envy,VERB,Prolific
+5c4592d7f608210001a4b0a8,newlywed,to admire,admire,admire,VERB,Prolific
+5c4592d7f608210001a4b0a8,dude,to hang out with,hang,hang,VERB,Prolific
+5c4592d7f608210001a4b0a8,dude,to enjoy company of,enjoy,enjoy,VERB,Prolific
+5c4592d7f608210001a4b0a8,dude,to enjoy company of,company,company,NOUN,Prolific
+5c4592d7f608210001a4b0a8,plaintiff,to hear,hear,hear,VERB,Prolific
+5c4592d7f608210001a4b0a8,plaintiff,to defend,defend,defend,VERB,Prolific
+5c4592d7f608210001a4b0a8,motor,to fix,fix,fix,VERB,Prolific
+5c4592d7f608210001a4b0a8,motor,to run,run,run,VERB,Prolific
+5c4592d7f608210001a4b0a8,motor,to test,test,test,VERB,Prolific
+5c4592d7f608210001a4b0a8,ham,to cook,cook,cook,VERB,Prolific
+5c4592d7f608210001a4b0a8,ham,to eat,eat,eat,VERB,Prolific
+5c4592d7f608210001a4b0a8,ham,to combine with other things,combine,combine,VERB,Prolific
+5c4592d7f608210001a4b0a8,ham,to combine with other things,things,thing,NOUN,Prolific
+5c4592d7f608210001a4b0a8,tampon,to use during periods,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,tampon,to use during periods,periods,period,VERB,Prolific
+5c4592d7f608210001a4b0a8,tampon,to use for a nosebleed,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,tampon,to use for a nosebleed,nosebleed,nose bleed,VERB,Prolific
+5c4592d7f608210001a4b0a8,tampon,to stop a leak in a pipe temporarily,stop,stop,VERB,Prolific
+5c4592d7f608210001a4b0a8,tampon,to stop a leak in a pipe temporarily,leak,leak,VERB,Prolific
+5c4592d7f608210001a4b0a8,tampon,to stop a leak in a pipe temporarily,pipe,pipe,NOUN,Prolific
+5c4592d7f608210001a4b0a8,tampon,to stop a leak in a pipe temporarily,temporarily,temporarily,ADV,Prolific
+5c4592d7f608210001a4b0a8,rat,to keep as a pet,keep,keep,AUX,Prolific
+5c4592d7f608210001a4b0a8,rat,to keep as a pet,pet,pet,VERB,Prolific
+5c4592d7f608210001a4b0a8,rat,to exterminate as a pest,exterminate,exterminate,ADJ,Prolific
+5c4592d7f608210001a4b0a8,rat,to exterminate as a pest,pest,pest,ADJ,Prolific
+5c4592d7f608210001a4b0a8,rat,to test on in labs,test,test,VERB,Prolific
+5c4592d7f608210001a4b0a8,rat,to test on in labs,labs,lab,NOUN,Prolific
+5c4592d7f608210001a4b0a8,cardigan,to wear,wear,wear,VERB,Prolific
+5c4592d7f608210001a4b0a8,cardigan,to use as a pillow,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,cardigan,to use as a pillow,pillow,pillow,NOUN,Prolific
+5c4592d7f608210001a4b0a8,cross,to use as a grave marker,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,cross,to use as a grave marker,grave,grave,VERB,Prolific
+5c4592d7f608210001a4b0a8,cross,to use as a grave marker,marker,mark,VERB,Prolific
+5c4592d7f608210001a4b0a8,cross,to wear on a chain,wear,wear,VERB,Prolific
+5c4592d7f608210001a4b0a8,cross,to wear on a chain,chain,chain,NOUN,Prolific
+5c4592d7f608210001a4b0a8,cross,to mark treasure,mark,mark,VERB,Prolific
+5c4592d7f608210001a4b0a8,cross,to mark treasure,treasure,treasure,NOUN,Prolific
+5c4592d7f608210001a4b0a8,pup,to cuddle,cuddle,cuddle,VERB,Prolific
+5c4592d7f608210001a4b0a8,pup,to give,give,give,VERB,Prolific
+5c4592d7f608210001a4b0a8,nylon,to make clothing,make,make,VERB,Prolific
+5c4592d7f608210001a4b0a8,nylon,to make clothing,clothing,clothing,NOUN,Prolific
+5c4592d7f608210001a4b0a8,nylon,to make tents,make,make,VERB,Prolific
+5c4592d7f608210001a4b0a8,nylon,to make tents,tents,tent,VERB,Prolific
+5c4592d7f608210001a4b0a8,nylon,to make parachutes,make,make,VERB,Prolific
+5c4592d7f608210001a4b0a8,nylon,to make parachutes,parachutes,parachute,VERB,Prolific
+5c4592d7f608210001a4b0a8,tonic,to use as a mixer,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,tonic,to use as a mixer,mixer,mixer,NOUN,Prolific
+5c4592d7f608210001a4b0a8,tonic,to use as a health drink,use,use,AUX,Prolific
+5c4592d7f608210001a4b0a8,tonic,to use as a health drink,health,health,NOUN,Prolific
+5c4592d7f608210001a4b0a8,tonic,to use as a health drink,drink,drink,VERB,Prolific
+5c4592d7f608210001a4b0a8,tiller,to steer a ship,steer,steer,VERB,Prolific
+5c4592d7f608210001a4b0a8,tiller,to steer a ship,ship,ship,NOUN,Prolific
+5c4592d7f608210001a4b0a8,tiller,to pose at in a photo,pose,pose,VERB,Prolific
+5c4592d7f608210001a4b0a8,tiller,to pose at in a photo,photo,photo,NOUN,Prolific
+5c4592d7f608210001a4b0a8,mitt,to wear on your hand for protection,wear,wear,VERB,Prolific
+5c4592d7f608210001a4b0a8,mitt,to wear on your hand for protection,hand,hand,NOUN,Prolific
+5c4592d7f608210001a4b0a8,mitt,to wear on your hand for protection,protection,protect,VERB,Prolific
+5c4592d7f608210001a4b0a8,mitt,to wear for warmth,wear,wear,VERB,Prolific
+5c4592d7f608210001a4b0a8,mitt,to wear for warmth,warmth,warm,VERB,Prolific
+5c4592d7f608210001a4b0a8,mitt,to wear when handling birds of prey,wear,wear,VERB,Prolific
+5c4592d7f608210001a4b0a8,mitt,to wear when handling birds of prey,handling,handle,VERB,Prolific
+5c4592d7f608210001a4b0a8,mitt,to wear when handling birds of prey,birds,bird,NOUN,Prolific
+5c4592d7f608210001a4b0a8,mitt,to wear when handling birds of prey,prey,prey,INTJ,Prolific
+5c4592d7f608210001a4b0a8,sheep,to herd,herd,herd,VERB,Prolific
+5c4592d7f608210001a4b0a8,sheep,to shear,shear,sheer,VERB,Prolific
+5c4592d7f608210001a4b0a8,sheep,to fuss,fuss,fuss,VERB,Prolific
+5c4592d7f608210001a4b0a8,sheep,to talk to,talk,talk,VERB,Prolific
+5eadf7371f8db74abecd535f,rat,play,play,play,VERB,Prolific
+5eadf7371f8db74abecd535f,rat,hold,hold,hold,INTJ,Prolific
+5eadf7371f8db74abecd535f,rat,pet,pet,pet,VERB,Prolific
+5eadf7371f8db74abecd535f,rat,kill,kill,kill,VERB,Prolific
+5eadf7371f8db74abecd535f,rat,feed,feed,feed,VERB,Prolific
+5eadf7371f8db74abecd535f,rat,cuddle,cuddle,cuddle,VERB,Prolific
+5eadf7371f8db74abecd535f,cross,hang,hang,hang,VERB,Prolific
+5eadf7371f8db74abecd535f,cross,pray to,pray,pray,VERB,Prolific
+5eadf7371f8db74abecd535f,mitt,wear,wear,wear,VERB,Prolific
+5eadf7371f8db74abecd535f,mitt,catch,catch,catch,VERB,Prolific
+5eadf7371f8db74abecd535f,dude,talk to,talk,talk,VERB,Prolific
+5eadf7371f8db74abecd535f,dude,hang with,hang,hang,VERB,Prolific
+5eadf7371f8db74abecd535f,dude,date,date,date,VERB,Prolific
+5eadf7371f8db74abecd535f,dude,kiss,kiss,kiss,VERB,Prolific
+5eadf7371f8db74abecd535f,dude,hug,hug,hug,VERB,Prolific
+5eadf7371f8db74abecd535f,dude,laugh with,laugh,laugh,VERB,Prolific
+5eadf7371f8db74abecd535f,dude,joke with,joke,joke,VERB,Prolific
+5eadf7371f8db74abecd535f,jurist,talk to,talk,talk,VERB,Prolific
+5eadf7371f8db74abecd535f,jurist,convince,convince,convince,VERB,Prolific
+5eadf7371f8db74abecd535f,stall,use,use,use,AUX,Prolific
+5eadf7371f8db74abecd535f,stall,open,open,open,VERB,Prolific
+5eadf7371f8db74abecd535f,stall,close,close,close,VERB,Prolific
+5eadf7371f8db74abecd535f,stall,clean,clean,clean,VERB,Prolific
+5eadf7371f8db74abecd535f,paperback,read,read,read,VERB,Prolific
+5eadf7371f8db74abecd535f,paperback,clean,clean,clean,VERB,Prolific
+5eadf7371f8db74abecd535f,paperback,take off,take,take off,VERB,Prolific
+5eadf7371f8db74abecd535f,pup,play with,play,play,VERB,Prolific
+5eadf7371f8db74abecd535f,pup,feed,feed,feed,VERB,Prolific
+5eadf7371f8db74abecd535f,pup,cuddle,cuddle,cuddle,VERB,Prolific
+5eadf7371f8db74abecd535f,pup,pet,pet,pet,VERB,Prolific
+5eadf7371f8db74abecd535f,pup,brush,brush,brush,INTJ,Prolific
+5eadf7371f8db74abecd535f,pup,walk,walk,walk,VERB,Prolific
+5eadf7371f8db74abecd535f,pup,teach,teach,teach,VERB,Prolific
+5eadf7371f8db74abecd535f,panhandler,give,give,give,VERB,Prolific
+5eadf7371f8db74abecd535f,panhandler,yell at,yell,yell,VERB,Prolific
+5eadf7371f8db74abecd535f,panhandler,talk to,talk,talk,VERB,Prolific
+5eadf7371f8db74abecd535f,panhandler,help,help,help,VERB,Prolific
+5eadf7371f8db74abecd535f,newlywed,dance,dance,dance,VERB,Prolific
+5eadf7371f8db74abecd535f,newlywed,hug,hug,hug,VERB,Prolific
+5eadf7371f8db74abecd535f,newlywed,kiss,kiss,kiss,VERB,Prolific
+5eadf7371f8db74abecd535f,newlywed,sign papers,sign,sign,VERB,Prolific
+5eadf7371f8db74abecd535f,newlywed,sign papers,papers,papers,NOUN,Prolific
+5eadf7371f8db74abecd535f,newlywed,party,party,party,NOUN,Prolific
+5eadf7371f8db74abecd535f,sheep,shave,shave,shave,VERB,Prolific
+5eadf7371f8db74abecd535f,sheep,feed,feed,feed,VERB,Prolific
+5eadf7371f8db74abecd535f,sheep,play,play,play,VERB,Prolific
+5eadf7371f8db74abecd535f,sheep,love,love,love,VERB,Prolific
+5eadf7371f8db74abecd535f,plaintiff,cross-examine,cross,cross,VERB,Prolific
+5eadf7371f8db74abecd535f,plaintiff,cross-examine,examine,examine,VERB,Prolific
+5eadf7371f8db74abecd535f,plaintiff,speak with,speak,speak,VERB,Prolific
+5eadf7371f8db74abecd535f,pigtail,wear,wear,wear,VERB,Prolific
+5eadf7371f8db74abecd535f,pigtail,takeout,takeout,take out,VERB,Prolific
+5eadf7371f8db74abecd535f,pigtail,style,style,style,VERB,Prolific
+5eadf7371f8db74abecd535f,velvet,wear,wear,wear,VERB,Prolific
+5eadf7371f8db74abecd535f,velvet,make with,make,make,VERB,Prolific
+5eadf7371f8db74abecd535f,velvet,decorate,decorate,decorate,VERB,Prolific
+5eadf7371f8db74abecd535f,tonic,drink,drink,drink,VERB,Prolific
+5eadf7371f8db74abecd535f,tonic,mix,mix,mix,VERB,Prolific
+5eadf7371f8db74abecd535f,tonic,display,display,display,VERB,Prolific
+5eadf7371f8db74abecd535f,bully,ignore,ignore,ignore,VERB,Prolific
+5eadf7371f8db74abecd535f,bully,hit,hit,hit,VERB,Prolific
+5eadf7371f8db74abecd535f,turbin,wear,wear,wear,VERB,Prolific
+5eadf7371f8db74abecd535f,leather,wear,wear,wear,VERB,Prolific
+5eadf7371f8db74abecd535f,leather,make with,make,make,VERB,Prolific
+5eadf7371f8db74abecd535f,leather,tan,tan,tan,VERB,Prolific
+5eadf7371f8db74abecd535f,ham,eat,eat,eat,VERB,Prolific
+5eadf7371f8db74abecd535f,ham,cook,cook,cook,VERB,Prolific
+5eadf7371f8db74abecd535f,ham,bake,bake,bake,VERB,Prolific
+5eadf7371f8db74abecd535f,ham,glaze,glaze,glaze,VERB,Prolific
+5eadf7371f8db74abecd535f,cattle,feed,feed,feed,VERB,Prolific
+5eadf7371f8db74abecd535f,cattle,herd,herd,herd,VERB,Prolific
+5eadf7371f8db74abecd535f,cattle,kill,kill,kill,VERB,Prolific
+5eadf7371f8db74abecd535f,cattle,milk,milk,milk,VERB,Prolific
+5eadf7371f8db74abecd535f,tampon,use,use,use,AUX,Prolific
+5eadf7371f8db74abecd535f,tampon,throw away,throw,throw away,VERB,Prolific
+5eadf7371f8db74abecd535f,tampon,unwrap,unwrap,unwrap,VERB,Prolific
+5eadf7371f8db74abecd535f,timber,cut,cut,cut,VERB,Prolific
+5eadf7371f8db74abecd535f,timber,mill,mill,mill,VERB,Prolific
+5eadf7371f8db74abecd535f,timber,saw,saw,see,VERB,Prolific
+5eadf7371f8db74abecd535f,timber,build,build,build,VERB,Prolific
+5eadf7371f8db74abecd535f,nylon,wear,wear,wear,VERB,Prolific
+5eadf7371f8db74abecd535f,nylon,make clothes,make,make,VERB,Prolific
+5eadf7371f8db74abecd535f,nylon,make clothes,clothes,clothe,NOUN,Prolific
+5eadf7371f8db74abecd535f,motor,oil,oil,oil,VERB,Prolific
+5eadf7371f8db74abecd535f,motor,repair,repair,repair,VERB,Prolific
+5eadf7371f8db74abecd535f,motor,use,use,use,AUX,Prolific
+5eadf7371f8db74abecd535f,virgin,have sex,sex,sex,VERB,Prolific
+5eadf7371f8db74abecd535f,thong,wear,wear,wear,VERB,Prolific
+5eadf7371f8db74abecd535f,thong,pick wedgie out,pick,pick,VERB,Prolific
+5eadf7371f8db74abecd535f,thong,pick wedgie out,wedgie,wedgie,VERB,Prolific
+5eadf7371f8db74abecd535f,polyester,wear,wear,wear,VERB,Prolific
+5eadf7371f8db74abecd535f,polyester,make clothes,make,make,VERB,Prolific
+5eadf7371f8db74abecd535f,polyester,make clothes,clothes,clothe,NOUN,Prolific
+5eadf7371f8db74abecd535f,apparatus,anything,anything,anything,PRON,Prolific
+5eadf7371f8db74abecd535f,tiller,till,till,till,VERB,Prolific
+5eadf7371f8db74abecd535f,tiller,repair,repair,repair,VERB,Prolific
+5eadf7371f8db74abecd535f,tiller,oil,oil,oil,NOUN,Prolific
+5eadf7371f8db74abecd535f,cardigan,wear,wear,wear,VERB,Prolific
+5eadf7371f8db74abecd535f,cardigan,clean,clean,clean,VERB,Prolific
+5eadf7371f8db74abecd535f,cardigan,throw away,throw,throw away,VERB,Prolific
+5eadf7371f8db74abecd535f,cardigan,burn,burn,burn,VERB,Prolific
+61074792728f0f9e791ad083,jurist,consult,consult,consult,VERB,Prolific
+61074792728f0f9e791ad083,jurist,pay,pay,pay,VERB,Prolific
+61074792728f0f9e791ad083,jurist,hire,hire,hire,VERB,Prolific
+61074792728f0f9e791ad083,jurist,fire ,fire,fire,VERB,Prolific
+61074792728f0f9e791ad083,cardigan,wear,wear,wear,VERB,Prolific
+61074792728f0f9e791ad083,cardigan,fold,fold,fold,VERB,Prolific
+61074792728f0f9e791ad083,cardigan,wash,wash,wash,VERB,Prolific
+61074792728f0f9e791ad083,cardigan,dry,dry,dry,VERB,Prolific
+61074792728f0f9e791ad083,cardigan,clean,clean,clean,VERB,Prolific
+61074792728f0f9e791ad083,cattle,farm,farm,farm,VERB,Prolific
+61074792728f0f9e791ad083,cattle,eat,eat,eat,VERB,Prolific
+61074792728f0f9e791ad083,cattle,herd,herd,herd,VERB,Prolific
+61074792728f0f9e791ad083,cattle,milk,milk,milk,VERB,Prolific
+61074792728f0f9e791ad083,cattle,sell,sell,sell,VERB,Prolific
+61074792728f0f9e791ad083,cattle,trade,trade,trade,VERB,Prolific
+61074792728f0f9e791ad083,virgin,impregnate,impregnate,impregnate,VERB,Prolific
+61074792728f0f9e791ad083,virgin,ignore,ignore,ignore,VERB,Prolific
+61074792728f0f9e791ad083,virgin,chastise,chastise,chastise,VERB,Prolific
+61074792728f0f9e791ad083,nylon,wear,wear,wear,VERB,Prolific
+61074792728f0f9e791ad083,nylon,cut,cut,cut,VERB,Prolific
+61074792728f0f9e791ad083,nylon,sew,sew,sew,VERB,Prolific
+61074792728f0f9e791ad083,nylon,wash,wash,wash,VERB,Prolific
+61074792728f0f9e791ad083,newlywed,economic gain,economic,economic,ADJ,Prolific
+61074792728f0f9e791ad083,newlywed,economic gain,gain,gain,VERB,Prolific
+61074792728f0f9e791ad083,newlywed,hotel reservation,hotel,hotel,NOUN,Prolific
+61074792728f0f9e791ad083,newlywed,hotel reservation,reservation,reservation,VERB,Prolific
+61074792728f0f9e791ad083,newlywed,sell flowers to,sell,sell,VERB,Prolific
+61074792728f0f9e791ad083,newlywed,sell flowers to,flowers,flower,NOUN,Prolific
+61074792728f0f9e791ad083,newlywed,sell champagne to,sell,sell,VERB,Prolific
+61074792728f0f9e791ad083,newlywed,sell champagne to,champagne,champagne,NOUN,Prolific
+61074792728f0f9e791ad083,timber,cut,cut,cut,VERB,Prolific
+61074792728f0f9e791ad083,timber,mill,mill,mill,VERB,Prolific
+61074792728f0f9e791ad083,timber,saw,saw,see,VERB,Prolific
+61074792728f0f9e791ad083,timber,grow,grow,grow,VERB,Prolific
+61074792728f0f9e791ad083,timber,buy,buy,buy,VERB,Prolific
+61074792728f0f9e791ad083,timber,sell,sell,sell,VERB,Prolific
+61074792728f0f9e791ad083,apparatus,use,use,use,AUX,Prolific
+61074792728f0f9e791ad083,apparatus,buy,buy,buy,VERB,Prolific
+61074792728f0f9e791ad083,apparatus,sell,sell,sell,VERB,Prolific
+61074792728f0f9e791ad083,apparatus,fix,fix,fix,VERB,Prolific
+61074792728f0f9e791ad083,apparatus,break,break,break,VERB,Prolific
+61074792728f0f9e791ad083,leather,wear,wear,wear,VERB,Prolific
+61074792728f0f9e791ad083,leather,weave,weave,weave,VERB,Prolific
+61074792728f0f9e791ad083,leather,shine,shine,shine,VERB,Prolific
+61074792728f0f9e791ad083,leather,polish,polish,polish,VERB,Prolific
+61074792728f0f9e791ad083,leather,cut,cut,cut,VERB,Prolific
+61074792728f0f9e791ad083,leather,buy,buy,buy,VERB,Prolific
+61074792728f0f9e791ad083,leather,sell,sell,sell,VERB,Prolific
+61074792728f0f9e791ad083,motor,to drive,drive,drive,VERB,Prolific
+61074792728f0f9e791ad083,motor,to propel,propel,propel,VERB,Prolific
+61074792728f0f9e791ad083,motor,to power,power,power,VERB,Prolific
+61074792728f0f9e791ad083,tonic,to mix,mix,mix,VERB,Prolific
+61074792728f0f9e791ad083,tonic,to fix,fix,fix,VERB,Prolific
+61074792728f0f9e791ad083,tonic,to dilute,dilute,dilute,VERB,Prolific
+61074792728f0f9e791ad083,tonic,to cure,cure,cure,VERB,Prolific
+61074792728f0f9e791ad083,polyester,wear,wear,wear,VERB,Prolific
+61074792728f0f9e791ad083,polyester,wash,wash,wash,VERB,Prolific
+61074792728f0f9e791ad083,polyester,make,make,make,VERB,Prolific
+61074792728f0f9e791ad083,polyester,sew,sew,sew,VERB,Prolific
+61074792728f0f9e791ad083,polyester,dry,dry,dry,VERB,Prolific
+61074792728f0f9e791ad083,polyester,cut,cut,cut,VERB,Prolific
+61074792728f0f9e791ad083,stall,store,store,store,VERB,Prolific
+61074792728f0f9e791ad083,stall,stop,stop,stop,VERB,Prolific
+61074792728f0f9e791ad083,tampon,to dam,dam,dam,VERB,Prolific
+61074792728f0f9e791ad083,tampon,to embarrass,embarrass,embarrass,VERB,Prolific
+61074792728f0f9e791ad083,tampon,for economic gain,economic,economic,ADJ,Prolific
+61074792728f0f9e791ad083,tampon,for economic gain,gain,gain,VERB,Prolific
+61074792728f0f9e791ad083,mitt,catch,catch,catch,VERB,Prolific
+61074792728f0f9e791ad083,mitt,scoop,scoop,scoop,VERB,Prolific
+61074792728f0f9e791ad083,mitt,hold,hold,hold,VERB,Prolific
+61074792728f0f9e791ad083,tiller,break dirt,break,break,VERB,Prolific
+61074792728f0f9e791ad083,tiller,break dirt,dirt,dirt,NOUN,Prolific
+61074792728f0f9e791ad083,tiller,rotate,rotate,rotate,VERB,Prolific
+61074792728f0f9e791ad083,tiller,aerate,aerate,aerate,VERB,Prolific
+61074792728f0f9e791ad083,tiller,grow,grow,grow,VERB,Prolific
+61074792728f0f9e791ad083,tiller,plant,plant,plant,VERB,Prolific
+61074792728f0f9e791ad083,plaintiff,defeat,defeat,defeat,VERB,Prolific
+61074792728f0f9e791ad083,plaintiff,outsmart,outsmart,outsmart,ADV,Prolific
+61074792728f0f9e791ad083,plaintiff,elude,elude,elude,VERB,Prolific
+61074792728f0f9e791ad083,bully,life lessons,life,life,NOUN,Prolific
+61074792728f0f9e791ad083,bully,life lessons,lessons,learn,VERB,Prolific
+61074792728f0f9e791ad083,dude,fun,fun,fun,VERB,Prolific
+61074792728f0f9e791ad083,dude,learning,learning,learn,VERB,Prolific
+61074792728f0f9e791ad083,dude,experience,experience,experience,VERB,Prolific
+61074792728f0f9e791ad083,dude,money,money,money,NOUN,Prolific
+61074792728f0f9e791ad083,dude,sex,sex,sex,VERB,Prolific
+61074792728f0f9e791ad083,dude,drugs,drugs,drug,VERB,Prolific
+61074792728f0f9e791ad083,dude,companionship,companionship,companion,VERB,Prolific
+61074792728f0f9e791ad083,dude,procreation,procreation,procreate,VERB,Prolific
+61074792728f0f9e791ad083,paperback,read,read,read,VERB,Prolific
+61074792728f0f9e791ad083,paperback,learn,learn,learn,VERB,Prolific
+61074792728f0f9e791ad083,paperback,think,think,think,VERB,Prolific
+61074792728f0f9e791ad083,paperback,expand,expand,expand,VERB,Prolific
+61074792728f0f9e791ad083,paperback,enjoy,enjoy,enjoy,VERB,Prolific
+61074792728f0f9e791ad083,paperback,impress,impress,impress,VERB,Prolific
+61074792728f0f9e791ad083,pigtail,pull,pull,pull,VERB,Prolific
+61074792728f0f9e791ad083,pigtail,organize,organize,organize,VERB,Prolific
+61074792728f0f9e791ad083,pigtail,fashion,fashion,fashion,NOUN,Prolific
+61074792728f0f9e791ad083,velvet,feel,feel,feel,VERB,Prolific
+61074792728f0f9e791ad083,velvet,protect,protect,protect,VERB,Prolific
+61074792728f0f9e791ad083,velvet,design,design,design,VERB,Prolific
+61074792728f0f9e791ad083,turbin,god's approval,approval,approval,NOUN,Prolific
+61074792728f0f9e791ad083,turbin,costume,costume,costume,VERB,Prolific
+61074792728f0f9e791ad083,turbin,movie set,movie,movie,NOUN,Prolific
+61074792728f0f9e791ad083,turbin,movie set,set,set,VERB,Prolific
+61074792728f0f9e791ad083,turbin,fear,fear,fear,VERB,Prolific
+61074792728f0f9e791ad083,turbin,misunderstanding,misunderstanding,misunderstand,VERB,Prolific
+61074792728f0f9e791ad083,pup,population,population,population,NOUN,Prolific
+61074792728f0f9e791ad083,pup,entertainment,entertainment,entertain,VERB,Prolific
+61074792728f0f9e791ad083,pup,amusement ,amusement,amuse,VERB,Prolific
+61074792728f0f9e791ad083,sheep,shear,shear,shear,VERB,Prolific
+61074792728f0f9e791ad083,sheep,milk,milk,milk,VERB,Prolific
+61074792728f0f9e791ad083,sheep,food,food,food,NOUN,Prolific
+61074792728f0f9e791ad083,ham,breakfast,breakfast,breakfast,VERB,Prolific
+61074792728f0f9e791ad083,ham,lunch,lunch,lunch,VERB,Prolific
+61074792728f0f9e791ad083,ham,dinner,dinner,dinner,VERB,Prolific
+61074792728f0f9e791ad083,panhandler,express your social political views,express,express,VERB,Prolific
+61074792728f0f9e791ad083,panhandler,express your social political views,social,social,ADJ,Prolific
+61074792728f0f9e791ad083,panhandler,express your social political views,political,political,ADJ,Prolific
+61074792728f0f9e791ad083,panhandler,express your social political views,views,views,NOUN,Prolific
+61074792728f0f9e791ad083,rat,as a pet,pet,pet,VERB,Prolific
+61074792728f0f9e791ad083,rat,as a scapegoat,scapegoat,scapegoat,VERB,Prolific
+61074792728f0f9e791ad083,cross,to kill people,kill,kill,VERB,Prolific
+61074792728f0f9e791ad083,cross,to kill people,people,people,NOUN,Prolific
+61074792728f0f9e791ad083,cross,to show people your religion,show,show,VERB,Prolific
+61074792728f0f9e791ad083,cross,to show people your religion,people,people,NOUN,Prolific
+61074792728f0f9e791ad083,cross,to show people your religion,religion,religion,NOUN,Prolific
+61074792728f0f9e791ad083,thong,to give erections,give,give,VERB,Prolific
+61074792728f0f9e791ad083,thong,to give erections,erections,erection,VERB,Prolific
+61074792728f0f9e791ad083,thong,to piss your mom off,piss,piss,NOUN,Prolific
+61074792728f0f9e791ad083,thong,to piss your mom off,mom,mom,X,Prolific
+61074792728f0f9e791ad083,thong,attention,attention,attention,VERB,Prolific
+61074792728f0f9e791ad083,thong,social status,social,social,ADJ,Prolific
+61074792728f0f9e791ad083,thong,social status,status,status,NOUN,Prolific
+62fbe4c86d484357b6adbc36,panhandler,begging,begging,begge,VERB,Prolific
+62fbe4c86d484357b6adbc36,tampon,female,female,female,ADJ,Prolific
+62fbe4c86d484357b6adbc36,tiller,shop?,shop,shop,VERB,Prolific
+62fbe4c86d484357b6adbc36,timber,wood,wood,wood,NOUN,Prolific
+62fbe4c86d484357b6adbc36,sheep,farming,farming,farm,VERB,Prolific
+62fbe4c86d484357b6adbc36,cattle,farming,farming,farm,VERB,Prolific
+62fbe4c86d484357b6adbc36,newlywed,marriage,marriage,marry,VERB,Prolific
+62fbe4c86d484357b6adbc36,polyester,wearing it,wearing,wear,VERB,Prolific
+62fbe4c86d484357b6adbc36,motor,driving,driving,drive,VERB,Prolific
+62fbe4c86d484357b6adbc36,velvet,colour,color,color,NOUN,Prolific
+62fbe4c86d484357b6adbc36,dude,male friend,male,male,NOUN,Prolific
+62fbe4c86d484357b6adbc36,dude,male friend,friend,friend,NOUN,Prolific
+62fbe4c86d484357b6adbc36,apparatus,activities,activities,activity,VERB,Prolific
+62fbe4c86d484357b6adbc36,cross,angry,angry,angry,ADJ,Prolific
+62fbe4c86d484357b6adbc36,paperback,read,read,read,VERB,Prolific
+62fbe4c86d484357b6adbc36,leather,wear,wear,wear,VERB,Prolific
+62fbe4c86d484357b6adbc36,ham,eat,eat,eat,VERB,Prolific
+62fbe4c86d484357b6adbc36,cardigan,wear,wear,wear,VERB,Prolific
+62fbe4c86d484357b6adbc36,turbin,religious,religious,religious,ADJ,Prolific
+62fbe4c86d484357b6adbc36,bully,hurting someone,hurting,hurt,VERB,Prolific
+62fbe4c86d484357b6adbc36,bully,hurting someone,someone,someone,PRON,Prolific
+62fbe4c86d484357b6adbc36,pup,dog,dog,dog,NOUN,Prolific
+62fbe4c86d484357b6adbc36,tonic,drink gin,drink,drink,VERB,Prolific
+62fbe4c86d484357b6adbc36,tonic,drink gin,gin,gin,NOUN,Prolific
+62fbe4c86d484357b6adbc36,stall,sitting down,sitting,sit,VERB,Prolific
+62fbe4c86d484357b6adbc36,thong,wearing,wearing,wear,VERB,Prolific
+62fbe4c86d484357b6adbc36,nylon,wearing,wearing,wear,VERB,Prolific
+62fbe4c86d484357b6adbc36,plaintiff,justic,justice,justice,NOUN,Prolific
+62fbe4c86d484357b6adbc36,rat,rodent,rodent,rodent,NOUN,Prolific
+62fbe4c86d484357b6adbc36,pigtail,hair,hair,hair,NOUN,Prolific
+62fbe4c86d484357b6adbc36,mitt,oven,oven,oven,ADV,Prolific

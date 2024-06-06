@@ -225,6 +225,8 @@ dat$Stimuli.Cue[dat$Stimuli.Cue == "newlywed"] = "newlyweds"
 #get rid of NAs
 dat = na.omit(dat)
 
+#write.csv(dat, file = "norms_IDs.csv", row.names = F)
+
 ####Write a loop?####
 ##subset by cue, get each n?
 ##remake cue-list
